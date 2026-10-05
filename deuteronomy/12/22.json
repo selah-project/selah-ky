@@ -7,21 +7,21 @@
   "chapter": 12,
   "notes": [
     {
-      "kind": "substitution",
-      "subject": "жейрен · булан",
-      "rationale": "צבי — жейрен (газель), האיל — булан (эркек булан); кыргызча так окшош жапайы жаныбар сөздөрү жок"
+      "kind": "elision",
+      "subject": "таза эмес да, таза да",
+      "rationale": "יַחְדָּו יֹאכְלֶנּוּ «чей алат» — бул жерде баяндооч бир гана жолу алынды, эки жолу кайталоо кыргызча ашыкча"
     },
     {
-      "kind": "alternative",
-      "subject": "таза эмес да, таза да жешет",
-      "rationale": "טמא\/טהור — ырымдык тазалык жөнүндө: ылайыксыз\/ылайыктуу да мүмкүн"
+      "kind": "substitution",
+      "subject": "бөкөн",
+      "rationale": "הַצְּבִי — көрүнүктүү сулуулук деген тамырдан; жаныбар катары бөкөн (газель) деп алынды"
     }
   ],
-  "translation": "Алайда ⟨את⟩ жейрен да, ⟨את⟩ булан да жегендей, сен аны ошондой жейсің; таза эмес да, таза да бирге жешет аны.",
+  "translation": "Арак гана, бөкөн ⟨את⟩ жана ⟨את⟩ элик кандай жейсиң, ошондой эле аны жейсиң; таза эмес да, таза да чогуу жей алат.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
     "user-sha256": "24d4ab57803fe0d9f39ed11301f9b80d35daecf5c9458fe737ec06f4dc4684d9",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/12\/22-22.1791225349926.json",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/12\/22-22.1791227371972.json",
     "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -30,41 +30,41 @@
   "tokens": [
     {
       "surface": "אך",
-      "gloss": "Алайда"
+      "gloss": "арак гана"
     },
     {
       "surface": "כאשר",
-      "gloss": "…дай"
+      "gloss": "кандай"
     },
     {
-      "surface": "ייאכל",
-      "gloss": "жегендей"
+      "surface": "יאכל",
+      "gloss": "жейсиң"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "жейрен"
+      "marks": "бөкөн"
     },
     {
       "surface": "הצבי",
-      "gloss": "жейрен"
+      "gloss": "бөкөн"
     },
     {
       "surface": "ואת",
       "gloss": "жана ⟨את⟩",
-      "marks": "булан"
+      "marks": "элик"
     },
     {
       "surface": "האיל",
-      "gloss": "булан"
+      "gloss": "элик"
     },
     {
       "surface": "כן",
-      "gloss": "ошондой"
+      "gloss": "ошондой эле"
     },
     {
       "surface": "תאכלנו",
-      "gloss": "сой жейсің"
+      "gloss": "аны жейсиң"
     },
     {
       "surface": "הטמא",
@@ -72,17 +72,17 @@
     },
     {
       "surface": "והטהור",
-      "gloss": "жана таза"
+      "gloss": "таза да"
     },
     {
       "surface": "יחדו",
-      "gloss": "бирге"
+      "gloss": "чогуу"
     },
     {
       "surface": "יאכלנו",
-      "gloss": "жешет аны"
+      "gloss": "жей алат"
     }
   ],
-  "timestamp": "2026-10-05T18:35:49.927037780Z",
+  "timestamp": "2026-10-05T19:09:31.973050805Z",
   "model": "glm-5.3"
 }

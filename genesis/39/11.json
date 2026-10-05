@@ -5,17 +5,87 @@
   "book": "genesis",
   "lang": "ky",
   "chapter": 39,
-  "translation": "Жана ушул күндөрдөн бир күнү Жусуп ⟨анын ысымы Ёсеф⟩ үйгө өз ишин аткаруу үчүн кirdi — бирок бул жерде ысым Птах бар жок. Түзөтөм:",
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "жана ... болчу",
+      "rationale": "Кыргыз баяндоосу үчүн кошулган байламдач жана жоктуу туюнтма; еврейче ויהי — аракеттүү «болду»"
+    },
+    {
+      "kind": "idiom",
+      "subject": "כהיום הזה",
+      "rationale": "Көчмө маани: «ушул күндөрдүн биринде», сөзмө-сөз «ушул күнгө окшогондо»"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הביתה \/ הבית \/ בבית",
+      "rationale": "«Үй» сөзү үч жолу кайталанып, жайдын боштугун баса белгилейт"
+    }
+  ],
+  "translation": "Жана ушул күндөрдүн биринде болду: ал үйгө өз ишин аткаруу үчүн кирип келди, жана үйдүн адамдарынын ичинен үйүндө эч бир адам жок болчу.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
     "user-sha256": "a5f61c0974a359b71490bf8af26d4aa543d206f23d4f6db7436e6e4dfedacdaf",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/39\/11-11.1791225020078.json",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/39\/11-11.1791227337741.json",
     "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
     "clean-room?": false
   },
-  "tokens": [],
-  "timestamp": "2026-10-05T18:30:20.078543031Z",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "болду"
+    },
+    {
+      "surface": "כהיום",
+      "gloss": "күндөрдүн биринде"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ушул"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "кирип келди"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "үйгө"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "аткаруу үчүн"
+    },
+    {
+      "surface": "מלאכתו",
+      "gloss": "өз ишин"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "жок"
+    },
+    {
+      "surface": "איש",
+      "gloss": "адам"
+    },
+    {
+      "surface": "מאנשי",
+      "gloss": "адамдарынын ичинен"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "үйдүн"
+    },
+    {
+      "surface": "שם",
+      "gloss": "анда"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "үйүндө"
+    }
+  ],
+  "timestamp": "2026-10-05T19:08:57.742122021Z",
   "model": "glm-5.3"
 }

@@ -7,26 +7,26 @@
   "chapter": 12,
   "notes": [
     {
-      "kind": "you",
-      "subject": "Йисраэлге",
-      "rationale": "Аят бүтүндөй Йисраэл элине 2-жакча кайрылуу менен айтылат."
-    },
-    {
       "kind": "idiom",
-      "subject": "משלח ידך",
-      "rationale": "Букм. «колуңдун жиберилишүүсү» — ишке ашыруу, кол жеткен нерселер деген идиома."
+      "subject": "כי אם",
+      "rationale": "Hebrew idiom כי אם after a prohibition means 'but\/rather', rendered as «Тескерисинче»"
     },
     {
       "kind": "substitution",
-      "subject": "жеш керек",
-      "rationale": "תאכלנו — этиштин жакшы нан формасы, кыргызча буйрук-милдет мааниси менен берилди."
+      "subject": "משלח ידך",
+      "rationale": "lit. 'the sending-out of your hand', i.e. every undertaking you put your hand to; rendered descriptively"
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "second-person singular address throughout, part of Moses' speech to Israel"
     }
   ],
-  "translation": "Жок, тескерисинче, Яхве Элохимиңдин алдында жеш керек — Яхве Элохимиң тандаган жерде: сен, уулуң да, кызың да, кулуң да, күңүң да жана дарбазаларыңдын ичиндеги левичи; жана колуң жиберген нерселердин баарында Яхве Элохимиңдин алдында кубанасың.",
+  "translation": "Тескерисинче, Яхве Элохимиңдин алдында жешин — Яхве Элохимиң тандаган жерде: сен, жана уулуң, жана кызың, жана кулуң, жана кыз кулуң, жана дарбазаларыңдын ичиндеги лебилик; жана Яхве Элохимиңдин алдында кубанып тур колуң жөнөткөн нерселердин баарында.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
     "user-sha256": "34c0abbd50180a6b90f3c2b5c73eea1cd7f6829772925fe417836ce100fbcb04",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/12\/18-18.1791225317471.json",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/12\/18-18.1791227377137.json",
     "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -35,7 +35,7 @@
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "жок"
+      "gloss": "кийинки"
     },
     {
       "surface": "אם",
@@ -55,7 +55,7 @@
     },
     {
       "surface": "תאכלנו",
-      "gloss": "жеш керек"
+      "gloss": "жешин"
     },
     {
       "surface": "במקום",
@@ -63,7 +63,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "тандаган жерде"
+      "gloss": "тандаган"
     },
     {
       "surface": "יבחר",
@@ -79,7 +79,7 @@
     },
     {
       "surface": "בו",
-      "gloss": "анда"
+      "gloss": "ошондо"
     },
     {
       "surface": "אתה",
@@ -87,35 +87,35 @@
     },
     {
       "surface": "ובנך",
-      "gloss": "уулуң да"
+      "gloss": "жана уулуң"
     },
     {
       "surface": "ובתך",
-      "gloss": "кызың да"
+      "gloss": "жана кызың"
     },
     {
       "surface": "ועבדך",
-      "gloss": "кулуң да"
+      "gloss": "жана кулуң"
     },
     {
       "surface": "ואמתך",
-      "gloss": "күңүң да"
+      "gloss": "жана кыз кулуң"
     },
     {
       "surface": "והלוי",
-      "gloss": "жана левичи"
+      "gloss": "жана лебилик"
     },
     {
       "surface": "אשר",
-      "gloss": "жашаған"
+      "gloss": "ичиндеги"
     },
     {
       "surface": "בשעריך",
-      "gloss": "дарбазаларыңдын ичинде"
+      "gloss": "дарбазаларыңдын"
     },
     {
       "surface": "ושמחת",
-      "gloss": "кубанасың"
+      "gloss": "жана кубанып тур"
     },
     {
       "surface": "לפני",
@@ -135,13 +135,13 @@
     },
     {
       "surface": "משלח",
-      "gloss": "жиберген"
+      "gloss": "жөнөткөн нерселердин"
     },
     {
       "surface": "ידך",
       "gloss": "колуң"
     }
   ],
-  "timestamp": "2026-10-05T18:35:17.472135379Z",
+  "timestamp": "2026-10-05T19:09:37.138138150Z",
   "model": "glm-5.3"
 }

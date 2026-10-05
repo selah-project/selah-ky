@@ -8,15 +8,20 @@
   "notes": [
     {
       "kind": "addition",
-      "subject": "жер",
-      "rationale": "אל менен הארץ кыргызча бир «жерге» түрүндө кошулду"
+      "subject": "—",
+      "rationale": "ал жерге: кыргыз тилинде аныктоо үчүн кошулду"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אתכם",
+      "rationale": "את + силер мүчөсү:direct-object белгиси жана -כם жүктөөчү; ⟨את⟩ катары белгиленди"
     }
   ],
-  "translation": "Йисраэлдин уулдарына сүйлө да, аларга айт: Мен силерди алып барган жерге, силер келгеніңерде",
+  "translation": "Йисраэлдин уулдарына сүйлөгүн жана аларга айт: Мен силерди алып барган жерге — ал жерге силер келгендеңэр",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
     "user-sha256": "ec1b3285499f9d4771365a92780f5c02ff79e5dd1b24190a7f8db43d2110e569",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/numbers\/15\/18-18.1791225236281.json",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/numbers\/15\/18-18.1791227303958.json",
     "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -25,11 +30,11 @@
   "tokens": [
     {
       "surface": "דבר",
-      "gloss": "сүйлө"
+      "gloss": "сүйлөгүн"
     },
     {
       "surface": "אל",
-      "gloss": "ага"
+      "gloss": "менен"
     },
     {
       "surface": "בני",
@@ -37,11 +42,11 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Йисраэл"
+      "gloss": "Йисраэлдин"
     },
     {
       "surface": "ואמרת",
-      "gloss": "да, айт"
+      "gloss": "жана айт"
     },
     {
       "surface": "אלהם",
@@ -49,19 +54,19 @@
     },
     {
       "surface": "בבאכם",
-      "gloss": "силер келгеніңерде"
+      "gloss": "силер келгендеңэр"
     },
     {
       "surface": "אל",
-      "gloss": "жерге"
+      "gloss": "менен"
     },
     {
       "surface": "הארץ",
-      "gloss": "жер"
+      "gloss": "жерге"
     },
     {
       "surface": "אשר",
-      "gloss": "кайсы"
+      "gloss": "ал"
     },
     {
       "surface": "אני",
@@ -69,18 +74,18 @@
     },
     {
       "surface": "מביא",
-      "gloss": "алып барам"
+      "gloss": "алып барган"
     },
     {
       "surface": "אתכם",
       "gloss": "⟨את⟩",
-      "marks": "силер"
+      "marks": "силерди"
     },
     {
       "surface": "שמה",
-      "gloss": "ошол жакка"
+      "gloss": "ошо жерге"
     }
   ],
-  "timestamp": "2026-10-05T18:33:56.281864074Z",
+  "timestamp": "2026-10-05T19:08:23.958684267Z",
   "model": "glm-5.3"
 }

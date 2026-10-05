@@ -8,20 +8,25 @@
   "notes": [
     {
       "kind": "addition",
-      "subject": "мүчө -сің",
-      "rationale": "Еврейче этиш жок, кыргызча атоочтук айтылыш үчүн мүчө кошулду"
+      "subject": "өзүң",
+      "rationale": "Emphatic pronoun הוא rendered as 'өзүң' — it IS in the Hebrew, expressing 'you yourself'"
+    },
+    {
+      "kind": "addition",
+      "subject": "сың",
+      "rationale": "Kyrgyz copula suffix required; Hebrew lacks an expressed verb"
     },
     {
       "kind": "crux",
-      "subject": "אתה הוא",
-      "rationale": "«Сен Өзүң» — JPS «Сен гана», YLT «Сен Өзүң»; басым көрсөтүүчү конструкция"
+      "subject": "וirtually על",
+      "rationale": "KJV 'promised' reads על as 'about\/concerning'; literal 'spoke concerning your servant this goodness'"
     }
   ],
-  "translation": "Азыр, Яхве, Сен Өзүң Элохимсің, жана Сен кулуңа ушул жакшылыкты айтып бергенсиң.",
+  "translation": "Азыр, Яхве, Сен өзүң Элохимсің, жана Сен Өз кулуңа бул жакшылыкты айттың.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
     "user-sha256": "f2ba47aa37e3d0d863e4fc67a1029f6fff18eb7495dfed6d32801bc6c442d5c3",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-chronicles\/17\/26-26.1791226404193.json",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-chronicles\/17\/26-26.1791227541949.json",
     "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -42,7 +47,7 @@
     },
     {
       "surface": "הוא",
-      "gloss": "Өзүң"
+      "gloss": "өзүң"
     },
     {
       "surface": "האלהים",
@@ -50,7 +55,7 @@
     },
     {
       "surface": "ותדבר",
-      "gloss": "айтып бергенсиң"
+      "gloss": "жана айттың"
     },
     {
       "surface": "על",
@@ -66,9 +71,9 @@
     },
     {
       "surface": "הזאת",
-      "gloss": "ушул"
+      "gloss": "бул"
     }
   ],
-  "timestamp": "2026-10-05T18:53:24.193962994Z",
+  "timestamp": "2026-10-05T19:12:21.950070260Z",
   "model": "glm-5.3"
 }

@@ -7,21 +7,26 @@
   "chapter": 17,
   "notes": [
     {
-      "kind": "crux",
-      "subject": "ערבים",
-      "rationale": "'каргалар' же окуу салты боюнча 'арабтар\/соодагерлер' (ערבים) — каргалар салттуу кабыл алынган окуу"
+      "kind": "addition",
+      "subject": "сени",
+      "rationale": "Ивритте ‘сени’ деген ачык атооч жок — ‘багууну’ этиштин түз толуктоочусу"
     },
     {
-      "kind": "you",
-      "subject": "Элиягага",
-      "rationale": "Яхве Элиягага кам көрүүнү убадалап сүйлөйт"
+      "kind": "elision",
+      "subject": "והיה",
+      "rationale": "‘Жана болот’ — кыргызча ажыратуучу байламча кошулду"
+    },
+    {
+      "kind": "substitution",
+      "subject": "наал",
+      "rationale": "נחל — кышкы агын суу\/терен; ‘наал’ еврейче айтылыш менен алынды"
     }
   ],
-  "translation": "Жана найладан суу ичесиң, жана ⟨את⟩ каргalarга ал жерде сени багууну буюрдум.",
+  "translation": "Жана болот: ал наалдан ичесиң, жана ⟨את⟩ каргаларга ал жерде сени багууну буюрдум.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
-    "user-sha256": "ee85b1d83fae225a111b764c6b2fcbb30272835e244a4454c7dc81e86ebb7c68",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-kings\/17\/3-4.1791225648684.json",
+    "user-sha256": "21f0cea942a70dd9a58f6b1cb4d7e49d5fb54bc39ef5e4cc5ca3adc9389f5ae9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-kings\/17\/4-4.1791227426145.json",
     "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -30,11 +35,11 @@
   "tokens": [
     {
       "surface": "והיה",
-      "gloss": "жана болот"
+      "gloss": "болот"
     },
     {
       "surface": "מהנחל",
-      "gloss": "найладан"
+      "gloss": "наалдан"
     },
     {
       "surface": "תשתה",
@@ -54,14 +59,14 @@
       "gloss": "буюрдум"
     },
     {
-      "surface": "לכלכלך",
-      "gloss": "сени багууну"
+      "surface": "לכלכלכה",
+      "gloss": "багууну"
     },
     {
       "surface": "שם",
       "gloss": "ал жерде"
     }
   ],
-  "timestamp": "2026-10-05T18:40:48.685010203Z",
+  "timestamp": "2026-10-05T19:10:26.146482279Z",
   "model": "glm-5.3"
 }

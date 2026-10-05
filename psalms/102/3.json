@@ -7,26 +7,31 @@
   "chapter": 102,
   "notes": [
     {
+      "kind": "substitution",
+      "subject": "ысык",
+      "rationale": "צַר 'тар, кысынган жер' — кыргызча 'ысык' (кыйынчылык) деген сын атооч катары берилди"
+    },
+    {
       "kind": "idiom",
-      "subject": "жүзүңдү жашырба",
-      "rationale": "עלום פנים 'жүзүн жашыруу' — ырайымын токтотуу деген еврей идиомасы"
+      "subject": "жүзүңдү жашыраба",
+      "rationale": "עַל־תַּסְתֵּר פָּנֶיךָ — 'жүзүңдү жашыруу' бүткөл идиома, адаттагы 'жүзүңдү буруу' эмес"
     },
     {
       "kind": "you",
       "subject": "Яхвеге",
-      "rationale": "Толук аят — Яхвеге тике кайрылуу, үч императив менен"
+      "rationale": "Жалбаруу — адам Юхве адресат"
     },
     {
-      "kind": "wordplay",
-      "subject": "צר",
-      "rationale": "'тар' деген сөз — орун да, азап да; кыргызча 'кысын' экөөнө жакын"
+      "kind": "invitation",
+      "subject": "чакыруу",
+      "rationale": "Аят — үч буйрук: жашыраба, жайылт, жооп бер"
     }
   ],
-  "translation": "Жүзүңдү мenden жашырба, кысын күнүмдө; кулагыңды мага бур; чакырган күнүмдө тез жооп бер мага.",
+  "translation": "Жүзүңдү менин ысык күнүмдө менден жашыраба, кулагыңды мага жайылт, мен чакырган күнү тез жооп бер мага.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
-    "user-sha256": "53b3c837eff5b3d903281fa59f46277e0ef42a4b10181df080b35bc6f6935ada",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/102\/2-3.1791226160874.json",
+    "user-sha256": "0c0912405c969e806e3342feb40d2668f3e860ce77f3534b77c00a845e90f3cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/102\/3-3.1791227510806.json",
     "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -35,11 +40,11 @@
   "tokens": [
     {
       "surface": "אל",
-      "gloss": "–ба"
+      "gloss": "жашыраба"
     },
     {
       "surface": "תסתר",
-      "gloss": "жашыр"
+      "gloss": "жашыраба"
     },
     {
       "surface": "פניך",
@@ -51,19 +56,19 @@
     },
     {
       "surface": "ביום",
-      "gloss": "күнү"
+      "gloss": "күнүмдө"
     },
     {
       "surface": "צר",
-      "gloss": "кысын"
+      "gloss": "ысык"
     },
     {
       "surface": "לי",
-      "gloss": "мендин"
+      "gloss": "менин"
     },
     {
       "surface": "הטה",
-      "gloss": "бур"
+      "gloss": "жайылт"
     },
     {
       "surface": "אלי",
@@ -90,6 +95,6 @@
       "gloss": "жооп бер мага"
     }
   ],
-  "timestamp": "2026-10-05T18:49:20.874975242Z",
+  "timestamp": "2026-10-05T19:11:50.807481022Z",
   "model": "glm-5.3"
 }

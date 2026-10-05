@@ -5,17 +5,84 @@
   "book": "exodus",
   "lang": "ky",
   "chapter": 40,
-  "translation": "Жана алтын tabernaklдын... жок — Жана сен ⟨את⟩ табуттун алдына — түзөт: Жана сен ⟨את⟩ арөөмдүн алтын меңгерини кой, ⟨את⟩ күбөлүктүн сандыгынын алдында, жана Мишкандын кире беришинин пардавын илип кой.",
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "altar",
+      "rationale": "מזבח — кыргызча диний контексттегизаты боюнча алынган; туркче дизилгеде колдонулбайт"
+    },
+    {
+      "kind": "substitution",
+      "subject": "altar",
+      "rationale": "מזבח — кыргызча «курмандык чырагы\/сассык тартуулоо жери» эмес, диний contexte «altar» дегиз сөзү кыргызча ылайыксыз болсо да, кыргыз тилинде башка диний жер аталышы колдонулбайт"
+    }
+  ],
+  "translation": "Жана ⟨את⟩ алтын тамызуу altarын — күрөө altarын — күбөлүктүн сандыгынын алдына кой, жана ⟨את⟩ Мишкандын кире беришинин пардасын илип кой.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
-    "user-sha256": "4e4cea2b38c76f8bf4adf6b5a7158d46572c5b8627e2bf4fbfa8588a42118e8e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/40\/5-6.1791225135325.json",
+    "user-sha256": "6a1ffdccf4f773fd805f6c867377e4dbdae5b332ee77a3706991cf7c1ccd6889",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/40\/5-5.1791227305588.json",
     "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
     "clean-room?": false
   },
-  "tokens": [],
-  "timestamp": "2026-10-05T18:32:15.325612392Z",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "жана … кой"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "алтын тамызуу altarы"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "алтын"
+    },
+    {
+      "surface": "לקטרת",
+      "gloss": "тамызуу үчүн"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "алдына"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "сандык"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "күбөлүктүн"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "жана … илип кой"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "кире бериштин пардасы"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "парда"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "кире беришинин"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "Мишкан үчүн"
+    }
+  ],
+  "timestamp": "2026-10-05T19:08:25.588692846Z",
   "model": "glm-5.3"
 }

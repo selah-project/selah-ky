@@ -8,25 +8,20 @@
   "notes": [
     {
       "kind": "addition",
-      "subject": "⟨ол⟩",
-      "rationale": "Еврейче этиштин атооччусуна тиешелүү ат атооч жок; кыргызча сүйлөм талап кылды."
-    },
-    {
-      "kind": "substitution",
-      "subject": "куткаруу",
-      "rationale": "להושיע — «коопсуз кылуу, бошотуу, жеңиш берүү» маанисинде; «куткаруучу» кыргызча диний коннотацияга ээ болушу мүмкүн."
+      "subject": "⟨Анын Өзү⟩",
+      "rationale": "Hebrew article+participle ההולך is predicate emphasis; Kyrgyz needs the pronoun to carry it"
     },
     {
       "kind": "you",
-      "subject": "Йисраэлге",
-      "rationale": "Согушка бараткан элге — Йисраэлге убада-сөз."
+      "subject": "to Israel",
+      "rationale": "direct reassurance to the troops assembled for battle"
     }
   ],
-  "translation": "анткени силердин Элохимиңер Яхве — силер менен жүргөн, силердин душмандарыңар менен силер үчүн согушуучу жана силерди ⟨את⟩ kutkarуучу ⟨ол⟩.",
+  "translation": "анткени Яхве, силердин Элохимеңер, силер менен жүргөн ⟨Анын Өзү⟩ — силер үчүн душмандарыңар менен согушууга, ⟨את⟩ силерди кучactoого.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
-    "user-sha256": "bc5827fb85b25eb90056e9dbebe690ba62d1fcc9aeb51b7bc6ca78a77e373389",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/20\/3-4.1791225384166.json",
+    "user-sha256": "c6e610c4f886e06212a13ab435e5d302cd588087c9f1de16925c209d9ef0f2b7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/20\/4-4.1791227379584.json",
     "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -43,11 +38,11 @@
     },
     {
       "surface": "אלהיכם",
-      "gloss": "Элохимиңер"
+      "gloss": "силердин Элохимеңер"
     },
     {
       "surface": "ההלך",
-      "gloss": "жүргөн"
+      "gloss": "жүргөн ⟨Анын Өзү⟩"
     },
     {
       "surface": "עמכם",
@@ -55,7 +50,7 @@
     },
     {
       "surface": "להלחם",
-      "gloss": "согушуучу"
+      "gloss": "согушууга"
     },
     {
       "surface": "לכם",
@@ -71,14 +66,14 @@
     },
     {
       "surface": "להושיע",
-      "gloss": "kutkarуучу"
+      "gloss": "кучактоо"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩",
+      "gloss": "⟨את⟩ силерди",
       "marks": "силерди"
     }
   ],
-  "timestamp": "2026-10-05T18:36:24.167060977Z",
+  "timestamp": "2026-10-05T19:09:39.584819964Z",
   "model": "glm-5.3"
 }

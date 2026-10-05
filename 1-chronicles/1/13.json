@@ -7,16 +7,21 @@
   "chapter": 1,
   "notes": [
     {
-      "kind": "alternative",
-      "subject": "туғду",
-      "rationale": "Иештин жөнөкөй котормосу: «Кенаан Цидонду... жана Хетти туғду» — тизмекти таза калтыруу."
+      "kind": "addition",
+      "subject": "туунду",
+      "rationale": "Аппозитивдик түзүүлүш үчүн кошулду; ивритте בכרו жөнөкөй эле жакындаш"
+    },
+    {
+      "kind": "measurement",
+      "subject": "биринчи туулганы",
+      "rationale": "Genealogy list, birth-order terms"
     }
   ],
-  "translation": "Жана Кенаан ⟨את⟩ Цидондун тууган агасы эмес, түркүк эмес — Кенаан ⟨את⟩ Цидону, биринчи туулганын, жана ⟨את⟩ Хетти туғду.",
+  "translation": "Жана Кенаан ⟨את⟩ Цидондун туунду — биринчи туулганын — жана ⟨את⟩ Хетти тууду.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
     "user-sha256": "730cef1cb3c9e1528b90af01c403798b6e6ab7f826448ab7d5abb2e54b6f6981",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-chronicles\/1\/13-13.1791226375967.json",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-chronicles\/1\/13-13.1791227512379.json",
     "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -25,24 +30,24 @@
   "tokens": [
     {
       "surface": "וכנען",
-      "gloss": "жана Кенаан"
+      "gloss": "Жана Кенаан"
     },
     {
       "surface": "ילד",
-      "gloss": "туғду"
+      "gloss": "тууду"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Цидонду"
+      "marks": "Цидондун"
     },
     {
       "surface": "צידון",
-      "gloss": "Цидонду"
+      "gloss": "Цидон"
     },
     {
       "surface": "בכרו",
-      "gloss": "биринчи туулганын"
+      "gloss": "биринчи туулганы"
     },
     {
       "surface": "ואת",
@@ -51,9 +56,9 @@
     },
     {
       "surface": "חת",
-      "gloss": "Хетти"
+      "gloss": "Хет"
     }
   ],
-  "timestamp": "2026-10-05T18:52:55.968134682Z",
+  "timestamp": "2026-10-05T19:11:52.380056388Z",
   "model": "glm-5.3"
 }

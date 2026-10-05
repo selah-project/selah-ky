@@ -8,25 +8,25 @@
   "notes": [
     {
       "kind": "addition",
-      "subject": "бирок",
-      "rationale": "Еврей текстинде карама-каршылык байламтасы жок, тексти байланыштыруу үчүн кошулду"
+      "subject": "Жана",
+      "rationale": "Hebrew vav-consecutive rendered as 'Жана'"
     },
     {
       "kind": "substitution",
-      "subject": "мүчө",
-      "rationale": "מצדת — байыркы котормолордо «мунара», «бекар» дагы берилет; «чеп» бекем жай маанисин сактайт"
+      "subject": "чеб",
+      "rationale": "מצדת literally 'net\/capture\/fastness' — stronghold, fortress"
     },
     {
-      "kind": "you",
-      "subject": "Давидге",
-      "rationale": "Йебустун жашоочулары Давидге түздөн-түз кайрылып айтышат"
+      "kind": "addition",
+      "subject": "Бирок",
+      "rationale": "Hebrew has no adversative; context contrast supplied"
     }
   ],
-  "translation": "Жана Йебустун жашоочулары Давидге айтышты: Бул жерге кирбейсің. Бирок Давид Цийондун чебин ⟨את⟩ басып алды — ал Давиддин шаары.",
+  "translation": "Жана Йебустун жашоочулары Давидге айтышты: Сен бул жерге кирбейсің. Бирок Давид ⟨את⟩ Цийондун чебин басып алды — ал — Давиддин шаары.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
     "user-sha256": "aee723906bd15d89b51522b4e24c9dbda45fcf4234fb2f08ab3353a4f9d63d80",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-chronicles\/11\/5-5.1791226383735.json",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-chronicles\/11\/5-5.1791227544303.json",
     "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -35,7 +35,7 @@
   "tokens": [
     {
       "surface": "ויאמרו",
-      "gloss": "жана айтышты"
+      "gloss": "айтышты"
     },
     {
       "surface": "ישבי",
@@ -63,7 +63,7 @@
     },
     {
       "surface": "וילכד",
-      "gloss": "бирок басып алды"
+      "gloss": "басып алды"
     },
     {
       "surface": "דויד",
@@ -76,7 +76,7 @@
     },
     {
       "surface": "מצדת",
-      "gloss": "чеп"
+      "gloss": "чебин"
     },
     {
       "surface": "ציון",
@@ -95,6 +95,6 @@
       "gloss": "Давиддин"
     }
   ],
-  "timestamp": "2026-10-05T18:53:03.735972966Z",
+  "timestamp": "2026-10-05T19:12:24.304013752Z",
   "model": "glm-5.3"
 }
