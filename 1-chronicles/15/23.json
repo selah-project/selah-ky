@@ -9,14 +9,19 @@
     {
       "kind": "addition",
       "subject": "болду",
-      "rationale": "Еврейче этиш жок; кыргызча байламча-этиш кошулду"
+      "rationale": "Еврей текстинде этиш жок; кыргыз тили айтымды талап кылат"
+    },
+    {
+      "kind": "substitution",
+      "subject": "сандык",
+      "rationale": "לארון келишим сандык — Ысык Сандык, бирок сөздүн формасы «сандык» бойдон калды"
     }
   ],
-  "translation": "Жана Бerekjа жана Элкана сандыктын дарбаза кызматкерлери болду.",
+  "translation": "Жана Берехья жана Элкана сандыктын дарбазачылары болду.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
-    "user-sha256": "c4b9973b9f589e02ff6405fb49708380bfafdf468028fa8d49a63cafc96c21f8",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-chronicles\/15\/21-24.1791228661716.json",
+    "user-sha256": "e88ae38a6376ff2aebd4c243b5da02403860e0dfc5335ecb61c52055d2e99982",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-chronicles\/15\/23-23.1791229802293.json",
     "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -25,21 +30,21 @@
   "tokens": [
     {
       "surface": "וברכיה",
-      "gloss": "Берекья"
+      "gloss": "жана Берехья"
     },
     {
       "surface": "ואלקנה",
-      "gloss": "Элкана"
+      "gloss": "жана Элкана"
     },
     {
       "surface": "שערים",
-      "gloss": "дарбаза кызматкерлери"
+      "gloss": "дарбазачылары"
     },
     {
       "surface": "לארון",
       "gloss": "сандыктын"
     }
   ],
-  "timestamp": "2026-10-05T19:31:01.717644921Z",
+  "timestamp": "2026-10-05T19:50:02.294122624Z",
   "model": "glm-5.3"
 }
