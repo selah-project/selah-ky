@@ -8,25 +8,20 @@
   "notes": [
     {
       "kind": "addition",
-      "subject": "өзүң",
-      "rationale": "Emphatic pronoun הוא rendered as 'өзүң' — it IS in the Hebrew, expressing 'you yourself'"
+      "subject": "Өзүң",
+      "rationale": "הוא эмфатикалык ат атооч — Сен Өзүң, кыргызча басым үчүн сакталды"
     },
     {
-      "kind": "addition",
-      "subject": "сың",
-      "rationale": "Kyrgyz copula suffix required; Hebrew lacks an expressed verb"
-    },
-    {
-      "kind": "crux",
-      "subject": "וirtually על",
-      "rationale": "KJV 'promised' reads על as 'about\/concerning'; literal 'spoke concerning your servant this goodness'"
+      "kind": "substitution",
+      "subject": "жакшылык",
+      "rationale": "הטובה «жакшылык, жакшы нерсе» — «убада» деген котормо (KJV promised) текстеги сөз эмес"
     }
   ],
-  "translation": "Азыр, Яхве, Сен өзүң Элохимсің, жана Сен Өз кулуңа бул жакшылыкты айттың.",
+  "translation": "Азыр, Яхве, Сен Өзүң Элохимсің, жана Сен ⟨өз⟩ кулуңа ушул жакшылыкты айтып бердиң.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
     "user-sha256": "f2ba47aa37e3d0d863e4fc67a1029f6fff18eb7495dfed6d32801bc6c442d5c3",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-chronicles\/17\/26-26.1791227541949.json",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-chronicles\/17\/26-26.1791228645368.json",
     "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -47,7 +42,7 @@
     },
     {
       "surface": "הוא",
-      "gloss": "өзүң"
+      "gloss": "Өзүң"
     },
     {
       "surface": "האלהים",
@@ -55,11 +50,11 @@
     },
     {
       "surface": "ותדבר",
-      "gloss": "жана айттың"
+      "gloss": "жана айтып бердиң"
     },
     {
       "surface": "על",
-      "gloss": "жөнүндө"
+      "gloss": "жөнүндө ⟨жөнүндө айттың⟩"
     },
     {
       "surface": "עבדך",
@@ -71,9 +66,9 @@
     },
     {
       "surface": "הזאת",
-      "gloss": "бул"
+      "gloss": "ушул"
     }
   ],
-  "timestamp": "2026-10-05T19:12:21.950070260Z",
+  "timestamp": "2026-10-05T19:30:45.368660038Z",
   "model": "glm-5.3"
 }
