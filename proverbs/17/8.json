@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 17:8",
+  "book": "proverbs",
+  "lang": "ky",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בעליו",
+      "rationale": "'анын ээси' (параны берген адам) же 'анын алган жери' — биринчи тандалды"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ийгилик табат",
+      "rationale": "ישכיל букв. 'акыл-насаат кылат, аң-сезимдүү иштейт' — 'тийиштүү иш кылат' дагы мүмкүн"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ырайым ташы",
+      "rationale": "חן — 'ылайыктуулук, кооздук' да; 'ээсине жагымдуу таш' деген окуу мүмкүн"
+    }
+  ],
+  "translation": "Пара — анын ээсинин көзүнө ырайым ташы; ал бурулган ар бир жакка ийгилик табат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "7a87d983accc2290c15828830f664af899b684e8e6921402010114f4e44a659f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/17\/5-8.1791218111945.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אבן",
+      "gloss": "таш"
+    },
+    {
+      "surface": "חן",
+      "gloss": "ырайым"
+    },
+    {
+      "surface": "השחד",
+      "gloss": "пара"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "көзүнө"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "анын ээсинин"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ка"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ар бир"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ал бурулган"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "бурулса"
+    },
+    {
+      "surface": "ישכיל",
+      "gloss": "ийгилик табат"
+    }
+  ],
+  "timestamp": "2026-10-05T16:35:11.946914464Z",
+  "model": "glm-5.3"
+}

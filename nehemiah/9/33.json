@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "nehemiah 9:33",
+  "book": "nehemiah",
+  "lang": "ky",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "мыйзамсыздык кылдык",
+      "rationale": "הרשענו — 'биз жаман болдук\/жамандык кылдык' деген этиш, кыргызча этиш керек болуп калды"
+    },
+    {
+      "kind": "addition",
+      "subject": "нерселердин",
+      "rationale": "Ивритте 'келгенинн баарында' — 'нерсе' сөзү кошулду"
+    }
+  ],
+  "translation": "Жана Сен биздин үстүбүзгө келген нерселердин баарында цадиксиң, анткени чындык кылдың, ал эми биз мыйзамсыздык кылдык.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "312c281a512d87c77cca641c60289677f61b5d9d584a10fe5e581e18eb3ed82a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/nehemiah\/9\/33-36.1791221509376.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "жана Сен"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "цадик"
+    },
+    {
+      "surface": "על",
+      "gloss": "боюнча"
+    },
+    {
+      "surface": "כל",
+      "gloss": "баарында"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "келген"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "биздин үстүбүзгө"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "чындык"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "кылдың"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "ал эми биз"
+    },
+    {
+      "surface": "הרשענו",
+      "gloss": "мыйзамсыздык кылдык"
+    }
+  ],
+  "timestamp": "2026-10-05T17:31:49.376612163Z",
+  "model": "glm-5.3"
+}

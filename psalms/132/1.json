@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 132:1",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 132,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Яхвеге",
+      "rationale": "Давид Яхвеге багыштап айткан тилек, Жыйнак 131–132 жөнүндө ырдоочу чакырат."
+    },
+    {
+      "kind": "substitution",
+      "subject": "кыйынчылыктарын",
+      "rationale": "ענותו — «басынтылгандыктарын» деген сөз, кыргызча «кыйынчылык» деген табигый форма тандылды."
+    }
+  ],
+  "translation": "Өрүлөөлөрдүн ыры. Эсте, Яхве, Давид үчүн ⟨את⟩ анын бардык кыйынчылыктарын.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "50160d280066b0494859aabfcbb8bb1f0ae07e90f934b48a4e3f5fdb316ab3d6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/132\/1-4.1791217465828.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "ыры"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "Өрүлөөлөрдүн"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "Эсте"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давид үчүн"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "анын бардык кыйынчылыктарын"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бардык"
+    },
+    {
+      "surface": "ענותו",
+      "gloss": "кыйынчылыктарын"
+    }
+  ],
+  "timestamp": "2026-10-05T16:24:25.829135166Z",
+  "model": "glm-5.3"
+}

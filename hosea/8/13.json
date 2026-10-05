@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "hosea 8:13",
+  "book": "hosea",
+  "lang": "ky",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "הבהבי",
+      "rationale": "hawahav — өтө сейрек сөз, өрттөлүүчү белек курмандыгы; 'белектерим' деп айтылды"
+    },
+    {
+      "kind": "addition",
+      "subject": "Менин",
+      "rationale": "Ивритте 1-жак мүчөсү הבהבИ аркылуу берилет, кыргызча ачык айтуу үчүн кошулду"
+    },
+    {
+      "kind": "crux",
+      "subject": "ויפקד",
+      "rationale": "пакад: 'текшерет\/эстеп келет' же 'жазалайт' — кыргызчага 'жазасын берет' деп тандылды"
+    }
+  ],
+  "translation": "Менин белектеримдин курмандыктарын союшат — эт, жана жейишет; Яхве аларды жактырган жок. Азыр Ал алардын кунөөлөрүн эстейт жана күнөөлөрүнүн жазасын берет; алар Мицрайимге кайтышат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "d532d7ad060efe1ecd558a908edcfab5e23df5d0d59e92a736c475e2f71b1fab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/hosea\/8\/13-14.1791213941992.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זבחי",
+      "gloss": "курмандыктарын"
+    },
+    {
+      "surface": "הבהבי",
+      "gloss": "белектеримдин"
+    },
+    {
+      "surface": "יזבחו",
+      "gloss": "союшат"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "эт"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "жана жейишет"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "רצם",
+      "gloss": "жактырган"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "азыр"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "эстейт"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "кунөөлөрүн"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "жана жазасын берет"
+    },
+    {
+      "surface": "חטאותם",
+      "gloss": "күнөөлөрүнүн"
+    },
+    {
+      "surface": "המה",
+      "gloss": "алар"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицрайимге"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "кайтышат"
+    }
+  ],
+  "timestamp": "2026-10-05T15:25:41.993246395Z",
+  "model": "glm-5.3"
+}

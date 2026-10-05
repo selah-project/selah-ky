@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 28:12",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "סלם",
+      "rationale": "сулам 'баскыч' — бүт Танахта бир гана бул жерде кездешет"
+    },
+    {
+      "kind": "substitution",
+      "subject": "периште",
+      "rationale": "מלאך 'элчи' — 'периште' салттуу дiniй термин, лексика 'элчи' дейт"
+    },
+    {
+      "kind": "mystery",
+      "subject": "түш",
+      "rationale": "жашырылган кабар берилүүчү түш — асмандагы баскыч түшүндүрүлбөйт"
+    }
+  ],
+  "translation": "Жана ал түш көрдү: жана мына, баскыч жерге тик тигилген, анын башы асманга жетип турат; жана мына, Элохимдин периштелери ага өрдөп жана түшүп жатышат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "21fc7755373c638033cd02844917e04d96be732a48242a722026efd8f4952ed4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/28\/9-12.1791201279336.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחלם",
+      "gloss": "түш көрдү"
+    },
+    {
+      "surface": "ו הנה",
+      "gloss": "жана мына"
+    },
+    {
+      "surface": "סלם",
+      "gloss": "баскыч"
+    },
+    {
+      "surface": "מצב",
+      "gloss": "тигилген"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "жерге"
+    },
+    {
+      "surface": "וראשו",
+      "gloss": "анын башы"
+    },
+    {
+      "surface": "мגיע",
+      "gloss": "жетип турат"
+    },
+    {
+      "surface": "השמימה",
+      "gloss": "асманга"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "жана мына"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "периштелери"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохимдин"
+    },
+    {
+      "surface": "עלים",
+      "gloss": "өрдөп"
+    },
+    {
+      "surface": "וירדים",
+      "gloss": "түшүп"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ага"
+    }
+  ],
+  "timestamp": "2026-10-05T11:54:39.337475469Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 79:6",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 79,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "элдер",
+      "rationale": "הגוים — бөтөн, Ысымды билбеген элдер; «каапыр» же «бутпараст» деген далил жок."
+    },
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "gloss-rationale": "Кыргызча салыштырма атооч үчүн айрым сөз талап кылынбайт."
+    },
+    {
+      "kind": "you",
+      "subject": "Яхвеге",
+      "rationale": "Буйрук формасындагы тилеке — Яхвеге түз кайрылуу."
+    }
+  ],
+  "translation": "Төк ⟨את⟩ кардыңды Сени билбеген элдердин үстүнө жана Сенин ысымың менен чакырышпаган падышалыктардын үстүнө.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "15a0883b600fa9aa4aceb3a70cbf18f2add7ec6a9f697d6a881499ad8fa30ebb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/79\/5-8.1791216705964.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "төк"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "карыңды"
+    },
+    {
+      "surface": "אל",
+      "gloss": "үстүнө"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "элдердин"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "לא",
+      "gloss": "билбеген… эмес"
+    },
+    {
+      "surface": "ידעוך",
+      "gloss": "Сени билбеген"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "жана… үстүнө"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "падышалыктардын"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "Сенин ысымың менен"
+    },
+    {
+      "surface": "לא",
+      "gloss": "чакырышпаган"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "чакырышпаган"
+    }
+  ],
+  "timestamp": "2026-10-05T16:11:45.964938874Z",
+  "model": "glm-5.3"
+}

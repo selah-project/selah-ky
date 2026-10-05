@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 12:12",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "бул",
+      "gloss": "",
+      "rationale": "Кыргызча айтымга керек болгон 'бул' — кашаа ичинде эмес, 'бул — бул анын аялы' деген айтымда кошулду"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אתי \/ ואתך",
+      "rationale": "Мени-өлтүрүү жана сени-тирүү калтыруу — айтыштын так каршылыгы, хиазм сымал түзүлүш"
+    }
+  ],
+  "translation": "Жана болот: мисирликтер сени ⟨את⟩ көрүшсө, 'бул — бул анын аялы' дешет, мени ⟨את⟩ өлтүрүшөт, ал эми сени ⟨את⟩ тирүү калтырышат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "596020d65f7a38f423404b9cf007f7e5e44b919d107830cf17094fec29cbb118",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/12\/9-12.1791200922128.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "жана болот"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "көрүшсө"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "сени"
+    },
+    {
+      "surface": "המצרים",
+      "gloss": "мисирликтер"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "дешет"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "анын аялы"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "бул"
+    },
+    {
+      "surface": "והרגו",
+      "gloss": "өлтүрүшөт"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "мени"
+    },
+    {
+      "surface": "ואתך",
+      "gloss": "⟨את⟩",
+      "marks": "сени"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "тирүү калтырышат"
+    }
+  ],
+  "timestamp": "2026-10-05T11:48:42.129450907Z",
+  "model": "glm-5.3"
+}

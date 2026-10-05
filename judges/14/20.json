@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 14:20",
+  "book": "judges",
+  "lang": "ky",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ותהי למרעהו",
+      "rationale": "Йылт: 'аялы жолдошуна айланды' (YLT) же 'берилди' (KJV\/ASV\/JPS); пассив жок, lamed-формасы эки окууну да укурайт"
+    },
+    {
+      "kind": "substitution",
+      "subject": "רעה",
+      "rationale": "бул жерде этиш 'кой багуу' эмес, רֵעָה 'жолдош' зат аты — көп котормолор 'friend' деп берет"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨берилди⟩",
+      "rationale": "еврейче 'болду' деген гана; 'берилди' контексттен кошулду"
+    }
+  ],
+  "translation": "жана Шимшондун аялы анын жолдошуна ⟨берилди⟩ — ал ага жолдош болгон адамына.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "c2cc6b07cad7cddb5aefd836456075ac1ec5a25b2115540602c88176981f5726",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/judges\/14\/20-20.1791223822045.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "болду"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "аялы"
+    },
+    {
+      "surface": "שמשון",
+      "gloss": "Шимшондун"
+    },
+    {
+      "surface": "למרעהו",
+      "gloss": "анын жолдошуна"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ал"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "жолдош"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ага"
+    }
+  ],
+  "timestamp": "2026-10-05T18:10:22.046111156Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 23:18",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "על חמץ",
+      "rationale": "'ачыткы нан үстүнө' же 'ачыткы нан менен бирге' — кан ачыткы нанга кошулуп чыгарылбашы керекпи же бирге курмандык чыгаруу тыюлубайбы"
+    },
+    {
+      "kind": "substitution",
+      "subject": "חגי",
+      "rationale": "'майрамым' — YLT да ошондой; көпчүлүк котормолор 'курмандыгым' дейт, бирок сөз חג — майрам"
+    },
+    {
+      "kind": "you",
+      "subject": "Исраил элине",
+      "rationale": "тыюу сактамдары түз адрес катары айтылат"
+    }
+  ],
+  "translation": "Менин курмандыгымдын канын ачыткы нан менен чыгарба, жана мейн майрамымдын майы таңга чейин калбашы керек.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "62b24199962a811747ff5d2728526c7f5b115435ef9b37156accf5b4ede11b2f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/23\/17-20.1791202307356.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "תזבח",
+      "gloss": "чыгарба"
+    },
+    {
+      "surface": "על",
+      "gloss": "…үстүнө"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "ачыткы нан"
+    },
+    {
+      "surface": "דם",
+      "gloss": "кан"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "менин курмандыгым"
+    },
+    {
+      "surface": "ו",
+      "gloss": "жана"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "калбашы керек"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "май"
+    },
+    {
+      "surface": "חגי",
+      "gloss": "мейн майрамым"
+    },
+    {
+      "surface": "עד",
+      "gloss": "чейин"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "таң"
+    }
+  ],
+  "timestamp": "2026-10-05T12:11:47.357601683Z",
+  "model": "glm-5.3"
+}

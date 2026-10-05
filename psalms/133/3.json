@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 133:3",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 133,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חרמון\/ציון",
+      "rationale": "Хермон жана Цийон географиялык алыс — метафора же байланыш боюнча котормочулар талашкан"
+    },
+    {
+      "kind": "addition",
+      "subject": "сыяктуу",
+      "rationale": "Салыштыруу 1-аятка уланып турат, байланыштыргыч кошулду"
+    }
+  ],
+  "translation": "Хермондун шүүдүрүмү сыяктуу — Цийондун тоолоруна түшкөндөй, анткени ал жерде Яхве ⟨את⟩ батаны буюруду — түбөлүккө өмүрдү.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "cd01cf1a5aa45a65271cdcac5b8a3fb10b8fa8c1e3c8645086da0e7163124107",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/133\/1-3.1791217441240.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כטל",
+      "gloss": "шүүдүрүмү сыяктуу"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "Хермондун"
+    },
+    {
+      "surface": "שירד",
+      "gloss": "түшкөндөй"
+    },
+    {
+      "surface": "על",
+      "gloss": "тоолоруна"
+    },
+    {
+      "surface": "הררי",
+      "gloss": "тоолору"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Цийондун"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ал жерде"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "буюруду"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "батаны"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "батаны"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "өмүрдү"
+    },
+    {
+      "surface": "עד",
+      "gloss": "түбөлүккө"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "түбөлүк"
+    }
+  ],
+  "timestamp": "2026-10-05T16:24:01.241423013Z",
+  "model": "glm-5.3"
+}

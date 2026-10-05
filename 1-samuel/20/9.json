@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 20:9",
+  "book": "1-samuel",
+  "lang": "ky",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "חלילה לך",
+      "rationale": "«Аян, сага ал болбосун» — еврейче «жиренусууна жакын нерсе болсун» деген каргыш-төгүнүү идиомасынын кыргызча equivalents."
+    },
+    {
+      "kind": "crux",
+      "subject": "ки а Elkarta aitu",
+      "rationale": "כי אם... ולא айкашы: «билсем айтпай койбойм» (суроо түрүндө) же «билгенимде айтпасам» (шарттуу) — котормолор бөлүнөт."
+    }
+  ],
+  "translation": "Жонатан айтты: Аян, сага ал болбосун! Анткени эгер атамдын жамандыгы бүтүп, сенин үстүңө келээрин так билсем, сага ⟨את⟩ аны айтпай койбойм.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "03924d1eebdc0209d38b74c0b14454b86f1dbc754af54ebb17c442db381cd99b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-samuel\/20\/9-12.1791207018863.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Жонатан"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "аян"
+    },
+    {
+      "surface": "לך",
+      "gloss": "сага"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "אם",
+      "gloss": "эгер"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "билсем"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "так билүү"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "כלתה",
+      "gloss": "бүтүп"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "жамандыгы"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "тапкан"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "атамдын"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "келээрин"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "сенин үстүңө"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "аны"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "айтпай койбойм"
+    },
+    {
+      "surface": "לך",
+      "gloss": "сага"
+    }
+  ],
+  "timestamp": "2026-10-05T13:30:18.863860865Z",
+  "model": "glm-5.3"
+}

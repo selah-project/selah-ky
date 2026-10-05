@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 64:1",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 64,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תבעה",
+      "rationale": "KJS 'causeth to boil' vs катмарлашкан 'каары кайнайт'; бул жерде от сууну кайнатат мааниси алынды"
+    },
+    {
+      "kind": "substitution",
+      "subject": "צריך",
+      "rationale": "сөзмө-сөз 'тар жерде калгандар' — бул жерде 'тарларыңа' (душман)"
+    }
+  ],
+  "translation": "Чөптү от күйгүзгөндөй, от сууларды кайнаткандай — Атыңды тарларыңа билдирүү үчүн, Сенин жүзүңдөн элдер калтыраш үчүн.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "fe4dfc82da3d97c8f4d128d680314a8745bc027acab1784efe46624721794721",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/64\/1-4.1791210535007.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כקדח",
+      "gloss": "күйгүзгөндөй"
+    },
+    {
+      "surface": "אש",
+      "gloss": "от"
+    },
+    {
+      "surface": "המסים",
+      "gloss": "чөптү"
+    },
+    {
+      "surface": "מים",
+      "gloss": "сууларды"
+    },
+    {
+      "surface": "תבעה",
+      "gloss": "кайнаткандай"
+    },
+    {
+      "surface": "אש",
+      "gloss": "от"
+    },
+    {
+      "surface": "להודיע",
+      "gloss": "билдирүү үчүн"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Атыңды"
+    },
+    {
+      "surface": "לצריך",
+      "gloss": "тарларыңа"
+    },
+    {
+      "surface": "мפניך",
+      "gloss": "Сенин жүзүңдөн"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "элдер"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "калтыраш үчүн"
+    }
+  ],
+  "timestamp": "2026-10-05T14:28:55.008375523Z",
+  "model": "glm-5.3"
+}

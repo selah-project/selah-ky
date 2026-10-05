@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 111:7",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 111,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Анын",
+      "rationale": "pronoun on פקודיו supplied as possessive where Kyrgyz syntax requires explicit owner before the noun"
+    }
+  ],
+  "translation": "Анын колдорунун иштери чындык жана өкүм; Анын буйруктарынын баары бекем ишенимдүү.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "6ac6105171b3cc244d57c5875fc5bb9ca82c2c5f9d24bd5aea6be085fb81f9ce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/111\/5-8.1791217195034.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מעשי",
+      "gloss": "иштери"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "колдорунун"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "чындык"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "жана өкүм"
+    },
+    {
+      "surface": "נאמנים",
+      "gloss": "бекем ишенимдүү"
+    },
+    {
+      "surface": "כל",
+      "gloss": "баары"
+    },
+    {
+      "surface": "פקודיו",
+      "gloss": "Анын буйруктарынын"
+    }
+  ],
+  "timestamp": "2026-10-05T16:19:55.042475767Z",
+  "model": "glm-5.3"
+}

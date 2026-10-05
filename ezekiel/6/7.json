@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 6:7",
+  "book": "ezekiel",
+  "lang": "ky",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨экенимди⟩",
+      "rationale": "еврейче жөнүндөө атооч жок: «Мен Яхве», кыргызча байламча талап кылат"
+    },
+    {
+      "kind": "crux",
+      "subject": "сөңгөктөр",
+      "rationale": "חלל — «жараланган, сыйкырдалган»; айрым которуулар «өлтүрүлгөндөр», айрымдары «жаралангандар» деп беришет"
+    },
+    {
+      "kind": "you",
+      "subject": "силердин ортоңуздо",
+      "rationale": "кайрылуу Йисраэл элине багытталган"
+    }
+  ],
+  "translation": "Силердин ортоңуздо сөңгөктөр жыгылат, жана силер Менин Яхве ⟨экенимди⟩ билесиңер.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "ff8ef4e60a891e2b5ad546b2ca22b976be2285ce1d7afd100ea97d45a04f0419",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ezekiel\/6\/5-8.1791212133257.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונפל",
+      "gloss": "жыгылат"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "сөңгөктөр"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "силердин ортоңуздо"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "жана силер … билесиңер"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…ги"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Менин"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-10-05T14:55:33.258904316Z",
+  "model": "glm-5.3"
+}

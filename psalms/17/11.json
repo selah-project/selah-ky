@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 17:11",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨бизди⟩",
+      "rationale": "Ивритте объект айтылбайт, 'жыгыш үчүн' деген маанини ачыш үчүн кошулду"
+    },
+    {
+      "kind": "crux",
+      "subject": "лנטות בארץ",
+      "rationale": "'Жерге чөктүрүү' же 'жерде адаштыруу' — эки окуу бар"
+    }
+  ],
+  "translation": "Азыр биздин кадамдарыбызда мени курчап алышты; көздөрүн жерге ийүүгө — ⟨бизди⟩ жыгыш үчүн — коюшту.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "1051d1864eb3c2253e73aeb6880d5cfcb51971bf845197d87d89482d38a35f2c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/17\/9-12.1791215442609.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשרינו",
+      "gloss": "биздин кадамдарыбызда"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "азыр"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "мени курчап алышты"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "көздөрүн"
+    },
+    {
+      "surface": "יושיתו (יָשִׁיתוּ)",
+      "gloss": "коюшту"
+    },
+    {
+      "surface": "לנטות",
+      "gloss": "ийүүгө"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "жерге"
+    }
+  ],
+  "timestamp": "2026-10-05T15:50:42.610539117Z",
+  "model": "glm-5.3"
+}

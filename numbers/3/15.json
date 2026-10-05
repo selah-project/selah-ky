@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 3:15",
+  "book": "numbers",
+  "lang": "ky",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "Мошеге буйрук",
+      "rationale": "פקד буйрук мамилеси — эсептөөгө чакыруу."
+    },
+    {
+      "kind": "measurement",
+      "subject": "Левилерди эсептөө",
+      "rationale": "Үй-бүлө жана аталардын үйү боюнча санак, жаштын төмөнкү чеги (бир ай) көрсөтүлгөн."
+    }
+  ],
+  "translation": "Левинин уулдарын ⟨את⟩ алардын аталарынын үйлөрү боюнча, үй-бүлөлөрү боюнча эсептегиле: бир айлык уулдан жогору ар бир эркекти санагын.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "85dd3c746009793a061aa1c43851e077650f1735c992a698cb687c767e121685",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/numbers\/3\/13-16.1791203607533.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פקד",
+      "gloss": "эсептегиле"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Левинин уулдарын"
+    },
+    {
+      "surface": "בני",
+      "gloss": "уулдарын"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Левинин"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "үйлөрү боюнча"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "алардын аталарынын"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "үй-бүлөлөрү боюнча"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ар бир"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "эркек"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "уулдан"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "бир айлык"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "жана жогору"
+    },
+    {
+      "surface": "תפקדם",
+      "gloss": "санагын"
+    }
+  ],
+  "timestamp": "2026-10-05T12:33:27.534922645Z",
+  "model": "glm-5.3"
+}

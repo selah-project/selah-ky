@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 57:10",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 57,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "'Үмүт жок'",
+      "rationale": "נואש — 'коркунучтуу, үмүт үзгөн' сыяктуу кыска айтылыш, кыргызча сүйлөм кылды."
+    },
+    {
+      "kind": "crux",
+      "subject": "колуңдун жандуулугун",
+      "rationale": "חית ידך: KJV 'жашоону таптың', ASV\/JPS 'күч-кубаттанысыңды таптың' — букв. 'колуңдун жаны'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "על כן לא חלית",
+      "rationale": "орун-каршылык: 'ошондуктан алсызабагансың' — арыз сүйлөмдүн үнү."
+    }
+  ],
+  "translation": "Жолдоруңдун көптүгүндөн чарчадың, бирок 'Үмүт жок' деп айткан жоксуң; колуңдун жандуулугун таптың, ошондуктан ооруган жоксуң.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "5735c8a1ba59377e8468bb88754dda52b4bd843a1e36de3c8ad930adee054dfd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/57\/9-12.1791210438747.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברב",
+      "gloss": "көптүгүндөн"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "жолдоруңдун"
+    },
+    {
+      "surface": "יגעת",
+      "gloss": "чарчадың"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "айткан"
+    },
+    {
+      "surface": "נואש",
+      "gloss": "'Үмүт жок'"
+    },
+    {
+      "surface": "חית",
+      "gloss": "жандуулугун"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "колуңдун"
+    },
+    {
+      "surface": "מצאת",
+      "gloss": "таптың"
+    },
+    {
+      "surface": "על",
+      "gloss": "ошондуктан"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ошону үчүн"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "חלית",
+      "gloss": "ооруган"
+    }
+  ],
+  "timestamp": "2026-10-05T14:27:18.748752918Z",
+  "model": "glm-5.3"
+}

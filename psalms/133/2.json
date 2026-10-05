@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 133:2",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 133,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כשמן הטוב",
+      "rationale": "Салыштыруу 1-аятка уланат: 'ал — жакшы май сыяктуу'; кыргызча салыштыруу формасы менен берилди"
+    },
+    {
+      "kind": "substitution",
+      "subject": "פי מדותיו",
+      "rationale": "Буквалдык 'кийимдеринин оозу' — жака\/рубашка жагасы деген маани"
+    }
+  ],
+  "translation": "Жакшы май башка төгүлгөндөй — сакалга, Ахарондун сакалына түшүп, анын кийимдеринин оозуна чейин жеткендей.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "cd01cf1a5aa45a65271cdcac5b8a3fb10b8fa8c1e3c8645086da0e7163124107",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/133\/1-3.1791217441240.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כשמן",
+      "gloss": "Жакшы май башка төгүлгөндөй"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "жакшы"
+    },
+    {
+      "surface": "על",
+      "gloss": "башка"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "баш"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "түшүп"
+    },
+    {
+      "surface": "על",
+      "gloss": "сакалга"
+    },
+    {
+      "surface": "הזקן",
+      "gloss": "сакал"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "сакал"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Ахарондун"
+    },
+    {
+      "surface": "שירד",
+      "gloss": "жеткендей"
+    },
+    {
+      "surface": "על",
+      "gloss": "чейин"
+    },
+    {
+      "surface": "פי",
+      "gloss": "оозуна"
+    },
+    {
+      "surface": "מדותיו",
+      "gloss": "кийимдеринин"
+    }
+  ],
+  "timestamp": "2026-10-05T16:24:01.241180504Z",
+  "model": "glm-5.3"
+}

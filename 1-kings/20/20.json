@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 20:20",
+  "book": "1-kings",
+  "lang": "ky",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "איש אישו",
+      "rationale": "«ар бир өз адамын» — эки איש тын кайталануусу, кыргызча «ар бири — өз адамын» деп берилди"
+    },
+    {
+      "kind": "substitution",
+      "subject": "качып кутулду",
+      "rationale": "וימלט — «кутулду»; качуу контексттен кошулду, анткени ал ат үстүндө качып бараткан"
+    }
+  ],
+  "translation": "Жана ар бири өз адамын сабады, жана Арам качты, жана Йисраэл аларды кууду, жана Арам падышасы Бен-Хадад ат менен жана атчан аскерлер менен качып кутулду.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "5f5bdb97ea07a41ac4c5c839b48a3919a649ae3cbb4d6e15ce7a2a64f0f365d2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-kings\/20\/17-20.1791208533778.json",
+    "code": "641241cf-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויכו",
+      "gloss": "Жана ... сабады"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ар бири"
+    },
+    {
+      "surface": "אישו",
+      "gloss": "өз адамын"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "жана ... качты"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Арам"
+    },
+    {
+      "surface": "וירדפם",
+      "gloss": "жана аларды кууду"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэл"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "жана качып кутулду"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Бен-"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Хадад"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "падышасы"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Арам"
+    },
+    {
+      "surface": "על",
+      "gloss": "... менен"
+    },
+    {
+      "surface": "סוס",
+      "gloss": "ат"
+    },
+    {
+      "surface": "ופרשים",
+      "gloss": "жана атчан аскерлер"
+    }
+  ],
+  "timestamp": "2026-10-05T13:55:33.779490474Z",
+  "model": "glm-5.3"
+}

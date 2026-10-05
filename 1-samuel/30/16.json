@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 30:16",
+  "book": "1-samuel",
+  "lang": "ky",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "майрамдап",
+      "rationale": "חגג «тыйын иретинде айлануу, майрам кылуу» — KJV «dancing», JPS «feasting»: «майрамдап» эки маанини камтыйт"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "партicip аткылма",
+      "rationale": "אכלים ושתים וחגגים — үч катарган Particip: жеп-ичип-майрамдап, ыргак жоголбой калды"
+    }
+  ],
+  "translation": "Ал аны алып түштү, жана мына, алар бүт жердин үстүнө чачылып жатышкан — жеп, ичип, плиштилердин жеринен жана Йехуда жеринен алган чоң олжонун баары менен майрамдап жатышкан.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "f73069f458c3c8329b7fb56c6e0b6994870cdd8633f6e2ed9eec8c5d7fa54ce4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-samuel\/30\/13-16.1791207274119.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויורידהו",
+      "gloss": "алып түштү"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "жана мына"
+    },
+    {
+      "surface": "נטושים",
+      "gloss": "чачылып жатышкан"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстүнө"
+    },
+    {
+      "surface": "פני",
+      "gloss": "бетине"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүт"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "жердин"
+    },
+    {
+      "surface": "אכלים",
+      "gloss": "жеп"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "ичип"
+    },
+    {
+      "surface": "וחגגים",
+      "gloss": "майрамдап"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "баары менен"
+    },
+    {
+      "surface": "השלל",
+      "gloss": "олжонун"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "чоң"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "...ди"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "алган"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "жеринен"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "плиштилердин"
+    },
+    {
+      "surface": "ומארץ",
+      "gloss": "жана жеринен"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Йехуда"
+    }
+  ],
+  "timestamp": "2026-10-05T13:34:34.120330133Z",
+  "model": "glm-5.3"
+}

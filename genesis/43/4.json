@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 43:4",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "ישך",
+      "rationale": "«сенде бар» — туура эле кыргызча жазылууга жок, «жиберсең» ичинде эрип калды"
+    }
+  ],
+  "translation": "Эгерде ⟨את⟩ бир тууганыбызды ⟨את⟩ биз-менен жиберсең, биз түшөбүз жана сага азык сатып алабыз.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "66c4e9997bb67ef74b608405aa853af9eb13d71845dc3f98c0a7fa5a4fe718e3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/43\/1-4.1791201668128.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "эгерде"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "каалооң бар болсо"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "жиберсең"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "бир тууганыбызды"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "бир тууганыбызды"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ биз-менен"
+    },
+    {
+      "surface": "נרדה",
+      "gloss": "түшөбүз"
+    },
+    {
+      "surface": "ונשברה",
+      "gloss": "жана астык сатып алабыз"
+    },
+    {
+      "surface": "לך",
+      "gloss": "сага"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "азык"
+    }
+  ],
+  "timestamp": "2026-10-05T12:01:08.129966516Z",
+  "model": "glm-5.3"
+}

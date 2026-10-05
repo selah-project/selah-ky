@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "job 36:24",
+  "book": "job",
+  "lang": "ky",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "כי",
+      "rationale": "байламта сөз катары көтөрүлбөй калды"
+    },
+    {
+      "kind": "crux",
+      "subject": "שררו",
+      "rationale": "שיר «ырдашты» (KJV «behold» бөлөк окуу) же שרר «башкарышты» — тамыр талашы"
+    },
+    {
+      "kind": "invitation",
+      "subject": "буйрук",
+      "rationale": "«Эсте... улуулант» — окурманга буйрук"
+    }
+  ],
+  "translation": "Эсте, Анын ишин улуулант — аны адамдар ыр менен даңктаган.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "16bfc0e0c1d310dabd981c34c189b76ce34f0ab8153a2b58f1fbbe53bc20355a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/job\/36\/21-24.1791219342027.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "зכר",
+      "gloss": "эсте"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "תשגיא",
+      "gloss": "улуулант"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "Анын ишин"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "аны"
+    },
+    {
+      "surface": "שררו",
+      "gloss": "ыр менен даңктаган"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "адамдар"
+    }
+  ],
+  "timestamp": "2026-10-05T16:55:42.028636927Z",
+  "model": "glm-5.3"
+}

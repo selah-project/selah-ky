@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "hosea 4:17",
+  "book": "hosea",
+  "lang": "ky",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨бергиле⟩",
+      "rationale": "Ивриттин жөнөкөй буйругу кыргызча этиш мүчөсүн талап кылат"
+    },
+    {
+      "kind": "crux",
+      "subject": "חבור עצבים",
+      "rationale": "«Буттарга кошулду» — жин\/сиңирүү мааниси да бар (коркутма сөз), бирок салттык окуу — «айланышты»"
+    }
+  ],
+  "translation": "Буттарга кошулган Эфрайим — аны өзүнө коюп ⟨бергиле⟩.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "623db11338dc7f46d03e3c62fb8039bbcad6eed2e692d53b58b3080dd4d302d7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/hosea\/4\/17-19.1791213776133.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חבור",
+      "gloss": "кошулган"
+    },
+    {
+      "surface": "עצבים",
+      "gloss": "буттарга"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Эфрайим"
+    },
+    {
+      "surface": "הנח",
+      "gloss": "коюп бер"
+    },
+    {
+      "surface": "לו",
+      "gloss": "өзүнө"
+    }
+  ],
+  "timestamp": "2026-10-05T15:22:56.133402997Z",
+  "model": "glm-5.3"
+}

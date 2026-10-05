@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 24:5",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "цедек",
+      "rationale": "צדקה 'адилеттик' эмес, тамырдын өзү 'цедек' бойдон сакталат"
+    },
+    {
+      "kind": "addition",
+      "subject": "ал",
+      "rationale": "Ивритте субъекти жок, алдынкы аяттагы 'таза колу бар адам' болжолдуу субъект"
+    }
+  ],
+  "translation": "Ал Яхведен ⟨את⟩ батаны алат жана өз куткаруучусунун Элохиминен цедек алат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "6f551de92922aac10d996a88c62ddc366ac90a7bf740575a5aa3540fdeac51f5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/24\/5-8.1791215720874.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישא",
+      "gloss": "алат"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "бата"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "Яхведен"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "жана цедек"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "Элохиминен"
+    },
+    {
+      "surface": "ישעו",
+      "gloss": "куткаруучусунун"
+    }
+  ],
+  "timestamp": "2026-10-05T15:55:20.874962208Z",
+  "model": "glm-5.3"
+}

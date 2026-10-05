@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "jeremiah 51:45",
+  "book": "jeremiah",
+  "lang": "ky",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Менин",
+      "rationale": "еврейче עמי эгелик мүчөсүз — «элим» деген сөз кыргызча так, бирок сүйлөм башына ⟨Менин⟩ айкындоо кошулду"
+    },
+    {
+      "kind": "substitution",
+      "subject": "жан",
+      "rationale": "נפש — «дем алуучу жандык, жашоо күчү»; «жан» кыргызча эң жакын форма"
+    },
+    {
+      "kind": "invitation",
+      "subject": "чыгыңар",
+      "rationale": "Элге багытталган буйрук — Яхве Өз элин Вавилондон чыгууга чакырат"
+    },
+    {
+      "kind": "you",
+      "subject": "Менин элим",
+      "rationale": "Яхве Өз элине түздөн-түз кайрылат"
+    }
+  ],
+  "translation": "⟨Менин⟩ элим, анын ичинен чыгыңар, жана ар бир адам ⟨את⟩ жанын Яхвенин каарынын ызаасынан куткарып алсын.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "41683d93fd285dc3c3c82ccec9514e66dd74b9de66325b1b0e2692b7cdfe438e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/jeremiah\/51\/45-48.1791212025294.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צאו",
+      "gloss": "чыгыңар"
+    },
+    {
+      "surface": "מתוכה",
+      "gloss": "анын ичинен"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "элим"
+    },
+    {
+      "surface": "ומלטו",
+      "gloss": "жана куткарып алсын"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ар бир адам"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "жанын"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "жанын"
+    },
+    {
+      "surface": "מחרון",
+      "gloss": "ызаасынан"
+    },
+    {
+      "surface": "אף",
+      "gloss": "каарынын"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    }
+  ],
+  "timestamp": "2026-10-05T14:53:45.295067068Z",
+  "model": "glm-5.3"
+}

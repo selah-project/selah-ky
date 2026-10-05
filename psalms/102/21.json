@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 102:21",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 102,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "өлүм уулдары",
+      "rationale": "בני תמותה туура түзүлүшү 'өлүмдүн уулдары'; көп котормолор 'өлүмгө буюрилгандар' деп жумшартылган"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לשמע ... לפתח",
+      "rationale": "эки infinitive -ל мүчөсү менен ыргактуу параллелизм, кыргызча '-пойнча\/-нча' формалары менен берилди"
+    }
+  ],
+  "translation": "Камалгандын ый-закымын укпайлынча, өлүм уулдарын бошотпойнча",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "1a911999b1db84bce8f509248ec33996601627511da2e7176016adf9601d03eb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/102\/21-24.1791216947719.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "укпайлынча"
+    },
+    {
+      "surface": "אנקת",
+      "gloss": "ый-закымын"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "камалгандын"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "бошотпойнча"
+    },
+    {
+      "surface": "בני",
+      "gloss": "уулдарын"
+    },
+    {
+      "surface": "תמותה",
+      "gloss": "өлүм"
+    }
+  ],
+  "timestamp": "2026-10-05T16:15:47.720325024Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 23:17",
+  "book": "proverbs",
+  "lang": "ky",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כי אם",
+      "rationale": "בъра Если 'כי אם' — 'бирок айрыкча' маанисиндеги\tidиома, 'анткени эгер' эмес."
+    },
+    {
+      "kind": "substitution",
+      "subject": "күнү-түнү",
+      "rationale": "כל היום букв. 'бүткүл күн' — 'күнү-түнү' дайыма деген мааниде."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨бол⟩",
+      "rationale": "Еврей тилинде этиш жок, кыргызча айкындама талап кылат."
+    },
+    {
+      "kind": "you",
+      "subject": "уулга",
+      "rationale": "Атанын уулуна багытталган насыят, экинчи жак."
+    }
+  ],
+  "translation": "Жүрөгүң күнөөкөрлөрдү каңкорлобосун, бирок Яхвенин коркуусунда ⟨бол⟩ күнү-түнү тур.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "fed1001da8e9e5cb021f68ee88ec0019e4515ee69cb8fa2ad3fa5657dd334ac9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/23\/17-20.1791218329641.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "жок"
+    },
+    {
+      "surface": "יקנא",
+      "gloss": "каңкорлобосун"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "жүрөгүң"
+    },
+    {
+      "surface": "בחטאים",
+      "gloss": "күнөөкөрлөрдү"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бирок"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ачык"
+    },
+    {
+      "surface": "ביראת",
+      "gloss": "коркуусунда"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    },
+    {
+      "surface": "כל",
+      "gloss": "күнү-түнү"
+    },
+    {
+      "surface": "היום",
+      "gloss": "күн"
+    }
+  ],
+  "timestamp": "2026-10-05T16:38:49.641715328Z",
+  "model": "glm-5.3"
+}

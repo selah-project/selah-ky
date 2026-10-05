@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 25:10",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "сандык",
+      "rationale": "ארון — жөн эке «ишик\/сандык»; «Келишим сандык» деген кошумча жок"
+    },
+    {
+      "kind": "measurement",
+      "subject": "чыканак",
+      "rationale": "Амар (אמה) — чыканак өлчөмү; өлчөмдөр так сакталды"
+    }
+  ],
+  "translation": "Жана алар шитим дарактан сандык жасашсын: узундугу эки чыканак жарым, туурасы бир чыканак жарым, бийиктиги бир чыканак жарым.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "ee373294631b19d6f72f876a528b328eb08cf3d35438145d3cf68c8988146930",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/25\/9-12.1791202385518.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "Жана жасашсын"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "сандык"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "дарактан"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "шитим"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "эки чыканак"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "жарым"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "узундугу"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "бир чыканак"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "жарым"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "туурасы"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "бир чыканак"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "жарым"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "бийиктиги"
+    }
+  ],
+  "timestamp": "2026-10-05T12:13:05.519671029Z",
+  "model": "glm-5.3"
+}

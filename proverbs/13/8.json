@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 13:8",
+  "book": "proverbs",
+  "lang": "ky",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жан",
+      "rationale": "נפש — «жан» дегендин ордуна «дем алуучу жандык, жашоо күчү»; бул жерде «жашоо» маанисинде"
+    },
+    {
+      "kind": "crux",
+      "subject": "לא שמע גערה",
+      "rationale": "«коркотууну укпайт» — жакыр тилдөөгө кабылбайт деген позитивдүү окуу (KJV), же ага караба d'эл (BSB: hears no threat) — байлык корктуу төлөмдөн сактайт"
+    }
+  ],
+  "translation": "Адамдын жанынын төлөмү — анын байлыгы, ал эми жакыр коркотууну укпайт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "681d23404d87e076aca5c7ec2700c89b2de65f149e5d9a23ca74e428611d6a9a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/13\/5-8.1791217949999.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כפר",
+      "gloss": "төлөмү"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "жанынын"
+    },
+    {
+      "surface": "איש",
+      "gloss": "адамдын"
+    },
+    {
+      "surface": "עשרו",
+      "gloss": "байлыгы"
+    },
+    {
+      "surface": "ורש",
+      "gloss": "ал эми жакыр"
+    },
+    {
+      "surface": "לא",
+      "gloss": "укпайт"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ук"
+    },
+    {
+      "surface": "גערה",
+      "gloss": "коркотууну"
+    }
+  ],
+  "timestamp": "2026-10-05T16:32:30.000882489Z",
+  "model": "glm-5.3"
+}

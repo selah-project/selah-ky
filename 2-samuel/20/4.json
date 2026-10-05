@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 20:4",
+  "book": "2-samuel",
+  "lang": "ky",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "үч күндө",
+      "rationale": "Мөөнөт белгиленүүдө — жыйноого берилген убакыт."
+    },
+    {
+      "kind": "you",
+      "subject": "Амасага",
+      "rationale": "Падышанын Амасага түз буйругу: «чакыр… сен бул жерде тургун»."
+    }
+  ],
+  "translation": "Жана падыша Амасага айтты: Йехуданын ⟨את⟩ эркектерин мага үч күндө чакыр, жана сен бул жерде тургун.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "a650965cb1b4a9357c105dd9ac74d0551fd62aea490fc82d800378b799b70a85",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-samuel\/20\/1-4.1791207808279.json",
+    "code": "641241cf-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "падыша"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…га"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Амасага"
+    },
+    {
+      "surface": "הזעк",
+      "gloss": "чакыр"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мага"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Йехуданын эркектерин"
+    },
+    {
+      "surface": "איש",
+      "gloss": "эркектерин"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Йехуданын"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "үч"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "күндө"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "жана сен"
+    },
+    {
+      "surface": "פה",
+      "gloss": "бул жерде"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "тургун"
+    }
+  ],
+  "timestamp": "2026-10-05T13:43:28.281440872Z",
+  "model": "glm-5.3"
+}

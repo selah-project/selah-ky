@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 2:31",
+  "book": "numbers",
+  "lang": "ky",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "157 600",
+      "rationale": "Дан лагеринин жалпы саны — жүз миң жети жана элүү миң алты жүз."
+    },
+    {
+      "kind": "substitution",
+      "subject": "לאחרנה",
+      "rationale": "Сөзмө-сөз «арткы тарапка» — Дан лагери жүрүштө акыркы болот деген маани."
+    }
+  ],
+  "translation": "Дан лагеринде эсептелгендердин баары — жүз миң жана жети жана элүү миң жана алты жүз; алар өз туштары боюнча акыркы болуп жөнөшөт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "2222db554b47ed2da9af759a9de45042ed8d83123517d1c740aba8214134a2bc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/numbers\/2\/29-32.1791203572197.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "баары"
+    },
+    {
+      "surface": "הפקדים",
+      "gloss": "эсептелгендердин"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "лагеринде"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Дан"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "жүз"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "миң"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "жана жети"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "жана элүү"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "миң"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "жана алты"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "жүз"
+    },
+    {
+      "surface": "לאחרנה",
+      "gloss": "акыркы болуп"
+    },
+    {
+      "surface": "יסעו",
+      "gloss": "жөнөшөт"
+    },
+    {
+      "surface": "לדגליהם",
+      "gloss": "өз туштары боюнча"
+    }
+  ],
+  "timestamp": "2026-10-05T12:32:52.198592907Z",
+  "model": "glm-5.3"
+}

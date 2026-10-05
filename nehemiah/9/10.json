@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nehemiah 9:10",
+  "book": "nehemiah",
+  "lang": "ky",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "чоң иштер",
+      "rationale": "מופת 'аян\/керемет' — 'чоң иш' деп сөздүн формасына жакын берилди"
+    },
+    {
+      "kind": "alternative",
+      "subject": "הזידו",
+      "rationale": "зүд 'кайнап чыгуу' деген тамырдан; 'тегдериштик кылды' деп да берилет"
+    }
+  ],
+  "translation": "Жана фараонго, анын бардык кулдарына жана анын жеринин бардык элине белгилерди жана чоң иштерди көрсөттүң, анткени алар аларга тектен чыгып мамиле кылганын билдиң, жана өзүңө бүгүнкү күндөгүдөй ысым жараттың.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "325ef4c828f8ae8fafd90ea34927f1947bac8074a2dafb1e394f72c1cd21fc8e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/nehemiah\/9\/9-12.1791221497267.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותתן",
+      "gloss": "көрсөттүң"
+    },
+    {
+      "surface": "אתת",
+      "gloss": "белгилерди"
+    },
+    {
+      "surface": "ומפתים",
+      "gloss": "жана чоң иштерди"
+    },
+    {
+      "surface": "בפרעה",
+      "gloss": "фараонго"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "жана бардык"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "кулдарына"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "жана бардык"
+    },
+    {
+      "surface": "עם",
+      "gloss": "элине"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "жеринин"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "билдиң"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "הזידו",
+      "gloss": "тектен чыгып мамиле кылганын"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "аларга"
+    },
+    {
+      "surface": "ותעש",
+      "gloss": "жана жараттың"
+    },
+    {
+      "surface": "לך",
+      "gloss": "өзүңө"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ысым"
+    },
+    {
+      "surface": "כהיום",
+      "gloss": "бүгүнкү күндөгүдөй"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "бул"
+    }
+  ],
+  "timestamp": "2026-10-05T17:31:37.268019437Z",
+  "model": "glm-5.3"
+}

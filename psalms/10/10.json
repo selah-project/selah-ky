@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 10:10",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בעצומיו",
+      "rationale": "'Анын күчтүүлүктөрүндө' (KJV 'his strong ones') же 'анын күчтүү тырмактарында' (JPS 'mighty claws') — арстан образы тырмакты билдери ыктымал."
+    },
+    {
+      "kind": "hapax",
+      "subject": "חלכאים",
+      "rationale": "חֵלְכָא 'шордуулар' деген сөз Танахта өтө сейрек кездешет."
+    }
+  ],
+  "translation": "Ал кусылат, чүңкүрөп бүкүлөт, жана шордуулар анын күчтүү тырмактарынын астында кулаган.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "69f62e88b52dde268b8a777f9383ad20cf58fde3d420c1357272749c9bc674a5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/10\/9-12.1791215427869.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ודכה",
+      "gloss": "кусулап"
+    },
+    {
+      "surface": "ישח",
+      "gloss": "чүңкүрөп бүкүлөт"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "жана кулаган"
+    },
+    {
+      "surface": "בעצומיו",
+      "gloss": "анын күчтүү тырмактарынын астында"
+    },
+    {
+      "surface": "חלכאים",
+      "gloss": "шордуулар"
+    }
+  ],
+  "timestamp": "2026-10-05T15:50:27.870314212Z",
+  "model": "glm-5.3"
+}

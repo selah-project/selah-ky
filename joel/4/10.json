@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joel 4:10",
+  "book": "joel",
+  "lang": "ky",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "Ишая 2:4 тин тескериси",
+      "rationale": "Ишая «кылычтарды араага» дейт, Жоел тескерисин айтат — эки текст бири-бирине күтүлбөгөн шайкештикте",
+      "ky": true
+    },
+    {
+      "kind": "hapax",
+      "subject": "מזמרה",
+      "rationale": "«Жүзүм пичеги» деген сөз Танахта сейрек кездешет, лексема өзүнчө сакталды"
+    },
+    {
+      "kind": "addition",
+      "subject": "«жүзүм»",
+      "rationale": "מזמרה түздөн-түз «пичек», жүзүм багышы контексттен көрүнөт"
+    }
+  ],
+  "translation": "Соккулар арааңарды кылычтарга, жүзүм пичектериңерди найзаларга; алсыз «Мен баатырмын» дейт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "0997044e2f77a740ce21012aa8c88b8e0770f48280e91573ed9e7b6531fd3d9c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/joel\/4\/9-12.1791214147780.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כתו",
+      "gloss": "Соккулар"
+    },
+    {
+      "surface": "אתיכם",
+      "gloss": "арааңарды"
+    },
+    {
+      "surface": "לחרבות",
+      "gloss": "кылычтарга"
+    },
+    {
+      "surface": "ומזמרתיכם",
+      "gloss": "жүзүм пичектериңерди"
+    },
+    {
+      "surface": "לרמחים",
+      "gloss": "найзаларга"
+    },
+    {
+      "surface": "החלש",
+      "gloss": "алсыз"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "дейт"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "баатырмын"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Мен"
+    }
+  ],
+  "timestamp": "2026-10-05T15:29:07.781678611Z",
+  "model": "glm-5.3"
+}

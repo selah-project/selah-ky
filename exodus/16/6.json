@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 16:6",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Йисраэлдин уулдары",
+      "rationale": "Моше менен Ахаран элдин баарына түз кайрылуу"
+    },
+    {
+      "kind": "addition",
+      "subject": "кеткенин",
+      "rationale": "Еврейче אתכם — объект маркери менен «силерди»; кыргызча этиш формасы кошулду"
+    }
+  ],
+  "translation": "Жана Моше менен Ахаран Йисраэлдин уулдарынын баарына айтты: Кеч кылаарда силер Яхве ⟨את⟩ силерди Мицрайим жеринен чыгарып кеткенин билесиңер.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "1e3ce2aed1ffe699fe3b628c84023717eed6263d713c160e6e2ff5f400bcc454",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/16\/5-8.1791202240444.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "Ахаран"
+    },
+    {
+      "surface": "אל",
+      "gloss": "баарына"
+    },
+    {
+      "surface": "כל",
+      "gloss": "баары"
+    },
+    {
+      "surface": "בני",
+      "gloss": "уулдарынын"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэлдин"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "Кеч кылаарда"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "билесиңер"
+    },
+    {
+      "surface": "כי",
+      "gloss": "-ны"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "чыгарып кеткен"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ силерди",
+      "marks": "силерди"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "жеринен"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицрайим"
+    }
+  ],
+  "timestamp": "2026-10-05T12:10:40.445865936Z",
+  "model": "glm-5.3"
+}

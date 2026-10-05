@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 16:18",
+  "book": "1-chronicles",
+  "lang": "ky",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "өлкө",
+      "rationale": "חבל — «чыпча, өлчөө жипи», андан «өлкө, бөлүк»; кыргызча «чыпча» жат болор эле"
+    },
+    {
+      "kind": "addition",
+      "subject": "ал —",
+      "rationale": "Экватив түзүмдү байлаш үчүн кошулду"
+    }
+  ],
+  "translation": "Айтты: Сага Кенаан жерин беремин, ал — силердин мураска тийишкен өлкөңөр.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "dbf305ca65a08a091f81c88818028dcc7e2e5e8365711583bf4575e3db36e2b8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-chronicles\/16\/17-20.1791222124532.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "לך",
+      "gloss": "сага"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "беремин"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "жер"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Кенаан"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "өлкө"
+    },
+    {
+      "surface": "נחלתכם",
+      "gloss": "мураска тийишкен"
+    }
+  ],
+  "timestamp": "2026-10-05T17:42:04.533777480Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 20:20",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨...⟩ ичиндеги тактоолор",
+      "rationale": "Кыргызча этиштин жекелеши жана үчүн\/анткени байланыштары еврейче мүчөлөрдү көтөрөт."
+    },
+    {
+      "kind": "you",
+      "subject": "элге",
+      "rationale": "Моше элге тике кайрылат — коркуу эмес, сырдуу коркунуч буйругу."
+    }
+  ],
+  "translation": "Жана Моше элге айтты: Коркпоңуз, анткени Элохим ⟨את⟩ силерди сыноо үчүн келди, жана Анын коркунучу жүзүңөрдө болушу үчүн — күнөө кылбооңуз үчүн.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "8984c165afaa99995e132d04b07678de0767f86b4811bb99b2e23ba2c373196b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/20\/17-20.1791202232330.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "אל",
+      "gloss": "элге"
+    },
+    {
+      "surface": "העם",
+      "gloss": "элге"
+    },
+    {
+      "surface": "אל",
+      "gloss": "коркпоңуз"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "коркпоңуз"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "לבעבור",
+      "gloss": "сыноо үчүн"
+    },
+    {
+      "surface": "נסות",
+      "gloss": "сыноо"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "силерди"
+    },
+    {
+      "surface": "בא",
+      "gloss": "келди"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "ובעבור",
+      "gloss": "жана ... үчүн"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "болушу"
+    },
+    {
+      "surface": "יראתו",
+      "gloss": "Анын коркунучу"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстүндө"
+    },
+    {
+      "surface": "פניכם",
+      "gloss": "жүзүңөрдө"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "кылбооңуз үчүн"
+    },
+    {
+      "surface": "תחטאו",
+      "gloss": "күнөө кылбооңуз"
+    }
+  ],
+  "timestamp": "2026-10-05T12:10:32.331256644Z",
+  "model": "glm-5.3"
+}

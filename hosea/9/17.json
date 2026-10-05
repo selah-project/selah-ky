@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "hosea 9:17",
+  "book": "hosea",
+  "lang": "ky",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "баш ийбеди",
+      "rationale": "שמעו 'ууганды' — угуу аркылуу моюн сунуу маанисинде"
+    },
+    {
+      "kind": "addition",
+      "subject": "Менин",
+      "rationale": "אלהי — 1-жак мүчөсү бар конструкция, кыргызча 'Менин' талап кылат"
+    },
+    {
+      "kind": "you",
+      "subject": "Эфрайим жөнүндө",
+      "rationale": "Эфрайимге айтылган өкүм сөзү, Хошеанын оозунан"
+    }
+  ],
+  "translation": "Менин Элохимим аларды четке кагат, анткени алар Ага баш ийбеди; жана алар элдердин арасында көчүп жүрүүчүлөр болот.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "d4a0730fb137e813205e2bde3288480c08c9e7d3170a109d648bf19c5487b286",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/hosea\/9\/17-17.1791213921036.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ימאסם",
+      "gloss": "четке кагат"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Менин Элохимим"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "баш ийбеди"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Ага"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "жана … болот"
+    },
+    {
+      "surface": "נדדים",
+      "gloss": "көчүп жүрүүчүлөр"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "элдердин арасында"
+    }
+  ],
+  "timestamp": "2026-10-05T15:25:21.037147798Z",
+  "model": "glm-5.3"
+}

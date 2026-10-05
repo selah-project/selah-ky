@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 11:1",
+  "book": "2-kings",
+  "lang": "ky",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жок кылды",
+      "rationale": "ותאבד букв. 'азгынып жоголуу' (ээсинен алыс болуу), каузативде 'курутту'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "бүт үрөнү",
+      "rationale": "патрондуктун толук жок кылынышы — падыша тукумунун саны бүтүндөй аталат"
+    }
+  ],
+  "translation": "Аталия, Ахазиянын энеси, уулу өлдү деп көрдү, ордунан турду да падышалыктын бүт үрөнүн ⟨את⟩ жок кылды.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "2913560deea56681cd7c69193475db5a6d72f7af4d9ee48b68a24d0b781a2669",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-kings\/11\/1-4.1791208897252.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתליה",
+      "gloss": "Аталия"
+    },
+    {
+      "surface": "אם",
+      "gloss": "энеси"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "Ахазиянын"
+    },
+    {
+      "surface": "וראתה",
+      "gloss": "көрдү"
+    },
+    {
+      "surface": "כי",
+      "gloss": "деп"
+    },
+    {
+      "surface": "מת",
+      "gloss": "өлдү"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "уулу"
+    },
+    {
+      "surface": "ותקם",
+      "gloss": "ордунан турду"
+    },
+    {
+      "surface": "ותאבד",
+      "gloss": "жок кылды"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "падышалыктын бүт үрөнүн"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүт"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "үрөнүн"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "падышалыктын"
+    }
+  ],
+  "timestamp": "2026-10-05T14:01:37.253105669Z",
+  "model": "glm-5.3"
+}

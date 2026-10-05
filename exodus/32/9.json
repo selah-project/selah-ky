@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 32:9",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "катуу моюн",
+      "rationale": "קשה ערף — букв. 'катуу моюн' (мойнун бургусу келбеген); кыргызча да букв. сакталды"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ал⟩",
+      "rationale": "Ивритте 'ал — катуу моюн эл' деген айтылышта байламча жок"
+    }
+  ],
+  "translation": "Жана Яхве Мошеге айтты: Мен ⟨את⟩ бул элди көрдүм, жана мына, ал — катуу моюн эл.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "da143ef754c5367e7b6a4be8c91510b137732c971db2621591faa4aad3a173b2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/32\/9-12.1791202565113.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "жана айтты"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Мошеге"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Мошеге"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "көрдүм"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "бул элди"
+    },
+    {
+      "surface": "העם",
+      "gloss": "элди"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "бул"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "жана мына"
+    },
+    {
+      "surface": "עם",
+      "gloss": "эл"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "катуу"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "моюн"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ал"
+    }
+  ],
+  "timestamp": "2026-10-05T12:16:05.113768497Z",
+  "model": "glm-5.3"
+}

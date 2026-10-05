@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 22:6",
+  "book": "proverbs",
+  "lang": "ky",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "על פי דרכו",
+      "rationale": "Кальча: «жолунун оозу боюнча» — анын өз жолуна ылайык"
+    },
+    {
+      "kind": "crux",
+      "subject": "тарбияла",
+      "rationale": "חנך — «таргыл\/баштап бер» да болот; салттуу «тарбияла»"
+    }
+  ],
+  "translation": "Баланы анын жолунун оозу боюнча тарбияла, ошондо карыганда да андан баш тартпайт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "a94d4f014936ccd737a6609728fa6b191e542030b13b836339044a022b2fb8ca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/22\/5-8.1791218233787.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חנך",
+      "gloss": "тарбияла"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "баланы"
+    },
+    {
+      "surface": "על",
+      "gloss": "боюнча"
+    },
+    {
+      "surface": "פי",
+      "gloss": "оозу"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "жолунун"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ошондо"
+    },
+    {
+      "surface": "כי",
+      "gloss": "да"
+    },
+    {
+      "surface": "יזקין",
+      "gloss": "карганда"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "баш тартпайт"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "андан"
+    }
+  ],
+  "timestamp": "2026-10-05T16:37:13.788656330Z",
+  "model": "glm-5.3"
+}

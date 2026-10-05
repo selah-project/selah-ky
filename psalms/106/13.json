@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 106:13",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 106,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨Анын⟩",
+      "rationale": "Еврейче жекече мүчө (-יו) кыргызча толук ат атооч талап кылат"
+    },
+    {
+      "kind": "elision",
+      "subject": "לא",
+      "rationale": "болочко танбоо этиштин мүчөсүнө (-беди) сиңирилип, өзүнчө сөз катары калган жок"
+    }
+  ],
+  "translation": "Тез эле алар ⟨Анын⟩ иштерин унутушту; ⟨Анын⟩ кеңешин күтүшпөдү.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "6057f115937366e718ba43b3c279106224f51f088d9364b8175cbc3144ec018d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/106\/13-16.1791217110100.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מהרו",
+      "gloss": "Тез эле"
+    },
+    {
+      "surface": "שכחו",
+      "gloss": "унутушту"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "⟨Анын⟩ иштерин"
+    },
+    {
+      "surface": "לא",
+      "gloss": "-беди эмес"
+    },
+    {
+      "surface": "חכו",
+      "gloss": "күтүш-"
+    },
+    {
+      "surface": "לעצתו",
+      "gloss": "⟨Анын⟩ кеңешин"
+    }
+  ],
+  "timestamp": "2026-10-05T16:18:30.102435635Z",
+  "model": "glm-5.3"
+}

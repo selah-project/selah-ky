@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 132:14",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 132,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "—",
+      "rationale": "еврейче жок болгон копула '—' менен берилди"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עדי עד",
+      "rationale": "эки 'ад' — түбөлүктөн түбөлүккө деген меризм, кайталоо кыргызча сакталды"
+    }
+  ],
+  "translation": "Бул — Менин эс алуу жайым түбөлүктөн түбөлүккө; мында Мен отурам, себеби Мен аны кааладым.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "8ba0cb56b177f792ef48186339bc9d52c3093d2b1e6c9f137d4f5caf7375f33e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/132\/13-16.1791217466435.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Бул"
+    },
+    {
+      "surface": "מנוחתי",
+      "gloss": "Менин эс алуу жайым"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "түбөлүктөн"
+    },
+    {
+      "surface": "עד",
+      "gloss": "түбөлүккө"
+    },
+    {
+      "surface": "פה",
+      "gloss": "мында"
+    },
+    {
+      "surface": "אשב",
+      "gloss": "отурам"
+    },
+    {
+      "surface": "כי",
+      "gloss": "себеби"
+    },
+    {
+      "surface": "אותיה",
+      "gloss": "ани кааладым"
+    }
+  ],
+  "timestamp": "2026-10-05T16:24:26.436458869Z",
+  "model": "glm-5.3"
+}

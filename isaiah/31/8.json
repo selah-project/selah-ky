@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 31:8",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חרב",
+      "rationale": "«Кылыч» сөзү үч жолу кайталанат — ритмдуу параллелизм, кыргызча да сакталды"
+    },
+    {
+      "kind": "substitution",
+      "subject": "салык төлөөчүлөр",
+      "rationale": "למס — аргын эмгекке алынган салык төлөөчү; «алсыраган» деген да окуу бар"
+    },
+    {
+      "kind": "crux",
+      "subject": "в8 башталышы",
+      "rationale": "KJV «батырдын кылычы эмес», ЖПС «адамдын эмес» — איש жөн гана «адам» же «батыр» маанисинде"
+    }
+  ],
+  "translation": "Жана Ашшур кылычтан кулагайт — адамдын кылычы ⟨эмес⟩; жана кылыч аны жейт — адамдын кылычы ⟨эмес⟩; ал кылычтын жүзүнөн өзү үчүн качат, жана анын жаш жоокерлери салык төлөөчүлөр болушат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "82bb8e1adb93bf805abb941e20304ed448a56e58bf6dd27476c9b8ddc03bffd3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/31\/5-8.1791209922024.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונפל",
+      "gloss": "жана кулагайт"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ашшур"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "кылычтан"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨эмес⟩"
+    },
+    {
+      "surface": "איש",
+      "gloss": "адамдын"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "жана кылыч"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨эмес⟩"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "адамдын"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "аны жейт"
+    },
+    {
+      "surface": "ונס",
+      "gloss": "жана качат"
+    },
+    {
+      "surface": "לו",
+      "gloss": "өзү үчүн"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "жүзүнөн"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "кылычтын"
+    },
+    {
+      "surface": "ובחוריו",
+      "gloss": "жана анын жаш жоокерлери"
+    },
+    {
+      "surface": "למס",
+      "gloss": "салык төлөөчүлөр"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "болушат"
+    }
+  ],
+  "timestamp": "2026-10-05T14:18:42.025912809Z",
+  "model": "glm-5.3"
+}

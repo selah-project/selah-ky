@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 3:23",
+  "book": "job",
+  "lang": "ky",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "secret",
+      "subject": "נסתרה",
+      "rationale": "жол жашырылган — жашыруун, жабык жол мотиви"
+    },
+    {
+      "kind": "addition",
+      "subject": "анын айланасын",
+      "rationale": "בעדו 'анын артында\/тегерегинде' — кыргызча этиш толуктоо талап кылат"
+    }
+  ],
+  "translation": "Жолу жашырылган жана Элоах ⟨анын айланасын⟩ курчап алган эркекке.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "22a88e790012bdb87235cb39bbcf7ca653f93382488a821ac417baca27629b2c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/job\/3\/21-24.1791218528470.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לגבר",
+      "gloss": "эркекке"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "анын"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "жолу"
+    },
+    {
+      "surface": "נסתרה",
+      "gloss": "жашырылган"
+    },
+    {
+      "surface": "ויסך",
+      "gloss": "курчап алган"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Элоах"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "анын айланасын"
+    }
+  ],
+  "timestamp": "2026-10-05T16:42:08.471316729Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 27:4",
+  "book": "ezekiel",
+  "lang": "ky",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "жайгашкан",
+      "rationale": "ивритте этиш жок; «чектериң жүрөгүндө» деген туюм үчүн кошулду"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כללו \/ כלילת",
+      "rationale": "в 3-4 аяттардагы כליל ve כלל тамыры кайталанат — «кемел» сөзү менен байланыш сакталды"
+    }
+  ],
+  "translation": "Деңиздердин жүрөгүндө ⟨жайгашкан⟩ чектериң; курушучуларың ⟨сен⟩ сулуулугуңду кемелдетти.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "3935aa4a6db331ff826886ef1a5940ae6aeb838fe087472cbb2308ca0bac2c79",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ezekiel\/27\/1-4.1791212969057.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בלב",
+      "gloss": "жүрөгүндө"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "деңиздердин"
+    },
+    {
+      "surface": "גבוליך",
+      "gloss": "чектериң"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "курушучуларың"
+    },
+    {
+      "surface": "כללו",
+      "gloss": "кемелдетти"
+    },
+    {
+      "surface": "יפיך",
+      "gloss": "сулуулугуңду"
+    }
+  ],
+  "timestamp": "2026-10-05T15:09:29.058120147Z",
+  "model": "glm-5.3"
+}

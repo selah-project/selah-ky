@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 110:2",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 110,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "душмандарыңдын ортосунда",
+      "rationale": "Яхвенин буйругу — «бийлик кыл» деген imperative тикелей үндөө"
+    },
+    {
+      "kind": "alternative",
+      "subject": "таягын",
+      "rationale": "מטה — «таяк» (укум-чукум үчүн) да, «бийлик асасы» да; бийлик мааниси контексттен"
+    }
+  ],
+  "translation": "Кудуретиңдин таягын Яхве Сиондон жиберет: душмандарыңдын ортосунда бийлик кыл.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "a9fc14d6108c4830e16e28557f49cfef27112e6db4f52b942264cdbdb7d92645",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/110\/1-4.1791217240374.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מטה",
+      "gloss": "таягын"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "кудуретиңдин"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "жиберет"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "Сиондон"
+    },
+    {
+      "surface": "רדה",
+      "gloss": "бийлик кыл"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "ортосунда"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "душмандарыңдын"
+    }
+  ],
+  "timestamp": "2026-10-05T16:20:40.374850276Z",
+  "model": "glm-5.3"
+}

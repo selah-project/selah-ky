@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 29:16",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "бар эле",
+      "rationale": "Еврейче байламта жок, кыргызча сүйлөм бүтүшү үчүн кошулду"
+    },
+    {
+      "kind": "substitution",
+      "subject": "чоӊу \/ кичинеси",
+      "rationale": "הגדלה \/ הקטנה букв. «чоӊ» \/ «кичине» — жаш боюнча «улкен \/ кенже» деген маанида"
+    }
+  ],
+  "translation": "Лавандын эки кызы ⟨бар эле⟩: чоӊунун аты Леа, кичинесинин аты Рахел.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "3af8d2e5bb4da4e4e1f028ecab1f28f15e6d6fda40f061508526d6f7d8739ad1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/29\/13-16.1791201287182.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וללבן",
+      "gloss": "Лавандын"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "эки"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "кызы"
+    },
+    {
+      "surface": "שם",
+      "gloss": "аты"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "чоӊунун"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Леа"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "аты"
+    },
+    {
+      "surface": "הקטנה",
+      "gloss": "кичинесинин"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Рахел"
+    }
+  ],
+  "timestamp": "2026-10-05T11:54:47.183782935Z",
+  "model": "glm-5.3"
+}

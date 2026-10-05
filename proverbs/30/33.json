@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 30:33",
+  "book": "proverbs",
+  "lang": "ky",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מיץ ... יוציא",
+      "rationale": "Үч жолу кайталанган «кысуу — чыгаруу» үлгүсү: мизам (хиям) талаш-тартышка алып келет деген парабола, риторикалык параллелизм кыргызча сакталды"
+    },
+    {
+      "kind": "crux",
+      "subject": "אף \/ אפים",
+      "rationale": "Экинчи «אף» көбүнчө «мурун» деп алынат (KJV, JPS), үчүнчү «אפים» — «ачуу»; бирок эки учурда тең «ачуу» мааниси мүмкүн"
+    },
+    {
+      "kind": "hapax",
+      "subject": "מיץ",
+      "rationale": "«Миз» (кысуу) сөзү Танахта ушул аятта гана кездешет (3 жолу)"
+    }
+  ],
+  "translation": "Анткени сүттү кысуудан айран чыгат, мурунду кысуудан кан чыгат, жана ачууну кысуудан талаш-тартыш чыгат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "6d89eb614c47a3fa7d9ffde71e9bdbba190543e4c9075d866d25fd3f0e1f0ce7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/30\/33-33.1791218478561.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "מיץ",
+      "gloss": "кысуу"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "сүт"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "чыгат"
+    },
+    {
+      "surface": "חמאה",
+      "gloss": "айран"
+    },
+    {
+      "surface": "ומיץ",
+      "gloss": "жана кысуу"
+    },
+    {
+      "surface": "אף",
+      "gloss": "мурун"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "чыгат"
+    },
+    {
+      "surface": "דם",
+      "gloss": "кан"
+    },
+    {
+      "surface": "ומיץ",
+      "gloss": "жана кысуу"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "ачуу"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "чыгат"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "талаш-тартыш"
+    }
+  ],
+  "timestamp": "2026-10-05T16:41:18.562040679Z",
+  "model": "glm-5.3"
+}

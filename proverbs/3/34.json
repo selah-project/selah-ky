@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "proverbs 3:34",
+  "book": "proverbs",
+  "lang": "ky",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אם",
+      "rationale": "'эгерде' же бекемдөөчү 'чын эле' — JPS 'if', KJV 'surely' деп берет"
+    },
+    {
+      "kind": "substitution",
+      "subject": "жылаңайлак жарлылар",
+      "rationale": "עניים — кедей, муктаж деген сөздүн ордуна бир сөздө берилди"
+    }
+  ],
+  "translation": "Шылдыңчыларды ал шылдыңдайт, ал эми жылаңайлак жарлыларга ырайым берет.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "4c2febe255b67608ce402a341d5dff6805a7c4e4fb5fe890ffabef4f6ffedd2b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/3\/33-35.1791217779959.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "чын эле"
+    },
+    {
+      "surface": "ללצים",
+      "gloss": "шылдыңчыларды"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ал"
+    },
+    {
+      "surface": "יליץ",
+      "gloss": "шылдыңдайт"
+    },
+    {
+      "surface": "ולעניים",
+      "gloss": "ал эми жарлыларга"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "берет"
+    },
+    {
+      "surface": "חן",
+      "gloss": "ырайым"
+    }
+  ],
+  "timestamp": "2026-10-05T16:29:39.959888079Z",
+  "model": "glm-5.3"
+}

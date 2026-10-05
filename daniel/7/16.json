@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "daniel 7:16",
+  "book": "daniel",
+  "lang": "ky",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "анын өзүнөн",
+      "rationale": "ויציבא — 'так, ишенимдүү нерсени' сурадым; кыргызча 'анын өзүнөн' деп жумшартылды"
+    },
+    {
+      "kind": "secret",
+      "subject": "чечмелеши",
+      "rationale": "פשר — Даниелдин жашырылган көрүнүштөрдүн чечмелениши, 7-глава боюнча негизги тема"
+    }
+  ],
+  "translation": "Тургандардын бирөөсүнө жакындап барып, анын өзүнөн баарынын чын маанисин сурадым, жана ал мага айтып, сөздөрдүн чечмелешин билдирди.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "0c9e55e5e7b74564f37fe6c45b068ceb5c7659b8f0fe7244a7650a863a932df7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/daniel\/7\/13-16.1791220699583.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קרבת",
+      "gloss": "жакындап барып"
+    },
+    {
+      "surface": "על",
+      "gloss": "жакын"
+    },
+    {
+      "surface": "חד",
+      "gloss": "бирөөсүнө"
+    },
+    {
+      "surface": "מן",
+      "gloss": "…нын"
+    },
+    {
+      "surface": "קאמיא",
+      "gloss": "тургандардын"
+    },
+    {
+      "surface": "ויציבא",
+      "gloss": "анын өзүнөн"
+    },
+    {
+      "surface": "אבעא",
+      "gloss": "сурадым"
+    },
+    {
+      "surface": "מנה",
+      "gloss": "анын"
+    },
+    {
+      "surface": "על",
+      "gloss": "жөнүндө"
+    },
+    {
+      "surface": "כל",
+      "gloss": "баарынын"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "мына булардын"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "жана ал… айтып"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мага"
+    },
+    {
+      "surface": "ופשר",
+      "gloss": "чечмелешин"
+    },
+    {
+      "surface": "מליא",
+      "gloss": "сөздөрдүн"
+    },
+    {
+      "surface": "יהודענני",
+      "gloss": "билдирди"
+    }
+  ],
+  "timestamp": "2026-10-05T17:18:19.584582217Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 4:22",
+  "book": "numbers",
+  "lang": "ky",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "башты көтөрүү",
+      "rationale": "נשא את ראש — «башты көтөрүү» = элди эсептөө (эл каттоо), латыралдык сүрөт сакталды"
+    },
+    {
+      "kind": "measurement",
+      "subject": "эсептөө",
+      "rationale": "Левилер урууларын саноо буйругу — жаш боюнча эл каттоо"
+    }
+  ],
+  "translation": "Гершон уулдарынын башын да ⟨את⟩ көтөргүлө — алар да, өз аталарынын үй бүчү боюнча, үй-бүлөлөрү боюнча.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "df482fc2298f8114b0ad23d6c458cd9c66d2a4473c8825a6426cff07f7c6c102",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/numbers\/4\/21-24.1791203637755.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נשא",
+      "gloss": "көтөргүлө"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "башын"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "башын"
+    },
+    {
+      "surface": "בני",
+      "gloss": "уулдарынын"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "Гершон"
+    },
+    {
+      "surface": "גם",
+      "gloss": "да"
+    },
+    {
+      "surface": "הם",
+      "gloss": "алар"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "үй бүчү боюнча"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "аталарынын"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "үй-бүлөлөрү боюнча"
+    }
+  ],
+  "timestamp": "2026-10-05T12:33:57.756529599Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 85:2",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 85,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שבות",
+      "rationale": "«Туткундукту кайтаруу»: букв. «шувта» — поворот плена\/бывшего состояния; варианты: вернул из плена \/ восстановил благополучие"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שבת\/שבות",
+      "rationale": "Повтор корня שוב — «кайтардың туткундугун» — созвучие сохранено частично"
+    }
+  ],
+  "translation": "Яхве, Сен Өз жериңе ыраазы болдуң, Яаковтун туткундугун кайтардың.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "1e6098456f56aa772431d8326426dd6f9857ea0170fbf1535b9d07ec09f0e33f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/85\/1-4.1791216725399.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רצית",
+      "gloss": "ыраазы болдуң"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "жериңе"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "кайтардың"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "туткундугун"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаковтун"
+    }
+  ],
+  "timestamp": "2026-10-05T16:12:05.400600283Z",
+  "model": "glm-5.3"
+}

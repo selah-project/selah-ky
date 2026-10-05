@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 6:30",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ערל שפתים",
+      "rationale": "„Эриндери энчилүү эмес“ — букв. сүрөт; айрым котормолор „тилі байланган“ же „сүйлөөгө жөндөмсүз“ дешет."
+    },
+    {
+      "kind": "idiom",
+      "subject": "לפני יהוה",
+      "rationale": "Букв. „Яхвенин жүзүндө“, кыргызча „Яхвенин алдында“."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דבר \/ ערל שפתים",
+      "rationale": "Яхве „айт“ дейт (29-аят), Моше ошол эле эриндерди шылтоо кылат — байланыш кыргызчада да сакталды."
+    }
+  ],
+  "translation": "Моше Яхвенин алдында айтты: Мына, мендын эриндерим энчилүү эмес, Фараон мени кантип угат?",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "e0490129c4d2c46171a2696c2cca643fd2a60b6699d4a5e89d19804cedf64237",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/6\/29-30.1791201899300.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "алдында"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    },
+    {
+      "surface": "הן",
+      "gloss": "Мына"
+    },
+    {
+      "surface": "אני",
+      "gloss": "мен"
+    },
+    {
+      "surface": "ערל",
+      "gloss": "энчилүү эмес"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "эриндерим"
+    },
+    {
+      "surface": "ואיך",
+      "gloss": "кантип"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "угат"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "мени"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Фараон"
+    }
+  ],
+  "timestamp": "2026-10-05T12:04:59.301515293Z",
+  "model": "glm-5.3"
+}

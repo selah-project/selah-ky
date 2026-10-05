@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 9:5",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שופט צדק",
+      "rationale": "'цедектин соту' (Яхве өзү сот) же 'цедек менен сот кыл' (сын атооч) — эки окуу бар"
+    },
+    {
+      "kind": "you",
+      "subject": "Яхвеге",
+      "rationale": "Тилек Яхвеге багытталган, 'Сен' деп түз кайрылуу"
+    }
+  ],
+  "translation": "Себеби Сен менин өкүмүмдү жана меним динимди жасадың, Сен цедектин соту катары тактка отурдуң.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "974f917c30c54269f00818dc932492fe7ef12b611bfdb0a0e63d7d7aeb0e2fca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/9\/5-8.1791215448907.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Себеби"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "жасадың"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "менин өкүмүмдү"
+    },
+    {
+      "surface": "ודיני",
+      "gloss": "жана меним динимди"
+    },
+    {
+      "surface": "ישבת",
+      "gloss": "отурдуң"
+    },
+    {
+      "surface": "לכסא",
+      "gloss": "тактка"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "соту"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "цедек"
+    }
+  ],
+  "timestamp": "2026-10-05T15:50:48.907626281Z",
+  "model": "glm-5.3"
+}

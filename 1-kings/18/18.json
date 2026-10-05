@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 18:18",
+  "book": "1-kings",
+  "lang": "ky",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עכרתי \/ עכר",
+      "rationale": "Элияху Ахавдын 17-аяттагы наамын тескерилей кайтарат: «булгаган сен жана үй-бүлөң»"
+    },
+    {
+      "kind": "substitution",
+      "subject": "כי אם",
+      "rationale": "еврейче каршы коюу конструкциясы «анткени... бирок» деп эки байламта менен берилди"
+    }
+  ],
+  "translation": "Ал айтты: ⟨את⟩ Йисраэлди мен булгаган жокмун, бирок сен жана атанын үй-бүлөсү, анткени силер Яхвенин ⟨את⟩ буйруктарын таштап кеттиңер жана Баалдардын артынан жөнөдүңөр.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "504816e03c8e004468c2349f92b3c1f16f5a1ea567f4874d490f3afaf7fa58c5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-kings\/18\/17-20.1791208499240.json",
+    "code": "641241cf-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "עכרתי",
+      "gloss": "булгаган"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Йисраэлди"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэлди"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "אם",
+      "gloss": "бирок"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "сен"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "жана үй-бүлөсү"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "атанын"
+    },
+    {
+      "surface": "בעזבכם",
+      "gloss": "таштап кеттиңер"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "буйруктарды"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "буйруктарын"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "жөнөдүңөр"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "артынан"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "Баалдардын"
+    }
+  ],
+  "timestamp": "2026-10-05T13:54:59.240960140Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 83:5",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 83,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "жок кылып",
+      "rationale": "נכחיד — 'жашыруу\/жок кылуу' деген катуу эттикти туют"
+    },
+    {
+      "kind": "you",
+      "subject": "Келгиле",
+      "rationale": "Элдердин өз ара чакырыгы — Израилге каршы пландуу чечим"
+    }
+  ],
+  "translation": "Алар айтты: Келгиле, аларды элден жок кылып, Йисраэлдин аты дагы эсте калбагыдай болсун.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "02b742150d4ccef43bc15a48940308aed19a29ffbbb711be031338dc81698646",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/83\/5-8.1791216658662.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "алар айтты"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "келгиле"
+    },
+    {
+      "surface": "ונכחידם",
+      "gloss": "жок кылып"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "элден"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "дагы эсте калбагыдай"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "эсте калбасын"
+    },
+    {
+      "surface": "שם",
+      "gloss": "аты"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэлдин"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "дагы"
+    }
+  ],
+  "timestamp": "2026-10-05T16:10:58.662979159Z",
+  "model": "glm-5.3"
+}

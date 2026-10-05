@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 3:4",
+  "book": "1-chronicles",
+  "lang": "ky",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "падышачылык мөөнөтү",
+      "rationale": "Хеврондо жети жыл алты ай, Йерушалайимда отуз үч жыл — так эсеп."
+    }
+  ],
+  "translation": "Алты уул ага Хеврондо төрөлгөн; ал ошондо жети жыл жана алты ай падышачылык кылды, ал эми Йерушалайимда отуз үч жыл падышачылык кылды.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "c3795f4562fc399c747c35e08df0f25ecf74d5cc987341f4b77bad1d30c950c2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-chronicles\/3\/1-4.1791221814696.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ששה",
+      "gloss": "алты"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "төрөлгөн"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ага"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "Хеврондо"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "жана падышачылык кылды"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ошондо"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "жети"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "жыл"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "жана алты"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "ай"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "жана отуз"
+    },
+    {
+      "surface": "ושלוש",
+      "gloss": "үч"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "жыл"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "падышачылык кылды"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Йерушалайимда"
+    }
+  ],
+  "timestamp": "2026-10-05T17:36:54.697067526Z",
+  "model": "glm-5.3"
+}

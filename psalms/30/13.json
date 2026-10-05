@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 30:13",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "урматым",
+      "rationale": "כבוד — «оорлуук, жалтырактык»; КЖВ «my glory», бошо «my tongue» деп койгон"
+    },
+    {
+      "kind": "addition",
+      "subject": "сен",
+      "rationale": "ивритте יזמרך жөнүндө үнүм жок"
+    }
+  ],
+  "translation": "Максаты — урматым ⟨сен⟩ жөнүндө ырдашы жана үнүн өчүрбөшү. О, Яхве, Элохимум, түбөлүккө сага алгысымды айтамын.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "1bb6b56875b296c3d88d4175d51e3bd256d0f31ba32a2b66edfbf9127f426eb1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/30\/13-13.1791215645469.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "Максаты"
+    },
+    {
+      "surface": "יזמרך",
+      "gloss": "сен жөнүндө ырдашы"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "урматым"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "жана... эмес"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "үнүн өчүрбөшү"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Элохимум"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "түбөлүккө"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "сага алгысымды айтамын"
+    }
+  ],
+  "timestamp": "2026-10-05T15:54:05.469580674Z",
+  "model": "glm-5.3"
+}

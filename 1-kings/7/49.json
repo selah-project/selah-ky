@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "1-kings 7:49",
+  "book": "1-kings",
+  "lang": "ky",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "захав сагур",
+      "rationale": "Буквально 'жабык\/камдыл алтын' — 'таза' (KJV) же 'эритилген' (YLТ) деген чечимдер бар."
+    },
+    {
+      "kind": "measurement",
+      "subject": "бешөө оң жагында, бешөө сол жагында",
+      "rationale": "Идиштердин саны жана жайгашуусу так көрсөтүлөт."
+    },
+    {
+      "kind": "elision",
+      "subject": "הדביר",
+      "rationale": "'Ички ыйык жай' — ыйык жайдын эң ички бөлмөсүнүн аталышы."
+    }
+  ],
+  "translation": "жана ⟨את⟩ чырактарды — бешөө оң жагында, бешөө сол жагында, ички ыйык жайдын алдында, таза алтын; жана гүлдөрдү, жана чырак фитилдерин, жана кыпчыгычтарды — алтын.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "7d6ba3acca2e5418d9fcf5ca8ffe1aa704458139c5246562adc8da4767c0c340",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-kings\/7\/49-51.1791208079311.json",
+    "code": "641241cf-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "чырактарды"
+    },
+    {
+      "surface": "המנרות",
+      "gloss": "чырактарды"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "бешөө"
+    },
+    {
+      "surface": "מימין",
+      "gloss": "оң жагында"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "жана бешөө"
+    },
+    {
+      "surface": "משמאול",
+      "gloss": "сол жагында"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "алдында"
+    },
+    {
+      "surface": "הדביר",
+      "gloss": "ички ыйык жайдын"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "алтын"
+    },
+    {
+      "surface": "סגור",
+      "gloss": "таза"
+    },
+    {
+      "surface": "והפרח",
+      "gloss": "жана гүлдөрдү"
+    },
+    {
+      "surface": "והנרת",
+      "gloss": "жана чырак фитилдерин"
+    },
+    {
+      "surface": "והמלקחים",
+      "gloss": "жана кыпчыгычтарды"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "алтын"
+    }
+  ],
+  "timestamp": "2026-10-05T13:47:59.311909612Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 8:20",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "өрттөлүүчү курмандык",
+      "rationale": "עלה «жогору көтөрүлүүчү» деген сөз — түтүндүн жогору көтөрүлүшүнөн; кыргызча көтөрүлүү мааниси жоголот"
+    },
+    {
+      "kind": "addition",
+      "subject": "катары",
+      "rationale": "עלת тартуу кылуунун түрүн аныктоо үчүн кошулду"
+    }
+  ],
+  "translation": "Жана Ноах Яхвеге курмандык чалынуучу жай курду, таза мал-жандыктардын бардыгынан жана таза канаттуулардын бардыгынан алып, аларды курмандык чалынуучу жайга өрттөлүүчү курмандык катары тартуу кылды.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "c3ad8dde7a3dbb68988a78859fe4cef17ea66fc8e63d4dfb8ac1b4e3a91ea6fa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/8\/17-20.1791200841356.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "курду"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Ноах"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "курмандык чалынуучу жай"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхвеге"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "алып"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "бардыгынан"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "мал-жандыктардын"
+    },
+    {
+      "surface": "הטהורה",
+      "gloss": "таза"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "жана бардыгынан"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "канаттуулардын"
+    },
+    {
+      "surface": "הטהר",
+      "gloss": "таза"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "тартуу кылды"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "өрттөлүүчү курмандык"
+    },
+    {
+      "surface": "במזבח",
+      "gloss": "курмандык чалынуучу жайга"
+    }
+  ],
+  "timestamp": "2026-10-05T11:47:21.357570454Z",
+  "model": "glm-5.3"
+}

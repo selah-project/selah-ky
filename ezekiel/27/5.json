@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 27:5",
+  "book": "ezekiel",
+  "lang": "ky",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ברושים",
+      "rationale": "'кипарис' же 'кызгылт карагай' — которуучулар бөлүнөт; бул жерде кипарис тандылды."
+    },
+    {
+      "kind": "substitution",
+      "subject": "לחתים",
+      "rationale": "'жылмаланган такта' — кеме талкери маанисинде 'такта' деп алынды."
+    }
+  ],
+  "translation": "Шенирдеги кипаристерден сенин бардык такталарыңды ⟨את⟩ курушту; Ливандан кедр алып, сага мачта жасашты.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "eb68945cd2dfb6c5526b0615606e03fd4832e266a4f84f0d022975654ec02bc3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ezekiel\/27\/5-8.1791212933241.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברושים",
+      "gloss": "кипаристерден"
+    },
+    {
+      "surface": "משניר",
+      "gloss": "Шенирдеги"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "курушту"
+    },
+    {
+      "surface": "לך",
+      "gloss": "сенин"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "бардык такталарыңды"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бардык"
+    },
+    {
+      "surface": "לחתים",
+      "gloss": "такталарыңды"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "кедр"
+    },
+    {
+      "surface": "מלבנון",
+      "gloss": "Ливандан"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "алып"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "жасашты"
+    },
+    {
+      "surface": "תרן",
+      "gloss": "мачта"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "сага"
+    }
+  ],
+  "timestamp": "2026-10-05T15:08:53.241874066Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 48:23",
+  "book": "ezekiel",
+  "lang": "ky",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "үлүш",
+      "rationale": "אחד 'бир' сөзүнө 'үлүш' сөзү контексттен кошулду"
+    },
+    {
+      "kind": "substitution",
+      "subject": "деңиз тарабы",
+      "rationale": "ימה келечесинде 'батыш' дегенди билдирет, бира字кут буквынче 'деңиз тарабы' деп берилди"
+    }
+  ],
+  "translation": "Жана калган уруулар: чыгыш тарабынан деңиз тарабына чейин — Бинъямин бир үлүш.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "bd4926fc6a8ac7c8de54b9e02bdbce21916da2392aad6e03268bb377563a5808",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ezekiel\/48\/21-24.1791213785602.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "жана калганы"
+    },
+    {
+      "surface": "השבטים",
+      "gloss": "уруулар"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "тарабынан"
+    },
+    {
+      "surface": "קדימה",
+      "gloss": "чыгыш"
+    },
+    {
+      "surface": "עד",
+      "gloss": "чейин"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "тарабына"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "деңиз"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Бинъямин"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бир үлүш"
+    }
+  ],
+  "timestamp": "2026-10-05T15:23:05.603484199Z",
+  "model": "glm-5.3"
+}

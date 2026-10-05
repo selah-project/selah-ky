@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 23:20",
+  "book": "ezekiel",
+  "lang": "ky",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "פלגשיהם",
+      "rationale": "«Токалдары» (канкыбындары) же «сүйүүчүлөрү» — JPS «токал болуу» деп, KJV «сүйүүчүлөр» деп берет"
+    },
+    {
+      "kind": "substitution",
+      "subject": "агымы",
+      "rationale": "זרמה — ургаачыга агуучу суюктук, эвфемизм; «агым» сөзү түз эле сакталды"
+    },
+    {
+      "kind": "hapax",
+      "subject": "זרמה",
+      "rationale": "Бул сөз Танахта ушул жерде гана кездешет"
+    }
+  ],
+  "translation": "Жана ал алардын токалдарына ашыкташты — алардын эти эшектердин эти сыяктуу, жана алардын агымы аттардын агымы сыяктуу.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "e8bced39adb3596534f00a4184fafed1cde2a15a62220c9996dbf1342702bb30",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ezekiel\/23\/17-20.1791212878773.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותעגבה",
+      "gloss": "жана ашыкташты"
+    },
+    {
+      "surface": "על",
+      "gloss": "карай"
+    },
+    {
+      "surface": "פלגשיהם",
+      "gloss": "алардын токалдарына"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "алардын"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "эти"
+    },
+    {
+      "surface": "חמורים",
+      "gloss": "эшектердин"
+    },
+    {
+      "surface": "בשרם",
+      "gloss": "алардын эти"
+    },
+    {
+      "surface": "וזרמת",
+      "gloss": "жана агымы"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "аттардын"
+    },
+    {
+      "surface": "זרמתם",
+      "gloss": "алардын агымы"
+    }
+  ],
+  "timestamp": "2026-10-05T15:07:58.774263364Z",
+  "model": "glm-5.3"
+}

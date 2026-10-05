@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 149:7",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 149,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בל",
+      "rationale": "בל אמים — 'калктардын кыйроосу' (בלה 'кармап бүтүрүү' тамырынан) же жөн эле байлануучу 'калктардын ичинде'; KJV 'наказание' деп, бизинеки сыяктуу тамырлык окууга жакындайт."
+    }
+  ],
+  "translation": "элдердин ичинде өч алууну жасоого, калктардын ичинде кыйроо-укум чыгарууну;",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "138774c5926d3ebe1c2386901e2fdc7601bfdce21de5403bc196f06529cc508b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/149\/5-8.1791217657980.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "жасоого"
+    },
+    {
+      "surface": "נקמה",
+      "gloss": "өч алууну"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "элдердин ичинде"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "укум-чыгарууну"
+    },
+    {
+      "surface": "בל",
+      "gloss": "кыйроо"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "калктардын ичинде"
+    }
+  ],
+  "timestamp": "2026-10-05T16:27:37.983231325Z",
+  "model": "glm-5.3"
+}

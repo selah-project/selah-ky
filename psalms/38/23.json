@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 38:23",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Адонайга",
+      "rationale": "Тикелей чакырык — 38-забурдун акыркы үнү."
+    },
+    {
+      "kind": "substitution",
+      "subject": "куткарылышым",
+      "rationale": "תשועתי — 'куткаруу, алыш' деген сөз; 'куткаруучум' (шаңсыз) эмес, иш-аракетти билдирет."
+    }
+  ],
+  "translation": "Ашыгып менин жардамыма кел, Адонай, менин куткарылышым.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "7fb400aef81bc22c72e283607a943b1b6969a3f8c97b1d199aef722d00c54b1f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/38\/21-23.1791215948444.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חושה",
+      "gloss": "ашыгып кел"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "менин жардамыма"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "תשועתי",
+      "gloss": "менин куткарылышым"
+    }
+  ],
+  "timestamp": "2026-10-05T15:59:08.445154667Z",
+  "model": "glm-5.3"
+}

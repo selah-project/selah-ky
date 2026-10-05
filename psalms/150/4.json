@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 150:4",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 150,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "Аны мактагыла",
+      "rationale": "Көп нускама буйрук — мактагыла деп чакыруу"
+    },
+    {
+      "kind": "crux",
+      "subject": "миним",
+      "rationale": "במנים: 'кылдуу аспаптар' же 'тар' — KJV 'stringed instruments', JPS ошондой; сөздүн так мааниси ачык эмес"
+    },
+    {
+      "kind": "crux",
+      "subject": "угав",
+      "rationale": "עוגב: KJV 'organs', ASV\/JPS 'pipe' (үйлөмө аспап) — камыш аспап же бир нече түтүктүү аспап"
+    }
+  ],
+  "translation": "Аны дап жана бий менен мактагыла, Аны кылдуу аспаптар жана үйлөмө аспап менен мактагыла.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "8fc37fa908d99ff3dca7263a60bc996111b9a02d907fe49864cc4d2159aad694",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/150\/4-4.1791224508310.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Аны мактагыла"
+    },
+    {
+      "surface": "בתף",
+      "gloss": "дап"
+    },
+    {
+      "surface": "ומחול",
+      "gloss": "жана бий"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "Аны мактагыла"
+    },
+    {
+      "surface": "במנים",
+      "gloss": "кылдуу аспаптар"
+    },
+    {
+      "surface": "ועוגב",
+      "gloss": "жана үйлөмө аспап"
+    }
+  ],
+  "timestamp": "2026-10-05T18:21:48.310806574Z",
+  "model": "glm-5.3"
+}

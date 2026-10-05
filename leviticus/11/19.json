@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 11:19",
+  "book": "leviticus",
+  "lang": "ky",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "хасида \/ анапа",
+      "rationale": "Хасида — ак кус (тырна), анапа — чардак деп божомолдонот, бирок так өлчөгө аныкталбайт."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חסידה",
+      "rationale": "Ат «кайырдуу» (хесед) деген тамырдан — тырнанын балдарына кам көрүшүнө байланышкан."
+    },
+    {
+      "kind": "elision",
+      "subject": "האנפה алдындагы ואת жок",
+      "rationale": "Анапанын алдында את жок — башка аяттардан айырмаланып турат."
+    }
+  ],
+  "translation": "жана ⟨את⟩ хасиданы, анапаны — өз түрү боюнча, жана ⟨את⟩ дүкифатты, жана ⟨את⟩ учкулду.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "4adbb0eca54bd254fe6c40c14044bbb8dcc24df06e1ba126b8139e8383848e82",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/11\/17-20.1791203013572.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "жана ⟨את⟩",
+      "marks": "хасиданы"
+    },
+    {
+      "surface": "החסידה",
+      "gloss": "хасиданы"
+    },
+    {
+      "surface": "האנפה",
+      "gloss": "анапаны"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "өз түрү боюнча"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "жана ⟨את⟩",
+      "marks": "дүкифатты"
+    },
+    {
+      "surface": "הדוכיפת",
+      "gloss": "дүкифатты"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "жана ⟨את⟩",
+      "marks": "учкулду"
+    },
+    {
+      "surface": "העטלף",
+      "gloss": "учкулду"
+    }
+  ],
+  "timestamp": "2026-10-05T12:23:33.573249852Z",
+  "model": "glm-5.3"
+}

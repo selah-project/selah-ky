@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 71:18",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 71,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Элохимге",
+      "rationale": "Тилектүү буйрук — Элохимге тикелей кайрылуу"
+    },
+    {
+      "kind": "substitution",
+      "subject": "колуңду",
+      "rationale": "זרועך «кол» — күчтүн образы; кыргызча да образ сакталды"
+    }
+  ],
+  "translation": "Жана карылыкка жана ак чачка да, Элохим, мени таштаба, урпакка, бүт келе тургандарга колуңду баян кылганга чейин, эрдигиңди.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "0118286a10e1e46bee30527964de21356cbc3893839826f74c7f2befec4d037f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/71\/17-20.1791216451677.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "жана да"
+    },
+    {
+      "surface": "עד",
+      "gloss": "чейин"
+    },
+    {
+      "surface": "זקנה",
+      "gloss": "карлык"
+    },
+    {
+      "surface": "ושיבה",
+      "gloss": "жана ак чач"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ал"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "мени таштаба"
+    },
+    {
+      "surface": "עד",
+      "gloss": "чейин"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "баян кылганга"
+    },
+    {
+      "surface": "זרועך",
+      "gloss": "колуңду"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "урпакка"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "бүт"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "келе тургандарга"
+    },
+    {
+      "surface": "גבורתך",
+      "gloss": "эрдигиңди"
+    }
+  ],
+  "timestamp": "2026-10-05T16:07:31.678044532Z",
+  "model": "glm-5.3"
+}

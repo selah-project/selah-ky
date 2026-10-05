@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 59:12",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 59,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "—",
+      "rationale": "Ат атоочтор 'аларды' кыргыз тилинин этиш конструкциясы үчүн кошулду."
+    },
+    {
+      "kind": "crux",
+      "subject": "ישכחו עמי",
+      "rationale": "'Элим унтпасын' же 'элдер унтпасын' — עמי меникин же көптүк сан экени талаштуу."
+    },
+    {
+      "kind": "you",
+      "subject": "Яхвеге",
+      "rationale": "Аят Адонайга тикелей багытталган тилеме."
+    }
+  ],
+  "translation": "Аларды өлтүрбө, элим унутуп калбасын; күчүң менен аларды тентитип жүргүз жана аларды түшүр, биздин калканыбыз — Адонай.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "f0283e5b1c1d299a88dc20399bc6a9716c62d1628082d08dfa487ce0e6e075c1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/59\/9-12.1791216291036.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "өлтүрбө"
+    },
+    {
+      "surface": "תהרגם",
+      "gloss": "аларды өлтүрүүнү"
+    },
+    {
+      "surface": "פן",
+      "gloss": "анткени унтпасын"
+    },
+    {
+      "surface": "ישכחו",
+      "gloss": "унутушпасын"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "элим"
+    },
+    {
+      "surface": "הניעמו",
+      "gloss": "аларды тентитип жүргүз"
+    },
+    {
+      "surface": "בחילך",
+      "gloss": "күчүң менен"
+    },
+    {
+      "surface": "והורידמו",
+      "gloss": "жана аларды түшүр"
+    },
+    {
+      "surface": "מגננו",
+      "gloss": "биздин калканыбыз"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    }
+  ],
+  "timestamp": "2026-10-05T16:04:51.037625506Z",
+  "model": "glm-5.3"
+}

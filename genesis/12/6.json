@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 12:6",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "эмени",
+      "rationale": "אלון — 'эмен\/күчтүү дарак'; KJV 'plain' (талаа) деп койгон, бирок мааниси 'чоң дарак'"
+    },
+    {
+      "kind": "addition",
+      "subject": "эле",
+      "rationale": "כנעני жекеше санда — 'кенаандык (эл)'; кыргызча 'кенаандыктар' болуп, ⟨эле⟩ менен айкындалды"
+    }
+  ],
+  "translation": "Аврахам жерди кесип өттү — Шехем жерине чейин, Море эменине чейин; кенаандыктар ошондо ал жерде эле.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "ccd62b972ee0a47e7a255490c1215609582bbbc4b970323e1d96fbedcf074ad8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/12\/5-8.1791200973146.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "өттү"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Аврахам"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "жерди"
+    },
+    {
+      "surface": "עד",
+      "gloss": "чейин"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "жери"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Шехем"
+    },
+    {
+      "surface": "עד",
+      "gloss": "чейин"
+    },
+    {
+      "surface": "אלון",
+      "gloss": "эмени"
+    },
+    {
+      "surface": "מורה",
+      "gloss": "Море"
+    },
+    {
+      "surface": "והכנעני",
+      "gloss": "жана кенаандык"
+    },
+    {
+      "surface": "אז",
+      "gloss": "ошондо"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "жерде"
+    }
+  ],
+  "timestamp": "2026-10-05T11:49:33.147843498Z",
+  "model": "glm-5.3"
+}

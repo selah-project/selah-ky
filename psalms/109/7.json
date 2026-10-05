@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 109:7",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 109,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יצא רשע",
+      "rationale": "'Мыйзамсыз бойдон чыксын' (күнөөлүү деп табылсын) — YLT 'goeth forth wicked' букмал; KJV 'let him be condemned'."
+    },
+    {
+      "kind": "alternative",
+      "subject": "күнөө болсун",
+      "rationale": "לחטאה — 'күнөөгө айлансын' же 'күнөө курмандыгы катары эсептелсин' (חטאה ошол эле сөз менен курмандыкты да билдирет)."
+    }
+  ],
+  "translation": "Аны соттогондо ал мыйзамсыз бойдон чыксын, жана анын дубасы күнөө болсун.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "6f19dae491a01475922e5575bbc1bde79c2b2eed86026de955e8e7f91e9ab34a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/109\/5-8.1791217187314.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בהשפטו",
+      "gloss": "аны соттогондо"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "чыксын"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "мыйзамсыз бойдон"
+    },
+    {
+      "surface": "ותפלתו",
+      "gloss": "жана анын дубасы"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "болсун"
+    },
+    {
+      "surface": "לחטאה",
+      "gloss": "күнөөгө"
+    }
+  ],
+  "timestamp": "2026-10-05T16:19:47.316137802Z",
+  "model": "glm-5.3"
+}

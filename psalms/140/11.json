@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 140:11",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 140,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨аларды>",
+      "rationale": "Ивриттин этиши transitivesiz — объект кыргызча түшүнүктүү болушу үчүн кошулду"
+    },
+    {
+      "kind": "crux",
+      "subject": "במהמרות",
+      "rationale": "'Терең чуңкурлар' (бир неше окуу бар) — саздуу же кыйроо чуңкуру дагы болушу мүмкүн"
+    }
+  ],
+  "translation": "Алардын үстүнө күйүп турган көмүрлөр жаансын; отко ⟨аларды> ыргытсын, терең чуңкурларга — кайра турбай калышсын.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "db49c15584be05e5ebb283b31fde4f7517fe03da85e02036b4390c4f2a7ec45b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/140\/9-12.1791217534733.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ימיטו",
+      "gloss": "жаансын"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "алардын үстүнө"
+    },
+    {
+      "surface": "גחלים",
+      "gloss": "күйүп турган көмүрлөр"
+    },
+    {
+      "surface": "באש",
+      "gloss": "отко"
+    },
+    {
+      "surface": "יפלם",
+      "gloss": "ыргытсын"
+    },
+    {
+      "surface": "במהמרות",
+      "gloss": "терең чуңкурларга"
+    },
+    {
+      "surface": "בל",
+      "gloss": "эч"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "турбай калышсын"
+    }
+  ],
+  "timestamp": "2026-10-05T16:25:34.734518065Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 3:19",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "күчтүү кол",
+      "rationale": "ביד חזקה — Яхвенин колу бу (3:20 менен салыштыр), падышаныкы эмес; KJV «no, not by a mighty hand» ката деп эсептелет."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨гана⟩ · ⟨менен⟩",
+      "rationale": "Ивриттин кыска «вело бияд хазака» туюмун кыргызча ачуу үчүн кошулду."
+    }
+  ],
+  "translation": "Жана Мен билдим: Мицрайим падышасы сиздерди кетүүгө бербейт — болбосо ⟨гана⟩ күчтүү кол ⟨менен⟩.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "64c0c3502f33f3de0c91dcbba50b98d012ea31987bf1a80bc71638ff1353de6c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/3\/19-20.1791223596547.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Жана Мен"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "билдим"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгүл"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "бербейт"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "сиздер"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "падышасы"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицрайим"
+    },
+    {
+      "surface": "להלך",
+      "gloss": "кетүүгө"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "болбосо"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "кол"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "күчтүү"
+    }
+  ],
+  "timestamp": "2026-10-05T18:06:36.548134480Z",
+  "model": "glm-5.3"
+}

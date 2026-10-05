@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 48:14",
+  "book": "ezekiel",
+  "lang": "ky",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "алгачкы жемиш",
+      "rationale": "ראשית — 'алгачкы, биринчи эмче'; кыргызча так бир сөз жок, 'биринчи үлүш' дагы мүмкүн."
+    },
+    {
+      "kind": "crux",
+      "subject": "ימר",
+      "rationale": "Сейрек кездешкен тамыр מור — 'алмаштыруу' же 'башка колго өткөрүү'; котормолор 'alienate\/exchange' деп бөлүшөт."
+    }
+  ],
+  "translation": "Аны сатышпайт, алмаштырышпайт да, жердин алгачкы жемишин өткөрүп беришпейт да, анткени ал Яхвеге ыйык.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "50ab0ce3e44692fbb883a81808004f033f33e684399275df9ca34d212703607e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ezekiel\/48\/13-16.1791213848060.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "ימכרו",
+      "gloss": "сатышпайт"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "андан"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "ימר",
+      "gloss": "алмаштырышпайт"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "өткөрүп беришпейт"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "алгачкы жемиш"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "жердин"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ыйык"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхвеге"
+    }
+  ],
+  "timestamp": "2026-10-05T15:24:08.061291840Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 46:6",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨анын⟩",
+      "rationale": "еврейче 'ал' (шаар — аялча сөз) кыргызча так кылуу үчүн кошулду"
+    },
+    {
+      "kind": "crux",
+      "subject": "лифнот бокер",
+      "rationale": "'таң атаар заман' же 'эртең менен эрте' — эки окуу бар"
+    }
+  ],
+  "translation": "Элохим ⟨анын⟩ ичинде — ал таптакыр тайбайт; Элохим аны таң атаар заман жардамдайт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "cb68144b53611ae5fffcd48d5663c80d179f8bc221b6909b7282ed527f016b73",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/46\/5-8.1791216094734.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "ичинде"
+    },
+    {
+      "surface": "בל",
+      "gloss": "таптакыр"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "тайбайт"
+    },
+    {
+      "surface": "יעזרה",
+      "gloss": "жардамдайт"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "לפנות",
+      "gloss": "аertaar заман"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "таң"
+    }
+  ],
+  "timestamp": "2026-10-05T16:01:34.735478667Z",
+  "model": "glm-5.3"
+}

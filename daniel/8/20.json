@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "daniel 8:20",
+  "book": "daniel",
+  "lang": "ky",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "бул",
+      "rationale": "Еврейче жок: «кочкор — падышалары» деген байланыш кыргызча копула талап кылат"
+    },
+    {
+      "kind": "secret",
+      "subject": "көрүнүштүн жоруусу",
+      "rationale": "жашыруун белгилерди ачып берүү — көрүнүштүн мааниси ачылды"
+    }
+  ],
+  "translation": "Сен көргөн мүйүздөрдүн ээси болгон кочкор — алар Мадай менен Парастын падышалары ⟨бул⟩.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "b79ab87780cf7b9f740bd9afe9a8f5a3b37948d8fddfb1eaf173642ba8edb2b8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/daniel\/8\/17-20.1791220710329.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "האיל",
+      "gloss": "кочкор"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "болгон"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "сен көргөн"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "ээси"
+    },
+    {
+      "surface": "הקרנים",
+      "gloss": "мүйүздөрдүн"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "падышалары"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "Мадай"
+    },
+    {
+      "surface": "ופרס",
+      "gloss": "жана Парас"
+    }
+  ],
+  "timestamp": "2026-10-05T17:18:30.331232442Z",
+  "model": "glm-5.3"
+}

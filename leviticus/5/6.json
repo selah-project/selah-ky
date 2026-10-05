@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 5:6",
+  "book": "leviticus",
+  "lang": "ky",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "кечирим жасайт",
+      "rationale": "כפר литералдык 'каптоо' — кыргызча 'кечирим жасоо' дегенде каптоо сүрөтү жоголот."
+    },
+    {
+      "kind": "substitution",
+      "subject": "айып курманы",
+      "rationale": "אשם 'күнөөлүүлүк' жана ошол күнөөлүүлүктүн курманы — эки маани бир сөздө."
+    }
+  ],
+  "translation": "Жана ал ⟨את⟩ өз айып курманын Яхвеге алып келет — күнөөсү үчүн, күнөө кылганы боюнча: малдан ургаачыны, козу же эчкинин ургаачысын, күнөө курманы катары; жана коэн анын күнөөсү боюнча анын үчүн кечирим жасайт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "353b9ad6baeef4a785dce2d4fb73ff8793908adc996272aa6b5098546726e5ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/5\/5-8.1791202942754.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "алып келет"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "өз айып курманын"
+    },
+    {
+      "surface": "אשמו",
+      "gloss": "өз айып курманын"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхвеге"
+    },
+    {
+      "surface": "על",
+      "gloss": "үчүн"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "күнөөсү"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "эмнени"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "күнөө кылганы"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "ургаачыны"
+    },
+    {
+      "surface": "מן",
+      "gloss": "малдан"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "мал"
+    },
+    {
+      "surface": "כשבה",
+      "gloss": "козу"
+    },
+    {
+      "surface": "או",
+      "gloss": "же"
+    },
+    {
+      "surface": "שעירת",
+      "gloss": "эчкинин"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "эчки"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "күнөө курманы катары"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "кечирим жасайт"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "анын үчүн"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "коэн"
+    },
+    {
+      "surface": "מחטאתו",
+      "gloss": "күнөөсү боюнча"
+    }
+  ],
+  "timestamp": "2026-10-05T12:22:22.755661250Z",
+  "model": "glm-5.3"
+}

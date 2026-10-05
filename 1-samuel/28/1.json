@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 28:1",
+  "book": "1-samuel",
+  "lang": "ky",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ידע תדע",
+      "rationale": "Эврейче инфинитив + этиш күчөтүүсү «билип кой» деп берилди, так кайталоо эмес."
+    },
+    {
+      "kind": "elision",
+      "subject": "אתי",
+      "rationale": "H854 жакындык алдынан келген ⟨את⟩ белгиси «менен» предлогу менен бирге берилди."
+    }
+  ],
+  "translation": "Ошол күндөрдө плиштилер ⟨את⟩ аскерлерин согушка Йисраэлге каршы урушуу үчүн чогултту. Жана Акиш Давидге айтты: Билип кой, сен ⟨את⟩ менен бирге лагерге чыгасың, сен жана адамдарың.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "01b4ed8b808cd60963a2e881c7445ab5371f86cc1f2f6a8af384f184e9c2c419",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-samuel\/28\/1-4.1791207279777.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "болду"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "күндөрдө"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "ошол"
+    },
+    {
+      "surface": "ויקבצו",
+      "gloss": "чогултту"
+    },
+    {
+      "surface": "плиштилер",
+      "gloss": "плиштилер"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "аскерлерин"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "аскерлерин"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "согушка"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "урушуу үчүн"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Йисраэлге каршы"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "жана айтты"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Акиш"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…га"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "бил"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "билесиң"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…ды"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ менен"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "чыгасың"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "лагерге"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "сен"
+    },
+    {
+      "surface": "ואנשיך",
+      "gloss": "жана адамдарың"
+    }
+  ],
+  "timestamp": "2026-10-05T13:34:39.778417023Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 10:3",
+  "book": "ecclesiastes",
+  "lang": "ky",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לבו חסר",
+      "rationale": "«жүрөгү жетишпейт» (акылы жок) же «жүрөгү аны таштайт» деген эки окуу бар."
+    },
+    {
+      "kind": "crux",
+      "subject": "ואמר לכל סכל הוא",
+      "rationale": "«Ал баарына: акмак бул» деген сөздү өзү айтабы же анын жүрүш-турушу баарына «бул акмак» экенин көрсөтөбү — эки окуу бар."
+    }
+  ],
+  "translation": "Жана ошондой эле жолдо акмак жүргөндө, анын жүрөгү жетишпейт, жана ал баарына: акмак ⟨бул⟩ деп айтат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "ea9d772119811af4e802c9749728f9de1c8363a5cb710a531ef5092d0f979d10",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ecclesiastes\/10\/1-4.1791220099270.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "жана ошондой эле"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "жолдо"
+    },
+    {
+      "surface": "כשהסכל",
+      "gloss": "акмак"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "жүргөндө"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "анын жүрөгү"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "жетишпейт"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "жана ... айтат"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "баарына"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "акмак"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "бул"
+    }
+  ],
+  "timestamp": "2026-10-05T17:08:19.272275218Z",
+  "model": "glm-5.3"
+}

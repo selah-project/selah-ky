@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 26:18",
+  "book": "proverbs",
+  "lang": "ky",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "маселенин тартиби",
+      "rationale": "ивриттин сөз тартиби сакталбай калды; салыштыруу түзү жазылса: 'акылдан адашкан адам от-жылчаларды, жааларды жана өлүмдү чачканга окшойт'"
+    },
+    {
+      "kind": "hapax",
+      "subject": "מתלהלה",
+      "rationale": "'акылдан адашкан' деген бул форма Танахта мынта жолу эле кездешет"
+    }
+  ],
+  "translation": "Оюн сымактанып акылдан адашкан адам ок жаадырып, от-жылчаларды, өлүмдү чачат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "a4d1658b670530c0c88c2c8dedb6453aa08a75076a469900f032720404026761",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/26\/17-20.1791218368194.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כמתלהלה",
+      "gloss": "акылдан адашкан адам"
+    },
+    {
+      "surface": "הירה",
+      "gloss": "чаачат"
+    },
+    {
+      "surface": "זקים",
+      "gloss": "от-жылчаларды"
+    },
+    {
+      "surface": "חצים",
+      "gloss": "ок жаадырып"
+    },
+    {
+      "surface": "ומות",
+      "gloss": "өлүмдү"
+    }
+  ],
+  "timestamp": "2026-10-05T16:39:28.195314968Z",
+  "model": "glm-5.3"
+}

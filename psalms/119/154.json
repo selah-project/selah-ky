@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 154,
+  "ref": "psalms 119:154",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ריבה ריבי",
+      "rationale": "Этиш менен зат атында бир э тамырдын кайталанышы — «талашып бер менин талашымды», кыргызча аз эсте калат"
+    },
+    {
+      "kind": "substitution",
+      "subject": "төлөп ал",
+      "rationale": "גאל — туугандык укугу боюнча жакын-гоэл тарабынан куткаруу; «куткар» деген жетпейт"
+    }
+  ],
+  "translation": "Менин талашымды талашып бер жана мени төлөп ал, Сенин сөзүң боюнча мени жандандыр.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "d9cd2a4448b346bfe8c458de5e12ce2d95eeea0365c61bc1ac437241aafe7d5b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/119\/153-156.1791217361904.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ריבה",
+      "gloss": "талашып бер"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "менин талашымды"
+    },
+    {
+      "surface": "וגאלני",
+      "gloss": "жана мени төлөп ал"
+    },
+    {
+      "surface": "לאמרתך",
+      "gloss": "Сенин сөзүң боюнча"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "мени жандандыр"
+    }
+  ],
+  "timestamp": "2026-10-05T16:22:41.905827213Z",
+  "model": "glm-5.3"
+}

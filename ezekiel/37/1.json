@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 37:1",
+  "book": "ezekiel",
+  "lang": "ky",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "рух",
+      "rationale": "ברוח — рух: шамал, дем жана Рух маанилерин бир сөз кармайт"
+    },
+    {
+      "kind": "you",
+      "subject": "Ezekielге",
+      "rationale": "Яхвенин колу пайгамбардын үстүнө түшүп, ага кайрылуу башталат"
+    }
+  ],
+  "translation": "Яхвенин колу менин үстүмдө болду, жана Яхвенин руху мени алып чыгып, өрөөндүн ортосуна койду, ал болсо сөөктөргө толу эле.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "1c399e9c78506042a1113dc1c8c0a8868f76c6c7895890eefdd5d57653f05254",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ezekiel\/37\/1-4.1791213342117.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "болду"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "минин үстүмдө"
+    },
+    {
+      "surface": "יד",
+      "gloss": "колу"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    },
+    {
+      "surface": "ויוצאני",
+      "gloss": "мени алып чыгып"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "руху"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    },
+    {
+      "surface": "ויניחני",
+      "gloss": "койду"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ортосуна"
+    },
+    {
+      "surface": "הבקעה",
+      "gloss": "өрөөндүн"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "ал"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "толу эле"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "сөөктөргө"
+    }
+  ],
+  "timestamp": "2026-10-05T15:15:42.117631126Z",
+  "model": "glm-5.3"
+}

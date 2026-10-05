@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 12:18",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Фараон Аврахамга",
+      "rationale": "Түз кат — Фараон Аврахамды катылдап сурайт"
+    },
+    {
+      "kind": "elision",
+      "subject": "כי",
+      "rationale": "«анткени ал сенин аялың» деген шарттуу байламча котормодо «экенин... жоксун» ичине жутулду"
+    }
+  ],
+  "translation": "Фараон Аврахамды чакыртып айтты: «Мага бул эмне кылдың? Ал сенин аялың экенин мага эмне үчүн билдирген жоксун?»",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "a4dd18830dc8f9f85311a466f04aac5c84f97876a68ccd7dd995aaa03281a13f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/12\/17-20.1791200937506.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "чакыртып"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Фараон"
+    },
+    {
+      "surface": "לאברם",
+      "gloss": "Аврахамды"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "מה",
+      "gloss": "эмне"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "бул"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "кылдың"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мага"
+    },
+    {
+      "surface": "למה",
+      "gloss": "эмне үчүн"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "הגדת",
+      "gloss": "билдирдиң"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мага"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "аялың"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ал"
+    }
+  ],
+  "timestamp": "2026-10-05T11:48:57.507606394Z",
+  "model": "glm-5.3"
+}

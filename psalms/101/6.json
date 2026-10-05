@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 101:6",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 101,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "адам",
+      "rationale": "«бүтүн жолдо жүргөн адам» — еврей текстте «жүргөн» этиши гана бар, «адам» сөзү тил талап кылганы үчүн кошулду."
+    }
+  ],
+  "translation": "Менин көздөрүм жердин ишенимдүүлөрүнө — мени менен жашоо үчүн; бүтүн жолдо жүргөн адам — ал мага кызмат кылат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "752dc5bdafb1c1ddfe14a1ce4d7bfa2679cce1bf0a40c35d771455eacfa97750",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/101\/5-8.1791217046985.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "көздөрүм"
+    },
+    {
+      "surface": "בנאמני",
+      "gloss": "ишенимдүүлөрүнө"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "жердин"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "жашоо үчүн"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "мени менен"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "жүргөн"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "жолдо"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "бүтүн"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ал"
+    },
+    {
+      "surface": "ישרתני",
+      "gloss": "мага кызмат кылат"
+    }
+  ],
+  "timestamp": "2026-10-05T16:17:26.986070214Z",
+  "model": "glm-5.3"
+}

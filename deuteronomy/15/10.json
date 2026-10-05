@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 15:10",
+  "book": "deuteronomy",
+  "lang": "ky",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נתון תתן",
+      "rationale": "Инфинитив + этиш — толук эмфаза «бере бер»; кыргызча «бер, бер» деп айтылды."
+    },
+    {
+      "kind": "you",
+      "subject": "Ысрайылга",
+      "rationale": "Буйрук экинчи жамаат\/address жалгымасы (сенин, сенде)."
+    }
+  ],
+  "translation": "Бер, бер ага, жана жүрөгүң кайгырбасын ага бергениңде, анткени ушул иштин себебинен Яхве, сенин Элохимиң, сени баталай берет бардык иштериңде жана колуң сунган бардык нерсеңде.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "fbb08bcabab7bc6f9dae348b1c49d1977f430cc1d972dc1d15d1c7f8e82a9bc6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/15\/9-12.1791205013672.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נתון",
+      "gloss": "бер"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "бер"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ага"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "жана эмес"
+    },
+    {
+      "surface": "ירע",
+      "gloss": "кайгырбасын"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "жүрөгүң"
+    },
+    {
+      "surface": "בתתך",
+      "gloss": "бергениңде"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ага"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "בגלל",
+      "gloss": "себебинен"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "иштин"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ушул"
+    },
+    {
+      "surface": "יברכך",
+      "gloss": "сени баталайт"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "сенин Элохимиң"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "бардык"
+    },
+    {
+      "surface": "מעשך",
+      "gloss": "иштериңде"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "жана бардык"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "сунган"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "колуң"
+    }
+  ],
+  "timestamp": "2026-10-05T12:56:53.672967758Z",
+  "model": "glm-5.3"
+}

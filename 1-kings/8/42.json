@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-kings 8:42",
+  "book": "1-kings",
+  "lang": "ky",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "табынып сыйынса",
+      "rationale": "התפלל — сыйынуу, дуба кылуу; «бул үйгө» багытталган"
+    }
+  ],
+  "translation": "анткени алар сенин чоң атыңды, сенин күчтүү колуңду жана сенин сунулган билегиңди укканда, келип бул үйге табынып сыйынса —",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "ab4b6a7cdf6d99444742646c80488fa8f5c51650af67be0d7781aeea194e6b57",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-kings\/8\/41-44.1791208251847.json",
+    "code": "641241cf-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "ישמעון",
+      "gloss": "укканда"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "атыңды"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "атың"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "чоң"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "жана ⟨את⟩",
+      "marks": "колуңду"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "колуң"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "күчтүү"
+    },
+    {
+      "surface": "וזרעך",
+      "gloss": "жана билегиң"
+    },
+    {
+      "surface": "הנטויה",
+      "gloss": "сунулган"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "келип"
+    },
+    {
+      "surface": "והתפלל",
+      "gloss": "сыйынса"
+    },
+    {
+      "surface": "אל",
+      "gloss": "−га"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "үйгө"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "бул"
+    }
+  ],
+  "timestamp": "2026-10-05T13:50:51.848560683Z",
+  "model": "glm-5.3"
+}

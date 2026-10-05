@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 9:18",
+  "book": "proverbs",
+  "lang": "ky",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Рефаимдер",
+      "rationale": "רפאים — көп версийяларда 'өлгөндөр' деп берилет; формасы сакталып калды."
+    },
+    {
+      "kind": "crux",
+      "subject": "анын чакырылгандары",
+      "rationale": "קראיה — 'анын чакырылгандары' (коноктору) же 'анын чакыруусу жеткен жери' деп окшоштуруп талаш бар."
+    },
+    {
+      "kind": "addition",
+      "subject": "турарын",
+      "rationale": "Экинчи сүйлөмдө этиш жок, кыргызча айкындоо үчүн кошулду."
+    }
+  ],
+  "translation": "Жана ал билбейт, мында Рефаимдер турганын, Шеолдун тереңдиктеринде анын чакырылгандары турарын.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "6fa2c59682590fb39dcd4b7409845d04b1d5edf387481cb32aebb8bbd0fe9104",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/9\/17-18.1791217824630.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "жана ал билбейт"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "билбейт"
+    },
+    {
+      "surface": "כי",
+      "gloss": "мында"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "Рефаимдер"
+    },
+    {
+      "surface": "שם",
+      "gloss": "турганын"
+    },
+    {
+      "surface": "בעמקי",
+      "gloss": "тереңдиктеринде"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шеолдун"
+    },
+    {
+      "surface": "קראיה",
+      "gloss": "анын чакырылгандары"
+    }
+  ],
+  "timestamp": "2026-10-05T16:30:24.631743290Z",
+  "model": "glm-5.3"
+}

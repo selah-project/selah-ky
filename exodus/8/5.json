@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 8:5",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "התפאר עלי",
+      "rationale": "буквально «величайся надо мною» — идиома уступки\/предоставления выбора, кыргызча «мага өзүңдү көтөр»"
+    },
+    {
+      "kind": "substitution",
+      "subject": "להכרית",
+      "rationale": "буквально «кесип таштоо» — кыргызча «кырып жиберейин»"
+    },
+    {
+      "kind": "you",
+      "subject": "Моше Парго",
+      "rationale": "Моше падыша Парго тикелей кайрылат, сурам берет"
+    },
+    {
+      "kind": "alternative",
+      "subject": "למתי",
+      "rationale": "«качан» деген суроо же «кайсы убакка чейин» деген мааниде окшош"
+    }
+  ],
+  "translation": "Жана Моше Парга айтты: Мага өзүңдү көтөр — качан сага, кызматчыларыңа жана элиңе жалбарып, бакаларды сенден жана үйлөрүңдөн кырып жиберейин, алар дарыяда гана калсын?",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "9e9427d8b92bb99e327c4bad150b756db9234ba05a5d4e14ddea01e356c1831e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/8\/5-8.1791202000667.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "Парга"
+    },
+    {
+      "surface": "התפאר",
+      "gloss": "өзүңдү көтөр"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "мага"
+    },
+    {
+      "surface": "למתי",
+      "gloss": "качан"
+    },
+    {
+      "surface": "אעתיר",
+      "gloss": "жалбарып"
+    },
+    {
+      "surface": "לך",
+      "gloss": "сага"
+    },
+    {
+      "surface": "ולעבדיך",
+      "gloss": "жана кызматчыларыңа"
+    },
+    {
+      "surface": "ולעמך",
+      "gloss": "жана элиңе"
+    },
+    {
+      "surface": "להכרית",
+      "gloss": "кырып жиберейин"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "бакаларды"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "сенден"
+    },
+    {
+      "surface": "ומבתיך",
+      "gloss": "жана үйлөрүңдөн"
+    },
+    {
+      "surface": "רק",
+      "gloss": "гана"
+    },
+    {
+      "surface": "ביאר",
+      "gloss": "дарыяда"
+    },
+    {
+      "surface": "תשארנה",
+      "gloss": "калсын"
+    }
+  ],
+  "timestamp": "2026-10-05T12:06:40.667881648Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 60:5",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 60,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "тайгана турган",
+      "rationale": "תרעלה — тайгануу, тең салмакты жоготуу; 'таң калтуу' (KJV 'astonishment') бул сөздүн сүрөтүн жоготот"
+    },
+    {
+      "kind": "addition",
+      "subject": "нерсе",
+      "rationale": "Кыргызча 'катуу' сыяктоочтун жанына зат аты талап кылынат; еврейче קשה жөн эле 'катуу'"
+    }
+  ],
+  "translation": "Сен Өз элиңе катуу нерсе көрсөттүң; бизге тайгана турган шарап ичирдиң.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "84865b9bc7ed5901f6561e9ff6231f3a2236584bb0617519ad72f3b3def82612",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/60\/5-8.1791216320750.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הראיתה",
+      "gloss": "көрсөттүң"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "элиңе"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "катуу нерсе"
+    },
+    {
+      "surface": "השקיתנו",
+      "gloss": "ичирдиң"
+    },
+    {
+      "surface": "יין",
+      "gloss": "шарап"
+    },
+    {
+      "surface": "תרעלה",
+      "gloss": "тайгана турган"
+    }
+  ],
+  "timestamp": "2026-10-05T16:05:20.751248432Z",
+  "model": "glm-5.3"
+}

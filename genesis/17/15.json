@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 17:15",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Аврахамга",
+      "rationale": "Элохим Аврахамды түз кайрылат — ысым өзгөртүү буйругу"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שרי \/ שרה",
+      "rationale": "Ысымдын бир тамгасы өзгөрөт; аттын өзгөрүшү — келишимдин белгиси"
+    }
+  ],
+  "translation": "Жана Элохим Аврахамга айтты: Сараи аялың — анын ⟨את⟩ атын Сараи дебе, анткени Сара анын аты.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "bd70323f7013dc768a279706e7a0a734fca4f182081ac9899ddff6f8d6046068",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/17\/13-16.1791201032601.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "жана айтты"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "אל",
+      "gloss": "га"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Аврахам"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Сараи"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "аялың"
+    },
+    {
+      "surface": "לא",
+      "gloss": "дебе"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "атабы"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "атын"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "атын"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Сараи"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Сара"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "аты"
+    }
+  ],
+  "timestamp": "2026-10-05T11:50:32.602576780Z",
+  "model": "glm-5.3"
+}

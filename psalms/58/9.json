@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 58:9",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 58,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жылан баш",
+      "rationale": "שבלול — өз илээшкек слюнасында ээрип жок болуучу жылан баш (слизень); так сөздө сүйлөшпөгөн маани бар"
+    },
+    {
+      "kind": "crux",
+      "subject": "ээрип барат",
+      "rationale": "תמס יהלך: 'ээп жүрүп барат' — айрым котормолор 'жок болсун' деп буйрук мааниде берет, бирок этиш жөн гана алып баруучу сүрөт"
+    }
+  ],
+  "translation": "Жылан баш сыяктуу ээрип барат, аялдын түшүк баласы сыяктуу — алар күндү көрүшпөйт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "ea2bc0f6056bf10dd255aee67c697fe854f5f7cff9f4b2e24ed5ae95ffd77e08",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/58\/9-12.1791216211377.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כמו",
+      "gloss": "сыяктуу"
+    },
+    {
+      "surface": "שבלול",
+      "gloss": "жылан баш"
+    },
+    {
+      "surface": "תמס",
+      "gloss": "ээрип"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "барат"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "түшүк баласы"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "аялдын"
+    },
+    {
+      "surface": "בל",
+      "gloss": "эч"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "көрүшпөйт"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "күндү"
+    }
+  ],
+  "timestamp": "2026-10-05T16:03:31.378406158Z",
+  "model": "glm-5.3"
+}

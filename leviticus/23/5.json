@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 23:5",
+  "book": "leviticus",
+  "lang": "ky",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "בין הערבים",
+      "rationale": "«эңкейүүлөрдүн ортосунда» — literal idiom for dusk between sunset and dark; 'кээ жакта «чакта» деп берилет'"
+    },
+    {
+      "kind": "addition",
+      "subject": "күнүндө",
+      "rationale": "кечээ-түн мааниси он төрт санынан келип чыгат, кыргызча «күн» сөзү кошулду"
+    },
+    {
+      "kind": "measurement",
+      "subject": "айдын он төртүнчү",
+      "rationale": "пасахтын датасы так саналат"
+    }
+  ],
+  "translation": "Биринчи айда, айдын он төртүнч〈ү〉 күнүндө, эңкейүүлөрдүн ортосунда — Песах Яхвеге.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "aaddea67b567a03f02648c5bab695ddf236514b61cd15164fc86a80f7f406873",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/23\/5-8.1791203354168.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "айда"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "биринчи"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "он төрт"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-төртүнчү"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "айдын"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ортосунда"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "эңкейүүлөрдүн"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Песах"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхвеге"
+    }
+  ],
+  "timestamp": "2026-10-05T12:29:14.168785052Z",
+  "model": "glm-5.3"
+}

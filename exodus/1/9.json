@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 1:9",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ал",
+      "rationale": "Ивритте этиштин жанындагы жашырын субъективти ачык көрсөтүү үчүн кошулду"
+    },
+    {
+      "kind": "elision",
+      "subject": "הנה",
+      "rationale": "'Карагыла' — чакыруу маанисинде берилди, буйрук сымал"
+    }
+  ],
+  "translation": "Жана ал өз элине айтты: Карагыла, Йисраэлдин уулдарынын эли бизден көп жана күчтүү.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "1777181d08a5f2f08fe98eeffcc2c9858f50b97451757d10d76d1d9b4be10f5e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/1\/9-12.1791201841842.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Жана ал айтты"
+    },
+    {
+      "surface": "אל",
+      "gloss": "өз"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "элине"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Карагыла"
+    },
+    {
+      "surface": "עם",
+      "gloss": "эли"
+    },
+    {
+      "surface": "בני",
+      "gloss": "уулдарынын"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэл"
+    },
+    {
+      "surface": "רב",
+      "gloss": "көп"
+    },
+    {
+      "surface": "ועצום",
+      "gloss": "жана күчтүү"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "бизден"
+    }
+  ],
+  "timestamp": "2026-10-05T12:04:01.842666182Z",
+  "model": "glm-5.3"
+}

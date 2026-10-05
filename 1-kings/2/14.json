@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 2:14",
+  "book": "1-kings",
+  "lang": "ky",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "bir sözüm bar",
+      "rationale": "דבר לי אליך букв. «мага сөз сага» — кыргызча «айтар сөзүм бар» деп берилди"
+    }
+  ],
+  "translation": "Жана ал айтты: «Сага айтар бир сөзүм бар». Ал аял айтты: «Айт».",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "821f81cb60b100be09e801f68e96ef2d54e7a9d5349f971f72540a75bf0b53c1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-kings\/2\/13-16.1791207971804.json",
+    "code": "641241cf-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "жана ал айтты"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сөз"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мага"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "сага"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "ал аял айтты"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "айт"
+    }
+  ],
+  "timestamp": "2026-10-05T13:46:11.805472146Z",
+  "model": "glm-5.3"
+}

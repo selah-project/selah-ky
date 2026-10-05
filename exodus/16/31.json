@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 16:31",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "эле",
+      "rationale": "Еврейче этиштин убактысы кыргызча өткөн чакты талап кылат"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מן",
+      "rationale": "Ман — «бул эмне?» (ман ху) деген суроодон чыккан ат, суроо менен жооп оюну которулбай калат"
+    }
+  ],
+  "translation": "Йисраэл үй-бүлөсү ⟨את⟩ анын атын Ман деп атады; ал кой багырдын үрөңүнө окшош, аппак, даамы бал аралашкан жука нанга окшош эле.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "dc64eb92fd66c561715791ee4c52d4ee26b946a0cf6c7b958822b20cca9f2675",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/16\/29-32.1791202204935.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקראו",
+      "gloss": "атады"
+    },
+    {
+      "surface": "בית",
+      "gloss": "үй-бүлөсү"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэл"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "анын атын"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "атын"
+    },
+    {
+      "surface": "מן",
+      "gloss": "Ман"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ал"
+    },
+    {
+      "surface": "כזרע",
+      "gloss": "үрөңүнө окшош"
+    },
+    {
+      "surface": "גד",
+      "gloss": "кой багыр"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "аппак"
+    },
+    {
+      "surface": "וטעמו",
+      "gloss": "даамы"
+    },
+    {
+      "surface": "כצפיחת",
+      "gloss": "жука нанга окшош"
+    },
+    {
+      "surface": "בדבש",
+      "gloss": "бал аралашкан"
+    }
+  ],
+  "timestamp": "2026-10-05T12:10:04.936762708Z",
+  "model": "glm-5.3"
+}

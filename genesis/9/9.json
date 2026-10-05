@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 9:9",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "менен",
+      "rationale": "еврейче אתכם жөн гана «жакын» деген предлог, кыргызча «менен» талап кылынат"
+    },
+    {
+      "kind": "you",
+      "subject": "силер",
+      "rationale": "Нухка жана анын уулдарына түз кайрылуу"
+    }
+  ],
+  "translation": "Жана Мен — мына, Мен Өз келишимимди ⟨את⟩ силер менен жана ⟨את⟩ силерден кийинки үрөнүңөр менен түзөм.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "fb44e1092d1fb740f0e2f3310daf8425a79afdba70c5fbdf1ff70fd622b8241d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/9\/9-12.1791200849169.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "жана Мен"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "мына"
+    },
+    {
+      "surface": "מקים",
+      "gloss": "түзөм"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "келишимим"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "Өз келишимимди"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "жана ⟨את⟩"
+    },
+    {
+      "surface": "זרעכם",
+      "gloss": "үрөнүңөр"
+    },
+    {
+      "surface": "אחריכם",
+      "gloss": "силерден кийинки"
+    }
+  ],
+  "timestamp": "2026-10-05T11:47:29.169805507Z",
+  "model": "glm-5.3"
+}

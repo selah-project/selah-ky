@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 105:37",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "менен",
+      "rationale": "בְ־ инструментал мүчөсү кыргызча «менен» предлоги аркылуу берилди"
+    },
+    {
+      "kind": "crux",
+      "subject": "כושל",
+      "rationale": "«тайгактоочу\/буту тайгак» — JPS «стumbled», KJV «feeble»: тамыр буттун алсыздыгын билдирет"
+    }
+  ],
+  "translation": "Аларды күмүш жана алтын менен алып чыкты, жана анын урууларынын ичинде тайгактоочу жок эле.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "13de54975d6c0cf9b7d16426a426cdfa39d7074471677b7046572bcaf8b6fda9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/105\/37-40.1791217070213.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויוציאם",
+      "gloss": "алып чыкты"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "күмүш"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "алтын"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "жок эле"
+    },
+    {
+      "surface": "בשבטיו",
+      "gloss": "анын урууларынын ичинде"
+    },
+    {
+      "surface": "כושל",
+      "gloss": "тайгактоочу"
+    }
+  ],
+  "timestamp": "2026-10-05T16:17:50.215129983Z",
+  "model": "glm-5.3"
+}

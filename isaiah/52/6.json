@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 52:6",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 52,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "לכן ... לכן",
+      "rationale": "«Ошондуктан» деген эки жолу кайталануу — риторикалык тепкич, кыргызча да сакталды"
+    },
+    {
+      "kind": "elision",
+      "subject": "כי",
+      "rationale": "Байлангыч кыргызча сүйлөмдө ашыкча болуп калды"
+    },
+    {
+      "kind": "you",
+      "subject": "элим",
+      "rationale": "Яхве Өз элине кайрылат, алар Ысымды биле тургаш болушат"
+    }
+  ],
+  "translation": "Ошондуктан элим Менин ысымымды билээр; ошондуктан ал күндө билишээр: сүйлөгөн Мен Өзүммин — мына Мен.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "17a0d5b5305304b5616921379a630b1480cb073a9859874504cd56cacac24513",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/52\/5-8.1791210412364.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "ошондуктан"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "билээр"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "элим"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "Менин ысымымды"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "ошондуктан"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ал күндө"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "⟨ошол⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Мен"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Өзүммин"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "сүйлөгөн"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "мына Мен"
+    }
+  ],
+  "timestamp": "2026-10-05T14:26:52.365160093Z",
+  "model": "glm-5.3"
+}

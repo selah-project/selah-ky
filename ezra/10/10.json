@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 10:10",
+  "book": "ezra",
+  "lang": "ky",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "чогулган элге",
+      "rationale": "Эзра элге түз кайрылуу: 'Силер чыккынчылык кылдыңар'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "чет элдик аялдар",
+      "rationale": "נכריות 'бөтөн, чет' деген сөз; 'бузук' деген маани киргизилген жок."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מעל \/ אשמה",
+      "rationale": "מעל 'жашыруун чыккынчылык' жана אשמה 'күнөө' — күнөөнүн эки катмары бир аятта."
+    }
+  ],
+  "translation": "Жана ыйык кызматкер Эзра турду жана аларга айтты: Силер чыккынчылык кылдыңар жана чет элдик аялдарды алып, Йисраэлдин күнөөсүнө коштуңар.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "9f9f29d41547f27acca2cbb80ea88b76eef33363cefd452f4051d3d6e31f1b94",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ezra\/10\/9-12.1791221178599.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "турду"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "Эзра"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ыйык кызматкер"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "жана айтты"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "аларга"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "Силер"
+    },
+    {
+      "surface": "מעלתם",
+      "gloss": "чыккынчылык кылдыңар"
+    },
+    {
+      "surface": "ותשיבו",
+      "gloss": "алып"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "аялдарды"
+    },
+    {
+      "surface": "נכריות",
+      "gloss": "чет элдик"
+    },
+    {
+      "surface": "להוסיף",
+      "gloss": "коштуңар"
+    },
+    {
+      "surface": "על",
+      "gloss": "үчүн"
+    },
+    {
+      "surface": "אשמת",
+      "gloss": "күнөөсүнө"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэлдин"
+    }
+  ],
+  "timestamp": "2026-10-05T17:26:18.600105044Z",
+  "model": "glm-5.3"
+}

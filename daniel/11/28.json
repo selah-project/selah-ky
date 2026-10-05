@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "daniel 11:28",
+  "book": "daniel",
+  "lang": "ky",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ועשה",
+      "rationale": "'ал жасайт' — объект айтылган жок: KJV 'exploits', башкалар 'өз каалоосун'; биз тикей тикей форманы калтырдык."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨Аны⟩",
+      "rationale": "вעשה транзитивдүү этиш, объектсиз; кыргыз тили объект талап кылгандыктан кашаа менен кошулду."
+    },
+    {
+      "kind": "elision",
+      "subject": "על",
+      "rationale": "'үстүнө\/каршы' — жүрөктүн келишимге каршы турушу; 'каршы' деп алынды."
+    }
+  ],
+  "translation": "Жана ал өз өлкөсүнө чоң байлык менен кайтып келет, жана анын жүрөгү ыйык келишимге каршы болот, жана ал ⟨Аны⟩ жасайт жана өз өлкөсүнө кайтып кетет.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "02250fc35237764c737d51c0a8ae1c056ed12ee28a7b0e6ec776ab5e9198d3eb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/daniel\/11\/28-28.1791224532121.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "кайтып келет"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "өз өлкөсүнө"
+    },
+    {
+      "surface": "ברכוש",
+      "gloss": "байлык менен"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "чоң"
+    },
+    {
+      "surface": "ולבבו",
+      "gloss": "жана анын жүрөгү"
+    },
+    {
+      "surface": "על",
+      "gloss": "каршы"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "келишимге"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ыйык"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "жана жасайт"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "кайтып кетет"
+    },
+    {
+      "surface": "לארצו",
+      "gloss": "өз өлкөсүнө"
+    }
+  ],
+  "timestamp": "2026-10-05T18:22:12.121637284Z",
+  "model": "glm-5.3"
+}

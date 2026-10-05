@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 32:15",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מדבר–כרמל–יער",
+      "rationale": "three-step escalation: wilderness becomes orchard, orchard counted as forest — the reversal chain of v.13's desolation is kept intact"
+    },
+    {
+      "kind": "crux",
+      "subject": "рух",
+      "rationale": "רוח is wind\/breath\/Spirit — one word, three readings; Kyrgyz keeps the single word 'рух' rather than choosing"
+    }
+  ],
+  "translation": "Бизге жогорудан рух төгүлгөнгө чейин; жана чөл кармалга айланат, кармал да токой деп эсептелет.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "54a4ee93ff5d9edc23a90bf916d9c00ba12541e2f3e4a68dd9dc01f389597b7b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/32\/13-16.1791209875648.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "чейин"
+    },
+    {
+      "surface": "יערה",
+      "gloss": "төгүлгөнгө"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "бизге"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "рух"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "жогорудан"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "жана … айланат"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "чөл"
+    },
+    {
+      "surface": "לכרמל",
+      "gloss": "кармалга"
+    },
+    {
+      "surface": "וכרמל",
+      "gloss": "жана кармал"
+    },
+    {
+      "surface": "ליער",
+      "gloss": "токой деп"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "эсептелет"
+    }
+  ],
+  "timestamp": "2026-10-05T14:17:55.649673542Z",
+  "model": "glm-5.3"
+}

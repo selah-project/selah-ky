@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 27:8",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "кууш ичте",
+      "rationale": "נבוב — 'тешилгендей' деген этиштин кыскача формасы; 'кууш\/ичи бош' деген сүрөт берет"
+    },
+    {
+      "kind": "elision",
+      "subject": "тоодо",
+      "rationale": "בהר — дагы эле Синай тоосу kayылып турат, буга чейинки контексттен"
+    }
+  ],
+  "translation": "Такталар менен кууш ичте ⟨את⟩ аны жаса; тоодо саага көрсөтүлгөндөй эле, ошондой кылып жасашсын.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "df947e071b77ac67155545963b694c8baeb7a98f702b32906936e463269148dd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/27\/5-8.1791202415743.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נבוב",
+      "gloss": "кууш ичте"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "такталар менен"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "жаса"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "аны"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "дегендей эле"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "көрсөтүлгөндөй"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "саага"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "тоодо"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ошондой"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "жасашсын"
+    }
+  ],
+  "timestamp": "2026-10-05T12:13:35.745091026Z",
+  "model": "glm-5.3"
+}

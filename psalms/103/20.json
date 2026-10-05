@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 103:20",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 103,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "perishtele",
+      "rationale": "Аят периштелерди Яхвени баталоого чакырат — плура императив"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דברו",
+      "rationale": "דברו эки жолу кайталанат: аткарылуучу сөз жана угулуучу сөз — кайтуу риторикасы"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨анын⟩",
+      "rationale": "Кыргыз тилине таандык мүчөлөр үчүн кошумча көрсөтүү"
+    }
+  ],
+  "translation": "Яхвени батасын бергиле, ⟨анын⟩ периштелери, күчтүү баатырлар, ⟨анын⟩ сөзүн аткаргандар, ⟨анын⟩ сөзүнүн үнүн угуу үчүн.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "d52ca37a7ce5320ab63d8ee2a06aa4aa7a978eb30f19b1e59d1653b66734fd79",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/103\/20-20.1791224481869.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "батасын бергиле"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвени"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "периштелери"
+    },
+    {
+      "surface": "גברי",
+      "gloss": "баатырлар"
+    },
+    {
+      "surface": "כח",
+      "gloss": "күчтүү"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "аткаргандар"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "сөзүн"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "угуу үчүн"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "үнүн"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "сөзүнүн"
+    }
+  ],
+  "timestamp": "2026-10-05T18:21:21.869978509Z",
+  "model": "glm-5.3"
+}

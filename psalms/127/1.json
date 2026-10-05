@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 127:1",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 127,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "таандык",
+      "rationale": "כן жок, маанини ачык кылуу үчүн кошулду"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שוא",
+      "rationale": "שוא сөзү эки жолу кайталанып, ырдын параллелизмин түзөт"
+    },
+    {
+      "kind": "substitution",
+      "subject": "сакчы",
+      "rationale": "שומר — сактоочу, күзөтчү; бир сөз менен берилди"
+    }
+  ],
+  "translation": "Ырдаган өрүлгө жерлердин ыры, Шеломого таандык. Эгер Яхве үй курбаса, анын куроочулары ⟨את⟩ аны бекер эмгенишет; эгер Яхве шаарды сактабаса, сакчы бекер көзөмөлдөйт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "de412493409e720eff8a200f3e3609ca19b3017ea76b09f2866818b55f730a05",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/127\/1-4.1791217455328.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "ыр"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "өрүлгө жерлердин"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "Шеломого таандык"
+    },
+    {
+      "surface": "אם",
+      "gloss": "эгер"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "курбаса"
+    },
+    {
+      "surface": "בית",
+      "gloss": "үй"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "бекер"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "эмгенишет"
+    },
+    {
+      "surface": "בוניו",
+      "gloss": "куроочулары"
+    },
+    {
+      "surface": "בו",
+      "gloss": "аны"
+    },
+    {
+      "surface": "אם",
+      "gloss": "эгер"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "сактабаса"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "шаарды"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "бекер"
+    },
+    {
+      "surface": "שקד",
+      "gloss": "көзөмөлдөйт"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "сакчы"
+    }
+  ],
+  "timestamp": "2026-10-05T16:24:15.328689800Z",
+  "model": "glm-5.3"
+}

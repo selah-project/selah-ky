@@ -1,0 +1,155 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 29:17",
+  "book": "deuteronomy",
+  "lang": "ky",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ראש",
+      "rationale": "бул — башы көрүнүп турган уу өсүмдүк (көк наркы); «баш» деген мааниде эмес"
+    },
+    {
+      "kind": "elision",
+      "subject": "פן",
+      "rationale": "«болбосун» деген сөз эки жолу келет, бирок кыргызча биринчи «болбосун» эки сөздү тең кармайт"
+    }
+  ],
+  "translation": "Силердин араңарда жүрөгү бүгүн Яхве биздин Элохимибизден башка тарапка бурулуп, алардын кудайларына кызмат кылууга барган эркек же аял, үй-бүлө же уруу болбосун, жана силердин араңарда уу чыгарган тамыр жана ачуу жеримиш өнүп жатпасын.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "9aca2e4fe966082c9a08f4d4d4a4948f7ab076ca1310842f6f8d5ef18b5d7e9f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/29\/17-20.1791205397822.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "болбосун"
+    },
+    {
+      "surface": "יש",
+      "gloss": "бар"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "силердин араңарда"
+    },
+    {
+      "surface": "איש",
+      "gloss": "эркек"
+    },
+    {
+      "surface": "או",
+      "gloss": "же"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "аял"
+    },
+    {
+      "surface": "או",
+      "gloss": "же"
+    },
+    {
+      "surface": "משפחה",
+      "gloss": "үй-бүлө"
+    },
+    {
+      "surface": "או",
+      "gloss": "же"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "уруу"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "мындай"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "жүрөгү"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "бурулуп"
+    },
+    {
+      "surface": "היום",
+      "gloss": "бүгүн"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "-дан"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "биздин Элохимибиз"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "барууга"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "кызмат кылууга"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "кудайларына"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "-нин кудайлары"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "элдердин"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "алардын"
+    },
+    {
+      "surface": "פן",
+      "gloss": "жана... болбосун"
+    },
+    {
+      "surface": "יש",
+      "gloss": "бар"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "силердин араңарда"
+    },
+    {
+      "surface": "שרש",
+      "gloss": "тамыр"
+    },
+    {
+      "surface": "פרה",
+      "gloss": "уу чыгарган"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "уу өсүмдүк"
+    },
+    {
+      "surface": "ולענה",
+      "gloss": "жана ачуу жеримиш"
+    }
+  ],
+  "timestamp": "2026-10-05T13:03:17.823211820Z",
+  "model": "glm-5.3"
+}

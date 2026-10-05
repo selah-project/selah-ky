@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 74:12",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 74,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨мендин⟩",
+      "rationale": "״ падышам״ деген 1-жак мүчөсү кыргызча айкындоо үчүн кошулду"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ישועות",
+      "rationale": "Көп санда «куткаруулар» — үзгүлтүксүз, кайталануучу куткаруу"
+    },
+    {
+      "kind": "hapax",
+      "subject": "פועל ישועות",
+      "rationale": "«Куткарууларды иштетүүчү» — Танахта сейрек кездешкен турмуштуу сүрөт"
+    }
+  ],
+  "translation": "Жана Элохим ⟨мендин⟩ падышам байыркы замандан бери, жердин ортосунда куткарууларды иштеген.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "d0b0e81afd83bea474f49218cf95856acef3d10f706cd01b96a3c959eafea057",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/74\/9-12.1791216551329.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואלהים",
+      "gloss": "жана Элохим"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "падышам"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "байыркы замандан"
+    },
+    {
+      "surface": "пфעל",
+      "gloss": ""
+    },
+    {
+      "surface": "פעל",
+      "gloss": "иштеген"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "куткарууларды"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "ортосунда"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "жердин"
+    }
+  ],
+  "timestamp": "2026-10-05T16:09:11.330070471Z",
+  "model": "glm-5.3"
+}

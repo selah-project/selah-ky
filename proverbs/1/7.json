@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 1:7",
+  "book": "proverbs",
+  "lang": "ky",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "—",
+      "rationale": "Кыргызча байланыш тиешелүү; еврейче атоочтук айтылышта жок"
+    },
+    {
+      "kind": "substitution",
+      "subject": "коркуусу",
+      "rationale": "יראת — коркуу жана урматтоону камтыган бир сөз; кыргызча экөөнө бөлүнөт"
+    }
+  ],
+  "translation": "Яхвенин коркуусу — билимдин башталышы; даанышмандыкты жана тарбияны акылсыздар жек көрүшөт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "4b21d2a2ebb7d3f3dcc9b511e93c982f7f1074896c2058845e036a4c12dd5a3d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/1\/5-8.1791217704639.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "коркуусу"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "башталышы"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "билимдин"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "даанышмандыкты"
+    },
+    {
+      "surface": "ומוסר",
+      "gloss": "тарбияны"
+    },
+    {
+      "surface": "אוילים",
+      "gloss": "акылсыздар"
+    },
+    {
+      "surface": "בזו",
+      "gloss": "жек көрүшөт"
+    }
+  ],
+  "timestamp": "2026-10-05T16:28:24.641659944Z",
+  "model": "glm-5.3"
+}

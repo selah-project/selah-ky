@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 16:21",
+  "book": "jeremiah",
+  "lang": "ky",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "экенин",
+      "rationale": "Копула: еврейче текстте жок, кыргызча талап кылат"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מודיעם \/ אודיעם \/ וידעו",
+      "rationale": "Яда тамырынын үч жолу кайталанышы — «билдирүү» жана «билүү» — риторикалык чыңалуу, кыргызча жартылай сакталат"
+    },
+    {
+      "kind": "substitution",
+      "subject": "байкагыла",
+      "rationale": "הנני «мынча, мина» — кыргызча «байкагыла» деген конвенция"
+    }
+  ],
+  "translation": "Ошондуктан, байкагыла, Мен аларга бул жолу билдиререм, аларга ⟨את⟩ колумду жана ⟨את⟩ күч-кубатымды билдиререм, жана алар менин ысымым Яхве экенин билишет.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "6582b23756d5f4654e64b0c9eaccdb14dff7af47863bd37f2240ddd8b98385ee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/jeremiah\/16\/21-21.1791210994639.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Ошондуктан"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "байкагыла, Мынча"
+    },
+    {
+      "surface": "מודיעם",
+      "gloss": "аларга билдиререм"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "жолу"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "бул"
+    },
+    {
+      "surface": "אודיעם",
+      "gloss": "аларга билдиререм"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "колумду"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "колумду"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "жана ⟨את⟩",
+      "marks": "күч-кубатымды"
+    },
+    {
+      "surface": "גבורתי",
+      "gloss": "күч-кубатымды"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "жана алар билишет"
+    },
+    {
+      "surface": "כי",
+      "gloss": "экенин"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "ысымым"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-10-05T14:36:34.639626971Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 100:3",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 100,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ו לא אנחנו",
+      "rationale": "«биз эмес өзүбүз» (KJV) же «аныкыбыз, анын» (LXX сыяктуу «ул-ло» эмес «ло» окуу) — эки салыштыруу бар"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨биз⟩ ⟨өзүбүз⟩",
+      "rationale": "Кыргызча сүйлөм талап кылган ачык атоочтор"
+    }
+  ],
+  "translation": "Билип алыңар: Яхве — ал Элохим, ал бизди жаратты, биз эмес ⟨өзүбүз⟩; анын эли ⟨биз⟩, анын жайытынын койлору.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "35d5e1f7dad9795984e0e28cdd4f74ce6799c74303717d8415c0327079276727",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/100\/1-4.1791217001456.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דעו",
+      "gloss": "билип алыңар"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ал"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ал"
+    },
+    {
+      "surface": "עשנו",
+      "gloss": "бизди жаратты"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "эмес"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "биз"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "анын эли"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "койлору"
+    },
+    {
+      "surface": "מרעיתו",
+      "gloss": "анын жайытынын"
+    }
+  ],
+  "timestamp": "2026-10-05T16:16:41.457571858Z",
+  "model": "glm-5.3"
+}

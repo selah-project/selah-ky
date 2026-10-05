@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "judges 3:17",
+  "book": "judges",
+  "lang": "ky",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "эле",
+      "rationale": "Еврейче байламча жок; кыргызча керек болду"
+    },
+    {
+      "kind": "secret",
+      "subject": "минха",
+      "rationale": "Салык катары төлөнгөн белек — Эхуддун куралынын жашыруун жери"
+    }
+  ],
+  "translation": "Жана ал ⟨את⟩ минханы Эглонго — Моав падышасына — алып келди, ал эми Эглон өтө семиз адам ⟨эле⟩.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "71105052039f5f09c8f4fea6619bb997cd589300cf39f24fafeffb46cf0cb815",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/judges\/3\/17-20.1791206095566.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "алып келди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "минханы"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "минханы"
+    },
+    {
+      "surface": "לעגלון",
+      "gloss": "Эглонго"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "падышасы"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моав"
+    },
+    {
+      "surface": "ועגלון",
+      "gloss": "Эглон"
+    },
+    {
+      "surface": "איש",
+      "gloss": "адам"
+    },
+    {
+      "surface": "בריא",
+      "gloss": "семиз"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "өтө"
+    }
+  ],
+  "timestamp": "2026-10-05T13:14:55.567099647Z",
+  "model": "glm-5.3"
+}

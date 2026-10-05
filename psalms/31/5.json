@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 31:5",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "коргоонум",
+      "rationale": "מעוזי — бекемделген жай, чеп; «күч» деген кеңири маани эмес, сөздүн формасы — бекем жер"
+    },
+    {
+      "kind": "you",
+      "subject": "Яхвеге",
+      "rationale": "Жалбаруу түрүндөгү тикелей кайрылуу — «Сен менин коргоонымсуң»"
+    }
+  ],
+  "translation": "Маган жашырылган бул тордон ⟨мени⟩ чыгар, анткени Сен — менин бекем коргооным.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "321aab05eaa32e5b93f1892e7168168f80579fbe726107436a18f8a237a6a21d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/31\/5-8.1791215760547.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תוציאני",
+      "gloss": "чыгар"
+    },
+    {
+      "surface": "מרשת",
+      "gloss": "тор"
+    },
+    {
+      "surface": "זו",
+      "gloss": "бул"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "жашырышты"
+    },
+    {
+      "surface": "לי",
+      "gloss": "маган"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Сен"
+    },
+    {
+      "surface": "מעוזי",
+      "gloss": "коргоонум"
+    }
+  ],
+  "timestamp": "2026-10-05T15:56:00.548211748Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 145:17",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 145,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "бар",
+      "rationale": "Еврей тилинде байламча жок; кыргызча айтымдын байламчасы кошулду"
+    },
+    {
+      "kind": "substitution",
+      "subject": "цедек",
+      "rationale": "צדיק адатта «адилден» деп которулат, бирок бир тамыр сакталды"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דרכיו\/מעשיו",
+      "rationale": "Параллелизм: жолдор — иштер, эки сап тең «бардык» менен ачылат"
+    }
+  ],
+  "translation": "Цедек ⟨бар⟩ Яхве Өзүнүн бардык жолдорунда, жана хесед ⟨бар⟩ Өзүнүн бардык иштеринде.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "f47c414869819a76e70b46732b17f901a1344239eccf6af168e501655b3c4f38",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/145\/17-20.1791217672002.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "цедек"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "бардык"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "жолдорунда"
+    },
+    {
+      "surface": "וחסיד",
+      "gloss": "жана хесед"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "бардык"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "иштеринде"
+    }
+  ],
+  "timestamp": "2026-10-05T16:27:52.003872634Z",
+  "model": "glm-5.3"
+}

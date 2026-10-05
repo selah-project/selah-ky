@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 132:18",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 132,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "таажысы",
+      "rationale": "נזר — ыйык деп бөлүнгөн нерсe: назирлик же падышалык таажы; бул жерде падышанын таажысы"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יציץ",
+      "rationale": "жарыктын чайкалуусу жана гүлдөө — эки маани бир сөздө; кыргызча гүлдөө тандалды"
+    }
+  ],
+  "translation": "Анын душмандарын Мен уятка ороном, ал эми анын таажысы анын үстүнө гүлдөйт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "e27ce3ce514b115db809be2108a167f25917f701800b321dbc9477863d4cc479",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/132\/17-18.1791217433000.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אויביו",
+      "gloss": "душмандарын"
+    },
+    {
+      "surface": "אלביש",
+      "gloss": "ороном"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "уятка"
+    },
+    {
+      "surface": "ועליו",
+      "gloss": "ал эми анын үстүнө"
+    },
+    {
+      "surface": "יציץ",
+      "gloss": "гүлдөйт"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "таажысы"
+    }
+  ],
+  "timestamp": "2026-10-05T16:23:53.001629549Z",
+  "model": "glm-5.3"
+}

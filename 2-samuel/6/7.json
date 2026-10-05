@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 6:7",
+  "book": "2-samuel",
+  "lang": "ky",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ויחר אף",
+      "rationale": "Көп нерссе: «мурунун кыздырды» — ачуланды деп берилди."
+    },
+    {
+      "kind": "substitution",
+      "subject": "сандык",
+      "rationale": "ארון — кайра куту, келишим сандыгы."
+    },
+    {
+      "kind": "crux",
+      "subject": "השל",
+      "rationale": "«Ката» же «кээде жок дагы» — которуучулар бөлүнүшөт."
+    }
+  ],
+  "translation": "Жана Яхвенин ачулугы Узага күйөт, жана Элохим аны ошол жерде анын катасы үчүн согот, жана ал ошол жерде Элохимдин сандыгынын жанында өлөт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "99189915eaf72642e10d5faa67746224728450704f4fc4027ba533f283139233",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-samuel\/6\/5-8.1791207465473.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "күйөт"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ачулугу"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    },
+    {
+      "surface": "בעזה",
+      "gloss": "Узага"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "согот"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ошол жерде"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "על",
+      "gloss": "үчүн"
+    },
+    {
+      "surface": "השל",
+      "gloss": "катасынын"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "өлөт"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ошол жерде"
+    },
+    {
+      "surface": "עם",
+      "gloss": "жанында"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "сандыгынын"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Элохимдин"
+    }
+  ],
+  "timestamp": "2026-10-05T13:37:45.474554500Z",
+  "model": "glm-5.3"
+}

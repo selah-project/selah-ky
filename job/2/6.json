@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 2:6",
+  "book": "job",
+  "lang": "ky",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жан",
+      "rationale": "נפש — 'дем алуучу жандык, жашоо күчү'; 'жан' кыргызча эң жакын форма."
+    }
+  ],
+  "translation": "Жана Яхве Сатанага айтты: Мына, ал колуңда — бирок ⟨את⟩ анын жанын сакта.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "dcc2ad8e5586abc31c88729202a96bda0340f7952bb1329573ea994d70a22086",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/job\/2\/5-8.1791218565225.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Жана … айтты"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…га"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "Сатанага"
+    },
+    {
+      "surface": "הנו",
+      "gloss": "Мына, ал"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "колуңда"
+    },
+    {
+      "surface": "אך",
+      "gloss": "бирок"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "анын жанын"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "анын жанын"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "сакта"
+    }
+  ],
+  "timestamp": "2026-10-05T16:42:45.226652210Z",
+  "model": "glm-5.3"
+}

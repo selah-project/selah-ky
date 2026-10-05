@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 24:17",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "פחד\/פחת\/פח",
+      "rationale": "Үч сөз тең п-х үндөштүгү менен жаңырат: коркуу — чуңкур — тузак; кыргызча үн оюну жоголот"
+    },
+    {
+      "kind": "addition",
+      "subject": "сенин",
+      "rationale": "עליך жекече, кыргызча «жердин жашоочусу» дегендин жанына ат алыш керек болду"
+    }
+  ],
+  "translation": "Коркуу, жана чуңкур, жана тузак — жердин жашоочусу ⟨сенин⟩ үстүңдө.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "02ac9cb9b7255fc3aeafc4bedfb0a513ed5d7fef824382e6112819c26fcd98f4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/24\/17-20.1791209801116.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פחד",
+      "gloss": "коркуу"
+    },
+    {
+      "surface": "ופחת",
+      "gloss": "жана чуңкур"
+    },
+    {
+      "surface": "ופח",
+      "gloss": "жана тузак"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "үстүңдө"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "жашоочусу"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "жердин"
+    }
+  ],
+  "timestamp": "2026-10-05T14:16:41.116936878Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "1-kings 18:46",
+  "book": "1-kings",
+  "lang": "ky",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "Яхвенин колу",
+      "rationale": "«Кол» — күчтүн, кудуреттин берилиши; кол катары сакталды."
+    },
+    {
+      "kind": "crux",
+      "subject": "באכה",
+      "rationale": "Аял сандагы «анын кирүүсү»: Йизреэлдин же Ахавдын кирүүсү — «Йизреэлге киргенче» деп алынды."
+    }
+  ],
+  "translation": "Жана Яхвенин колу Элияхуга болду, жана ал белин курчанды, жана Ахавдын алдында Йизреэлге жеткенче чуркады.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "7d8d05286b598b2c2bd4263309cc5a556c20946576d60b7a284db65fc9346a66",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-kings\/18\/45-46.1791208472935.json",
+    "code": "641241cf-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויד",
+      "gloss": "жана кол"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "болду"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Элияхуга"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Элияху"
+    },
+    {
+      "surface": "וישנס",
+      "gloss": "жана курчанды"
+    },
+    {
+      "surface": "מתניו",
+      "gloss": "белин"
+    },
+    {
+      "surface": "וירץ",
+      "gloss": "жана чуркады"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "алдында"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ахавдын"
+    },
+    {
+      "surface": "עד",
+      "gloss": "чейин"
+    },
+    {
+      "surface": "באכה",
+      "gloss": "жеткенче"
+    },
+    {
+      "surface": "יזרעאלה",
+      "gloss": "Йизреэлге"
+    }
+  ],
+  "timestamp": "2026-10-05T13:54:32.936581437Z",
+  "model": "glm-5.3"
+}

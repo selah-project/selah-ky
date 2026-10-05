@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 105:24",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Жана ⟨өзү⟩",
+      "rationale": "Этиштин субъектиси (Яхве, 105-забур) алдынкы аяттардан келет, бул аятта жок"
+    },
+    {
+      "kind": "crux",
+      "subject": "מצריו",
+      "rationale": "מצר 'тар, кысым' — 'кысымчылары' же 'душмандары'; KJV 'enemies', JPS 'adversaries'"
+    }
+  ],
+  "translation": "Жана ⟨את⟩ өз элин абдан көбөйттү жана аны анын кысымчыларынан күчтүү кылды.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "79d0158087fbc9d2fe8c53dc39bf1da2b4c44665467c4e90fafdc561aad4385c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/105\/21-24.1791217075151.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויפר",
+      "gloss": "жана көбөйттү"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "өз элин"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "өз элин"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "абдан"
+    },
+    {
+      "surface": "ויעצמהו",
+      "gloss": "жана аны күчтүү кылды"
+    },
+    {
+      "surface": "מצריו",
+      "gloss": "анын кысымчыларынан"
+    }
+  ],
+  "timestamp": "2026-10-05T16:17:55.154000298Z",
+  "model": "glm-5.3"
+}

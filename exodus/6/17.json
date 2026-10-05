@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 6:17",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "уруулар тизмеси",
+      "rationale": "Аттар жана уруулар боюнча тизме — Леви уулдарынын санак тамыры."
+    },
+    {
+      "kind": "addition",
+      "subject": "— (тире жана өз)",
+      "rationale": "Кыргыз тили аталыш сүйлөмүнө ээлик байланышты талап кылат; еврейче айтылбайт."
+    }
+  ],
+  "translation": "Гершондун уулдары — Либни жана Шими, өздөрүнүн уруулары боюнча.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "1abf366d484a58277f6a4a494e95d5c6a4d2cd9113bbe889d031d7a1e3008e3d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/6\/17-20.1791201906274.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "уулдары"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "Гершон"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "Либни"
+    },
+    {
+      "surface": "ושמעי",
+      "gloss": "жана Шими"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "өздөрүнүн уруулары боюнча"
+    }
+  ],
+  "timestamp": "2026-10-05T12:05:06.275217204Z",
+  "model": "glm-5.3"
+}

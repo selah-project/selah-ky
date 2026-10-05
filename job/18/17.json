@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 18:17",
+  "book": "job",
+  "lang": "ky",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨анын⟩",
+      "rationale": "Ивритте „сырттын бетинде аты“ дейт — ээлик мүчө түшүндүрүү үчүн кошулду"
+    },
+    {
+      "kind": "elision",
+      "subject": "מני",
+      "gloss": "„дан“ предлогу „жерден“ деген менен кошо берилди, өзүнчө сөз жок"
+    }
+  ],
+  "translation": "Анын эстутуму жерден жок болот, жана сырттын бетинде ⟨анын⟩ аты болбойт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "d439a6b2f954805fa2af8d678fa465e73bcac5ab6566fc527a1db8b7f9391ed3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/job\/18\/17-20.1791218898624.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זכרו",
+      "gloss": "анын эстутуму"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "жок болот"
+    },
+    {
+      "surface": "מני",
+      "gloss": "жерден"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "жерден"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "жана болбойт"
+    },
+    {
+      "surface": "שם",
+      "gloss": "аты"
+    },
+    {
+      "surface": "לו",
+      "gloss": "анын"
+    },
+    {
+      "surface": "על",
+      "gloss": "-нун бетинде"
+    },
+    {
+      "surface": "פני",
+      "gloss": "бетинде"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "сырттын"
+    }
+  ],
+  "timestamp": "2026-10-05T16:48:18.625400130Z",
+  "model": "glm-5.3"
+}

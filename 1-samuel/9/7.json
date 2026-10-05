@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 9:7",
+  "book": "1-samuel",
+  "lang": "ky",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תשורה",
+      "rationale": "Сөзсүз «белек»; кээ бир котормолор «презент» деп коюшат — бул Самил 1:26, 10:27 менен байланышкан uchar сөз."
+    },
+    {
+      "kind": "substitution",
+      "subject": "מה אתנו",
+      "rationale": "Бул жерде אתנו — H854 жакындык предлогу («биз менен»), H853 объект белгиси эмес; «бизде эмне бар?» деп берилди."
+    }
+  ],
+  "translation": "Шаул кызматчысына айтты: Мына эми, барсак да, адамга эмне алып барабыз? Анткени нан буюмдарыбыздан түгөндү, Элохимдин адамына алып барууга белек да жок — бизде ⟨את⟩ эмне бар?",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "e2ae22e0ece85592c9e5f4681464eff7d49a61e3fb7f94b55d053f06029d84a5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-samuel\/9\/5-8.1791206833891.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "לנערו",
+      "gloss": "кызматчысына"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "мына эми"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "барсак"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "эмне"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "алып барабыз"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "адамга"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "нан"
+    },
+    {
+      "surface": "אזל",
+      "gloss": "түгөндү"
+    },
+    {
+      "surface": "מכלינו",
+      "gloss": "буюмдарыбыздан"
+    },
+    {
+      "surface": "ותשורה",
+      "gloss": "белек да"
+    },
+    {
+      "surface": "אין",
+      "gloss": "жок"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "алып барууга"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "адамына"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Элохимдин"
+    },
+    {
+      "surface": "מה",
+      "gloss": "эмне"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "бизде"
+    }
+  ],
+  "timestamp": "2026-10-05T13:27:13.893030653Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 18:17",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "המכסה",
+      "rationale": "Hebrew rhetorical question 'shall I cover?' rendered as Kyrgyz question 'жашырайынбы?'"
+    },
+    {
+      "kind": "secret",
+      "subject": "verse",
+      "rationale": "YHWH deliberates whether to reveal his hidden intention to Abraham — the council scene"
+    }
+  ],
+  "translation": "Жана Яхве айтты: Мен жасап жаткан нерсени Аврахамдан жашырайынбы?",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "30fc63de129fd5a53448b3993e9ed6eafa2881d3c70312d96c097918b8545aac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/18\/17-20.1791201025466.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Жана Яхве"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "жашырайынбы"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Мен"
+    },
+    {
+      "surface": "מאברהם",
+      "gloss": "Аврахамдан"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "нерсени"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Мен"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "жасап жаткан"
+    }
+  ],
+  "timestamp": "2026-10-05T11:50:25.467304645Z",
+  "model": "glm-5.3"
+}

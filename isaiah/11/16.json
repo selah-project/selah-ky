@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 11:16",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ал⟩",
+      "rationale": "Ивритте байландыруучу «анын» так ачык эмес; ээсин тактоо үчүн кошулду"
+    },
+    {
+      "kind": "substitution",
+      "subject": "көтөрүлгөн",
+      "rationale": "עלה — «жогору чыгуу»; Мицрайимден чыгуу Танахта дайыма «жогору» деп айтылат"
+    }
+  ],
+  "translation": "Жана ⟨ал⟩ калган эли үчүн — Ашурдан калгандары үчүн жол болот, Мицрайим жеринен көтөрүлгөн күндө Йисраэлге болгон сыяктуу.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "9f61b4d71260feb10497706973338ffb27fa5354ddbb5a8b6c93c535b53fa45c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/11\/13-16.1791209598598.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "болот"
+    },
+    {
+      "surface": "מסלה",
+      "gloss": "жол"
+    },
+    {
+      "surface": "לשאר",
+      "gloss": "калган... үчүн"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "эли"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—нын (ал)"
+    },
+    {
+      "surface": "ישאר",
+      "gloss": "калганы"
+    },
+    {
+      "surface": "מאשור",
+      "gloss": "Ашурдан"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "сыяктуу"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "болгон"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Йисраэлге"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "күндө"
+    },
+    {
+      "surface": "עלתו",
+      "gloss": "көтөрүлгөн"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "жеринен"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицрайим"
+    }
+  ],
+  "timestamp": "2026-10-05T14:13:18.599901553Z",
+  "model": "glm-5.3"
+}

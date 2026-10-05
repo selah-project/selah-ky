@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nehemiah 2:1",
+  "book": "nehemiah",
+  "lang": "ky",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "коюлду",
+      "rationale": "Ивритте этиш жок — «шарап анын алдында» деген номиналдык сүйлөм"
+    },
+    {
+      "kind": "addition",
+      "subject": "мурда",
+      "rationale": "Перфект мааниси («мурда болгон эмес») кыргызчада өткөн чак менен берилди"
+    },
+    {
+      "kind": "measurement",
+      "subject": "Нисан, жыйырманчы жыл",
+      "rationale": "Дата — ай жана падышанын жыл саноосу көрсөтүлгөн"
+    }
+  ],
+  "translation": "Нисан айында, Артахшаста падышанын жыйырманчы жылында болду: анын алдына шарап коюлду, жана мен шарапты көтөрүп ⟨את⟩ шарапты падышага бердим, бирок мен анын алдында мурда жаман болгон эмесмин.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "1fff20561e3c0982a0284b4316db22a810fb13417546ac2fc40d9f75db031073",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/nehemiah\/2\/1-4.1791221257088.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "болду"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "айында"
+    },
+    {
+      "surface": "ניסן",
+      "gloss": "Нисан"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "жылында"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "жыйырманчы"
+    },
+    {
+      "surface": "לארתחשסתא",
+      "gloss": "Артахшаста"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "падышанын"
+    },
+    {
+      "surface": "יין",
+      "gloss": "шарап"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "анын алдына"
+    },
+    {
+      "surface": "ואשא",
+      "gloss": "жана көтөрүп"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "шарапты"
+    },
+    {
+      "surface": "היין",
+      "gloss": "шарапты"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "бердим"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "падышага"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "бирок эмес"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "болгон эмесмин"
+    },
+    {
+      "surface": "רע",
+      "gloss": "жаман"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "анын алдында"
+    }
+  ],
+  "timestamp": "2026-10-05T17:27:37.090150915Z",
+  "model": "glm-5.3"
+}

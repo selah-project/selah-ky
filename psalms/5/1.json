@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 5:1",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "הנחילות",
+      "rationale": "Нехилот — чечмелениши так эмес сөз: 'флейталар' же 'мурас' деген окуу бар"
+    },
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "rationale": "'Үчүн\/жарап' деген алдыңкы кызматчы сөз тыраш белгиси менен берилди"
+    }
+  ],
+  "translation": "Которуучуга — нехилот-флейталарга — мизмор, Давидге.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "3e39ade9600d4388a3cc353c2f73cfd4e904612ceb9003ca67fa8913cd679690",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/5\/1-4.1791215315185.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "которуучуга"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "הנחילות",
+      "gloss": "нехилот-флейталарга"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "мизмор"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давидге"
+    }
+  ],
+  "timestamp": "2026-10-05T15:48:35.186472819Z",
+  "model": "glm-5.3"
+}

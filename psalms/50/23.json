@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 50:23",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "תודה",
+      "rationale": "тодa — кол сунуп таануу курмандыгы; «ачык айтуу» деген мааниси бар"
+    },
+    {
+      "kind": "crux",
+      "subject": "ושם דרך",
+      "rationale": "«жол коюучу» — жүрүм-турумду түзөө (KJV «ordereth his conversation») же жол даярдоо деген түшүнүктөр бар"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יכבדנני",
+      "rationale": "кабед тамыры «оор болуу» — «оор» жана «урматтоо» эки мааниси бир сөздө, кыргызча бир гана мааниси калды"
+    },
+    {
+      "kind": "alternative",
+      "subject": "בישע אלהים",
+      "rationale": "Элохимдин куткаруусу» — «Элохимдин ырыскысы\/боштондугу» деген окумуштар да бар"
+    }
+  ],
+  "translation": "Тода курмандыгын чокуучу Мени урматтайт, жана жолун түзгөн адамга Элохимдин куткаруусун көрсөтөм.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "477b2b4ba5936cefbd41dcc6f8f9149b063a8fdbc863e8b8c0ac6e2e3ed94b17",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/50\/23-23.1791224434363.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זבח",
+      "gloss": "чокуучу"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "тода курмандыгын"
+    },
+    {
+      "surface": "יכבדנני",
+      "gloss": "Мени урматтайт"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "жана түзгөн"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "жолун"
+    },
+    {
+      "surface": "אראנו",
+      "gloss": "көрсөтөм"
+    },
+    {
+      "surface": "בישע",
+      "gloss": "куткаруусун"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохимдин"
+    }
+  ],
+  "timestamp": "2026-10-05T18:20:34.363495741Z",
+  "model": "glm-5.3"
+}

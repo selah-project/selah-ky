@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 7:7",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "באפך",
+      "rationale": "Букмальный мааниси «мурдуңда» — ивритте ачуу мурундан көрүнөт; кыргызча «ачууң менен»."
+    },
+    {
+      "kind": "invitation",
+      "subject": "Тур, Яхве",
+      "rationale": "Аят Яхвени чакырып, буйрук менен тиленүү — тікелей үндөө."
+    },
+    {
+      "kind": "you",
+      "subject": "Яхвеге",
+      "rationale": "Тилек Яхвеге багытталган."
+    }
+  ],
+  "translation": "Тур, Яхве, ачууң менен! Душмандарымдын ызасына каршы көтөрүл жана мага ойгон — өкүм чыгарууну Сен буйругансуң.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "fa6cabe524eb8ce65b1b736d8fc7760c35142e0a7ec8224f42d2e20b9181d70b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/7\/5-8.1791215353207.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Тур"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "ачууң менен"
+    },
+    {
+      "surface": "הנשא",
+      "gloss": "көтөрүл"
+    },
+    {
+      "surface": "בעברות",
+      "gloss": "ызасына каршы"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "душмандарымдын"
+    },
+    {
+      "surface": "ועורה",
+      "gloss": "жана ойгон"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "мага"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "өкүм"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "буйругансуң"
+    }
+  ],
+  "timestamp": "2026-10-05T15:49:13.208137050Z",
+  "model": "glm-5.3"
+}

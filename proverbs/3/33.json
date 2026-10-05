@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 3:33",
+  "book": "proverbs",
+  "lang": "ky",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ал",
+      "rationale": "Этиштин ээси еврейчеде ачык айтылбаған, кыргызча талап кылат"
+    },
+    {
+      "kind": "elision",
+      "subject": "ונוה",
+      "rationale": "жашоо жай деген сөз бир сөз менен берилди"
+    }
+  ],
+  "translation": "Яхвенин каргышы жаман адамдын үйүндө, ал эми адилдердин жайын ал батасын берет.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "4c2febe255b67608ce402a341d5dff6805a7c4e4fb5fe890ffabef4f6ffedd2b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/3\/33-35.1791217779959.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מארת",
+      "gloss": "каргышы"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "үйүндө"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "жаман адамдын"
+    },
+    {
+      "surface": "ונוה",
+      "gloss": "ал эми жайын"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "адилдердин"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "батасын берет"
+    }
+  ],
+  "timestamp": "2026-10-05T16:29:39.959656466Z",
+  "model": "glm-5.3"
+}

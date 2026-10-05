@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 36:9",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "parde ölçömderi",
+      "rationale": "Жыйырма сегиз жана төрт чөлчөк — пардалардын так өлчөмдөрү."
+    },
+    {
+      "kind": "substitution",
+      "subject": "чөлчөк",
+      "rationale": "אמה — чыканактан манжага чейинки өлчөм; 'чөлчөк' менен берилди."
+    },
+    {
+      "kind": "substitution",
+      "subject": "парда",
+      "rationale": "יריעה — калтыраган илинме; Мишканга тиешелүү 'парда' деп алынды."
+    }
+  ],
+  "translation": "Бир парданын узундугу жыйырма сегиз чөлчөк, ал эми бир парданын жазындыгы төрт чөлчөк; бардык пардаларга бир ченем.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "500de5f61b8301ee5cb6ec91fd67a68edf2f38e26f299df29e4dbd2519f3cbb0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/36\/9-12.1791202688306.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ארך",
+      "gloss": "узундугу"
+    },
+    {
+      "surface": "היריעה",
+      "gloss": "парданын"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "бир"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "сегиз"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "жыйырма"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "чөлчөк"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "жазындыгы"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "төрт"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "чөлчөк"
+    },
+    {
+      "surface": "היריעה",
+      "gloss": "парданын"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "бир"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "ченем"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "бир"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "бардык"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "пардаларга"
+    }
+  ],
+  "timestamp": "2026-10-05T12:18:08.306812986Z",
+  "model": "glm-5.3"
+}

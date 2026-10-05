@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 7:13",
+  "book": "2-samuel",
+  "lang": "ky",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ысым үчүн",
+      "rationale": "Кыргызча үчүн-мүчөсү кошулду"
+    },
+    {
+      "kind": "elision",
+      "subject": "עד עולם",
+      "rationale": "түбөлүккө чейин бир мааниде берилди"
+    }
+  ],
+  "translation": "Ал Менин ысымым үчүн үй тургузат, жана Мен анын падышачылыгынын тактысын ⟨את⟩ түбөлүккө чыңдайм.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "bae71cb18a95e60b73fabc575f3a3296ce7f1885291d8ccaac33a9c12f9d01e4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-samuel\/7\/13-16.1791207454059.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Ал"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "тургузат"
+    },
+    {
+      "surface": "בית",
+      "gloss": "үй"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "Менин ысымым үчүн"
+    },
+    {
+      "surface": "וכננתי",
+      "gloss": "жана Мен чыңдайм"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "тактысын"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "тактысы"
+    },
+    {
+      "surface": "ממלכתו",
+      "gloss": "анын падышачылыгынын"
+    },
+    {
+      "surface": "עד",
+      "gloss": "чейин"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "түбөлүк"
+    }
+  ],
+  "timestamp": "2026-10-05T13:37:34.060596360Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 63,
+  "ref": "joshua 15:63",
+  "book": "joshua",
+  "lang": "ky",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "сүрүп чыгара алышкан жок",
+      "rationale": "להורישם — «мураска ээ кылуу, мурдагы тургундарды сүрүп чыгып орун басуу» маанисинде"
+    },
+    {
+      "kind": "addition",
+      "subject": "менен",
+      "rationale": "ב предлогу кыргызча «менен» жалгоосу аркылуу берилди"
+    }
+  ],
+  "translation": "Йерушалайимдин жашоочулары болгон ⟨את⟩ Явусилерди Йахуда уулдары сүрүп чыгара алышкан жок, жана Явусилер Йерушалайимде Йахуда уулдары ⟨менен⟩ ⟨את⟩ ошол күнгө чейин жашашты.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "758e000313dcff17b8e1d61f3700ad85e5f55f436062c5627afef041dcb19126",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/joshua\/15\/61-63.1791205828144.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Явусилерди"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "Явусилерди"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "жашоочулары"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Йерушалайимдин"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "יוכלו",
+      "gloss": "алышкан"
+    },
+    {
+      "surface": "בני",
+      "gloss": "уулдары"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Йахуда"
+    },
+    {
+      "surface": "להורישם",
+      "gloss": "сүрүп чыгара"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "жана жашашты"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "Явусилер"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Йахуда уулдары"
+    },
+    {
+      "surface": "בני",
+      "gloss": "уулдары"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Йахуда"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Йерушалайимде"
+    },
+    {
+      "surface": "עד",
+      "gloss": "чейин"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ошол күнгө"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ушул"
+    }
+  ],
+  "timestamp": "2026-10-05T13:10:28.145495887Z",
+  "model": "glm-5.3"
+}

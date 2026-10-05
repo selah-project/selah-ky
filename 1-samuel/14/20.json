@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 14:20",
+  "book": "1-samuel",
+  "lang": "ky",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "чакырылды",
+      "rationale": "ויזעק 'кыйкырды' — KJV 'чогулду' деп жумшартат; NJPS 'Шаул чакырылды' — пассив окуу"
+    },
+    {
+      "kind": "elision",
+      "subject": "אתו",
+      "rationale": "H854 'менен' предлоги — ⟨את⟩-менен катары берилди"
+    }
+  ],
+  "translation": "Шаул жана ⟨את⟩-менен болгон бүт эл чакырылды, жана алар салгылашууга чейин жетишти; жана мына, ар бир адамдын кылычы өз жакынына каратылган — өтө чоң чатаң болду.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "a6e45712dfa6c9e3f46ed50c988debd5f85a489e537b23b72a746f7962ab498c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-samuel\/14\/17-20.1791206908444.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויזעק",
+      "gloss": "чакырылды"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "жана бүт"
+    },
+    {
+      "surface": "העם",
+      "gloss": "эл"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨алар⟩"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ менен",
+      "marks": "анын жанындагы бүт эл"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "жана келишти"
+    },
+    {
+      "surface": "עד",
+      "gloss": "чейин"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "салгылашууга"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "жана мына"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "болду"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "кылыч"
+    },
+    {
+      "surface": "איש",
+      "gloss": "адамдын"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "өз жакынына"
+    },
+    {
+      "surface": "מהומה",
+      "gloss": "чатаң"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "чоң"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "өтө"
+    }
+  ],
+  "timestamp": "2026-10-05T13:28:28.446141314Z",
+  "model": "glm-5.3"
+}

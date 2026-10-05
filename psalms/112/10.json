@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 112:10",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 112,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "тиштин кирсиши",
+      "rationale": "יִחֲרֹק שִׁנָּיו — идиома: ачуу менен тиштин бир-бирине сүртүлүшү, кыргызча «тиштин кирсиши»"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רשע\/רשעים",
+      "rationale": "жолдо жаман (жекече) жана жамандар (көпчө) — аягында Contrast 112:3 менен шайкеш"
+    }
+  ],
+  "translation": "Жаман көрөт жана ачуланат; тиштәрин кирситет, жана эрийт; жамандардын каалосы жок болот.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "9566651accaed6a76ce47cb37f1b9ea158627822966125073ed6baa3591cd1b4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/112\/9-10.1791217159259.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רשע",
+      "gloss": "жаман"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "көрөт"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "жана ачуланат"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "тиштерин"
+    },
+    {
+      "surface": "יחרק",
+      "gloss": "кирситет"
+    },
+    {
+      "surface": "ונמס",
+      "gloss": "жана эрийт"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "каалосы"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "жамандардын"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "жок болот"
+    }
+  ],
+  "timestamp": "2026-10-05T16:19:19.264577265Z",
+  "model": "glm-5.3"
+}

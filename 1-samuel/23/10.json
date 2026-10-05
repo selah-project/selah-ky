@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 23:10",
+  "book": "1-samuel",
+  "lang": "ky",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "шамоа шама",
+      "rationale": "Инфинитив плюс чындык — «чын эле ук» деген күчтүү кайталоо, кыргызча бир сөзгө сиңип калат"
+    },
+    {
+      "kind": "substitution",
+      "subject": "менин айлабым менен",
+      "rationale": "בעבורי букв. «менин үчүн» — менден улам деген маани"
+    }
+  ],
+  "translation": "Давид айтты: Яхве, Йисраэлдин Элохими, ⟨өзүң> кулагың менен ук — сенин кулуң укту, Шаул Кеилага кирип, менин айлабым менен шаарды талкалоого аракет кылып жатканын.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "df90f4fe3ac1d5578593274c89bb1e49be210f087ac5ec2c42f581c8871bf873",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-samuel\/23\/9-12.1791207097802.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Элохими"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэлдин"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ук — биринчи"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "экинчи (кайталоо)"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "сенин кулуң"
+    },
+    {
+      "surface": "כי",
+      "gloss": "...ны"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "аракет кылып жатканын"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "кирип"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...га"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Кеилага"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "талкалоого"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "шаарды"
+    },
+    {
+      "surface": "בעבורי",
+      "gloss": "менин айлабым менен"
+    }
+  ],
+  "timestamp": "2026-10-05T13:31:37.803261381Z",
+  "model": "glm-5.3"
+}

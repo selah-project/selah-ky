@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 68:36",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 68,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "сенин … чыккан",
+      "rationale": "Кыргызча эмне коркунучтуу экенин тактоо үчүн кошулду; еврейче сегиз эрежесиз айтылган."
+    },
+    {
+      "kind": "crux",
+      "subject": "мимкадшейха",
+      "rationale": "Көптүк сан «ыйык жайларың»: бир канча которуу «сенин ыйык жайыңдан» деп жекелик кылат."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עז ותעצמות",
+      "rationale": "«Күч» (עז) үчүнчү ыраат катары келет — 34-жана 35-аяттар менен байланыш."
+    }
+  ],
+  "translation": "Коркунучтуу ⟨сенин⟩ ыйык жайларыңдан ⟨чыккан⟩ Элохим; Йисраэлдин Эли — ал өзү күч жана кубат берет элге. Алкыштуу Элохим.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "db787a3cfc0de424d527218d90fef0db47c5c089d15c0fb8004454cb3683a825",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/68\/33-36.1791216406154.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נורא",
+      "gloss": "коркунучтуу"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "ממקדשיך",
+      "gloss": "ыйык жайларыңдан"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эли"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэлдин"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ал өзү"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "берет"
+    },
+    {
+      "surface": "עז",
+      "gloss": "күч"
+    },
+    {
+      "surface": "ותעצמות",
+      "gloss": "жана кубат"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "элге"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "алкыштуу"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    }
+  ],
+  "timestamp": "2026-10-05T16:06:46.155629854Z",
+  "model": "glm-5.3"
+}

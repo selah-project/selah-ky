@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 132:5",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 132,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨аргам жок⟩",
+      "rationale": "Hebrew עד implies an oath-like negation carried from v.3–4; supplied as bracketed phrase"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אביר יעקב",
+      "rationale": "'Mighty One of Jacob' — epithet with alliteration on -יר\/קב"
+    }
+  ],
+  "translation": "Яхве үчүн орун тапмайынча, Яаковтун Күчтүүсү үчүн Мишкандар тапмайынча ⟨аргам жок⟩.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "bb87b8b264bc7567d707878fb2682a94a531c35bd177531ffc0507c582e30ce3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/132\/5-8.1791217472924.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "чейин"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "тапмайынча"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "орун"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхве үчүн"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "Мишкандар"
+    },
+    {
+      "surface": "לאביר",
+      "gloss": "Күчтүүсү үчүн"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаковтун"
+    }
+  ],
+  "timestamp": "2026-10-05T16:24:32.924796383Z",
+  "model": "glm-5.3"
+}

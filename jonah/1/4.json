@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jonah 1:4",
+  "book": "jonah",
+  "lang": "ky",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "גדולה\/גדול",
+      "rationale": "'чоң' эки жолу кайталанат — рух да, бороон да 'чоң', кыргызча кайталоо сакталды"
+    },
+    {
+      "kind": "idiom",
+      "subject": "חשבה להשבר",
+      "rationale": "букв. 'сынууну эсептеди' — кеме өзүн субъект кылып поэтикалык жандандыруу, 'сынып кетүүгө жакын болду' деп берилди"
+    },
+    {
+      "kind": "substitution",
+      "subject": "рух",
+      "rationale": "רוח 'шамал' да болушу мүмкүн, бирок эреже боюнча бир сөз 'рух' кармалды"
+    }
+  ],
+  "translation": "Яхве деңизге чоң рух ыргытты, жана деңизде чоң бороон болду, жана кеме сынып кетүүгө жакын деп эсептелди.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "436300302e5fe6d552698976207e70a3a7aed52d43d5917fe715b40f43d8a046",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/jonah\/1\/4-4.1791224365372.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "הטיל",
+      "gloss": "ыргытты"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "рух"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "чоң"
+    },
+    {
+      "surface": "אל",
+      "gloss": "деңизге"
+    },
+    {
+      "surface": "הים",
+      "gloss": "деңиз"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "болду"
+    },
+    {
+      "surface": "סער",
+      "gloss": "бороон"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "чоң"
+    },
+    {
+      "surface": "בים",
+      "gloss": "деңизде"
+    },
+    {
+      "surface": "והאניה",
+      "gloss": "кеме"
+    },
+    {
+      "surface": "חשבה",
+      "gloss": "эсептелди"
+    },
+    {
+      "surface": "להשבר",
+      "gloss": "сынып кетүүгө"
+    }
+  ],
+  "timestamp": "2026-10-05T18:19:25.372541405Z",
+  "model": "glm-5.3"
+}

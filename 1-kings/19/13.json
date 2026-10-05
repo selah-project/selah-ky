@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 19:13",
+  "book": "1-kings",
+  "lang": "ky",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "болду",
+      "rationale": "Ивритте негизги этиш жок — קול гана, кыргызча копула кошулду"
+    },
+    {
+      "kind": "idiom",
+      "subject": "מה לך פה",
+      "rationale": "Кыргызча этиш талап кылат; ивритче адабий суроо «эмне — саға — бул жерде»"
+    },
+    {
+      "kind": "you",
+      "subject": "Элияхуга",
+      "rationale": "Үн Элияхуну аты менен тикелей кайрылат"
+    }
+  ],
+  "translation": "Элияху укканда, жүзүн өзүнүн адиретине ороп, чыгып, үңкүрдүн оозунда турду; жана мына, ага бир үн ⟨болду⟩ жана айтты: Саға бул жерде эмне ⟨кылып жүрөсүң⟩, Элияху?",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "6c89fcf01dbb56d6bcf0dd5ba297cce3bf430e11a7ff22afe2c2574e374644b2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-kings\/19\/13-16.1791208511206.json",
+    "code": "641241cf-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "болду"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "укканда"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Элияху"
+    },
+    {
+      "surface": "וילט",
+      "gloss": "ороп"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "жүзүн"
+    },
+    {
+      "surface": "באדרתו",
+      "gloss": "өзүнүн адиретине"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "чыгып"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "турду"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "оозунда"
+    },
+    {
+      "surface": "המערה",
+      "gloss": "үңкүрдүн"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "жана мына"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ага"
+    },
+    {
+      "surface": "קול",
+      "gloss": "үн"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "жана айтты"
+    },
+    {
+      "surface": "מה",
+      "gloss": "эмне"
+    },
+    {
+      "surface": "לך",
+      "gloss": "саға"
+    },
+    {
+      "surface": "פה",
+      "gloss": "бул жерде"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Элияху"
+    }
+  ],
+  "timestamp": "2026-10-05T13:55:11.207309319Z",
+  "model": "glm-5.3"
+}

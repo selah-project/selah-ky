@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 18:1",
+  "book": "proverbs",
+  "lang": "ky",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יתגלע",
+      "rationale": "Жөнөкөй сөз: «аралашып кетет» (KJV 'intermeddleth') же «ачууланат» (ASV 'rageth') — экөө тең далилденген; мен «каршы чыгат» деп алдым."
+    },
+    {
+      "kind": "addition",
+      "subject": "адам",
+      "rationale": "Ивритте «адам» сөзү жок — айрым жоруйлоолор ламедди «кантип» деп байлашат, башкалары бөлүнгөн адамды каалоону издөөчү деп окуйт."
+    },
+    {
+      "kind": "hapax",
+      "subject": "יתגלע",
+      "rationale": "Бул форма Танахта ушул жерде гана кездешет."
+    }
+  ],
+  "translation": "Каалоо үчүн ⟨өзүн⟩ бөлүп алган ⟨адам⟩ издейт, ар бир ишенимдүү акылга каршы чыгат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "50aaf93b6d741bd5d77493cd145cc6db9def980cd4127926ff6786f05573804a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/18\/1-4.1791218153997.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לתאוה",
+      "gloss": "каалоо үчүн"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "издет"
+    },
+    {
+      "surface": "נפרד",
+      "gloss": "бөлүп алган"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ар бир"
+    },
+    {
+      "surface": "תושיה",
+      "gloss": "ишенимдүү акыл"
+    },
+    {
+      "surface": "יתגלע",
+      "gloss": "каршы чыгат"
+    }
+  ],
+  "timestamp": "2026-10-05T16:35:53.998078512Z",
+  "model": "glm-5.3"
+}

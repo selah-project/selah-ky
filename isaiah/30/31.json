@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "isaiah 30:31",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨аларды⟩",
+      "rationale": "Объект еврейче аталбаган, кыргызча этиш ачык болушу үчүн кошулду."
+    },
+    {
+      "kind": "crux",
+      "subject": "בשבט יכה",
+      "rationale": "'таяк менен сабайт' — ким сабайт (Яхве) жана кимди (Ашшур) же 'сабаган таяк' (JPS) деген талаш."
+    }
+  ],
+  "translation": "Анткени Яхвенин үнүнөн Ашшур чөгөт — таяк менен ⟨аларды⟩ сабайт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "02b6dac126d9458103a01bf15ad7ce06707042cdf54f09cc78baea1e1808a9b4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/30\/29-32.1791209927875.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "מקול",
+      "gloss": "үнүнөн"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "чөгөт"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ашшур"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "таяк менен"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "сабайт"
+    }
+  ],
+  "timestamp": "2026-10-05T14:18:47.876852665Z",
+  "model": "glm-5.3"
+}

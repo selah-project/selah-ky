@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 66:20",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 66,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Өз",
+      "rationale": "וחסדו 'жана анын хеседи' — кыргызча тактоо үчүн 'Өз' кошулду."
+    }
+  ],
+  "translation": "Алкыштуу Элохим, Ал менин өтүнүчүмдү жана Өз хеседин ⟨את⟩ менден бурбаган.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "f13630ea18a75644aaafc904cdca32724e5b75ccf6659031f7d73cc10c737c52",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/66\/17-20.1791216293814.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Алкыштуу"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Ал"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "бурбаган"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "өтүнүчүмдү"
+    },
+    {
+      "surface": "וחסדו",
+      "gloss": "хеседин"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "⟨את⟩ менден",
+      "marks": "менден"
+    }
+  ],
+  "timestamp": "2026-10-05T16:04:53.815925742Z",
+  "model": "glm-5.3"
+}

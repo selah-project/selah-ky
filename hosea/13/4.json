@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 13:4",
+  "book": "hosea",
+  "lang": "ky",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Йисраэлге",
+      "rationale": "Яхве Эфраимге\/Йисраэлге түз кайрылат — биринчи жамааттык кимсеге"
+    },
+    {
+      "kind": "crux",
+      "subject": "מארץ מצרים",
+      "rationale": "'Мицрайим жеринен бери' же 'Мицрайим жеринен (ачып чыкканым)' — Мыйзамды кайталоо 5:6 менен уйкаш"
+    }
+  ],
+  "translation": "Мен — Яхве, сенин Элохимиң, Мицрайим жеринен ⟨бери⟩; Менден башка Элохимди билбейсің, жана Менден башка куткаруучу жок.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "ca0f4fb742851dcb93bd5d93f75845bdc4db3cb12b255e8bf482080710e96783",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/hosea\/13\/1-4.1791214061326.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "Мен"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Элохимиң"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "жеринен"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицрайим"
+    },
+    {
+      "surface": "ואלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "Менден башка"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "билбейсің"
+    },
+    {
+      "surface": "ומושיע",
+      "gloss": "куткаруучу"
+    },
+    {
+      "surface": "אין",
+      "gloss": "жок"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "Менден башка"
+    }
+  ],
+  "timestamp": "2026-10-05T15:27:41.327634662Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 12:4",
+  "book": "1-chronicles",
+  "lang": "ky",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "отуз",
+      "rationale": "Давидтин 'отуз' баатырына тиешелүү ранг — отуздун ичинде жана отуздун үстүнөн."
+    },
+    {
+      "kind": "crux",
+      "subject": "ועל השלשים",
+      "rationale": "'отуздун үстүнөн' — башчысы же (LXX боюнча) 'отуздун үстүнө' кошулган деген окууга айланат."
+    }
+  ],
+  "translation": "Жана Йишмайа Гивонлук, отуздун ичиндеги баатыр, жана отуздун үстүнөн.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "9d83dc5480d13cdadf4c8b3b29577fbe6620c1eb5ca3d9a1c46698b003f60a2b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-chronicles\/12\/1-4.1791222057254.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמעיה",
+      "gloss": "Жана Йишмайа"
+    },
+    {
+      "surface": "הגבעוני",
+      "gloss": "Гивонлук"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "баатыр"
+    },
+    {
+      "surface": "בשלשים",
+      "gloss": "отуздун ичиндеги"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "жана ... үстүнөн"
+    },
+    {
+      "surface": "השלשים",
+      "gloss": "отуздун"
+    }
+  ],
+  "timestamp": "2026-10-05T17:40:57.255727137Z",
+  "model": "glm-5.3"
+}

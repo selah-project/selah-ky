@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "deuteronomy 4:37",
+  "book": "deuteronomy",
+  "lang": "ky",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ותחת כי",
+      "rationale": "Эки байламта бирге «анткени» деген маанини берет; жекече «астында» деген сөз түрүндө калса жаңылдырат."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ал",
+      "rationale": "Этиштин ээси текстте аталбаган — кыргызча «ал» (Яхве, 4:35 контекст) кошулду."
+    }
+  ],
+  "translation": "Жана анткени ал ⟨את⟩ аталарыңды жакшы көрдү, алардын үрөнүн өзүнөн кийин тандап алды жана сени Өз жүзүнүн алдында, Өзүнүн улуу күчү менен Мицрайимден алып чыкты.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "b2e57b59b0ef5cbb463a61935c3faec874864af26b53a5a500caaa05380d0425",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/4\/37-38.1791223709276.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותחת",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "жакшы көрдү"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ателarıŋdı"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "ателarıŋdı"
+    },
+    {
+      "surface": "ויבחר",
+      "gloss": "tandap aldı"
+    },
+    {
+      "surface": "בזרעו",
+      "gloss": "alardın үрөнүн"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "özünön kiyin"
+    },
+    {
+      "surface": "ויוצאך",
+      "gloss": "seni alıp çıqtı"
+    },
+    {
+      "surface": "בפניו",
+      "gloss": "Öz jüzünün aldında"
+    },
+    {
+      "surface": "בכחו",
+      "gloss": "Özünün küçü menen"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "uluu"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsrayimden"
+    }
+  ],
+  "timestamp": "2026-10-05T18:08:29.277556390Z",
+  "model": "glm-5.3"
+}

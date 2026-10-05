@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 7:11",
+  "book": "2-chronicles",
+  "lang": "ky",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "жүрөгүнө келгендин баарын",
+      "rationale": "על לב 'пришло на сердце' — идиома желания\/замысла; буквальный перевод звучал бы странно"
+    },
+    {
+      "kind": "crux",
+      "subject": "הצליח",
+      "rationale": "'он успешно совершил' (KJV) vs 'он заставил преуспеть' (YLT): глагол может быть переходным или непереходным"
+    }
+  ],
+  "translation": "Жана Шеломо ⟨את⟩ Яхвенин үйүн жана ⟨את⟩ падышанын үйүн бүтүрдү, жана Шеломонун жүрөгүнө Яхвенин үйүндө жана өз үйүндө жасоого келгендин баарын ийгиликтүү аткарды.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "e78a55af438030c1d5802a1d0581fbff84d0c3fa7c46be60dbcd2bf941ee4033",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-chronicles\/7\/9-12.1791222737442.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "бүтүрдү"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шеломо"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яхвенин үйүн"
+    },
+    {
+      "surface": "בית",
+      "gloss": "үйүн"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "падышанын үйүн"
+    },
+    {
+      "surface": "בית",
+      "gloss": "үйүн"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "падышанын"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "баарын"
+    },
+    {
+      "surface": "כל",
+      "gloss": "баарын"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "келгендин"
+    },
+    {
+      "surface": "על",
+      "gloss": "…га"
+    },
+    {
+      "surface": "לב",
+      "gloss": "жүрөгүнө"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шеломонун"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "жасоого"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "үйүндө"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    },
+    {
+      "surface": "ובביתו",
+      "gloss": "жана өз үйүндө"
+    },
+    {
+      "surface": "הצליח",
+      "gloss": "ийгиликтүү аткарды"
+    }
+  ],
+  "timestamp": "2026-10-05T17:52:17.443304843Z",
+  "model": "glm-5.3"
+}

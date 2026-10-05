@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 132:15",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 132,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ברך אברך",
+      "rationale": "инфинитив абсолюттун кайталоосу — 'батадан бата' деп интенсификация кыргызча сакталды"
+    },
+    {
+      "kind": "substitution",
+      "subject": "азык",
+      "rationale": "צידה так маанисинде 'аңчылык олжосу'; жыйынтык катары 'азык' деп берилди"
+    }
+  ],
+  "translation": "Анын азыгын батадан бата береюн, анын жакырларын нан менен тойгузаюн.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "8ba0cb56b177f792ef48186339bc9d52c3093d2b1e6c9f137d4f5caf7375f33e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/132\/13-16.1791217466435.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צידה",
+      "gloss": "азык"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "батадан"
+    },
+    {
+      "surface": "אברך",
+      "gloss": "бата береюн"
+    },
+    {
+      "surface": "אביוניה",
+      "gloss": "жакырларын"
+    },
+    {
+      "surface": "אשביע",
+      "gloss": "тойгузаюн"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "нан"
+    }
+  ],
+  "timestamp": "2026-10-05T16:24:26.436641169Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 34:5",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ал",
+      "rationale": "Ивритте этиштин жак аты жок — «жана ал мени угуп» дегендеги «ал» кошулду"
+    }
+  ],
+  "translation": "Мен ⟨את⟩ Яхвени издедим, жана ал мени угуп, мени бардык коркунучтарымдан куткарып калды.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "de242b39fc63e69dad226e202adf721f52a44cdb6065cba3550d269d034dd3f4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/34\/5-8.1791215791487.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דרשתי",
+      "gloss": "издедим"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яхвени"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвени"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "жана ал мени угуп"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "бардык ... дан"
+    },
+    {
+      "surface": "מגורותי",
+      "gloss": "коркунучтарымдан"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "мені куткарып калды"
+    }
+  ],
+  "timestamp": "2026-10-05T15:56:31.487834144Z",
+  "model": "glm-5.3"
+}

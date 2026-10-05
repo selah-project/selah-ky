@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "daniel 7:12",
+  "book": "daniel",
+  "lang": "ky",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "убакытка жана мезгилге чейин",
+      "rationale": "עד זמן ועדן — ченелген мөөнөт: убакыт жана мезгил"
+    },
+    {
+      "kind": "substitution",
+      "subject": "мезгил",
+      "rationale": "עדן technically 'жыл' да дейт — 'белгилүү мезгил' деп берилди"
+    }
+  ],
+  "translation": "Калган жаныбарлар болсо, алардын бийлиги алынып салынды, бирок аларга белгилүү убакытка жана мезгилге чейин жашоо узартылып берилди.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "8bd19977411391bcf5441fb858ca3944261a32c94fa6a1317234d5765d1fea7e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/daniel\/7\/9-12.1791220708930.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושאר",
+      "gloss": "жана калган"
+    },
+    {
+      "surface": "חיותא",
+      "gloss": "жаныбарлар"
+    },
+    {
+      "surface": "העדיו",
+      "gloss": "алынып салынды"
+    },
+    {
+      "surface": "שלטנהון",
+      "gloss": "алардын бийлиги"
+    },
+    {
+      "surface": "וארכה",
+      "gloss": "жана узартылып"
+    },
+    {
+      "surface": "בחיין",
+      "gloss": "жашоо"
+    },
+    {
+      "surface": "יהיבת",
+      "gloss": "берилди"
+    },
+    {
+      "surface": "להון",
+      "gloss": "аларга"
+    },
+    {
+      "surface": "עד",
+      "gloss": "чейин"
+    },
+    {
+      "surface": "זמן",
+      "gloss": "убакытка"
+    },
+    {
+      "surface": "ועדן",
+      "gloss": "жана мезгилге"
+    }
+  ],
+  "timestamp": "2026-10-05T17:18:28.932636429Z",
+  "model": "glm-5.3"
+}

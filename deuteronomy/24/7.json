@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 24:7",
+  "book": "deuteronomy",
+  "lang": "ky",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "нефеш",
+      "rationale": "נפש здесь «личность\/человек», а не «душа»: вор крадёт живого человека"
+    },
+    {
+      "kind": "crux",
+      "subject": "вэhитамер",
+      "rationale": "והתעמר: «обращаться как с рабом» (JPS\/ASV) или «тиранизировать» (YLT) — букв. «нагромождать побои»"
+    },
+    {
+      "kind": "you",
+      "subject": "к Израилю",
+      "rationale": "«убери зло из среды твоей» — единственное число, обращение к общине"
+    }
+  ],
+  "translation": "Эгер бир адам өз бир туугандарынын, Йисраэл уулдарынын бирөөсүн уурлап, аны зордуктаса жана сатса, ошол ууру өлсүн жана жамандыкты өз араңардан алып сал.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "76336aa17e4422a892c2b47a6f36f236a34b4dede648dba622af7f8f1ad0534d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/24\/5-8.1791205227965.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Эгер"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "табылса"
+    },
+    {
+      "surface": "איש",
+      "gloss": "адам"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "уурлап"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "адам"
+    },
+    {
+      "surface": "מאחיו",
+      "gloss": "бир туугандарынын"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "уулдарынын"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэл"
+    },
+    {
+      "surface": "והתעמר",
+      "gloss": "зордуктаса"
+    },
+    {
+      "surface": "בו",
+      "gloss": "аны"
+    },
+    {
+      "surface": "ומכרו",
+      "gloss": "жана сатса"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "өлсүн"
+    },
+    {
+      "surface": "הגנב",
+      "gloss": "ууру"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ошол"
+    },
+    {
+      "surface": "ובערת",
+      "gloss": "алып сал"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "жамандыкты"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "араңардан"
+    }
+  ],
+  "timestamp": "2026-10-05T13:00:27.966892307Z",
+  "model": "glm-5.3"
+}

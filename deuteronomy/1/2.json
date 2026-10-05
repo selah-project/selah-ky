@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 1:2",
+  "book": "deuteronomy",
+  "lang": "ky",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "жол",
+      "rationale": "жөн гана 'күн' эмес, 'күнлүк жол' мааниси керек"
+    },
+    {
+      "kind": "measurement",
+      "subject": "он бир күн",
+      "rationale": "жол узактыгы көрсөтүлгөн"
+    }
+  ],
+  "translation": "Он бир күнлүк жол — Хоревден Сеир тоосунун жолу менен Кадеш-Барнейге чейин.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "a8c2bae1956fabfe82fb80128922c19d592e677d1ef73d14a1a50877c7fea901",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/1\/1-4.1791204678371.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אחד",
+      "gloss": "он"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "бир"
+    },
+    {
+      "surface": "יום",
+      "gloss": "күн"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "Хоревден"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "жолу менен"
+    },
+    {
+      "surface": "הר",
+      "gloss": "тоосунун"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Сеир"
+    },
+    {
+      "surface": "עד",
+      "gloss": "чейин"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Кадеш"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "Барнейге"
+    }
+  ],
+  "timestamp": "2026-10-05T12:51:18.371905502Z",
+  "model": "glm-5.3"
+}

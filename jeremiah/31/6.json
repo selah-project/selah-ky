@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 31:6",
+  "book": "jeremiah",
+  "lang": "ky",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "караоолчулардын чакырыгы",
+      "rationale": "«Туруңар... чыгайлы» — Тайга чакыруу, окурманга багытталган imperativ."
+    },
+    {
+      "kind": "you",
+      "subject": "кайтып келүүчү элге",
+      "rationale": "Караоолчулар Эфраимдин тоосунан тайга кайтыш үчүн элди тике адрестешет."
+    },
+    {
+      "kind": "substitution",
+      "subject": "караоолчулар",
+      "rationale": "נצרים 'сактоочулар, көзөмөлдөөчүлөр' — караоолчулар деген кызматтык котормо."
+    }
+  ],
+  "translation": "Анткени күн бар: Эфраим тоосунда караоолчулар чакырышат: «Туруңар, Цийонго, Яхве Элохимибиздин алдына чыгайлы!»",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "dcff08532b5bd9ba3e7a6cc167df2fe35a6252993986716e513a40c46626b049",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/jeremiah\/31\/5-8.1791211408030.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "יש",
+      "gloss": "бар"
+    },
+    {
+      "surface": "יום",
+      "gloss": "күн"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "чакырышат"
+    },
+    {
+      "surface": "נצרים",
+      "gloss": "караоолчулар"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "тоосунда"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Эфраим"
+    },
+    {
+      "surface": "קומו",
+      "gloss": "туруңар"
+    },
+    {
+      "surface": "ונעלה",
+      "gloss": "чыгайлы"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Цийонго"
+    },
+    {
+      "surface": "אל",
+      "gloss": "алдына"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Элохимибиздин"
+    }
+  ],
+  "timestamp": "2026-10-05T14:43:28.031481380Z",
+  "model": "glm-5.3"
+}

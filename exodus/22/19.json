@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 22:19",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "харам кылынсын",
+      "rationale": "חרם — 'толук жок кылууга бاغыштоо' KJВдин 'utterly destroyed' дегени; 'харам' тамырдын өзүн сактайт"
+    },
+    {
+      "kind": "literal-form",
+      "subject": "кудайларга",
+      "rationale": "бул жерде אלהים башка кудайлар жөнүндө — кичине тамга менен 'кудайлар'"
+    }
+  ],
+  "translation": "Кудайларга курмандык чалган — Яхвеге гана болбосо — харам кылынсын.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "23048a5c6e6796c45a6bb970dbfea58617da0fd6bbe045ea1251ac4248b63350",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/22\/17-20.1791202311220.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זבח",
+      "gloss": "курмандык чалган"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "кудайларга"
+    },
+    {
+      "surface": "יחרם",
+      "gloss": "харам кылынсын"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "болбосо"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхвеге"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "гана"
+    }
+  ],
+  "timestamp": "2026-10-05T12:11:51.221706681Z",
+  "model": "glm-5.3"
+}

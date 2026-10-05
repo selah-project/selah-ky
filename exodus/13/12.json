@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 13:12",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жатырдан чыккан түшкүн",
+      "rationale": "פטר רחם — «жатырды ачкан»: түшкүн (төрөлгөн алгачкы) катары берилди"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "פטר ... פטר",
+      "rationale": "Эки жолу кайталанган «жатырды ачкан» — риторикалык кайталоо"
+    }
+  ],
+  "translation": "анда сен жатырдан чыккан ар бир түшкүнү Яхвеге өткөрүп бересиң, жана сенде болгон малдын ар бир түшкүнүнөн эркектери Яхвеге тиешелүү.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "4049d8ad094d0133afa0bd7845caab51ad8f79d6d6be687d3261d2b662c440e5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/13\/9-12.1791202100278.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והעברת",
+      "gloss": "анда сен ... өткөрүп бересиң"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ар бир"
+    },
+    {
+      "surface": "פטר",
+      "gloss": "ачкан"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "жатырдан"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхвеге"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "жана ар бир"
+    },
+    {
+      "surface": "פטר",
+      "gloss": "түшкүнү"
+    },
+    {
+      "surface": "שגר",
+      "gloss": "төрөлгөн"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "малдын"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "..."
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "болгон"
+    },
+    {
+      "surface": "לך",
+      "gloss": "сенде"
+    },
+    {
+      "surface": "הזכרים",
+      "gloss": "эркектери"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхвеге"
+    }
+  ],
+  "timestamp": "2026-10-05T12:08:20.279218176Z",
+  "model": "glm-5.3"
+}

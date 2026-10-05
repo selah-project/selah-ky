@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 28:11",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "бир",
+      "rationale": "кыргызча 'бир жерге' — המקום 'ал жер' анык эмес атооч катары"
+    },
+    {
+      "kind": "crux",
+      "subject": "вамакома hahuа",
+      "rationale": "KJV\/ASV 'a certain place' vs JPS 'the place' — аныктык_article' жокко чыгарылат, жер кийин ыйык деп белгиленет"
+    }
+  ],
+  "translation": "Жана ал бир жерге жолукту да, ал жерде түнөп калды, анткени күн кирген эле; жана ошол жердин таштарынан алып, башынын астына коюп, ошол жерде жатты.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "21fc7755373c638033cd02844917e04d96be732a48242a722026efd8f4952ed4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/28\/9-12.1791201279336.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויפגע",
+      "gloss": "жолукту"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "бир жерге"
+    },
+    {
+      "surface": "וילן",
+      "gloss": "түнөп калды"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ал жерде"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "בא",
+      "gloss": "кирген"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "күн"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "алды"
+    },
+    {
+      "surface": "מאבני",
+      "gloss": "таштарынан"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "ошол жердин"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "коюп"
+    },
+    {
+      "surface": "מראשתיו",
+      "gloss": "башынын астына"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "жатты"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "жерде"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ошол"
+    }
+  ],
+  "timestamp": "2026-10-05T11:54:39.337307556Z",
+  "model": "glm-5.3"
+}

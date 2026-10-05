@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 139:14",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 139,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נפליתי\/נפלאים",
+      "rationale": "пלה\/פלא тамырынын кайталанышы — 'айырмаландым'\/'укмуштуу'; кыргызча уйкаштык жоголду"
+    },
+    {
+      "kind": "substitution",
+      "subject": "жаным",
+      "rationale": "נפש — дем алуучу жандык, жүрөк-эңсөө; 'жан' кеңири кабыл алынды"
+    }
+  ],
+  "translation": "Коркуткуч түрдө, укмуштай жаратылганым үчүн Сени даңазалаймын; Сенин иштериң укмуштуу, муну жаным абдан жакшы билет.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "bd8cf0abb86d16d029c777106342ac609397bad25d7305e4109303327bfc8581",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/139\/13-16.1791217571577.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "Сени даңазалаймын"
+    },
+    {
+      "surface": "על",
+      "gloss": "үчүн"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "נוראות",
+      "gloss": "Коркуткуч түрдө"
+    },
+    {
+      "surface": "נפליתי",
+      "gloss": "укмуштай жаратылганым"
+    },
+    {
+      "surface": "נפלאים",
+      "gloss": "укмуштуу"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "иштериң"
+    },
+    {
+      "surface": "ונפשי",
+      "gloss": "жаным"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "билет"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "абдан жакшы"
+    }
+  ],
+  "timestamp": "2026-10-05T16:26:11.578354850Z",
+  "model": "glm-5.3"
+}

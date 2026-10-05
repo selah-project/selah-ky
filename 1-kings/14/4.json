@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 14:4",
+  "book": "1-kings",
+  "lang": "ky",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "көздөрү туруп калган",
+      "rationale": "буквально 'его глаза встали от старости' — идиома: көрүү күчү өчүп калган дегенди билдирет."
+    },
+    {
+      "kind": "substitution",
+      "subject": "эдп",
+      "rationale": "тигизилген 'эдп' — туура кыргызча 'эле'; эскертүү."
+    }
+  ],
+  "translation": "Яровамдын аялы ошондой кылды: турду, Шилого барып, Ахиянын үйүнө келди. Ал эми Ахия көрө албай калган эдп, анткени анын көздөрү карыгандыктан туруп калган.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "203c8ed12b716bc9afbfaa64931c5eb677928f8cb450ed4aa54af993b6bd4daf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-kings\/14\/1-4.1791208359880.json",
+    "code": "641241cf-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותעש",
+      "gloss": "жана кылды"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ошондой"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "аялы"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Яровамдын"
+    },
+    {
+      "surface": "ותקם",
+      "gloss": "турду"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "барып"
+    },
+    {
+      "surface": "שלה",
+      "gloss": "Шилого"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "келди"
+    },
+    {
+      "surface": "בית",
+      "gloss": "үйүнө"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "Ахиянын"
+    },
+    {
+      "surface": "ואחיהו",
+      "gloss": "Ахия"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "יכל",
+      "gloss": "албай калган"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "көрө"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "туруп калган"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "көздөрү"
+    },
+    {
+      "surface": "משיבו",
+      "gloss": "каригандыктан"
+    }
+  ],
+  "timestamp": "2026-10-05T13:52:39.881441075Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 21:20",
+  "book": "proverbs",
+  "lang": "ky",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨бар⟩",
+      "rationale": "Еврей текстинде 'бар' эмес — этиш жок, кыргызча баяндоо талап кылат"
+    },
+    {
+      "kind": "substitution",
+      "subject": "жутуп жиберет",
+      "rationale": "יבלענו букмасы менен 'жутуп койду' — кыскача 'жеп бүтөт' деген мааниде"
+    }
+  ],
+  "translation": "Даанышмандын турагында сүйкүмдүү казына жана май ⟨бар⟩, акмак адам аны жутуп жиберет.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "00ec8059659f6647b954235f0a8e886bcb31701761039b161e0ae23e2dde182e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/21\/17-20.1791218226461.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אוצר",
+      "gloss": "казына"
+    },
+    {
+      "surface": "נחמד",
+      "gloss": "сүйкүмдүү"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "жана май"
+    },
+    {
+      "surface": "בנוה",
+      "gloss": "турагында"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "даанышман"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "акмак"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "адам"
+    },
+    {
+      "surface": "יבלענו",
+      "gloss": "жутуп жиберет"
+    }
+  ],
+  "timestamp": "2026-10-05T16:37:06.462581862Z",
+  "model": "glm-5.3"
+}

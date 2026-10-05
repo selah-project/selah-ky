@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 14:6",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ал",
+      "rationale": "Этиштин субъектиси (Парох) кыргызча сүйлөм үчүн кошулду"
+    }
+  ],
+  "translation": "Жана ал ⟨את⟩ өз арабасын кошту да, ⟨את⟩ өз элин өзү менен бирге алып жөнөдү.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "3be1bc6c89d2271f94a5569615599a241f06bf4442354e41ebd92e68b54e9c6f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/14\/5-8.1791202075273.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאסר",
+      "gloss": "кошту"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "өз арабасын"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "өз арабасын"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "жана ⟨את⟩",
+      "marks": "өз элин"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "өз элин"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "алып жөнөдү"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "өзү менен бирге"
+    }
+  ],
+  "timestamp": "2026-10-05T12:07:55.274177100Z",
+  "model": "glm-5.3"
+}

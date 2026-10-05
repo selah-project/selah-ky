@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 5:4",
+  "book": "2-kings",
+  "lang": "ky",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כזאת וכזאת",
+      "rationale": "Жээк 'мындай жана мындай' — сөздү толук кайталабай, окуяны кыскартуу ыкмасы."
+    },
+    {
+      "kind": "addition",
+      "subject": "мындай деди",
+      "rationale": "Кыргызча баяндоо үчүн 'деп айтты' түзүлүшү кошулду."
+    }
+  ],
+  "translation": "Ал кирип, өз кожоюнуна билдирип мындай деди: Йисраэл жеринен болгон кыз мындай жана мындай деди.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "a6a8d8d4ea4a9f3edbaec983a33844bc88ff8242752b0e5901fa3784aa65c7c3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-kings\/5\/1-4.1791208784259.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "кирип"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "билдирип"
+    },
+    {
+      "surface": "לאדניו",
+      "gloss": "кожоюнуна"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "деп"
+    },
+    {
+      "surface": "כזאת",
+      "gloss": "мындай"
+    },
+    {
+      "surface": "וכזאת",
+      "gloss": "жана мындай"
+    },
+    {
+      "surface": "דברה",
+      "gloss": "деди"
+    },
+    {
+      "surface": "הנערה",
+      "gloss": "кыз"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "болгон"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "жеринен"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэл"
+    }
+  ],
+  "timestamp": "2026-10-05T13:59:44.260552025Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 89:15",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "—",
+      "rationale": "Кыргыз тили такты менен анын негизин байланыштыруу үчүн тире жана 'негизи' формасын талап кылат; еврейче 'цедек жана өкүм тактыңдын орду'"
+    },
+    {
+      "kind": "elision",
+      "subject": "יקדמו",
+      "rationale": "'Алдыда чыгышат\/күтүп алышат' деген тамыр 'жүрүшөт' катары берилди — алдында жүрүү сүрөтү"
+    }
+  ],
+  "translation": "Цедек жана өкүм — Сенин тактыңдын негизи; хесед жана чындык Сенин жүзүңдүн алдында жүрүшөт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "bd7c909ace50b8d7a0eefd8ecd82daebaa3f2d236bb70cb9c172f5a72315f6d2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/89\/13-16.1791216793861.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "цедек"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "жана өкүм"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "негиз"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "Сенин тактыңдын"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "хесед"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "жана чындык"
+    },
+    {
+      "surface": "יקדמו",
+      "gloss": "алдында жүрүшөт"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "Сенин жүзүңдүн"
+    }
+  ],
+  "timestamp": "2026-10-05T16:13:13.862281558Z",
+  "model": "glm-5.3"
+}

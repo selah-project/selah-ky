@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "proverbs 20:29",
+  "book": "proverbs",
+  "lang": "ky",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "агарган чач",
+      "rationale": "שיבה сызыктуу түрдө 'чачтын агары \/ карылык' деген сөз — бир сөз, кыргызча эки сөз менен берилди"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨—⟩",
+      "rationale": "еврейче жок болгон байламдаш (копула) кыргызча керек болду"
+    }
+  ],
+  "translation": "Жаштардын кооздугу — алардын күчү, жана карылардын даңкы — агарган чач.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "6f470061edb896d65a39e812fe8b9cc41b6faa1019529df174eadd0c44ea442f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/20\/29-30.1791218185238.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תפארת",
+      "gloss": "кооздугу"
+    },
+    {
+      "surface": "בחורים",
+      "gloss": "жаштардын"
+    },
+    {
+      "surface": "כחם",
+      "gloss": "күчү"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "жана даңкы"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "карылардын"
+    },
+    {
+      "surface": "שיבה",
+      "gloss": "агарган чач"
+    }
+  ],
+  "timestamp": "2026-10-05T16:36:25.239342655Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "isaiah 41:29",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "рух",
+      "rationale": "רוח бул жерде «шамал» деген сөздүн сүрөтү — айкелдер шамалдай бош; бирок тил эрежеси боюнча бир сөз кармалды"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תהו",
+      "rationale": "Башталыш 1:2 деги «төңөрөң жана боштук» менен жаңырыш — буттар жаратылыштын алгачкы хаосун кайтарат"
+    }
+  ],
+  "translation": "Көргүнчү, алардын баары — жок нерсе; алардын иштери эпсиз; алардын куйма айкелдери — рух жана төңөрөң.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "42484a9a7a36db5fb3b46c15768639d6b03f235fb19a1a0d996c21c0ff206593",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/41\/29-29.1791210118355.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "көргүнчү"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "алардын баары"
+    },
+    {
+      "surface": "און",
+      "gloss": "жок нерсе"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "эпсиз"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "алардын иштери"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "рух"
+    },
+    {
+      "surface": "ותהו",
+      "gloss": "жана төңөрөң"
+    },
+    {
+      "surface": "נסכיהם",
+      "gloss": "алардын куйма айкелдери"
+    }
+  ],
+  "timestamp": "2026-10-05T14:21:58.356125999Z",
+  "model": "glm-5.3"
+}

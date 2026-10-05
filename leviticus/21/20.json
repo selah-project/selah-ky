@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 21:20",
+  "book": "leviticus",
+  "lang": "ky",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "תבלול",
+      "rationale": "«Көзүндө аралашуу» — катаракта сыяктуу көз оорусу; Танахта ушул жерде гана кездешет."
+    },
+    {
+      "kind": "crux",
+      "subject": "דק",
+      "rationale": "«Арык\/ичинкүү» менен «эски котормолордогу «бойдок» (dwarf) деген чечмелөө айырмаланат."
+    },
+    {
+      "kind": "measurement",
+      "subject": "кемчил тизмеси",
+      "rationale": "Адаттарды санап чыгуучу толук тизмелөө — ыйык кызматкарга коюлган талаптардын эсеби."
+    }
+  ],
+  "translation": "же бүкүр, же арык, же көзүндө даары бар, же кычышкак кака, же кабырчык ооруу, же эн бези талкандалган.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "bb1a6bd847fb8230b8e127ec879b94d9466be40eb1c6fc00c5f05e6295b5a3b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/21\/17-20.1791203316917.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "же"
+    },
+    {
+      "surface": "גבן",
+      "gloss": "бүкүр"
+    },
+    {
+      "surface": "או",
+      "gloss": "же"
+    },
+    {
+      "surface": "דק",
+      "gloss": "арык"
+    },
+    {
+      "surface": "או",
+      "gloss": "же"
+    },
+    {
+      "surface": "תבלל",
+      "gloss": "даары"
+    },
+    {
+      "surface": "בעינו",
+      "gloss": "көзүндө"
+    },
+    {
+      "surface": "או",
+      "gloss": "же"
+    },
+    {
+      "surface": "גרב",
+      "gloss": "кычышкак-кака"
+    },
+    {
+      "surface": "או",
+      "gloss": "же"
+    },
+    {
+      "surface": "ילפת",
+      "gloss": "кабырчык-ооруу"
+    },
+    {
+      "surface": "או",
+      "gloss": "же"
+    },
+    {
+      "surface": "מרוח",
+      "gloss": "талкандалган"
+    },
+    {
+      "surface": "אשך",
+      "gloss": "эн-безі"
+    }
+  ],
+  "timestamp": "2026-10-05T12:28:36.918536965Z",
+  "model": "glm-5.3"
+}

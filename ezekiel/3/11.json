@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 3:11",
+  "book": "ezekiel",
+  "lang": "ky",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨да⟩",
+      "rationale": "Эгер-да конструкциясы кыргызча толук болушу үчүн кошулду."
+    },
+    {
+      "kind": "crux",
+      "subject": "אם ישמעו ואם יחדלו",
+      "rationale": "'укса да, баш тартса да' — же 'балким укса, балким баш тартат' деген эки окуу бар."
+    },
+    {
+      "kind": "you",
+      "subject": "Йехезкелге",
+      "rationale": "Буйруктар түрүндө түз кайрылуу."
+    }
+  ],
+  "translation": "Жана бар, туткундарга — сенин элиңдин уулдарына — кир, аларга сүйлө, жана аларга айт: Адонай Яхве мындай дейт: алар укса да, укуса да ⟨да⟩.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "84a6f5ea000c804b8f93c4b1b8fd58ec51b5c30a84b34c8e1fe867143f2a8311",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ezekiel\/3\/9-12.1791212139039.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולך",
+      "gloss": "Жана бар"
+    },
+    {
+      "surface": "בא",
+      "gloss": "кир"
+    },
+    {
+      "surface": "אל",
+      "gloss": "платформага"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "туткундарга"
+    },
+    {
+      "surface": "אל",
+      "gloss": "жакка"
+    },
+    {
+      "surface": "בני",
+      "gloss": "уулдарына"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "элиңдин"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "сүйлө"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "аларга"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "жана айт"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "аларга"
+    },
+    {
+      "surface": "כה",
+      "gloss": "мындай"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "дейт"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אם",
+      "gloss": "укса да"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "алар"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "укуса да"
+    },
+    {
+      "surface": "יחדלו",
+      "gloss": "⟨да⟩"
+    }
+  ],
+  "timestamp": "2026-10-05T14:55:39.040929141Z",
+  "model": "glm-5.3"
+}

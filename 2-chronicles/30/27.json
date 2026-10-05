@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-chronicles 30:27",
+  "book": "2-chronicles",
+  "lang": "ky",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "алардын",
+      "rationale": "ישמע — ким угуганы айтылбаган; ээси кошулду"
+    },
+    {
+      "kind": "substitution",
+      "subject": "קדשו",
+      "rationale": "'Анын ыйык жайы' — למעון קדשו байланышкан конструкция, ээлик местоимение контексттен"
+    }
+  ],
+  "translation": "Жана коанимдер, лейвилер турду жана ⟨את⟩ элди баталаштырды, жана алардын үнү угулду, жана алардын дубасы Анын ыйык жайына, асманга жетти.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "83a786b04a31341ae3d91390297969cf832cac6ca0e837881cc8b810b45eb387",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-chronicles\/30\/25-27.1791223287396.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "турду"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "коанимдер"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "лейвилер"
+    },
+    {
+      "surface": "ויברכו",
+      "gloss": "баталаштырды"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "элди"
+    },
+    {
+      "surface": "העם",
+      "gloss": "элди"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "угулду"
+    },
+    {
+      "surface": "בקולם",
+      "gloss": "алардын үнү"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "жетти"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "алардын дубасы"
+    },
+    {
+      "surface": "למעון",
+      "gloss": "жайына"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "ыйык"
+    },
+    {
+      "surface": "לשמים",
+      "gloss": "асманга"
+    }
+  ],
+  "timestamp": "2026-10-05T18:01:27.400720233Z",
+  "model": "glm-5.3"
+}

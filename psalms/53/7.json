@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 53:7",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 53,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מי יתן",
+      "rationale": "'ким берер' — 'кашыкейип' деген тилек маанисиндеги еврейче идиома"
+    },
+    {
+      "kind": "crux",
+      "subject": "שבות",
+      "rationale": "'туткундук' — 'байыган абалын кайтаруу' деген да окуу бар (шевут = мурдагы абал)"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בשוב\/שבות",
+      "rationale": "бир тамырдын эки формасы катар турат: 'кайтарганда... кайтаруу'"
+    },
+    {
+      "kind": "invitation",
+      "subject": "кубанып-сүйүнүү",
+      "rationale": "ыр тилек менен бүтүп, элди кубанууга чакырат"
+    }
+  ],
+  "translation": "Ким берер Сиондон Йисраэлдин куткарууларын! Элохим элинин туткундугун кайтарганда Яаков кубанат, Йисраэл сүйүнөт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "4ae5ba47359a7ca23ff0be077b054b90ad6fb7b3fcadfb023cfecbdbfea61895",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/53\/5-7.1791216236399.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ким"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "берер"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "Сиондон"
+    },
+    {
+      "surface": "ישעות",
+      "gloss": "куткарууларын"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэлдин"
+    },
+    {
+      "surface": "בשוב",
+      "gloss": "кайтарганда"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "туткундугун"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "элинин"
+    },
+    {
+      "surface": "יגל",
+      "gloss": "кубанат"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаков"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "сүйүнөт"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэл"
+    }
+  ],
+  "timestamp": "2026-10-05T16:03:56.400055106Z",
+  "model": "glm-5.3"
+}

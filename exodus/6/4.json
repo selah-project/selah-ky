@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 6:4",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אתם",
+      "rationale": "Үчүнчү жак көптүк «алар менен» деген алдын ала берилгендиктен «алар» сөзү кайталанган жок."
+    },
+    {
+      "kind": "measurement",
+      "subject": "Кенаан жери",
+      "rationale": "Келишим аркылуу берилүүчү жер аталат — чек ара белгилөө."
+    }
+  ],
+  "translation": "Жана Мен алар менен ⟨את⟩ менин келишимимди бекемдедим — ⟨את⟩ Кенаан жерин, ⟨את⟩ алар жүргөн конуш жерин аларга берүү үчүн.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "47f5036d9d5fff41d85a2809118984961297c6477a6077d7432dafcda44a2dae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/6\/1-4.1791201938397.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "жана"
+    },
+    {
+      "surface": "הקמתי",
+      "gloss": "бекемдедим"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "менин келишимимди"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "келишимим"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "берүү үчүн"
+    },
+    {
+      "surface": "להם",
+      "gloss": "аларга"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Кенаан жерин"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "жер"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Кенаан"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "конуш жерин"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "жер"
+    },
+    {
+      "surface": "מגריהם",
+      "gloss": "алардын конушу"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "алар"
+    },
+    {
+      "surface": "גרו",
+      "gloss": "жүргөн"
+    },
+    {
+      "surface": "בה",
+      "gloss": "анда"
+    }
+  ],
+  "timestamp": "2026-10-05T12:05:38.398534204Z",
+  "model": "glm-5.3"
+}

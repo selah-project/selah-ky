@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 28:9",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "-бы?",
+      "rationale": "сурамдык интонация үчүн кошулган сөз, еврейчеде жок"
+    },
+    {
+      "kind": "crux",
+      "subject": "гамулей \/ атакей",
+      "rationale": "сүттөн чечилгэн бала мааниси же «жетилгендер» деген башка окуу талаштуу"
+    }
+  ],
+  "translation": "⟨את⟩ кимге ал билим үйрөтөт, жана ⟨את⟩ кимге ал угулган кабарды түшүндүрөт? Сүттөн чечилгендерди, эмчектен алынгандардыбы?",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "a1e58da1d627cba7d7308cf88327d072fa531b1a05a0d6d50c9d2e528f7cdaa9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/28\/9-12.1791209801622.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "кимге"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кимге"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "үйрөтөт"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "билим"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "жана ⟨את⟩",
+      "marks": "кимге"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кимге"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "түшүндүрөт"
+    },
+    {
+      "surface": "שמועה",
+      "gloss": "угулган кабар"
+    },
+    {
+      "surface": "גמולי",
+      "gloss": "чечилгендерди"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "сүттөн"
+    },
+    {
+      "surface": "עתיקי",
+      "gloss": "алынгандарды"
+    },
+    {
+      "surface": "משדים",
+      "gloss": "эмчектен"
+    }
+  ],
+  "timestamp": "2026-10-05T14:16:41.622749906Z",
+  "model": "glm-5.3"
+}

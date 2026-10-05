@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 1:4",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "את",
+      "rationale": "Элохимдин көргөн объектиси ⟨את⟩ белгиси менен көрсөтүлдү"
+    },
+    {
+      "kind": "addition",
+      "subject": "экен",
+      "rationale": "כי «жакшы» деген баанын себебин билдирет; кыргызча «экен» менен берилди"
+    }
+  ],
+  "translation": "Жана Элохим ⟨את⟩ жарыкты көрдү — жакшы экен; жана Элохим жарык менен түнкү түнкүлүктүн ортосун ажыратты.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "74811423b4ef720f67f63379fee8e2797e4ed37fb025781088bc80b89f4e564a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/1\/1-4.1791200743204.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Жана көрдү"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "жарыкты"
+    },
+    {
+      "surface": "האור",
+      "gloss": "жарыкты"
+    },
+    {
+      "surface": "כי",
+      "gloss": "экен"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "жакшы"
+    },
+    {
+      "surface": "ויבדל",
+      "gloss": "жана ажыратты"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ортосун"
+    },
+    {
+      "surface": "האור",
+      "gloss": "жарык"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "менен"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "түнкү түнкүлүктүн"
+    }
+  ],
+  "timestamp": "2026-10-05T11:45:43.205516404Z",
+  "model": "glm-5.3"
+}

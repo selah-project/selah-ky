@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 2:1",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "השמים",
+      "rationale": "Көп сандуу (экилик) форма — «асманнар» эмес, кыргызча бир гана «асман» сөзү менен берилди."
+    },
+    {
+      "kind": "substitution",
+      "subject": "жамааты",
+      "rationale": "צבאם — «аскер, катар, жамаат»; бул жерде жаратылган бүт нерселердин «жамааты»."
+    }
+  ],
+  "translation": "Жана бүттү асман менен жер, жана алардын бүт жамааты.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "4688a214814e6faf16e06de662c425923511e9910f5954edf20bfb1906ef3bf1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/2\/1-4.1791200783474.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "бүттү"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "асман"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "жер"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "бүт"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "жамааты"
+    }
+  ],
+  "timestamp": "2026-10-05T11:46:23.475367871Z",
+  "model": "glm-5.3"
+}

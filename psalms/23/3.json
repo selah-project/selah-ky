@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 23:3",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жан",
+      "rationale": "נפש — дем алуучу жандык, күч-кубат; кыргызча «жан» эң жакыны, бирок бүткөл мааниси эмес"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ישובב \/ ינחני",
+      "rationale": "שוב булагы «кайтуу» — кайра кайрып келүү сүрөтү"
+    }
+  ],
+  "translation": "Жанымды ал кайра тирүүлөйт, цедек жолдорунда ал мени баштайт, Өз ысымы үчүн.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "30dcf7afd1bdf981fb4c49a20047dc0199dc32abf65a7c8632038662ed306b48",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/23\/1-4.1791215635463.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "жанымды"
+    },
+    {
+      "surface": "ישובב",
+      "gloss": "ал кайра тирүүлөйт"
+    },
+    {
+      "surface": "ינחני",
+      "gloss": "ал мени баштайт"
+    },
+    {
+      "surface": "במעגלי",
+      "gloss": "жолдорунда"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "цедек"
+    },
+    {
+      "surface": "למען",
+      "gloss": "үчүн"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "Өз ысымы"
+    }
+  ],
+  "timestamp": "2026-10-05T15:53:55.464958988Z",
+  "model": "glm-5.3"
+}

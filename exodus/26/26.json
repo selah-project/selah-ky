@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 26:26",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "илип коюучу шыргы",
+      "rationale": "בריחם — «илгич, абоо»; түз сөз жок, сыпаттап берилди"
+    },
+    {
+      "kind": "substitution",
+      "subject": "каптал",
+      "rationale": "צלע — «кабырга, ийилген жагы»; Мишкан үчүн «каптал»"
+    }
+  ],
+  "translation": "Жана сен шитим дарактарынан болгон жыгачтан илип коюучу шыргыларды жасайсың — Мишкандын бир капталынын тактайлары үчүн бешөө.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "8da6aa8f55b8e45b1e6624acd3d4677f72f907578cf38e996cb008ef358615a6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/26\/25-28.1791202387207.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Жана сен жасайсың"
+    },
+    {
+      "surface": "בריחם",
+      "gloss": "илип коюучу шыргыларды"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "жыгачтан"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "шитим дарактарынан"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "бешөө"
+    },
+    {
+      "surface": "לקרשי",
+      "gloss": "тактайлары үчүн"
+    },
+    {
+      "surface": "צלע",
+      "gloss": "капталынын"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Мишкандын"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "бир"
+    }
+  ],
+  "timestamp": "2026-10-05T12:13:07.208436851Z",
+  "model": "glm-5.3"
+}

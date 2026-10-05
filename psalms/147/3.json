@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 147:3",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 147,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "жүрөгү сыныктар",
+      "rationale": "לשבורי לב — 'сынык жүрөк' деген еврей идиомасы."
+    },
+    {
+      "kind": "substitution",
+      "subject": "жарааттарын",
+      "rationale": "עצבות — 'оору, жараат'; кээ бир котормолор 'кайгысын' деп берет."
+    }
+  ],
+  "translation": "Жүрөгү сыныктарга шипа берүүчү, алардын жарааттарын таңуучу.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "cb78caf90e42f8052cac8ae819476a99a726aed4815ae9bd9e92bb6a0c62b24c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/147\/1-4.1791217675598.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הרפא",
+      "gloss": "шипа берүүчү"
+    },
+    {
+      "surface": "לשבורי",
+      "gloss": "сыныктарга"
+    },
+    {
+      "surface": "לב",
+      "gloss": "жүрөгү"
+    },
+    {
+      "surface": "ומחבש",
+      "gloss": "таңуучу"
+    },
+    {
+      "surface": "לעצבותם",
+      "gloss": "жарааттарын"
+    }
+  ],
+  "timestamp": "2026-10-05T16:27:55.599017710Z",
+  "model": "glm-5.3"
+}

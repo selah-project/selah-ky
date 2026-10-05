@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 51:19",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨—⟩",
+      "rationale": "Ивритте «курмандыктар — сынык рух» байланыштыргычсыз турган эсептүү сүйлөм; кыргызча дефис менен берилди."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נשברה\/נשבר",
+      "rationale": "Шакабектин дал ошол эле тамырын эки жолу кайталоосу — «сынык рух, сынык жүрөк» ритми."
+    }
+  ],
+  "translation": "Элохимдин курмандыктары — сынык рух: сынык жана чөккөн жүрөк, эй Элохим, Сен жек көрбөйсүң.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "01a448002bf81ede559e3a8e2da5a496bb26d9544bf329aa8a6254a3171b2918",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/51\/17-20.1791216173317.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זבחי",
+      "gloss": "курмандыктары"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохимдин"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "рух"
+    },
+    {
+      "surface": "נשברה",
+      "gloss": "сынык"
+    },
+    {
+      "surface": "לב",
+      "gloss": "жүрөк"
+    },
+    {
+      "surface": "נשבר",
+      "gloss": "сынык"
+    },
+    {
+      "surface": "ונדכה",
+      "gloss": "жана чөккөн"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "эй Элохим"
+    },
+    {
+      "surface": "לא",
+      "gloss": "эмес"
+    },
+    {
+      "surface": "תבזה",
+      "gloss": "жек көрбөйсүң"
+    }
+  ],
+  "timestamp": "2026-10-05T16:02:53.317802146Z",
+  "model": "glm-5.3"
+}

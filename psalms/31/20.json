@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 31:20",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "secret",
+      "subject": "жашырган жакшылык",
+      "rationale": "צפן — жашыруу, чогултуу; жакшылык ачык эмес, сакталып коюлган"
+    },
+    {
+      "kind": "substitution",
+      "subject": "чындыктуу",
+      "rationale": "צדיק 'адилет' же 'туура жүргөн' — 'чындыктуу' жакын аталыш"
+    }
+  ],
+  "translation": "Корккондоруңа жашырган жакшылыгың кандай зор! Сага таянгандарга адам уулдарынын көзүнчө кылганың!",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "9b59587d797f302d4a591541f55483600804e5612d4c188375668f3d7f0833de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/31\/17-20.1791215705258.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "кандай"
+    },
+    {
+      "surface": "רב",
+      "gloss": "зор"
+    },
+    {
+      "surface": "טובך",
+      "gloss": "жакшылыгың"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…ны"
+    },
+    {
+      "surface": "צפנת",
+      "gloss": "жашырган"
+    },
+    {
+      "surface": "ליראיך",
+      "gloss": "корккондоруңа"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "кылганың"
+    },
+    {
+      "surface": "לחסים",
+      "gloss": "таянгандарга"
+    },
+    {
+      "surface": "בך",
+      "gloss": "Сага"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "көзүнчө"
+    },
+    {
+      "surface": "בני",
+      "gloss": "уулдарынын"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "адам"
+    }
+  ],
+  "timestamp": "2026-10-05T15:55:05.259662813Z",
+  "model": "glm-5.3"
+}

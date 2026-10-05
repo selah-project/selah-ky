@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-samuel 1:22",
+  "book": "2-samuel",
+  "lang": "ky",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "жок (этиштик болочок)",
+      "rationale": "Кыргыз тилиндеги болочок мааниге карата этиш формасы кошулду; еврейче өткөн чак маанисинде да боло алат."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חללים \/ חלב",
+      "rationale": "Х-л тамырынын жакындыгы — \"жаралангандар\" менен \"май\" сөздөрүнүн үндөштүгү, кыргызча жоголгон."
+    }
+  ],
+  "translation": "Өлтүрүлгөндөрдүн канынан, баатырлардын майынан Йехонатандын жаасы артка качкан жок, жана Шаулдун кылычы бош кайткан жок.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "0f7b3690449e7acd07e1e0e594299a6dfa5c15c829cbb3896dda1e4a514c49d8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-samuel\/1\/21-24.1791207345698.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מדם",
+      "gloss": "канынан"
+    },
+    {
+      "surface": "חללים",
+      "gloss": "өлтүрүлгөндөрдүн"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "майынан"
+    },
+    {
+      "surface": "גבורים",
+      "gloss": "баатырлардын"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "жаасы"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Йехонатандын"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "נשוג",
+      "gloss": "качкан"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "артка"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "жана … кылычы"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаулдун"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "кайткан"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "бош"
+    }
+  ],
+  "timestamp": "2026-10-05T13:35:45.699724967Z",
+  "model": "glm-5.3"
+}

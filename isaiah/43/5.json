@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 43:5",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "Яхве Исраилди түз сөз менен тынчтандырып жатат: «Коркпо»."
+    },
+    {
+      "kind": "addition",
+      "subject": "мен",
+      "rationale": "Кыргызча этиш «алып келемин» жак мүчөсүн талап кылат, еврейче жок."
+    }
+  ],
+  "translation": "Коркпо, анткени Мен сен мененмин; чыгыштан үрөнүңдү алып келемин, батыштан сени чогултамын.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "ec114a528fb269933b530985c3872a18513e153d524a5f1b9d4b72bd464fa70f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/43\/5-8.1791210149852.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "коркпо (жокко чыгаруу)"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "корк"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ сен менен"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Мен"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "чыгыштан"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "алып келемин"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "үрөнүңдү"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "жана батыштан"
+    },
+    {
+      "surface": "אקבצך",
+      "gloss": "сени чогултамын"
+    }
+  ],
+  "timestamp": "2026-10-05T14:22:29.853521468Z",
+  "model": "glm-5.3"
+}

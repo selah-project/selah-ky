@@ -1,0 +1,129 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 6:8",
+  "book": "judges",
+  "lang": "ky",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "бир киши",
+      "rationale": "איש נביא 'муж-пророк' — 'бир киши' передаёт apposition"
+    },
+    {
+      "kind": "elision",
+      "subject": "כה אמר",
+      "rationale": "формула оракула 'так сказал' — рендер 'мындай дейт'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "העליתי \/ ואציא",
+      "rationale": "пара глаголов 'поднял' и 'вывел' — повтор Исходной формулы"
+    }
+  ],
+  "translation": "Яхве ⟨את⟩ пайгамбар — бир киши — Йисраэлдин уулдарына жөнөттү, жана ал аларга айтты: Мындай дейт Яхве, Йисраэлдин Элохими: Мен ⟨את⟩ силерди Мицрайимден көтөрүп чыгардым жана силерди кулдук үйүнөн алып чыктым.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "9967a6981aa22cecd83835b5d237f9d6b51f9fed7a88f5be998c661a4209dd8d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/judges\/6\/5-8.1791206115424.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "жана жөнөттү"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "איש",
+      "gloss": "бир киши"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "пайгамбар"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…га"
+    },
+    {
+      "surface": "בני",
+      "gloss": "уулдарына"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэлдин"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "жана айтты"
+    },
+    {
+      "surface": "להם",
+      "gloss": "аларга"
+    },
+    {
+      "surface": "כה",
+      "gloss": "мындай"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "дейт"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Йисраэлдин Элохими"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэлдин"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Мен"
+    },
+    {
+      "surface": "העליתי",
+      "gloss": "көтөрүп чыгардым"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "силерди"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Мицрайимден"
+    },
+    {
+      "surface": "ואציא",
+      "gloss": "жана алып чыктым"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "силерди"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "…үйүнөн"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "кулдук"
+    }
+  ],
+  "timestamp": "2026-10-05T13:15:15.425737655Z",
+  "model": "glm-5.3"
+}

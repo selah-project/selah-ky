@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "jeremiah 2:32",
+  "book": "jeremiah",
+  "lang": "ky",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "сан жеткис күндөр бою",
+      "rationale": "ימים אין מספר — букв. «күндөр, саны жок»."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "התשכח \/ שכחוני",
+      "rationale": "Сурактын «унутабы?» дегени жана «унутту» жообу бир тамырды кайталоо менен айкашат."
+    }
+  ],
+  "translation": "Кыз кооздуктарын унутабы, келин боо-кемериин унутабы? Менин элим Мени сан жеткис күндөр бою унутту.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "682a3bce84006cc457d5550898c4cb8d713bcfe03b0235b67f1c64347c5601c8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/jeremiah\/2\/29-32.1791210714683.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "התשכח",
+      "gloss": "унутабы"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "кыз"
+    },
+    {
+      "surface": "עדיה",
+      "gloss": "кооздуктарын"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "келин"
+    },
+    {
+      "surface": "קשריה",
+      "gloss": "боо-кемериин"
+    },
+    {
+      "surface": "ועמי",
+      "gloss": "жана Менин элим"
+    },
+    {
+      "surface": "שכחוני",
+      "gloss": "Мени унутту"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "күндөр"
+    },
+    {
+      "surface": "אין",
+      "gloss": "жеткис"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "сан"
+    }
+  ],
+  "timestamp": "2026-10-05T14:31:54.684328736Z",
+  "model": "glm-5.3"
+}

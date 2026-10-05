@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 122:7",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 122,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "эс алуу",
+      "rationale": "שלוה — тынчтыктын коопсуздук мааниси; «эс алуу» дагы бир тынчтык сөзү менен уйкаштыкты сактайт"
+    },
+    {
+      "kind": "addition",
+      "subject": "болсун (экинчи)",
+      "rationale": "Экинчи сапта эшитилген «болсун» кайталанган, еврейче түшүрүлгөн"
+    }
+  ],
+  "translation": "Сенин чептериңде тынчтык болсун, сарайларыңда эс алуу болсун.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "14184fee368cd1ac8bb7e05239d149d4f3e46268a5915a20954dda9a634b60d8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/122\/5-8.1791217496912.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "болсун"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "тынчтык"
+    },
+    {
+      "surface": "בחילך",
+      "gloss": "чептериңде"
+    },
+    {
+      "surface": "שלוה",
+      "gloss": "эс алуу"
+    },
+    {
+      "surface": "בארмנותיך",
+      "gloss": "сарайларыңда"
+    }
+  ],
+  "timestamp": "2026-10-05T16:24:56.914085700Z",
+  "model": "glm-5.3"
+}

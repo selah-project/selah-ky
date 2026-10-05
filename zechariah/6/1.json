@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 6:1",
+  "book": "zechariah",
+  "lang": "ky",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨эле⟩",
+      "rationale": "Кыргыз тили баяндоочу этишти талап кылат; еврейче текстте жок"
+    },
+    {
+      "kind": "substitution",
+      "subject": "жез",
+      "rationale": "נחשת — жез\/коло; көпчүлүк котормолор «бронза» дейт, биз металлдын өзүн беребиз"
+    },
+    {
+      "kind": "mystery",
+      "subject": "көруү",
+      "rationale": "Пайгамбардын символдук көруүсү — мааниси кийинки аятта гана ачылат"
+    }
+  ],
+  "translation": "Жана мен кайра бурулдум жана көздөрүмдү көтөрдүм жана көрдүм — жана мына, эки тоонун ортосунан чыккан төрт араба, ал эми тоолор жез тоолор эле.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "e74576df6465bce55df924615bbce4714a64480a427a9b21afd0505228ca428d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/zechariah\/6\/1-4.1791214968872.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואשב",
+      "gloss": "кайра бурулдум"
+    },
+    {
+      "surface": "ואשא",
+      "gloss": "көтөрдүм"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "көздөрүмдү"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "көрдүм"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "жана мына"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "төрт"
+    },
+    {
+      "surface": "מרכבות",
+      "gloss": "араба"
+    },
+    {
+      "surface": "יצאות",
+      "gloss": "чыккан"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "ортосунан"
+    },
+    {
+      "surface": "שני",
+      "gloss": "эки"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "тоонун"
+    },
+    {
+      "surface": "וההרים",
+      "gloss": "ал эми тоолор"
+    },
+    {
+      "surface": "הרי",
+      "gloss": "тоолор"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "жез"
+    }
+  ],
+  "timestamp": "2026-10-05T15:42:48.872801334Z",
+  "model": "glm-5.3"
+}

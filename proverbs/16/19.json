@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 16:19",
+  "book": "proverbs",
+  "lang": "ky",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "את",
+      "rationale": "бул жерде את түз объект эмес, «менен» деген жандооч маанисинде (жакырлар МЕНЕН, тектибергендер МЕНЕН); көп котормолор «менен» деп берет"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גאים",
+      "rationale": "18-аяттагы גאונ менен бир тамыр — тектибергендер өздөрүнө кыйроону чакырат"
+    }
+  ],
+  "translation": "Руху төмен жакырлар ⟨את⟩ менен бирге болуу — тектибергендер ⟨את⟩ менен олжо бөлүшкөнгө караганда жакшы.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "bcd9366600b6cf5bd47f5796dbd5cbf7160ffe9ebc4f8adc61694b8cac87a44e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/16\/17-20.1791218101318.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "жакшы"
+    },
+    {
+      "surface": "שפל",
+      "gloss": "төмен"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "руху"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "жакырлар менен"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "жакырлар"
+    },
+    {
+      "surface": "מחלק",
+      "gloss": "бөлүшкөнгө"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "олжо"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "тектибергендер менен"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "тектибергендер"
+    }
+  ],
+  "timestamp": "2026-10-05T16:35:01.319253687Z",
+  "model": "glm-5.3"
+}

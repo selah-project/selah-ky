@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 82,
+  "ref": "psalms 119:82",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "כלתה\/כלו",
+      "rationale": "כלה тамыры 81–82 катар кайталанат — жана жана көз 'түгөнүү' параллели"
+    },
+    {
+      "kind": "alternative",
+      "subject": "אמרתך",
+      "rationale": "דבר менен אמרה дал келүүчү сөз-синонимдери; экөө тең 'сөз' деп берилди"
+    },
+    {
+      "kind": "you",
+      "subject": "Яхвеге",
+      "rationale": "суроо — Яхвеге түз багытталган"
+    }
+  ],
+  "translation": "Көздөрүм Сенин сөзүңө түгөндү, айтып: «Качан мени сооротосуң?»",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "d168adea9ed75b492c59f10eb05578a21f3c3ea66b24f0301db99853722ee7fe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/119\/81-84.1791217372813.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "түгөндү"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "көздөрүм"
+    },
+    {
+      "surface": "לאמרתך",
+      "gloss": "сөзүңө"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "айтып"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "качан"
+    },
+    {
+      "surface": "תנחמני",
+      "gloss": "мени сооротосуң"
+    }
+  ],
+  "timestamp": "2026-10-05T16:22:52.814500394Z",
+  "model": "glm-5.3"
+}

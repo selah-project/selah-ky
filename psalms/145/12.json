@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 145:12",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 145,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "күчтүү иштерин",
+      "rationale": "גבורתיו көбүнчө «күч, эрлик» деген抽象 мааниде; «күчтүү иштер» — салттуу котормо тандоосу"
+    },
+    {
+      "kind": "addition",
+      "subject": "үчүн",
+      "rationale": "להודיע — инфинитив максат маанисинде; кыргызча «үчүн» мүчөсү кошулду"
+    }
+  ],
+  "translation": "Адам уулдарына анын күчтүү иштерин билдирүү үчүн, жана анын падышачылыгынын даңк-салтанатын.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "acb771fdc8b6645ce8e7e2c6f1fc2244795a124e867c841eda3be6785461fb8c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/145\/12-12.1791224503057.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "להודיע",
+      "gloss": "билдирүү үчүн"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "уулдарына"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "адам"
+    },
+    {
+      "surface": "גבורתיו",
+      "gloss": "анын күчтүү иштерин"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "жана даңкын"
+    },
+    {
+      "surface": "הדר",
+      "gloss": "салтанатын"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "анын падышачылыгынын"
+    }
+  ],
+  "timestamp": "2026-10-05T18:21:43.057932561Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 24:11",
+  "book": "leviticus",
+  "lang": "ky",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ויקב",
+      "rationale": "'Ысымды тешти' — нак жаңдоо же жөн эле айтты деген мааниде; КЖВ 'blasphemed', YLT 'execrateth'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "теше сүйлөдү",
+      "rationale": "נקב — 'тешиү, көзөө'; латынь 'blasphemare' — башка сүрөт."
+    },
+    {
+      "kind": "addition",
+      "subject": "эле",
+      "rationale": "Кыргызча өтмө сүйлөм үчүн 'эле' кошулду; ивритте этиш жок."
+    }
+  ],
+  "translation": "Жана Йисраэл аялынын уулу ⟨את⟩ Ысымды теше сүйлөдү жана каргады; жана аны Мошеге алып келишти. Анын апасынын ысымы Шеломит эле — Дибринин кызы, Дан уруусунан.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "98d2085b0c578e30a4a30b0a9929a40bd08b28cf0b92c4282ae4698cf37f45bb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/24\/10-11.1791223633149.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקב",
+      "gloss": "теше сүйлөдү"
+    },
+    {
+      "surface": "בן",
+      "gloss": "уулу"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "аялынын"
+    },
+    {
+      "surface": "הישראלית",
+      "gloss": "Йисраэл"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ысымды"
+    },
+    {
+      "surface": "השם",
+      "gloss": "Ысымды"
+    },
+    {
+      "surface": "ויקלל",
+      "gloss": "каргады"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "алып келишти"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "аны"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…га"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Мошеге"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ысымы"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "апасынын"
+    },
+    {
+      "surface": "שלמית",
+      "gloss": "Шеломит"
+    },
+    {
+      "surface": "בת",
+      "gloss": "кызы"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "Дибринин"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "уруусунан"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Дан"
+    }
+  ],
+  "timestamp": "2026-10-05T18:07:13.150800780Z",
+  "model": "glm-5.3"
+}

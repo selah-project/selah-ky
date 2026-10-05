@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 35:7",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жаным",
+      "rationale": "נפש — кекиртек\/жан-жашоо күчү, «жан» деп берилди"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חנם ... חנם",
+      "rationale": "«бекер» деген сөздүн кайталанышы — текеберчиликсиз куугунтуктоо темасын бекемдейт"
+    },
+    {
+      "kind": "crux",
+      "subject": "שחת רשתם",
+      "rationale": "«чуңкур — тармактарын» же «тармак менен жабылган чуңкур»: КЖВ менен JPS ар кандай бөлүштүрөт"
+    }
+  ],
+  "translation": "Анткени бекер алар мага чуңкур жашырышты — тармактарын; бекер алар жаным үчүн чуңкур казышты.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "2cd652a6c2ab2b5db7d020ccc77f4d525584910dabecdda16ec45f856edc0d4e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/35\/5-8.1791215859058.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "бекер"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "жашырышты"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мага"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "чуңкур"
+    },
+    {
+      "surface": "רשתם",
+      "gloss": "тармактарын"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "бекер"
+    },
+    {
+      "surface": "חפרו",
+      "gloss": "казышты"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "жаным үчүн"
+    }
+  ],
+  "timestamp": "2026-10-05T15:57:39.058914198Z",
+  "model": "glm-5.3"
+}

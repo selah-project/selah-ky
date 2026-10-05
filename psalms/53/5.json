@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 53:5",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 53,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "нанды жегендей жегендер",
+      "rationale": "Эмне үчүн... כלחם 'нан жегендей' — еврейче салыштыруу, кыргызча да салыштыруу бойдон сакталды"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אכלי\/אכלו",
+      "rationale": "'жегендер... жегендер' — бир тамырдын кайталанышы, еврейче риторикалык басым"
+    }
+  ],
+  "translation": "Арам иштерди жасагандар чын эле билишпейби — элимди нанды жегендей жегендер, Элохимди чакырышкан жок.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "4ae5ba47359a7ca23ff0be077b054b90ad6fb7b3fcadfb023cfecbdbfea61895",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/53\/5-7.1791216236399.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "чын эле"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "билишпейби"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "жасагандар"
+    },
+    {
+      "surface": "און",
+      "gloss": "арам"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "жегендер"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "элимди"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "жегендер"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "нан"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохимди"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "чакырышкан"
+    }
+  ],
+  "timestamp": "2026-10-05T16:03:56.399631833Z",
+  "model": "glm-5.3"
+}

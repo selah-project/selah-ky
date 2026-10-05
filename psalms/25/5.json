@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 25:5",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "мени",
+      "rationale": "киргизилген объект — Элохим жетелөөсү кимге тийишин тактоо үчүн кошулду"
+    },
+    {
+      "kind": "substitution",
+      "subject": "күтөм",
+      "rationale": "קוה 'түрүү, байлоо' деген сөздөн — 'үмүт кыл' эмес, 'күт' деп берилди"
+    }
+  ],
+  "translation": "Мени чындыгың менен жетелеп бар жана мени үйрөт, анткени сен менин куткаруумдун Элохимсиң, күн бою ⟨את⟩ сени күтөм.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "f7ebeadd221aa1a9245f9ca19263a00eaddb9c85ee6c267665cbf89101b3ed0d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/25\/5-8.1791215692646.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הדריכני",
+      "gloss": "жетелеп бар"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "чындыгың менен"
+    },
+    {
+      "surface": "ולמדני",
+      "gloss": "жана үйрөт"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "сен"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "куткаруумдун"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ сени"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "күтөм"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүт"
+    },
+    {
+      "surface": "היום",
+      "gloss": "күн"
+    }
+  ],
+  "timestamp": "2026-10-05T15:54:52.646699626Z",
+  "model": "glm-5.3"
+}

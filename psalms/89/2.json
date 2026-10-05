@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 89:2",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "хесед",
+      "rationale": "חסד — «ырайым» гана эмес; транслитерация сакталды."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "муундан муунга",
+      "rationale": "לדר ודר — үн окшоштугу менен кайталоо, кыргызча «муундан муунга» деп берилди."
+    }
+  ],
+  "translation": "Яхвенин хеседин түбөлүккө ырдаймын, муундан муунга оозум менен Сенин ишенимдүүлүгүңдү билдиремин.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "00677826807f8ef4eb285ebc5735edd95335c06db53b37ecefb1a35daed13445",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/89\/1-4.1791216796422.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חסדי",
+      "gloss": "хеседин"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "түбөлүккө"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "ырдаймын"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "муундан"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "муунга"
+    },
+    {
+      "surface": "אודיע",
+      "gloss": "билдиремин"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "ишенимдүүлүгүңдү"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "оозум менен"
+    }
+  ],
+  "timestamp": "2026-10-05T16:13:16.423217169Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 9:3",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "על\/סבלו",
+      "rationale": "жүгөн жана жүк — эзүүнүн эки сүрөтү, мойунга жүгөн, ийинге таяк"
+    },
+    {
+      "kind": "alternative",
+      "subject": "כיום מדין",
+      "rationale": "«Мидияндын күнүндөгүдөй» — Гидеонду жеңишине шилтеме (Судьялар 7), кан төгүлбөстөн жеңиш"
+    }
+  ],
+  "translation": "Анткени ⟨ал⟩ анын жүгүнүн жүгөнүн жана анын ийинин таягын, анын үстүнөн баскан таягын Сен Мидияндын күнүндөгүдөй талкаладың.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "20fb27f973d38d3fc8cba60489bbb6fab767816f6b9618c840519859f8263d13",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/9\/1-4.1791209512564.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "анын жүгүнүн жүгөнүн"
+    },
+    {
+      "surface": "על",
+      "gloss": "жүгөн"
+    },
+    {
+      "surface": "סבלו",
+      "gloss": "анын жүгүнүн"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "жана ⟨את⟩",
+      "marks": "анын ийинин таягын"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "таягын"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "анын ийинин"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "таягын"
+    },
+    {
+      "surface": "הנגש",
+      "gloss": "баскан"
+    },
+    {
+      "surface": "בו",
+      "gloss": "анын үстүнөн"
+    },
+    {
+      "surface": "החתת",
+      "gloss": "талкаладың"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "күнүндөгүдөй"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Мидияндын"
+    }
+  ],
+  "timestamp": "2026-10-05T14:11:52.565703476Z",
+  "model": "glm-5.3"
+}

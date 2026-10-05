@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 24:10",
+  "book": "jeremiah",
+  "lang": "ky",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "обоор",
+      "rationale": "הדבер — 'обоор\/чума' деген эпидемия сөзү."
+    },
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "rationale": "салыштырма 'берген топурак' тизмегинде кыргызча айкын."
+    }
+  ],
+  "translation": "Жана Мен алардын үстүнө ⟨את⟩ кылычты, ⟨את⟩ ачарчылыкты жана ⟨את⟩ обоорду жиберем — алар Мен аларга жана алардын ата-бабаларына берген топурактан куроп бүткөнчө.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "39423e72be1bc6f30bf27c6a17fc37b0b660ba63dd70a1676c144f31a6753b18",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/jeremiah\/24\/9-10.1791211250908.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "жиберем"
+    },
+    {
+      "surface": "בם",
+      "gloss": "алардын үстүнө"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "кылычты"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "кылычты"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ачарчылыкты"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "ачарчылыкты"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "обоорду"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "обоорду"
+    },
+    {
+      "surface": "עד",
+      "gloss": "чейин"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "куроп бүткөнчө"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "үстүнөн"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "топурактан"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "берген"
+    },
+    {
+      "surface": "להם",
+      "gloss": "аларга"
+    },
+    {
+      "surface": "ולאבותיהם",
+      "gloss": "жана ата-бабаларына"
+    }
+  ],
+  "timestamp": "2026-10-05T14:40:50.909804979Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 7:9",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "צדקי\/תמי",
+      "rationale": "цедек жана том параллелизмде турат; эки сөз тең айтылышында сакталды"
+    },
+    {
+      "kind": "you",
+      "subject": "Яхвеге",
+      "rationale": "«Мени сотто, Яхве» — түз адаттануу (обращение)"
+    }
+  ],
+  "translation": "Яхве элдерди соттойт: мени сотто, Яхве, менин цедегим боюнча жана менин тазалыгым боюнча менде.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "40ae694cbd7f6cf79a29ef0decb96b60e79950582892448604467b244f512c0b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/7\/9-12.1791215264278.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "соттойт"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "элдерди"
+    },
+    {
+      "surface": "שפטני",
+      "gloss": "мени сотто"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "כצדקי",
+      "gloss": "менин цедегим боюнча"
+    },
+    {
+      "surface": "וכתמי",
+      "gloss": "жана менин тазалыгым боюнча"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "менде"
+    }
+  ],
+  "timestamp": "2026-10-05T15:47:44.278891237Z",
+  "model": "glm-5.3"
+}

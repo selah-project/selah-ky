@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 15:4",
+  "book": "1-kings",
+  "lang": "ky",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "чырак",
+      "rationale": "ניר — чырак, үй-бүлөнүн улануу белгиси (династия образы)."
+    }
+  ],
+  "translation": "Давидтин көзүнө Яхве, анын Элохими ⟨ал⟩га Йерушалайимде чырак берди — ⟨את⟩ анын уулун өзүнөн кийин орнотуу үчүн жана Йерушалайимди ⟨את⟩ бекем туру үчүн.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "c0f4239ded6e08c0e1169d925b23011f5dee3cf3e75656d8b60d0865aa02fa4e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-kings\/15\/1-4.1791208439243.json",
+    "code": "641241cf-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "למען",
+      "gloss": "көзүнө"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давидтин"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "берди"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "анын Элохими"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨ал⟩га"
+    },
+    {
+      "surface": "ניר",
+      "gloss": "чырак"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Йерушалайимде"
+    },
+    {
+      "surface": "להקים",
+      "gloss": "орнотуу үчүн"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "анын уулун"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "уулун"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "өзүнөн кийин"
+    },
+    {
+      "surface": "ולהעמיד",
+      "gloss": "жана ... туру үчүн"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Йерушалайимди"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Йерушалайимди"
+    }
+  ],
+  "timestamp": "2026-10-05T13:53:59.244521612Z",
+  "model": "glm-5.3"
+}

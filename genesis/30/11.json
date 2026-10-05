@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 30:11",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "בגד \/ גד",
+      "rationale": "имя Гад (גד) звучит как בגד «удача\/счастье» — игра слов потеряна в кыргызском"
+    },
+    {
+      "kind": "crux",
+      "subject": "בגד",
+      "rationale": "«удача пришла» (JPS) против «отряд приходит» (KJV, по LXX) — здесь выбрано «Бакыт келди»"
+    }
+  ],
+  "translation": "И Лея айтты: Бакыт келди! И ал анын ⟨את⟩ атын Гад деп койду.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "73ab5786e098fc7118e5ce9986d02d24e6f5c17bfade2760f3410c54df032865",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/30\/9-12.1791201245653.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Лея"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "Бакыт"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "койду"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "атын"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "атын"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Гад"
+    }
+  ],
+  "timestamp": "2026-10-05T11:54:05.654781156Z",
+  "model": "glm-5.3"
+}

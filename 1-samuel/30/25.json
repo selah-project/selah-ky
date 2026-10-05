@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 30:25",
+  "book": "1-samuel",
+  "lang": "ky",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "мындан ары",
+      "rationale": "ומעלה үстүнөн-алдыга багыт көрсөткүч, кыргызча толук аталышы керек"
+    },
+    {
+      "kind": "measurement",
+      "subject": "токтом жана өкүм",
+      "rationale": "олжону бөлүштүрүүнүн туруктуу эрежеси белгиленди — бул күнгө чейин күчтө"
+    }
+  ],
+  "translation": "Ошол күндөн тартып жана ⟨ал эми мындан ары⟩ ал аны Йисраэл үчүн токтом жана өкүм кылып койгон, бул күнгө чейин.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "328136d43f54c64c44541612a0154d5845f1165281984a29fb3135e41b3f218b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-samuel\/30\/25-28.1791207212375.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "болду"
+    },
+    {
+      "surface": "מהיום",
+      "gloss": "ошол күндөн"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ошол"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "жана ⟨мындан ары⟩"
+    },
+    {
+      "surface": "וישמה",
+      "gloss": "ал аны койду"
+    },
+    {
+      "surface": "לחק",
+      "gloss": "токтом"
+    },
+    {
+      "surface": "ולמשפט",
+      "gloss": "жана өкүм"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Йисраэл үчүн"
+    },
+    {
+      "surface": "עד",
+      "gloss": "чейин"
+    },
+    {
+      "surface": "היום",
+      "gloss": "бул күнгө"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "бул"
+    }
+  ],
+  "timestamp": "2026-10-05T13:33:32.376086270Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 24:19",
+  "book": "job",
+  "lang": "ky",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "Шеол этишсиз",
+      "rationale": "Ивритте Шеол жөн гана аты айтылат — «тартып алат» этиши биринчи саптан келет, кыргызча ⟨тартып алат⟩ кайталанып кошулду."
+    },
+    {
+      "kind": "substitution",
+      "subject": "Шеол",
+      "rationale": "«Тозок» делинбейт: Шеол — жөн гана өлгөндөр дүйнөсү, жаза жери эмес."
+    }
+  ],
+  "translation": "Кургакчылык да, ысык да кар сууларын тартып алат; Шеол — күнөө кылгандарды.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "413a27be091c0d8942678c66a29ee6385c11d96b0bd12cf7b2ce050ce76ee944",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/job\/24\/17-20.1791219144741.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ציה",
+      "gloss": "кургакчылык"
+    },
+    {
+      "surface": "гам",
+      "gloss": "да"
+    },
+    {
+      "surface": "חם",
+      "gloss": "ысык"
+    },
+    {
+      "surface": "יגזלו",
+      "gloss": "тартып алат"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "сууларын"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "кар"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шеол"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "күнөө кылгандарды"
+    }
+  ],
+  "timestamp": "2026-10-05T16:52:24.742326550Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,165 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 30:22",
+  "book": "1-samuel",
+  "lang": "ky",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жок nugaday",
+      "rationale": "בליעל — «пайдасыз, туруксуз»; салттуу «белгисиз» деген аталыш кыргызчага мааниси менен берилди"
+    },
+    {
+      "kind": "idiom",
+      "subject": "כי אם",
+      "rationale": "Hebrew idiom «…гана, башка эч нерсе эмес»; биргелешик шартта колдонулуп, «тек гана» деген маанини берет"
+    },
+    {
+      "kind": "elision",
+      "subject": "אשер",
+      "rationale": "יען אשר конструкциясындагы אשер кыргызча өзүнчө сөзгө ээ эмес"
+    }
+  ],
+  "translation": "Жана Давид менен барган адамдардын ичинен жаман жана жок nugадай адамдардын баары жооп берип айтты: Алар биз менен барышкан жок, ошондуктан биз аман алып калган олжодон аларга эч нерсе берилбейт — ар бир адам өз аялын ⟨את⟩ жана өз балдарын ⟨את⟩ гана алып, алпарсын жана кетсин.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "1db2dee95d7aac94700f307a771e0cbf0ab7ea87ae576d2707799530cc40cd75",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-samuel\/30\/21-24.1791207291971.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "жооп берип"
+    },
+    {
+      "surface": "כל",
+      "gloss": "баары"
+    },
+    {
+      "surface": "איש",
+      "gloss": "адам"
+    },
+    {
+      "surface": "רע",
+      "gloss": "жаман"
+    },
+    {
+      "surface": "ובליעל",
+      "gloss": "жана жок nugadай"
+    },
+    {
+      "surface": "מהאנשים",
+      "gloss": "адамдардын ичинен"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "алар"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "барган"
+    },
+    {
+      "surface": "עם",
+      "gloss": "менен"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "יען",
+      "gloss": "ошондуктан"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "барышкан"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "биз менен"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "берилбейт"
+    },
+    {
+      "surface": "להם",
+      "gloss": "аларга"
+    },
+    {
+      "surface": "מהשלל",
+      "gloss": "олжодон"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "алар"
+    },
+    {
+      "surface": "הצלנו",
+      "gloss": "биз аман алып калган"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "אם",
+      "gloss": "гана"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ар бир адам"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "өз аялын"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "өз аялын"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "өз балдарын"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "жана өз балдарын"
+    },
+    {
+      "surface": "וינהגו",
+      "gloss": "алпарсын"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "кетсин"
+    }
+  ],
+  "timestamp": "2026-10-05T13:34:51.972205485Z",
+  "model": "glm-5.3"
+}

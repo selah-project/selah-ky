@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 11:13",
+  "book": "2-kings",
+  "lang": "ky",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הרצין העם",
+      "rationale": "Чуркаган эл» — KJV «кароол» деп, YLT «чуркочуулар» деп берет; сөз чуркоо маанисинде."
+    },
+    {
+      "kind": "substitution",
+      "subject": "элдин жанына",
+      "rationale": "Иврит «эл хаам» — «элге», жакындык; кыргызча «жанына» менен так берилди."
+    }
+  ],
+  "translation": "Жана Аталия ⟨את⟩ чуркаган элдин үнүн укту, жана элдин жанына, Яхвенин үйүнө келди.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "bc97ce36e676d180b906541b4208ff24bc52064fd2d8da49705b6ca66653c514",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-kings\/11\/13-16.1791208966217.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותשמע",
+      "gloss": "укту"
+    },
+    {
+      "surface": "עתליה",
+      "gloss": "Аталия"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "чуркаган элдин үнү"
+    },
+    {
+      "surface": "קול",
+      "gloss": "үнү"
+    },
+    {
+      "surface": "הרצין",
+      "gloss": "чуркаган"
+    },
+    {
+      "surface": "העם",
+      "gloss": "элдин"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "келди"
+    },
+    {
+      "surface": "אל",
+      "gloss": "жанына"
+    },
+    {
+      "surface": "העם",
+      "gloss": "элдин"
+    },
+    {
+      "surface": "בית",
+      "gloss": "үйүнө"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    }
+  ],
+  "timestamp": "2026-10-05T14:02:46.218237085Z",
+  "model": "glm-5.3"
+}

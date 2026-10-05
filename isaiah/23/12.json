@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 23:12",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ал⟩",
+      "rationale": "Кыргызча SUBJECT үчүн кошулду"
+    },
+    {
+      "kind": "substitution",
+      "subject": "түркүн кыз",
+      "rationale": "בתולה — «бой жеткен, жашы жетелек» дегенди билдирет, анда medically-аномалдуу маани жок"
+    },
+    {
+      "kind": "you",
+      "subject": "Цидон кызына",
+      "rationale": "Верс тынкылай сөз Цидонго багытталат"
+    }
+  ],
+  "translation": "Жана ⟨ал⟩ айтты: Дагы кубанбайсың, о кордук көргөн, Цидон кызынын түркүн кызы; Киттимге тур, өтүп бар — ал жерде да сага эс алуу жок.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "cd39e4fb876fa6f88b0e785e88ec953e36789bd929c2dac8413aeb8eb10b10f7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/23\/9-12.1791209772485.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Жана айтты"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "תוסיפי",
+      "gloss": "дагы... -байсың"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "дагы"
+    },
+    {
+      "surface": "לעלוז",
+      "gloss": "кубанбайсың"
+    },
+    {
+      "surface": "המעשקה",
+      "gloss": "кордук көргөн"
+    },
+    {
+      "surface": "בתולת",
+      "gloss": "түркүн кызы"
+    },
+    {
+      "surface": "בת",
+      "gloss": "кызынын"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "Цидон"
+    },
+    {
+      "surface": "כתיים",
+      "gloss": "Киттимге"
+    },
+    {
+      "surface": "קומי",
+      "gloss": "тур"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "өтүп бар"
+    },
+    {
+      "surface": "גם",
+      "gloss": "да"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ал жерде"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "эс алуу"
+    },
+    {
+      "surface": "לך",
+      "gloss": "сага"
+    }
+  ],
+  "timestamp": "2026-10-05T14:16:12.486694579Z",
+  "model": "glm-5.3"
+}

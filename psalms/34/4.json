@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 34:4",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "бийиктикке көтөрөлү",
+      "rationale": "אתי бул жерде H854 'менен' предлогу, H853 эмес — бирок ⟨את⟩ белгиси сакталды"
+    },
+    {
+      "kind": "invitation",
+      "subject": "окурманга",
+      "rationale": "Көптүк буйрук менен чакыруу: 'улуулаңар... көтөрөлү'"
+    }
+  ],
+  "translation": "Яхвени ⟨את⟩ менен бирге улуулаңар, Анын ысымын чогуу бийиктикке көтөрөлү.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "524b62f9fa7c2d2af2a94384b2df7c93efd856ea353531d4cc63798ac3604083",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/34\/1-4.1791215835553.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גדלו",
+      "gloss": "улуулаңар"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхвени"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ менен"
+    },
+    {
+      "surface": "ונרוממה",
+      "gloss": "кийиктикке көтөрөлү"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "Анын ысымын"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "чогуу"
+    }
+  ],
+  "timestamp": "2026-10-05T15:57:15.554873259Z",
+  "model": "glm-5.3"
+}

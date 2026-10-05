@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 8:16",
+  "book": "2-samuel",
+  "lang": "ky",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "болду",
+      "rationale": "Ивритте этиш жок, кыргызча ⟨болду⟩ этиши кошулду."
+    },
+    {
+      "kind": "substitution",
+      "subject": "эске салуучу",
+      "rationale": "מזכיר — «эстеткич, жазуучу-хронист»; «recorder» деген кеңири колдонулган чечим."
+    },
+    {
+      "kind": "measurement",
+      "subject": "кызматкерлер тизмеси",
+      "rationale": "Падышанын аксаакалдарынын тизмеси — аттар саналган жазылуу стили."
+    }
+  ],
+  "translation": "Жана Йоав, Церуйянын уулу, аскер башчысы болду, жана Йегошафат, Ахилуддун уулу, эске салуучу болду.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "2aaccc21eceeb9b75630fb673a1059499f8ac5adfb415142ac5ec3ef5657177f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-samuel\/8\/13-16.1791207443574.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויואב",
+      "gloss": "Йоав"
+    },
+    {
+      "surface": "בן",
+      "gloss": "уулу"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "Церуйьянын"
+    },
+    {
+      "surface": "על",
+      "gloss": "башчысы"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "аскер"
+    },
+    {
+      "surface": "ויהושפט",
+      "gloss": "Йегошафат"
+    },
+    {
+      "surface": "בן",
+      "gloss": "уулу"
+    },
+    {
+      "surface": "אחילוד",
+      "gloss": "Ахилуддун"
+    },
+    {
+      "surface": "מזכיר",
+      "gloss": "эске салуучу"
+    }
+  ],
+  "timestamp": "2026-10-05T13:37:23.575906027Z",
+  "model": "glm-5.3"
+}

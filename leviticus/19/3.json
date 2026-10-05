@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 19:3",
+  "book": "leviticus",
+  "lang": "ky",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "энесинен жана атасынан",
+      "rationale": "Еврей текстте эне атадан мурда турат; көп котормолор тартибин алмаштырат, биз тартибин сактадык"
+    },
+    {
+      "kind": "you",
+      "subject": "Йисраэл жыйынына",
+      "rationale": "Жыйындын бүт мүчөлөрүнө түз багытталган буйрук"
+    }
+  ],
+  "translation": "Ар бир адам энесинен жана атасынан корксун, жана ⟨את⟩ Шаббаттарымды сактагыла — Мен Яхве, силердин Элохимүңар.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "37ba7efe264b872281cdaa3c0fb6515977c60b5b0daa822710022d809a8314cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/19\/1-4.1791203246973.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "ар бир адам"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "энесинен"
+    },
+    {
+      "surface": "ואביו",
+      "gloss": "жана атасынан"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "корксун"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Шаббаттарымды"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "Шаббаттарымды"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "сактагыла"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Мен"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Элохимүңар"
+    }
+  ],
+  "timestamp": "2026-10-05T12:27:26.974705329Z",
+  "model": "glm-5.3"
+}

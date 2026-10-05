@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 48:21",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "аларды",
+      "rationale": "этиштин (алып барууда) объектиси кыйшаюу үчүн кошулду"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מצור\/צור",
+      "rationale": "аска сөзү эки жолу кайталанат — Экзодогу аска-туу жомогу шилтеме"
+    },
+    {
+      "kind": "substitution",
+      "subject": "чөлдөрдө",
+      "rationale": "חרבות туура маанисинде «кургакчылык, чөлдөгөн жер» — «чөл» кеңири кабыл алынган сөз"
+    }
+  ],
+  "translation": "Жана аларды чөлдөрдө алып барганда алар чыккан жок; аска-туудан аларга суу тамызды; аска жарылды, жана суулар агып чыкты.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "8666b08b1aa6b119c564b64d5c9d0423cb79acd205d160858571bdb52dc137c7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/48\/21-22.1791210233225.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "жана жок"
+    },
+    {
+      "surface": "צמאו",
+      "gloss": "чыккан"
+    },
+    {
+      "surface": "בחרבות",
+      "gloss": "чөлдөрдө"
+    },
+    {
+      "surface": "הוליכם",
+      "gloss": "аларды алып барганда"
+    },
+    {
+      "surface": "מים",
+      "gloss": "суу"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "аска-туудан"
+    },
+    {
+      "surface": "הזיל",
+      "gloss": "тамызды"
+    },
+    {
+      "surface": "למו",
+      "gloss": "аларга"
+    },
+    {
+      "surface": "ויבקע",
+      "gloss": "жана жарылды"
+    },
+    {
+      "surface": "צור",
+      "gloss": "аска"
+    },
+    {
+      "surface": "ויזבו",
+      "gloss": "жана агып чыкты"
+    },
+    {
+      "surface": "מים",
+      "gloss": "суулар"
+    }
+  ],
+  "timestamp": "2026-10-05T14:23:53.226128994Z",
+  "model": "glm-5.3"
+}

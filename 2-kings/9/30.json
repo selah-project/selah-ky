@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 9:30",
+  "book": "2-kings",
+  "lang": "ky",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "сурма",
+      "rationale": "פוך — көзгө жагылчуу күкүрт сурмасы; «боёк» деген жалпы сөз эмес."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "Изевелдин жасануусу",
+      "rationale": "өлүм алдында падышача сымап жасанганы — драматик ирония, бирок тилдик оюн эмес, көрүнүш катары сакталды."
+    }
+  ],
+  "translation": "Иеху Йизреелге келди, Изевел угуп, көзүнө сурма жагып, ⟨את⟩ башын жасап, терезеден тике карады.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "bf75abbee4593039a19cd7585f636cda7956afd1ebf429bb1088fbc48b903391",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-kings\/9\/29-32.1791208801670.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "келди"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Иеху"
+    },
+    {
+      "surface": "יזרעאלה",
+      "gloss": "Йизреелге"
+    },
+    {
+      "surface": "ואיזבל",
+      "gloss": "Изевел"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "угуп"
+    },
+    {
+      "surface": "וותשם",
+      "gloss": ""
+    },
+    {
+      "surface": "בפוך",
+      "gloss": "сурма жагып"
+    },
+    {
+      "surface": "עיניה",
+      "gloss": "көзүнө"
+    },
+    {
+      "surface": "ותיטב",
+      "gloss": "жасап"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "башын"
+    },
+    {
+      "surface": "ראשה",
+      "gloss": "башын"
+    },
+    {
+      "surface": "ותשקף",
+      "gloss": "тика карады"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "терезеден"
+    },
+    {
+      "surface": "החלון",
+      "gloss": "терезенин"
+    }
+  ],
+  "timestamp": "2026-10-05T14:00:01.671208893Z",
+  "model": "glm-5.3"
+}

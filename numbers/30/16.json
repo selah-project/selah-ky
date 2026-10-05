@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 30:16",
+  "book": "numbers",
+  "lang": "ky",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הפר יפר",
+      "rationale": "Инфинитивтин абсолюту кайталанат — «такыр жокко чыгарса»."
+    },
+    {
+      "kind": "crux",
+      "subject": "анын күнөөсүн",
+      "rationale": "כי ким күнөөнү көтөрөт: кеч кайтарган күйөөмү (KJV, JPS) же аялбы (LXX жана айрым окуулар); кыргызча текст күйөөнү калтырат."
+    }
+  ],
+  "translation": "Жана эгер ал уккандан кийин аларды такыр жокко чыгарса, анда ал анын күнөөсүн ⟨את⟩ көтөрөт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "722c5f42a2a4e717144969fa138bfd55839b79830edda62da925b070695ca1a3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/numbers\/30\/13-16.1791204506837.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "жана эгер"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "жокко чыгаруу"
+    },
+    {
+      "surface": "יפר",
+      "gloss": "жокко чыгарса"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "аларды (убадаларды)"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "кийин"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ал уккан"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "көтөрөт"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "күнөөсүн"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "анын күнөөсүн"
+    }
+  ],
+  "timestamp": "2026-10-05T12:48:26.839294591Z",
+  "model": "glm-5.3"
+}

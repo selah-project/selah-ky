@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 17:13",
+  "book": "joshua",
+  "lang": "ky",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Йисраэлдин уулдары",
+      "rationale": "Баяндоо — алардын кенаандыктарды кууп чыгарбаганы айтылат."
+    },
+    {
+      "kind": "substitution",
+      "subject": "мажбур иштерге",
+      "rationale": "למס — оордук салган салык жана мажбур эмгек; жөн гана «салык» эмес."
+    }
+  ],
+  "translation": "Жана болду: Йисраэлдин уулдары күчтүү болгондо, алар ⟨את⟩ кенаандыктарды мажбур иштерге беришти, бирок аларды толук кууп чыгарышкан жок.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "a029d06d78c7145688d42ddc78e803b9636c5fc21ca289aa415005e785e644f8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/joshua\/17\/13-16.1791205891731.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "жана болду"
+    },
+    {
+      "surface": "כי",
+      "gloss": "когда"
+    },
+    {
+      "surface": "חזקו",
+      "gloss": "күчтүү болгондо"
+    },
+    {
+      "surface": "בני",
+      "gloss": "уулдары"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэлдин"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "беришти"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "кенаандыктарды"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "кенаандыктарды"
+    },
+    {
+      "surface": "למס",
+      "gloss": "мажбур иштерге"
+    },
+    {
+      "surface": "והורש",
+      "gloss": "бирок кууп чыгаруу"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "הורישו",
+      "gloss": "толук кууп чыгарышкан"
+    }
+  ],
+  "timestamp": "2026-10-05T13:11:31.732431646Z",
+  "model": "glm-5.3"
+}

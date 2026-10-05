@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 69:27",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 69,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יספרו",
+      "rationale": "«санашат\/айтышат» (kjv: talk to the grief) же «кошушат» (geneva: add unto) — сүйлөмдүн эки бөлүгүндө тең «кошуу» мааниси да бар"
+    },
+    {
+      "kind": "hapax",
+      "subject": "чыныгы объекти",
+      "rationale": "פסום lacks explicit object markers — object of רדפו supplied as ⟨адамды⟩"
+    }
+  ],
+  "translation": "Анткени Сен урган ⟨адамды⟩ алар кууйт, жана Сенин жараларыңдын оорусун кошуп айтышат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "fe724e736e71c79b85457f0e579e62b74e39481f1b0c1b3c034f1a763c946f46",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/69\/25-28.1791216466288.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Сен"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "−ды"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "урган"
+    },
+    {
+      "surface": "רדפו",
+      "gloss": "кууйт"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "жана ... үстүнө"
+    },
+    {
+      "surface": "מכאוב",
+      "gloss": "оору"
+    },
+    {
+      "surface": "חלליך",
+      "gloss": "Сенин жараларың"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "айтышат"
+    }
+  ],
+  "timestamp": "2026-10-05T16:07:46.289625624Z",
+  "model": "glm-5.3"
+}

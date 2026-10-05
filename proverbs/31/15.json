@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 31:15",
+  "book": "proverbs",
+  "lang": "ky",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "азык",
+      "rationale": "טרף — 'жырталган олжа, эт': кыргызча 'азык' деген жалпы маани берилди"
+    },
+    {
+      "kind": "crux",
+      "subject": "үлүштөрүн белгиледи",
+      "rationale": "חק — 'белгиленген үлүш, нуска, тапшырма': 'азык' (KJV, JPS) же 'иш, тапшырма' (ASV) деп эки окуу бар"
+    }
+  ],
+  "translation": "Түнү бүтө электе турду жана үй-бүлөсүнө азык берди, кыз кызматчыларына үлүштөрүн белгиледи.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "39ab5cfb14606642045d34a4b3460459affd0a645505f8d1f57b1653e50e8e68",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/31\/13-16.1791218495558.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותקם",
+      "gloss": "жана турду"
+    },
+    {
+      "surface": "בעוד",
+      "gloss": "бүтө электе"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "түнү"
+    },
+    {
+      "surface": "ותתן",
+      "gloss": "жана берди"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "азык"
+    },
+    {
+      "surface": "לביתה",
+      "gloss": "үй-бүлөсүнө"
+    },
+    {
+      "surface": "וחק",
+      "gloss": "жана үлүштөрүн"
+    },
+    {
+      "surface": "לנערתיה",
+      "gloss": "кыз кызматчыларына"
+    }
+  ],
+  "timestamp": "2026-10-05T16:41:35.559169638Z",
+  "model": "glm-5.3"
+}

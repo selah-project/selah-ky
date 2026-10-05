@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 54:1",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 54,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "ырдагы, түңсүз",
+      "rationale": "Аят CincinnatiOf Jerusalem — түңсүзгө багышталган буйрук, окурман да чакырылат."
+    },
+    {
+      "kind": "substitution",
+      "subject": "түңсүз аял",
+      "rationale": "עקרה — бала төрөбөгөн аял, фигуралуу түрдө Сион."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בני שוממה \/ בני בעולה",
+      "rationale": "Эки «уулдары» кайталоосу менен салыштыруу, кыргызча да тең салмак сакталды."
+    }
+  ],
+  "translation": "Ырдагы, түңсүз, төрөбөгөн аял; ырдап башта, кубаныч ырын айт, толго болбогон! Анткени түңдүктүн уулдары үйлөнгөн аялдын уулдарынан көп, — Яхвенин сөзү.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "74e26d779e80194a9a4fa85403d49b70e77891d0fd5ff2581ee35a6d8190a6df",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/54\/1-4.1791210413205.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רני",
+      "gloss": "Ырдагы"
+    },
+    {
+      "surface": "עקרה",
+      "gloss": "түңсүз"
+    },
+    {
+      "surface": "לא",
+      "gloss": "эмес"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "төрөбөгөн"
+    },
+    {
+      "surface": "פצחי",
+      "gloss": "чыгып ырдагыр"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "кубаныч ыры"
+    },
+    {
+      "surface": "וצהלי",
+      "gloss": "жана кыйкыр"
+    },
+    {
+      "surface": "לא",
+      "gloss": "эмес"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "толго болгон"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "көп"
+    },
+    {
+      "surface": "בני",
+      "gloss": "уулдары"
+    },
+    {
+      "surface": "שוממה",
+      "gloss": "түңдүктүн"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "уулдарынан"
+    },
+    {
+      "surface": "בעולה",
+      "gloss": "күйөөлүү аялдын"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "дейт"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-10-05T14:26:53.206057043Z",
+  "model": "glm-5.3"
+}

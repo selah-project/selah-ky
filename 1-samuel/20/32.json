@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-samuel 20:32",
+  "book": "1-samuel",
+  "lang": "ky",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ал",
+      "rationale": "маселе түшүнүктүү болушу үчүн «ал» жөнөкөй ат атооч кошулду"
+    },
+    {
+      "kind": "you",
+      "subject": "Шаулга",
+      "rationale": "Йонатандын атасына багытталган суроо — түз кире айтылуу"
+    }
+  ],
+  "translation": "Йонатан атасы ⟨את⟩ Шаулга жооп берип, ага айтты: Эмнеге ал өлтүрүлөт? Эмне кылды?",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "bd8c22950af1f0ced08a2a5031be67ab40715f7aa1f7964f3838ebdbb95809c7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-samuel\/20\/29-32.1791207087194.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "жооп берип"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Йонатан"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "атасы Шаулга"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаулга"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "атасы"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "жана айтты"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ага"
+    },
+    {
+      "surface": "למה",
+      "gloss": "эмнеге"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "өлтүрүлөт"
+    },
+    {
+      "surface": "מה",
+      "gloss": "эмне"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "кылды"
+    }
+  ],
+  "timestamp": "2026-10-05T13:31:27.195826924Z",
+  "model": "glm-5.3"
+}

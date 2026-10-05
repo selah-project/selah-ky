@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 97:1",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 97,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מלך",
+      "rationale": "Өткүн чак: «падыша болду» (Яхве такка отурду) же туруктуу абал «падышачылык кылат» — YLT «hath reigned», KJV «reigneth»."
+    },
+    {
+      "kind": "substitution",
+      "subject": "איים רבים",
+      "rationale": "Сөзмө-сөз «көп аралдар» — алыскы деңиз өлкөлөрү; «көп» сөзү санын, элдердин көптүгүн билдирет."
+    }
+  ],
+  "translation": "Яхве падыша болду, жер сүйүнгүлө, көп аралдар кубанышка.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "6132a85d5aeea181f6f17975a173e10a5836314319f892a36c13ee769dc04cf5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/97\/1-4.1791216892527.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "падыша болду"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "сүйүнгүлө"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "жер"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "кубанышка"
+    },
+    {
+      "surface": "איים",
+      "gloss": "аралдар"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "көп"
+    }
+  ],
+  "timestamp": "2026-10-05T16:14:52.527751211Z",
+  "model": "glm-5.3"
+}

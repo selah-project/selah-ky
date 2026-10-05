@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 81:1",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 81,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "гиттит",
+      "rationale": "הגתית — гаттык арфа, атайын аспаптын аты, аталыш бойдон калды"
+    }
+  ],
+  "translation": "Түркүм башкаруучуга, гиттиттеги ыргаайында, Асафка.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "cd0f650e23c0db414c148f8d4406897a2281ba63dbbb781de164fc5fe0c85eb6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/81\/1-4.1791216666400.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "түркүм башкаруучуга"
+    },
+    {
+      "surface": "על",
+      "gloss": "боюнча"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "гиттиттеги"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "Асафка"
+    }
+  ],
+  "timestamp": "2026-10-05T16:11:06.400897220Z",
+  "model": "glm-5.3"
+}

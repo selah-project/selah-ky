@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "judges 13:25",
+  "book": "judges",
+  "lang": "ky",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לפעמו",
+      "rationale": "'убак-убагы менен кыймылдатышы' — KJV 'move him at times', Genevan 'strengthen him': literally 'to beat\/impel him regularly'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Махане-Данда",
+      "rationale": "במחנה דן 'Дандын лагеринде' — бул жердин ысымы (Махане-Дан), бирок башталышы анын түз мааниси — 'лагерь'"
+    },
+    {
+      "kind": "elision",
+      "subject": "баштады",
+      "rationale": "וַתָּחֵל 'баштады' — Котормодо 'руху ... турчу' формасы менен берилди"
+    }
+  ],
+  "translation": "Жана Яхвенин руху аны Махане-Данда, Цора менен Эштаолдун ортосунда, убак-убагы менен кыймылдатып турчу.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "e79da95a215a2f3eee2705ac82865cfaa277ccae0b63d158c82537f647cbe204",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/judges\/13\/25-25.1791206288194.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותחל",
+      "gloss": "баштады"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "руху"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    },
+    {
+      "surface": "לפעמו",
+      "gloss": "аны убак-убагы менен кыймылдатышы"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "лагерде"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Дан"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ортосунда"
+    },
+    {
+      "surface": "צרעה",
+      "gloss": "Цора"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "менен ... ортосунда"
+    },
+    {
+      "surface": "אשתאל",
+      "gloss": "Эштаолдун"
+    }
+  ],
+  "timestamp": "2026-10-05T13:18:08.194610868Z",
+  "model": "glm-5.3"
+}

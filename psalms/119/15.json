@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 119:15",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אשיחה",
+      "rationale": "букв. «өзүмчө сүйлөймүн\/күбүрөймүн» — «ойлонмомун» катары берилди"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ארחתיך",
+      "rationale": "אֹרַח — «баскыч жол, кербен жолу»; «жолдоруң» деп берилди"
+    }
+  ],
+  "translation": "Сенин буйруктарыңда ойлонмомун жана Сенин жолдоруңа көз салып карайм.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "a103e228e52cbf7f75f96eca95234b9257a48fdd132605aaf0d044e4e94c0c61",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/119\/13-16.1791217296082.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בפקדיך",
+      "gloss": "Сенин буйруктарыңда"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "ойлонмомун"
+    },
+    {
+      "surface": "ואביטה",
+      "gloss": "жана көз салып карайм"
+    },
+    {
+      "surface": "ארחתיך",
+      "gloss": "Сенин жолдоруңа"
+    }
+  ],
+  "timestamp": "2026-10-05T16:21:36.083690648Z",
+  "model": "glm-5.3"
+}

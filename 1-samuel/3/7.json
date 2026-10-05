@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 3:7",
+  "book": "1-samuel",
+  "lang": "ky",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "тааныбаган",
+      "rationale": "ידע «билүү\/таануу» — жакырдыкты билүү маанисинде, «таануу» тандылды"
+    },
+    {
+      "kind": "mystery",
+      "subject": "Яхвенин сөзү али ачыла элек",
+      "rationale": "ачыла элек сөз — булaan кийинки ачылышка даярдоо"
+    }
+  ],
+  "translation": "Ал эли Шемуел али Яхвени ⟨את⟩ тааныбаган, жана Яхвенин сөзү али ага ачыла элек эле.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "4ed6953c7dc96a0546f7017737b80927236c5b62116b818502dbe62cf8a799e0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-samuel\/3\/5-8.1791206636373.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "ал эми Шемуел"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "али"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "тааныбаган"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яхвени"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "וטרם",
+      "gloss": "жана али"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "ачыла элек"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ага"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сөзү"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    }
+  ],
+  "timestamp": "2026-10-05T13:23:56.374317522Z",
+  "model": "glm-5.3"
+}

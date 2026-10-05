@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 1:20",
+  "book": "2-samuel",
+  "lang": "ky",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жар салбагыла",
+      "rationale": "תבשרו «жакшы кабар таркатуу» деген тамыр, бул жерде терс буйрукта"
+    },
+    {
+      "kind": "substitution",
+      "subject": "сүнөтсүздөрдүн",
+      "rationale": "הערלים «сырты ачык» деген сөз, техникилик жактан сүнөтсүз дегенди билдирет"
+    },
+    {
+      "kind": "you",
+      "subject": "ырчыларга \/ элге",
+      "rationale": "Кошок кайгырга багышталган көптүк санда буйрук менен айтылат"
+    }
+  ],
+  "translation": "Гатта айтпагыла, Ашкалон көчөлөрүндө жар салбагыла, болбосо плиштилердин кыздары кубанышат, болбосо сүнөтсүздөрдүн кыздары сүйүнүшөт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "845876f381a87efc6f2700bd4bdf2403f0e678f7fb4045ee817a1158b244f83f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-samuel\/1\/17-20.1791207342680.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "айтпагыла… эмес"
+    },
+    {
+      "surface": "תגידו",
+      "gloss": "айтпагыла"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "Гатта"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…эмес"
+    },
+    {
+      "surface": "תבשרו",
+      "gloss": "жар салбагыла"
+    },
+    {
+      "surface": "בחוצת",
+      "gloss": "көчөлөрүндө"
+    },
+    {
+      "surface": "אשקלון",
+      "gloss": "Ашкалон"
+    },
+    {
+      "surface": "פן",
+      "gloss": "болбосо"
+    },
+    {
+      "surface": "תשמחנה",
+      "gloss": "кубанышат"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "кыздары"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "плиштилердин"
+    },
+    {
+      "surface": "פן",
+      "gloss": "болбосо"
+    },
+    {
+      "surface": "תעלזנה",
+      "gloss": "сүйүнүшөт"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "кыздары"
+    },
+    {
+      "surface": "הערלים",
+      "gloss": "сүнөтсүздөрдүн"
+    }
+  ],
+  "timestamp": "2026-10-05T13:35:42.681792033Z",
+  "model": "glm-5.3"
+}

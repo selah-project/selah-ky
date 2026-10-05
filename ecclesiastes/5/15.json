@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 5:15",
+  "book": "ecclesiastes",
+  "lang": "ky",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "рух",
+      "rationale": "לרוח 'шамал\/рух үчүн' — D2 боюнча רוח ар дайым 'рух' деп берилет; Коhелеттин дайыма кайталуучу 'шамал үчүн эмгек' сөзү."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כל...עמת...כן",
+      "rationale": "'канчалык келсе — ошончолук кетет' ылдый-ылдый түзүлүш; кыргызча окшоштуруу менен берилди."
+    }
+  ],
+  "translation": "Бул да оорулуу жаманчылык: канчалык келсе, ошончолук кетет; жана рух үчүн эмгектенгендигинен ага эмне пайда?",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "4198bf3345ce9fc8d5ebfbe5c36ef51455d5edb50a979a643fa438a780c1d8b9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ecclesiastes\/5\/13-16.1791220102956.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "да"
+    },
+    {
+      "surface": "זה",
+      "gloss": "бул"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "жаманчылык"
+    },
+    {
+      "surface": "חולה",
+      "gloss": "оорулуу"
+    },
+    {
+      "surface": "כל",
+      "gloss": "канчалык"
+    },
+    {
+      "surface": "עמת",
+      "gloss": "тарабынан"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "келсе"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ошончолук"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "кетет"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "эмне"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "пайда"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ага"
+    },
+    {
+      "surface": "שיעמל",
+      "gloss": "эмгектенгендигинен"
+    },
+    {
+      "surface": "לרוח",
+      "gloss": "рух үчүн"
+    }
+  ],
+  "timestamp": "2026-10-05T17:08:22.958072915Z",
+  "model": "glm-5.3"
+}

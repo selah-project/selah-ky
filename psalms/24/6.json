@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 24:6",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "דרשו\/מבקשי",
+      "rationale": "Эки тамыр тең 'издөө' маанисинде кайталанат — риторикалык экиликтен кыргызча жоголот"
+    },
+    {
+      "kind": "crux",
+      "subject": "Яаков",
+      "rationale": "Яаков — чакырылган элби (ооба, КЖВ), же 'Яаковдун Элохими' деген кыскартылышыбы (BSB), божомолдонот"
+    },
+    {
+      "kind": "elision",
+      "subject": "סלה",
+      "rationale": "Музыкалык белги, которулбайт"
+    }
+  ],
+  "translation": "Бул — Аны издеген, Сенин жүзүңдү издеген муун ⟨бул⟩ Яаков. Селах.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "6f551de92922aac10d996a88c62ddc366ac90a7bf740575a5aa3540fdeac51f5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/24\/5-8.1791215720874.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "бул"
+    },
+    {
+      "surface": "דור",
+      "gloss": "муун"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "издеген"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "издеген"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "жүзүңдү"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаков"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Селах"
+    }
+  ],
+  "timestamp": "2026-10-05T15:55:20.875139689Z",
+  "model": "glm-5.3"
+}

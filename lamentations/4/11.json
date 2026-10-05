@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "lamentations 4:11",
+  "book": "lamentations",
+  "lang": "ky",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "өз",
+      "rationale": "жөнүндө айтылган жандык 'өз' мүчөсү менен ачык берилди"
+    },
+    {
+      "kind": "substitution",
+      "subject": "חרון אפו",
+      "rationale": "'мурдунун күйүүсү' — каардын эвфемизми, 'ачуусунун күйүп жатканы' деген сүрөт"
+    }
+  ],
+  "translation": "Яхве ⟨את⟩ өз ачуусун бүтүрдү, өз мурдунун каарын төктү жана Цийондо от коюп, ал анын пайдубалдарын жеп койду.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "c8e91779fa4ef5539aa156789a8fbcc4a20b9a36da553f345b9572f1ea406b74",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/lamentations\/4\/9-12.1791219849093.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כלה",
+      "gloss": "бүтүрдү"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "өз ачуусун"
+    },
+    {
+      "surface": "חמתו",
+      "gloss": "өз ачуусун"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "төктү"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "каарын"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "өз мурдунун"
+    },
+    {
+      "surface": "ויצת",
+      "gloss": "жана от коюп"
+    },
+    {
+      "surface": "אש",
+      "gloss": "от"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "Цийондо"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "жана жеп койду"
+    },
+    {
+      "surface": "יסודתיה",
+      "gloss": "анын пайдубалдарын"
+    }
+  ],
+  "timestamp": "2026-10-05T17:04:09.094748825Z",
+  "model": "glm-5.3"
+}

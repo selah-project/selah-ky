@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 4:5",
+  "book": "leviticus",
+  "lang": "ky",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "майланган коэн",
+      "rationale": "המשיח הכהן — «майланган коэн»: ыйык кызмат кылуучуга колдонулганда משיח «майланган» деп берилди (D2)"
+    },
+    {
+      "kind": "addition",
+      "subject": "жөнөтүлгөн жер",
+      "rationale": "אל багыттык предлог; кыргызча атооч жөнөтүүнү талап кылат"
+    }
+  ],
+  "translation": "Жана майланган коэн бугунун канынан алып, ⟨את⟩ аны Жолугушуу чатырына алып кирсин.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "01074193af48863409aefde2dee522f4ce8d0e82d82ab34c8eae0a19360a99f9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/4\/5-8.1791202910036.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "алсын"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "коэн"
+    },
+    {
+      "surface": "המשיח",
+      "gloss": "майланган"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "канынан"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "бугунун"
+    },
+    {
+      "surface": "והביא",
+      "gloss": "алып кирсин"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "аны"
+    },
+    {
+      "surface": "אל",
+      "gloss": "жөнөтүлгөн жер"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "чатырына"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Жолугушуу"
+    }
+  ],
+  "timestamp": "2026-10-05T12:21:50.037139978Z",
+  "model": "glm-5.3"
+}

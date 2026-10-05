@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 21:24",
+  "book": "2-kings",
+  "lang": "ky",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "сүргүн кылды",
+      "rationale": "ויך — «уруу»; бул жерде «өлтүрүштү» деген мааниде, бөлүп көрсөтүү үчүн жумшак форма тандады"
+    }
+  ],
+  "translation": "Жана жер эли падыша Амонго каршы кутумлашкан бардыгын ⟨את⟩ сүргүн кылды, жана жер эли анын уулу Йошияны ⟨את⟩ анын ордуна падыша кылды.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "24d7565cf64b5d2e2109029b9d60ef795493d6ecb3391cff7668484714e89971",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-kings\/21\/21-24.1791209193505.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "сүргүн кылды"
+    },
+    {
+      "surface": "עם",
+      "gloss": "эли"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "жер"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "бардыгын"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бардыгын"
+    },
+    {
+      "surface": "הקשרים",
+      "gloss": "кутумлашкан"
+    },
+    {
+      "surface": "על",
+      "gloss": "каршы"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "падыша"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "Амон"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "падыша кылды"
+    },
+    {
+      "surface": "עם",
+      "gloss": "эли"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "жер"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Йошияны"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Йошия"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "уулу"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "ордуна"
+    }
+  ],
+  "timestamp": "2026-10-05T14:06:33.506893804Z",
+  "model": "glm-5.3"
+}

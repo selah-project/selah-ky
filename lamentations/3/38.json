@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "lamentations 3:38",
+  "book": "lamentations",
+  "lang": "ky",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "чыкпайбы?",
+      "rationale": "םайда לא תצא — бул суроо ('чейин чыкпайт?', KJV\/BSB) же билдирүү ('чейин чыгат', YLT) экени белгисиз"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Эльон",
+      "rationale": "עליון — 'Жогорку' деген сыпаттоо, ысым катары 'Эльон' деп айтылышында сакталды"
+    }
+  ],
+  "translation": "Жамандыктар жана жакшылык Эльондун оозунан чыкпайбы?",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "a3d34480766170bf45fa38dc6a8b2628dd79137f0f017b588ec135423f0b1bab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/lamentations\/3\/37-40.1791219827587.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מפי",
+      "gloss": "оозунан"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Эльон"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "чыкпайт"
+    },
+    {
+      "surface": "הרעות",
+      "gloss": "жамандыктар"
+    },
+    {
+      "surface": "והטוב",
+      "gloss": "жана жакшылык"
+    }
+  ],
+  "timestamp": "2026-10-05T17:03:47.588292468Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 19:17",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жаның",
+      "rationale": "נפשך — «дем-жаның», жүрөк-жан эмес, тирүүлүктүн күчү"
+    },
+    {
+      "kind": "invitation",
+      "subject": "буйруктар",
+      "rationale": "Лотко багытталган үч тыюу жана эки буйрук — тез качууга чакыруу"
+    },
+    {
+      "kind": "you",
+      "subject": "Лотко",
+      "rationale": "жашыруун эмес, Лотко тикелей кайрылуу"
+    }
+  ],
+  "translation": "Болду, алар аларды ⟨את⟩ тышкары алып чыкканда, ал айтты: Жаныңа кач, артыңа караба жана түздүктүн эч бир жеринде турба; тоого кач, антпесе жок болосуң.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "165e42dcde9879618a8626321e8f0a95b31ff14596ff863ae5f33e4b81c94405",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/19\/17-20.1791201058502.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Болду"
+    },
+    {
+      "surface": "כהוציאם",
+      "gloss": "алып чыкканда"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "алар"
+    },
+    {
+      "surface": "החוצה",
+      "gloss": "тышкары"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ал айтты"
+    },
+    {
+      "surface": "המלט",
+      "gloss": "кач"
+    },
+    {
+      "surface": "על",
+      "gloss": "үчүн"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "жаның"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "תביט",
+      "gloss": "артыңа караба"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "артыңа"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "жана"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "турба"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "эч бир жеринде"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "түздүктүн"
+    },
+    {
+      "surface": "ההרה",
+      "gloss": "тоого"
+    },
+    {
+      "surface": "המלט",
+      "gloss": "кач"
+    },
+    {
+      "surface": "פן",
+      "gloss": "антпесе"
+    },
+    {
+      "surface": "תספה",
+      "gloss": "жок болосуң"
+    }
+  ],
+  "timestamp": "2026-10-05T11:50:58.503523469Z",
+  "model": "glm-5.3"
+}

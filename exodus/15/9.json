@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 15:9",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жаным",
+      "rationale": "נפש — дем алуучу жандүйнө, көкүрөк\/каалоо маанисинде да; «жан» кыргызча кеңири кабыл алынды"
+    },
+    {
+      "kind": "crux",
+      "subject": "төгөйүн",
+      "rationale": "אריק букв. «төктүм\/бошоттум»: кылычты кынадан чыгаруу же курчутуу — «кынынан тартып чыккам» дагы бар"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "атайын кайталоо",
+      "rationale": "Душмандын жети катар «мен... мен...» деп күүлөнгөн үнү — алты коһорттуу этиш ыргагы кыргызча жумшарат"
+    }
+  ],
+  "translation": "Душман айтты: Кубайын, жетейин, олжону бөлүшөйүн; жаным алар менен толот; кылычымды төгөйүн, колум аларды ээлеп алсын.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "1ab465ffed77a72d930c0577bbcf47ead1e5b3eb2067358ed9b163c5cdf06dbd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/15\/9-12.1791202078702.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "Душман"
+    },
+    {
+      "surface": "ארדף",
+      "gloss": "Кубайын"
+    },
+    {
+      "surface": "אשיג",
+      "gloss": "жетейин"
+    },
+    {
+      "surface": "אחלק",
+      "gloss": "бөлүшөйүн"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "олжону"
+    },
+    {
+      "surface": "תמלאמו",
+      "gloss": "толот"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "жаным"
+    },
+    {
+      "surface": "אריק",
+      "gloss": "төгөйүн"
+    },
+    {
+      "surface": "חרבי",
+      "gloss": "кылычымды"
+    },
+    {
+      "surface": "תורישמו",
+      "gloss": "ээлеп алсын"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "колум"
+    }
+  ],
+  "timestamp": "2026-10-05T12:07:58.702821049Z",
+  "model": "glm-5.3"
+}

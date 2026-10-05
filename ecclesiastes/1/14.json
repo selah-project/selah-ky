@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 1:14",
+  "book": "ecclesiastes",
+  "lang": "ky",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הבל",
+      "rationale": "букм. 'дем, буу' — 'көбүк', 'туташтык', 'жалганчылык' деген окуулар бар"
+    },
+    {
+      "kind": "substitution",
+      "subject": "рухту кармоого аракет",
+      "rationale": "ורעות רוח букм. 'рухтун жайтоосу' — шамалды кармоого умтулуу сүрөтү"
+    }
+  ],
+  "translation": "Күндүн астында жасалган ⟨את⟩ бардык иштерди көрдүм, жана мына, баары көбүк жана рухту кармоого аракет.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "88885696a6c6f925e4a32cec718a1f9f8999b0bd8c499054ba50f2264dc505d5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ecclesiastes\/1\/13-16.1791219983845.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "көрдүм"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "бардык иштерди"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бардык"
+    },
+    {
+      "surface": "המעשים",
+      "gloss": "иштерди"
+    },
+    {
+      "surface": "שנעשו",
+      "gloss": "жасалган"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "астында"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "күндүн"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "жана мына"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "баары"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "көбүк"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "жана кармоого аракет"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "рух"
+    }
+  ],
+  "timestamp": "2026-10-05T17:06:23.846571120Z",
+  "model": "glm-5.3"
+}

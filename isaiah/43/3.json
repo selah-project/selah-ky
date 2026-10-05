@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 43:3",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כפרך",
+      "rationale": "«Төлөм» (ransom) же «кечирим\/жабуу» — köфер тамыры «жабуу, жабынды» деген сөздөн"
+    },
+    {
+      "kind": "addition",
+      "subject": "тиреш (—)",
+      "rationale": "«Мен — Яхве» тиешеси үчүн кыргызча дефис кошулду"
+    }
+  ],
+  "translation": "Анткени Мен — Яхве, сенин Элохимиң, Йисраэлдин Ыйыгы, сенин Куткаруучуң; Мен сенин төлөмүңдү бердим — Мицрайим, Куш жана Себа сенин ордуңа.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "75c3a2509528dd63c405c304ddb61b0e9f530593919ccff20410724249b9bfa3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/43\/1-4.1791210204775.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Мен"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "сенин Элохимиң"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Ыйыгы"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэлдин"
+    },
+    {
+      "surface": "מושיעך",
+      "gloss": "сенин Куткаруучуң"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "бермин"
+    },
+    {
+      "surface": "כפרך",
+      "gloss": "сенин төлөмүң"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицрайим"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Куш"
+    },
+    {
+      "surface": "וסבא",
+      "gloss": "жана Себа"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "сенин ордуңа"
+    }
+  ],
+  "timestamp": "2026-10-05T14:23:24.776429854Z",
+  "model": "glm-5.3"
+}

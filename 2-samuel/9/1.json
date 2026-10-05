@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 9:1",
+  "book": "2-samuel",
+  "lang": "ky",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Давид",
+      "rationale": "Давид өзүнө сурайт — сөз айтуучунун ички суроосу, тыңдоочко багытталган чакыруу сыяктуу ачылат"
+    },
+    {
+      "kind": "substitution",
+      "subject": "хесед",
+      "rationale": "חסד 'ырайым' гана эмес — үзүлбөгөн берилгендиктин байланышы; хесед катары сакталды"
+    }
+  ],
+  "translation": "Давид айтты: Шаулдун үйүнөн дагы калган кимсе бар беле, Йонатан үчүн ага хесед кылышым үчүн?",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "0c217938e14325f5325a284796e91a7b0780ca7e6b13ad5c2d823e880afc207a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-samuel\/9\/1-4.1791207503181.json",
+    "code": "641241cf-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "הכי",
+      "gloss": "беле"
+    },
+    {
+      "surface": "יש",
+      "gloss": "бар"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "дагы"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "кимсе"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "калган"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "үйүнөн"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаулдун"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "кылышым"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ага"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "хесед"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "үчүн"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Йонатан"
+    }
+  ],
+  "timestamp": "2026-10-05T13:38:23.182108256Z",
+  "model": "glm-5.3"
+}

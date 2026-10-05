@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 14:1",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "накаар",
+      "rationale": "נבל — наалат, акылсыз жана динсиз адам; бир сөз катары берилди"
+    },
+    {
+      "kind": "elision",
+      "subject": "השחיתו",
+      "rationale": "этиштин өзүнчө турган «алар» субъектиси кыргызча этиштин жак мүчөсү менен берилди"
+    }
+  ],
+  "translation": "Көрүүчүгө. Давиддин. Наалат айтты накаар жүрөгүндө: «Элохим жок», бузушту, жийиркеничтүү болушту иштери — жакшылык кылуучу жок.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "1675ac133eb6fe1c155b1bdc04dab86a95dd5b1cab077365e105fdbecfb2045d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/14\/1-4.1791215453943.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Көрүүчүгө"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давиддин"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "накаар"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "жүрөгүндө"
+    },
+    {
+      "surface": "אין",
+      "gloss": "жок"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "бузушту"
+    },
+    {
+      "surface": "התעיבו",
+      "gloss": "жийиркеничтүү болушту"
+    },
+    {
+      "surface": "עלילה",
+      "gloss": "иштери"
+    },
+    {
+      "surface": "אין",
+      "gloss": "жок"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "кылуучу"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "жакшылык"
+    }
+  ],
+  "timestamp": "2026-10-05T15:50:53.944427352Z",
+  "model": "glm-5.3"
+}

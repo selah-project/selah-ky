@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 13:1",
+  "book": "2-samuel",
+  "lang": "ky",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "бар эле",
+      "rationale": "Еврей текстинде этиш жок, карындаш эмнө экени айтылат"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אהב",
+      "rationale": "сүйүү этиши бүт баяндоо аркылуу кайталанат, кыргызча бир формада калты"
+    }
+  ],
+  "translation": "Жана болду булардан кийин: Абшаломго, Давиддин уулуна, сулуу карындаш бар эле, аты Тамар; жана аны Амнон, Давиддин уулу, сүйүп калды.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "c7cfb28fc23da02c8c2ef9357ed0794ee0526f07f6ba8ad99899e3dde8994a3c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-samuel\/13\/1-4.1791207610512.json",
+    "code": "641241cf-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "жана болду"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "булардан кийин"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ушундан кийин"
+    },
+    {
+      "surface": "ולאבשלום",
+      "gloss": "Абшаломго"
+    },
+    {
+      "surface": "בן",
+      "gloss": "уулу"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давиддин"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "карындаш"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "сулуу"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "жана аты"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "Тамар"
+    },
+    {
+      "surface": "ויאהבה",
+      "gloss": "жана сүйүп калды"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Амнон"
+    },
+    {
+      "surface": "בן",
+      "gloss": "уулу"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давиддин"
+    }
+  ],
+  "timestamp": "2026-10-05T13:40:10.513371107Z",
+  "model": "glm-5.3"
+}

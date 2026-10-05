@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 18:3",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "גרשם\/גר",
+      "rationale": "Гершом деген ат 'гер' (конок) сөзүнөн — ат менен себеп бир тамырдан, кыргызча ат чечмеленип берилди"
+    }
+  ],
+  "translation": "Жана ⟨את⟩ анын эки уулун — алардын бирөөнүн аты Гершом, анткени ал: «Бөтөн жерде конок болчумун», деген.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "6b2b63caea2c4cca536ce84d213522d4927cb924df5877fce5d6622f95b2e860",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/18\/1-4.1791202240713.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וְאֵת",
+      "gloss": "жана ⟨את⟩",
+      "marks": "эки уулун"
+    },
+    {
+      "surface": "שְׁנֵי",
+      "gloss": "эки"
+    },
+    {
+      "surface": "בָּנֶיהָ",
+      "gloss": "анын уулун"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "—"
+    },
+    {
+      "surface": "שֵׁם",
+      "gloss": "аты"
+    },
+    {
+      "surface": "הָאֶחָד",
+      "gloss": "бирөөнүн"
+    },
+    {
+      "surface": "גֵּרְשֹׁם",
+      "gloss": "Гершом"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "אָמַר",
+      "gloss": "деген"
+    },
+    {
+      "surface": "גֵּר",
+      "gloss": "конок"
+    },
+    {
+      "surface": "הָיִיתִי",
+      "gloss": "болчумун"
+    },
+    {
+      "surface": "בְּאֶרֶץ",
+      "gloss": "жерде"
+    },
+    {
+      "surface": "נָכְרִיָּה",
+      "gloss": "бөтөн"
+    }
+  ],
+  "timestamp": "2026-10-05T12:10:40.714412129Z",
+  "model": "glm-5.3"
+}

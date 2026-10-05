@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 5:19",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ал⟩",
+      "rationale": "Жөнөкөй сүйлөмдө субъект керек, еврейче жок"
+    },
+    {
+      "kind": "elision",
+      "subject": "למען",
+      "rationale": "'ону көрүш үчүн' деген максат байламтасы кыргызча 'биз көрөлү' ичинде камтылды"
+    },
+    {
+      "kind": "you",
+      "subject": "сөзсүздер — шок сүйлөгөндөр",
+      "rationale": "Бул аят Яхвеге тамашалап 'ашык' деген ачуулануучулардын сөзү"
+    }
+  ],
+  "translation": "Алар айтышат: Ашыксын, ⟨ал⟩ Өз ишин тез жасасын, биз көрөлү; жана Йисраэлдин Ыйыгынын кеңеши жакындап, келсин, биз билейли!",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "baf20452bd2f2a0416bfba45f031160031ee39aaba601f0a6680bc2fd8d40970",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/5\/17-20.1791209461055.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "האמרים",
+      "gloss": "Алар айтышат"
+    },
+    {
+      "surface": "ימהר",
+      "gloss": "Ашыксын"
+    },
+    {
+      "surface": "יחישה",
+      "gloss": "тез"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "Өз ишин"
+    },
+    {
+      "surface": "למען",
+      "gloss": "—"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "биз көрөлү"
+    },
+    {
+      "surface": "ותקרב",
+      "gloss": "жакындап"
+    },
+    {
+      "surface": "ותבואה",
+      "gloss": "келсин"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "кеңеши"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Ыйыгынын"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэлдин"
+    },
+    {
+      "surface": "ונדעה",
+      "gloss": "биз билейли"
+    }
+  ],
+  "timestamp": "2026-10-05T14:11:01.056841934Z",
+  "model": "glm-5.3"
+}

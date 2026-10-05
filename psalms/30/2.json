@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 30:2",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "דליתני",
+      "rationale": "דלה баштапкы маанисинде чүмкүч менен суу тартуу; бул жерде үмүтсүз абалдан «сыйырып алуу»"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ארוממך",
+      "rationale": "רום тамыры кайталанып турат: «бийик көтөрөм» — Сен «көтөрдүң» деген ыргак"
+    }
+  ],
+  "translation": "Сени бийик көтөрөм, Яхве, анткени Сен мени ⟨сыйырып⟩ чыгардың жана мени жек көргөндөрүмө кубанууга бердің.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "0696ba0b76a5def4d06eb268cec6a3c566ecd808c78d5abc04c1c5729d13f2db",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/30\/1-4.1791215720766.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ארוממך",
+      "gloss": "сени бийик көтөрөм"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "דליתני",
+      "gloss": "мени сыйырып чыгардың"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "жана эмес"
+    },
+    {
+      "surface": "שמחת",
+      "gloss": "кубандырдың"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "мени жек көргөндөрүмдү"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мага"
+    }
+  ],
+  "timestamp": "2026-10-05T15:55:20.766935468Z",
+  "model": "glm-5.3"
+}

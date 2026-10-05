@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 10:1",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חקקים\/חקקי",
+      "rationale": "Чоқек деген тамыр эки жолу кайталанат — «мыйзам чыгаруучулар мыйзамдарды чыгарат», кыргызча кайтоо толук сакталбайт"
+    },
+    {
+      "kind": "alternative",
+      "subject": "עמל",
+      "rationale": "«Оор эмгек\/зордук» — кээ бир котормолор «кыйынчылык» деп берет, бирок бул сөз басмырлоо маанисинде"
+    }
+  ],
+  "translation": "Ой, зордук мыйзамдарын чыгаруучуларга, жана жазуучулар оор басмырлоону жазышат!",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "b7a0533bc715a8c1189f8babbc53ca1fb55913a3a12afc6efb9f0952c080c199",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/10\/1-4.1791209611853.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Ой"
+    },
+    {
+      "surface": "החקקים",
+      "gloss": "чыгаруучуларга"
+    },
+    {
+      "surface": "חקקי",
+      "gloss": "мыйзамдарын"
+    },
+    {
+      "surface": "און",
+      "gloss": "зордук"
+    },
+    {
+      "surface": "ומכתבים",
+      "gloss": "жана жазуучулар"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "оор басмырлоону"
+    },
+    {
+      "surface": "כתבו",
+      "gloss": "жазышат"
+    }
+  ],
+  "timestamp": "2026-10-05T14:13:31.853750704Z",
+  "model": "glm-5.3"
+}

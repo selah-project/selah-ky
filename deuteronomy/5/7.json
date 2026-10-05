@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 5:7",
+  "book": "deuteronomy",
+  "lang": "ky",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "элохимдер",
+      "rationale": "Бул жерде אלהים көптүк санда — башка элдердин кудайлары; кичине тамга менен «кудайлар» да болот, бирок сөз формасы сакталды"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "על פני",
+      "rationale": "Буквально «жүзүмдүн үстүндө\/алдында» — «менден башка» деген жумшак которуу сүрөттү жоготот"
+    }
+  ],
+  "translation": "Менин жүзүмдүн алдында силерге башка элохимдер болбойт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "1ab2b47b3bedfc51dff3f23060f3249dcc99b48e3c942b5e8b93855b84089811",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/5\/5-8.1791204755852.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "болбойт"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "болбойт"
+    },
+    {
+      "surface": "לך",
+      "gloss": "силерге"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "элохимдер"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "башка"
+    },
+    {
+      "surface": "על",
+      "gloss": "алдында"
+    },
+    {
+      "surface": "פני",
+      "gloss": "жүзүмдүн"
+    }
+  ],
+  "timestamp": "2026-10-05T12:52:35.853968195Z",
+  "model": "glm-5.3"
+}

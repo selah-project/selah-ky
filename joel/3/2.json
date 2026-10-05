@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joel 3:2",
+  "book": "joel",
+  "lang": "ky",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Мен",
+      "rationale": "Кыргызча этиштин жак аты кошулду"
+    },
+    {
+      "kind": "elision",
+      "subject": "ההמה",
+      "rationale": "Бул тургун «ошол» менен берилди, басымдык көрсөткүч"
+    }
+  ],
+  "translation": "Ошондой эле кулдардын жана күңдөрдүн үстүнө ошол күндөрдө Мен Өз рухумду ⟨את⟩ төгөмөн.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "ddca5f210e9b183415c9563878292a6ef19bb5043533e29a4c388e56be191b07",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/joel\/3\/1-4.1791214179593.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ошондой эле"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстүнө"
+    },
+    {
+      "surface": "העבדים",
+      "gloss": "кулдардын"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "жана үстүнө"
+    },
+    {
+      "surface": "השפחות",
+      "gloss": "күңдөрдүн"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "күндөрдө"
+    },
+    {
+      "surface": "ההמה",
+      "gloss": "ошол"
+    },
+    {
+      "surface": "אשפוך",
+      "gloss": "төгөмөн"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Өз рухумду"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "рухумду"
+    }
+  ],
+  "timestamp": "2026-10-05T15:29:39.594249501Z",
+  "model": "glm-5.3"
+}

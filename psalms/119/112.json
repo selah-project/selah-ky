@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 112,
+  "ref": "psalms 119:112",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "буйрудум",
+      "rationale": "נטה «кайрылуу\/ийилтүү» деген сөз; кыргызча «жүрөктү багыштоо» маанисинде берилди"
+    },
+    {
+      "kind": "crux",
+      "subject": "עקב",
+      "rationale": "«ээктин тамыры\/сөөмөй» деген сөз, мааниси «дайыма, аягына чейин» же JPS боюнча «ар бир кадамда»"
+    },
+    {
+      "kind": "you",
+      "subject": "Сениң",
+      "rationale": "Яхвеге багышталган 1-жак сүйлөм; айтуучу — мунаждаткан адам"
+    }
+  ],
+  "translation": "Жүрөгүмдү Сениң буйруктарыңды аткарууга буйрудум, түбөлүккө, аягына чейин.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "af774f4d344e7fc871427e91a1308a5ab75488475cbb65a84b2beaa83f18b504",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/119\/112-112.1791224480751.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נטיתי",
+      "gloss": "буйрудум"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "жүрөгүмдү"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "аткарууга"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "буйруктарыңды"
+    },
+    {
+      "surface": "лעולם",
+      "gloss": "түбөлүккө"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "аягына чейин"
+    }
+  ],
+  "timestamp": "2026-10-05T18:21:20.752315236Z",
+  "model": "glm-5.3"
+}

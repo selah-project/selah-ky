@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 26:8",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מעון\/מקום",
+      "rationale": "near-rhyme of 'maon\/maqom' — dwelling\/place — sets parallelism, faint in Kyrgyz"
+    },
+    {
+      "kind": "you",
+      "subject": "Яхвеге",
+      "rationale": "Direct address to YHWH opening the verse"
+    }
+  ],
+  "translation": "Яхве, мен Сенин үйүңдүн жашоо ордуңду сүйдүм жана Сенин даңкыңдын Мишканынын ордун.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "60fce77910616cd9c245ceb15c47eed972a069c102c8eca9d765fa5097c59c2f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/26\/5-8.1791215695934.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "сүйдүм"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "жашоо ордуңду"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "үйүңдүн"
+    },
+    {
+      "surface": "ומקום",
+      "gloss": "жана ... ордун"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "Мишканынын"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "даңкыңдын"
+    }
+  ],
+  "timestamp": "2026-10-05T15:54:55.935398310Z",
+  "model": "glm-5.3"
+}

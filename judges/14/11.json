@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 14:11",
+  "book": "judges",
+  "lang": "ky",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "отуз дос",
+      "rationale": "Санак: отуз шерик — жумжактын байгысы менен дал келет."
+    },
+    {
+      "kind": "alternative",
+      "subject": "алар",
+      "rationale": "Ким көргөнү текстте ачык айтылбайт — байланышта плиштимдер (шаар тургундары) түшүнүлөт."
+    }
+  ],
+  "translation": "Болду: алар ⟨את⟩ аны көргөндө, отуз досту алышты жана анын ⟨менен⟩ болушту.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "5b3cd8011f84065c5861ecb67106067882703d3d0dbd50ca9bf2cc315353b85c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/judges\/14\/9-12.1791206332319.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "болду"
+    },
+    {
+      "surface": "כראותם",
+      "gloss": "көргөндө"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "аны (Шимшону)"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "алышты"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "отуз"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "досторду"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "болушту"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ менен"
+    }
+  ],
+  "timestamp": "2026-10-05T13:18:52.320739508Z",
+  "model": "glm-5.3"
+}

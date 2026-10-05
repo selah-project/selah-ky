@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 11:7",
+  "book": "leviticus",
+  "lang": "ky",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שסע שסע",
+      "rationale": "Этешicken ушундай тамырдын кайталанышы — «жарык жарылган» — үн угулушу кыргызчада жоголот."
+    },
+    {
+      "kind": "crux",
+      "subject": "ושסע שסע פרסה",
+      "rationale": "«Жарыктуу жарылган туяк» — туяктын так абалын сүрөттөйт; айрым которуулар «экиге бөлүнгөн» деп жөнөкөйлөтөт."
+    }
+  ],
+  "translation": "Жана ⟨את⟩ чочкону — анткени ал туяк бөлөт, туягы ачык жарылган, бирок жентелгенин чыгарбайт — ал силерге таза эмес.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "49b0ff479b4266b9e8da21a064e53f03e1ba4487e131af884edcfeb504156b15",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/11\/5-8.1791202989996.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "чочкону"
+    },
+    {
+      "surface": "החזיר",
+      "gloss": "чочко"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "туяк бөлөт"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "туяк"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ал"
+    },
+    {
+      "surface": "ושסע",
+      "gloss": "жарылган"
+    },
+    {
+      "surface": "שסע",
+      "gloss": "жарык"
+    },
+    {
+      "surface": "пרסה",
+      "gloss": "туягында жарыгы бар"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "бирок ал"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "жентелгенин"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "יגר",
+      "gloss": "чыгарбайт"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "таза эмес"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ал"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "силерге"
+    }
+  ],
+  "timestamp": "2026-10-05T12:23:09.997490053Z",
+  "model": "glm-5.3"
+}

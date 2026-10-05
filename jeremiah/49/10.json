@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 49:10",
+  "book": "jeremiah",
+  "lang": "ky",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ал",
+      "rationale": "ואיננו ээлик аталышты ээсиз айтат; кыргызча.subjecttu түшүнүү үчүн ⟨ал⟩ кошулду"
+    },
+    {
+      "kind": "alternative",
+      "subject": "жашыруун жерлерин",
+      "rationale": "мסתריו — 'жашыруун жайлары', жашыруун жерлер деген экинчи окуу"
+    },
+    {
+      "kind": "substitution",
+      "subject": "талкаланды",
+      "rationale": "שדד 'күч колдонуу, талкоо' — пассив формасы кыргызча пассив менен берилди"
+    }
+  ],
+  "translation": "Анткени Мен ⟨את⟩ Эсавду жылаңайлак кылдым, ⟨את⟩ жашыруун жерлерин ачып салдым, жана ал жашырына албайт; анын үрөнү, агалары жана кошналары талкаланды, жана ⟨ал⟩ жок болот.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "eee9d161919341d77933eba361af4117938445933c24acb1c0921e7e78aec341",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/jeremiah\/49\/10-11.1791224208734.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Мен"
+    },
+    {
+      "surface": "חשפתי",
+      "gloss": "жылаңайлак кылдым"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Эсавду"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Эсав"
+    },
+    {
+      "surface": "גליתי",
+      "gloss": "ачып салдым"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "жашыруун жерлерин"
+    },
+    {
+      "surface": "מסתריו",
+      "gloss": "жашыруун жерлерин"
+    },
+    {
+      "surface": "ונחבה",
+      "gloss": "жана жашырынууга"
+    },
+    {
+      "surface": "לא",
+      "gloss": "албайт"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "жөндөмдүү"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "талкаланды"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "анын үрөнү"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "жана агалары"
+    },
+    {
+      "surface": "ושכניו",
+      "gloss": "жана кошналары"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "жана ⟨ал⟩ жок болот"
+    }
+  ],
+  "timestamp": "2026-10-05T18:16:48.735096825Z",
+  "model": "glm-5.3"
+}

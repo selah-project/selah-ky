@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 15:5",
+  "book": "1-samuel",
+  "lang": "ky",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "וירב",
+      "rationale": "'тыңчы коюп кармады' (тойév, камдаган дагы окуулар бар) vs 'талаш-тартыш кылды' (нага́) — лексика олуттуу эки жол."
+    },
+    {
+      "kind": "elision",
+      "subject": "עיר עמלק",
+      "rationale": "'шаар' эмес деген даңeger даамы жок — 'Амалек шаары' катары берилди."
+    }
+  ],
+  "translation": "Жана Шаул Амалек шаарына келди, жана өрөөндө тыңчы коюп кармады.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "0a955b7d8dae29e8aef1339ddbc58eb33abd967e7699924eaa4a1d829a501b09",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-samuel\/15\/5-8.1791206906650.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "келди"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "עד",
+      "gloss": "чейин"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "шаарына"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Амалек"
+    },
+    {
+      "surface": "ויירב",
+      "gloss": "тыңчы коюп кармады"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "өрөөндө"
+    }
+  ],
+  "timestamp": "2026-10-05T13:28:26.650836801Z",
+  "model": "glm-5.3"
+}

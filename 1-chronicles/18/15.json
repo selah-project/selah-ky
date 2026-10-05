@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 18:15",
+  "book": "1-chronicles",
+  "lang": "ky",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "эстөөчү",
+      "rationale": "מזכיר — 'эске алуучу\/жазып алуучу', падышанын жазуучусу-хронисти"
+    },
+    {
+      "kind": "addition",
+      "subject": "болду",
+      "rationale": "Еврейче этиш жок; кыргызча сүйлөм үчүн кошулду"
+    }
+  ],
+  "translation": "Жана Цруянын уулу Йоав аскер башчысы болду, жана Ажилуддун уулу Йеошафат эстөөчү болду.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "80245ada4bb3aec48de7134b3e642bff17d9d4f60b32fc7a9037ac4ce0ad0f26",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-chronicles\/18\/13-16.1791222173977.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויואב",
+      "gloss": "Йоав"
+    },
+    {
+      "surface": "בן",
+      "gloss": "уулу"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "Цруянын"
+    },
+    {
+      "surface": "על",
+      "gloss": "баскаруучусу"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "аскер"
+    },
+    {
+      "surface": "ויהושפט",
+      "gloss": "Йеошафат"
+    },
+    {
+      "surface": "בן",
+      "gloss": "уулу"
+    },
+    {
+      "surface": "אחילוד",
+      "gloss": "Ажилуддун"
+    },
+    {
+      "surface": "מזכיר",
+      "gloss": "эстөөчү"
+    }
+  ],
+  "timestamp": "2026-10-05T17:42:53.979508430Z",
+  "model": "glm-5.3"
+}

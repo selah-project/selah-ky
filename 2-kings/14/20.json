@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 14:20",
+  "book": "2-kings",
+  "lang": "ky",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨отуруштуруп⟩",
+      "rationale": "Ивритте «аттар үстүнө көтөрүштү» дейт; кыргызча мингизүү этиши кошулду."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ата-бабалары",
+      "rationale": "אבתיו көп сандуу «аталары»; кыргызча салыштырмалуу түшүнүк менен берилди."
+    }
+  ],
+  "translation": "Аны аттарга ⟨отуруштуруп⟩ алып барышты, жана ал Йерушалайимде ата-бабалары менен кошо Давид шаарында көмүлдү.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "0b1a46d4a8e9a979c156c0415f22b134d73846d10b4cc73b47cdde757e04cf8a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-kings\/14\/20-20.1791223989267.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "алып барышты"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "аны"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстүнө"
+    },
+    {
+      "surface": "הסוסים",
+      "gloss": "аттарга"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "көмүлдү"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Йерушалайимде"
+    },
+    {
+      "surface": "עם",
+      "gloss": "менен кошо"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "ата-бабалары"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "шаарында"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    }
+  ],
+  "timestamp": "2026-10-05T18:13:09.267832842Z",
+  "model": "glm-5.3"
+}

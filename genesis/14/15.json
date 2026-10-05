@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 14:15",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "משמאל",
+      "rationale": "Сол = чыгышка караганда түндүк; 'түндүк' маанисинде да кабыл алынат"
+    },
+    {
+      "kind": "hapax",
+      "subject": "חובה",
+      "rationale": "Хова жери Танахта ушул жерде гана кездешет"
+    }
+  ],
+  "translation": "Түн ичинде ал жана анын кызматчылары аларга бөлүнүп кол салып, аларды сүзүп, Дамаскдын сол тарабындагы Ховага чейин куугунттады.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "425d7bee350c0c8414460ae4a0eac6f92d69d45f16eab6fbf948206d520bfc13",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/14\/13-16.1791200944122.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחלק",
+      "gloss": "бөлүнүп"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "аларга"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "түн ичинде"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ал"
+    },
+    {
+      "surface": "ועבדיו",
+      "gloss": "жана анын кызматчылары"
+    },
+    {
+      "surface": "ויכם",
+      "gloss": "аларды сүзүп"
+    },
+    {
+      "surface": "וירדפם",
+      "gloss": "куугунттады"
+    },
+    {
+      "surface": "עד",
+      "gloss": "чейин"
+    },
+    {
+      "surface": "חובה",
+      "gloss": "Ховага"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "жер"
+    },
+    {
+      "surface": "משמאל",
+      "gloss": "сол тарабындагы"
+    },
+    {
+      "surface": "לדמשק",
+      "gloss": "Дамаскдын"
+    }
+  ],
+  "timestamp": "2026-10-05T11:49:04.123080559Z",
+  "model": "glm-5.3"
+}

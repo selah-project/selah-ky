@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 7:5",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "כי",
+      "rationale": "יען כי бирге 'себеби' катары берилди, кийинкиси эки эсе болбошу үчүн жутулду"
+    }
+  ],
+  "translation": "Себеби Арам сага каршы жаман кеңеш кылды — Эфрайим жана Ремалиянын уулу — деп:",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "640d8293190f272fabcdc0aea2c767908b701cef362e9b29327a6f23c4f7ae4f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/7\/5-8.1791209426606.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "себеби"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "יעץ",
+      "gloss": "кеңеш кылды"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "сага каршы"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Арам"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "жаман"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Эфрайим"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "жана ... уулу"
+    },
+    {
+      "surface": "רמליהו",
+      "gloss": "Ремалиянын"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "деп"
+    }
+  ],
+  "timestamp": "2026-10-05T14:10:26.606946200Z",
+  "model": "glm-5.3"
+}

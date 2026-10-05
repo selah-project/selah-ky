@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 43:13",
+  "book": "jeremiah",
+  "lang": "ky",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "тирөөчтөр",
+      "rationale": "מצבות — тик турган тирөөчтөр, мемориалдык таштар жана кумаралар; тигил же сөөк турат"
+    },
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "rationale": "салыштырма байламта кыргызча жөнөкөй ээлик конструкция менен берилди, өзүнчө сөз катары деле калды"
+    }
+  ],
+  "translation": "жана ал Мицрайим жериндеги Бейт-Шемештин тирөөчтөрүн ⟨את⟩ сындырат, жана Мицрайимдин кудайларынын үйлөрүн ⟨את⟩ отто өрттөйт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "f7bfefa2d4fcd9474f48cfeb5c333334ff515a4eef972d0ae15cd39c700da75c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/jeremiah\/43\/13-13.1791211711070.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושבר",
+      "gloss": "сындырат"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "тирөөчтөрүн"
+    },
+    {
+      "surface": "מצבות",
+      "gloss": "тирөөчтөрүн"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бейт-Шемештин"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "Бейт-Шемештин"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "эмне"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "жериндеги"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицрайим"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "жана ⟨את⟩",
+      "marks": "үйлөрүн"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "үйлөрүн"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "кудайларынын"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицрайимдин"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "өрттөйт"
+    },
+    {
+      "surface": "באש",
+      "gloss": "отто"
+    }
+  ],
+  "timestamp": "2026-10-05T14:48:31.071050166Z",
+  "model": "glm-5.3"
+}

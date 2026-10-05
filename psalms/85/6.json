@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 85:6",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 85,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "каар",
+      "rationale": "אף — тумшук, мурун; 'чуу' маанисинен каар"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לדר ודר",
+      "rationale": "Муунан муунга — кайталоо, риторикалык суроо"
+    },
+    {
+      "kind": "invitation",
+      "subject": "окурманга",
+      "rationale": "Суроо түрүндөгү тилек"
+    }
+  ],
+  "translation": "Түбөлүккө чейин Сен бизге ачууланасыңбы? Сенин каарың муунан муунга чейин созулабы?",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "9c504668f1ec6f906c0111504ba6a86c3b79b89e0ac4e761d44556398726e56f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/85\/5-8.1791216727087.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלעולם",
+      "gloss": "Түбөлүккө чейин"
+    },
+    {
+      "surface": "תאנף",
+      "gloss": "ачууланасыңбы"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "бизге"
+    },
+    {
+      "surface": "תמשך",
+      "gloss": "созулабы"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "Сенин каарың"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "муунан"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "муунга чейин"
+    }
+  ],
+  "timestamp": "2026-10-05T16:12:07.088464116Z",
+  "model": "glm-5.3"
+}

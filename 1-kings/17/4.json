@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 17:4",
+  "book": "1-kings",
+  "lang": "ky",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הערבבים",
+      "rationale": "ערבים — «каргактар» же Оребдер (адамдар, бир аттуу жашаган жер) деген эки окуу бар"
+    },
+    {
+      "kind": "you",
+      "subject": "Элияхуга",
+      "rationale": "Яхвенин сөзү Элияхуга түз кайрылуу"
+    }
+  ],
+  "translation": "Жана н distressенин суусунан ичесиң, жана ⟨את⟩ каргактарга сени ошол жерде багууну буйрудум.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "bdbf93178e807a081979c543dea798b3abe00eb771bbc55599859ae788ef2d11",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-kings\/17\/1-4.1791208406592.json",
+    "code": "641241cf-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "жана болот"
+    },
+    {
+      "surface": "מהנחל",
+      "gloss": "н суусунан"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "ичесиң"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "каргактар"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "каргактарга"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "буйрудум"
+    },
+    {
+      "surface": "לכלכלך",
+      "gloss": "сени багууну"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ошол жерде"
+    }
+  ],
+  "timestamp": "2026-10-05T13:53:26.593641050Z",
+  "model": "glm-5.3"
+}

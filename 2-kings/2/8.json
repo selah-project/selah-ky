@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 2:8",
+  "book": "2-kings",
+  "lang": "ky",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жамынгычын",
+      "rationale": "אדרת «кең, чоң жамынуу» — көп котормолор «жамынгыч\/маntle» деп алат."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הנה והנה",
+      "rationale": "«Бул жакка жана тигил жакка» — суунун экиге бөлүнүшүнүн ритмикалык кайталоосу."
+    }
+  ],
+  "translation": "Элияху ⟨את⟩ жамынгычын алып, түктөп бүктөдү да ⟨את⟩ сууга урду, суулар бул жакка жана тигил жакка бөлүндү, экөө кургак жер менен өтүштү.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "88f0fe0068bb156ab1f7f708bd0d8bec9551f84262d36e9c3e2e7d79489100e8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-kings\/2\/5-8.1791208664176.json",
+    "code": "641241cf-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "алып"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Элияху"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "жамынгычын"
+    },
+    {
+      "surface": "אדרתו",
+      "gloss": "жамынгычын"
+    },
+    {
+      "surface": "ויגלם",
+      "gloss": "түктөп бүктөдү"
+    },
+    {
+      "surface": "ויכה",
+      "gloss": "урду"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сууга"
+    },
+    {
+      "surface": "המים",
+      "gloss": "сууга"
+    },
+    {
+      "surface": "ויחצו",
+      "gloss": "бөлүндү"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "бул жакка"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "тигил жакка"
+    },
+    {
+      "surface": "ויעברו",
+      "gloss": "өтүштү"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "экөө"
+    },
+    {
+      "surface": "בחרבה",
+      "gloss": "кургак жер менен"
+    }
+  ],
+  "timestamp": "2026-10-05T13:57:44.178400386Z",
+  "model": "glm-5.3"
+}

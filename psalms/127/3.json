@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 127:3",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 127,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "сыйлык",
+      "rationale": "שכר — эмгек акы, сыйакы; «сыйлык» жакын маани"
+    }
+  ],
+  "translation": "Кароосуңар — уулдар Яхвенин мурасы, карындын жеми — сыйлык.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "de412493409e720eff8a200f3e3609ca19b3017ea76b09f2866818b55f730a05",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/127\/1-4.1791217455328.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "кароосуңар"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "мурасы"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "уулдар"
+    },
+    {
+      "surface": "שכр",
+      "gloss": "сыйлык"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "жеми"
+    },
+    {
+      "surface": "הבטן",
+      "gloss": "карындын"
+    }
+  ],
+  "timestamp": "2026-10-05T16:24:15.329062434Z",
+  "model": "glm-5.3"
+}

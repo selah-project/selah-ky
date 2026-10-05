@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 15:3",
+  "book": "2-samuel",
+  "lang": "ky",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מי לא ישמע",
+      "rationale": "КЖВ «падыша койгон adam жок» деп кошумча адам кошот; еврейче сөзмө-сөз «падыша тараптан угуучу жок»."
+    }
+  ],
+  "translation": "Жана Авшалом ага айтуучу: «Кара, сөздөрүң жакшы жана туура, бирок падышадан ⟨את⟩ саға угуучу жок.»",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "201f4dd1f5cdecb50786c1c5aaef4ab79a5359058b0639d0182326c31740a719",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-samuel\/15\/1-4.1791207692522.json",
+    "code": "641241cf-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "айтуучу"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ага"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Авшалом"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Кара"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "сөздөрүң"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "жакшы"
+    },
+    {
+      "surface": "ונכחים",
+      "gloss": "жана туура"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "угуучу"
+    },
+    {
+      "surface": "אין",
+      "gloss": "жок"
+    },
+    {
+      "surface": "לך",
+      "gloss": "саға"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "падыша (падышадан)"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "падышадан"
+    }
+  ],
+  "timestamp": "2026-10-05T13:41:32.524144376Z",
+  "model": "glm-5.3"
+}

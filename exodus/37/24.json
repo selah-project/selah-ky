@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 37:24",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "бир кикар",
+      "rationale": "Салмак чени — кикар (талант) — сандык мааниде сакталды."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ככר",
+      "rationale": "Оригинал чыраккардын өзүн эмес, анын салмагын көрсөтөт: «бир кикар … аны жасады» — еврей синтаксиси кыргызча түшүнүксүз калбашы үчүн сакталды."
+    }
+  ],
+  "translation": "Бир кикар таза алтындан ал ⟨את⟩ аны жасады жана ⟨את⟩ анын бүт идиштерин.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "5de330ab2801f7d4e32771dcbbfeda9d9c7708b587a91e03d35340baff3e6ebf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/37\/21-24.1791202675033.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ככר",
+      "gloss": "бир кикар"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "алтын"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "таза"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ал жасады"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "аны (чыраккар)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "жана ⟨את⟩",
+      "marks": "анын бүт идиштерин"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүт"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "анын идиштери"
+    }
+  ],
+  "timestamp": "2026-10-05T12:17:55.034893645Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "numbers 7:51",
+  "book": "numbers",
+  "lang": "ky",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "малдын уулу",
+      "rationale": "בן בקер — букв. «сын скота»; идиома годовалого животного, передана по букве."
+    },
+    {
+      "kind": "substitution",
+      "subject": "өрттөлүүчү курман",
+      "rationale": "עלה — всесожжение, «восходящее»; передано описательно."
+    },
+    {
+      "kind": "measurement",
+      "subject": "возраст животных",
+      "rationale": "Указан возраст жертвы — один год."
+    }
+  ],
+  "translation": "Бир букача, малдын уулу, бир кожучо, бир козу, бир жаштагы, өрттөлүүчү курман үчүн.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "cbe7fbb53bdad4e20700f50255b0da7a6a95aee75874419cd2523d1ba50c3301",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/numbers\/7\/49-52.1791203697576.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "букача"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бир"
+    },
+    {
+      "surface": "בן",
+      "gloss": "уулу"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "малдын"
+    },
+    {
+      "surface": "איל",
+      "gloss": "кожучо"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бир"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "козу"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бир"
+    },
+    {
+      "surface": "בן",
+      "gloss": "бир жаштагы"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "жылдын"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "өрттөлүүчү курман үчүн"
+    }
+  ],
+  "timestamp": "2026-10-05T12:34:57.577400014Z",
+  "model": "glm-5.3"
+}

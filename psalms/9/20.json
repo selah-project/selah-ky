@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 9:20",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Яхвеге",
+      "rationale": "Тилек-жалбаруу түрүндөгү тикелей кайрылуу: «Тур, Яхве!»"
+    },
+    {
+      "kind": "substitution",
+      "subject": "өлүмдүү адам",
+      "rationale": "אנוש — өлгөн жаныбар адамзат, «адам» дегенден да начарыраак мааниде"
+    }
+  ],
+  "translation": "Тур, Яхве! Өлүмдүү адам күч албасын; элдер Сенин жүзүңдө сотулсун.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "6d169e08854ce46b48219aa2f366c51afa82a04bb806e78a6c9cd1e8f81671fb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/9\/17-20.1791215460369.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Тур"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "жок"
+    },
+    {
+      "surface": "יעז",
+      "gloss": "күч албасын"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "өлүмдүү адам"
+    },
+    {
+      "surface": "ישפטו",
+      "gloss": "сотулсун"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "элдер"
+    },
+    {
+      "surface": "על",
+      "gloss": "—"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "Сенин жүзүңдө"
+    }
+  ],
+  "timestamp": "2026-10-05T15:51:00.369964593Z",
+  "model": "glm-5.3"
+}

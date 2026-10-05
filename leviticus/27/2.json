@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 27:2",
+  "book": "leviticus",
+  "lang": "ky",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יפלא",
+      "rationale": "'өзгөчө\/ажайып кылсы' (KJV 'singular') же 'толук аткарсы' (ASV 'accomplish') же 'ачык айтсы' (JPS 'clearly utter')"
+    },
+    {
+      "kind": "substitution",
+      "subject": "нефештер",
+      "rationale": "נפש — 'жан' эмес, дем алуучу жандык\/жашаа күчү; бул жерде баалуу адам"
+    },
+    {
+      "kind": "measurement",
+      "subject": "баалоо",
+      "rationale": "адамдардын баасы шекел менен белгиленет — ырхар бөлүмдүн өзөгү"
+    }
+  ],
+  "translation": "Йисраэлдин уулдарына сүйлө жана аларга айт: адам качан антты өзгөчө убадасын берсе, нефештерди баалооң менен Яхвеге, — <адам Яхвеге ант берсе>",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "90e56843ecb0c47becab063a7bec26f525d4fbc7c1b8aa26a2205ef4c88c0b44",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/27\/1-4.1791203503440.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "сүйлө"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…га"
+    },
+    {
+      "surface": "בני",
+      "gloss": "уулдарына"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэлдин"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "жана айт"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "аларга"
+    },
+    {
+      "surface": "איש",
+      "gloss": "адам"
+    },
+    {
+      "surface": "כי",
+      "gloss": "качан"
+    },
+    {
+      "surface": "יפלא",
+      "gloss": "өзгөчө ант берсе"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "ант"
+    },
+    {
+      "surface": "בערכך",
+      "gloss": "баалооң менен"
+    },
+    {
+      "surface": "נפשת",
+      "gloss": "нефештерди"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхвеге"
+    }
+  ],
+  "timestamp": "2026-10-05T12:31:43.441666376Z",
+  "model": "glm-5.3"
+}

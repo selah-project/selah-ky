@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 11:5",
+  "book": "2-samuel",
+  "lang": "ky",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "кабарчы",
+      "rationale": "Ивритте «ал жөнөттү жана билдирди» — ким жөнөтүлгөнү айтылбайт, «жөнөттү» гана."
+    },
+    {
+      "kind": "alternative",
+      "subject": "бойдон калдым",
+      "rationale": "הרה אנכי сөзмө-сөз «бойдон менмин» — кыргызча этиш формасы менен берилди."
+    }
+  ],
+  "translation": "Аял бойдон калды, ал кабарчы жөнөтүп, Давидге билдирип айтты: «Мен бойдон калдым».",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "a2c575487de200cd410a976549c0616e89e0d2e633f2c25212900018da4f0dd5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-samuel\/11\/5-8.1791207551506.json",
+    "code": "641241cf-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "бойдон калды"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "аял"
+    },
+    {
+      "surface": "ותשלח",
+      "gloss": "жөнөттү"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "билдирип"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давидге"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "הרה",
+      "gloss": "бойдон"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "мен"
+    }
+  ],
+  "timestamp": "2026-10-05T13:39:11.507168496Z",
+  "model": "glm-5.3"
+}

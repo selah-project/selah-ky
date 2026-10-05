@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "leviticus 25:51",
+  "book": "leviticus",
+  "lang": "ky",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "לפיהן",
+      "rationale": "«алардын оозу боюнча» — «жылдардын санына жараша» деген иврит ыкмасы; кыргызча «боюнча» менен берилди"
+    },
+    {
+      "kind": "measurement",
+      "subject": "куткарылуу акысы",
+      "rationale": "төлөм калган жылдарга пропорционалдуу эсептелет"
+    }
+  ],
+  "translation": "Эгер жылдар дагы көп болсо, алардын оозу боюнча өзүнүн куткарылуу акысын сатып алынган күмүшүнөн кайтарсын.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "125238ef727bdb1afe699b3eac5f861741687a04759881d9709f19a8507537f6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/25\/49-52.1791203440114.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "эгер"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "дагы"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "көп"
+    },
+    {
+      "surface": "בשנים",
+      "gloss": "жылдар"
+    },
+    {
+      "surface": "лфихэн",
+      "gloss": "алардын оозу боюнча"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "кайтарсын"
+    },
+    {
+      "surface": "גאלתו",
+      "gloss": "куткарылуу акысын"
+    },
+    {
+      "surface": "מכסף",
+      "gloss": "күмүшүнөн"
+    },
+    {
+      "surface": "мкнатв",
+      "gloss": "сатып алынганынын"
+    }
+  ],
+  "timestamp": "2026-10-05T12:30:40.115045963Z",
+  "model": "glm-5.3"
+}

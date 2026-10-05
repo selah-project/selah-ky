@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "micah 7:1",
+  "book": "micah",
+  "lang": "ky",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жаным",
+      "rationale": "נפש — дем алуучу жандык, жүрөк-каалоо; 'жан' кыргызча эң жакын эквивалент"
+    },
+    {
+      "kind": "hapax",
+      "subject": "כעללת",
+      "rationale": "'калдык чогултулган' — Танахта сейрек кездешкен сөз"
+    }
+  ],
+  "translation": "Оо, далым! Анткени мен жайгы жыйындарга окшоп калдым, жүзүм түшүмүнүн чогултулган калдыктарына окшоп калдым: жеге турган бир да чачыр жок, жаным алгачкы курма жемишин каалап турат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "9badb260bcd3b8e3c6fcd0de0c4dd2696b8c5d26fea218d9ab04be40e79888d6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/micah\/7\/1-4.1791214683771.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אללי",
+      "gloss": "Оо, далым"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мен"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "болдум"
+    },
+    {
+      "surface": "כאספי",
+      "gloss": "жыйындарга окшоп"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "жайгы"
+    },
+    {
+      "surface": "כעללת",
+      "gloss": "калдыктарына окшоп"
+    },
+    {
+      "surface": "בציר",
+      "gloss": "жүзүм түшүмүнүн"
+    },
+    {
+      "surface": "אין",
+      "gloss": "жок"
+    },
+    {
+      "surface": "אשכול",
+      "gloss": "чачыр"
+    },
+    {
+      "surface": "לאכול",
+      "gloss": "жеге турган"
+    },
+    {
+      "surface": "בכורה",
+      "gloss": "алгачкы курма жемишин"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "каалап"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "жаным"
+    }
+  ],
+  "timestamp": "2026-10-05T15:38:03.771954804Z",
+  "model": "glm-5.3"
+}

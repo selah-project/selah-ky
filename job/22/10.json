@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 22:10",
+  "book": "job",
+  "lang": "ky",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "פחים \/ פחד",
+      "rationale": "пах (тор) жана пахад (коркуу) жакын үндөш — кыргызча жоголду"
+    },
+    {
+      "kind": "addition",
+      "subject": "келген",
+      "rationale": "Ивритте жок, кыргыз сүйлөмү үчүн кошулду"
+    }
+  ],
+  "translation": "Ошондуктан сени айланаңда тормолор курчайт, жана капысынан келген коркунуч сени чочитут.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "d01e6bc1e0bab6467131e7d87dc627bb025d9f844b0fdaa1e6f12a788e0889c3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/job\/22\/9-12.1791218996644.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ошондуктан"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ошондуктан"
+    },
+    {
+      "surface": "סביבותיך",
+      "gloss": "айланаңда"
+    },
+    {
+      "surface": "פחים",
+      "gloss": "тормолор"
+    },
+    {
+      "surface": "ויבהלך",
+      "gloss": "жана сени чочитут"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "коркунуч"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "капысынан"
+    }
+  ],
+  "timestamp": "2026-10-05T16:49:56.645182021Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "ezekiel 18:27",
+  "book": "ezekiel",
+  "lang": "ky",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נפש",
+      "rationale": "«Жан» — нефеш дем\/жашоо күчү; «кан-жан» эмес."
+    },
+    {
+      "kind": "substitution",
+      "subject": "צדקה",
+      "rationale": "D2 боюнча «цедек» которулбайт."
+    }
+  ],
+  "translation": "Ал эми жаман адам өзү жасаган жамандыгынан бурулуп, өкүм жана цедек кылганда, ал ⟨את⟩ өз жанын тирүү кылат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "864b819036b539c4b0bb4dee775955bcb51c34b789c2b2763f92bf39bcba4473",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ezekiel\/18\/25-28.1791212571492.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובשוב",
+      "gloss": "ал эми бурулганда"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "жаман адам"
+    },
+    {
+      "surface": "מרשעתו",
+      "gloss": "өз жамандыгынан"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "өзү"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "жасаган"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "жана кылганда"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "өкүм"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "жана цедек"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ал"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "өз жанын"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "өз жанын"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "тирүү кылат"
+    }
+  ],
+  "timestamp": "2026-10-05T15:02:51.493077023Z",
+  "model": "glm-5.3"
+}

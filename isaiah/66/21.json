@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 66:21",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 66,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "когендер",
+      "rationale": "כהנים — ыйык кызмат кылуучулар; «диний кызматкер» деп жумшартылбай, еврейче айтылыш кармалды"
+    }
+  ],
+  "translation": "Жана алардан да Мен когендерге да, левилерге да аламын, — дейт Яхве.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "c7cb31dee7c5e9cb74f5df22e3b64dab2f239bdf6478085968ff9012172b26d0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/66\/21-24.1791210634099.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "жана да"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "алардан"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "Мен аламын"
+    },
+    {
+      "surface": "לכהנים",
+      "gloss": "когендерге"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "левилерге"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "дейт"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-10-05T14:30:34.100030142Z",
+  "model": "glm-5.3"
+}

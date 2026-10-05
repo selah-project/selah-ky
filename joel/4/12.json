@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joel 4:12",
+  "book": "joel",
+  "lang": "ky",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "Йегошафат",
+      "rationale": "Ысым «Яхве сот чыгат» дегенди билдирет — өрөөйдүн аты аяттын сот темасы менен ойнотойт"
+    },
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "gloss_placeholder": null,
+      "rationale": "בлагодаря «өрөөнүнө» датышы אל предлогу кыргызча жок эле берилди"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨мен⟩ жок",
+      "rationale": "אשב жеке формада — «отурам», кыргызча так формада кошумчаatron керек эмес"
+    }
+  ],
+  "translation": "Ойгонушсун жана чыксын элдер Йегошафат өрөөнүнө, анткени ал жерде отурам ⟨את⟩ бардык элдерди айланадан соттош үчүн.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "0997044e2f77a740ce21012aa8c88b8e0770f48280e91573ed9e7b6531fd3d9c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/joel\/4\/9-12.1791214147780.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יעורו",
+      "gloss": "Ойгонушсун"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "жана чыксын"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "элдер"
+    },
+    {
+      "surface": "אל",
+      "gloss": "өрөөнүнө — жакын"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "өрөөнүнө"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Йегошафат"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ал жерде"
+    },
+    {
+      "surface": "אשב",
+      "gloss": "отурам"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "соттош үчүн"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "бардык элдерди"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бардык"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "элдерди"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "айланадан"
+    }
+  ],
+  "timestamp": "2026-10-05T15:29:07.782006473Z",
+  "model": "glm-5.3"
+}

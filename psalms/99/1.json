@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 99:1",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 99,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Отурган",
+      "rationale": "יֹשֵב כְּרוּבִים — 'херувимдерди отурган', так орун көрсөтүлгөн жок: 'үстүндө', 'арасында' деген жок"
+    }
+  ],
+  "translation": "Яхве падыша болду — элдер калтырайт; херувимдерди Отурган — жер титирейт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "26528d91dd57b87863a3560a2ea61d7f173173cd0977bfa23dac6782166b6cee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/99\/1-4.1791217002723.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "падыша болду"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "калтырайт"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "элдер"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "Отурган"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "херувимдерди"
+    },
+    {
+      "surface": "תנוט",
+      "gloss": "титирейт"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "жер"
+    }
+  ],
+  "timestamp": "2026-10-05T16:16:42.724287249Z",
+  "model": "glm-5.3"
+}

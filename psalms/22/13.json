@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 22:13",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "күчтүү букалары",
+      "rationale": "אַבִּירֵי — 'күчтүүлөрү'; 'бука' сөзү тексте жок, котормо толуктук үчүн кошулду"
+    },
+    {
+      "kind": "addition",
+      "subject": "тегиз",
+      "rationale": "כִּתְּרוּנִי — 'курчап алды'; түшүнүктүү болушу үчүн 'тегиз' кошулду"
+    }
+  ],
+  "translation": "Мени көп букалар курчап алды, Башандын күчтүү букалары мени тегиз курчашты.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "91233f5f52ffdf9ce5a2a3268ee7b28cec21719b3776c1eb5cb7f68dec3f8a7f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/22\/13-16.1791215596922.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "סבבוני",
+      "gloss": "курчап алды"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "букалар"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "көп"
+    },
+    {
+      "surface": "אבירי",
+      "gloss": "күчтүү букалары"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "Башандын"
+    },
+    {
+      "surface": "כתרוני",
+      "gloss": "тегиз курчашты"
+    }
+  ],
+  "timestamp": "2026-10-05T15:53:16.922875884Z",
+  "model": "glm-5.3"
+}

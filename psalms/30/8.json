@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 30:8",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Яхвеге",
+      "rationale": "Тикелей кайрылуу — жалынуу маанисиндеги сүйлөм"
+    },
+    {
+      "kind": "idiom",
+      "subject": "жүзүңдү жашырдың",
+      "rationale": "סתר פנים — 'жүздү жашыруу' = жардамды токтотуу, боор оорутуу идиомасы"
+    },
+    {
+      "kind": "crux",
+      "subject": "тоомду күч катары",
+      "rationale": "להררי עז: 'күчтүү тоом' (жандык сын-аташка бириккен) же 'тоомду күчкө тургуздуң' — котормолор эки жол чечишет"
+    }
+  ],
+  "translation": "Яхве, ыраазылыгың менен менин тоомду күч катары тургуздуң; жүзүңдү жашырдың — мен коркуп калдым.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "be439b2a2394964e15424f73588b6afeeaa0184dc5e37e18041eb4262de767e9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/30\/5-8.1791215751187.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ברצונך",
+      "gloss": "ыраазылыгың менен"
+    },
+    {
+      "surface": "העמדתה",
+      "gloss": "тургуздуң"
+    },
+    {
+      "surface": "להררי",
+      "gloss": "менин тоомду"
+    },
+    {
+      "surface": "עז",
+      "gloss": "күч"
+    },
+    {
+      "surface": "הסתרת",
+      "gloss": "жашырдың"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "жүзүңдү"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "болдум"
+    },
+    {
+      "surface": "נבхל",
+      "gloss": "коркуп"
+    }
+  ],
+  "timestamp": "2026-10-05T15:55:51.188674345Z",
+  "model": "glm-5.3"
+}

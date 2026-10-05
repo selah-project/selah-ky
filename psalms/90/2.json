@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 90:2",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 90,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "עולם",
+      "rationale": "«жашыруун, көзгө көрүнбөгөн чек» мааниси — кыргызча «чек» деп берилди, «түбөлүк» деген салттуу котормо сөздүн жашыруун жагын жоготот"
+    },
+    {
+      "kind": "addition",
+      "subject": "Элсң",
+      "rationale": "Копула кыргыз тилинде талап кылынат, еврейче жок"
+    }
+  ],
+  "translation": "Тоолор жаралмайча, жер менен дүйнөнү Сен жаратмай турганда, — ал тургай, алгачкы чектен акыркы чекке чейин Сен Элсң.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "793b4dff5a195143da8df587045aa4146363998a898bd36a7177264be70aa5d5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/90\/1-4.1791216874008.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "жаралмайча"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "тоолор"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "жаралмай"
+    },
+    {
+      "surface": "ותחולל",
+      "gloss": "Сен жаратмай"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "жер"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "дүйнөнү"
+    },
+    {
+      "surface": "ומעולם",
+      "gloss": "алгачкы чектен"
+    },
+    {
+      "surface": "עד",
+      "gloss": "чейин"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "акыркы чекке"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Сен"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Элсң"
+    }
+  ],
+  "timestamp": "2026-10-05T16:14:34.009511102Z",
+  "model": "glm-5.3"
+}

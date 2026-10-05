@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 3:10",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨жакшы болот⟩",
+      "rationale": "Еврейче «анткени жакшы» — кыргызча толук сүйлөм үчүн «болот» этиши кошулду."
+    },
+    {
+      "kind": "invitation",
+      "subject": "адил адамга айтыңар",
+      "rationale": "Буйрук менен кабар айтуу чакырыгы — угуучуга багытталган."
+    }
+  ],
+  "translation": "Адил адамга айтыңар: анткени ⟨жакшы болот⟩, анткени алар өз иштеринин жемишин жешет.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "f04059f1fdd7e48758f0f1a904ed5bfa8c29321e07d2e080d3d8420431c0c026",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/3\/9-12.1791209353139.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "айтыңар"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "адил адамга"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "жакшы"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "жемишин"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "өз иштеринин"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "жешет"
+    }
+  ],
+  "timestamp": "2026-10-05T14:09:13.140421256Z",
+  "model": "glm-5.3"
+}

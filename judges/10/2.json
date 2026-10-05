@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 10:2",
+  "book": "judges",
+  "lang": "ky",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "жыйырма үч жыл",
+      "rationale": "Судьянын мөөнөтү саналып берилген"
+    },
+    {
+      "kind": "substitution",
+      "subject": "соттоду",
+      "rationale": "וישפט — «өкүм чыгарды, башкарды»; сот функциясы да, башкаруу да камтыйт"
+    }
+  ],
+  "translation": "Жана ал ⟨את⟩ Йисраэлди жыйырма үч жыл соттоду, ал жана ал өлдү жана Шамирде көмүлдү.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "8d3d8e9f0a93fc93f8448a309420acab9d42062b1dccfceb29f8307fc337d9cc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/judges\/10\/1-4.1791206284569.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "соттоду"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Йисраэлди"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэлди"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "жыйырма"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "үч"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "жыл"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "өлдү"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "көмүлдү"
+    },
+    {
+      "surface": "בשמיר",
+      "gloss": "Шамирде"
+    }
+  ],
+  "timestamp": "2026-10-05T13:18:04.571129199Z",
+  "model": "glm-5.3"
+}

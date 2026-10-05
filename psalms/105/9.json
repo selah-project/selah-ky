@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 105:9",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כרת ברית",
+      "rationale": "келишим 'кесүү' — еврей идиомасы, кыргызча 'кесип жасоо' деп берилди"
+    },
+    {
+      "kind": "addition",
+      "subject": "менен",
+      "rationale": "עם предлогу 'менен' кыргызча кошулду"
+    }
+  ],
+  "translation": "Аны ⟨את⟩ Аврахам менен кесип, Йицхакка берген антты кылды.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "281b702be77580cfef6a9e9522809a895b22fdd38e94667581fa73996f316440",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/105\/9-12.1791217066956.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "аны"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "кесип жасады"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Аврахам"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Аврахам"
+    },
+    {
+      "surface": "ושבועתו",
+      "gloss": "антын"
+    },
+    {
+      "surface": "לישחק",
+      "gloss": "Йицхакка"
+    }
+  ],
+  "timestamp": "2026-10-05T16:17:46.958367157Z",
+  "model": "glm-5.3"
+}

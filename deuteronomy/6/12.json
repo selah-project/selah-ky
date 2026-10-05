@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 6:12",
+  "book": "deuteronomy",
+  "lang": "ky",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "השמר לך",
+      "rationale": "'Өзүңдү сакта' — дайыма 'көз сал, сак бол' маанисинде"
+    },
+    {
+      "kind": "you",
+      "subject": "Израилге",
+      "rationale": "Моше элге багытталган насияттын бир бөлүгү"
+    }
+  ],
+  "translation": "Өзүңө көз салуу — ⟨את⟩ Яхвени, сени Мицрайим жеринен, кулдар үйүнөн чыгарган ⟨Аны⟩ унутуп койбо.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "d7fb53a9cfb304c68e6e3cd85885b49b85e4abe1083bee400de1bdf009fbcba4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/6\/9-12.1791204756183.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "көз салуу"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Өзүңө"
+    },
+    {
+      "surface": "פן",
+      "gloss": "унутуп койбо"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "куют"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яхвени"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвени"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "чыгарган"
+    },
+    {
+      "surface": "הוציאך",
+      "gloss": "сени"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "жеринен"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицрайим"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "үйүнөн"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "кулдар"
+    }
+  ],
+  "timestamp": "2026-10-05T12:52:36.184148922Z",
+  "model": "glm-5.3"
+}

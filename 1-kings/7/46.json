@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "1-kings 7:46",
+  "book": "1-kings",
+  "lang": "ky",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "түздүк",
+      "rationale": "ככר — «айланта регион, тегерек жер»; «түздүк» деген кеңири кабыл алынган окуу."
+    },
+    {
+      "kind": "measurement",
+      "subject": "куйма",
+      "rationale": "Куйма жүргүзүү ыкмасы жана жайгашкан жери так көрсөтүлгөн."
+    }
+  ],
+  "translation": "Йарден түздүгүндө падыша аларды коюу балчык жерде, Суккот менен Цартандын ортосунда куйду.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "e37e82ddb65e1edc857f1135bbfd15ec1823c18704badbdedfd2c92f254da591",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-kings\/7\/45-48.1791208099785.json",
+    "code": "641241cf-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בככר",
+      "gloss": "түздүгүндө"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Йарден"
+    },
+    {
+      "surface": "יצקם",
+      "gloss": "аларды куйду"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "падыша"
+    },
+    {
+      "surface": "במעבה",
+      "gloss": "коюу балчык жерде"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "жер"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ортосунда"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Суккот"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "менен"
+    },
+    {
+      "surface": "צרתן",
+      "gloss": "Цартандын"
+    }
+  ],
+  "timestamp": "2026-10-05T13:48:19.786871996Z",
+  "model": "glm-5.3"
+}

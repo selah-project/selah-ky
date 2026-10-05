@@ -1,0 +1,152 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-samuel 3:35",
+  "book": "2-samuel",
+  "lang": "ky",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "Такай Элохим мага кылсын жана дагы кошсун",
+      "rationale": "ант формуласы: 'Элохим мага мындай кылсын жана дагы' — күнөөгө буйругу жок, өзүнө каргыш"
+    },
+    {
+      "kind": "elision",
+      "subject": "כי אם",
+      "rationale": "терс шарттык 'анткени … гана' бир айтымга бириктирилди"
+    },
+    {
+      "kind": "measurement",
+      "subject": "күн киргенче",
+      "rationale": "убакыт ченеми — күн батууга чейин"
+    }
+  ],
+  "translation": "Жана бүт эл күн бүтө электе Давидге ⟨את⟩ нан берүү үчүн келди, жана Давид ант берип айтты: Такай Элохим мага кылсын жана дагы кошсун, анткени күн киргенче нан же башка эч нерсе даам албайм.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "a59ff693caf11e6db52981e5a205b067d9fa7fd70b1a59fd06009a7d568bf9c3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-samuel\/3\/33-36.1791207399501.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "жана келди"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүт"
+    },
+    {
+      "surface": "העם",
+      "gloss": "эл"
+    },
+    {
+      "surface": "להברות",
+      "gloss": "берүү үчүн"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Давид"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давидге"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "нан"
+    },
+    {
+      "surface": "בעוד",
+      "gloss": "бүтө электе"
+    },
+    {
+      "surface": "היום",
+      "gloss": "күн"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "жана ант берип"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "כה",
+      "gloss": "такай"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "кылсын"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мага"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "жана дагы ошондой"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "кошсун"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "אם",
+      "gloss": "…гана"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "киргенче"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "кирүү"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "күн"
+    },
+    {
+      "surface": "אטעם",
+      "gloss": "даам албайм"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "нан"
+    },
+    {
+      "surface": "או",
+      "gloss": "же"
+    },
+    {
+      "surface": "כל",
+      "gloss": "эч"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "нерсе"
+    }
+  ],
+  "timestamp": "2026-10-05T13:36:39.502054212Z",
+  "model": "glm-5.3"
+}

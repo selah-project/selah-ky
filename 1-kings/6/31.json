@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-kings 6:31",
+  "book": "1-kings",
+  "lang": "ky",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חמשית",
+      "rationale": "«бешинчи үлүш» (KJV, ASV: дубалдын бештен бири) менен JPS «беш бурчтуу» деген варианттар бар"
+    },
+    {
+      "kind": "measurement",
+      "subject": "бешинчи үлүш",
+      "rationale": "ыйык жайдын өлчөмү көрсөтүлүүдө"
+    },
+    {
+      "kind": "crux",
+      "subject": "האיל",
+      "rationale": "«аян\/дубалдын бети» деген сөз — KJV «lintel» (үстүңкү босого), башка окууда дубалдын бети"
+    }
+  ],
+  "translation": "Жана Дебирдин ⟨את⟩ кире беришине зайтун дарактарынын эшиктерин жасады; аян, босоголор — бешинчи үлүш.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "ac5cf8b2848c90719680f6728c26fa3869a578a66c83d2d79fd353a834006aeb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-kings\/6\/30-31.1791223920391.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "кире беришине"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "кире бериши"
+    },
+    {
+      "surface": "הדביר",
+      "gloss": "Дебирдин"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "жасады"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "эшиктерин"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "дарактарынын"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "зайтун"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "аян"
+    },
+    {
+      "surface": "מזוזות",
+      "gloss": "босоголор"
+    },
+    {
+      "surface": "חמשית",
+      "gloss": "бешинчи үлүш"
+    }
+  ],
+  "timestamp": "2026-10-05T18:12:00.392545472Z",
+  "model": "glm-5.3"
+}

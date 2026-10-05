@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 22:15",
+  "book": "2-kings",
+  "lang": "ky",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "падышанын элчилерине",
+      "rationale": "Хулданын сөзү падышанын жиберген адамдарына багытталган"
+    },
+    {
+      "kind": "substitution",
+      "subject": "адамга",
+      "rationale": "האיש «ал адам» — падыша Йошийа, бирок текст аны атынан атабайт"
+    }
+  ],
+  "translation": "Аларга айтты: «Яхве, Йисраэлдин Элохими мындай дейт: ⟨את⟩ силерди менин алдыма жиберген адамга айткыла",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "bcf8ea03a4703de88b9f98c2e660a6bcbb694ce4e748ede8e85f7372ac4f5f4a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-kings\/22\/13-16.1791209274345.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "аларга"
+    },
+    {
+      "surface": "כה",
+      "gloss": "мындай"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "дейт"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Элохими"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэлдин"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "айткыла"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "адамга"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ал"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "жиберген"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ силерди"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "менин алдыма"
+    }
+  ],
+  "timestamp": "2026-10-05T14:07:54.346495848Z",
+  "model": "glm-5.3"
+}

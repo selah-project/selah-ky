@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 59:13",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 59,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "айтып жүрүшөт",
+      "rationale": "יספרו 'кайталоо\/санап чыгуу' маанисинде да түшүнүлөт — KJV 'which they speak' эмес, 'кайталашат'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חטאת פימו \/ דבר שפתימו",
+      "rationale": "ооз менен эриндин параллелизмасы — кыргызча экөө тең сакталды."
+    }
+  ],
+  "translation": "Оозунун күнөөсү — эриндеринин сөзү, жана алар текеберлигинде кармалсын; жана каргыштан жана жалгандан айтып жүрүшөт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "e03e5fa4b70d4e07c8c3106023c1b168d6f78f5a300c5a8f807041aaf89399e3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/59\/13-16.1791216285196.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חטאת",
+      "gloss": "күнөө"
+    },
+    {
+      "surface": "פימו",
+      "gloss": "оозунун"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сөзү"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "эриндеринин"
+    },
+    {
+      "surface": "וילכדו",
+      "gloss": "жана кармалсын"
+    },
+    {
+      "surface": "בגאונם",
+      "gloss": "текеберлигинде"
+    },
+    {
+      "surface": "ומאלה",
+      "gloss": "жана каргыштан"
+    },
+    {
+      "surface": "ומכחש",
+      "gloss": "жана жалгандан"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "айтып жүрүшөт"
+    }
+  ],
+  "timestamp": "2026-10-05T16:04:45.197409986Z",
+  "model": "glm-5.3"
+}

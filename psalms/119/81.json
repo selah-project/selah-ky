@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 81,
+  "ref": "psalms 119:81",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жаным",
+      "rationale": "נפש — дем алуучу жандык, жүрөк-тамак-жан Miami; 'жан' кеңири кабыл алынганча"
+    },
+    {
+      "kind": "crux",
+      "subject": "түгөндү",
+      "rationale": "כלה: 'бүттү\/түгөндү' же 'алсырады' — KJV 'fainteth', YLT 'Consumed'"
+    },
+    {
+      "kind": "you",
+      "subject": "Яхвеге",
+      "rationale": "ачык адрес — псаломчу Яхвеге сүйлөйт"
+    }
+  ],
+  "translation": "Сенин куткарууңа жаным түгөндү, Сенин сөзүңдө үмүт кылдым.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "d168adea9ed75b492c59f10eb05578a21f3c3ea66b24f0301db99853722ee7fe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/119\/81-84.1791217372813.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כלתה",
+      "gloss": "түгөндү"
+    },
+    {
+      "surface": "לתשועתך",
+      "gloss": "куткарууңа"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "жаным"
+    },
+    {
+      "surface": "לדברך",
+      "gloss": "сөзүңдө"
+    },
+    {
+      "surface": "יחלתי",
+      "gloss": "үмүт кылдым"
+    }
+  ],
+  "timestamp": "2026-10-05T16:22:52.814270946Z",
+  "model": "glm-5.3"
+}

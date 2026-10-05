@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 111:3",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 111,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "цедек",
+      "rationale": "צדקתו — 'адилеттиги' деп да болот, бир доктриналык документ боюнча 'цедек' сөзү катары калтырылды"
+    }
+  ],
+  "translation": "Анын ишинин урматы жана даңкы, жана анын цедеги түбөлүккө турат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "214c851a847b085d4938cf9420e56880088b55bcd38b91a349e9806e26cac0fc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/111\/1-4.1791217207175.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוד",
+      "gloss": "урматы"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "жана даңкы"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "ишинин"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "жана анын цедеги"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "турат"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "түбөлүккө"
+    }
+  ],
+  "timestamp": "2026-10-05T16:20:07.179586487Z",
+  "model": "glm-5.3"
+}

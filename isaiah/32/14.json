@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 32:14",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "табындар",
+      "rationale": "עדרים is muster\/herds (of animals); 'табын' (herd) keeps the pastoral picture of flocks replacing the city"
+    },
+    {
+      "kind": "measurement",
+      "subject": "עד עולם",
+      "rationale": "the desolation is measured out 'until forever' — an explicit duration"
+    }
+  ],
+  "translation": "Анткени сарай ташталат, шаардын ызы-чуусу калтырылат, дөбө жана текшерүү мунарасы үңкүргө айланат — түбөлүккө жапайы эшектердин кубанычы, табындардын жайыты болот.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "54a4ee93ff5d9edc23a90bf916d9c00ba12541e2f3e4a68dd9dc01f389597b7b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/32\/13-16.1791209875648.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "ארמון",
+      "gloss": "сарай"
+    },
+    {
+      "surface": "נטש",
+      "gloss": "ташталат"
+    },
+    {
+      "surface": "המון",
+      "gloss": "ызы-чуусу"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "шаардын"
+    },
+    {
+      "surface": "עזב",
+      "gloss": "калтырылат"
+    },
+    {
+      "surface": "עפל",
+      "gloss": "дөбө"
+    },
+    {
+      "surface": "ובחן",
+      "gloss": "жана текшерүү мунарасы"
+    },
+    {
+      "surface": "היה",
+      "gloss": "айланат"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "жайында"
+    },
+    {
+      "surface": "מערות",
+      "gloss": "үңкүргө"
+    },
+    {
+      "surface": "עד",
+      "gloss": "чейин"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "түбөлүккө"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "кубанычы"
+    },
+    {
+      "surface": "פראים",
+      "gloss": "жапайы эшектердин"
+    },
+    {
+      "surface": "מרעה",
+      "gloss": "жайыты"
+    },
+    {
+      "surface": "עדרים",
+      "gloss": "табындардын"
+    }
+  ],
+  "timestamp": "2026-10-05T14:17:55.649501788Z",
+  "model": "glm-5.3"
+}

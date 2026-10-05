@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 13:16",
+  "book": "deuteronomy",
+  "lang": "ky",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "кылычтын оозу менен",
+      "rationale": "לפי חרב букв. 'кылычтын оозу менен'; кыргызча 'кылычтын мизи менен' да болмок, бирок 'ооз' сөзү сакталды"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הכה תכה",
+      "rationale": "инфинитив + финит форма — 'сөзсүз саба' катары берилди, еврейче күчөтүү конструкциясы"
+    },
+    {
+      "kind": "elision",
+      "subject": "ההוא",
+      "gloss": "эмфаза бөлүкчөсү 'ошол' катары 'ал' менен берилди"
+    }
+  ],
+  "translation": "Ал шаардын турмуштууларын кылычтын оозу менен сөзсүз саба: аны херем кыл, жана ⟨את⟩ ичиндеги нерселердин баарын, жана ⟨את⟩ анын малдарын кылычтын оозу менен.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "906e0de4e30734d17b41cf2ef01c4fdd1c7b39fa8675759ef012f724707f41d5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/13\/16-16.1791223758843.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הכה",
+      "gloss": "саба"
+    },
+    {
+      "surface": "תכה",
+      "gloss": "сөзсүз саба"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "турмуштууларын"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "турмуштууларын"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "шаардын"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ал"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "оозу менен"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "кылычтын"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "херем кыл"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ аны"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "жана ⟨את⟩",
+      "marks": "баарын"
+    },
+    {
+      "surface": "כל",
+      "gloss": "баарын"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "нерселердин"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ичиндеги"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "жана ⟨את⟩",
+      "marks": "малдарын"
+    },
+    {
+      "surface": "בהמתה",
+      "gloss": "малдарын"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "оозу менен"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "кылычтын"
+    }
+  ],
+  "timestamp": "2026-10-05T18:09:18.844556223Z",
+  "model": "glm-5.3"
+}

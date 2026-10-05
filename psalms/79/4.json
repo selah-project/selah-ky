@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 79:4",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 79,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "лааг векелес",
+      "rationale": "«Шылдың жана күлкү» — эки бирдей маанидеги сөздөрдүн дал келүүсү, ритмдик кайталоо"
+    }
+  ],
+  "translation": "Биз кошуналарыбызга кордук, айланабыздагыларга шылдың жана күлкү болдук.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "cd81df0e54f4d266d36d3234b5ea3b932259dec5977cf30a68608337529de99c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/79\/1-4.1791216692630.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "היינו",
+      "gloss": "болдук"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "кордук"
+    },
+    {
+      "surface": "לשכנינו",
+      "gloss": "кошуналарыбызга"
+    },
+    {
+      "surface": "לעג",
+      "gloss": "шылдың"
+    },
+    {
+      "surface": "וקלס",
+      "gloss": "жана күлкү"
+    },
+    {
+      "surface": "לסביבותינו",
+      "gloss": "айланабыздагыларга"
+    }
+  ],
+  "timestamp": "2026-10-05T16:11:32.631983391Z",
+  "model": "glm-5.3"
+}

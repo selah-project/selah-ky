@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 37:17",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "бутагы",
+      "rationale": "ירכה сөзү букв. «сан», бул жерде меноранын пьедесталы-негизи"
+    },
+    {
+      "kind": "substitution",
+      "subject": "төгөрөктөрү",
+      "rationale": "כפתור — колонна капителина окшош оюлган айкел төгөрөк"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨чыккан⟩",
+      "rationale": "мמנה «андан» — бөлүк экени так болушу үчүн ачылды"
+    }
+  ],
+  "translation": "Жана ал ⟨את⟩ менораны таза алтындан жасады; чегип жасалма менораны ал жасады; анын бутагы, анын сабы, анын чөйчөктөрү, анын төгөрөктөрү жана анын гүлдөрү — алардан ⟨чыккан⟩ болчу.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "1be6a48f030e1765a42aa3f6ca55e68eba7fb9b4d199ca69f1ef9db5da16775b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/37\/17-20.1791202703320.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "жана ал жасады"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "менораны"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "менораны"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "алтындан"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "таза"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "чегип жасалма"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ал жасады"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "менораны"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "менораны"
+    },
+    {
+      "surface": "ירכה",
+      "gloss": "анын бутагы"
+    },
+    {
+      "surface": "וקנה",
+      "gloss": "жана анын сабы"
+    },
+    {
+      "surface": "גביעיה",
+      "gloss": "анын чөйчөктөрү"
+    },
+    {
+      "surface": "כפתריה",
+      "gloss": "анын төгөрөктөрү"
+    },
+    {
+      "surface": "ופרחיה",
+      "gloss": "жана анын гүлдөрү"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "алардан"
+    },
+    {
+      "surface": "היו",
+      "gloss": "болчу"
+    }
+  ],
+  "timestamp": "2026-10-05T12:18:23.321627142Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 20:4",
+  "book": "1-samuel",
+  "lang": "ky",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жаның",
+      "rationale": "נפש — дем алуучу жандык, каалоо\/тамакай маанисинде да; «жан» жакындатылган форма"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Йонатандын сунушу",
+      "rationale": "Давидтин каалоосун сураа — ачык чакыруу формасы"
+    }
+  ],
+  "translation": "Йонатан Давидге айтты: «Жаның эмне дейт — мен сен үчүн ошону кылам».",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "6d66e6609d243c353465cc473237776ac9c59b0fd7b2b14f5079b45416bfd90e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-samuel\/20\/1-4.1791207061677.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Йонатан"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Давидге"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "מה",
+      "gloss": "эмне"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "дейт"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "жаның"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "кылам"
+    },
+    {
+      "surface": "לך",
+      "gloss": "сен үчүн"
+    }
+  ],
+  "timestamp": "2026-10-05T13:31:01.679072353Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 13:3",
+  "book": "deuteronomy",
+  "lang": "ky",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "кудайлар",
+      "rationale": "אלהים אחרים — башка элдердин кудайлары, ошондуктан «кудайлар» кичине тамга менен, «Элохим» эмес"
+    }
+  ],
+  "translation": "Жана ал сага сүйлөгөн белги жана керемет келсе: «Баралы башка кудайлардын артынан — аларды билбеген — жана аларга кызмат кылалы» деп,",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "542fd8d0522e6009e64564577275be6afd7271017da2e841f66b82c3b01a45e9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/13\/1-4.1791205046399.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "жана келсе"
+    },
+    {
+      "surface": "האות",
+      "gloss": "белги"
+    },
+    {
+      "surface": "והמופת",
+      "gloss": "жана керемет"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ал"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сүйлөгөн"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "сага"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "деп"
+    },
+    {
+      "surface": "נלכה",
+      "gloss": "баралы"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "артынан"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "кудайлардын"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "башка"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "аларды"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "билбеген"
+    },
+    {
+      "surface": "ונעבדם",
+      "gloss": "жана аларга кызмат кылалы"
+    }
+  ],
+  "timestamp": "2026-10-05T12:57:26.400874685Z",
+  "model": "glm-5.3"
+}

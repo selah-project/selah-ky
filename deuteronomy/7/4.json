@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 7:4",
+  "book": "deuteronomy",
+  "lang": "ky",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אף וחרה",
+      "rationale": "Көңүлдүн «күйүшү» жана «мурун\/ачуу» — еврейче ачуунун жаны күйгөнү; кыргызча «ачуусу күйөт» деген ыкма менен берилди."
+    },
+    {
+      "kind": "substitution",
+      "subject": "башка кудайлар",
+      "rationale": "אלהים אחרים — кичине тамгалуу «кудайлар», анткени булар башка элдердин кудайлары."
+    }
+  ],
+  "translation": "Себеби ал ⟨את⟩ уулуңду Менин артымдан буруп, башка кудайларга кызмат кылышат, жана Яхвенин ачуусу силерге күйөт жана сени тез жок кылат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "bc559034d95778083e1bd5bd32de9d8e80805bcf769d2883a9df3f95b1bbf930",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/7\/1-4.1791204839437.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Себеби"
+    },
+    {
+      "surface": "יסיר",
+      "gloss": "буруп"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "уулуңду"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "уулуңду"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "Менин артымдан"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "жана кызмат кылышат"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "кудайларга"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "башка"
+    },
+    {
+      "surface": "וחרה",
+      "gloss": "жана күйөт"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ачуусу"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "силерге"
+    },
+    {
+      "surface": "והשמידך",
+      "gloss": "жана сени жок кылат"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "тез"
+    }
+  ],
+  "timestamp": "2026-10-05T12:53:59.439033236Z",
+  "model": "glm-5.3"
+}

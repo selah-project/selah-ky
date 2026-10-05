@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 26:4",
+  "book": "numbers",
+  "lang": "ky",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "жыйырма жаштан жогору",
+      "rationale": "санактын жаш чеги кайталанып берилген"
+    },
+    {
+      "kind": "elision",
+      "subject": "לאמрдын уландысы",
+      "rationale": "3-аяттагы «деп» түзүлүштөн уланып, бул аят айтылган сөздүн башталышы"
+    }
+  ],
+  "translation": "жыйырма жаштан жогору — Яхве Мошеге ⟨את⟩ буйругандай — Мицрайим жеринен чыккан Йисраэлдин уулдары ⟨жөнүндө⟩.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "9f791db1380c77a7650ba7abcb71779213d542ef6b50378c002d1ea6d780ff41",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/numbers\/26\/1-4.1791204216240.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מבן",
+      "gloss": "…тан"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "жыйырма"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "жаш"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "жана жогору"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "…дай"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "буйругандай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Мошеге"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Мошеге"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "жана уулдары"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэлдин"
+    },
+    {
+      "surface": "היצאים",
+      "gloss": "чыккан"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "жеринен"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицрайим"
+    }
+  ],
+  "timestamp": "2026-10-05T12:43:36.241494280Z",
+  "model": "glm-5.3"
+}

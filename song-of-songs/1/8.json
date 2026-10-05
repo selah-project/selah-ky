@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 1:8",
+  "book": "song-of-songs",
+  "lang": "ky",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "משכנות",
+      "rationale": "жалпы 'конуштор' менен бирге 'Мишкан' сөзү катары сакталды — чабандырлардын конуштору"
+    },
+    {
+      "kind": "you",
+      "subject": "аялдардын эң сулуусуна",
+      "rationale": "сүйлөөчү сүйүктүү аялга түз кайрылат"
+    }
+  ],
+  "translation": "Эгер билбесең, аялдардын эң сулуусу, өзүң чык койлордун издеринен барып, жайыт ⟨את⟩ улаактарыңды чабандырлардын Мишкандарынын жанында.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "ff01a4dd9d7ec2d7f1048913ac57122e870c2f44c8a5605eb99689e6cac96806",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/song-of-songs\/1\/5-8.1791219579345.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "эгер"
+    },
+    {
+      "surface": "לא",
+      "gloss": "билбесең"
+    },
+    {
+      "surface": "תדעי",
+      "gloss": ""
+    },
+    {
+      "surface": "לך",
+      "gloss": "өзүң"
+    },
+    {
+      "surface": "היפה",
+      "gloss": "эң сулуусу"
+    },
+    {
+      "surface": "בנשים",
+      "gloss": "аялдардын"
+    },
+    {
+      "surface": "צאי",
+      "gloss": "чык"
+    },
+    {
+      "surface": "לך",
+      "gloss": "барып"
+    },
+    {
+      "surface": "בעקбי",
+      "gloss": "издеринен"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "койлордун"
+    },
+    {
+      "surface": "ורעי",
+      "gloss": "жайыт"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "улаактарыңды"
+    },
+    {
+      "surface": "גדיתיך",
+      "gloss": "улаактарыңды"
+    },
+    {
+      "surface": "על",
+      "gloss": "жанында"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "Мишкандарынын"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "чабандырлардын"
+    }
+  ],
+  "timestamp": "2026-10-05T16:59:39.346918392Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 38:21",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ישטנוני",
+      "rationale": "Шатан тамыры: 'айыпташат' же 'душман болушат' — KJV 'are adversaries', YLT 'accuse me' деп бөлүнөт."
+    },
+    {
+      "kind": "addition",
+      "subject": "менин",
+      "rationale": "Ивритте ээлик атооч жок, кыргызча түшүнүктүү болушу үчүн кошулду."
+    }
+  ],
+  "translation": "Жана жамандыкты жакшылыктын ордуна төлөгөндөр мени айыпташат, ⟨менин⟩ жакшыны куумамдын ордуна.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "7fb400aef81bc22c72e283607a943b1b6969a3f8c97b1d199aef722d00c54b1f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/38\/21-23.1791215948444.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומשלמי",
+      "gloss": "жана төлөгөндөр"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "жамандыкты"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ордуна"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "жакшылыктын"
+    },
+    {
+      "surface": "ישטנוני",
+      "gloss": "мени айыпташат"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ордуна"
+    },
+    {
+      "surface": "רדופי",
+      "gloss": "куумамдын"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "жакшыны"
+    }
+  ],
+  "timestamp": "2026-10-05T15:59:08.444816817Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 15:20",
+  "book": "numbers",
+  "lang": "ky",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "תרימו \/ תרומה",
+      "rationale": "Этиш менен зат аты бир тамырдан (רום) кайталанат — «көтөрүү» жана «көтөрүлгөн тартуу» үндөшүгү кыргызча начар берилет"
+    },
+    {
+      "kind": "substitution",
+      "subject": "хала нан",
+      "rationale": "חלה — көңдөйлөнгөн\/тешилген жука нан; ачык эквивалент жок"
+    },
+    {
+      "kind": "measurement",
+      "subject": "тартуу үлүшү",
+      "rationale": "Аят нан башынан алынуучу белекти ченеп белгилейт"
+    }
+  ],
+  "translation": "Жуураңардын биринчисинен хала нанды тартуу катары көтөрүңөр; астык ургуч аянттын тартуусу сыяктуу, ошондой эле ⟨את⟩ аны көтөрүңөр.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "7035b2fdc255217108ab260fd9b682a23eff2b82bef158593aff4368d1a25075",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/numbers\/15\/20-20.1791223683517.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "биринчисинен"
+    },
+    {
+      "surface": "ערסתכם",
+      "gloss": "жуураңардын"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "хала нанды"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "көтөрүңөр"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "тартуу катары"
+    },
+    {
+      "surface": "כתרומת",
+      "gloss": "тартуусу сыяктуу"
+    },
+    {
+      "surface": "גרן",
+      "gloss": "ургуч аянттын"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ошондой эле"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "көтөрүңөр"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "аны"
+    }
+  ],
+  "timestamp": "2026-10-05T18:08:03.517616987Z",
+  "model": "glm-5.3"
+}

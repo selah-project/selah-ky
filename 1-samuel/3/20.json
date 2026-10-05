@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 3:20",
+  "book": "1-samuel",
+  "lang": "ky",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "Дандан Беэр-Шебага чейин",
+      "rationale": "Географиялык өлчөө-формула: бүт өлкөнү түндүктөн түштүккө чейин камтыйт."
+    },
+    {
+      "kind": "crux",
+      "subject": "נאמן",
+      "rationale": "«ырасталды \/ бекемделди» (KJV, ASV) менен «ишенимдүү» (Женева, JPS) ортосундагы бөлүнүү; тамыр אמן экөөнө да жол берет."
+    }
+  ],
+  "translation": "Жана бүт Йисраэл Дандан Беэр-Шебага чейин билди: Шемуэл Яхвеге пайгамбар катары ырасталды.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "954e3c3664bcb857d17569999d4ddf086220e9a06490bdcd6a2a35173c2774a3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-samuel\/3\/17-20.1791206638390.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "билди"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүт"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэл"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "Дандан"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "чейин"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Беэр"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Шеба"
+    },
+    {
+      "surface": "כי",
+      "gloss": "деп"
+    },
+    {
+      "surface": "נאמן",
+      "gloss": "ырасталды"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Шемуэл"
+    },
+    {
+      "surface": "לנביא",
+      "gloss": "пайгамбар катары"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхвеге"
+    }
+  ],
+  "timestamp": "2026-10-05T13:23:58.391627589Z",
+  "model": "glm-5.3"
+}

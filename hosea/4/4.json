@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 4:4",
+  "book": "hosea",
+  "lang": "ky",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ыйык кызмат кылуучу",
+      "rationale": "כהן — «кахин» деген аталыш да мүмкүн; салттуу кыргыз формасы «доҕопут» четке кагылды."
+    },
+    {
+      "kind": "substitution",
+      "subject": "тыйуу",
+      "rationale": "אל жашоочуну — бошомтолон тыйуу_PARTICLE; кыргызча тыйуу мааниси этишке кошулду."
+    }
+  ],
+  "translation": "Бирок эч ким талашпасын жана эч кимди элдербесин, анткени сенин элиң ыйык кызмат кылуучу менен талашкандар сыяктуу.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "34aac181ae38907c2b891af286b1ec679d93f45652b14bc2fd76eaef144fb98a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/hosea\/4\/1-4.1791213878489.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Бирок"
+    },
+    {
+      "surface": "איש",
+      "gloss": "эч ким"
+    },
+    {
+      "surface": "אל",
+      "gloss": "талашпасын"
+    },
+    {
+      "surface": "ירב",
+      "gloss": ""
+    },
+    {
+      "surface": "ואל",
+      "gloss": "элдербесин"
+    },
+    {
+      "surface": "יוכח",
+      "gloss": ""
+    },
+    {
+      "surface": "איש",
+      "gloss": "эч кимди"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "сенин элиң"
+    },
+    {
+      "surface": "כמריבי",
+      "gloss": "талашкандар сыяктуу"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "ыйык кызмат кылуучу"
+    }
+  ],
+  "timestamp": "2026-10-05T15:24:38.490979408Z",
+  "model": "glm-5.3"
+}

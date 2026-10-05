@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "leviticus 14:57",
+  "book": "leviticus",
+  "lang": "ky",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "булгуу үчүн",
+      "rationale": "להורת бул жерде 'суудай агуу' эмес, 'үйрөтүү, көрсөтүү' деген мааниде (הורה)"
+    },
+    {
+      "kind": "addition",
+      "subject": "мына",
+      "rationale": "זאת бөлүү белгиси катары кыргызча байланыш үчүн кошулду"
+    },
+    {
+      "kind": "measurement",
+      "subject": "күн",
+      "rationale": "Таза\/таза эмес күндөрдү ажыратуу — таза болуунун убактысын өлчөө эрежеси"
+    }
+  ],
+  "translation": "Булгуу үчүн — таза эмес күндө да, таза күндө да; мына бул — царааттын Торасы.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "ef6770ee25d78d1dd8ca9b2bae76dd0ea41f523b2618571d8169b5e6182dd7ac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/14\/57-57.1791203045214.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "להורת",
+      "gloss": "булгуу үчүн"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "күндө"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "таза эмес"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "жана таза күндө"
+    },
+    {
+      "surface": "הטהר",
+      "gloss": "таза"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "мына бул"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Торасы"
+    },
+    {
+      "surface": "הצרעת",
+      "gloss": "царааттын"
+    }
+  ],
+  "timestamp": "2026-10-05T12:24:05.215418959Z",
+  "model": "glm-5.3"
+}

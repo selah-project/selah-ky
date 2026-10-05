@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 22:10",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "גחי",
+      "rationale": "Буквально «ажырап чыктым (суу атылгандай)» — кыргызча «чыгарып бердиң» деп жумшартылды"
+    },
+    {
+      "kind": "alternative",
+      "subject": "מבטיחי",
+      "rationale": "Дагы бир окуу: «мага ишеним бердиң» же «мени бекем кармадың» — בטח тамыры эки багытта турат"
+    }
+  ],
+  "translation": "Анткени Сен мени карындан чыгарып бергенсиң, энемдин эмчектеринде мени ишендиргенсиң.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "47a0de3be98c730c1580e429d33f1946bf0c6d0015ef3530c8c85d945dbaba10",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/22\/9-12.1791215581711.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Сен"
+    },
+    {
+      "surface": "גחи",
+      "gloss": "чыгарып бергенсиң"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "карындан"
+    },
+    {
+      "surface": "מבטיחי",
+      "gloss": "ишендиргенсиң"
+    },
+    {
+      "surface": "על",
+      "gloss": "эмчектеринде"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "энемдин эмчектери"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "энемдин"
+    }
+  ],
+  "timestamp": "2026-10-05T15:53:01.712483280Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 20:4",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жасалма сүрөт",
+      "rationale": "פסל — оюлган же куюлган сүрөт, «бут» эмес"
+    },
+    {
+      "kind": "you",
+      "subject": "Израильге",
+      "rationale": "Экинчи буйрук, сенин деп тикелей кайрылуу"
+    }
+  ],
+  "translation": "Өзүңө эч кандай жасалма сүрөт же кайсы бир бейне жасаба — асмандагылардын жогоркуларынан, жердегилердин төмөнкүлөрүнөн жана жер астындагы суулардагылардан.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "69a775fb3ec2f7e067ade54b76e564d770df72874c6f1c38229a2acf4d17d8ee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/20\/1-4.1791202218149.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "жасаба"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "жаса"
+    },
+    {
+      "surface": "לך",
+      "gloss": "өзүңө"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "жасалма сүрөт"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "же кайсы бир"
+    },
+    {
+      "surface": "תמונה",
+      "gloss": "бейне"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…дагылардын"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "асмандагылар"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "жогоркуларынан"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "жана …дагылардын"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "жердегилер"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "төмөнкүлөрүнөн"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "жана …дагылардын"
+    },
+    {
+      "surface": "במים",
+      "gloss": "суулардагылар"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "астындагы"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "жер"
+    }
+  ],
+  "timestamp": "2026-10-05T12:10:18.150719366Z",
+  "model": "glm-5.3"
+}

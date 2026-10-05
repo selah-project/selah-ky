@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 4:21",
+  "book": "2-kings",
+  "lang": "ky",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "эшик",
+      "rationale": "еврейче текстте «эшик» деген сөз жок — «анын артынан жаап» гана айтылат, эшик мааниден келет"
+    }
+  ],
+  "translation": "Жана ал өйдө чыгып, аны Элохимдин кишисинин төшөгүнө жаткырды да, анын артынан жаап, сыртка чыгып кетти.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "3083ce214782fcb3d5f8720f3433e478f1ba735abde62ab47982432ef55e4370",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-kings\/4\/21-24.1791208697151.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותעל",
+      "gloss": "өйдө чыгып"
+    },
+    {
+      "surface": "ותשכבהו",
+      "gloss": "аны жаткырды"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстүнө"
+    },
+    {
+      "surface": "מטת",
+      "gloss": "төшөгүнө"
+    },
+    {
+      "surface": "איש",
+      "gloss": "кишисинин"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Элохимдин"
+    },
+    {
+      "surface": "ותסגר",
+      "gloss": "жаап"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "анын артынан"
+    },
+    {
+      "surface": "ותצא",
+      "gloss": "чыгып кетти"
+    }
+  ],
+  "timestamp": "2026-10-05T13:58:17.168614169Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 47:2",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 47,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "бардык элдерге",
+      "rationale": "Бүт элдерге кол чабууга жана кыйкырыкка чакыруу — императив"
+    },
+    {
+      "kind": "substitution",
+      "subject": "сүйүнүүчү үн",
+      "rationale": "רנה — кысылган\/чыңалган үн, кубаныш да, ый да боло алат"
+    }
+  ],
+  "translation": "Бардык элдер кол чаап, Элохимге сүйүнүүчү үн менен кыйкырыңар.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "4e35d3bd082dfc77ec5d1f114acc86320c6840fd651e2d44f6628c221c9b47a3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/47\/1-4.1791216110767.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "бардык"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "элдер"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "чаап"
+    },
+    {
+      "surface": "כף",
+      "gloss": "кол"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "кыйкырыңар"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Элохимге"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "үн менен"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "сүйүнүүчү"
+    }
+  ],
+  "timestamp": "2026-10-05T16:01:50.768546594Z",
+  "model": "glm-5.3"
+}

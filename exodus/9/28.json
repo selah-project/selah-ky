@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 9:28",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "קלת אלהים",
+      "rationale": "«Элохимдин добуштары» — булуңкулдаган күч катары кабыл алынган идиома, кыргызча «күүгүм» же «добуштар» деп берилди"
+    },
+    {
+      "kind": "crux",
+      "subject": "ורב מהית",
+      "rationale": "«жетиштүү болду» (KJV 'it is enough') менен «көп болду» (JPS) деген варианттар бар"
+    },
+    {
+      "kind": "you",
+      "subject": "Моше менен Ахарага",
+      "rationale": "Фараон тарабынан түз кайрылуу"
+    }
+  ],
+  "translation": "Яхвеге жалыңыз — Элохимдин добуштары менен мөндүр жетиштүү болду — силерди ⟨את⟩ коё беремин жана силер мындан ары тургула электе.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "031188ed11cce94348f811eaa1427009fa1b597ac3089eb3d21c910b7aaf3312",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/9\/28-28.1791223546790.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "העתירו",
+      "gloss": "жалыңыз"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Яхвеге"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "жетиштүү болду"
+    },
+    {
+      "surface": "מהית",
+      "gloss": "болуу"
+    },
+    {
+      "surface": "קלת",
+      "gloss": "добуштар"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохимдин"
+    },
+    {
+      "surface": "וברד",
+      "gloss": "мөндүр"
+    },
+    {
+      "surface": "ואשלחה",
+      "gloss": "коё беремин"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "силерди"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "жана эмес"
+    },
+    {
+      "surface": "תספון",
+      "gloss": "уланта турган"
+    },
+    {
+      "surface": "לעמод",
+      "gloss": "турууга"
+    }
+  ],
+  "timestamp": "2026-10-05T18:05:46.790932701Z",
+  "model": "glm-5.3"
+}

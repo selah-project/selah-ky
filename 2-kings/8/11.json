@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 8:11",
+  "book": "2-kings",
+  "lang": "ky",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "уялганча",
+      "rationale": "ким уялганы ачык эмес: Элиша Хазаелге тик караганча Хазаел уялды (КЖВ), же Элишанын өзүнүн жүзү катууланган (иврит кармаган): эки окуу бар"
+    },
+    {
+      "kind": "elision",
+      "subject": "анын үстүнө",
+      "rationale": "койулган жүз кимге багытталганы кыргызча кошулду, еврейче פניו гана"
+    }
+  ],
+  "translation": "Ал ⟨את⟩ жүзүн анын үстүнө катуу койду, ал уялганга чейин, жана Элохимдин кишиси ыйлады.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "ef3e1dd3ad2524176cd96db34c2bf7bee4578bd8e1282a9356eebfe0349daf89",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-kings\/8\/9-12.1791208862807.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "коюп турду"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "жүзүн"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "жүзүн"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "койду"
+    },
+    {
+      "surface": "עד",
+      "gloss": "чейин"
+    },
+    {
+      "surface": "בש",
+      "gloss": "уялганга"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "ыйлады"
+    },
+    {
+      "surface": "איש",
+      "gloss": "кишиси"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Элохимдин"
+    }
+  ],
+  "timestamp": "2026-10-05T14:01:02.808480381Z",
+  "model": "glm-5.3"
+}

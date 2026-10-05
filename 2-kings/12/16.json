@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 12:16",
+  "book": "2-kings",
+  "lang": "ky",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "על ידם",
+      "rationale": "букв. 'алардын колдору үстүнө' — 'колдоруна берүү' деген ыйгарым укук мааниси"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אמנה \/ אמונה",
+      "rationale": "ишенимдүүлүк деген тамыр — эсептешпөөнүн себеби катары так белгиленген"
+    }
+  ],
+  "translation": "Жана алар күмүштү колдоруна ишти аткаруучуларга берүү үчүн берген ⟨את⟩ адамдар менен эсептешкен жок, анткени алар ишенимдүүлүк менен иштешкен.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "27feb0e5dd230df3b4916ebcefa483cdcea384dde59304d604633591939c3e15",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-kings\/12\/13-16.1791208953923.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "жана ... жок"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "эсептешкен"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "адамдар менен"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "адамдар"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "алар"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "берген"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "күмүштү"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "күмүштү"
+    },
+    {
+      "surface": "על",
+      "gloss": "—"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "колдоруна"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "берүү үчүн"
+    },
+    {
+      "surface": "לעשי",
+      "gloss": "ишти аткаруучуларга"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "ишти"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "באמנה",
+      "gloss": "ишенимдүүлүк менен"
+    },
+    {
+      "surface": "הם",
+      "gloss": "алар"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "иштешкен"
+    }
+  ],
+  "timestamp": "2026-10-05T14:02:33.924941543Z",
+  "model": "glm-5.3"
+}

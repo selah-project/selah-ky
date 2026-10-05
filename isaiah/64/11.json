@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 64:11",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 64,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "окурманга эмес, Яхвеге суроо",
+      "rationale": "риторикалык суроолор менен жалбоо — текст окурманды тартат"
+    },
+    {
+      "kind": "you",
+      "subject": "Яхвеге",
+      "rationale": "түз адрес — Яхвеге багытталган суроо"
+    },
+    {
+      "kind": "substitution",
+      "subject": "кыйынсынтуу",
+      "rationale": "ענה бул жерде 'жооп берүү' эмес, 'кыйноо\/бассыздык кылуу' маанисинде"
+    }
+  ],
+  "translation": "Ушулар үчүн Өзүңдү кармап турасыңбы, Яхве? Унчукпай, бизди абдан кыйынсынтайсыңбы?",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "bc774ce81b29543c300c47e3d7ec7c3b2a3c0fa31742a26f175a7dc3efaeb8fc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/64\/9-11.1791210625739.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "העל",
+      "gloss": "ушулар үчүн"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ушулар"
+    },
+    {
+      "surface": "תתאפק",
+      "gloss": "Өзүңдү кармап турасыңбы"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "תחשה",
+      "gloss": "унчукпай"
+    },
+    {
+      "surface": "ותעננו",
+      "gloss": "жана бизди кыйынсынтайсың"
+    },
+    {
+      "surface": "עד",
+      "gloss": "абдан"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "чекте"
+    }
+  ],
+  "timestamp": "2026-10-05T14:30:25.740771891Z",
+  "model": "glm-5.3"
+}

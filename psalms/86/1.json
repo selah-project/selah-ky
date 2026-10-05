@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 86:1",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 86,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Яхвеге",
+      "rationale": "Давид Яхвени тикелей чакырып, кулагын ийүүсүн суранат."
+    },
+    {
+      "kind": "invitation",
+      "subject": "ийкитип, жооп бер",
+      "rationale": "Аят бүтүндөй тиленүү — чакыруу, императив менен башталат."
+    }
+  ],
+  "translation": "Давиддин тиленүүсү. Яхве, кулагыңды ийкитип, мага жооп бер, анткени мен жакыр жана муктажмын.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "9bf46ba0d669e77375ecc6311d1ed76a626361b83e9a0d9085bd67760988709b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/86\/1-4.1791216799010.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "тиленүү"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давиддин"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "ийкитип"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "кулагыңды"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "мага жооп бер"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "עני",
+      "gloss": "жакыр"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "жана муктаж"
+    },
+    {
+      "surface": "אני",
+      "gloss": "мен"
+    }
+  ],
+  "timestamp": "2026-10-05T16:13:19.010829535Z",
+  "model": "glm-5.3"
+}

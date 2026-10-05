@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 14:18",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "даңкта жатышат",
+      "rationale": "שכבו 'жатышат' — бул жерде өлүп коюп жатуу маанисинде; көп котормолор 'уктайт' деп жумшартат."
+    },
+    {
+      "kind": "crux",
+      "subject": "өз үйүндө",
+      "rationale": "בביתה 'үйүндө' — Шеолдогу көрүн билдирет (BSB 'tomb' деп берет); салтанат менен көмүлүү менен салыштыруу үчүн айтылат."
+    }
+  ],
+  "translation": "Бардык элдердин падышалары, баарысы тең, даңкта жатышат, ар бириси өз үйүндө.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "07d7f2a926be1b475476e086dabe93ece17d093ac0b0302637b12a3ba8d3a0ed",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/14\/17-18.1791224000359.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "бардык"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "падышалары"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "элдердин"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "баарысы тең"
+    },
+    {
+      "surface": "שכבו",
+      "gloss": "жатышат"
+    },
+    {
+      "surface": "בכבוד",
+      "gloss": "даңкта"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ар бириси"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "өз үйүндө"
+    }
+  ],
+  "timestamp": "2026-10-05T18:13:20.360001241Z",
+  "model": "glm-5.3"
+}

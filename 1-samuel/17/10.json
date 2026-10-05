@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 17:10",
+  "book": "1-samuel",
+  "lang": "ky",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Израилдин кошунуна",
+      "rationale": "Филистиялык 'мага бир адам бергиле' деп Израилдин аскерлерине түз кайрылат."
+    },
+    {
+      "kind": "invitation",
+      "subject": "мага бир адам бергиле",
+      "rationale": "Чакыруу-буйрук: жалгыз кармашууга бирөөнү тандоону талап кылат."
+    },
+    {
+      "kind": "substitution",
+      "subject": "шылдыңдадым",
+      "rationale": "חָרַף букв. 'сыйырды, жылаңачтады' — корсотуу, шылдыңдоо маанисинде."
+    }
+  ],
+  "translation": "Жана филистиялык айтты: Мен бүгүн ⟨את⟩ Йисраэлдин согуш катарларын шылдыңдадым; мага бир адам бергиле, жана чогуу салгылашайлы.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "d512dbda2f2668db30e2cd5359f2516c376eebce48dd359bb2e85a00530aa8cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-samuel\/17\/9-12.1791206933228.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "жана айтты"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "филистиялык"
+    },
+    {
+      "surface": "אני",
+      "gloss": "мен"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "шылдыңдадым"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Йисраэлдин согуш катарларын"
+    },
+    {
+      "surface": "מערכות",
+      "gloss": "согуш катарлары"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэлдин"
+    },
+    {
+      "surface": "היום",
+      "gloss": "бүгүн"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ушул"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "бергиле"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мага"
+    },
+    {
+      "surface": "איש",
+      "gloss": "адам"
+    },
+    {
+      "surface": "ונלחמה",
+      "gloss": "жана салгылашайлы"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "чогуу"
+    }
+  ],
+  "timestamp": "2026-10-05T13:28:53.229366975Z",
+  "model": "glm-5.3"
+}

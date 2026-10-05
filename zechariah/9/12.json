@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "zechariah 9:12",
+  "book": "zechariah",
+  "lang": "ky",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "בצרון",
+      "rationale": "«Бекем коргоон» (בצרון) — Танахта жалгыз ушул жерде кездешет; KJV «strong hold» деп берет."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שובו \/ אשיב",
+      "rationale": "Аят шув тамыры менен эки жагынан курчалган: «кайтыңдар» — «Мен кайтарып беремин»; кыргызча «кайт-» тамыры окшоштукту сактап калат."
+    },
+    {
+      "kind": "invitation",
+      "subject": "кайтыңдар",
+      "rationale": "Туткундарга — элге — кайтууга буйрук-чакыруу."
+    },
+    {
+      "kind": "you",
+      "subject": "үмүт туткундары",
+      "rationale": "Яхвенин сөзү түз туткундалган элге багытталган."
+    }
+  ],
+  "translation": "Бекем коргоонго кайтыңдар, үмүт туткундары! Дагы бүгүн Мен сага эки эсени кайтарып беремин деп жарыялаймын.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "328e896dac3c91815543bee16c2931fb51a08beb9a3eba2c9b8e90d2d2cb3ed7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/zechariah\/9\/9-12.1791215118424.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שובו",
+      "gloss": "кайтыңдар"
+    },
+    {
+      "surface": "לבצרון",
+      "gloss": "бекем коргоонго"
+    },
+    {
+      "surface": "אסירי",
+      "gloss": "туткундары"
+    },
+    {
+      "surface": "התקוה",
+      "gloss": "үмүт"
+    },
+    {
+      "surface": "גם",
+      "gloss": "Дагы"
+    },
+    {
+      "surface": "היום",
+      "gloss": "бүгүн"
+    },
+    {
+      "surface": "מגיד",
+      "gloss": "жарыялаймын"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "эки эсени"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "кайтарып беремин"
+    },
+    {
+      "surface": "לך",
+      "gloss": "сага"
+    }
+  ],
+  "timestamp": "2026-10-05T15:45:18.425714988Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 10:2",
+  "book": "jeremiah",
+  "lang": "ky",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אל תחתו \/ כי יחתו",
+      "rationale": "Чыгыш тамыры үч жолу кайталанат: коркпо — корк",
+      "subject-note": null
+    },
+    {
+      "kind": "elision",
+      "subject": "אל (3-токен)",
+      "rationale": "Кошумча 'до' предлогу кыргызча сөзсүз чечмеленет"
+    },
+    {
+      "kind": "you",
+      "subject": "Йисраэл үйү",
+      "rationale": "Түз кайрылуу уланат: буйрук формасындагы тыюу"
+    }
+  ],
+  "translation": "Мындай дейт Яхве: элдердин жолун үйрөнбөгүлө, жана асман белгилеринен коркпогула, анткени элдер алардан коркушат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "4423868545f1e7dcc8eb95e1b831d0180720645aa70793560812d7a5c58ba9f7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/jeremiah\/10\/1-4.1791210951313.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Мындай"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "дейт"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "דרך",
+      "gloss": "жолун"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "элдердин"
+    },
+    {
+      "surface": "אל",
+      "gloss": "бөлгүлө"
+    },
+    {
+      "surface": "תלמדו",
+      "gloss": "үйрөнбөгүлө"
+    },
+    {
+      "surface": "ומאתות",
+      "gloss": "жана ... белгилеринен"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "асман"
+    },
+    {
+      "surface": "אל",
+      "gloss": "бөлгүлө"
+    },
+    {
+      "surface": "תחתו",
+      "gloss": "коркпогула"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "יחתו",
+      "gloss": "коркушат"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "элдер"
+    },
+    {
+      "surface": "мהמה",
+      "gloss": "алардан"
+    }
+  ],
+  "timestamp": "2026-10-05T14:35:51.314112928Z",
+  "model": "glm-5.3"
+}

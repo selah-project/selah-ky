@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 22:16",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בי",
+      "rationale": "«Мен Өзүм менен» — идиома: Кудай өзүнө ант ичет; кээ бир котормолор «жок» деп эле таштап кетишет"
+    },
+    {
+      "kind": "elision",
+      "subject": "ממני",
+      "rationale": "16-аятта «Менден» деген сөз жок (12-аятта бар) — кыргызча текст да аны кошпойт"
+    }
+  ],
+  "translation": "Анан айтты: Мен Өзүм менен ант берем — Яхвенин сөзү — анткын сен ⟨את⟩ бул ишти жасадың жана ⟨את⟩ уулуңду, ⟨את⟩ жалгыз уулуңду аяgan жоксуң.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "bd7a9f0e62268a63c1387c75698d53fafc5c98e24391f711ec99a0dbea2fa152",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/22\/13-16.1791201121842.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "בי",
+      "gloss": "Мен Өзүм менен"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "ант берем"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "сөзү"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткын"
+    },
+    {
+      "surface": "יען",
+      "gloss": "анткын"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…ны"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "жасадың"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "бул ишти"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ишти"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "бул"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "חשכת",
+      "gloss": "аяgan жоксуң"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "уулуңду"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "уулуңду"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "жалгыз уулуңду"
+    },
+    {
+      "surface": "יחידך",
+      "gloss": "жалгыз уулуңду"
+    }
+  ],
+  "timestamp": "2026-10-05T11:52:01.843572486Z",
+  "model": "glm-5.3"
+}

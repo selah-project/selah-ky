@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 9:13",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "кан издеген",
+      "rationale": "דרש דמים: «кан үчүн изилдейт» (КЖВ) же «канды кууп өч алган» (JPS) — кандай адамдыклаңкырык белгиси."
+    },
+    {
+      "kind": "addition",
+      "subject": "жок",
+      "rationale": "לא שכח болобоочуну этиштин болоочусу менен берүү үчүн"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "זכר \/ שכח",
+      "rationale": "эстөө\/унутуу карама-каршылыгы — үнсүз тамгалар кайтыланып турат"
+    }
+  ],
+  "translation": "Себеби кан издеген ⟨את⟩ аларды эсте кармайт, жабыркагандардын ыйын унутпайт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "7177c1999b3dac1e63867afd0dc8bb3174a434db8c9474bf88cdd1be3a620ff9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/9\/13-16.1791215459431.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "себеби"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "издеген"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "кан"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "аларды"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "эсте кармайт"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "שכח",
+      "gloss": "унутпайт"
+    },
+    {
+      "surface": "צעקת",
+      "gloss": "ыйын"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "жабыркагандардын"
+    }
+  ],
+  "timestamp": "2026-10-05T15:50:59.432023841Z",
+  "model": "glm-5.3"
+}

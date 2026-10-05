@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 23:1",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מבית מבוא",
+      "rationale": "'үйдөн, кирүүдөн талкаланды' же 'үйсүз, киргисиз' — KJV\/ЖПС 'но house, no entering in' деп эки жолу терс айтышат."
+    },
+    {
+      "kind": "invitation",
+      "subject": "кыйкырыңар",
+      "rationale": "Таршиш кемелерине тикелей чакырык — үндөө калыбы."
+    },
+    {
+      "kind": "addition",
+      "subject": "жөнүндө",
+      "rationale": "Кыргызча 'Цор жүк' деген түшүнүксүз болгондуктан байланыш сөз кошулду."
+    }
+  ],
+  "translation": "Цор жөнүндө жүк. Кыйкырыңар, Таршиш кемелери, анткени талкаланды — ⟨үй⟩ жок, кирүү жок; Киттим жеринен аларга ачыкка чыкты.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "7c36cc3299104b3e8ee553ff4388b6d1cb35ba6d4fa626f754d86fb8d7857ccf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/23\/1-4.1791209822550.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "жүк"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Цор"
+    },
+    {
+      "surface": "הילילו",
+      "gloss": "кыйкырыңар"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "кемелери"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "Таршиш"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "талкаланды"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "⟨үй⟩ жок"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "кирүү жок"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "жеринен"
+    },
+    {
+      "surface": "כתים",
+      "gloss": "Киттим"
+    },
+    {
+      "surface": "נגלה",
+      "gloss": "ачыкка чыкты"
+    },
+    {
+      "surface": "למו",
+      "gloss": "аларга"
+    }
+  ],
+  "timestamp": "2026-10-05T14:17:02.550750180Z",
+  "model": "glm-5.3"
+}

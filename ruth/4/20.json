@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ruth 4:20",
+  "book": "ruth",
+  "lang": "ky",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "генеалогия",
+      "rationale": "Тукум тизмесинин уландысы — Салма (Неомин 4:21 де Боездун атасы)"
+    },
+    {
+      "kind": "crux",
+      "subject": "Салма",
+      "rationale": "שׂלמה аты — көп котормолордо «Салмон» деп жазылат, бир жазылыш еврейче айтылышын кармайбыз"
+    }
+  ],
+  "translation": "Жана Амминадав ⟨את⟩ Нахшонду тууду, жана Нахшон ⟨את⟩ Салманы тууду.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "0485f68bb8bde4fd6a559b3fda2b3b05d59b3c903ac507f2bd036d9913ed98b0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ruth\/4\/17-20.1791219724332.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועמינדב",
+      "gloss": "Амминадав"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "тууду"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Нахшонду"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "Нахшонду"
+    },
+    {
+      "surface": "ונחשון",
+      "gloss": "жана Нахшон"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "тууду"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Салманы"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Салманы"
+    }
+  ],
+  "timestamp": "2026-10-05T17:02:04.333424180Z",
+  "model": "glm-5.3"
+}

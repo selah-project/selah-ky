@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 37:5",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "тапшыр",
+      "rationale": "גולל literally 'roll' — 'roll your way on YHWH'; rendered idiomatically, literal picture of rolling a burden lost"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Озу",
+      "rationale": "והוא is the emphatic independent pronoun 'He Himself', rendered by emphasis"
+    }
+  ],
+  "translation": "Жолуңду Яхвеге тапшыр, Ага таян, Озу аткарат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "98c18dcb6728e7f29dbb7de9d5244f72da13f2a491b26a5e734f7d4cce0ca2c5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/37\/5-8.1791215884720.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גול",
+      "gloss": "тапшыр"
+    },
+    {
+      "surface": "על",
+      "gloss": "Яхвеге"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвеге"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "жолуңду"
+    },
+    {
+      "surface": "ובטח",
+      "gloss": "таян"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "Ага"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "Озу"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "аткарат"
+    }
+  ],
+  "timestamp": "2026-10-05T15:58:04.721056874Z",
+  "model": "glm-5.3"
+}

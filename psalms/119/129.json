@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 129,
+  "ref": "psalms 119:129",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жаным",
+      "rationale": "נפש — дем алуучу жандык, жанык-күч; «жан» катары берилди"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨болуп⟩",
+      "rationale": "еврей текстинде этиш жок — «айтып бүткүс» сыяктуу сөз атооч гана турат"
+    },
+    {
+      "kind": "you",
+      "subject": "Яхвеге",
+      "rationale": "жалпыга айтылган сөз, 2-жак күбөлүктөрүң менен"
+    }
+  ],
+  "translation": "Айтып бүткүс ⟨былжыр⟩ ⟨болуп⟩ Сеникидир — Өзүңдүн күбөлүктөрүң; ошондуктан аларды жаным сактайт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "14fb96d2bba7a8d018963f500c60e710da2940fd73813fb890d4b06315b51527",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/119\/129-132.1791217387009.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פלאות",
+      "gloss": "айтып бүткүс нерселер"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "күбөлүктөрүң"
+    },
+    {
+      "surface": "על",
+      "gloss": "ошондуктан... боюнча"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ошондуктан"
+    },
+    {
+      "surface": "נצרתם",
+      "gloss": "сактайт"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "жаным"
+    }
+  ],
+  "timestamp": "2026-10-05T16:23:07.009867305Z",
+  "model": "glm-5.3"
+}

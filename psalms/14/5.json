@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 14:5",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "פחדו פחד",
+      "rationale": "Этиш менен зат атындагы бир тамырдын кайталоосу — «коркуудан корктушту», кыргызча да сакталды"
+    },
+    {
+      "kind": "crux",
+      "subject": "בדור צדיק",
+      "rationale": "«адилеттердин муунунда» — жамааттын өзүнөн, JPS боюнча «адилет муун ← менен» деген вариант бар"
+    }
+  ],
+  "translation": "Ал жерде алар коркуу менен корктушту, анткени Элохим адилеттердин муунунда.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "89dffb7fa07d7843d987d6eb0864d529d8029060358ba5764b434165b0ed1d8c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/14\/5-7.1791215432788.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "ал жерде"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "корктушту"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "коркуу"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "муунунда"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "адилеттердин"
+    }
+  ],
+  "timestamp": "2026-10-05T15:50:32.789144305Z",
+  "model": "glm-5.3"
+}

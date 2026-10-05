@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 150:1",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 150,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הללו יה",
+      "rationale": "«Халелу-Ях» — Галелуянамбдын булагы; үч жолу кайталануу риторикалык чакырык."
+    },
+    {
+      "kind": "invitation",
+      "subject": "императив",
+      "rationale": "Үч мактаа буйругу — окурманга\/жамаатка чакырык."
+    },
+    {
+      "kind": "you",
+      "subject": "Израиль жамаатына",
+      "rationale": "Көптүк санда императивдер менен тике кайрылуу."
+    }
+  ],
+  "translation": "Мактаңкыла Яхды, мактаңкыла Элди ыйык жеринде, мактаңкыла Аны күч-кудуретинин асман кээлинде.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "00e0b663f8eade436f3748e52762c86674360c69286ee578b619572e9c60824e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/150\/1-4.1791217623273.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "мактаңкыла"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ях"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "мактаңкыла"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Элди"
+    },
+    {
+      "surface": "בקדשו",
+      "gloss": "ыйык жеринде"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "мактаңкыла Аны"
+    },
+    {
+      "surface": "ברקיע",
+      "gloss": "асман кээлинде"
+    },
+    {
+      "surface": "עזו",
+      "gloss": "күч-кудуретинин"
+    }
+  ],
+  "timestamp": "2026-10-05T16:27:03.274467086Z",
+  "model": "glm-5.3"
+}

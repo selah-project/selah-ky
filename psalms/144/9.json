@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 144:9",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 144,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "невел",
+      "rationale": "נבел — кыл аспабынын өз атысы, котормо болбойт, айтылышы боюнча жазылат"
+    },
+    {
+      "kind": "alternative",
+      "subject": "он кылдуу",
+      "rationale": "עשור — 'он' деген кыскартылган форма 'он кыл' деген маанини берет"
+    }
+  ],
+  "translation": "Элохим, сага жаңы ыр ырдаймын, он кылдуу невелде сага ойноп-аспендеймин.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "fa4b39483378402d6989b6af92f97147696edaea31adf9fe7f45740254aa48c8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/144\/9-12.1791217645505.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "ыр"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "жаңы"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "ырдаймын"
+    },
+    {
+      "surface": "לך",
+      "gloss": "сага"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "невелде"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "он кылдуу"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "ойноп-аспендеймин"
+    },
+    {
+      "surface": "לך",
+      "gloss": "сага"
+    }
+  ],
+  "timestamp": "2026-10-05T16:27:25.506795824Z",
+  "model": "glm-5.3"
+}

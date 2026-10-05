@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 32:10",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "каар",
+      "rationale": "אף — букв. 'мурун\/боркон'; каардын жанышуусу деген идиома"
+    },
+    {
+      "kind": "idiom",
+      "subject": "Мага жөн кой",
+      "rationale": "הניחה לי — букв. 'мага коюп бер \/ мени жалгыз калтыр'"
+    }
+  ],
+  "translation": "Эми болсо, Мага жөн кой, Менин каарым аларга жанып, аларды жок кылайын, жана ⟨את⟩ сени чоң эл кылып жаратайын.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "da143ef754c5367e7b6a4be8c91510b137732c971db2621591faa4aad3a173b2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/32\/9-12.1791202565113.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "эми болсо"
+    },
+    {
+      "surface": "הניחה",
+      "gloss": "жөн кой"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Мага"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "жанып"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "Менин каарым"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "аларга"
+    },
+    {
+      "surface": "ואכלם",
+      "gloss": "жок кылайын"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "жаратайын"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ сени",
+      "marks": "чоң эл кылып"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "эл кылып"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "чоң"
+    }
+  ],
+  "timestamp": "2026-10-05T12:16:05.113948563Z",
+  "model": "glm-5.3"
+}

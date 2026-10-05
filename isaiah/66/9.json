@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 66:9",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 66,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ועצרתי",
+      "rationale": "'жатынды бекитүү' (KJV, ASV) менен YLTдун 'Мен кармап турдум' окулушунун ортосундагы айырма."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אשביר\/אוליד\/המוליד",
+      "rationale": "төрөтүү деген тамырдын кайталанышы — риторикалык суроо түрүндө."
+    }
+  ],
+  "translation": "Мен төрөткүзүп жатып, төрөтпөй коёройунбу? — Яхвенин сөзү. Мен төрөтүүчүмүн го, жатынды бекитип коёмойунбу? — сенин Элохимиң айтты.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "e44cd6b0a79b5bf3f4a5c154b80915b908e20f7deb96fe74bec5f4908554a7bc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/66\/9-12.1791210649646.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "האני",
+      "gloss": "Мен"
+    },
+    {
+      "surface": "אשביר",
+      "gloss": "төрөткүзүп"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "төрөтпөй"
+    },
+    {
+      "surface": "אוליד",
+      "gloss": "коёройунбу"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "дейт"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אם",
+      "gloss": "го"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Мен"
+    },
+    {
+      "surface": "המוליד",
+      "gloss": "төрөтүүчүмүн"
+    },
+    {
+      "surface": "ועצרתי",
+      "gloss": "жатынды-бекитип-коёмойунбу"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "сенин-Элохимиң"
+    }
+  ],
+  "timestamp": "2026-10-05T14:30:49.646647678Z",
+  "model": "glm-5.3"
+}

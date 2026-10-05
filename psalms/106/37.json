@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 106:37",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 106,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "өздөрүнүн",
+      "rationale": "Ивриттеги мүчөлүк -הם аффикси атоочтун өзүндө; кыргызча так кылыш үчүн ⟨өздөрүнүн⟩ кошулду"
+    },
+    {
+      "kind": "crux",
+      "subject": "шеддер",
+      "rationale": "שדים: 'шеддер' (жаман рухтар) же 'жок кылуучулар' (YLT 'destroyers')"
+    }
+  ],
+  "translation": "Жана алар ⟨את⟩ өздөрүнүн уулдарын жана ⟨את⟩ өздөрүнүн кыздарын шеддерге курмандыкка чабышты.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "2584ab0b2b34fe58bc34147c97fae5781c2db4426109cfe3bae8bedbacef795b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/106\/37-40.1791217099493.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויזבחו",
+      "gloss": "курмандыкка чабышты"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "өздөрүнүн уулдарын"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "өздөрүнүн уулдарын"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "жана ⟨את⟩",
+      "marks": "өздөрүнүн кыздарын"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "өздөрүнүн кыздарын"
+    },
+    {
+      "surface": "לשדים",
+      "gloss": "шеддерге"
+    }
+  ],
+  "timestamp": "2026-10-05T16:18:19.496161430Z",
+  "model": "glm-5.3"
+}

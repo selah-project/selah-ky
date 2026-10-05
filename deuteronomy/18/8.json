@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 18:8",
+  "book": "deuteronomy",
+  "lang": "ky",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חלק כחלק",
+      "rationale": "Үлүш катары үлүш — эки жолу кайталанган үлүш, еврей ритми кыргызча сакталды"
+    },
+    {
+      "kind": "crux",
+      "subject": "ממכריו על האבות",
+      "rationale": "'Аталар боюнча сатууларынан' — KJV\/JPS боюнча 'ата-баба мурасын сатуудан тышкары', YLT боюнча 'аталар менен бирге сатылгандардан бөлөк' деп ачылайтылган"
+    }
+  ],
+  "translation": "Үлүш катары үлүш жешет — аталар боюнча өткөн сатууларынан бөлөк.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "d4f36b77386d4930422ae304e8b30a0bb4eee6c84b89fc106a55aca6020d6119",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/18\/5-8.1791205079615.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חלק",
+      "gloss": "үлүш"
+    },
+    {
+      "surface": "כחלק",
+      "gloss": "үлүш катары"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "жешет"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "бөлөк"
+    },
+    {
+      "surface": "ממכריו",
+      "gloss": "сатууларынан"
+    },
+    {
+      "surface": "על",
+      "gloss": "боюнча"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "аталар"
+    }
+  ],
+  "timestamp": "2026-10-05T12:57:59.616869371Z",
+  "model": "glm-5.3"
+}

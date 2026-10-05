@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 24:4",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "бересиң",
+      "rationale": "ולקחת 'аласың' — кыргыз тилинде беренди көрсөтүүчү этиш кошулду"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ארצי\/מולדתי",
+      "rationale": "эки тең 1-жак мүчөсү менен өзгөчөлөнгөн: 'менин жерим жана менин туулган жерим' — байланыштуулук"
+    }
+  ],
+  "translation": "анткени менин жериме жана менин туулган жериме барасың, жана менин уулума, Йицхакка, аял алып бересиң.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "03a118a5e720c224429969a2fd9cba8c72bc72702367c948b4a48b24b2b01b4f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/24\/4-4.1791223539612.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "אל",
+      "gloss": "жериме"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "жериме"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "жана"
+    },
+    {
+      "surface": "מולדתי",
+      "gloss": "туулган жериме"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "барасың"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "алып бересиң"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "аял"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "уулума"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "Йицхакка"
+    }
+  ],
+  "timestamp": "2026-10-05T18:05:39.613266728Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 11:3",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מה פעל",
+      "rationale": "YLT\/JPS: 'адил эмне кылды?' (өткүн чак, жообу жок суроо) — KJV\/ASV: 'эмне кылсын?' (келер чак); эки окуу тең мүмкүн."
+    },
+    {
+      "kind": "you",
+      "subject": "адил",
+      "rationale": "Суроо адилге же анын жактоочусуна багытталган түз үн."
+    }
+  ],
+  "translation": "Анткени негиздер бузулганда — адил ⟨эмне⟩ кылсын?",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "57b285da87ca0bbeb7ee2cf15296a6667e3801b2cb3fa244056fb47c966c6ac6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/11\/2-3.1791224404553.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "השתות",
+      "gloss": "негиздер"
+    },
+    {
+      "surface": "יהרסון",
+      "gloss": "бузулганда"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "адил"
+    },
+    {
+      "surface": "מה",
+      "gloss": "⟨эмне⟩"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "кылсын"
+    }
+  ],
+  "timestamp": "2026-10-05T18:20:04.554449376Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 8:1",
+  "book": "hosea",
+  "lang": "ky",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נשר",
+      "rationale": "Бүркүт же жүрөт (таз каргa) — KJB\/JPS эки варианттуу"
+    },
+    {
+      "kind": "you",
+      "subject": "пайгамбарга",
+      "rationale": "Буюрук пайгамбарга багытталган: карнайды оозуңа кой"
+    },
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "glossal": "",
+      "rationale": "Байламта атоочтор менен бирге эрип, өзүнчө сөз катары көрүнбөй калды"
+    }
+  ],
+  "translation": "Карнайды оозуңа коюп кой! Ал бүркүт сыяктуу Яхвенин үйүнө <карай> келет, анткени алар менин келишимимди бузушту жана менин Торама каршы чыгышты.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "4b059a94e3554558d9294e9f4541e2f7ac28608b6b1ef8ee7652a9305aee229c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/hosea\/8\/1-4.1791213996972.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "кой"
+    },
+    {
+      "surface": "חכך",
+      "gloss": "оозуңа"
+    },
+    {
+      "surface": "שפр",
+      "gloss": "карнай"
+    },
+    {
+      "surface": "כנשר",
+      "gloss": "бүркүт сыяктуу"
+    },
+    {
+      "surface": "על",
+      "gloss": "<карай>"
+    },
+    {
+      "surface": "בית",
+      "gloss": "үйүнө"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    },
+    {
+      "surface": "יען",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "бузушту"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "келишимимди"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "каршы"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "Торама"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "чыгышты"
+    }
+  ],
+  "timestamp": "2026-10-05T15:26:36.972645533Z",
+  "model": "glm-5.3"
+}

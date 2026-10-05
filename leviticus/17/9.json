@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 17:9",
+  "book": "leviticus",
+  "lang": "ky",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אתו",
+      "rationale": "את doutобъект маркери анын кыргызча үстүнөн өтүп кеткен, ⟨את⟩ белгиси менен сакталды"
+    },
+    {
+      "kind": "idiom",
+      "subject": "ונכרת מעמיו",
+      "rationale": "буквалдык «элинен кесилүү» — жамааттан ажыратуу деген еврейчи идиома"
+    }
+  ],
+  "translation": "жана ⟨את⟩ аны Жыйналыш чатырынын кире беришине Яхвеге курмандык кылуу үчүн алып келбеген болсо — ошноок адам өз элинен кесилип ташталат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "f19a24019036afff89b4c8810e97f6bf4a2359bc1cad1336dfeb65665e507cfe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/17\/9-12.1791203244007.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "жана ... ка"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "кире бериши"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "чатры"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Жыйналыш"
+    },
+    {
+      "surface": "לא",
+      "gloss": "эмес"
+    },
+    {
+      "surface": "יביאנו",
+      "gloss": "алып келбеген"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "кылуу үчүн"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ аны",
+      "marks": "курмандыкты"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхвеге"
+    },
+    {
+      "surface": "ונכרת",
+      "gloss": "жана кесилип ташталат"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ошноок адам"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ошол"
+    },
+    {
+      "surface": "מעמיו",
+      "gloss": "өз элинен"
+    }
+  ],
+  "timestamp": "2026-10-05T12:27:24.008215003Z",
+  "model": "glm-5.3"
+}

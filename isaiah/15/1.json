@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 15:1",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שדד\/נדמה",
+      "rationale": "Эки жолу кайталанган параллелдүү структура — 'талкаланды \/ үнсүз жок болду' эки сапта дал өзүндөй кайталанат"
+    },
+    {
+      "kind": "substitution",
+      "subject": "үнсүз жок болду",
+      "rationale": "נדמה דומה тамыры — 'үнү чыкпай калтуу, унчукпай калтуу' маанисинде"
+    }
+  ],
+  "translation": "Моаб жөнүндөгү жүк. Түн ичинде Моабдын Ары талкаланды, үнсүз жок болду; түн ичинде Моабдын Кири талкаланды, үнсүз жок болду.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "7178f378870183e04534ee0542956bff203520619acd3145a26c0e7c26b5289e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/15\/1-4.1791209668321.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "жүк"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моаб"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "בליל",
+      "gloss": "түн ичинде"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "талкаланды"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Ар"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моабдын"
+    },
+    {
+      "surface": "נדמה",
+      "gloss": "үнсүз жок болду"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "בליל",
+      "gloss": "түн ичинде"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "талкаланды"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "Кир"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моабдын"
+    },
+    {
+      "surface": "נדמה",
+      "gloss": "үнсүз жок болду"
+    }
+  ],
+  "timestamp": "2026-10-05T14:14:28.322356643Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 7:3",
+  "book": "song-of-songs",
+  "lang": "ky",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שררך",
+      "rationale": "Байыркы котормолор «киндик» дешет, башкалары «бел, былгаары» деген маанини сунуштайышат"
+    },
+    {
+      "kind": "substitution",
+      "subject": "чара",
+      "rationale": "אגן — чөгөрүлүп жасалган табак, «чара» деген салттуу сөз"
+    }
+  ],
+  "translation": "Киндигиң тегерек чарадай, аранда аралашкан шарап жетишпейт; ичиң буудайдын дөбөсү, лала гүлдөрү менен курчалган.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "64ce6cd2d6a1f5e11738c4c9da89684b1d7739574dcc86367b122a1426b72231",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/song-of-songs\/7\/1-4.1791219673127.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שררך",
+      "gloss": "киндигиң"
+    },
+    {
+      "surface": "אגן",
+      "gloss": "чара"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "тегерек"
+    },
+    {
+      "surface": "אל",
+      "gloss": "жок"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "жетишпейт"
+    },
+    {
+      "surface": "המזג",
+      "gloss": "аралашкан шарап"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "ичиң"
+    },
+    {
+      "surface": "ערמת",
+      "gloss": "дөбөсү"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "буудайдын"
+    },
+    {
+      "surface": "סוגה",
+      "gloss": "курчалган"
+    },
+    {
+      "surface": "בשושנים",
+      "gloss": "лала гүлдөрү менен"
+    }
+  ],
+  "timestamp": "2026-10-05T17:01:13.128535397Z",
+  "model": "glm-5.3"
+}

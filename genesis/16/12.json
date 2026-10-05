@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 16:12",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "жапайы эсек киши",
+      "rationale": "פרא אדם: «жапайы эсек сыяктуу киши» (JPS) же «жапайы киши» (KJV, פרא сыпат катары)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "баарына каршы",
+      "rationale": "ידו בכל — «колу баарында»; каршылык мааниси контексттен"
+    }
+  ],
+  "translation": "Ал эми ал жапайы эсек киши болот: колу баарына каршы, жана баарынын колу ага каршы; ал эми бардык бир туугандарынын жүзүнөн орун алат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "d697c83e17a8a50085f6be7eebdddbe18419fc96e1e975979a913746ab4c4ca9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/16\/9-12.1791200984458.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "ал эми ал"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "болот"
+    },
+    {
+      "surface": "פרא",
+      "gloss": "жапайы эсек"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "киши"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "колу"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "баарына каршы"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "жана колу"
+    },
+    {
+      "surface": "כל",
+      "gloss": "баарынын"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ага каршы"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "жана үстүнө"
+    },
+    {
+      "surface": "פני",
+      "gloss": "жүзүнөн"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бардык"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "бир туугандарынын"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "орун алат"
+    }
+  ],
+  "timestamp": "2026-10-05T11:49:44.460095963Z",
+  "model": "glm-5.3"
+}

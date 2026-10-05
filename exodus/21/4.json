@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 21:4",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "мүлкү",
+      "rationale": "לאדניה — «кожоюнуна тиешелүү» деген ээлик түзүлүш, кыргызча «мүлкү болот» деп ачыкталды"
+    },
+    {
+      "kind": "idiom",
+      "subject": "בגפו",
+      "rationale": "«Өз денеси менен» — жеке өзү, бир нерседен да бирөөдөн да кошулбай"
+    }
+  ],
+  "translation": "Эгер анын кожоюну ага аял берсе, жана ал ага уулдар же кыздар төрөсө, ал аял жана анын балдары кожоюнунун мүлкү болот, ал эми ал өзү жеке өзү чыгып кетет.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "e00d3a443c679e325a2cdeb91bc8db30e8f2f8b9ede0ddde24b640bf33a8f61d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/21\/1-4.1791202322301.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "эгер"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "анын кожоюну"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "берсе"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ага"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "аял"
+    },
+    {
+      "surface": "וילדה",
+      "gloss": "жана төрөсө"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ага"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "уулдар"
+    },
+    {
+      "surface": "או",
+      "gloss": "же"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "кыздар"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ал аял"
+    },
+    {
+      "surface": "וילדיה",
+      "gloss": "жана анын балдары"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "болот"
+    },
+    {
+      "surface": "לאדניה",
+      "gloss": "кожоюнунун"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ал эми ал өзү"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "чыгып кетет"
+    },
+    {
+      "surface": "בגפו",
+      "gloss": "жеке өзү"
+    }
+  ],
+  "timestamp": "2026-10-05T12:12:02.302709560Z",
+  "model": "glm-5.3"
+}

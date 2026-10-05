@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 18:7",
+  "book": "1-kings",
+  "lang": "ky",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "беле",
+      "rationale": "еврейский вопрос передан вопросительной частицей, которой нет в иврите"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אדני",
+      "gloss": "אדני об человеке — 'мырзам', не божественный Адонай"
+    },
+    {
+      "kind": "you",
+      "subject": "to Elijah",
+      "rationale": "Овадьяху прямо обращается к Элияху с вопросом"
+    }
+  ],
+  "translation": "Жана Овадьяху жолдо болгонда, карачы, Элияху ага каршы чыкты; ал аны тааныды жана жүзүнө жыгылды жана айтты: Сен беле, мырзам, Элияху?",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "6c88113b5098a970a07713e3add1de52a5f7289c21b7f014a84c527a851cac37",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-kings\/18\/5-8.1791208448821.json",
+    "code": "641241cf-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Жана ...болду"
+    },
+    {
+      "surface": "עבדיהו",
+      "gloss": "Овадьяху"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "жолдо"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "жана карачы"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Элияху"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "ага каршы"
+    },
+    {
+      "surface": "ויכרהו",
+      "gloss": "аны тааныды"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "жыгылды"
+    },
+    {
+      "surface": "על",
+      "gloss": "...үнө"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "жүз"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "жана айтты"
+    },
+    {
+      "surface": "האתה",
+      "gloss": "Сен беле"
+    },
+    {
+      "surface": "זה",
+      "gloss": "...бул"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "мырзам"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Элияху"
+    }
+  ],
+  "timestamp": "2026-10-05T13:54:08.822437449Z",
+  "model": "glm-5.3"
+}

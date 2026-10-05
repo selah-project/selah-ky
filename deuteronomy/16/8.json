@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 16:8",
+  "book": "deuteronomy",
+  "lang": "ky",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "арналган",
+      "rationale": "לַיהוָө тарабынан \"Яхвеге ... арналган\" деген байланышты кыргызча түшүнүү үчүн кошумча этиш керек."
+    },
+    {
+      "kind": "substitution",
+      "subject": "עצרת",
+      "rationale": "Сөздүн тамыры \"кармоо, токтотуу\" — \"чектелген ыйык жыйын\"; кийин ивритте Шавуот майрамынын аталышы болуп калган."
+    }
+  ],
+  "translation": "Алты күн мацот жегин, ал эми жетинчи күнү — Яхвеге, Элохимиңе арналган жыйын; эч бир иш жасаба.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "372e101a9a74e67a9df470aec489afe0032cb493c2df1a0aea2b351cb9dc7d65",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/16\/5-8.1791205015304.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "Алты"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "күн"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "жегин"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "мацот"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "ал эми күнү"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "жетинчи"
+    },
+    {
+      "surface": "עצרת",
+      "gloss": "жыйын"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхвеге"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Элохимиңе"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "жасаба"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "иш"
+    }
+  ],
+  "timestamp": "2026-10-05T12:56:55.305382444Z",
+  "model": "glm-5.3"
+}

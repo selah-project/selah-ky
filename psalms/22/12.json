@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 22:12",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "צרה",
+      "rationale": "Буквально «тарчылык, кысуу» — «кысынч» (кыйынчылык) деп берилди, форма сакталды"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Яхвеге",
+      "rationale": "Аят Яхвеге багытталган тилем — «алыс болбо» деген буйрук"
+    }
+  ],
+  "translation": "Менден алыс болбо, анткени кысынч жакын, анткени жардам берүүчү жок.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "47a0de3be98c730c1580e429d33f1946bf0c6d0015ef3530c8c85d945dbaba10",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/22\/9-12.1791215581711.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "болбо"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "алыс болбо"
+    },
+    {
+      "surface": "мמני",
+      "gloss": "менден"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "кысынч"
+    },
+    {
+      "surface": "קרובה",
+      "gloss": "жакын"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "אין",
+      "gloss": "жок"
+    },
+    {
+      "surface": "עוזר",
+      "gloss": "жардам берүүчү"
+    }
+  ],
+  "timestamp": "2026-10-05T15:53:01.712830141Z",
+  "model": "glm-5.3"
+}

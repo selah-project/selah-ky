@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 106:6",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 106,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "чынжырлуу үч этиш",
+      "rationale": "Үч катар күнөө этиши (חטא–עוה–רשע) өсүүчү оордукту түзөт — структура сакталды"
+    },
+    {
+      "kind": "you",
+      "subject": "Исраэл элине",
+      "rationale": "Мыйзамды кайталоо стилиндеги жалпы моюндоо — «биз» деген сөз менен эл өзүнө сүйлөйт"
+    }
+  ],
+  "translation": "Аталарыбыз менен кошо күнөө кылдык, букулук кылдык, мыйзамсыздык кылдык.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "398990a8f996e117e518ccdae18272d9e1a45132d9234326b9c1a547ffd75863",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/106\/5-8.1791217136328.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חטאנו",
+      "gloss": "күнөө кылдык"
+    },
+    {
+      "surface": "עם",
+      "gloss": "менен кошо"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "аталарыбыз"
+    },
+    {
+      "surface": "העוינו",
+      "gloss": "букулук кылдык"
+    },
+    {
+      "surface": "הרשענו",
+      "gloss": "мыйзамсыздык кылдык"
+    }
+  ],
+  "timestamp": "2026-10-05T16:18:56.333246860Z",
+  "model": "glm-5.3"
+}

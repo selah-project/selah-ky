@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "leviticus 25:55",
+  "book": "leviticus",
+  "lang": "ky",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עבדים \/ עבדי",
+      "rationale": "Кулдар — Менин кулдарым: эки жолу кайталанган «эвед» — ээлик бекемделип турат."
+    },
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "rationale": "Относительный «ачер» кыргызча түз байланышка сиңди."
+    },
+    {
+      "kind": "addition",
+      "subject": "—",
+      "rationale": "«Мен — Яхве» дегендеги дефис кыргызча көпүрө катары кошулду, еврейче жок."
+    }
+  ],
+  "translation": "Анткени Йисраэлдин балдары Менин кулдарым — Менин кулдарым алар, аларды Мен Мицрайим жеринен алып чыктым; Мен — Яхве, силердин Элохимиңер.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "5bfd8a8d98d15571d8e506a5d8b336657a9c301ac9a570aed0a90f39be06d51f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/25\/53-55.1791203429178.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Менин"
+    },
+    {
+      "surface": "בני",
+      "gloss": "балдары"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэлдин"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "кулдар"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "кулдарым"
+    },
+    {
+      "surface": "הם",
+      "gloss": "алар"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "алып чыктым"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "аларды"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "жеринен"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицрайим"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Мен"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "силердин Элохимиңер"
+    }
+  ],
+  "timestamp": "2026-10-05T12:30:29.179365977Z",
+  "model": "glm-5.3"
+}

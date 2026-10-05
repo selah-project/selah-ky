@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 1:5",
+  "book": "ezekiel",
+  "lang": "ky",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨чыкты⟩ ⟨бар⟩",
+      "rationale": "кыргыз тилине этиш-байламча керек, еврейче жок"
+    },
+    {
+      "kind": "substitution",
+      "subject": "жандык",
+      "rationale": "חיה — тирүү жан; «жаныбар» эмес, «жандык» формасы сакталды"
+    },
+    {
+      "kind": "mystery",
+      "subject": "көрүнүш",
+      "rationale": "Жехезкелдин көрүнүшү атайын тумартуу тилде айтылат"
+    }
+  ],
+  "translation": "Анын ичинен төрт жандыктын бейнеси ⟨чыкты⟩, жана алардын көрүнүшү мына: аларга адамдын бейнеси ⟨бар⟩.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "03130aa741c68ffc2e6149173fd1f01e6b8e8ae2201c05e8aeb66029c2b602cd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ezekiel\/1\/5-8.1791212044851.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומתוכה",
+      "gloss": "анын ичинен"
+    },
+    {
+      "surface": "דמות",
+      "gloss": "бейнеси"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "төрт"
+    },
+    {
+      "surface": "חיות",
+      "gloss": "жандыктын"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "жана бул"
+    },
+    {
+      "surface": "מראיהן",
+      "gloss": "алардын көрүнүшү"
+    },
+    {
+      "surface": "דמות",
+      "gloss": "бейнеси"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "адамдын"
+    },
+    {
+      "surface": "להנה",
+      "gloss": "аларга"
+    }
+  ],
+  "timestamp": "2026-10-05T14:54:04.851695465Z",
+  "model": "glm-5.3"
+}

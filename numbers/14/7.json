@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 14:7",
+  "book": "numbers",
+  "lang": "ky",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "бул",
+      "rationale": "Еврейче «жакшы жер өтө өтө» — аныктооч кошулду"
+    },
+    {
+      "kind": "elision",
+      "subject": "לאמר",
+      "rationale": "«Айткыла» деген кириш сөз кашаа менен берилди; кыргызча эки «айтты» катар келбейт"
+    },
+    {
+      "kind": "you",
+      "subject": "Йисраэлдин уулдарынын чогулушуна",
+      "rationale": "Йеошуа менен Калеб бүт жамаатка кайрылууда"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מאד מאד",
+      "rationale": "Эки катар «өтө» — кайталоо менен күчөтүү, жоголбошу үчүн сакталды"
+    }
+  ],
+  "translation": "Жана алар Йисраэлдин уулдарынын бүт чогулушуна айтышты: ⟨Айткыла⟩ — биз өтүп барган, аны чалгындоо үчүн ⟨את⟩ анын ичинде басып өткөн жер — бул жер өтө, өтө жакшы.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "ada3366d4d17206d07aa25c1bba57f107c091ee524c74fab8d5d803e43a3c5c6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/numbers\/14\/6-7.1791223706533.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Жана алар айтышты"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…га"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүт"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "чогулушуна"
+    },
+    {
+      "surface": "בני",
+      "gloss": "уулдарынын"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэл"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨Айткыла⟩"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "жер"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…нын"
+    },
+    {
+      "surface": "עברנו",
+      "gloss": "биз өтүп барган"
+    },
+    {
+      "surface": "בה",
+      "gloss": "анын ичинде"
+    },
+    {
+      "surface": "לתור",
+      "gloss": "чалгындоо үчүн"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "аны"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "жакшы"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "бул жер"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "өтө"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "өтө"
+    }
+  ],
+  "timestamp": "2026-10-05T18:08:26.534082818Z",
+  "model": "glm-5.3"
+}

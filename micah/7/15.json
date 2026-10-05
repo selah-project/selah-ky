@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "micah 7:15",
+  "book": "micah",
+  "lang": "ky",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אראנו суффикси",
+      "rationale": "«анын\/алардын» — жөндөмөсү кимге тиешелүү: KJV «him», ASV «them»; текст жалгыз да, көп да кабыл алат"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨аларга⟩",
+      "rationale": "ивритте була жок, кыргызча объект такталышы керек"
+    }
+  ],
+  "translation": "Мицрайим жеринен чыккан күндөрүңдөй, ⟨аларга⟩ тамаша иштерди көрсөтөмүн.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "dbf71ed114ed89d8703c8c8f16ab3be9148f4e048ffc1e16d0de6a3027bafe67",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/micah\/7\/13-16.1791214627048.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כימי",
+      "gloss": "күндөрүңдөй"
+    },
+    {
+      "surface": "צאתך",
+      "gloss": "чыккан"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "жеринен"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицрайим"
+    },
+    {
+      "surface": "אראנו",
+      "gloss": "көрсөтөмүн"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "тамаша иштерди"
+    }
+  ],
+  "timestamp": "2026-10-05T15:37:07.049184576Z",
+  "model": "glm-5.3"
+}

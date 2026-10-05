@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 109:21",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 109,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "עשה אתי",
+      "rationale": "бурулуш 'мага мамиле кыл' — бош 'жаса' эмес, ырайымдуу жүрүм-турумду билдирет"
+    },
+    {
+      "kind": "you",
+      "subject": "Яхвеге",
+      "rationale": "тилекте Яхвени түз кабарлоо: 'Сен болсо, Яхве Адонай'"
+    }
+  ],
+  "translation": "Сен болсо, Яхве Адонай, мага ⟨את⟩ мамиле кыл Ысымыңдын далайына, анткени Сенин хеседиң жакшы — мени куткар.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "435c461fed7a48b2b615472f9cc58d672b82cf4e97ebaacf493f1e4ed725e059",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/109\/21-24.1791217183326.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Сен болсо"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "мамиле кыл"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "мен (мага)"
+    },
+    {
+      "surface": "למען",
+      "gloss": "далайына"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Ысымыңдын"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "жакшы"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "хеседиң"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "мени куткар"
+    }
+  ],
+  "timestamp": "2026-10-05T16:19:43.328412179Z",
+  "model": "glm-5.3"
+}

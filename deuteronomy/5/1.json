@@ -1,0 +1,130 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 5:1",
+  "book": "deuteronomy",
+  "lang": "ky",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "Ук, Йисраэл",
+      "rationale": "Туура тартуу: Моше бүт элди «Ук» деген буйрук менен кайрылат."
+    },
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "rationale": "Кыргызча салыштырма байланыш сөзсүз («мен ... сүйлөп жаткан») түшүндүрүлөт."
+    },
+    {
+      "kind": "elision",
+      "subject": "באזניכם түз мааниси",
+      "rationale": "«Кулагыңарга» — кыргызча «кулагыңарга сүйлөдүм» табигый; латынча 'in your ears' эмес."
+    }
+  ],
+  "translation": "Моше бүткүл Йисраэлди чакырып, аларга мындай деди: Ук, Йисраэл, бүгүн кулагыңарга сүйлөп жаткан ⟨את⟩ жарлыктарды жана ⟨את⟩ өкүмдөрдү; аларды үйрөнүп, аткаруу үчүн сактагыла.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "24ccd86a492357d5404e135610d0360475aac33abb530a37833f9221eb3add5f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/5\/1-4.1791204812429.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "чакырып"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "אל",
+      "gloss": "карай"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүткүл"
+    },
+    {
+      "surface": "יישראל",
+      "gloss": "Йисраэлди"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "аларга"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "Ук"
+    },
+    {
+      "surface": "יישראל",
+      "gloss": "Йисраэл"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "жарлыктарды"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "жарлыктарды"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "өкүмдөрдү"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "өкүмдөрдү"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "мен"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сүйлөп жаткан"
+    },
+    {
+      "surface": "באזניכם",
+      "gloss": "кулагыңарга"
+    },
+    {
+      "surface": "היום",
+      "gloss": "бүгүн"
+    },
+    {
+      "surface": "ולמדתם",
+      "gloss": "үйрөнүп"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "аларды (жарлыктарды жана өкүмдөрдү)"
+    },
+    {
+      "surface": "ושמרתם",
+      "gloss": "сактагыла"
+    },
+    {
+      "surface": "לעשתם",
+      "gloss": "аткаруу үчүн"
+    }
+  ],
+  "timestamp": "2026-10-05T12:53:32.430393752Z",
+  "model": "glm-5.3"
+}

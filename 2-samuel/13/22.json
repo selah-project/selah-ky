@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-samuel 13:22",
+  "book": "2-samuel",
+  "lang": "ky",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "למרע ועד טוב",
+      "rationale": "«Жаман да, жакшы да» — эки чектин идиомасы: «эч кандай сөз айткан жок»."
+    },
+    {
+      "kind": "substitution",
+      "subject": "корлонткон",
+      "rationale": "ענה «зордук-зомбулук кылды, басмырлады» — «corдоо» деген батас берилди, literally «аны басынтты»."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שנא",
+      "rationale": "D3 боюнча שנא — «жек көрүү»; кек эки жыл кармалат, 13:23 менен байланыш."
+    }
+  ],
+  "translation": "Жана Авшалом Амнонго жаман да, жакшы да сөз айткан жок, анткени Авшалом ⟨את⟩ Амнонду жек көрдү, анткени ал ⟨את⟩ Тамарды, эжесин корлонткон.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "1aa4ccb17836cd63137c348e61719b914dfe40d74a1d860bedb3c21531b04870",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-samuel\/13\/21-24.1791207532890.json",
+    "code": "641241cf-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "жана… жок"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сөз айткан"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Авшалом"
+    },
+    {
+      "surface": "עם",
+      "gloss": "…га"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Амнон"
+    },
+    {
+      "surface": "למרע",
+      "gloss": "жаман"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "да… да"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "жакшы"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "жек көрдү"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Авшалом"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Амнонду"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Амнонду"
+    },
+    {
+      "surface": "על",
+      "gloss": "анткени… үчүн"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "иш"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…ны"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "корлонткон"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Тамарды"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "Тамарды"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "эжесин"
+    }
+  ],
+  "timestamp": "2026-10-05T13:38:52.891378685Z",
+  "model": "glm-5.3"
+}

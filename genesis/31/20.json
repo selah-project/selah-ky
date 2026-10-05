@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 31:20",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "жүрөгүн уурдоо",
+      "rationale": "את לב לבן גנב — 'жүрөгүн уурдоо' = Лабанды алдап, кабарсыз калтыруу"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גנב",
+      "rationale": "19-аяттагы Рахелдин уурдоосу менен 20-аяттагы Яаковдун 'жүрөк уурдоосу' бир тамырда"
+    }
+  ],
+  "translation": "Жана Яаков арамей Лабандын жүрөгүн ⟨את⟩ уурдап, ага качып жатканын айткан жок.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "93367398b5382931a5259cd7a5738d0f05c3f002f2211fd032c21391df57c5f4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/31\/17-20.1791201369669.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויגנב",
+      "gloss": "уурдап"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаков"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "жүрөгүн"
+    },
+    {
+      "surface": "לב",
+      "gloss": "жүрөгүн"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Лабандын"
+    },
+    {
+      "surface": "הארמי",
+      "gloss": "арамей"
+    },
+    {
+      "surface": "על",
+      "gloss": "анткен"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "жок"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "айткан"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ага"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "качып жатканын"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ал"
+    }
+  ],
+  "timestamp": "2026-10-05T11:56:09.670982775Z",
+  "model": "glm-5.3"
+}

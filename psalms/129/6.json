@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 129:6",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 129,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יבש \/ יבוש",
+      "rationale": "5-аяттагы «уятка калсын» (בוש) деген сөз менен бул аяттагы «кургоо» (יבש) тамырдаш — жек көрүүчүлөр уяттан кургашат"
+    },
+    {
+      "kind": "crux",
+      "subject": "שֶׁקַּדְמַת שָׁלַף",
+      "rationale": "«Аны (жердин алдынан) чыгара электе» — ким чыгарып жатканы так эмес: орокчубу, шамалбы, же өзүбү"
+    }
+  ],
+  "translation": "Алар чатырдагы чөптөй болсун — аны оолугула электе кургагыдай.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "1c343390f858f8d7f7a50f537fd05a66a39f0fb326c675510ec2e78f0b160f5e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/129\/5-8.1791217468651.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "болсун"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "чөптөй"
+    },
+    {
+      "surface": "גגות",
+      "gloss": "чатырдагы"
+    },
+    {
+      "surface": "שקדמת",
+      "gloss": "электе"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "оолугула"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "кургагыдай"
+    }
+  ],
+  "timestamp": "2026-10-05T16:24:28.652623354Z",
+  "model": "glm-5.3"
+}

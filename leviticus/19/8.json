@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 19:8",
+  "book": "leviticus",
+  "lang": "ky",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жаны",
+      "rationale": "נפש — «дем алуучу жандык, жан»; кээ «адам» деп берилет, биз формасын сактадык"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קדש\/חלל",
+      "rationale": "«ыйык» жана «бузуу» карама-каршысы — ыйыкты бузуу деген түз эле сүрөт"
+    }
+  ],
+  "translation": "Жана аны жеген адам өз күнөөсүн көтөрөт, анткени Яхвенин ⟨את⟩ ыйык нерсесин бузду, жана ошол жаны элинин арасынан кесилип ташталат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "d5afeb929d4b000f574ca67650360a92ee191ae9b8594ea880768493d7a8ff5f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/19\/5-8.1791203227000.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואכליו",
+      "gloss": "жана аны жеген"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "күнөөсүн"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "көтөрөт"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ыйык нерсесин"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ыйык нерсесин"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "бузду"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "жана кесилип ташталат"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "жаны"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ошол"
+    },
+    {
+      "surface": "מעמיה",
+      "gloss": "элинин арасынан"
+    }
+  ],
+  "timestamp": "2026-10-05T12:27:07.001726615Z",
+  "model": "glm-5.3"
+}

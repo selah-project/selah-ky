@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 5:10",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "тууралык",
+      "rationale": "נכונа — 'бекем\/туура'; ээлик байланыш үчүн ат атооч кошулду"
+    },
+    {
+      "kind": "crux",
+      "subject": "נכונה",
+      "rationale": "KJV 'faithfulness', JPS 'sincerity', YLT 'stability' — бекемдик\/тууралык ортосундагы айырма"
+    },
+    {
+      "kind": "idiom",
+      "subject": "ачык көр",
+      "rationale": "'тамак — ачык көр' деген еврей образы кыргызча сакталды"
+    }
+  ],
+  "translation": "Анткени алардын оозунда ⟨тууралык⟩ жок; ичтеринде бузукулуктар; алардын тамагы — ачык көр, тилдери менен жылмашат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "2ac9312f959b215aba426f7f5f1ae5c226a181a8bd26f24b424fd4ddd39310cd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/5\/9-12.1791215262795.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "אין",
+      "gloss": "жок"
+    },
+    {
+      "surface": "בפיהו",
+      "gloss": "алардын оозунда"
+    },
+    {
+      "surface": "נכונה",
+      "gloss": "⟨тууралык⟩"
+    },
+    {
+      "surface": "קרבם",
+      "gloss": "ичтеринде"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "бузукулуктар"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "көр"
+    },
+    {
+      "surface": "פתוח",
+      "gloss": "ачык"
+    },
+    {
+      "surface": "גרונם",
+      "gloss": "алардын тамагы"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "тилдери менен"
+    },
+    {
+      "surface": "יחליקון",
+      "gloss": "жылмашат"
+    }
+  ],
+  "timestamp": "2026-10-05T15:47:42.796483292Z",
+  "model": "glm-5.3"
+}

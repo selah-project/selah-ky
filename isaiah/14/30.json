@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "isaiah 14:30",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "калдык өлтүрөт",
+      "rationale": "יהרגнин этиштин жүктөөчүсү: «ал (ачарчылык) өлтүрөт» деле — KJV окшош; пассив да мүмкүн."
+    },
+    {
+      "kind": "substitution",
+      "subject": "жайышат",
+      "rationale": "ורעו — «жайытка багуу» деген сөз, жырткыч жаныбар жаткан образы менен байланышкан."
+    }
+  ],
+  "translation": "Жана жардылардын тунучтары жайышат, муктаждар коопсуз жатышат; бирок Мен ачарчылык менен сенин тамырыңды өлтүрөм, жана сенин калдыгың өлтүрүлөт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "7e1e192fb7568955d3ed558ea1362fe6b04dafa03faa455085855ec11e20a70a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/14\/29-32.1791209643276.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ורעו",
+      "gloss": "жана ... жайышат"
+    },
+    {
+      "surface": "בכורי",
+      "gloss": "тунучтары"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "жардылардын"
+    },
+    {
+      "surface": "ואביונים",
+      "gloss": "жана муктаждар"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "коопсуз"
+    },
+    {
+      "surface": "ירבצו",
+      "gloss": "жатышат"
+    },
+    {
+      "surface": "והמתי",
+      "gloss": "бирок Мен ... өлтүрөм"
+    },
+    {
+      "surface": "ברעב",
+      "gloss": "ачарчылык менен"
+    },
+    {
+      "surface": "שרשך",
+      "gloss": "сенин тамырыңды"
+    },
+    {
+      "surface": "ושאריתך",
+      "gloss": "жана сенин калдыгың"
+    },
+    {
+      "surface": "יהרג",
+      "gloss": "өлтүрүлөт"
+    }
+  ],
+  "timestamp": "2026-10-05T14:14:03.276931421Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 28:31",
+  "book": "numbers",
+  "lang": "ky",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "түбөлүктүү",
+      "rationale": "התמיד «туруктуу, үзгүлтүксүз» деген сөз — «ар күнү» деген мааниде."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨менен⟩",
+      "rationale": "Еврей тексти жөн гана «жана алардын куйма курмандыктары» дейт; байламта кошулду."
+    }
+  ],
+  "translation": "Түбөлүктүү өрттөлүү курмандыгынан жана анын минхасынан тышкары аларды даярдагыла; алар силерге кемчиликсиз болсун, жана алардын куйма курмандыктары ⟨менен⟩.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "7b07036bbc99ff88a0f7622431234aa1e18af56668b8fbf6428e815ba426e972",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/numbers\/28\/29-31.1791204278288.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מלבד",
+      "gloss": "тышкары"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "өрттөлүү курмандыгынан"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "түбөлүктүү"
+    },
+    {
+      "surface": "ומנחתו",
+      "gloss": "жана анын минхасынан"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "даярдагыла"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "кемчиликсиз"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "болсун"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "силерге"
+    },
+    {
+      "surface": "вנסכיהם",
+      "gloss": "жана алардын куйма курмандыктары"
+    }
+  ],
+  "timestamp": "2026-10-05T12:44:38.289040288Z",
+  "model": "glm-5.3"
+}

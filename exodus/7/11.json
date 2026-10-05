@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 7:11",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "лахат",
+      "rationale": "להט — «жалын» деген сөз, сыйкыр маанисинде; еврейче сөз сакталды"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גם … גם",
+      "rationale": "«да … да» кайра кайталоосу — Фиргаундун жообу Яхвеники менен тең салмакта экенин баса белгилейт"
+    }
+  ],
+  "translation": "Фиргаун да даанышмандарды жана сыйкырчыларды чакырды; Мицрайимдин башкы сыйкырчылары да өз лахаттары менен ошондай кылышты.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "440d8810d66616f0523e7635f5744b5f74d16e8f06b98e963eec1dcf5616f8e3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/7\/9-12.1791201885858.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "чакырды"
+    },
+    {
+      "surface": "גם",
+      "gloss": "да"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Фиргаун"
+    },
+    {
+      "surface": "לחכמים",
+      "gloss": "даанышмандарды"
+    },
+    {
+      "surface": "ולמכשפים",
+      "gloss": "жана сыйкырчыларды"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "кылышты"
+    },
+    {
+      "surface": "גם",
+      "gloss": "да"
+    },
+    {
+      "surface": "הם",
+      "gloss": "алар"
+    },
+    {
+      "surface": "חרטמי",
+      "gloss": "башкы сыйкырчылары"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицрайимдин"
+    },
+    {
+      "surface": "בלהטיהם",
+      "gloss": "өз лахаттары менен"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ошондой"
+    }
+  ],
+  "timestamp": "2026-10-05T12:04:45.859949306Z",
+  "model": "glm-5.3"
+}

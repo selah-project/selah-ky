@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 33:1",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "көздөрүн көтөрүп",
+      "rationale": "נשא עיניв — еврейче идиом,literal 'көздөрүн көтөрүү' кыргызча да карап алуу маанисин берет"
+    },
+    {
+      "kind": "substitution",
+      "subject": "бөлдү",
+      "rationale": "ויחץ лексикасы 'кесип экиге бөлүү' — башкача айтканда 'чачып бөлүштүрүү'"
+    }
+  ],
+  "translation": "Жана Яаков ⟨את⟩ көздөрүн көтөрүп карады, ошондо мына, Эсав келди, аны менен төрт жүз адам. Жана ал ⟨את⟩ балдарды Леанын үстүнө, Рахелдин үстүнө жана эки кул аялдын үстүнө бөлдү.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "d40ee26dd1dce151c05061d33c5fee0e0daf14f41235cec199a05eccf9b2e29c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/33\/1-4.1791201414238.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "көтөрүп карады"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаков"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "көздөрүн"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "карады"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ошондо мына"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Эсав"
+    },
+    {
+      "surface": "בא",
+      "gloss": "келди"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "аны менен"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "төрт"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "жүз"
+    },
+    {
+      "surface": "איש",
+      "gloss": "адам"
+    },
+    {
+      "surface": "ויחץ",
+      "gloss": "бөлдү"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "балдарды"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "балдарды"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстүнө"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Леанын"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "жана үстүнө"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Рахелдин"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "жана үстүнө"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "эки"
+    },
+    {
+      "surface": "השפחות",
+      "gloss": "кул аялдын"
+    }
+  ],
+  "timestamp": "2026-10-05T11:56:54.238827278Z",
+  "model": "glm-5.3"
+}

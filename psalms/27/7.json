@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 27:7",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Яхвеге",
+      "rationale": "Тилек түрүндө тике кароол-буйрук: 'Ук, Яхве'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "וחנני\/וענני",
+      "rationale": "Эки этеш тең '-ни' мүчөсү менен бүтөт — үн окшоштугу, кыргызча жоголду"
+    }
+  ],
+  "translation": "Ук, Яхве, үнүмдү — чакырамын; жана мага ырайым кыл жана мага жооп бер.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "bfb86ccae671cc6f02ad03ad3f9e8963d96f8e6ab210d7fbd68bf39bd0fb6ad1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/27\/5-8.1791215722721.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "ук"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "үнүмдү"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "чакырамын"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "ырайым кыл"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "жооп бер"
+    }
+  ],
+  "timestamp": "2026-10-05T15:55:22.722738788Z",
+  "model": "glm-5.3"
+}

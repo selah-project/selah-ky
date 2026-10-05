@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 78:37",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Анын",
+      "rationale": "Ивритте «алардын жүрөгү... Анын менен» — кыргызча ээлик мамиле үчүн ⟨Анын⟩ керек"
+    },
+    {
+      "kind": "substitution",
+      "subject": "наверие",
+      "rationale": "נאמנו (аман тамыры) — «ишенимдүү\/бекарар» маанисинде; «туруктуу болушпады» деп берилди"
+    }
+  ],
+  "translation": "Жана алардын жүрөгү Анын менен бекем турбады, жана Анын келишиминде туруктуу болушпады.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "051b0cacb9c8142fa7dd5a0aa0175cecb480187a7673de3e606bd9cb625c865b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/78\/37-40.1791216607152.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולבם",
+      "gloss": "жана алардын жүрөгү"
+    },
+    {
+      "surface": "לא",
+      "gloss": "...бады эмес — тескерилик: турбады"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "бекем турбады"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "Анын менен"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "жана ... болушпады"
+    },
+    {
+      "surface": "נאמנו",
+      "gloss": "туруктуу болушпады"
+    },
+    {
+      "surface": "בבריתו",
+      "gloss": "Анын келишиминде"
+    }
+  ],
+  "timestamp": "2026-10-05T16:10:07.153014911Z",
+  "model": "glm-5.3"
+}

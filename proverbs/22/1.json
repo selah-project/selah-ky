@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 22:1",
+  "book": "proverbs",
+  "lang": "ky",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "артык",
+      "rationale": "еврей текстинде салыштыруа «артык» деген сөзү жок, маани     —    орусча",
+      "1": null
+    },
+    {
+      "kind": "alternative",
+      "subject": "жакшы ырайым",
+      "rationale": "חן טוב     —    орусча «жакшы акыл», б.а. кимдирдин көзүнө жагымдуулук"
+    }
+  ],
+  "translation": "Тандап алынган ат чоң байлыктан ⟨артык⟩, күмүштөн жана алтындан — жакшы ырайым.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "da30ecec23518da05e20c566ab391ef5a453dbaa5d01661c9410f34e9853b227",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/22\/1-4.1791218243373.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נבחר",
+      "gloss": "тандап алынган"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ат"
+    },
+    {
+      "surface": "מעשר",
+      "gloss": "байлык"
+    },
+    {
+      "surface": "רב",
+      "gloss": "чоң"
+    },
+    {
+      "surface": "מכסף",
+      "gloss": "күмүш"
+    },
+    {
+      "surface": "ומזהב",
+      "gloss": "жана алтын"
+    },
+    {
+      "surface": "חן",
+      "gloss": "ырайым"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "жакшы"
+    }
+  ],
+  "timestamp": "2026-10-05T16:37:23.373779267Z",
+  "model": "glm-5.3"
+}

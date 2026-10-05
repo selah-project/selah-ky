@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 116:1",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 116,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "үнүмдү — өтүнүчүмдү — угат",
+      "rationale": "Ивритте этиш алгач келет; кыргызча тартип үчүн угат акыркы орунга жылдырылды"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קולי\/תחנוני",
+      "rationale": "Эки сөз тең -ай акыркы мүчө менен үндөш, кыргызча үнүмдү\/өтүнүчүмдү жакындашты"
+    }
+  ],
+  "translation": "Сүйдүм, анткени Яхве ⟨את⟩ үнүмдү — өтүнүчүмдү — угат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "5897e4c1e51bf2c50d80e75a595ba47d56c93cfae3d2e2a5233a0143986693db",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/116\/1-4.1791217293598.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אהבתי",
+      "gloss": "сүйдүм"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "угат"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "үнүмдү"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "үнүмдү"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "өтүнүчүмдү"
+    }
+  ],
+  "timestamp": "2026-10-05T16:21:33.599002406Z",
+  "model": "glm-5.3"
+}

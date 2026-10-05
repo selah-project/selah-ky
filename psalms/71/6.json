@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 71:6",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 71,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "גוזי",
+      "rationale": "«Кесип\/бөлүп алдың» деген сөз: байыркы которуулар «бөлүп алдың» же «чыгардың» деп берет; йлт «кесип чыгардың» деп тура"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ичинен",
+      "rationale": "ממעי көп сандуу «ичеги-карыны» — кыргызча «ичинен» деп берилди"
+    }
+  ],
+  "translation": "Сага таянып келдим курсактан бери, апамдын ичинен Сен мени ажыратып алдың; Сени даңазалоо менин — дайыма.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "6ca79f69ce876f64ccff447755403c87f9ecf5f4c918067e37ceaef2a588c8ac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/71\/5-8.1791216422925.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עליך",
+      "gloss": "Сага"
+    },
+    {
+      "surface": "נסמכתי",
+      "gloss": "таянып келдим"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "курсактан"
+    },
+    {
+      "surface": "ממעי",
+      "gloss": "ичинен"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "апамдын"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Сен"
+    },
+    {
+      "surface": "גוזי",
+      "gloss": "ажыратып алдың"
+    },
+    {
+      "surface": "בך",
+      "gloss": "Сени"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "даңазалоо менин"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "дайыма"
+    }
+  ],
+  "timestamp": "2026-10-05T16:07:02.926333514Z",
+  "model": "glm-5.3"
+}

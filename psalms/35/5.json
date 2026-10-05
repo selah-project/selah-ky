@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 35:5",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "рух",
+      "rationale": "רוח бул жерде шамал маанисинде, бирок эреже боюнча ар дайым «рух» деп сакталды"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "чыгандык\/рух",
+      "rationale": "саман шамал менен учуруу образы — сот образы (Забур 1:4) менен жакырдашат"
+    }
+  ],
+  "translation": "Алар рухтун алдында чыгандыктай болсун, жана Яхвенин элчиси аларды түртүп жиберсин.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "2cd652a6c2ab2b5db7d020ccc77f4d525584910dabecdda16ec45f856edc0d4e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/35\/5-8.1791215859058.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "болсун"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "чыгандыктай"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "алдында"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "рух"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "жана элчиси"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    },
+    {
+      "surface": "דוחה",
+      "gloss": "түртүп жиберсин"
+    }
+  ],
+  "timestamp": "2026-10-05T15:57:39.058603728Z",
+  "model": "glm-5.3"
+}

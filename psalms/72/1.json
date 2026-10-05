@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 72:1",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 72,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "לשלמה",
+      "rationale": "«Шломо үчүн» — падышага багыштоо; башка окуу: «Шломого (атынан)»."
+    },
+    {
+      "kind": "addition",
+      "subject": "Өзүңдүн",
+      "rationale": "Кыргыз тили ээлик мүчөнү талап кылат, еврейче жок."
+    }
+  ],
+  "translation": "Шломо үчүн. Элохим, Өзүңдүн өкүмдөрүңдү падышага бер, жана Өзүңдүн цедегиңди падышанын уулуна.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "a48fef1a85418dbb54979a0547751fddc0df576b4ea71bd982194e4e10d4ed60",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/72\/1-4.1791216477365.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לשלמה",
+      "gloss": "Шломо үчүн"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "өкүмдөрүңдү"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "падышага"
+    },
+    {
+      "surface": "תן",
+      "gloss": "бер"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "жана цедегиңди"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "уулуна"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "падышанын"
+    }
+  ],
+  "timestamp": "2026-10-05T16:07:57.366333413Z",
+  "model": "glm-5.3"
+}

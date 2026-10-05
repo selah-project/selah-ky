@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 89:39",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "өзүңдүн",
+      "rationale": "кыргыз тили талап кылган ээлик ат атооч, еврейче жок"
+    }
+  ],
+  "translation": "Жана сен четке кактың жана жек көрдүң, өзүңдүн Машиахың менен каарландың.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "e75d1dbc97a178cd633585fc2377983fd052a1d55d33dc8c99dc1d944e2419b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/89\/37-40.1791216760886.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "жана сен"
+    },
+    {
+      "surface": "זנחת",
+      "gloss": "четке кактың"
+    },
+    {
+      "surface": "ותמאס",
+      "gloss": "жана жек көрдүң"
+    },
+    {
+      "surface": "התעברת",
+      "gloss": "каарландың"
+    },
+    {
+      "surface": "עם",
+      "gloss": "менен"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "өзүңдүн Машиахың"
+    }
+  ],
+  "timestamp": "2026-10-05T16:12:40.886946688Z",
+  "model": "glm-5.3"
+}

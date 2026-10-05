@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 40:3",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שאון",
+      "rationale": "шоо-чуу\/бузуулуу: KJV «коркунучтуу» (horrifying), JPS «толкундуу» — сөз ызы-чуу жана кыйроо маанисин экиөңдүү алып жүрөт"
+    },
+    {
+      "kind": "addition",
+      "subject": "кадамдарымды",
+      "rationale": "ибрай тилинде «кадамдарым» деген ат атооч жок — «менин кадамдарым» деген түшүнүк керек болчу"
+    }
+  ],
+  "translation": "Жана Ал мени көтөрүп чыкты ызы-чуу ийинен, чөкмө батпактан, жана буттарымды таш үстүнө тиктеди, кадамдарымды бекемдеди.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "f4a041793cd11dc515919b0af76eee375de4cb94fcaaa6ae4f2b7a65c0771316",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/40\/1-4.1791215985901.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעלני",
+      "gloss": "мени көтөрүп чыкты"
+    },
+    {
+      "surface": "מבור",
+      "gloss": "ийинен"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "ызы-чуу"
+    },
+    {
+      "surface": "מטיט",
+      "gloss": "батпактан"
+    },
+    {
+      "surface": "היון",
+      "gloss": "чөкмө"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "тиктеди"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстүнө"
+    },
+    {
+      "surface": "סלע",
+      "gloss": "таш"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "буттарымды"
+    },
+    {
+      "surface": "כונן",
+      "gloss": "бекемдеди"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "кадамдарымды"
+    }
+  ],
+  "timestamp": "2026-10-05T15:59:45.902104394Z",
+  "model": "glm-5.3"
+}

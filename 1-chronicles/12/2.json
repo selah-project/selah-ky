@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 12:2",
+  "book": "1-chronicles",
+  "lang": "ky",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נשקי קשת",
+      "rationale": "'жаа менен куралдангандар' же 'жааны сүйгөндөр\/өпкөндөр' — тамыр נשק 'өбүү, тийүү'; KJV 'armed with bows'."
+    },
+    {
+      "kind": "measurement",
+      "subject": "таштар жана жебелер",
+      "rationale": "жоокерлердин курал-жарактарды эки кол менен ээлештери саналып жаткан тизменин башы."
+    }
+  ],
+  "translation": "Жаа менен куралдангандар, таштар менен жана жебелер менен жаадан оң колду да, сол колду да колдонгөндөр — Шаулдун бир туугандарынан, Бинйаминден.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "9d83dc5480d13cdadf4c8b3b29577fbe6620c1eb5ca3d9a1c46698b003f60a2b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-chronicles\/12\/1-4.1791222057254.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נשקי",
+      "gloss": "куралдангандар"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "жаа менен"
+    },
+    {
+      "surface": "מימינים",
+      "gloss": "оң колду да колдонгөндөр"
+    },
+    {
+      "surface": "ומשמאלים",
+      "gloss": "сол колду да"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "таштар менен"
+    },
+    {
+      "surface": "ובחצים",
+      "gloss": "жана жебелер менен"
+    },
+    {
+      "surface": "בקשת",
+      "gloss": "жаадан"
+    },
+    {
+      "surface": "מאחי",
+      "gloss": "бир туугандарынан"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаулдун"
+    },
+    {
+      "surface": "מבנימן",
+      "gloss": "Бинйаминден"
+    }
+  ],
+  "timestamp": "2026-10-05T17:40:57.255373572Z",
+  "model": "glm-5.3"
+}

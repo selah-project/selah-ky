@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 34:3",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жаным",
+      "rationale": "נפש 'дем алуучу жандык, жандуулук' — 'жан' катары берилди"
+    },
+    {
+      "kind": "alternative",
+      "subject": "мокочорлор",
+      "rationale": "ענוим 'кайгы баскан, жүдөгөн' — 'мокочор' же 'каарыкчылар' деп да болот"
+    }
+  ],
+  "translation": "Яхведе жаным мактанат, мокочорлор угуп, кубанышсын.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "524b62f9fa7c2d2af2a94384b2df7c93efd856ea353531d4cc63798ac3604083",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/34\/1-4.1791215835553.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ביהוה",
+      "gloss": "Яхведе"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "мактанат"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "жаным"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "угуп"
+    },
+    {
+      "surface": "ענוим",
+      "gloss": "мокочорлор"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "кубанып"
+    }
+  ],
+  "timestamp": "2026-10-05T15:57:15.554720015Z",
+  "model": "glm-5.3"
+}

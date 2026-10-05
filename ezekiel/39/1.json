@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 39:1",
+  "book": "ezekiel",
+  "lang": "ky",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נשיא ראש",
+      "rationale": "'Рош' — ысым ('Рош, Мешек жана Тувалдын төрөсү', YLT\/ASV) же 'башкы' сыяктуу наам ('Мешек менен Тувалдын башкы төрөсү', KJV\/JPS); бул жерде наам катары алынды"
+    },
+    {
+      "kind": "you",
+      "subject": "адам уулу",
+      "rationale": "Эзекиел пайгамбарга тике кайрылуу — Гог жөнүндө пайгамбарлык кылууга буйрук"
+    }
+  ],
+  "translation": "Ал эми сен, адам уулу, Гог жөнүндө пайгамбарлык кыл жана айт: Мыны айтат Адонай Яхве: Кара, Мен сенин каршыңда турмун, Гог, Мешек менен Тувалдын башкы төрөсү.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "83cbe533db1a380cefecac75c8d344738bf03fbb58e4feea44b3365816bb1f4a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ezekiel\/39\/1-4.1791213413656.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Ал эми сен"
+    },
+    {
+      "surface": "בן",
+      "gloss": "уулу"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "адам"
+    },
+    {
+      "surface": "הנבא",
+      "gloss": "пайгамбарлык кыл"
+    },
+    {
+      "surface": "על",
+      "gloss": "жөнүндө"
+    },
+    {
+      "surface": "גוג",
+      "gloss": "Гог"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "жана айт"
+    },
+    {
+      "surface": "כה",
+      "gloss": "мындай"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "айтат"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Кара, Мен"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "сенин каршыңда"
+    },
+    {
+      "surface": "גוג",
+      "gloss": "Гог"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "төрөсү"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "башкы"
+    },
+    {
+      "surface": "משך",
+      "gloss": "Мешектин"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "Тувалдын"
+    }
+  ],
+  "timestamp": "2026-10-05T15:16:53.657370218Z",
+  "model": "glm-5.3"
+}

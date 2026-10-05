@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 135:6",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 135,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "тереңдиктер",
+      "rationale": "תהומות — көбүргөн суу чуңкуру, тереңдиктер; \"тозок\" эмес"
+    }
+  ],
+  "translation": "Яхве каалаган нерсенин баарын жасады — асманда жана жерде, деңиздерде жана бардык тереңдиктерде.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "2c8d0cf40b55764252320e6ad325a99cc1e16cb19ce165ced00faf90961ee08f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/135\/5-8.1791217495170.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "баарын"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "нерсенин ... каалаган"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "каалаган"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "жасады"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "асманда"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "жана жерде"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "деңиздерде"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "жана бардык"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "тереңдиктерде"
+    }
+  ],
+  "timestamp": "2026-10-05T16:24:55.170836970Z",
+  "model": "glm-5.3"
+}

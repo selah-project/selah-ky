@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 19:16",
+  "book": "1-kings",
+  "lang": "ky",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "кылып",
+      "rationale": "משח «майлоо» — ыйык кызматка даярдоо; кыргызча «падыша кылып майла» конструкциясы кошумча"
+    },
+    {
+      "kind": "you",
+      "subject": "Элияхуга",
+      "rationale": "Буйрук уланып Элияхуга багытталган"
+    }
+  ],
+  "translation": "Жана ⟨את⟩ Йехуну, Нимшинин уулун, Йисраэлге падыша кылып майла; жана ⟨את⟩ Элишаны, Шафаттын уулун, Абел-Мехоладан, өзүңдүн ордуна пайгамбар кылып майла.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "6c89fcf01dbb56d6bcf0dd5ba297cce3bf430e11a7ff22afe2c2574e374644b2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-kings\/19\/13-16.1791208511206.json",
+    "code": "641241cf-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "жана ⟨את⟩",
+      "marks": "Йехуну"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Йехуну"
+    },
+    {
+      "surface": "בן",
+      "gloss": "уулун"
+    },
+    {
+      "surface": "נמשי",
+      "gloss": "Нимшинин"
+    },
+    {
+      "surface": "תמשח",
+      "gloss": "майла"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "падыша кылып"
+    },
+    {
+      "surface": "על",
+      "gloss": "…га"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэл"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "жана ⟨את⟩",
+      "marks": "Элишаны"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Элишаны"
+    },
+    {
+      "surface": "בן",
+      "gloss": "уулун"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "Шафаттын"
+    },
+    {
+      "surface": "מאבל",
+      "gloss": "Абел-"
+    },
+    {
+      "surface": "מחולה",
+      "gloss": "-Мехоладан"
+    },
+    {
+      "surface": "תמשח",
+      "gloss": "майла"
+    },
+    {
+      "surface": "לנביא",
+      "gloss": "пайгамбар кылып"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "өзүңдүн ордуна"
+    }
+  ],
+  "timestamp": "2026-10-05T13:55:11.207988792Z",
+  "model": "glm-5.3"
+}

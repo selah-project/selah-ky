@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 18:12",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עדנה",
+      "rationale": "Бир жолу кездешкен сөз: 'ырахат' же 'этек кир аянтчасы' деген эки чечмелөө бар"
+    },
+    {
+      "kind": "substitution",
+      "subject": "мырзам",
+      "rationale": "'ואדני' - бул жерде адам жөнүндө (Аврахам), 'мой господин' дегенди билдирет, Адонайдын ысмы эмес"
+    },
+    {
+      "kind": "hapax",
+      "subject": "עדנה",
+      "rationale": "'עדנה' - бул сөз Танахта бир гана жолу кездешет"
+    }
+  ],
+  "translation": "Сара ичинин ичинде күлдү, мындай деп: Мен картаңдап бүткөндөн кийин мага ырахат болобу, мырзам да карыган ⟨го⟩?",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "e820b53fd274361f4d5b7cf316391f465c90ceff0fdcb837f058ce9bb1a386c3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/18\/9-12.1791200991625.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותצחק",
+      "gloss": "күлдү"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Сара"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "ичинин ичинде"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "мындай деп"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "кыйын"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "бүткөндөн кийин"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "болду"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мага"
+    },
+    {
+      "surface": "עדנה",
+      "gloss": "ырахат болобу"
+    },
+    {
+      "surface": "ואדני",
+      "gloss": "мырзам да"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "каыган ⟨го⟩"
+    }
+  ],
+  "timestamp": "2026-10-05T11:49:51.626987700Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 31:19",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "терафимдер",
+      "rationale": "התרפים — үй буттары; 'терафим' аты сакталды, 'бут' эмес"
+    },
+    {
+      "kind": "alternative",
+      "subject": "кеткенде",
+      "rationale": "иврит өткөн чакта айтылат — 'Лабан кырккандап кеткен' да болот"
+    }
+  ],
+  "translation": "Лабан ⟨את⟩ койлорун кырккандап кеткенде, Рахел атасынын ⟨את⟩ терафимдерин уурдап алды.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "93367398b5382931a5259cd7a5738d0f05c3f002f2211fd032c21391df57c5f4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/31\/17-20.1791201369669.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולבן",
+      "gloss": "жана Лабан"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "кетти"
+    },
+    {
+      "surface": "לגזז",
+      "gloss": "кырккандап"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "койлорун"
+    },
+    {
+      "surface": "צאנו",
+      "gloss": "койлорун"
+    },
+    {
+      "surface": "ותגנב",
+      "gloss": "уурдап алды"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Рахел"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "терафимдерин"
+    },
+    {
+      "surface": "התרפים",
+      "gloss": "терафимдерин"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "эмне"
+    },
+    {
+      "surface": "לאביה",
+      "gloss": "атасынын"
+    }
+  ],
+  "timestamp": "2026-10-05T11:56:09.670820520Z",
+  "model": "glm-5.3"
+}

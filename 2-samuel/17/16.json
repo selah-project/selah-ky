@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 17:16",
+  "book": "2-samuel",
+  "lang": "ky",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "анын жанында",
+      "rationale": "אתו — жакындык предлогу «анын менен\/жанында», кыргызча эркин конструкцияда берилди."
+    },
+    {
+      "kind": "alternative",
+      "subject": "בערבות המדבר",
+      "rationale": "«чөлдүн талаалары» же «чөлдүн өткөөлдөрү» (өзөн кечүүлөр) — ASV «fords» варианты бар."
+    },
+    {
+      "kind": "substitution",
+      "subject": "יבלע",
+      "gloss-rationale": "букв. «жутулуп кетүү» — басып алынып жок кылынуу мааниси."
+    }
+  ],
+  "translation": "Азыр тез жөнөткүлө жана Давидге айткыла: Түнү бөлдө талааларында кону ала көрбө, ошондой эле аныкан өтүп кой — падыша жана анын жанындагы бүт эл жутулуп кетпеши үчүн.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "608551b73c75d213cca981c7ba1a6ff3541865be5c2bd96ff6d9cb065484eda9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-samuel\/17\/13-16.1791207708089.json",
+    "code": "641241cf-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "азыр"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "жөнөткүлө"
+    },
+    {
+      "surface": "מהрה",
+      "gloss": "тез"
+    },
+    {
+      "surface": "והגידו",
+      "gloss": "жана айткыла"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давидге"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "-деп"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ача көрбө"
+    },
+    {
+      "surface": "תלן",
+      "gloss": "түнөбө"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "түнү"
+    },
+    {
+      "surface": "בערבות",
+      "gloss": "талааларында"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "чөлдүн"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ошондой эле"
+    },
+    {
+      "surface": "עבור",
+      "gloss": "өтүүнү"
+    },
+    {
+      "surface": "תעבור",
+      "gloss": "өт"
+    },
+    {
+      "surface": "פן",
+      "gloss": "-бесин"
+    },
+    {
+      "surface": "יבלע",
+      "gloss": "жутулуп кетсин"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "падышанын"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "жана бүт"
+    },
+    {
+      "surface": "העם",
+      "gloss": "элдин"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "эмне"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ анын жанында"
+    }
+  ],
+  "timestamp": "2026-10-05T13:41:48.091384987Z",
+  "model": "glm-5.3"
+}

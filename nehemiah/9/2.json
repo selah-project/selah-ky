@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 9:2",
+  "book": "nehemiah",
+  "lang": "ky",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "мойн сунду",
+      "rationale": "ויתודו — «таанып, өздөштүрүп айтты»: кыргызча «мойн сунуу» эң жакын идиома, бирок тамырдагы «дааны айтуу» сүрөтү жоголот"
+    },
+    {
+      "kind": "addition",
+      "subject": "алар",
+      "rationale": "םועמדו этиштин жашырын этиштин сезүүчүсүн кыргызча аталоо үчүн кошулду"
+    }
+  ],
+  "translation": "Жана Йисраэлдин үрөнү бөтөн уулдарынын баарынан бөлүндү, жана алар туруп, күнөөлөрү жөнүндө жана аталарынын жазгануулары жөнүндө мойн сунушту.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "7df96e07a80ec1d0bd97725d0c7d5b960c9ebe58508f312f625a658ce3cb3f70",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/nehemiah\/9\/1-4.1791221552893.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבדלו",
+      "gloss": "бөлүндү"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "үрөнү"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэлдин"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "баарынан"
+    },
+    {
+      "surface": "בני",
+      "gloss": "уулдарынын"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "бөтөн"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "туруп"
+    },
+    {
+      "surface": "ויתודו",
+      "gloss": "мойн сунушту"
+    },
+    {
+      "surface": "על",
+      "gloss": "жөнүндө"
+    },
+    {
+      "surface": "חטאתיהם",
+      "gloss": "күнөөлөрү"
+    },
+    {
+      "surface": "ועונות",
+      "gloss": "жазгануулары"
+    },
+    {
+      "surface": "אבתיהם",
+      "gloss": "аталарынын"
+    }
+  ],
+  "timestamp": "2026-10-05T17:32:32.894040782Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 49:16",
+  "book": "jeremiah",
+  "lang": "ky",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תפלצתך",
+      "rationale": "«корктуу абалың» (Эдомдун корктуулугу) же «сенин коркууң» — KJV «terribleness», башкалары «terror you cause» дейт"
+    },
+    {
+      "kind": "elision",
+      "subject": "כי",
+      "rationale": "шарттык «кий» кыргызда керексиз, тынчтык белги менен алмашты"
+    },
+    {
+      "kind": "you",
+      "subject": "сени \/ уяңды",
+      "rationale": "Эдомго багытталган түз сөз — аска жарыктарында жашаган элге"
+    }
+  ],
+  "translation": "Сени коркитуучу абалың алдап кетти, жүрөгүңдүн тебелениң — ⟨את⟩, аска жарыктарында жашаган, дөңсөөнүн бийиктигин кармаган: бүркүттөй уяңды бийик тургузсаң да, ошол жерден Мен сени түшүрөм, — Яхвенин сөзү.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "e1b53cbca9e5e043eea21ac79940ccc47a62491d03d4e7c49e96489bcd084ee0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/jeremiah\/49\/13-16.1791211936340.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תפלצתך",
+      "gloss": "коркитуучу абалың"
+    },
+    {
+      "surface": "השיא",
+      "gloss": "алдап кетти"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "жүрөгүңдүн тебелениң"
+    },
+    {
+      "surface": "זדון",
+      "gloss": "тебелениң"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "жүрөгүңдүн"
+    },
+    {
+      "surface": "שכני",
+      "gloss": "жашаган"
+    },
+    {
+      "surface": "בחגוי",
+      "gloss": "аска жарыктарында"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "аска"
+    },
+    {
+      "surface": "תפשי",
+      "gloss": "кармаган"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "бийиктигин"
+    },
+    {
+      "surface": "גבעה",
+      "gloss": "дөңсөөнүн"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "תגביה",
+      "gloss": "бийик тургузсаң"
+    },
+    {
+      "surface": "כנשר",
+      "gloss": "бүркүттөй"
+    },
+    {
+      "surface": "קנך",
+      "gloss": "уяңды"
+    },
+    {
+      "surface": "משם",
+      "gloss": "ошол жерден"
+    },
+    {
+      "surface": "אורידך",
+      "gloss": "түшүрөм"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "сөзү"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    }
+  ],
+  "timestamp": "2026-10-05T14:52:16.341427262Z",
+  "model": "glm-5.3"
+}

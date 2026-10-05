@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 18:27",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נבר\/תתברר",
+      "rationale": "Бар ээсү тамыры эки жолу кайрылат, мурдагы аяттын хесед\/там ыргагын улантат."
+    },
+    {
+      "kind": "crux",
+      "subject": "תתפתל",
+      "rationale": "«Бурула сууланасың» (бурулуучу менен бурулуу): KJV «froward», JPS «subtile», YLT «a wrestler» — текст Яхвени жаман жолго салбайт, «айла менен жооп берет» деген маани да окулат."
+    }
+  ],
+  "translation": "Тазаланган адам менен Сен таза болосуң, жана кайшы адам менен Сен бурула сууланасың.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "995a92b3548f89ca7ca092c4f66710e005250b0f991a47a7bd689ce75a6deb4b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/18\/25-28.1791215549468.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "менен"
+    },
+    {
+      "surface": "נבר",
+      "gloss": "тазаланган"
+    },
+    {
+      "surface": "תתברר",
+      "gloss": "таза болосуң"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "жана менен"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "кайшы"
+    },
+    {
+      "surface": "תתפתל",
+      "gloss": "бурула сууланасың"
+    }
+  ],
+  "timestamp": "2026-10-05T15:52:29.469741190Z",
+  "model": "glm-5.3"
+}

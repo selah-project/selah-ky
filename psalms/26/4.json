@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 26:4",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נעלמים",
+      "rationale": "'жашыруучулар' (сөзмө-сөз 'жашырылгандар') — KJV 'dissemblers', BSB 'hypocrites'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "калтык",
+      "gloss": "שוא 'жалган, бекер, калтык' — көп маанилүү сөз"
+    }
+  ],
+  "translation": "Мен калтык адамдар менен отурган жокмун жана жашырын иштер менен барбайм.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "c1625a3339a801d19092547c4881464665dc0a2dd25d9b8e187962f73e39d976",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/26\/1-4.1791215709824.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "отурган жокмун"
+    },
+    {
+      "surface": "עם",
+      "gloss": "менен"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "адамдар"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "калтык"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "жана ... менен"
+    },
+    {
+      "surface": "נעלמים",
+      "gloss": "жашырын иштер"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "барбайм"
+    }
+  ],
+  "timestamp": "2026-10-05T15:55:09.825239785Z",
+  "model": "glm-5.3"
+}

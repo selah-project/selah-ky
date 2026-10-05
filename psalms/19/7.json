@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 19:7",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "חמה",
+      "rationale": "'ысык' сөзү ошол эле тамырдан 'куят' деген мааниди да берет; кыргызча бир маани гана калды."
+    },
+    {
+      "kind": "measurement",
+      "subject": "תקופה",
+      "rationale": "Күндүн айлануусу — асман боюнча өлчөнгөн жүрүш, ченем образы."
+    }
+  ],
+  "translation": "Асмандын четинен анын чыгуусу, жана анын айлануусу алардын четтерине; жана анын ысыгынан жашырынган эч нерсе жок.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "73bb08ed4490463475a9943ea2b668c2e3cd9ef031e5d289ebbb23f35c88913c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/19\/5-8.1791215631955.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מקצה",
+      "gloss": "четинен"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "асмандын"
+    },
+    {
+      "surface": "מוצאו",
+      "gloss": "анын чыгуусу"
+    },
+    {
+      "surface": "ותקופתו",
+      "gloss": "жана анын айлануусу"
+    },
+    {
+      "surface": "על",
+      "gloss": "…ке\/чектерине"
+    },
+    {
+      "surface": "קצותם",
+      "gloss": "алардын четтери"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "жана жок"
+    },
+    {
+      "surface": "נסתר",
+      "gloss": "жашырынган"
+    },
+    {
+      "surface": "מחמתו",
+      "gloss": "анын ысыгынан"
+    }
+  ],
+  "timestamp": "2026-10-05T15:53:51.956550607Z",
+  "model": "glm-5.3"
+}

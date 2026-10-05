@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 22:17",
+  "book": "2-kings",
+  "lang": "ky",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "rationale": "относителдик байламта «кирип», кыргызча «себеби … үчүн» конструкциясында сунулду"
+    },
+    {
+      "kind": "substitution",
+      "subject": "кудайлар",
+      "rationale": "אלהים אחרים — башка элдердин кудайлары, ошондуктан кичине тамгалуу «кудайлар», Элохим эмес"
+    }
+  ],
+  "translation": "Себеби алар Мени таштап кетишти жана башка кудайларга туш күйгүзүштү, колдорунун бардык иштери менен Мени каардантышы үчүн, ошондуктан Менин каарым ушул жерде күйөт жана өчпөйт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "ca5f028645c9c6ffd15751090d2719cc9c6f1b2ae52bafec4a1b908ceb659e6a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-kings\/22\/17-20.1791209262042.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "себеби"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "עזבוני",
+      "gloss": "Мени таштап кетишти"
+    },
+    {
+      "surface": "ויקטרו",
+      "gloss": "жана туш күйгүзүштү"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "кудайларга"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "башка"
+    },
+    {
+      "surface": "למען",
+      "gloss": "үчүн"
+    },
+    {
+      "surface": "הכעיסני",
+      "gloss": "Мени каардантышы"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "бардык"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "иши"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "колдорунун"
+    },
+    {
+      "surface": "ונצתה",
+      "gloss": "жана күйөт"
+    },
+    {
+      "surface": "חמתי",
+      "gloss": "Менин каарым"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "жерде"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ушул"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "жана эмес"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "өчпөйт"
+    }
+  ],
+  "timestamp": "2026-10-05T14:07:42.042914343Z",
+  "model": "glm-5.3"
+}

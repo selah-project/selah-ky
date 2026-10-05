@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 22:18",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨את⟩",
+      "rationale": "ספר этиши את объекти.sinì грамматикалык үчүн сан саналганда את колдонулуп жаткан эмес; маркер 'бардык сөөктөрүмдү' деген объекти көрсөтөт."
+    }
+  ],
+  "translation": "Мен ⟨את⟩ бардык сөөктөрүмдү санаймын; алар карайсың, мага тиктейсиң.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "2ad92c003b3d9248353d1062d068ad310d7c65ad3e00ee28844db39ac4229a7a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/22\/17-20.1791215597392.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אספר",
+      "gloss": "санаймын"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бардык"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "сөөктөрүмдү"
+    },
+    {
+      "surface": "המה",
+      "gloss": "алар"
+    },
+    {
+      "surface": "יביטו",
+      "gloss": "карайсың"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "тиктейсиң"
+    },
+    {
+      "surface": "בי",
+      "gloss": "мага"
+    }
+  ],
+  "timestamp": "2026-10-05T15:53:17.392866281Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 70,
+  "ref": "ezra 2:70",
+  "book": "ezra",
+  "lang": "ky",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "бир бөлүгү",
+      "rationale": "ומן העם — 'жана элден'; кыргызча түшүнүктүү болушу үчүн 'элдин бир бөлүгү' деп ачылды."
+    },
+    {
+      "kind": "elision",
+      "subject": "ал эми",
+      "rationale": "Эки сүйлөмдү байланыштыруу үчүн байламча кошулду; еврей текстте жок."
+    }
+  ],
+  "translation": "Жана кохендер, лебилер, элдин ⟨бир бөлүгү⟩, ырчылар, дарбазачылар жана нетинимдер өз шаарларында отурушту, ал эми бүткүл Йисраэл өз шаарларында.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "0b0b1da89238b7c487b2491054103b08553bd4a6b9f535d4eac9a017af29ad97",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ezra\/2\/69-70.1791220996016.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "отурушту"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "кохендер"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "лебилер"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "бир бөлүгү"
+    },
+    {
+      "surface": "העם",
+      "gloss": "элдин"
+    },
+    {
+      "surface": "והמשררים",
+      "gloss": "ырчылар"
+    },
+    {
+      "surface": "והשוערים",
+      "gloss": "дарбазачылар"
+    },
+    {
+      "surface": "והנתינим",
+      "gloss": "нетинимдер"
+    },
+    {
+      "surface": "בעריהם",
+      "gloss": "өз шаарларында"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "бүткүл"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэл"
+    },
+    {
+      "surface": "בעריהם",
+      "gloss": "шаарларында"
+    }
+  ],
+  "timestamp": "2026-10-05T17:23:16.017351759Z",
+  "model": "glm-5.3"
+}

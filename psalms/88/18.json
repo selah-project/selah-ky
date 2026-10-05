@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 88:18",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 88,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כמים",
+      "rationale": "суу образы — басып алуу, чөгүү маанисинде; кыргызча «суулар сыяктуу курчап алышты» деп берилди"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "סבב \/ נקף \/ יחד",
+      "rationale": "курчоо этиминин кайталанышы (саббүни — hикифу) ырдын түрмөгүн кургайт"
+    }
+  ],
+  "translation": "Мени суулар сыяктуу курчап алышты, күн бою, менин үстүмө бирге чыкышты.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "1be54968f6133e8c3960033cebca94d7d6e93c9788be028889b30495c2bafec6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/88\/17-18.1791224469009.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "סבוני",
+      "gloss": "мени курчап алышты"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "суулар сыяктуу"
+    },
+    {
+      "surface": "כל",
+      "gloss": "күн бою"
+    },
+    {
+      "surface": "היום",
+      "gloss": "күн"
+    },
+    {
+      "surface": "הקיפו",
+      "gloss": "чыкышты"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "менин үстүмө"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "бирге"
+    }
+  ],
+  "timestamp": "2026-10-05T18:21:09.010279467Z",
+  "model": "glm-5.3"
+}

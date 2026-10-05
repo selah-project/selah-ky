@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 24:7",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨силердин⟩",
+      "rationale": "Ивритте ээлик мүчөсүз 'баштарыңар' — кыргызча тактык үчүн кошулду"
+    },
+    {
+      "kind": "you",
+      "subject": "дарбазаларга",
+      "rationale": "Дарбазалар жанандырылып түз кайрылуу менен буйрук берилип жатат"
+    },
+    {
+      "kind": "invitation",
+      "subject": "көтөргүлө",
+      "rationale": "Үч бутун буйрук менен дарбазалар (жана окурман) кирүүгө чакырылат"
+    }
+  ],
+  "translation": "Көтөргүлө, дарбазалар, ⟨силердин⟩ баштарыңарды, жана көтөрүлгүлө, түбөлүктүү эшиктер, жана даңк падышасы кирсин.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "6f551de92922aac10d996a88c62ddc366ac90a7bf740575a5aa3540fdeac51f5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/24\/5-8.1791215720874.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "көтөргүлө"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "дарбазалар"
+    },
+    {
+      "surface": "ראשיכם",
+      "gloss": "баштарыңарды"
+    },
+    {
+      "surface": "והנשאו",
+      "gloss": "жана көтөрүлгүлө"
+    },
+    {
+      "surface": "פתחי",
+      "gloss": "эшиктер"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "түбөлүктүү"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "жана кирсин"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "падышасы"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "даңк"
+    }
+  ],
+  "timestamp": "2026-10-05T15:55:20.875293702Z",
+  "model": "glm-5.3"
+}

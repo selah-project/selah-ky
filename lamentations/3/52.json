@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "lamentations 3:52",
+  "book": "lamentations",
+  "lang": "ky",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "צוד צדוני",
+      "rationale": "Окшош үндүү кайталоо: «аңдоо — аңдышты» деген еврейча тамыр кайталанышы сакталды."
+    },
+    {
+      "kind": "elision",
+      "subject": "צוד",
+      "gloss": "Этиштин ат атооч формасы текстте турат; кыргызча «Аңдоо —» деп ажыратып берилди."
+    }
+  ],
+  "translation": "Аңдоо — мени куштай аңдышты менин душмандарым себепсиз.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "b27ac5f8c92b894d6f00ba7c9cd999629b9ae2e8299a36f7f65c4c7b8ed72f11",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/lamentations\/3\/49-52.1791219781723.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צוד",
+      "gloss": "Аңдоо"
+    },
+    {
+      "surface": "צדוני",
+      "gloss": "мени аңдышты"
+    },
+    {
+      "surface": "כצפור",
+      "gloss": "куштай"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "менин душмандарым"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "себепсиз"
+    }
+  ],
+  "timestamp": "2026-10-05T17:03:01.724163386Z",
+  "model": "glm-5.3"
+}

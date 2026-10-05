@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 16:6",
+  "book": "1-chronicles",
+  "lang": "ky",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨турду⟩",
+      "rationale": "Еврей текстинде этиш жок; кыргызча сүйлөм бүтүшү үчүн кошулду"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ыйык кызматкерлер",
+      "rationale": "כהנים — кохендар, ыйык кызмат кылгандар; кыргызча 'ыйык кызматкер' деп берилди"
+    }
+  ],
+  "translation": "Жана Бенайаху менен Йахазиел — ыйык кызматкерлер — хацероттор менен дайыма Элохимдин келишим сандыгынын алдында ⟨турду⟩.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "bcb2b57234a446f3fc6a181589c276d99e58c3673b4fd77cd1e6dcca5b40e419",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-chronicles\/16\/5-8.1791222156944.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובניהו",
+      "gloss": "жана Бенайаху"
+    },
+    {
+      "surface": "ויחזיאל",
+      "gloss": "жана Йахазиел"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ыйык кызматкерлер"
+    },
+    {
+      "surface": "בחצצרות",
+      "gloss": "хацероттор менен"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "дайыма"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "алдында"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "сандыгы"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "келишим"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Элохимдин"
+    }
+  ],
+  "timestamp": "2026-10-05T17:42:36.946242882Z",
+  "model": "glm-5.3"
+}

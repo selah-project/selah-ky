@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 9:9",
+  "book": "proverbs",
+  "lang": "ky",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ал",
+      "rationale": "Cache атында жок атаян кыргыз тили талап кылган этиштин этиштери"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חכם\/יחכם",
+      "rationale": "Бир тамырдын кайталанышы — «даанчу\/даанчуураак» — еврей риторикасынын өзөгү"
+    }
+  ],
+  "translation": "Даанчуга бер, жана ал дагы даанчуураак болот; адилетке билдир, жана ал кабыл алууну көбөйтөт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "2cb80516ac7dbd8d5df986b225603de8e80e0c943e853c303e88cb4362843525",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/9\/9-12.1791217830247.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תן",
+      "gloss": "бер"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "даанчуга"
+    },
+    {
+      "surface": "ויחכם",
+      "gloss": "жана ал дагы даанчуураак болот"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "дагы"
+    },
+    {
+      "surface": "הודע",
+      "gloss": "билдир"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "адилетке"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "жана ал көбөйтөт"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "кабыл алууну"
+    }
+  ],
+  "timestamp": "2026-10-05T16:30:30.248307023Z",
+  "model": "glm-5.3"
+}

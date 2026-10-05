@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 11:9",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ויחזק контекстинде ישמע",
+      "rationale": "'кунуул берүү' же 'угоо' — Фараондун каршылыгы Яхвенин чечими аркылуу көрүнөт деген талаш маселе."
+    },
+    {
+      "kind": "substitution",
+      "subject": "מופתים",
+      "rationale": "'белгилер' — םופת 'керемет, белги, жышаан' маанисинде."
+    }
+  ],
+  "translation": "Яхве Мошеге айтты: Фараон силерге кунуул бербейт, мунун үчүн — Менин белгилерим Мицрайим жеринде көбөйүшү үчүн.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "906ca885bed15f84686871f47ab741839238b14e541e5656b782c184a8ed1a80",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/11\/9-10.1791201981593.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…га"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "кунуул бербейт"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "силерге"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Фараон"
+    },
+    {
+      "surface": "למען",
+      "gloss": "мунун үчүн"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "көбөйүшү"
+    },
+    {
+      "surface": "מופתי",
+      "gloss": "Менин белгилерим"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "жеринде"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицрайим"
+    }
+  ],
+  "timestamp": "2026-10-05T12:06:21.594154382Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 6:9",
+  "book": "proverbs",
+  "lang": "ky",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "жалкоого",
+      "rationale": "Аят жалкоо адамга түз кайрылуу менен башталат."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מתי … מתי",
+      "rationale": "«Качан» сөзүнүн кайталанышы — эки суроонун параллели."
+    }
+  ],
+  "translation": "Качан чейин, жалкоо, жатасың? Качан турасың ⟨මන⟩ уйкуңан?",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "532396e5db5b86b07b5ff7bba1564058f28ec2ef4836b75cf3c5851434f7d978",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/6\/9-12.1791217836917.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "чейин"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "качан"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "жалкоо"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "жатасың"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "качан"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "турасың"
+    },
+    {
+      "surface": "משנתך",
+      "gloss": "уйкуңан"
+    }
+  ],
+  "timestamp": "2026-10-05T16:30:36.918472035Z",
+  "model": "glm-5.3"
+}

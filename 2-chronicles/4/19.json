@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 4:19",
+  "book": "2-chronicles",
+  "lang": "ky",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "бет-наны",
+      "rationale": "לחם הפנים көрсөтүлгөн нан — кыргызча 'бет-наны' деген сөз айкашы менен берилди, кийинки 'шоо нан' аталышы колдонулган жок."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨коюлган⟩",
+      "rationale": "Еврей текстинде этиш жок — нан столдордун үстүндө деп гана айтылат."
+    }
+  ],
+  "translation": "Шеломо Элохимдин үйүндөгү бүт аспаптарды жасады: ⟨את⟩ алтын курмандык чырагын жана ⟨את⟩ столдорду, алардын үстүнө ⟨коюлган⟩ бет-нанын.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "5acb737a7fc1abf950578a72ce9356f2b0ceb64e0951c3547bac25653c5fff75",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-chronicles\/4\/17-20.1791222615087.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "жасады"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шеломо"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Элохимдин үйүндөгү бүт аспаптарды"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүт"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "аспаптарды"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "болгон"
+    },
+    {
+      "surface": "בית",
+      "gloss": "үйүндөгү"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Элохимдин"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "жана ⟨את⟩",
+      "marks": "алтын курмандык чырагын"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "курмандык чырагын"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "алтын"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "жана ⟨את⟩",
+      "marks": "столдорду"
+    },
+    {
+      "surface": "השלחנות",
+      "gloss": "столдорду"
+    },
+    {
+      "surface": "ועליהם",
+      "gloss": "алардын үстүнө"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "нанын"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "бет-"
+    }
+  ],
+  "timestamp": "2026-10-05T17:50:15.088702480Z",
+  "model": "glm-5.3"
+}

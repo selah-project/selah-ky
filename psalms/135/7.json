@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 135:7",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 135,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נשיאים",
+      "rationale": "бул жерде \"көтөрүлүүчү буулар\/жаандар\" (מעלה менен байланышкан), \"төрөлөр\" эмес — жердин четинен көтөрүлгөн туман мааниси"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נשיאים",
+      "rationale": " тойook — \"төрө\" деген сөз менен тамырдаш, бирок бул жерде көтөрүлүүчү буу"
+    }
+  ],
+  "translation": "Жаандарды жердин четинен көтөрүп чыгарат, чагылгаларды жамгыр үчүн жасайт, рухту Өз кампаларынан чыгарат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "2c8d0cf40b55764252320e6ad325a99cc1e16cb19ce165ced00faf90961ee08f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/135\/5-8.1791217495170.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מעלה",
+      "gloss": "көтөрүп чыгарат"
+    },
+    {
+      "surface": "נשאאים",
+      "gloss": "жаандарды"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "четинен"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "жердин"
+    },
+    {
+      "surface": "ברקים",
+      "gloss": "чагылгаларды"
+    },
+    {
+      "surface": "למטר",
+      "gloss": "жамгыр үчүн"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "жасайт"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "чыгарат"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "рухту"
+    },
+    {
+      "surface": "מאוצרותיו",
+      "gloss": "Өз кампаларынан"
+    }
+  ],
+  "timestamp": "2026-10-05T16:24:55.170994335Z",
+  "model": "glm-5.3"
+}

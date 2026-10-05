@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 94:12",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 94,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ал⟩",
+      "rationale": "Ивриттин אשר салыштырма атоочтору кыргызча атоочтук конструкцияда ачык көрүнбөйт, аны ⟨ал⟩ көтөрөт"
+    },
+    {
+      "kind": "substitution",
+      "subject": "тарбиялайсың",
+      "rationale": "יסר — сабаз менен да, сөз менен да тарбиялоо; 'жаза берүү' деген маани тар да"
+    },
+    {
+      "kind": "you",
+      "subject": "Ях",
+      "rationale": "Аят Яхга тике кайрылуу менен айтылат"
+    }
+  ],
+  "translation": "Бактылуу ⟨ал⟩ адам — аны Сен тарбиялайсың, эй Ях, жана Өзүңдүн Торадан аны үйрөтөсүң.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "9da46e71c146d12ae6cf98214455c9632c353871bba1d0790c266b19d3ba91b9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/94\/12-12.1791224465094.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Бактылуу"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "адам"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨ал⟩"
+    },
+    {
+      "surface": "תיסרנו",
+      "gloss": "тарбиялайсың"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ях"
+    },
+    {
+      "surface": "ומתורתך",
+      "gloss": "жана Өзүңдүн Торадан"
+    },
+    {
+      "surface": "תלמדנו",
+      "gloss": "үйрөтөсүң"
+    }
+  ],
+  "timestamp": "2026-10-05T18:21:05.094554410Z",
+  "model": "glm-5.3"
+}

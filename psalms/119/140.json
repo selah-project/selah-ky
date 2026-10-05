@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 140,
+  "ref": "psalms 119:140",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "таза талкынган",
+      "rationale": "צרופה — метал эритилгендей 'талкынган, тазартылган' деген сүрөт"
+    },
+    {
+      "kind": "addition",
+      "subject": "аны",
+      "rationale": "אהבהּ — These мукожоосу 'аны' кыргызча такташ үчүн кошулду"
+    }
+  ],
+  "translation": "Сенин сөзүң өтө таза талкынган, жана Сенин кулуң ⟨аны⟩ сүйөт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "b987db0bca1f7e9f00ff1062d3b0206eed3bf04da98588dd2b441e88a71559a4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/119\/137-140.1791217404277.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צרופה",
+      "gloss": "таза талкынган"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "сөзүң"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "өтө"
+    },
+    {
+      "surface": "ועבדך",
+      "gloss": "жана кулуң"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "сүйөт"
+    }
+  ],
+  "timestamp": "2026-10-05T16:23:24.278568463Z",
+  "model": "glm-5.3"
+}

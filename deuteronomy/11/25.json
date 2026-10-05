@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 11:25",
+  "book": "deuteronomy",
+  "lang": "ky",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "בפניכם",
+      "rationale": "кийин 'алдыңарда' — бул 'бет' деген сөздүн көптүк сан кыйшаюсу, кыргызча адатта 'бет' айтылбайт"
+    },
+    {
+      "kind": "you",
+      "subject": "Израилге",
+      "rationale": "Моше Израил элине кайрылуу — 'силер' формалары"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "פחד\/מורא",
+      "rationale": "эки жакын маанидеги сөз — 'коркуу' жана 'урмат-коркуу' — кайталануу стили"
+    }
+  ],
+  "translation": "Силердин алдыңарда эч бир адам турбайт; силердин коркунучуңарды жана урмат-коркунучуңарды Яхве, силердин Элохимиңер, силер баскан бардык жердин үстүнө койот, силерге айткандай.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "a580d3b918aab859bea1fbb8c5d74578c1f424889aa8aa38792c920dfdb8e3e4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/11\/25-28.1791204861195.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "יתיצב",
+      "gloss": "турбайт"
+    },
+    {
+      "surface": "איש",
+      "gloss": "адам"
+    },
+    {
+      "surface": "בפניכם",
+      "gloss": "алдыңарда"
+    },
+    {
+      "surface": "פחדכם",
+      "gloss": "коркунучуңарды"
+    },
+    {
+      "surface": "ומוראכם",
+      "gloss": "жана урмат-коркунучуңарды"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "койот"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Элохимиңер"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстүнө"
+    },
+    {
+      "surface": "פני",
+      "gloss": "бети"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бардык"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "жердин"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ким"
+    },
+    {
+      "surface": "תדרכו",
+      "gloss": "баскан"
+    },
+    {
+      "surface": "בה",
+      "gloss": "анда"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "андай"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "айткан"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "силерге"
+    }
+  ],
+  "timestamp": "2026-10-05T12:54:21.196437544Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 28:21",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "тынч абалда",
+      "rationale": "בשלום 'шалом' — бүтүндүк, коопсуздук маанисинде, 'тынчтык' гана эмес"
+    },
+    {
+      "kind": "addition",
+      "subject": "болот",
+      "rationale": "יהיה этиши кыргызча болочок формасын талап кылат"
+    }
+  ],
+  "translation": "жана атамдын үйүнө тынч абалда кайтып келсем, Яхве мага Элохим болот.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "17b557a53ce02ef6c3953f7a4cc97edeb32aa9a24b3784e647edbce45966ca7d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/28\/21-22.1791201253166.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושבתי",
+      "gloss": "кайтып келсем"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "тынч абалда"
+    },
+    {
+      "surface": "אל",
+      "gloss": "карай"
+    },
+    {
+      "surface": "בית",
+      "gloss": "үйүнө"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "атамдын"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "болот"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мага"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Элохим"
+    }
+  ],
+  "timestamp": "2026-10-05T11:54:13.166850151Z",
+  "model": "glm-5.3"
+}

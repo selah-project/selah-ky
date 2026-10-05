@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 10:18",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ал",
+      "rationale": "Ивритте субъект аталбайт; Моше тушунулат, ⟨ал⟩ кашаада"
+    },
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "rationale": "жёндөм «Яхвеге» дегенде ашыкча болуп калды"
+    }
+  ],
+  "translation": "Жана ал Фараондун алдынан чыгып, Яхвеге табынып жалбарды.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "bfcd9e32423b451923970c48b635a06b4d3ef142435fccaa540a5966ae9fa5e3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/10\/17-20.1791202040548.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "чыгып"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "алдынан"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Фараондун"
+    },
+    {
+      "surface": "ויעתר",
+      "gloss": "табынып жалбарды"
+    },
+    {
+      "surface": "אל",
+      "gloss": "－"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвеге"
+    }
+  ],
+  "timestamp": "2026-10-05T12:07:20.549843302Z",
+  "model": "glm-5.3"
+}

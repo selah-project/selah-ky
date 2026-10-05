@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 8:6",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "болсун",
+      "rationale": "еврейче этиш жок, кыргызча айтым түгөнбөйт — кашаа менен коюлду"
+    },
+    {
+      "kind": "you",
+      "subject": "Моше Парго",
+      "rationale": "Моше Парго «сен» деп кайрылып жатат"
+    }
+  ],
+  "translation": "Жана ал айтты: Эртең. Жана ал айтты: Сөзүң боюнча ⟨болсун⟩ — сен билүүң үчүн: Яхвеге окшогону жок, биздин Элохим.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "9e9427d8b92bb99e327c4bad150b756db9234ba05a5d4e14ddea01e356c1831e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/8\/5-8.1791202000667.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "למחר",
+      "gloss": "Эртең"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "сөзүң боюнча"
+    },
+    {
+      "surface": "למען",
+      "gloss": "үчүн"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "билесиң"
+    },
+    {
+      "surface": "כי",
+      "gloss": "деп"
+    },
+    {
+      "surface": "אין",
+      "gloss": "жок"
+    },
+    {
+      "surface": "כיהוה",
+      "gloss": "Яхвеге окшогону"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "биздин Элохим"
+    }
+  ],
+  "timestamp": "2026-10-05T12:06:40.668093425Z",
+  "model": "glm-5.3"
+}

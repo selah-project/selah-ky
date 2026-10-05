@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 4:30",
+  "book": "deuteronomy",
+  "lang": "ky",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "кыргызча жалгoo -ге",
+      "rationale": "עד 'чейин\/-ге' багыты кыргызча жалгoo менен берилди"
+    },
+    {
+      "kind": "substitution",
+      "subject": "сыныч",
+      "rationale": "בצר 'тар жер, кысынчы' — фигуралуу мааниде сыныч деп алынды"
+    },
+    {
+      "kind": "you",
+      "subject": "Йисраэлге",
+      "rationale": "Втор. 4 багыты — Мошенин элге кайрылуусу"
+    }
+  ],
+  "translation": "Сыныч убагында, бул сөздөрдүн баары сага жеткен кезде, күндөрдүн акырында Яхве Элохимге ⟨сенин⟩ кайтып келесиң жана Анын үнүн угасың.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "444d8fb7d28fe5cb4aa889039bdf5287a185bf79f64c4fc9e57726e27260d62d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/4\/30-31.1791223703348.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בצר",
+      "gloss": "сыныч убагында"
+    },
+    {
+      "surface": "לך",
+      "gloss": "сага"
+    },
+    {
+      "surface": "ומצאוך",
+      "gloss": "жеткен кезде"
+    },
+    {
+      "surface": "כל",
+      "gloss": "баары"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "сөздөрдүн"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "бул"
+    },
+    {
+      "surface": "באחרית",
+      "gloss": "акырында"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "күндөрдүн"
+    },
+    {
+      "surface": "ושבת",
+      "gloss": "кайтып келесиң"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-ге"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Элохимге ⟨сенин⟩"
+    },
+    {
+      "surface": "ושמעת",
+      "gloss": "угасың"
+    },
+    {
+      "surface": "בקלו",
+      "gloss": "Анын үнүн"
+    }
+  ],
+  "timestamp": "2026-10-05T18:08:23.348431825Z",
+  "model": "glm-5.3"
+}

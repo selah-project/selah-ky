@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 29:10",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "למבול",
+      "rationale": "Суу ташкынында (Нухтун топкэнүүсү) же жай йылдагы суу ташкыны үстүнөн — JPS «at the flood», BSB «over the flood» деп айрылат."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ישב \/ וישב",
+      "rationale": "Эки жазуу — «отурду» жана «падыша болуп отурду» — байыркы чындык жана азыркы бийлик биригип, параллелизм жаратат."
+    }
+  ],
+  "translation": "Яхве суу ташкынынын үстүндө отурду, жана Яхве падыша болуп түбөлүккө отурду.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "72de4c19d358056f472487a268c5baea71f324be6f164b6e97c70f23a6a4f309",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/29\/9-11.1791215670204.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "למבול",
+      "gloss": "суу ташкынынын үстүндө"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "отурду"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "жана отурду"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "падыша болуп"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "түбөлүккө"
+    }
+  ],
+  "timestamp": "2026-10-05T15:54:30.204835361Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 8:25",
+  "book": "numbers",
+  "lang": "ky",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жыйын",
+      "rationale": "מצבא аскердик жыйын деген сөз — Левилердин кызматы аскердик тартип менен салыштырылат"
+    },
+    {
+      "kind": "measurement",
+      "subject": "элүү жаш",
+      "rationale": "Кызматтын жогорку чек — 50 жаш өлчөм катары берилген"
+    }
+  ],
+  "translation": "Жана элүү жаштан ал кызмат ― абаданын жыйынынан кайтып, андан ары кызмат кылбайт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "28933ed394d984f3063532df253a2435a1ab93db37f20c16786725d732f8fae6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/numbers\/8\/25-26.1791203739269.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומבן",
+      "gloss": "жана ... жаштан"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "элүү"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "жаш"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "кайтып"
+    },
+    {
+      "surface": "מצבא",
+      "gloss": "жыйынынан"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "абаданын"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "жана ... эмес"
+    },
+    {
+      "surface": "יעבד",
+      "gloss": "кызмат кылбайт"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "андан ары"
+    }
+  ],
+  "timestamp": "2026-10-05T12:35:39.271616917Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "psalms 78:41",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "התוו",
+      "rationale": "'Чек коюшту' (белги коюу, чектөө) деп алынды; KJV 'limited', башкалар 'provoked' — эки окуу бар"
+    },
+    {
+      "kind": "addition",
+      "subject": "Йисраэлдин Ыйыгы",
+      "rationale": "Байланыш конструкторуна кыргызча ээлик формасы кошулду"
+    }
+  ],
+  "translation": "Алар кайра бурулуп, Элди сынашты жана Йисраэлдин Ыйыгына чек коюшту.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "45ad4b0f1067a6e84594ff8f6dfda82491f7d84cb55c36c28b83e59b6dc67207",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/78\/41-44.1791216611227.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישובו",
+      "gloss": "кайра бурулуп"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "сынашты"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Элди"
+    },
+    {
+      "surface": "וקדוש",
+      "gloss": "Ыйыгына"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэлдин"
+    },
+    {
+      "surface": "התוו",
+      "gloss": "чек коюшту"
+    }
+  ],
+  "timestamp": "2026-10-05T16:10:11.227622354Z",
+  "model": "glm-5.3"
+}

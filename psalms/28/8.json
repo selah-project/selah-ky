@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 28:8",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "למו",
+      "rationale": "«аларга» (элге) же «ага» (майланганына): котормолор эки жолдо бөлүнөт"
+    },
+    {
+      "kind": "substitution",
+      "subject": "куткаруу бекетиги",
+      "rationale": "מעוז — бекемделген жер, чеп; туура сөз «бекети» деп берилди"
+    }
+  ],
+  "translation": "Яхве — алардын күч-кубаты, жана ⟨ал⟩ Өзүнүн майланганынын куткаруу бекетиги.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "e50bcc723ffbdcf5b2df4dfc62b445fbddf2ba80711639d7f20faa01ac20a13b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/28\/5-8.1791215709521.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "עז",
+      "gloss": "күч-кубаты"
+    },
+    {
+      "surface": "למו",
+      "gloss": "алардын"
+    },
+    {
+      "surface": "ומעוז",
+      "gloss": "жана бекети"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "куткаруу"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "майланганынын"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ал⟩ Өзү"
+    }
+  ],
+  "timestamp": "2026-10-05T15:55:09.522780924Z",
+  "model": "glm-5.3"
+}

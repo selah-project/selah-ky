@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 11:6",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "кочкор",
+      "rationale": "כבש — эр кочкор (бутак тээге жеткен), «козу» эмес"
+    },
+    {
+      "kind": "alternative",
+      "subject": "коноктоёт",
+      "rationale": "גר «түнөп калат, коноктоёт» — «туруктуу жашайт» деген да окуу бар"
+    }
+  ],
+  "translation": "Жана карышкыр кочкор менен бирге коноктоёт, жолборс улаганын жанында жатып алат; музоо, жаш арстан жана тоюттук мал бирге болот, жана кичине бала аларды айдап жүрөт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "8799e02c347ffacd8918c42986c81e0d95e63a6dfe9bb5f62e20b8e4b9614a53",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/11\/5-8.1791209586431.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וגר",
+      "gloss": "жана коноктоёт"
+    },
+    {
+      "surface": "זאב",
+      "gloss": "карышкыр"
+    },
+    {
+      "surface": "עם",
+      "gloss": "менен бирге"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "кочкор"
+    },
+    {
+      "surface": "ונמר",
+      "gloss": "жана жолборс"
+    },
+    {
+      "surface": "עם",
+      "gloss": "…нын жанында"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "улага"
+    },
+    {
+      "surface": "ירבץ",
+      "gloss": "жатып алат"
+    },
+    {
+      "surface": "ועגל",
+      "gloss": "жана музоо"
+    },
+    {
+      "surface": "וכפיר",
+      "gloss": "жана жаш арстан"
+    },
+    {
+      "surface": "ומריא",
+      "gloss": "жана тоюттук мал"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "бирге"
+    },
+    {
+      "surface": "ונער",
+      "gloss": "жана бала"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "кичине"
+    },
+    {
+      "surface": "נהג",
+      "gloss": "айдап жүрөт"
+    },
+    {
+      "surface": "בם",
+      "gloss": "аларды"
+    }
+  ],
+  "timestamp": "2026-10-05T14:13:06.431921200Z",
+  "model": "glm-5.3"
+}

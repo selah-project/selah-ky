@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 24:1",
+  "book": "proverbs",
+  "lang": "ky",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אתם",
+      "rationale": "Бул אтау белгиси H853 эмес, «менен» деген предлог (H854): «алар менен бирге»."
+    },
+    {
+      "kind": "invitation",
+      "subject": "окурманга",
+      "rationale": "Аят буйрук менен айтылат — жаман адамдарга кызганыч кылбоого чакырат."
+    }
+  ],
+  "translation": "Жаман адамдарга кызганыч менен караба, жана алар менен бирге болууну каалаба.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "ef699c3e4eca3ec59ecea40d5ee50532c52c565db65c79daef71de95df303f8b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/24\/1-4.1791218306024.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "кызганыч менен караба"
+    },
+    {
+      "surface": "באנשי",
+      "gloss": "адамдарга"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "жаман"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "жана ба"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "каалаба"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "болууну"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "алар"
+    }
+  ],
+  "timestamp": "2026-10-05T16:38:26.025230167Z",
+  "model": "glm-5.3"
+}

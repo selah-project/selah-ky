@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 30:4",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жан",
+      "rationale": "נפש — дем алуучу жандык, көмөкөй\/жашоо күчү; «жан» толук эмес, бирок эң жакын"
+    },
+    {
+      "kind": "crux",
+      "subject": "מיורדי בור",
+      "rationale": "«чуңкурга түшүүчүлөрдөн» же KJV сыяктуу «чуңкурга түшпөшүм үчүн»; иврит формасы биринчисин билдирет"
+    }
+  ],
+  "translation": "Яхве, Сен жаныбарды Шеолдон чыгардың, мени тирүү калтырдың, чуңкурга түшүүчүлөрдөн.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "0696ba0b76a5def4d06eb268cec6a3c566ecd808c78d5abc04c1c5729d13f2db",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/30\/1-4.1791215720766.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "העלית",
+      "gloss": "чыгардың"
+    },
+    {
+      "surface": "מן",
+      "gloss": "…дан"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шеолдон"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "жаныбарды"
+    },
+    {
+      "surface": "חייתני",
+      "gloss": "мени тирүү калтырдың"
+    },
+    {
+      "surface": "מיורדי",
+      "gloss": "түшүүчүлөрдөн"
+    },
+    {
+      "surface": "בור",
+      "gloss": "чуңкурга"
+    }
+  ],
+  "timestamp": "2026-10-05T15:55:20.767204099Z",
+  "model": "glm-5.3"
+}

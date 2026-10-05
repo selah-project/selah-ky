@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 46:8",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "על",
+      "rationale": "«жүрөккө» деген предлог кыргызча «жүрөк» сөзүнүн табышыгында камтылгандыктан өзүнчө берилген жок"
+    },
+    {
+      "kind": "crux",
+      "subject": "והתאששו",
+      "rationale": "«эркек болгула\/эр жүрөк болгула» (KJV) же «бекем тургула» (JPS) — эш анын тамыры «эркек болуу» деген мааниде"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Исайа 46:8",
+      "rationale": "үч буйрук менен окурман-эл чакырылат: эстегиле, эр жүрөк болгула, кайтарып бергиле"
+    },
+    {
+      "kind": "you",
+      "subject": "күнөөкөрлөр",
+      "rationale": "карыз алуучулар — баш тарткан Исайа 46:5–7 элге багытталган тикелей кайрылуу"
+    }
+  ],
+  "translation": "Муну эстегиле жана эр жүрөк болгула; кайтарып бергиле, ⟨сен⟩ күнөөкөрлөр, жүрөккө.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "f63118e8af6f796429a26da125c4abd1e3690d88d43cc14b87e4d806dbf18030",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/46\/5-8.1791210291495.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זכרו",
+      "gloss": "эстегиле"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "муну"
+    },
+    {
+      "surface": "והתאששו",
+      "gloss": "жана эр жүрөк болгула"
+    },
+    {
+      "surface": "השיבו",
+      "gloss": "кайтарып бергиле"
+    },
+    {
+      "surface": "פושעים",
+      "gloss": "күнөөкөрлөр"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "לב",
+      "gloss": "жүрөккө"
+    }
+  ],
+  "timestamp": "2026-10-05T14:24:51.496112514Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 3:17",
+  "book": "2-kings",
+  "lang": "ky",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "рух",
+      "rationale": "רוח — рух сөзү бул жерде шамал маанисинде да бир эле сөз менен берилет"
+    },
+    {
+      "kind": "addition",
+      "subject": "бирок",
+      "rationale": "ивриттик «жана ошол өрөөн» каршы маанини билдирбейт, котормо үчүн каршы байламта кошулду"
+    }
+  ],
+  "translation": " анткени Яхве мындай дейт: силер рухту көрбөйсүңөр, жаанды да көрбөйсүңөр, бирок ошол өрөөн сууга толот, жана ичесиңер — силер, мал-мүлкүңөр жана жаныбарларыңар.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "4fe111c5ae25a9213315391fc8023080e17922b4bfd14ba8263b11178df45269",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-kings\/3\/17-20.1791208687615.json",
+    "code": "641241cf-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "כה",
+      "gloss": "мындай"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "дейт"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "көрбөйсүңөр"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "рух"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "жана жок"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "көрбөйсүңөр"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "жаан"
+    },
+    {
+      "surface": "והנחל",
+      "gloss": "жана ошол өрөөн"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ошол"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "толот"
+    },
+    {
+      "surface": "מים",
+      "gloss": "суу"
+    },
+    {
+      "surface": "ושתיתם",
+      "gloss": "жана ичесиңер"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "силер"
+    },
+    {
+      "surface": "ומקניכם",
+      "gloss": "жана мал-мүлкүңөр"
+    },
+    {
+      "surface": "ובהמתכם",
+      "gloss": "жана жаныбарларыңар"
+    }
+  ],
+  "timestamp": "2026-10-05T13:58:07.616098823Z",
+  "model": "glm-5.3"
+}

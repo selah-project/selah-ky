@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 14:19",
+  "book": "1-samuel",
+  "lang": "ky",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "коэн",
+      "rationale": "כהן 'кийиз кийип кызмат кылуучу' — 'коэн' айтылышы боюнча алынды, котормо эмес"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "וילך הלוך ורב",
+      "rationale": "инфинитив кайталоо — 'уланып-уланып чоңоюп' — өсүү ритми кыргызча эки этиш менен берилди"
+    }
+  ],
+  "translation": "Шаул коэнге сүйлөп жатканча плиштимдер лагериндеги дүрбөлөң уланып бара жатты жана чоңоюп баратты; ошондо Шаул коэнге айтты: Колуңду жыйып ал.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "a6e45712dfa6c9e3f46ed50c988debd5f85a489e537b23b72a746f7962ab498c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-samuel\/14\/17-20.1791206908444.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "жана болду"
+    },
+    {
+      "surface": "עד",
+      "gloss": "чейин"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сүйлөп жаткан"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ге"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "коэн"
+    },
+    {
+      "surface": "וההמון",
+      "gloss": "жана дүрбөлөң"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨алар⟩"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "лагеринде"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "плиштимдер"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "жана уланды"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "уланып"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "жана чоңоюп"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "жана айтты"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ге"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "коэнге"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "жыйып ал"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "колуңду"
+    }
+  ],
+  "timestamp": "2026-10-05T13:28:28.445955940Z",
+  "model": "glm-5.3"
+}

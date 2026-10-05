@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 85:4",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 85,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מחרון אפך",
+      "rationale": "Букв. «чыканагыңдын күйүүсү» — гнев как дым из ноздрей; передано «ызаңдын күйүүсү»"
+    },
+    {
+      "kind": "alternative",
+      "subject": "השיבות",
+      "rationale": "Может значить «кайтардың» (отвернул гнев) вместо «кайттың» (Сам отвернулся); выбран рефлексивный смысл"
+    }
+  ],
+  "translation": "Сен бүткүл ачууңду жыйнап алдың, ызаңдын күйүүсүнөн кайттың.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "1e6098456f56aa772431d8326426dd6f9857ea0170fbf1535b9d07ec09f0e33f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/85\/1-4.1791216725399.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אספת",
+      "gloss": "жыйнап алдың"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүткүл"
+    },
+    {
+      "surface": "עברתך",
+      "gloss": "ачууңду"
+    },
+    {
+      "surface": "השיבות",
+      "gloss": "кайттың"
+    },
+    {
+      "surface": "מחרון",
+      "gloss": "күйүүсүнөн"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "ызаңдын"
+    }
+  ],
+  "timestamp": "2026-10-05T16:12:05.400895107Z",
+  "model": "glm-5.3"
+}

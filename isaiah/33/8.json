@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 33:8",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ערים",
+      "rationale": "КЖВ «шаарлар», ЙЛТ «душмандар» (ערים=שונאים окшоштуруу) — шаарлар варианты тандады."
+    },
+    {
+      "kind": "substitution",
+      "subject": "אֱנוֹשׁ",
+      "rationale": "Бул сөз «өлгүч адам» дегенди билдирет; жөн гана «адам» деп берилди."
+    },
+    {
+      "kind": "alternative",
+      "subject": "פ Subjectы",
+      "rationale": "Этиштердин субъектиси ким экени так эмес (Ассирия падышасыбы); кыргызча пассив формасы колдонулду."
+    }
+  ],
+  "translation": "Жолдор ээн калды, жолдо өткөн адам токтоду; келишим бузулду, шаарлар жек көрүлдү, адам эсепке алынбады.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "a27d0072d0e94b468d65feb7f94e733c47abec9940efd4611e9df28fad517998",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/33\/7-8.1791224010830.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נשמו",
+      "gloss": "ээн калды"
+    },
+    {
+      "surface": "מסלות",
+      "gloss": "жолдор"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "токтоду"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "өткөн"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "жолдо"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "бузулду"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "келишим"
+    },
+    {
+      "surface": "מאס",
+      "gloss": "жек көрүлдү"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "шаарлар"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "эсепке алынбады"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "адам"
+    }
+  ],
+  "timestamp": "2026-10-05T18:13:30.830856952Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 46:5",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "טף",
+      "rationale": "טף — чогултулган «бала-чака», кичине балдар гана эмес, үй-бүлөнүн жаш мүчөлөрү"
+    },
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "rationale": "salytтук «аларды» кыргызча толук сүйлөм талап кылат"
+    }
+  ],
+  "translation": "Жана Яаков Беэр-Шебадан турду, жана Йисраэлдин уулдары ⟨את⟩ аталары Яаковту, жана ⟨את⟩ бала-чакаларын, жана ⟨את⟩ аялдарын Фараон аны ташуу үчүн жиберген арабаларга салышты.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "e47c983c4eb51d7640ef212c3c15776fb3e06057dd58c066bcc033948f96da77",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/46\/5-8.1791201741703.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "турду"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаков"
+    },
+    {
+      "surface": "מבאר",
+      "gloss": "Беэр-Шебадан"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Беэр-Шеба"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "салышты"
+    },
+    {
+      "surface": "בני",
+      "gloss": "уулдары"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэлдин"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яаковту"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаковту"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "аталары"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "жана ⟨את⟩",
+      "marks": "бала-чакаларын"
+    },
+    {
+      "surface": "טפם",
+      "gloss": "бала-чакаларын"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "жана ⟨את⟩",
+      "marks": "аялдарын"
+    },
+    {
+      "surface": "נשיהם",
+      "gloss": "аялдарын"
+    },
+    {
+      "surface": "בעגלות",
+      "gloss": "арабаларга"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "аларды"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "жиберген"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Фараон"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "ташуу үчүн"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ аны"
+    }
+  ],
+  "timestamp": "2026-10-05T12:02:21.704316089Z",
+  "model": "glm-5.3"
+}

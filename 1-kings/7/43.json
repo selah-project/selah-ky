@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-kings 7:43",
+  "book": "1-kings",
+  "lang": "ky",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "чарчы идиш",
+      "rationale": "כיור — тегерек казылган жуучу идиш; «чарчы» сөзү жок, тегерек форманы билдирет"
+    },
+    {
+      "kind": "measurement",
+      "subject": "он",
+      "rationale": "Пьедесталдар менен идиштердин саны: он жана он"
+    }
+  ],
+  "translation": "Жана ⟨את⟩ он пьедестал, жана ⟨את⟩ пьедесталдардын үстүндөгү он чарчы идиш.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "0d34374412dbb1a9a0b46d35129c63877bf8e6526b8bec3f34af50c5dd946def",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-kings\/7\/41-44.1791208078342.json",
+    "code": "641241cf-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ жана",
+      "marks": "пьедесталдарды"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "пьедесталдар"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "он"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ жана",
+      "marks": "идиштерди"
+    },
+    {
+      "surface": "הכירת",
+      "gloss": "чарчы идиштер"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "он"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстүндө"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "пьедесталдардын"
+    }
+  ],
+  "timestamp": "2026-10-05T13:47:58.343674841Z",
+  "model": "glm-5.3"
+}

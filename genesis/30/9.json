@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 30:9",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "עמדה מלדת",
+      "rationale": "буквально «стала от рождения» — идиома «перестала рожать», передано как «төрөөд токтогон»"
+    },
+    {
+      "kind": "addition",
+      "subject": "өзүнүн",
+      "rationale": "еврейский не имеет притяжательного местоимения при שפחתה — суффикс уже несёт его"
+    }
+  ],
+  "translation": "Лея төрөөд токтогонун көргөндө, ал өзүнүн кул аялдысы Зилпаны алып, аны Яаковго аял кылып берди.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "73ab5786e098fc7118e5ce9986d02d24e6f5c17bfade2760f3410c54df032865",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/30\/9-12.1791201245653.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "көргөндө"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Лея"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…ны"
+    },
+    {
+      "surface": "עמדה",
+      "gloss": "токтогонун"
+    },
+    {
+      "surface": "מלדת",
+      "gloss": "төрөөд"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "алып"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Зилпаны"
+    },
+    {
+      "surface": "זלפה",
+      "gloss": "Зилпа"
+    },
+    {
+      "surface": "שפחתה",
+      "gloss": "кул аялдысы"
+    },
+    {
+      "surface": "ותתן",
+      "gloss": "берди"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "аны"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Яаковго"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "аял кылып"
+    }
+  ],
+  "timestamp": "2026-10-05T11:54:05.654329314Z",
+  "model": "glm-5.3"
+}

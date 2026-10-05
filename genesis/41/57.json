@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "genesis 41:57",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "לשבר",
+      "rationale": "Бул жерде שבר 'дан сатып алуу' деген соода маанисинде, тамырдын 'сынуу' деген негизги мааниси жоктотулду"
+    },
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "rationale": "'Йосефке' багыттоочу אёлר кыргызча '-тен' жөнөкөйлөтүлүп, өзүнчө сөз катары көрүнбөйт"
+    }
+  ],
+  "translation": "Жана бүт жер Мицрайимга Йосефтен дан сатып алуу үчүн келди, анткени ачарчылык бүт жерде күчөдү.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "1212edd08cae7b8177f181e3c19a634969d19d668a23012d588046148b9a62fe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/41\/57-57.1791201599470.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Жана бүт"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "жер"
+    },
+    {
+      "surface": "באו",
+      "gloss": "келди"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "Мицрайимга"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "дан сатып алуу үчүн"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосефтен"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "күчөдү"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "ачарчылык"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "бүт"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "жерде"
+    }
+  ],
+  "timestamp": "2026-10-05T11:59:59.470681109Z",
+  "model": "glm-5.3"
+}

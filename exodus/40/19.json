@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 40:19",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ал",
+      "rationale": "Кыргыз тили этиштин ээсин талап кылат; еврейче этиштин жакты көрсөтпөйт."
+    },
+    {
+      "kind": "substitution",
+      "subject": "Мишкан",
+      "rationale": "המשכן — Мишкан, 'чатыр' деп которулбайт (D2)."
+    }
+  ],
+  "translation": "Жана ал ⟨את⟩ чатырды Мишкандын үстүнө жайып, чатырдын ⟨את⟩ жабуусун анын үстүнө, өйдө койду — Яхве ⟨את⟩ Мошеге буйругандай.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "e075e919630fd3cd16c784d6f1d69323dd13039d0e78d89fa3d524a42b5a2fc7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/40\/19-20.1791223641899.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויפרש",
+      "gloss": "жайып"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "чатырды"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "чатырды"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстүнө"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Мишкандын"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "койду"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "жабуусун"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "жабуусун"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "чатырдын"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "анын үстүнө"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "өйдө"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "дайы"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "буйругандай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Мошеге"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Мошеге"
+    }
+  ],
+  "timestamp": "2026-10-05T18:07:21.900823827Z",
+  "model": "glm-5.3"
+}

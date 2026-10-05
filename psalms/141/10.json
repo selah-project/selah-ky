@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 141:10",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 141,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יחד אנכי עד אעבור",
+      "rationale": "«вместе я, пока не пройду» — мета: «пусть все вместе падут, а я пройду» (KJV) против «пока я не перейду» (YLТ); выбрано первое прочтение как императив-пожелание"
+    },
+    {
+      "kind": "hapax",
+      "subject": "מכמור",
+      "rationale": "редкое слово «скрытая охотничья сеть» — образ темноты и засады"
+    }
+  ],
+  "translation": "Мүнөзү жамандар өз торлоруна түшсүн, мен болсо ⟨жолумду⟩ улантам — ашып өтмөйчө.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "ed57e002cc009c647fee44da040c825b80f78ee00c9d0768dcb79644b3ceb2f6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/141\/9-10.1791217510172.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יפלו",
+      "gloss": "түшсүн"
+    },
+    {
+      "surface": "במכמריו",
+      "gloss": "өз торлоруна"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "мүнөзү жамандар"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "чогуу"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "мен"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ашып өтмөйчө"
+    },
+    {
+      "surface": "אעבור",
+      "gloss": "өтмөк"
+    }
+  ],
+  "timestamp": "2026-10-05T16:25:10.172883836Z",
+  "model": "glm-5.3"
+}

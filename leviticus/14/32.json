@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 14:32",
+  "book": "leviticus",
+  "lang": "ky",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "цараат",
+      "rationale": "צרעת kept as tsaraat, broader than medical leprosy"
+    },
+    {
+      "kind": "addition",
+      "subject": "адамдын",
+      "rationale": "construct תורת אשר בו needs 'of him in whom' expanded with a noun phrase in Kyrgyz"
+    },
+    {
+      "kind": "measurement",
+      "subject": "колу жетпеген",
+      "rationale": "provision-graded law: the whole unit turns on what the hand can reach — an economic measure"
+    }
+  ],
+  "translation": "Бул — анын колу тазалануусуна жетпеген, андагы цараат жарагы бар адамдын Торасы.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "e2cd7ce35c96e09522fd259e70279ac4a68cdb64f800767eaf69433ef3225fc2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/14\/29-32.1791203058881.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "бул"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Торасы"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…дын"
+    },
+    {
+      "surface": "בו",
+      "gloss": "анда"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "жара"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "цараат"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ал"
+    },
+    {
+      "surface": "לא",
+      "gloss": "эмес"
+    },
+    {
+      "surface": "תשיג",
+      "gloss": "жетет"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "колу"
+    },
+    {
+      "surface": "בטהרתו",
+      "gloss": "тазалануусуна"
+    }
+  ],
+  "timestamp": "2026-10-05T12:24:18.882362588Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 45:4",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "גשו נא אלי",
+      "rationale": "Йосеф агаларын өзүнө жакын келүүгө чакырат — «мага жакын келгиле»"
+    },
+    {
+      "kind": "you",
+      "subject": "агаларына",
+      "rationale": "Түз кайрылуу: «келгиле», «силер саткансыңар»"
+    }
+  ],
+  "translation": "Йосеф агаларына айтты: «Мага жакын келгиле, сураныч.» Алар жакын келишти. Жана ал айтты: «Мен — силердин агаңар Йосеф, силер мени ⟨את⟩ Мицрайимге саткансыңар.»",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "34e071bd88db5976584ff5d54f956cbd86a23506c73f23f19c45e05fd7437335",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/45\/1-4.1791201771397.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосеф"
+    },
+    {
+      "surface": "אל",
+      "gloss": "агаларына"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "агалары"
+    },
+    {
+      "surface": "גשו",
+      "gloss": "жакын келгиле"
+    },
+    {
+      "surface": "נא",
+      "gloss": "сураныч"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "мага"
+    },
+    {
+      "surface": "ויגשו",
+      "gloss": "жакын келишти"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "жана айтты"
+    },
+    {
+      "surface": "אני",
+      "gloss": "мен"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосеф"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "агаңар"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ошол"
+    },
+    {
+      "surface": "מכרתם",
+      "gloss": "саткансыңар"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "мени"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "Мицрайимге"
+    }
+  ],
+  "timestamp": "2026-10-05T12:02:51.398380045Z",
+  "model": "glm-5.3"
+}

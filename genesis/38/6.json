@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 38:6",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "эле",
+      "rationale": "Кыргыз тилине керек болгон связка; еврейче текстте жок."
+    }
+  ],
+  "translation": "Жана Яҳуда өзүнүң биринчи төрөлгөн уулу Эр үчүн аял алды; анын аты Тамар эле.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "050f0b471b391b5e231a87e422aaf5cc56773378379e15137b045e0b383221a0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/38\/5-8.1791201509952.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "жана алды"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Яҳуда"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "аял"
+    },
+    {
+      "surface": "לער",
+      "gloss": "Эр үчүн"
+    },
+    {
+      "surface": "בכורו",
+      "gloss": "анын биринчи төрөлгөнү"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "жана анын аты"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "Тамар"
+    }
+  ],
+  "timestamp": "2026-10-05T11:58:29.953652375Z",
+  "model": "glm-5.3"
+}

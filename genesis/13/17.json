@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 13:17",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "Тур, кезип чык",
+      "rationale": "Яхвенин Аврахамга түз буйругу — чакырык иш-аракети"
+    },
+    {
+      "kind": "you",
+      "subject": "сага",
+      "rationale": "Аврахамга түз кайрылуу"
+    },
+    {
+      "kind": "addition",
+      "subject": "Мен",
+      "rationale": "Этиштин жак сүйлөмдө кыргызча талап кылат, еврейчеде сүйлөөчү морфологияда"
+    }
+  ],
+  "translation": "Тур, жерди анын узундугуна жана туурасы боюнча кезип чык, анткени Мен аны сага берем.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "a8fa77bc53bbf674a7418ef8198eb6bbd1e521ea7789b53b23fda592963fc0cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/13\/17-18.1791200892979.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "Тур"
+    },
+    {
+      "surface": "התהלך",
+      "gloss": "кезип чык"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "жерди"
+    },
+    {
+      "surface": "לארכה",
+      "gloss": "анын узундугуна"
+    },
+    {
+      "surface": "ולרחבה",
+      "gloss": "жана туурасы боюнча"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "לך",
+      "gloss": "сага"
+    },
+    {
+      "surface": "אתננה",
+      "gloss": "Мен ани берем"
+    }
+  ],
+  "timestamp": "2026-10-05T11:48:12.979515974Z",
+  "model": "glm-5.3"
+}

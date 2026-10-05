@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "genesis 24:39",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "мырзама",
+      "rationale": "אדני адам жөнүндө — Аврахам, «мырза»"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ээрчип",
+      "rationale": "אחרי «артынан, артынан жүрүү» — «ээрчип» сөздүн образын сактайт"
+    }
+  ],
+  "translation": "Мен мырзама: «Аял мени ээрчип келбей калса чыгар?» — дедим.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "9fab278f579303705eaf6a7e942b8750abc3759fa8f436964af1f5be934eb3a9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/24\/37-40.1791201181946.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "дедим"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…га"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "мырзама"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "чыгар"
+    },
+    {
+      "surface": "לא",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "келбей калса"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "аял"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "мени ээрчип"
+    }
+  ],
+  "timestamp": "2026-10-05T11:53:01.947877967Z",
+  "model": "glm-5.3"
+}

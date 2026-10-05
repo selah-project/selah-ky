@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 17:14",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "צפינך",
+      "rationale": "'жашыруун казынаң' (KJV 'hidden treasure') жана 'сенин сыймыктарың' (BSV 'treasured ones' — башка окуу צְפוּנֶיךָ адамдар жөнүндө) деген эки чечмелөө бар"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ал⟩",
+      "rationale": "Окурман ким жөнүндө экенин түшүнсүн үчүн кошулду"
+    },
+    {
+      "kind": "elision",
+      "subject": "פלטה жандык объект",
+      "rationale": "פלטה этишинин 'колдон' деген так объектиси жок; маани контексттен"
+    }
+  ],
+  "translation": "Адамдардан колуң менен, Яхве, өтмө өмүрдүн адамдарынан — үлүштөрү бул жашоодо, жашыруун казынаң менен карындарын толтураң; балдарга тойот, эмчектегилерине үлүшүн калтырышат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "16a4bad9a59e51584fd3aecb9b76a34c45d370cd0cc2e263983226aafc0d1ea0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/17\/13-15.1791215425795.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ממתים",
+      "gloss": "адамдардан"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "колуң менен"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ממתים",
+      "gloss": "адамдарынан"
+    },
+    {
+      "surface": "מחלד",
+      "gloss": "өтмө өмүрдүн"
+    },
+    {
+      "surface": "חלקם",
+      "gloss": "үлүштөрү"
+    },
+    {
+      "surface": "בחיים",
+      "gloss": "бул жашоодо"
+    },
+    {
+      "surface": "וצפינך",
+      "gloss": "жашыруун казынаң"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "толтураң"
+    },
+    {
+      "surface": "בטנם",
+      "gloss": "карындарын"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "тойот"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "балдарга"
+    },
+    {
+      "surface": "והניחו",
+      "gloss": "калтырышат"
+    },
+    {
+      "surface": "יתרם",
+      "gloss": "артыгын"
+    },
+    {
+      "surface": "לעולליהם",
+      "gloss": "эмчектегилерине"
+    }
+  ],
+  "timestamp": "2026-10-05T15:50:25.796311281Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 51:5",
+  "book": "jeremiah",
+  "lang": "ky",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жесир калган",
+      "rationale": "אלמן «ташталган жесир» — көпчүлүк котормолор «ташталган» дейт, еврей сөзү жесирлик сүрөтүн сактайт."
+    },
+    {
+      "kind": "addition",
+      "subject": "каршы",
+      "rationale": "Еврейде предлог жок; «Ыйыгына каршы толгон» — кыргызча туюм үчүн кошулду."
+    }
+  ],
+  "translation": "Анткени Йисраэл жесир калган жок, жана Йехуда ⟨өз⟩ Элохиминен — Яхве Цебаоттон; анткени алардын жери күнөөгө толгон, Йисраэлдин Ыйыгына каршы.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "82c3b9a6ca7a0e787b7bad66e3b682316d48e30fcbd34ecc782917694fecd745",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/jeremiah\/51\/5-8.1791211972714.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "אלמן",
+      "gloss": "жесир калган"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэл"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "жана Йехуда"
+    },
+    {
+      "surface": "מאלהיו",
+      "gloss": "өз Элохиминен"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "Яхведен"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цебаоттон"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "алардын жери"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "толгон"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "күнөөгө"
+    },
+    {
+      "surface": "מקדוש",
+      "gloss": "Ыйыгына"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэлдин"
+    }
+  ],
+  "timestamp": "2026-10-05T14:52:52.715069380Z",
+  "model": "glm-5.3"
+}

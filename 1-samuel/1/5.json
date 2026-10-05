@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 1:5",
+  "book": "1-samuel",
+  "lang": "ky",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "эки беттүү бир үлүш",
+      "rationale": "מנה אחת אפים букв. «эки беттин бир үлүшү»: KJV «worthy portion», JPS\/ASV «double», YLT «a certain portion — double» — тексттин формасы эки бет (экологиялык дуал) сакталды"
+    },
+    {
+      "kind": "addition",
+      "subject": "бирок",
+      "rationale": "ивритте вав байланыштык, карама-каршылык кыргызча «бирок» менен ачылды"
+    }
+  ],
+  "translation": "Жана Ханнага ал эки беттүү бир үлүш берчү, анткени ⟨את⟩ Ханнаны сүйчү, бирок Яхве анын жатыны жабып койгон.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "8d53538950ae5ec51f8cf8c5467dfaae6f3e3dd5c38dbc6a6408594dca7ba8de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-samuel\/1\/5-8.1791206577963.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולחנה",
+      "gloss": "Жана Ханнага"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "берчү"
+    },
+    {
+      "surface": "מנה",
+      "gloss": "үлүш"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "бир"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "эки беттүү"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ханнаны"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "Ханнаны"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "сүйчү"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "бирок Яхве"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "жабып койгон"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "анын жатыны"
+    }
+  ],
+  "timestamp": "2026-10-05T13:22:57.963543970Z",
+  "model": "glm-5.3"
+}

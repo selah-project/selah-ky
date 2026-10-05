@@ -1,0 +1,130 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 3:9",
+  "book": "leviticus",
+  "lang": "ky",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "шеламим",
+      "rationale": "השלמים — «тынчтык\/бүтүндүк курмандыгы», еврейче айтылышы боюнча сакталды"
+    },
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "rationale": "колынего Kolay ilişki; кыргызча «ичтин үстүндөгү» деген ээлик конструкция менен берилди"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חלב",
+      "rationale": "«май» сөзү аятта үч жолу кайталанат — ыйык майга тиешелүү так көрсөтмө"
+    }
+  ],
+  "translation": "Жана шеламим курмандыктан от курмандык катары Яхвеге алып келет: анын майын, куйруктун толук майын — аны омурткага жакын жеринен ажыратат, жана ⟨את⟩ ичти жаап турган майды, жана ⟨את⟩ ичтин үстүндөгү бардык майды.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "936e6b553a4df9dd36b30a4640ced9a2d03da133f1f0c3c3cb304da55caa67ab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/3\/9-12.1791202803068.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "алып келет"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "курмандыктан"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "шеламим"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "от курмандык катары"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхвеге"
+    },
+    {
+      "surface": "חלבו",
+      "gloss": "анын майын"
+    },
+    {
+      "surface": "האליה",
+      "gloss": "куйруктун майын"
+    },
+    {
+      "surface": "תמימה",
+      "gloss": "толук"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "жакын жеринен"
+    },
+    {
+      "surface": "העצה",
+      "gloss": "омурткага"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "ажыратат"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ичти жаап турган майды"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "майды"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "жаап турган"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ичти"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "ичти"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ичтин үстүндөгү бардык майды"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бардык"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "майды"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…нын"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстүндөгү"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "ичтин"
+    }
+  ],
+  "timestamp": "2026-10-05T12:20:03.069672856Z",
+  "model": "glm-5.3"
+}

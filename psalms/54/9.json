@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 54:9",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 54,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ал",
+      "rationale": "Hebrew has no explicit subject pronoun; supplied in Kyrgyz brackets"
+    },
+    {
+      "kind": "crux",
+      "subject": "עיני ראתה באויבי",
+      "rationale": "'my eye has seen my enemies' — KJVs add 'his desire upon'; literally the eye simply sees the foes"
+    }
+  ],
+  "translation": "Себеби ⟨ал⟩ мени бардык кысынчылыктан куткарды, жана душмандарымды көзүм көрдү.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "826d8d16dd036ec13b32673ff7576212e0192b305b959f59d0736afb05f11d5b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/54\/9-9.1791216145307.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "себеби"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "бардык"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "кысынчылыктан"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "куткарды"
+    },
+    {
+      "surface": "ובאיבי",
+      "gloss": "жана душмандарымды"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "көрдү"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "көзүм"
+    }
+  ],
+  "timestamp": "2026-10-05T16:02:25.308090445Z",
+  "model": "glm-5.3"
+}

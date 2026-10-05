@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 45:12",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "dash\/copula",
+      "rationale": "«Мен — Менин колдорум» — еврейче ээлик конструкцияны байланыштуу кылуу үчүн тындырма белги кошулду"
+    },
+    {
+      "kind": "substitution",
+      "subject": "צבאם",
+      "rationale": "«Жүз» — асмандардын жылдыз-колдору; «аскер» да мүмкін, «жүз» тандылды"
+    }
+  ],
+  "translation": "Мен жерди жасадым жана анын үстүнө адамды жараттым; Мен — Менин колдорум асмандарды жайды, алардын бүткүл жүзүн Мен буйрудум.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "f00f181a25d2a7170dcc90a7659cdea7860554cc94dcd89a86b630970e9f8f35",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/45\/9-12.1791210272566.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Мен"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "жасадым"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "жерди"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "жана адамды"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "анын үстүнө"
+    },
+    {
+      "surface": "בראתי",
+      "gloss": "жараттым"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Мен"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "Менин колдорум"
+    },
+    {
+      "surface": "נטו",
+      "gloss": "жайды"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "асмандарды"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "бүткүл"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "алардын жүзүн"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "буйрудум"
+    }
+  ],
+  "timestamp": "2026-10-05T14:24:32.567917373Z",
+  "model": "glm-5.3"
+}

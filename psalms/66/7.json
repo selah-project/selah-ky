@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 66:7",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 66,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "түбөлүккө",
+      "rationale": "עולם — «түбөлүк» же «байыркы убактан» деп оклат."
+    },
+    {
+      "kind": "elision",
+      "subject": "סלה",
+      "rationale": "Селах — музыкалык белги, которулбайт."
+    },
+    {
+      "kind": "you",
+      "subject": "түшүнбөгөндөр",
+      "rationale": "Буйрук түрүндөгү сөз кайрылуу — каршы чыккандарга багытталган."
+    }
+  ],
+  "translation": "Кудурети менен түбөлүккө башкарат, көздөрү элдерди көзөтөт — түшүнбөгөндөр өздөрүн бийик көтөрбөсүн. Селах.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "a053864c231e7b93af25ede034cb9125ad962863e7cde04a752eba69391ddb84",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/66\/5-8.1791216346146.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משל",
+      "gloss": "башкарат"
+    },
+    {
+      "surface": "בגבורתו",
+      "gloss": "Кудурети менен"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "түбөлүккө"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "көздөрү"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "элдерди"
+    },
+    {
+      "surface": "תצפינה",
+      "gloss": "көзөтөт"
+    },
+    {
+      "surface": "הסוררים",
+      "gloss": "түшүнбөгөндөр"
+    },
+    {
+      "surface": "אל",
+      "gloss": "жок"
+    },
+    {
+      "surface": "ירימו",
+      "gloss": "көтөрбөсүн"
+    },
+    {
+      "surface": "למו",
+      "gloss": "өздөрүн"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Селах"
+    }
+  ],
+  "timestamp": "2026-10-05T16:05:46.147727948Z",
+  "model": "glm-5.3"
+}

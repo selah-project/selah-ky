@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 25:4",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "דרכיך \/ ארחותיך",
+      "rationale": "«жол» жана «жолочо» — жолдун эки еврей сөзү, параллелизм сакталды"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Давиддин Яхвеге тилеми",
+      "rationale": "буйрук формасындагы тилем — Яхвеге багытталган"
+    }
+  ],
+  "translation": "Жолдоруңду, Яхве, мага билгиз, жолочолоруңду мага үйрөт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "56d834fc48cd39fa425568609f45759f0e111a0509b1b30db4b1353c12ed8308",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/25\/1-4.1791215685630.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דרכיך",
+      "gloss": "Жолдоруңду"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "הודיעני",
+      "gloss": "мага билгиз"
+    },
+    {
+      "surface": "ארחותיך",
+      "gloss": "жолочолоруңду"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "мага үйрөт"
+    }
+  ],
+  "timestamp": "2026-10-05T15:54:45.631016323Z",
+  "model": "glm-5.3"
+}

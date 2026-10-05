@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 3:12",
+  "book": "1-samuel",
+  "lang": "ky",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "החל וכלה",
+      "rationale": "«Баштоо жана бүтүрүү» — толук аткарууну билдирген инфинитив даяр конструкциясы."
+    },
+    {
+      "kind": "measurement",
+      "subject": "ошол күнү",
+      "rationale": "Кыргын белгилүү бир күнгө байланган — убакыт белгиси."
+    }
+  ],
+  "translation": "Ошол күнү Мен Элиге каршы анын үйүнө айткан нерселердин баарын ⟨את⟩ аткарамын — баштап, бүткүчө.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "0c5e13e9fa98e0373fdb0caf232f518294f5856e8159d0b5f8ddb99cf25a9221",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-samuel\/3\/9-12.1791206626357.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ошол күнү"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ошол"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "аткарамын"
+    },
+    {
+      "surface": "אל",
+      "gloss": "каршы"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Элиге"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "баарын"
+    },
+    {
+      "surface": "כל",
+      "gloss": "баарын"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "нерселердин"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "айткан"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "үйүнө"
+    },
+    {
+      "surface": "החל",
+      "gloss": "баштап"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "бүткүчө"
+    }
+  ],
+  "timestamp": "2026-10-05T13:23:46.358279915Z",
+  "model": "glm-5.3"
+}

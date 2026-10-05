@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-chronicles 23:21",
+  "book": "2-chronicles",
+  "lang": "ky",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כל עם הארץ",
+      "rationale": "'жердин бүт эли' — констр structтук байланыш: бүт эл жердики, башкача айтканда өлкөнүн эли."
+    },
+    {
+      "kind": "you",
+      "subject": "повествование",
+      "rationale": "Аталйа өлтүрүлгөндүгү жөнүндө баяндоо; прямая обращение жок."
+    }
+  ],
+  "translation": "Жана жердин бүт эли кубанды, жана шаар тынчып калды, ал эми ⟨את⟩ Аталйаны кылыч менен өлтүрүштү.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "78a4ff86b5c7dc98624820c943fa7cd012159e44bb0c511d1be0b044dfd7b605",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-chronicles\/23\/21-21.1791222995340.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "кубанды"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүт"
+    },
+    {
+      "surface": "עם",
+      "gloss": "эли"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "жердин"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "жана шаар"
+    },
+    {
+      "surface": "שקטה",
+      "gloss": "тынчып калды"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Аталйаны"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "Аталйа"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "өлтүрүштү"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "кылыч менен"
+    }
+  ],
+  "timestamp": "2026-10-05T17:56:35.340989491Z",
+  "model": "glm-5.3"
+}

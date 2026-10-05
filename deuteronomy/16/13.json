@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 16:13",
+  "book": "deuteronomy",
+  "lang": "ky",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "жети күн",
+      "rationale": "Майрамдын убактысы саналат: жети күн."
+    },
+    {
+      "kind": "substitution",
+      "subject": "жүзүм чөгүндүсү",
+      "rationale": "מיקב — казылган идиш, жүзүм басуу чөгүндүсү; «жүзүмдүн өзү» эмес, идиш."
+    }
+  ],
+  "translation": "Суккот майрамын өзүңө жети күн жаса — дан аянтыңдан жана жүзүм чөгүндүңдөн жыйнаганыңда.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "ab5d566bbf5199655fc1b950b918386902035b849b4b9c5bf70a841b345469c8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/16\/13-16.1791205036060.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חג",
+      "gloss": "майрамын"
+    },
+    {
+      "surface": "הסכת",
+      "gloss": "Суккот"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "жаса"
+    },
+    {
+      "surface": "לך",
+      "gloss": "өзүңө"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "жети"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "күн"
+    },
+    {
+      "surface": "באספך",
+      "gloss": "жыйнаганыңда"
+    },
+    {
+      "surface": "מגרנך",
+      "gloss": "дан аянтыңдан"
+    },
+    {
+      "surface": "ומיקבך",
+      "gloss": "жана жүзүм чөгүндүңдөн"
+    }
+  ],
+  "timestamp": "2026-10-05T12:57:16.061000387Z",
+  "model": "glm-5.3"
+}

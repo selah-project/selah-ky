@@ -1,0 +1,135 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 22:3",
+  "book": "leviticus",
+  "lang": "ky",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жандуу",
+      "rationale": "נפש — дем алуучу жаны бар жандык, жүрөк-каалоо; «жан» катары эмес."
+    },
+    {
+      "kind": "addition",
+      "subject": "Мен — Яхве",
+      "rationale": "Еврейче этиш жок, кыргызча үчүн кошулду."
+    },
+    {
+      "kind": "you",
+      "subject": "Аларга айт",
+      "rationale": "Ахарондун уулдарына, муун-мууну менен, түз буйрук."
+    }
+  ],
+  "translation": "Аларга айт: силердин муундарыңарда, силердин тукумуңардан ыйык нерселерге -- Йисраэл уулдары Яхвеге ыйыктаган нерселерге -- жакындаган ар бир адам, анын боорулугу үстүндө болсо, ал жандуу Менин өзүнөн чабылып ташталсын. Мен — Яхве.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "df47aec6aafc2bbb7b744f050a0ab57c45ad5b3d8d18a5e90f23266e614062c0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/22\/1-4.1791203336493.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "айт"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "аларга"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "силердин муундарыңарда"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ар бир"
+    },
+    {
+      "surface": "איש",
+      "gloss": "адам"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "--"
+    },
+    {
+      "surface": "יקרב",
+      "gloss": "жакындаган"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "баарынан"
+    },
+    {
+      "surface": "זרעכם",
+      "gloss": "силердин тукумуңардан"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ге"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "ыйык нерселерге"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "--"
+    },
+    {
+      "surface": "יקדישו",
+      "gloss": "ыйыктаган"
+    },
+    {
+      "surface": "בני",
+      "gloss": "уулдары"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэл"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхвеге"
+    },
+    {
+      "surface": "וטמאתו",
+      "gloss": "жана анын боорулугу"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "үстүндө"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "чабылып ташталсын"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "ал жандуу"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ал"
+    },
+    {
+      "surface": "мלפני",
+      "gloss": "Менин өзүнөн"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Мен"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-10-05T12:28:56.494422623Z",
+  "model": "glm-5.3"
+}

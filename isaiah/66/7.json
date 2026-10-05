@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 66:7",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 66,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "эркек бала",
+      "rationale": "זכר букв. «эркек» — «уул» да мүмкүн, бирок сөздүн формасы жынысты көрсөтөт"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בטרם ×2",
+      "rationale": "«боло электе» кайталануусу параллелструктураны түзөт — экөө тең сакталды"
+    }
+  ],
+  "translation": "Төрөө мүмкүн боло электе эле ал төрөдү; оору келгенче эле ал эркек баланы төрөп берди.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "9115260a30574c085e54eade4b05e5ee2cc9ca490471155f1905873e5b5f0e25",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/66\/5-8.1791210638526.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "боло электе эле"
+    },
+    {
+      "surface": "תחיל",
+      "gloss": "төрөө мүмкүн"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "төрөдү"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "келгенче эле"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "келгенче"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "оору"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ал"
+    },
+    {
+      "surface": "והмליטה",
+      "gloss": "төрөп берди"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "эркек баланы"
+    }
+  ],
+  "timestamp": "2026-10-05T14:30:38.527101494Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-samuel 14:37",
+  "book": "1-samuel",
+  "lang": "ky",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ал⟩",
+      "rationale": "Еврей текстте жооп берген субъект (Элохим) аталбаган, кыргызча тактоо үчүн кошулду"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Элохимден сурады",
+      "rationale": "באלהים 'Элохимден' — кеңеш сураган маанисинде, 'кеңеш бер' деген сөз текстте жок"
+    }
+  ],
+  "translation": "Жана Шаул Элохимден сурады: Пелиштиликтердин артынан түшөйүнбү, аларды Йисраэлдин колуна бересинби? Бирок ⟨ал⟩ ошол күндү ага жооп бербеди.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "04f74b327bb112abd6bfe82b0b2a80183f22db432c416ab665017e63e4c70fa2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-samuel\/14\/37-40.1791206912342.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "сурады"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "Элохимден"
+    },
+    {
+      "surface": "הארד",
+      "gloss": "түшөйүнбү"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "артынан"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "пелиштиликтердин"
+    },
+    {
+      "surface": "התתנם",
+      "gloss": "бересинби"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "колуна"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэлдин"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "ענהו",
+      "gloss": "жооп бербеди"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "күндө"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ошол"
+    }
+  ],
+  "timestamp": "2026-10-05T13:28:32.343444927Z",
+  "model": "glm-5.3"
+}

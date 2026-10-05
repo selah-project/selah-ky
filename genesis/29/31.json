@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 29:31",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "жек көрүлгөн",
+      "rationale": "שנואה — «жек көрүлгөн» же «сүйүлбөгөн» (BSB); D3 боюнча сүйүүгө тескери сөз кармалды"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨жатты⟩",
+      "rationale": "еврейче этишсиз айтылмыш, кыргызча эс тутумдук этиш кошулду"
+    }
+  ],
+  "translation": "Жана Яхве Лия жек көрүлгөнүн көрдү, жана ⟨את⟩ анын жатынлыгын ачты, ал эми Рахель түбөйлүк болду ⟨жатты⟩.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "ef7e25ea597185ca90d50ee788b6b9826ece73887f2354f10974dc15ef063eec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/29\/29-32.1791201303419.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "көрдү"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…ны"
+    },
+    {
+      "surface": "שנואה",
+      "gloss": "жек көрүлгөн"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Лия"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "ачты"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "жатынлыгын"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "анын жатынлыгын"
+    },
+    {
+      "surface": "ורחל",
+      "gloss": "ал эми Рахель"
+    },
+    {
+      "surface": "עקרה",
+      "gloss": "түбөйлүк болду ⟨жатты⟩"
+    }
+  ],
+  "timestamp": "2026-10-05T11:55:03.420553181Z",
+  "model": "glm-5.3"
+}

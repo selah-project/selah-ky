@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 30:9",
+  "book": "1-samuel",
+  "lang": "ky",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ошол жерде",
+      "rationale": "Еврейче тек 'турду' дейт; 'ошол жерде' кыргызча тактык үчүн кошулду"
+    }
+  ],
+  "translation": "Давид жөнөп кетти, ал ⟨өзү⟩ жана ⟨את⟩ анын жанындагы алты жүз адам, жана алар Бешор суусуна чейин келишти; ал эми калгандары ошол жерде турду.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "2e11ce54202fda946839caa3c84e69ce09fb055b50ca2078aea9357e52f24921",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-samuel\/30\/9-12.1791207222690.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "жөнөп кетти"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ал ⟨өзү⟩"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "жана алты"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "жүз"
+    },
+    {
+      "surface": "איש",
+      "gloss": "адам"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "алар"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "анын жанында"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "жана келишти"
+    },
+    {
+      "surface": "עד",
+      "gloss": "чейин"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "суу"
+    },
+    {
+      "surface": "הבשור",
+      "gloss": "Бешор"
+    },
+    {
+      "surface": "והנותרים",
+      "gloss": "ал эми калгандары"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "турду"
+    }
+  ],
+  "timestamp": "2026-10-05T13:33:42.690937089Z",
+  "model": "glm-5.3"
+}

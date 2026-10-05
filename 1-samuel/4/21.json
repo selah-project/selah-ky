@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 4:21",
+  "book": "1-samuel",
+  "lang": "ky",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אי כבוד \/ כבוד",
+      "rationale": "Ысым Ай-Кавод («кайда даңк?») менен «даңк кетти» деген сүйлөм бир тамырда — ысымдын өзү сүйлөмдүн ачкычы."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨өлгөн⟩",
+      "rationale": "Еврей текст кайнене менен күйөөнү гана айтат; «өлгөн» деген контексттен кошулду."
+    }
+  ],
+  "translation": "Жана ал бала Ай-Кавод деп атады, айтып: «Даңк Йисраэлден кетти», анткени Элохимдин сандыгы алынды, жана анткени анын кайненеси жана күйөөсү ⟨өлгөн⟩.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "26ad8c9af735c88c013d8c8fa56c2e603aab2aa4da8e09f75da8de37ae35ec8c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-samuel\/4\/21-22.1791206618515.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותקרא",
+      "gloss": "жана атады"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "балага"
+    },
+    {
+      "surface": "אי",
+      "gloss": "Ай-"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "Кавод"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "айтып"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "кетти"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "даңк"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "Йисраэлден"
+    },
+    {
+      "surface": "אל",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "הלקח",
+      "gloss": "алынды"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "сандык"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Элохимдин"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "жана анткени"
+    },
+    {
+      "surface": "חמיה",
+      "gloss": "анын кайненеси"
+    },
+    {
+      "surface": "ואישה",
+      "gloss": "жана күйөөсү"
+    }
+  ],
+  "timestamp": "2026-10-05T13:23:38.516441191Z",
+  "model": "glm-5.3"
+}

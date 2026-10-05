@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "amos 3:6",
+  "book": "amos",
+  "lang": "ky",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ал⟩",
+      "rationale": "Ивритте эгесиз этиш — субъект кыргызча талап кылат"
+    },
+    {
+      "kind": "crux",
+      "subject": "רעה",
+      "rationale": "'жаманчылык' — жаза же кырсыгы; Яхвенин жаманчылыкты жасоосу кеңири талаш"
+    }
+  ],
+  "translation": "Шофер шаарда чалынса, эл коркпой калабы? Шаарда жаманчылык болсо, Яхве ⟨ал⟩ жасабайбы?",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "5278dad65ec42f62a4820413957b847f57262566b203969b2f96c46f03918c2b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/amos\/3\/5-8.1791214210736.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "…са"
+    },
+    {
+      "surface": "יתקע",
+      "gloss": "чалынса"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "шофер"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "шаарда"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "эл"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "יחרדו",
+      "gloss": "коркпой калабы"
+    },
+    {
+      "surface": "אם",
+      "gloss": "…са"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "болсо"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "жаманчылык"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "шаарда"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "жасабайбы"
+    }
+  ],
+  "timestamp": "2026-10-05T15:30:10.736885301Z",
+  "model": "glm-5.3"
+}

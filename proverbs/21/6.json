@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 21:6",
+  "book": "proverbs",
+  "lang": "ky",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "хебел",
+      "rationale": "הבל 'аба, боштук, өткүнчүлүк' — кыргызча так эквиваленти жок, еврейче сөз катары калдырылды"
+    },
+    {
+      "kind": "crux",
+      "subject": "נדף",
+      "rationale": "'чайылды\/таркатылды' — ким чайып жатканы бөлүк (өлүмдү издегендер өздөрү же башкалар)"
+    }
+  ],
+  "translation": "Жалган тил менен казыналарды жыйноо — өлүмдү издегендер колунан чайылып жоголуучу хебел.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "27aad930d67a940aa885ec55b748c65c7b54c0bb1e5cc68cd65085cdd1dda1db",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/21\/5-8.1791218187579.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פעל",
+      "gloss": "жыйноо"
+    },
+    {
+      "surface": "אוצרות",
+      "gloss": "казыналарды"
+    },
+    {
+      "surface": "בלשון",
+      "gloss": "тил менен"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "жалган"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "хебел"
+    },
+    {
+      "surface": "נדף",
+      "gloss": "чайылып жоголуучу"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "издегендер"
+    },
+    {
+      "surface": "מות",
+      "gloss": "өлүмдү"
+    }
+  ],
+  "timestamp": "2026-10-05T16:36:27.580021585Z",
+  "model": "glm-5.3"
+}

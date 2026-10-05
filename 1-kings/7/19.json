@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 7:19",
+  "book": "1-kings",
+  "lang": "ky",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "эле",
+      "rationale": "Еврейче байламда жок, кыргызча талап кылат"
+    },
+    {
+      "kind": "measurement",
+      "subject": "төрт чыкан",
+      "rationale": "Капителдин өлчөмү айтылат"
+    },
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "rationale": "盐тиктик байламча кыргызча түшүп калды"
+    }
+  ],
+  "translation": "Жана мамылардын башындагы капителдер айванда ⟨эле⟩ лилия иштелишинде, төрт чыкан.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "d4e0b71ed2968f8a00f7adf09fa1613fd194bbffaec222647c88dac7b8136ae6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-kings\/7\/19-20.1791223943595.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכתרת",
+      "gloss": "жана капителдер"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "алар"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстүндө"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "башындагы"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "мамылардын"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "иштелишинде"
+    },
+    {
+      "surface": "שושן",
+      "gloss": "лилия"
+    },
+    {
+      "surface": "באולם",
+      "gloss": "айванда"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "төрт"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "чыкан"
+    }
+  ],
+  "timestamp": "2026-10-05T18:12:23.595770802Z",
+  "model": "glm-5.3"
+}

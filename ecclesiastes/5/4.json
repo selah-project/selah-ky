@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 5:4",
+  "book": "ecclesiastes",
+  "lang": "ky",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "rationale": "Салыштыруу 'эмне' деген салыштырмача байланыштык — кыргызча түз структура менен берилди"
+    },
+    {
+      "kind": "substitution",
+      "subject": "жакшыраак",
+      "rationale": "טוב 'жакшы' — салыштыруу контекстинде кыргызча 'жакшыраак' табигый"
+    }
+  ],
+  "translation": "Жакшыраак — ант бербегениң, ант бергенден да аны аткарбаганыңдан.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "673c0bdcb3d48faa53297bc9d5e2aee1f7d214ecc60a1d397cb7399cae0c6460",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ecclesiastes\/5\/1-4.1791220069549.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "жакшыраак"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "эмне"
+    },
+    {
+      "surface": "לא",
+      "gloss": "эмес"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "ант бер"
+    },
+    {
+      "surface": "משתדור",
+      "gloss": "ант бергенден"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "жана эмес"
+    },
+    {
+      "surface": "תשלם",
+      "gloss": "аткарбаганыңдан"
+    }
+  ],
+  "timestamp": "2026-10-05T17:07:49.552518770Z",
+  "model": "glm-5.3"
+}

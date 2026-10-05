@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 31:2",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ысым менен чакырдым",
+      "rationale": "קרא בשם — жөн гана «чакыруу» эмес, атайын, ысымын атап чакыруу."
+    },
+    {
+      "kind": "invitation",
+      "subject": "Карачы",
+      "rationale": "ראה — Мошеге көңүл бурдуруу чакырыгы."
+    }
+  ],
+  "translation": "Карачы, Мен Бецалелди ысым менен чакырдым — Уринин уулу, Хурдун уулу, Йегуданын уруусунан.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "f6bf04b29791fe11920969691a6ef199183e7df34d81fc743f4f756ced92e8f6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/31\/1-4.1791202471990.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Карачы"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "чакырдым"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "ысым менен"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "Бецалелди"
+    },
+    {
+      "surface": "בן",
+      "gloss": "уулу"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "Уринин"
+    },
+    {
+      "surface": "בן",
+      "gloss": "уулу"
+    },
+    {
+      "surface": "חור",
+      "gloss": "Хурдун"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "уруусунан"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Йегуданын"
+    }
+  ],
+  "timestamp": "2026-10-05T12:14:31.991173950Z",
+  "model": "glm-5.3"
+}

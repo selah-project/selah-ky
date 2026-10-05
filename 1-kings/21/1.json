@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 21:1",
+  "book": "1-kings",
+  "lang": "ky",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "ויהי",
+      "rationale": "кыргызча «болду» бир гана этиш менен берилди; экөөнөн бири түшүрүлдү"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יזרעאלי\/יזרעאל",
+      "rationale": "Йизреэлдик — Йизреэлде: ат менен жердин кайталанышы, адам жер менен байланышкан"
+    }
+  ],
+  "translation": "Бул сөздөрдөн кийин Навоттун — Йизреэлдиктин — Йизреэлде жайгашкан жүзүм багы болду; ал Ахавдын, Шомрон падышасынын сарайына жакын эле.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "43996b67bab36963950fd87267c1b0858f6b5de5696a1e2760850a9c1fe623a8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-kings\/21\/1-4.1791208572779.json",
+    "code": "641241cf-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": ""
+    },
+    {
+      "surface": "אחר",
+      "gloss": "кийин"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "сөздөрдөн"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "бул"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "жүзүм багы"
+    },
+    {
+      "surface": "היה",
+      "gloss": "болду"
+    },
+    {
+      "surface": "לנבות",
+      "gloss": "Навоттун"
+    },
+    {
+      "surface": "היזרעאלי",
+      "gloss": "Йизреэлдиктин"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ал"
+    },
+    {
+      "surface": "ביזרעאל",
+      "gloss": "Йизреэлде"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "жакын"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "сарайы"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ахавдын"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "падышасы"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Шомрон"
+    }
+  ],
+  "timestamp": "2026-10-05T13:56:12.780155282Z",
+  "model": "glm-5.3"
+}

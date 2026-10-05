@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 18:1",
+  "book": "1-samuel",
+  "lang": "ky",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жан",
+      "rationale": "נפש — дем алуучу жандык, көкүрөк\/жан күчү; «канжан» эмес"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נפש…נפש…נפשו",
+      "rationale": "«жан» сөзү үч жолу кайталанып, байланышты бекемдейт"
+    }
+  ],
+  "translation": "Болду: ал Шаулга сүйлөп бүткөндө, Йехонатандын жаны Давиддин жанына байланып, Йехонатан аны өз жанындай сүйүп калды.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "03d807db3496fd6db543d4926f34504fb7d78b89c59513fae8d8bca2faeebdf8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-samuel\/18\/1-4.1791207056347.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Болду"
+    },
+    {
+      "surface": "ככלתו",
+      "gloss": "бүткөндө"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "сүйлөп"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Шаулга"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "жаны"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Йехонатандын"
+    },
+    {
+      "surface": "נקשרה",
+      "gloss": "байланып"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "жанына"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давиддин"
+    },
+    {
+      "surface": "ויאהבו",
+      "gloss": "сүйүп калды"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Йехонатан"
+    },
+    {
+      "surface": "כנפשו",
+      "gloss": "өз жанындай"
+    }
+  ],
+  "timestamp": "2026-10-05T13:30:56.347954245Z",
+  "model": "glm-5.3"
+}

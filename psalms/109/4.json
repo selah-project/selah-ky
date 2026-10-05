@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 109:4",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 109,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "וַאֲנִי תְפִלָּה",
+      "rationale": "'but I — prayer': KJV 'I give myself to prayer', JPS 'I am all prayer'; literal is noun predicate without copula"
+    },
+    {
+      "kind": "substitution",
+      "subject": "дуба",
+      "rationale": "תְפִלָּה is intercession\/supplication; дуба is the Kyrgyz prayer word"
+    }
+  ],
+  "translation": "Менин сүйүүмдүн ордуна алар мага каршы чыгышты, ал эми мен — дуба.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "4e93a87331292423e31d0b6e0900e868c52634e2c0ed0f8b730ebf095603344d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/109\/1-4.1791217226836.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "ордуна"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "сүйүүмдүн"
+    },
+    {
+      "surface": "ישטנוני",
+      "gloss": "мага каршы чыгышты"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ал эми мен"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "дуба"
+    }
+  ],
+  "timestamp": "2026-10-05T16:20:26.838408351Z",
+  "model": "glm-5.3"
+}

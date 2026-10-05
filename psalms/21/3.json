@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 21:3",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨Сен⟩",
+      "rationale": "Жөнөкөй өткөн чактын ээси кыргызча так көрсөтүлдү"
+    },
+    {
+      "kind": "substitution",
+      "subject": "аянбадың",
+      "rationale": "בל מנעת — «тоскодуң\/кармадың» эмес, «анткен жоксуң»; булakte түнөк дегене жок"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תאות\/ארשת",
+      "rationale": "Эки жакын сөз «каалоо» жана «тилек» — параллелизм, кыргызча эки ар кыл сөз менен берилди"
+    }
+  ],
+  "translation": "Анын жүрөгүнүн каалоосун ⟨Сен⟩ ага бердиң, жана эриндеринин тилегин аянбадың. Селах.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "6ee1fd41d4ce2ee00416719f0b5f4f425827e67a2f68b0305fa27a52e60697bd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/21\/1-4.1791215611213.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "каалоосун"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "жүрөгүнүн"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "бердиң"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ага"
+    },
+    {
+      "surface": "וארשת",
+      "gloss": "жана ... тилегин"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "эриндеринин"
+    },
+    {
+      "surface": "בל",
+      "gloss": "аянбадың"
+    },
+    {
+      "surface": "מנעת",
+      "gloss": "таябадың"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Селах"
+    }
+  ],
+  "timestamp": "2026-10-05T15:53:31.214459469Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 1:3",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жем катуу",
+      "rationale": "אבוס — мал жем жеген жай\/жем салгыч, «жем катуу» деген кыргызча сөз"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ידע ... לא ידע",
+      "rationale": "«тааныйт \/ тааныбады» — этиштин кайталанышы риторикалык карама-каршылыкты түзөт"
+    }
+  ],
+  "translation": "Өзүнүн ээсин өгүз тааныйт, жана ээсинин жем катуусун эшек тааныйт; Йисраэл тааныбады, Менин элим түшүнбөдү.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "6beb105412b3d0f341ff93a7b970e93c6ed9f7caf9493d7e48af5de34a864aa0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/1\/1-4.1791209367259.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ידע",
+      "gloss": "тааныйт"
+    },
+    {
+      "surface": "שור",
+      "gloss": "өгүз"
+    },
+    {
+      "surface": "קנהו",
+      "gloss": "өзүнүн ээсин"
+    },
+    {
+      "surface": "וחמור",
+      "gloss": "жана эшек"
+    },
+    {
+      "surface": "אבוס",
+      "gloss": "жем катуусун"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "ээсинин"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэл"
+    },
+    {
+      "surface": "לא",
+      "gloss": "тааныбады"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "тааныбады"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "Менин элим"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түшүнбөдү"
+    },
+    {
+      "surface": "התבונן",
+      "gloss": "түшүнбөдү"
+    }
+  ],
+  "timestamp": "2026-10-05T14:09:27.261031821Z",
+  "model": "glm-5.3"
+}

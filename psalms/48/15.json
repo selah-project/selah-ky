@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 48:15",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "—",
+      "rationale": "Бул — Элохим: кыргызча байламча ⟨—⟩ кошулду; еврейче жок."
+    },
+    {
+      "kind": "crux",
+      "subject": "על מות",
+      "rationale": "«Өлгөнгө чейин» (KJV\/ASV) же «өлүмдөн өтүү\/өлүм үстүнөн» (YLT) же לְעַלְמוּת деп окууп «жаш кыздар» деп түшүнүү — белгилүү карама-каршылык."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עולם ועד",
+      "rationale": "Түбөлүк + дайыма — үндөштүк түзүлүш, кыргызча экөө тең сакталды."
+    }
+  ],
+  "translation": "Себеби бул — Элохим, биздин Элохимибиз, түбөлүккө жана дайыма; ал бизди өлгөнгө чейин жетектейт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "0eb93a496eaf672950affe49ab3d00a44a0851e938cd49fa5ed6359a22c5ef46",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/48\/13-15.1791216065650.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "себеби"
+    },
+    {
+      "surface": "זה",
+      "gloss": "бул"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "биздин Элохимибиз"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "түбөлүккө"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "жана дайыма"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ал"
+    },
+    {
+      "surface": "ינהגנו",
+      "gloss": "бизди жетектейт"
+    },
+    {
+      "surface": "על",
+      "gloss": "чейин"
+    },
+    {
+      "surface": "מות",
+      "gloss": "өлгөнгө"
+    }
+  ],
+  "timestamp": "2026-10-05T16:01:05.651635063Z",
+  "model": "glm-5.3"
+}

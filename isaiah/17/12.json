@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 17:12",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "המון\/כהמות\/יהמיון",
+      "rationale": "Бир тамырдын үч жолу кайталанышы — дабыш окшоштугу"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ושאון\/כשאון\/ישאון",
+      "rationale": "'жыйырылыш' тамырынын үч жолу кайталанышы — дабыштардын дал келиши"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ישאון",
+      "rationale": "Тамыры שאא 'кууруу, чөлгө айлантуу' — 'жок кылынат' деп да окулат"
+    }
+  ],
+  "translation": "Оо, көп элдердин ызы-чуусу — деңиздердин күүлдөгөнүндөй күүлдөйт; улуттардын жыйырылышы — кубаттуу суулардын жыйырылышындай жыйырылат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "53bd39ee18239dcbb230b601ed0b7c7b6f74d41f8ade89c8b49155072f1d59bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/17\/9-12.1791209660269.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "оо"
+    },
+    {
+      "surface": "המון",
+      "gloss": "ызы-чуусу"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "элдердин"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "көп"
+    },
+    {
+      "surface": "כהמות",
+      "gloss": "күүлдөгөнүндөй"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "деңиздердин"
+    },
+    {
+      "surface": "יהמיון",
+      "gloss": "күүлдөйт"
+    },
+    {
+      "surface": "ושאון",
+      "gloss": "жана жыйырылышы"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "улуттардын"
+    },
+    {
+      "surface": "כשאון",
+      "gloss": "жыйырылышындай"
+    },
+    {
+      "surface": "מים",
+      "gloss": "суулардын"
+    },
+    {
+      "surface": "כבירים",
+      "gloss": "кубаттуу"
+    },
+    {
+      "surface": "ישאון",
+      "gloss": "жыйырылат"
+    }
+  ],
+  "timestamp": "2026-10-05T14:14:20.270966050Z",
+  "model": "glm-5.3"
+}

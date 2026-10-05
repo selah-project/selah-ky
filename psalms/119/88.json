@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 88,
+  "ref": "psalms 119:88",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ошондо",
+      "rationale": "кошулма вав натыйжаны билдирет; кыргызча 'ошондо' кошулду"
+    },
+    {
+      "kind": "substitution",
+      "subject": "хесед",
+      "rationale": "חסד 'хесед' сөзү которулбай калды — ырайым да, берилгендик да, сүйүү да"
+    }
+  ],
+  "translation": "Хеседиңе ылайык мени жандант, ошондо оозуңдун күбөлүгүн сактайм.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "8e03f311bbb937ffcb1e3d0c3a65cc4b4fa53d2c47c61faebecb9f7bbf051b71",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/119\/85-88.1791217376501.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כחסדך",
+      "gloss": "хеседиңе ылайык"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "мени жандант"
+    },
+    {
+      "surface": "ואשמרה",
+      "gloss": "ошондо ... сактайм"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "күбөлүгүн"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "оозуңдун"
+    }
+  ],
+  "timestamp": "2026-10-05T16:22:56.502621267Z",
+  "model": "glm-5.3"
+}

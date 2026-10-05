@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 10:12",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "היא העיר הגדלה",
+      "rationale": "«ал — чоң шаар»: Ресенби, Келахпы же Нинвеби маанилүү экендиги боюнча которуучулар эч келише алышпайт"
+    },
+    {
+      "kind": "substitution",
+      "subject": "העיר",
+      "rationale": "кыргызча «шаар» артиклсиз берилди — кыргыз тилинде артикль жок"
+    }
+  ],
+  "translation": "Жана ⟨את⟩ Ресенди — Нинве менен Келахтын ортосунда; ал — чоң шаар.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "a263bebc2c780847166af15c82db826ef1d547a43ed3e8226502ae4df3c532ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/10\/9-12.1791200897202.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Ресенди"
+    },
+    {
+      "surface": "רסן",
+      "gloss": "Ресенди"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ортосунда"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Нинве"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "менен"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "Келахтын"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ал"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "шаар"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "чоң"
+    }
+  ],
+  "timestamp": "2026-10-05T11:48:17.203570051Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 102:2",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 102,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Saga",
+      "rationale": "אליך «сенге» дегенди кыргызча «Saga» формасы менен берүү керек болду"
+    }
+  ],
+  "translation": "Яхве, менин тиленүүмдү ук, менин чакырганым Saga жетсин.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "0e44dd152abec956e2e86f54bfacc53d74ec05266a22a92dc79db1cb4319e304",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/102\/1-4.1791216991523.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "ук"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "тиленүүмдү"
+    },
+    {
+      "surface": "ושועתי",
+      "gloss": "менин чакырганым"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "Saga"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "жетсин"
+    }
+  ],
+  "timestamp": "2026-10-05T16:16:31.524067338Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 44:2",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "פעל\/פעלת",
+      "rationale": "Иш\/ишти аткар — бир тамырдын кайталанышы, кыргызча окшош жаңыртылбай калат"
+    },
+    {
+      "kind": "crux",
+      "subject": "глоссанын ордун алмаштыруу",
+      "rationale": "«Кандай иш аткарганын» — ивриттин этиштин алдында турган этиштик эмес зат атын суйломдун аягына көчүрүү зарыл болду"
+    }
+  ],
+  "translation": "Элохим, кулагыбыз менен уктук, ата-бабаларыбыз бизге айтышты: алардын күндөрүндө, байыркы күндөрдө ⟨ал⟩ кандай иш аткарганын.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "2d81b34b2fe27c73d336ae0b6513a78bcce3ba43b1f8a7c8ced15d5436171424",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/44\/2-3.1791224467820.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "באזנינו",
+      "gloss": "кулагыбыз менен"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "уктук"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "ата-бабаларыбыз"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "айтышты"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "бизге"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "иш"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "аткарганын"
+    },
+    {
+      "surface": "בימיהם",
+      "gloss": "алардын күндөрүндө"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "күндөрүндө"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "байыркы"
+    }
+  ],
+  "timestamp": "2026-10-05T18:21:07.821067867Z",
+  "model": "glm-5.3"
+}

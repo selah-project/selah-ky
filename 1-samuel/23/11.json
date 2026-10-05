@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 23:11",
+  "book": "1-samuel",
+  "lang": "ky",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Яхвеге — Давиддин тиленүүсү",
+      "rationale": "Давид Яхвени түз саламдашып, сурак менен кайрылат"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ээлери",
+      "rationale": "בעלי букв. «ээлери» — Кеиланын кожоюндору, аксакалдары"
+    },
+    {
+      "kind": "elision",
+      "subject": "нא",
+      "rationale": "«өтүнөм» деген жумшартуу бөлүкчөсү кыргызча сөзгө толук сиңбейт"
+    }
+  ],
+  "translation": "Кеиланын ээлери мени анын колуна тапшырабы? Шаул түшөбү, сенин кулуң уккандай? Яхве, Йисраэлдин Элохими, кулуңа айтпа",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "df90f4fe3ac1d5578593274c89bb1e49be210f087ac5ec2c42f581c8871bf873",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-samuel\/23\/9-12.1791207097802.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "היסגרוני",
+      "gloss": "тапшырабы"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "ээлери"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Кеиланын"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "анын колуна"
+    },
+    {
+      "surface": "הירד",
+      "gloss": "түшөбү"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "...дай"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "уккандай"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "сенин кулуң"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Йисраэлдин Элохими"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэл"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "айтпа"
+    },
+    {
+      "surface": "נא",
+      "gloss": "өтүнөм"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "кулуңа"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "түшөт"
+    }
+  ],
+  "timestamp": "2026-10-05T13:31:37.803457302Z",
+  "model": "glm-5.3"
+}

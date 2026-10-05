@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 142:5",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 142,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жанымды",
+      "rationale": "נפש — дем алуучу жандык, жан-күч; «жан» — эң жакын кыргызча"
+    },
+    {
+      "kind": "invitation",
+      "subject": "карап көр",
+      "rationale": "ыплавы айтылган буйрук — Яхвеге эмес, окурманга же душманга багытталган сүйлөө"
+    }
+  ],
+  "translation": "Оң жагыма карап көр жана көр — мага таануучу жок; качуу жок болду менден, жанымды издеген жок.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "ae674d83557acf8694250d0bbacfd6bdc9e0175bad776174ee6071f57e9f6862",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/142\/5-8.1791217602443.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הביט",
+      "gloss": "карап көр"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "оң жак"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "жана көр"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "жана жок"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мага"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "таануучу"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "жоголду"
+    },
+    {
+      "surface": "מנוס",
+      "gloss": "качуу"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "менден"
+    },
+    {
+      "surface": "אין",
+      "gloss": "жок"
+    },
+    {
+      "surface": "דורש",
+      "gloss": "издеген"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "жанымды"
+    }
+  ],
+  "timestamp": "2026-10-05T16:26:42.444001388Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 17:14",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жан",
+      "rationale": "נפש — «дем алуучу жандуу», жүрөк-боор маанисинде эмес; кыргызча «жан» эң жакын форма"
+    },
+    {
+      "kind": "idiom",
+      "subject": "кесилип ташталат",
+      "rationale": "נכרתה — букв. «кесилүү»: элинен алынып, жок кылынуу; кыргызча идиома менен берилди"
+    }
+  ],
+  "translation": "Жана сүннөтсүз эркек — анын тери кабыгынын этин сүннөткө отургузбаса — ошол жан өз элинен кесилип ташталат; ал ⟨את⟩ Меним келишимимди бузду.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "bd70323f7013dc768a279706e7a0a734fca4f182081ac9899ddff6f8d6046068",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/17\/13-16.1791201032601.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וערל",
+      "gloss": "жана сүннөтсүз"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "эркек"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ал"
+    },
+    {
+      "surface": "לא",
+      "gloss": "эмес"
+    },
+    {
+      "surface": "ימול",
+      "gloss": "отургузбаса"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "тери кабыгынын этин"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "этин"
+    },
+    {
+      "surface": "ערלתו",
+      "gloss": "тери кабыгынын"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "жана кесилип ташталат"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "жан"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ошол"
+    },
+    {
+      "surface": "מעמיה",
+      "gloss": "өз элинен"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "келишимимди"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "келишимимди"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "бузду"
+    }
+  ],
+  "timestamp": "2026-10-05T11:50:32.602399089Z",
+  "model": "glm-5.3"
+}

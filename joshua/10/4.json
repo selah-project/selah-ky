@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 10:4",
+  "book": "joshua",
+  "lang": "ky",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "буйрук сүйлөм",
+      "rationale": "Адони-Цедек төрт падышаны чакырып, «келгиле, жардам бергиле, чабайлы» деп буйруп жатат"
+    },
+    {
+      "kind": "you",
+      "subject": "төрт амор падышасына",
+      "rationale": "Хохам, Пирам, Яфия жана Дебирге багытталган түз кайрылуу"
+    },
+    {
+      "kind": "elision",
+      "subject": "את (Йеошуа менен)",
+      "rationale": "мындагы эки את «менен» предлогу катары колдонулган; кыргызча «менен» деп берилди"
+    }
+  ],
+  "translation": "Мага чыгып келгиле жана мага жардам бергиле, ⟨את⟩ Гивонду чабайлы, анткени ал Йеошуа менен жана ⟨את⟩ Йисраэлдин уулдары менен тынчтык кылды.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "9bb88ad1ab432ae26ee1059731d17768e220b30bdae39f969c2b4aac48386cb6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/joshua\/10\/1-4.1791205752426.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עלו",
+      "gloss": "чыгып келгиле"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "мага"
+    },
+    {
+      "surface": "ועזרני",
+      "gloss": "жана мага жардам бергиле"
+    },
+    {
+      "surface": "ונכה",
+      "gloss": "жана чабайлы"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Гивонду"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Гивонду"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "השלימה",
+      "gloss": "тынчтык кылды"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Йеошуа"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Йеошуа"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Йисраэлдин уулдары"
+    },
+    {
+      "surface": "בני",
+      "gloss": "уулдары"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэлдин"
+    }
+  ],
+  "timestamp": "2026-10-05T13:09:12.428210767Z",
+  "model": "glm-5.3"
+}

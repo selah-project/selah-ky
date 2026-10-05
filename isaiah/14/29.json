@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "isaiah 14:29",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Пелешетке",
+      "rationale": "Филистиянин бүт жери тікелей аталат, тыюу менен сүйлөнөт."
+    },
+    {
+      "kind": "crux",
+      "subject": "сараф мөмөсү",
+      "rationale": "שרף מעופף: «учкан күйгүзүүчү жылан» же символдук түрдө жаныбар-кызматкер; биз literally сактадык."
+    },
+    {
+      "kind": "substitution",
+      "subject": "цефа",
+      "rationale": "צפע — тилин чыгаруучу уу жылан; transliteration сакталды."
+    }
+  ],
+  "translation": "Кубанба, Пелешет, бүт ⟨сен⟩, анткени сени соккон таяк сынды; анткени жыландын тамырынан цефа чыгат, жана анын мөмөсү — учкан сараф.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "7e1e192fb7568955d3ed558ea1362fe6b04dafa03faa455085855ec11e20a70a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/14\/29-32.1791209643276.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "кубанба"
+    },
+    {
+      "surface": "תשמחי",
+      "gloss": "кубанба"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Пелешет"
+    },
+    {
+      "surface": "כלך",
+      "gloss": "бүт"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "נשבר",
+      "gloss": "сынды"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "таяк"
+    },
+    {
+      "surface": "מכך",
+      "gloss": "сени соккон"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "משרש",
+      "gloss": "тамырынан"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "жыландын"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "чыгат"
+    },
+    {
+      "surface": "צפע",
+      "gloss": "цефа"
+    },
+    {
+      "surface": "ופריו",
+      "gloss": "жана анын мөмөсү"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "сараф"
+    },
+    {
+      "surface": "מעופף",
+      "gloss": "учкан"
+    }
+  ],
+  "timestamp": "2026-10-05T14:14:03.276713987Z",
+  "model": "glm-5.3"
+}

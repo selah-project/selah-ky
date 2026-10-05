@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 28:18",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "май",
+      "rationale": "שמן — зейтун майы, жөн гана \"май\""
+    },
+    {
+      "kind": "addition",
+      "subject": "анын",
+      "rationale": "כ Possessive pronoun added for clarity"
+    }
+  ],
+  "translation": "Жана Яаков эртең менен эрте турду, башынын астына койгон ташты алды, аны эстелик мамасы кылып тиктеди жана анын башына май куюп салды.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "95d3350d114a51b409032a466a12d11f402b27bb4d9b32d0024f38c42bd145fb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/28\/17-20.1791201269847.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "эрте турду"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаков"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "эртең менен"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "алды"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ташты"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "ташты"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "...ды"
+    },
+    {
+      "surface": "שם",
+      "gloss": "койгон"
+    },
+    {
+      "surface": "мראשתיו",
+      "gloss": "башынын астына"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "тиктеди"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "мамасы"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "эстелик мамасы"
+    },
+    {
+      "surface": "ויצק",
+      "gloss": "куюп салды"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "май"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстүнө"
+    },
+    {
+      "surface": "ראשה",
+      "gloss": "анын башынын"
+    }
+  ],
+  "timestamp": "2026-10-05T11:54:29.848641338Z",
+  "model": "glm-5.3"
+}

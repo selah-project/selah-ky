@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 23:16",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "соок аял",
+      "rationale": "זונה — соок аял, Тирдин образында; «жигит алдында жүргөн аял» деген да болот, бирок еврей сөзүнүн түз мааниси катылган"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נשכחה \/ תזכרי",
+      "rationale": "«унутулган» жана «эстелишиң» карама-каршы: унутулгандыкты эстегиликке айлантуу — кыргызча байланыш булгаланган"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Тирге",
+      "rationale": "Аят бүтүндөй Тирди (соок аялды) тикелей чакырылган буйрук формасында айтылат"
+    },
+    {
+      "kind": "you",
+      "subject": "Тир (соок аял)",
+      "rationale": "Бардык буйруктар аял сингулярда: קחי, סבי, היטיבי, הרבי, תזכרי"
+    }
+  ],
+  "translation": "Кинорду ал, унутулган соок аял, шаарды кыдырып чык; жакшы ойно, ырды көбөйт — эстелишиң үчүн.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "623bfa826df1261064ad78b3e90ca0618541ac8f89deb859b6b9dbbb73975d76",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/23\/16-16.1791223991026.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קחי",
+      "gloss": "ал"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "кинорду"
+    },
+    {
+      "surface": "סבי",
+      "gloss": "кыдырып чык"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "шаарды"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "соок аял"
+    },
+    {
+      "surface": "נשכחה",
+      "gloss": "унутулган"
+    },
+    {
+      "surface": "היטיבי",
+      "gloss": "жакшы"
+    },
+    {
+      "surface": "נגן",
+      "gloss": "ойно"
+    },
+    {
+      "surface": "הרבי",
+      "gloss": "көбөйт"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "ырды"
+    },
+    {
+      "surface": "למען",
+      "gloss": "үчүн"
+    },
+    {
+      "surface": "תזכרי",
+      "gloss": "эстелишиң"
+    }
+  ],
+  "timestamp": "2026-10-05T18:13:11.027114998Z",
+  "model": "glm-5.3"
+}

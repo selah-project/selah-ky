@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 4:17",
+  "book": "job",
+  "lang": "ky",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "адам",
+      "rationale": "האנוש — өлгөн табиятуу пенде; «адам» деген сөз бул өлүмдүүлүктү толук берет"
+    },
+    {
+      "kind": "crux",
+      "subject": "עשהו — Жаратканы",
+      "rationale": "Сөзмө-сөз «анын кылганынан»; көпчүлүк котормочулар «Анын Жаратканынан» деп окуп калышат"
+    }
+  ],
+  "translation": "Адам Элоахтан улук цедек болобу? Анын Жаратканынан гевер тазараак болобу?",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "9fe6f964e9f0c9b2044212bfd797a58e4a1e5195b4fcad09549ad5728e7be682",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/job\/4\/17-20.1791218542117.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "האנוש",
+      "gloss": "адам"
+    },
+    {
+      "surface": "מאלוה",
+      "gloss": "Элоахтан"
+    },
+    {
+      "surface": "יצדק",
+      "gloss": "цедек болобу"
+    },
+    {
+      "surface": "אם",
+      "gloss": "болобу"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "анын Жаратканынан"
+    },
+    {
+      "surface": "יטהר",
+      "gloss": "тазараак"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "гевер"
+    }
+  ],
+  "timestamp": "2026-10-05T16:42:22.117756313Z",
+  "model": "glm-5.3"
+}

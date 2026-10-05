@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezra 5:9",
+  "book": "ezra",
+  "lang": "ky",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "די",
+      "rationale": "арамейче байламта дээрлик бардык саптарда кыргызча мүчөлөр менен берилди, өзүнчө сөз катары жок"
+    },
+    {
+      "kind": "crux",
+      "subject": "ביתא דנה",
+      "rationale": "«бул үй» — падышага жазылган катта үй курулуп жаткан учурда айтылат, б.а. Иерусалимдеги үй"
+    }
+  ],
+  "translation": "Анан биз бул карылардан сурадык, аларга мындай дедик: бул үйдү курууга жана бул дубалды бүтүрүүгө силерге ким буйрук берди?",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "6f0194daeb0c502c78af644e055c7a686e17bb76e25cf0d29652c51c4e944966",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ezra\/5\/9-12.1791221059864.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אדין",
+      "gloss": "Анан"
+    },
+    {
+      "surface": "שאלנא",
+      "gloss": "сурадык"
+    },
+    {
+      "surface": "לשביא",
+      "gloss": "карылардан"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "бул"
+    },
+    {
+      "surface": "כנמא",
+      "gloss": "мындай"
+    },
+    {
+      "surface": "אמרנא",
+      "gloss": "дедик"
+    },
+    {
+      "surface": "להם",
+      "gloss": "аларга"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ким"
+    },
+    {
+      "surface": "שם",
+      "gloss": "берди"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "силерге"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "буйрук"
+    },
+    {
+      "surface": "ביתא",
+      "gloss": "үйдү"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "бул"
+    },
+    {
+      "surface": "למבניה",
+      "gloss": "курууга"
+    },
+    {
+      "surface": "ואשרנא",
+      "gloss": "жана дубалды"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "бул"
+    },
+    {
+      "surface": "לשכללה",
+      "gloss": "бүтүрүүгө"
+    }
+  ],
+  "timestamp": "2026-10-05T17:24:19.865643586Z",
+  "model": "glm-5.3"
+}

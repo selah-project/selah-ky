@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 15:7",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "аларды самандай жеп коёт",
+      "rationale": "Буквалдык сүрөт — ыждаат аларды жеп коёт; байыркы ырда ыждаат «жегич» катары сүрөттөлөт"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ыждаат",
+      "rationale": "חרון אף — «мурундун күйүүсү», кыргызча «ыждаат» деп берилди"
+    }
+  ],
+  "translation": "Жана өзүңдүн улуулугуңдун көптүгү менен сени аягандарды бузуп жок кыласың; ыждааттыңды жөнөтөсүң, аларды самандай жеп коёт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "d739234a0e577bee1ef0adfe1eb8034e55d7b82785919bae6cb1b987020cf289",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/15\/6-7.1791223555599.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וברב",
+      "gloss": "жана ... көптүгү менен"
+    },
+    {
+      "surface": "גאונך",
+      "gloss": "улуулугуңдун"
+    },
+    {
+      "surface": "תהרס",
+      "gloss": "бузуп жок кыласың"
+    },
+    {
+      "surface": "קמיך",
+      "gloss": "сени аягандарды"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "жөнөтөсүң"
+    },
+    {
+      "surface": "חרנך",
+      "gloss": "ыждааттыңды"
+    },
+    {
+      "surface": "יאכלמו",
+      "gloss": "аларды ... жеп коёт"
+    },
+    {
+      "surface": "כקש",
+      "gloss": "сандай"
+    }
+  ],
+  "timestamp": "2026-10-05T18:05:55.599977849Z",
+  "model": "glm-5.3"
+}

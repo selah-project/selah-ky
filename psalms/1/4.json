@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 1:4",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אם",
+      "rationale": "כי אם жупту «тескерисинче» бир сөз көтөрдү, אם бош калды"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כמץ\/רוח",
+      "rationale": " Kabыл — дан тазалоодон калган калдык; салыштыруу түзүмү 1:3 дарактай каршы коюлат"
+    }
+  ],
+  "translation": "Жамандар мындай эмес, тескерисинче, алар рух какып учурган kabыл сыяктуу.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "0b7bde8d463856105adba8cd3bf11fb810073a8be120a6130bdb28fd37d54ef9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/1\/1-4.1791215356086.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "эмес"
+    },
+    {
+      "surface": "כן",
+      "gloss": "мындай"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "Жамандар"
+    },
+    {
+      "surface": "כי",
+      "gloss": "тескерисинче"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "kabыл сыяктуу"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ал"
+    },
+    {
+      "surface": "תדפנו",
+      "gloss": "какып учурган"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "рух"
+    }
+  ],
+  "timestamp": "2026-10-05T15:49:16.087564032Z",
+  "model": "glm-5.3"
+}

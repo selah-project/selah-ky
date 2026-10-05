@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 6:9",
+  "book": "ecclesiastes",
+  "lang": "ky",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жан",
+      "rationale": "נפש — дем алуучу жандык, кыдырып жүрүүчү жандык; 'жан' тар мааниде"
+    },
+    {
+      "kind": "crux",
+      "subject": "מהלך נפש",
+      "rationale": "'жандын кыдырышы' же 'каалоонун көчүшү' — KJV 'desire', YLT 'soul'"
+    },
+    {
+      "kind": "alternative",
+      "subject": "рухту кармоого умтулуу",
+      "rationale": "רעות רוח — 'рухту жаюу\/түйшүк'; оордук сакталды"
+    }
+  ],
+  "translation": "Көздүн көргөнү жандын кыдырып жүргөнүнөн жакшы; бул да боштук жана рухту кармоого умтулуу.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "7b2ee050b7df818e3b5001d8517439e25169e440cbb9e234d9e9440c229e7ac4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ecclesiastes\/6\/9-12.1791220141972.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "жакшы"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "көргөнү"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "көздүн"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "кыдырып жүргөнүнөн"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "жандын"
+    },
+    {
+      "surface": "גם",
+      "gloss": "да"
+    },
+    {
+      "surface": "זה",
+      "gloss": "бул"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "боштук"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "жана ... кармоого умтулуу"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "рухту"
+    }
+  ],
+  "timestamp": "2026-10-05T17:09:01.972757882Z",
+  "model": "glm-5.3"
+}

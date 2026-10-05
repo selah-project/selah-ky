@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 113:4",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 113,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Анын",
+      "rationale": "כבודו 'анын даңкы' — кыргызча сүйлөмдө ээлик атооч чыныгы форма талап кылат, бирок кыргызча мүчө менен берилди, кошумча сөз жок."
+    },
+    {
+      "kind": "hapax-like",
+      "subject": "השמים",
+      "rationale": "Дуал форма — 'эки асман', кыргызча 'асмандардан' көп санда берилди, экөлүк сан жоголду."
+    }
+  ],
+  "translation": "Яхве бардык элдердин үстүнөн бийик, Анын даңкы асмандардан да үстүн.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "c0852a409decb447994df9aa4fc3408b61805740d0bf14922ede1fbd76068fde",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/113\/1-4.1791217187581.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רם",
+      "gloss": "бийик"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстүнөн"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бардык"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "элдердин"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстүн"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "асмандардан"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "даңкы"
+    }
+  ],
+  "timestamp": "2026-10-05T16:19:47.583173912Z",
+  "model": "glm-5.3"
+}

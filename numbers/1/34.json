@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 1:34",
+  "book": "numbers",
+  "lang": "ky",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "аскерге чыгуу",
+      "rationale": "יוצא צבא кыймыл-аракеттик ээлик konstrukциясы — аскерге чыгуучу деген мааниде."
+    },
+    {
+      "kind": "measurement",
+      "subject": "census",
+      "rationale": "Жаш чеги жана ысымдер боюнча эсеп."
+    }
+  ],
+  "translation": "Менашенин уулдары: алардын тукумдары, алардын үй-бүлөлөрү боюнча, алардын аталарынын үйлөрү боюнча, ысымдардын саны боюнча, жашы жыйырмадан жогору, аскерге чыга турган ар бир адам.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "6f5e098990f847ae9956c71d9dc885da0003a9457309993b8676fde891e66a8c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/numbers\/1\/33-36.1791203534119.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "уулдары"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Менашенин"
+    },
+    {
+      "surface": "תולדתם",
+      "gloss": "алардын тукумдары"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "алардын үй-бүлөлөрү боюнча"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "үйлөрү боюнча"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "алардын аталарынын"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "саны боюнча"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "ысымдардын"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "жашы жыйырмадан"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "жыйырма"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "жыл"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "жогору"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ар бир"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "чыга турган"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "аскерге"
+    }
+  ],
+  "timestamp": "2026-10-05T12:32:14.120395485Z",
+  "model": "glm-5.3"
+}

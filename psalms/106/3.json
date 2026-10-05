@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 106:3",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 106,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "цедек",
+      "rationale": "צדקה 'адилеттик' гана эмес, бир тамыр цедек катары сакталды"
+    },
+    {
+      "kind": "you",
+      "subject": "жамаатка",
+      "rationale": "Бактылуулук жарыяланышы — уккан жамаатты көздөгөн мактаа"
+    }
+  ],
+  "translation": "Бактылуу өкүмдү сактагандар, ар дайым цедекти кылгандар.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "c97acf7b309a65bd50d82d14ecca4a928e612d4104ddb5879a7055030dbe54d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/106\/1-4.1791217125297.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Бактылуу"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "сактагандар"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "өкүмдү"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "кылгандар"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "цедекти"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ар"
+    },
+    {
+      "surface": "עת",
+      "gloss": "дайым"
+    }
+  ],
+  "timestamp": "2026-10-05T16:18:45.298447613Z",
+  "model": "glm-5.3"
+}

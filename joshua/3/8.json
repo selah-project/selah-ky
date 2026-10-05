@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 3:8",
+  "book": "joshua",
+  "lang": "ky",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הירדן \/ בירדן",
+      "rationale": "Йарден эки жолу аталат — суунун чети жана суунун өзү; кайталоу rhetoric retained"
+    },
+    {
+      "kind": "you",
+      "subject": "сен",
+      "rationale": "Яхве Йехошуага түз кайрылуу, андан кийин ыйык кызматкерлерге буйрук"
+    }
+  ],
+  "translation": "Жана сен ⟨את⟩ келишим сандыгын көтөрүүчү ыйык кызматкерлерге буйрусаң: Йарден сууларынын четине жеткендеңер, Йарденде тургула.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "86a2358d45a1ada112fb21cab48e93067e12010bcb825e11e7f364afb5ba08cb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/joshua\/3\/5-8.1791205557081.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "жана сен"
+    },
+    {
+      "surface": "תצוה",
+      "gloss": "буйрусаң"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ыйык кызматкерлерди"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ыйык кызматкерлер"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "көтөрүүчү"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "сандык"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "келишим"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "деп"
+    },
+    {
+      "surface": "כבאכם",
+      "gloss": "жеткендеңер"
+    },
+    {
+      "surface": "עד",
+      "gloss": "черинде"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "четине"
+    },
+    {
+      "surface": "מי",
+      "gloss": "сууларынын"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Йарден"
+    },
+    {
+      "surface": "בירדן",
+      "gloss": "Йарденде"
+    },
+    {
+      "surface": "תעמדו",
+      "gloss": "тургула"
+    }
+  ],
+  "timestamp": "2026-10-05T13:05:57.082669952Z",
+  "model": "glm-5.3"
+}

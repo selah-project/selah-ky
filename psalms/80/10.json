@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 80:10",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 80,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "פנית",
+      "rationale": "«бурдуң\/көздөдүң» деген тамыр; KJB «орун даярдадың», YLT «карадың» — эки окуу бар"
+    },
+    {
+      "kind": "addition",
+      "subject": "терең",
+      "rationale": "ивритте שרשיה жөн гана «тамырлары»; «терең» YLT\/KJB салымы, кыргызча да бир сөз менен айтылды"
+    }
+  ],
+  "translation": "Анын алдында ⟨орун⟩ бошоттуң, ал терең тамыр какты жана жерди толтурду.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "f33c1cf4617afbd1aeae9a2c34c1d7521ce9f269390f2ec6ebc6017da2aa271d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/80\/9-12.1791216654830.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פנית",
+      "gloss": "бошоттуң"
+    },
+    {
+      "surface": "לפניה",
+      "gloss": "анын алдында"
+    },
+    {
+      "surface": "ותשרש",
+      "gloss": "жана тамыр какты"
+    },
+    {
+      "surface": "שרשיה",
+      "gloss": "терең тамыр"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "жана толтурду"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "жерди"
+    }
+  ],
+  "timestamp": "2026-10-05T16:10:54.831638358Z",
+  "model": "glm-5.3"
+}

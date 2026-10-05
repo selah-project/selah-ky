@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "amos 5:20",
+  "book": "amos",
+  "lang": "ky",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "чошек\/ор\/апел\/нога",
+      "rationale": "Төрт жаркыроо-караңгылык сөзүнүн ылдыйлаган ритми — караңгылык, жарык эмес, күңүрт, жаркыроо жок — кыргызча сакталат, бирок еврейче тыбыш ыргагы жоголот."
+    },
+    {
+      "kind": "crux",
+      "subject": "лого",
+      "rationale": "Аягындагы лого («ага») — күнгө же караңгылыкка тиешелүү; кээ бир котормолор «анын ичинде» деп алат."
+    }
+  ],
+  "translation": "Яхвенин күнү караңгылык болбойбу жана жарык эмес, күңүрт караңгылык жана ага жаркыроо жок?",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "2c65cc0631bba706e8dacf0342f6f1045a21436752a2f321d18b4bd0adfffd74",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/amos\/5\/20-20.1791224262849.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "болбойбу"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "караңгылык"
+    },
+    {
+      "surface": "יום",
+      "gloss": "күн"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "жана эмес"
+    },
+    {
+      "surface": "אור",
+      "gloss": "жарык"
+    },
+    {
+      "surface": "ואפל",
+      "gloss": "күңүрт караңгылык"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "жана жок"
+    },
+    {
+      "surface": "נגה",
+      "gloss": "жаркыроо"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ага"
+    }
+  ],
+  "timestamp": "2026-10-05T18:17:42.849879704Z",
+  "model": "glm-5.3"
+}

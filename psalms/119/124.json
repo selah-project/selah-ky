@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 124,
+  "ref": "psalms 119:124",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Яхвеге",
+      "rationale": "direct petition to God — 'deal with your servant, teach me'"
+    },
+    {
+      "kind": "invitation",
+      "subject": " imperatives",
+      "rationale": "two imperatives addressed to God (עשה, למדני) form a petition"
+    }
+  ],
+  "translation": "Кулуңа Сенин хеседиңдей мамиле кыл жана Сенин жоболоруңду үйрөт мага.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "8ab7dffb29c8572f4537a19b3024d19d043d50f4049b89f95dd83e4d3980aeb8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/119\/121-124.1791217390084.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "мамиле кыл"
+    },
+    {
+      "surface": "עם",
+      "gloss": "менен"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "кулуңа"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "Сенин хеседиңдей"
+    },
+    {
+      "surface": "וחקיך",
+      "gloss": "жана жоболоруңду"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "үйрөт мага"
+    }
+  ],
+  "timestamp": "2026-10-05T16:23:10.085342067Z",
+  "model": "glm-5.3"
+}

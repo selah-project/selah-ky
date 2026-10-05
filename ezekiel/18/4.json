@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 18:4",
+  "book": "ezekiel",
+  "lang": "ky",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жан",
+      "rationale": "נפש — «дема алуучу жандык, тирчилик күчү»; «жан» кыргызча эң жакын сөз, бирок «тамак\/жаны кетүү» мааниси да бар."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הנה",
+      "rationale": "Нефеш деген сөз төрт жолу кайталанып, ыр саптын негизги ритмин түзөт."
+    },
+    {
+      "kind": "crux",
+      "subject": "היא תמות",
+      "rationale": "«Өзү өлөт» — жаза жекече жоопкерчиликке негизделген; атасынын күнөөсү эмес, күнөө кылган жан өлөт."
+    }
+  ],
+  "translation": "Карагыла, бардык жандар Меники; атанын жаны да, баланын жаны да Меники — күнөө кылган жан өлөт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "37c954b77d810f2558a0a7017a85a33c382d44539968be6d59854323a5d712d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ezekiel\/18\/1-4.1791212534621.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Карагыла"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бардык"
+    },
+    {
+      "surface": "הנפשות",
+      "gloss": "жандар"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Меники"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "⟨булар⟩"
+    },
+    {
+      "surface": "כנפש",
+      "gloss": "жаны да"
+    },
+    {
+      "surface": "האב",
+      "gloss": "атанын"
+    },
+    {
+      "surface": "וכנפש",
+      "gloss": "жаны да"
+    },
+    {
+      "surface": "הבן",
+      "gloss": "баланын"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Меники"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "⟨булар⟩"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "жан"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "күнөө кылган"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ал"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "өлөт"
+    }
+  ],
+  "timestamp": "2026-10-05T15:02:14.622763301Z",
+  "model": "glm-5.3"
+}

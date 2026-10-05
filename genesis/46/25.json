@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 46:25",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жан",
+      "rationale": "נפש — дем алуучу жандык, «жан» сөзү бул жерде саналуу адам деген мааниде"
+    },
+    {
+      "kind": "measurement",
+      "subject": "жети жан",
+      "rationale": "Билханын уулдарынын саны эсептелет"
+    }
+  ],
+  "translation": "Булар Билханын уулдары — аларды Лаван өз кызы Рахелге берген, ал Яаковко ⟨את⟩ буларды төкөндү; бардыгы жан — жети.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "79ba4d2b6828991c498ab8d8de64fbbb8a088a999d066f0910b8d62d21190287",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/46\/25-28.1791201740102.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "булар"
+    },
+    {
+      "surface": "בני",
+      "gloss": "уулдары"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "Билханын"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "аларды"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "берген"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Лаван"
+    },
+    {
+      "surface": "לרחל",
+      "gloss": "Рахелге"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "өз кызы"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "төкөндү"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "буларды"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "буларды"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Яаковко"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бардыгы"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "жан"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "жети"
+    }
+  ],
+  "timestamp": "2026-10-05T12:02:20.103449207Z",
+  "model": "glm-5.3"
+}

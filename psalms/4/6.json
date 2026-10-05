@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 4:6",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "цедек",
+      "rationale": "צדק ысым бойдон калды; «адилеттүүлүктүн курмандыктары» деген альтернатива бар."
+    }
+  ],
+  "translation": "Цедек курмандыктарын чалыңар жана Яхвеге таяныңар.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "a3bd87c48661f56309d6a35bebae66b06a6ceb9024570ce214dcf6a4d178f119",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/4\/5-8.1791215322242.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זבחו",
+      "gloss": "чалыңар"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "курмандыктарын"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "цедек"
+    },
+    {
+      "surface": "ובטחו",
+      "gloss": "жана таяныңар"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ге"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-10-05T15:48:42.243402089Z",
+  "model": "glm-5.3"
+}

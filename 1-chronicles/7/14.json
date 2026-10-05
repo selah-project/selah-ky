@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 7:14",
+  "book": "1-chronicles",
+  "lang": "ky",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אשר ילדה",
+      "rationale": "Ким кимди төрөдү — арам күң Асриэлдиби же Махирдиби, окулмуштар бөлүнөт."
+    },
+    {
+      "kind": "substitution",
+      "subject": "күң аял",
+      "rationale": "פילגש — нике статусу төмөн аял; кыргызча жакын сөз «күң аял»."
+    }
+  ],
+  "translation": "Менашенин уулдары: Асриэл, аны төрөдү; анын арам аялы — күңү ⟨את⟩ Махирди, Гиладдын атасын төрөдү.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "a67fcee4ffec800cb3de29a69d1a390649a9db7b4122ec5a40aba54e604b222d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-chronicles\/7\/13-16.1791221931964.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "уулдары"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Менашенин"
+    },
+    {
+      "surface": "אשריאל",
+      "gloss": "Асриэл"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ал"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "төрөдү"
+    },
+    {
+      "surface": "פילגשו",
+      "gloss": "күң аялы"
+    },
+    {
+      "surface": "הארמיה",
+      "gloss": "арам"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "төрөдү"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Махирди"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "Махирди"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "атасы"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Гиладдын"
+    }
+  ],
+  "timestamp": "2026-10-05T17:38:51.965050143Z",
+  "model": "glm-5.3"
+}

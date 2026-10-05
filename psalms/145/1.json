@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 145:1",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 145,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "мендин",
+      "rationale": "Еврейче эмес дарак мүчөсү — падышанын кимге таандык экенин ачык кылат"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לעולם ועד",
+      "rationale": "Түбөлүккө жана дайыма — өлчөмдүү эки сөздүн кайрылуусу, 1–2-аяттарда кайталанат"
+    }
+  ],
+  "translation": "Давиддин мактоо ыры. Сени даңазалайм, Элоахым, ⟨мендин⟩ падышам, жана ысымыңды ыйыктайм түбөлүккө, дайыма.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "c75e2c3935a863208f7b83342017afaf0e0381497f5a0e2093666fe8e45e4748",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/145\/1-4.1791217662070.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תהלה",
+      "gloss": "мактоо ыры"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давиддин"
+    },
+    {
+      "surface": "ארוממך",
+      "gloss": "сени даңазалайм"
+    },
+    {
+      "surface": "אלוהי",
+      "gloss": "Элоахым"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "падышам"
+    },
+    {
+      "surface": "ואברכה",
+      "gloss": "жана ыйыктайм"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ысымыңды"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "түбөлүккө"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "дайыма"
+    }
+  ],
+  "timestamp": "2026-10-05T16:27:42.071124325Z",
+  "model": "glm-5.3"
+}

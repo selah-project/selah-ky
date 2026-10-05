@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 33:5",
+  "book": "ezekiel",
+  "lang": "ky",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ал⟩",
+      "rationale": "והוא басымдуу ат атооч — кыргызча «ал эми» формасында берилди"
+    },
+    {
+      "kind": "substitution",
+      "subject": "жан",
+      "rationale": "נפש — «дем алуучу жандык, жашоо күчү»; «жан» эң жакын сөз"
+    }
+  ],
+  "translation": "⟨את⟩ шофардын үнүн укту, бирок эскертүү алган жок — анын каны өзүнүн үстүндө болот; ⟨ал⟩ эми эскертүү алган адам жанын куткарат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "93c1420a8aa16092c628d057cf0b4c9b61ad17c606882d695c9f534f5e788ac4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ezekiel\/33\/5-8.1791213180718.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "шофардын үнүн"
+    },
+    {
+      "surface": "קול",
+      "gloss": "үнүн"
+    },
+    {
+      "surface": "השופר",
+      "gloss": "шофар"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "укту"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "эскертүү алган"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "каны"
+    },
+    {
+      "surface": "בו",
+      "gloss": "өзүнүн үстүндө"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "болот"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "⟨ал⟩ эми"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "эскертүү алган"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "жанын"
+    },
+    {
+      "surface": "מלט",
+      "gloss": "куткарат"
+    }
+  ],
+  "timestamp": "2026-10-05T15:13:00.719351302Z",
+  "model": "glm-5.3"
+}

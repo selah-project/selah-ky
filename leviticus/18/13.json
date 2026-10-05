@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 18:13",
+  "book": "leviticus",
+  "lang": "ky",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "жылаңачтыгын ачпоо",
+      "rationale": "ערות גלה эвфемизм, бошончо сөз — «жылаңачтыкты ачуу» туугандык байланышты бузуу маанисинде"
+    },
+    {
+      "kind": "substitution",
+      "subject": "эт-тери",
+      "rationale": "שאר бул жерде «эт» маанисинде — жакын туугандык деген салттуу котормо («жакын тууган») түшүрүлдү"
+    }
+  ],
+  "translation": "Энегиңдин эжеси-карындашынын жылаңачтыгын ачпа, анткени ал энегиңдин эт-тери.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "8f38b99a46ac65889ec44f1beb82ea528f0c83eb5563ddef35b2faa7758fed21",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/18\/13-16.1791203170042.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "жылаңачтыгын"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "эжеси-карындашынын"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "энегиңдин"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ачпа"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "ачпа"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "эт-тери"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "энегиңдин"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ал"
+    }
+  ],
+  "timestamp": "2026-10-05T12:26:10.042665401Z",
+  "model": "glm-5.3"
+}

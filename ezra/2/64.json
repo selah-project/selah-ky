@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "ezra 2:64",
+  "book": "ezra",
+  "lang": "ky",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "42360",
+      "rationale": "жыйындын так саны — эсеп катары жазылган"
+    },
+    {
+      "kind": "idiom",
+      "subject": "כאחד",
+      "rationale": "«бир адамдай» — бирдиктүүлүктүн үрпаты, кыргызча «бирдей болуп» берилди"
+    }
+  ],
+  "translation": "Бүт жыйын бирдей болуп кырк эки миң үч жүз алтымыш ⟨адам болду⟩.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "35609999c5088289e00332847cbada79999d4d67ee84aec5f172969e06ce57dd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ezra\/2\/61-64.1791221009265.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Бүт"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "жыйын"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "бирдей болуп"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "кырк"
+    },
+    {
+      "surface": "רבוא",
+      "gloss": "эки миң"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "миң"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "үч"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "жүз"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "алтымыш"
+    }
+  ],
+  "timestamp": "2026-10-05T17:23:29.267945156Z",
+  "model": "glm-5.3"
+}

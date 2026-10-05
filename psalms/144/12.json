@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 144:12",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 144,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "זוית",
+      "rationale": "'бурч таш \/ бурч мамы' — кээ бир котормолор 'кооздолгон таштар' деп жумшартат; сөздүн ээлик мааниси — чыңалуучу бурч"
+    },
+    {
+      "kind": "substitution",
+      "subject": "көчөттөрдөй",
+      "rationale": "נטעим — отургузулган көчөт, өсүмдүк; салтанаттуу 'гүлдөгөн' эмес, отургузулган нерсе"
+    }
+  ],
+  "translation": "⟨Ошондо⟩ биздин уулдарыбыз жаш кезинде өсүп жаткан көчөттөрдөй, кыздарыбыз сарайдын пайдезиндей чабылган бурч таштардай.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "fa4b39483378402d6989b6af92f97147696edaea31adf9fe7f45740254aa48c8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/144\/9-12.1791217645505.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "⟨Ошондо⟩"
+    },
+    {
+      "surface": "בנינו",
+      "gloss": "биздин уулдарыбыз"
+    },
+    {
+      "surface": "כנטעים",
+      "gloss": "көчөттөрдөй"
+    },
+    {
+      "surface": "מגדלים",
+      "gloss": "өсүп жаткан"
+    },
+    {
+      "surface": "בנעוריהם",
+      "gloss": "жаш кезинде"
+    },
+    {
+      "surface": "בנותינו",
+      "gloss": "кыздарыбыз"
+    },
+    {
+      "surface": "כזוית",
+      "gloss": "бурч таштардай"
+    },
+    {
+      "surface": "מחטבות",
+      "gloss": "чабылган"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "пайдезиндей"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "сарайдын"
+    }
+  ],
+  "timestamp": "2026-10-05T16:27:25.508704604Z",
+  "model": "glm-5.3"
+}

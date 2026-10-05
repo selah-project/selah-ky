@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 5:9",
+  "book": "nehemiah",
+  "lang": "ky",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨кутулуу үчүн⟩",
+      "rationale": "Hebrew מחרפת hangs without a verb; Kyrgyz needs a purpose clause"
+    },
+    {
+      "kind": "crux",
+      "subject": "הלוא",
+      "rhetale": "rhetorical negative question: literal 'is it not?' rendered as 'жүрбөйсүңөрбү'"
+    },
+    {
+      "kind": "you",
+      "subject": "to the nobles",
+      "rationale": "Nehemiah directly addresses the Judean nobles and officials"
+    }
+  ],
+  "translation": "Жана ал айтты: Силер жасап жаткан ишиңер жакшы эмес; биздин Элохимдин коркуусунда жүрбөйсүңөрбү, анткени биздин душманыбыз болгон элдердин корлоосунан ⟨кутулуу үчүн⟩?",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "cdfe77fa6482759403c9d36940b487a5e20f21a33153cce94b14dadac3e25e41",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/nehemiah\/5\/9-12.1791221385364.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Жана ал айтты"
+    },
+    {
+      "surface": "לא",
+      "gloss": "эмес"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "жакшы"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ишиңер"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "жасап жаткан"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "силер"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "жасайсыңар"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "жүрбөйсүңөрбү"
+    },
+    {
+      "surface": "ביראת",
+      "gloss": "коркуусунда"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "биздин Элохим"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "жүрөсүңөр"
+    },
+    {
+      "surface": "מחרפת",
+      "gloss": "корлоосунан"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "элдердин"
+    },
+    {
+      "surface": "אויבינו",
+      "gloss": "душманыбыз"
+    }
+  ],
+  "timestamp": "2026-10-05T17:29:45.364941177Z",
+  "model": "glm-5.3"
+}

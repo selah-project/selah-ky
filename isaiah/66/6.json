@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 66:6",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 66,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "קול ×3",
+      "rationale": "«добушу» үч жолу кайталануу — үч булагынан келген үн чынжыры, кыргызчада сакталды"
+    },
+    {
+      "kind": "substitution",
+      "subject": "сый-тоо",
+      "rationale": "גמול «жасалган иш-аракеттин кайтарымы» — жакшы да, жаман да болот; «сый-тоо» жаман маанисин кармады"
+    }
+  ],
+  "translation": "Шаардан ызы-чуунун добушу, храмдан добушу — Яхвенин добушу, душмандарына тийиштүү сый-тоону кайтарып берүүдө.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "9115260a30574c085e54eade4b05e5ee2cc9ca490471155f1905873e5b5f0e25",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/66\/5-8.1791210638526.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "добушу"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "ызы-чуунун"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "шаардан"
+    },
+    {
+      "surface": "קול",
+      "gloss": "добушу"
+    },
+    {
+      "surface": "מהיכל",
+      "gloss": "храмдан"
+    },
+    {
+      "surface": "קול",
+      "gloss": "добушу"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "кайтарып берүүдө"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "сый-тоону"
+    },
+    {
+      "surface": "לאיביו",
+      "gloss": "душмандарына тийиштүү"
+    }
+  ],
+  "timestamp": "2026-10-05T14:30:38.526944827Z",
+  "model": "glm-5.3"
+}

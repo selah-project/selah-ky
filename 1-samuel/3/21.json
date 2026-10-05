@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 3:21",
+  "book": "1-samuel",
+  "lang": "ky",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Өзүн",
+      "rationale": "Еврейче рефлексивди көрсөтпөйт — нигла 'ачылды' өздүк мааниде"
+    },
+    {
+      "kind": "substitution",
+      "subject": "улантты",
+      "rationale": "ваййосеф 'костtu\/кошту' кайра-кайра болгон ишти билдирүүчү адвербиалдык колдонуу"
+    }
+  ],
+  "translation": "Жана Яхве Шилодо көрүнүүнү улантты, анткени Яхве Өзүн Шмуэлге Шилодо Яхвенин сөзү аркылуу ачып берди.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "0223bf0e0c14c41e546221cb3933934321619262a856560fd6108d1708721656",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-samuel\/3\/21-21.1791206607531.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "улантты"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "להראה",
+      "gloss": "көрүнүүнү"
+    },
+    {
+      "surface": "בשלה",
+      "gloss": "Шилодо"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "נגלה",
+      "gloss": "ачып берди"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Шмуэлге"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Шмуэл"
+    },
+    {
+      "surface": "בשלו",
+      "gloss": "Шилодо"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "сөзү аркылуу"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    }
+  ],
+  "timestamp": "2026-10-05T13:23:27.532208230Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 27:1",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "bождолгон өлчөмдөр",
+      "rationale": "Беш чыканак × беш чыканак × үч чыканак — курмандык чарасынын чендери."
+    },
+    {
+      "kind": "substitution",
+      "subject": "чыканак",
+      "rationale": "אמה — чыканак (шындай ченден чыканакка чейинки узундук), «кубит» эмес."
+    }
+  ],
+  "translation": "Жана сен ⟨את⟩ курмандык чарасын шиттим дарагынан жасайсың: узундугу беш чыканак, жана туурасы беш чыканак — курмандык чарасы төрт бурчтуу болот, жана анын бийиктиги үч чыканак.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "af94911547d91b63b616ff6bfa23579f4a1346476cae516f31c164523953c483",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/27\/1-4.1791202446087.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "жасайсың"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "курмандык чарасын"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "курмандык чарасын"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "дарагынан"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "шиттим"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "беш"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "чыканак"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "узундугу"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "жана беш"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "чыканак"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "туурасы"
+    },
+    {
+      "surface": "רבוע",
+      "gloss": "төрт бурчтуу"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "болот"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "курмандык чарасы"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "жана үч"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "чыканак"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "анын бийиктиги"
+    }
+  ],
+  "timestamp": "2026-10-05T12:14:06.087781631Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 21:14",
+  "book": "proverbs",
+  "lang": "ky",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שחד",
+      "rationale": "'Парча\/сыйакы' деген мааниде да, 'жашыруун жардам' деген нейтрал мааниде да алынат; көпчүлүк котормолор 'подарок' же 'взятка' деп бөлүшөт"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ачуу · каар",
+      "rationale": "אף literally 'мурун', חמה literally 'ыждаг'; экөө тең каардын даражасын билдирет"
+    }
+  ],
+  "translation": "Жашыруун берилген белек ачууну басат, ал эми боордогу жашыруун сый катуу каарды да басат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "595f9d1f5eb61752745a8e1002f1ca541d2571cd0cf7d31fe1fa5c4c53caa88b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/21\/13-16.1791218183587.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מתן",
+      "gloss": "белек"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "жашыруун"
+    },
+    {
+      "surface": "יכפה",
+      "gloss": "басат"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ачууну"
+    },
+    {
+      "surface": "ושחד",
+      "gloss": "жана жашыруун сый"
+    },
+    {
+      "surface": "בחק",
+      "gloss": "боордогу"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "каарды"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "катуу"
+    }
+  ],
+  "timestamp": "2026-10-05T16:36:23.588274258Z",
+  "model": "glm-5.3"
+}

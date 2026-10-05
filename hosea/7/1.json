@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 7:1",
+  "book": "hosea",
+  "lang": "ky",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "тоноп берүүчү жамаат",
+      "rationale": "פשט גדוד — 'жоочер тобу тонойт' деген сүрөт; ролдук ат гана берилген жок, аракет сакталды"
+    },
+    {
+      "kind": "addition",
+      "subject": "чыгат",
+      "rationale": "בחוץ 'сыртта' менен айтымды бүтүрүү үчүн этиш кошулду"
+    }
+  ],
+  "translation": "Мен Йисраэлди айыктыргым келгенде Эфрайимдин жамандыгы ачылды жана Шомерондун жаман иштери ачылды, анткени алар жалган иштешти; ууру кирет, тоноп берүүчү жамаат сыртта чыгат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "abe1c559178e2b65b2256ebbbe35a4c6b324685f05d2e38ce21b3603d94dccc8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/hosea\/7\/1-4.1791213917177.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כרפאי",
+      "gloss": "айыктыргым келгенде"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Йисраэлди"
+    },
+    {
+      "surface": "ונגלה",
+      "gloss": "ачылды"
+    },
+    {
+      "surface": "עון",
+      "gloss": "жамандыгы"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Эфрайимдин"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "жаман иштери"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Шомерондун"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "иштешти"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "жалган"
+    },
+    {
+      "surface": "וגנב",
+      "gloss": "ууру"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "кирет"
+    },
+    {
+      "surface": "פשט",
+      "gloss": "тоноп берүүчү"
+    },
+    {
+      "surface": "גדוד",
+      "gloss": "жамаат"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "сыртта"
+    }
+  ],
+  "timestamp": "2026-10-05T15:25:17.177880312Z",
+  "model": "glm-5.3"
+}

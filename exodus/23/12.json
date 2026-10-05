@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 23:12",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "дем алсын",
+      "rationale": "וינפש 'дем алуу' деген сөз — 'жаны дем алсын' деп кыргызча 'дем ал-' менен берилди"
+    },
+    {
+      "kind": "crux",
+      "subject": "кубampoo Шаббат",
+      "rationale": "תשבת 'токто, эс ал' — бирок D2 боюнча Шаббат бир форма менен кармалды"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨да⟩",
+      "rationale": "еврейче 'жана чет элдик' — кыргызча teze 'да' жалгоосу кошулду"
+    },
+    {
+      "kind": "you",
+      "subject": "Йисраэлге",
+      "rationale": "аят тыңдооччуга — Йисраэл элине багытталган буйрук"
+    }
+  ],
+  "translation": "Алты күн ишиңди кыл, ал эми жетинчи күнү Шаббат кыл — букаң жана эшегиң эс алсын, кул аялыңдын уулу жана чет элдик ⟨да⟩ дем алсын деп.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "c6227217ae7d2eb8425a10612b64a43d394993b542eadfe24b181954f6285910",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/23\/12-12.1791223550786.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "алты"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "күн"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "кыл"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "ишиңди"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "ал эми жетинчи күнү"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "жетинчи"
+    },
+    {
+      "surface": "תשבת",
+      "gloss": "Шаббат кыл"
+    },
+    {
+      "surface": "למען",
+      "gloss": "деп"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "эс алсын"
+    },
+    {
+      "surface": "שורך",
+      "gloss": "букаң"
+    },
+    {
+      "surface": "וחמרך",
+      "gloss": "жана эшегиң"
+    },
+    {
+      "surface": "וינפש",
+      "gloss": "жана дем алсын"
+    },
+    {
+      "surface": "בן",
+      "gloss": "уулу"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "кул аялыңдын"
+    },
+    {
+      "surface": "והגר",
+      "gloss": "жана чет элдик"
+    }
+  ],
+  "timestamp": "2026-10-05T18:05:50.786603099Z",
+  "model": "glm-5.3"
+}

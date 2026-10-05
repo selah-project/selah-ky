@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 33:4",
+  "book": "numbers",
+  "lang": "ky",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "кудайларына",
+      "rationale": "אלהים бул жерде мицрийликтердин кудайлары жөнүндө — кичине тамгалуу 'кудайлар', Элохим эмес."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שפטים \/ מקברים",
+      "rationale": "Сүргөн (הכה) жана өкүмдөр (שפטים) кайчылаш параллелизм: адамдарга сүрүү, кудайларга өкүм."
+    }
+  ],
+  "translation": "Мицрийликтер болсо Яхве алардын ичинен сүргөн ⟨את⟩ бардык тун уулдарын көмүшүдө, жана алардын кудайларына Яхве өкүмдөрдү аткарды.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "9c764a169de2d830d3830ba5db880ed5dc15beacaeab66316fbd146026acd95c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/numbers\/33\/1-4.1791204573293.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומצרים",
+      "gloss": "Мицрийликтер болсо"
+    },
+    {
+      "surface": "מקברים",
+      "gloss": "көмүшүдө"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "бардык тун уулдарын"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "алардын ичинен"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "сүргөн"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "алардын ичинен"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бардык"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "тун уулдарын"
+    },
+    {
+      "surface": "ובאלהיהם",
+      "gloss": "алардын кудайларына"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "аткарды"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "өкүмдөрдү"
+    }
+  ],
+  "timestamp": "2026-10-05T12:49:33.295053497Z",
+  "model": "glm-5.3"
+}

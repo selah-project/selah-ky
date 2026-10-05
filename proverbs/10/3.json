@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 10:3",
+  "book": "proverbs",
+  "lang": "ky",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жан",
+      "rationale": "נפש 'дем алуучу жандык, күч-кубат' — кыргызча 'жан' жакын, бирок 'тамакка болгон табитти' да камтыйт"
+    },
+    {
+      "kind": "crux",
+      "subject": "והות",
+      "rationale": "'каалоо' же 'кубаты\/байлыгы' — котормочулар эки жакты тандайт"
+    }
+  ],
+  "translation": "Яхве адил адамдын жанын ач калтырбайт, ал эми жамандардын каалоосун түртүп жиберет.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "6e3b4b10a59ea6a7ad6bc0a497da9583e82cd33a7bae639cfaf9633e41658884",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/10\/1-4.1791217925030.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ач калтырбайт"
+    },
+    {
+      "surface": "ירעיב",
+      "gloss": "ач калтырбайт"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "жанын"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "адил"
+    },
+    {
+      "surface": "והות",
+      "gloss": "ал эми каалоосун"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "жамандардын"
+    },
+    {
+      "surface": "יהדף",
+      "gloss": "түртүп жиберет"
+    }
+  ],
+  "timestamp": "2026-10-05T16:32:05.030984422Z",
+  "model": "glm-5.3"
+}

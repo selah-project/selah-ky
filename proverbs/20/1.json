@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 20:1",
+  "book": "proverbs",
+  "lang": "ky",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "לץ",
+      "rationale": "Сөз атынан алынган сын атооч 'насмешник' катары берилди: шарап өзү мазаактайт деген сүрөт сакталды."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לץ\/הומה",
+      "rationale": "Шарап 'мазаактоочу' жана ичимлик 'ызы-чуу чыгарат' — адам кылкынына окшотулган; кыргызча адамдаштыруу бирдей сакталды."
+    }
+  ],
+  "translation": "Шараб — мазаактоочу, күчтүү ичимлик — ызы-чуу чыгарат, жана анын ичинде адашкан ар ким даанышман болбойт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "0f9c7c64221fc5c6bfd97993f683221b708f6b467088b670700d2ab997dbd0cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/20\/1-4.1791218235644.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לץ",
+      "gloss": "мазаактоочу"
+    },
+    {
+      "surface": "היין",
+      "gloss": "шараб"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ызы-чуу чыгарат"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "күчтүү ичимлик"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "жана ар ким"
+    },
+    {
+      "surface": "שגה",
+      "gloss": "адашкан"
+    },
+    {
+      "surface": "בו",
+      "gloss": "анын ичинде"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יחכם",
+      "gloss": "даанышман болбойт"
+    }
+  ],
+  "timestamp": "2026-10-05T16:37:15.645114467Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 5:7",
+  "book": "hosea",
+  "lang": "ky",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ай",
+      "rationale": "חדש: «жаңы ай» (ыйык күн, пирами) же «бир айдын ичинде» (убакыт) — KJV «month», JPS «new moon»"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בגדו",
+      "rationale": "«жамынуу» деген тамырдон «жашыруун иш кылуу» — чыккынчылык сөзү бул эки маанини камтыйт"
+    }
+  ],
+  "translation": "Алар Яхвеге карата чыккынчылык кылышты, анткени бөтөн уулдарды туушту; азыр ай аларды алардын үлүштөрүнүн ⟨את⟩ менен жейт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "33bc10890e812f1962563ffdd9e8a23024e53304a18fe3407db9381355926979",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/hosea\/5\/5-8.1791213866729.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ביהוה",
+      "gloss": "Яхвеге карата"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "чыккынчылык кылышты"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "уулдарды"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "бөтөн"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "туушту"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "азыр"
+    },
+    {
+      "surface": "יאכלם",
+      "gloss": "аларды жейт"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "ай"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "алардын үлүштөрүнүн"
+    },
+    {
+      "surface": "חלקיהם",
+      "gloss": "алардын үлүштөрүнүн"
+    }
+  ],
+  "timestamp": "2026-10-05T15:24:26.730226745Z",
+  "model": "glm-5.3"
+}

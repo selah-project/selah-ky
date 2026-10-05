@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 92:4",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 92,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "нефел",
+      "gloss": "נבל — аспаптын аты, айтылышы боюнча сакталды; бош тери идишинен келген сөз."
+    },
+    {
+      "kind": "crux",
+      "subject": "higgayon",
+      "rationale": "הגיון: «жумшак күү», «ырдоо» же аспаптын аткаруу көрсөтмөсү — которуучулар ар кандай чечишет."
+    }
+  ],
+  "translation": "ОnoDB-жиптүү аспап үстүндө, жана нефель үстүндө, кинордогу үндөлөш үн үстүндө.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "75aa2654dc0b02aebda872bbc4bf764367c9e56852a0f3d23ae13035f9c8688f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/92\/1-4.1791216883674.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "үстүндө"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "он-жиптүү аспап"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "жана үстүндө"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "нефель"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "үстүндө"
+    },
+    {
+      "surface": "הגיון",
+      "gloss": "үндөлөш үн"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "кинордогу"
+    }
+  ],
+  "timestamp": "2026-10-05T16:14:43.675045393Z",
+  "model": "glm-5.3"
+}

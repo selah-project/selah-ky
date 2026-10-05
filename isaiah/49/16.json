@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 49:16",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Сионго",
+      "rationale": "Яхвенин Сионго түз сөзү уланат — «сени оюп жаздым», «дубалдарың»."
+    },
+    {
+      "kind": "alternative",
+      "subject": "оюп жаздым",
+      "rationale": "חקק — «чегип жазуу, оюу»; «жаздым» гана десе, колго оюлган сүрөт жоголот."
+    },
+    {
+      "kind": "addition",
+      "subject": "турат",
+      "rationale": "Кыргызча сүйлөм бүтүшү үчүн этиш кошулду, еврейче жок."
+    }
+  ],
+  "translation": "Карап кой, алакандарыма сени оюп жаздым; дубалдарың Менин көз алдымда үзгүлтүксүз турат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "f8507b5336344870947ea6223c7afe9be6f6e98ab0819e3bb7226b34166eec1c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/49\/13-16.1791210282154.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Карап кой"
+    },
+    {
+      "surface": "על",
+      "gloss": "алакандарыма"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "алакандарыма"
+    },
+    {
+      "surface": "חקתיך",
+      "gloss": "сени оюп жаздым"
+    },
+    {
+      "surface": "חומתיך",
+      "gloss": "дубалдарың"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "Менин көз алдымда"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "үзгүлтүксүз"
+    }
+  ],
+  "timestamp": "2026-10-05T14:24:42.155559783Z",
+  "model": "glm-5.3"
+}

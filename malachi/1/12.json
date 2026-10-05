@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "malachi 1:12",
+  "book": "malachi",
+  "lang": "ky",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "וניבו נבזה אכלו",
+      "rationale": "'анын наны — жегенге жек көрүлгөн' же 'анын жемиши, анын тамагы жек көрүлгөн' — сөз тартиби талаштуу"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אותו",
+      "rationale": "алеф-тав Яхвенин атын (1:11деги ымырды) көрсөтөт, текстте 'ат' деген сөз жок"
+    }
+  ],
+  "translation": "Ал эми силер ⟨את⟩ Аны булгап жатасыңар: «Адонайдын үстөлү — буланган, анын наны жегенден жек көрүлгөн» деп айтууңарда.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "337b958ab3e2127b39674fa08f035a3df99a5d3749d21d43654f61ce16cd92e8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/malachi\/1\/9-12.1791215193575.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "ал эми силер"
+    },
+    {
+      "surface": "מחללים",
+      "gloss": "булгап жатасыңар"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "Аны (Яхвенин атын)"
+    },
+    {
+      "surface": "באמרכם",
+      "gloss": "айтууңарда"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "үстөлү"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонайдын"
+    },
+    {
+      "surface": "מגאל",
+      "gloss": "буланган"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ал⟩"
+    },
+    {
+      "surface": "וניבו",
+      "gloss": "анын наны"
+    },
+    {
+      "surface": "נבזה",
+      "gloss": "жек көрүлгөн"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "жеген"
+    }
+  ],
+  "timestamp": "2026-10-05T15:46:33.577174175Z",
+  "model": "glm-5.3"
+}

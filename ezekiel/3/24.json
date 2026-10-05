@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 3:24",
+  "book": "ezekiel",
+  "lang": "ky",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "рух",
+      "rationale": "רוח — «шамал\/дем\/Рух» — бир еврей сөзү, үч маани; «Рух» деп алынды"
+    },
+    {
+      "kind": "addition",
+      "subject": "менен",
+      "rationale": "«вайедабер оти» — «мени менен сүйлөштү»; предлог еврейче жок"
+    },
+    {
+      "kind": "you",
+      "subject": "Yehezkelge",
+      "rationale": "Яхве пайгамбарга түздөн-түз буйрук берет: «Кир, жаап кой»"
+    }
+  ],
+  "translation": "Жана рух мага келди жана мени буттарымдын үстүнө тургузду, жана ал ⟨את⟩ мени менен сүйлөштү жана мага айтты: Кир, үйүңдүн ичине өзүңдү жаап кой.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "ce1fd9b7754db233cf6f8c9e177d2e75b93b8da23e275e1d33cb8e151e1970f7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ezekiel\/3\/21-24.1791212145457.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "жана… келди"
+    },
+    {
+      "surface": "בי",
+      "gloss": "мага"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "рух"
+    },
+    {
+      "surface": "ותעמדני",
+      "gloss": "жана мени тургузду"
+    },
+    {
+      "surface": "על",
+      "gloss": "…нын үстүнө"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "буттарымдын"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "жана ал сүйлөштү"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "мени"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "жана айтты"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "мага"
+    },
+    {
+      "surface": "בא",
+      "gloss": "кир"
+    },
+    {
+      "surface": "הסגר",
+      "gloss": "жаап кой"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ичине"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "үйүңдүн"
+    }
+  ],
+  "timestamp": "2026-10-05T14:55:45.459170316Z",
+  "model": "glm-5.3"
+}

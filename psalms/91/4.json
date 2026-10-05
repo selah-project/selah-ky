@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 91:4",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 91,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨турат⟩",
+      "rationale": "Hebrew participial yiqtol rendered with present tense auxiliary not in the text"
+    },
+    {
+      "kind": "substitution",
+      "subject": "чындыгы",
+      "rationale": "אמת from אמן root — stability\/faithfulness\/trustworthiness; single word cannot carry all senses"
+    },
+    {
+      "kind": "crux",
+      "subject": "סחרה",
+      "rationale": "hapax-like rare word, 'surrounding shield' vs 'rampart\/buckler'; rendered literally as surrounding shield"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יסך\/תחסה",
+      "rationale": "sibilant alliteration יָסֶךְ\/תֶחְסֶה (s-kh \/ kh-s), chiasm of covering and refuge"
+    }
+  ],
+  "translation": "Анын канат-күйүлдөгү менен сени жаап турат, жана анын канаттарынын астында бекинесиң; калкан жана курчоочу калкан — анын чындыгы.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "b770583d47aaef117b1796a16521a422f4625a4ce69e33320139b3ac3b8b468f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/91\/4-4.1791224455936.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "באברתו",
+      "gloss": "анын канат-күйүлдөгү менен"
+    },
+    {
+      "surface": "יסך",
+      "gloss": "жаап турат"
+    },
+    {
+      "surface": "לך",
+      "gloss": "сени"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "жана астында"
+    },
+    {
+      "surface": "כנפיו",
+      "gloss": "анын канаттарынын"
+    },
+    {
+      "surface": "תחסה",
+      "gloss": "бекинесиң"
+    },
+    {
+      "surface": "צנה",
+      "gloss": "калкан"
+    },
+    {
+      "surface": "וסחרה",
+      "gloss": "жана курчоочу калкан"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "анын чындыгы"
+    }
+  ],
+  "timestamp": "2026-10-05T18:20:55.937367810Z",
+  "model": "glm-5.3"
+}

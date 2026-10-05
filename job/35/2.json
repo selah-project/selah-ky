@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 35:2",
+  "book": "job",
+  "lang": "ky",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מאל",
+      "rationale": "«Элден артык» (салыштыруу) же «Элдин алдында» (JPS: «Кудайдын алдында цедекмен») деген эки окуу бар"
+    },
+    {
+      "kind": "you",
+      "subject": "Иовго",
+      "rationale": "Элиху Иовду түз кайрылат"
+    }
+  ],
+  "translation": "Бул сен өкүм деп эсептегенсиңби, «Менин цедегим Элден артык» деп айттың?",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "e04816e5d1a8957923456f5248ca98dffef2dba5d3f6ce0ef87a2b9cbcfb6711",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/job\/35\/1-4.1791219315180.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הזאת",
+      "gloss": "бул"
+    },
+    {
+      "surface": "חשבת",
+      "gloss": "эсептегенсиңби"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "өкүм деп"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "айттың"
+    },
+    {
+      "surface": "צדקי",
+      "gloss": "менин цедегим"
+    },
+    {
+      "surface": "מאל",
+      "gloss": "Элден артык"
+    }
+  ],
+  "timestamp": "2026-10-05T16:55:15.181173025Z",
+  "model": "glm-5.3"
+}

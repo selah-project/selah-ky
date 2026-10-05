@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 19:10",
+  "book": "joshua",
+  "lang": "ky",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "жеребий",
+      "rationale": "Жер бөлүштүрүү жеребия менен — үчүнчү жеребий саналат"
+    },
+    {
+      "kind": "elision",
+      "subject": "ויהי",
+      "rationale": "Аттуу байланыш сөз кыргызча жок узак мааниде түшүрүлдү"
+    }
+  ],
+  "translation": "Жана үчүнчү жеребий Зевулун уулдарына, алардын үй-бүлөлөрүнө ⟨чыкты⟩; жана алардын мурасынын чеги Саридге чейин ⟨жетти⟩.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "791896c9415b6e8328215e6aa0ba4ddf6e4a0416187dbaa27016623074eed981",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/joshua\/19\/9-12.1791205863550.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "чыкты"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "жеребий"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "үчүнчү"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "уулдарына"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "Зевулун"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "үй-бүлөлөрүнө"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "жана"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "чеги"
+    },
+    {
+      "surface": "נחלתם",
+      "gloss": "мурасынын"
+    },
+    {
+      "surface": "עד",
+      "gloss": "чейин"
+    },
+    {
+      "surface": "שריד",
+      "gloss": "Саридге"
+    }
+  ],
+  "timestamp": "2026-10-05T13:11:03.551721326Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 6:9",
+  "book": "nehemiah",
+  "lang": "ky",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "О Элохим \/ O God",
+      "rationale": "KJV жана башкалар «О Бог» кошушат, бирок еврей текстинде бул сөз жок — Нехемиянын тиленүүсү кабыл алуучусуз айтылат"
+    },
+    {
+      "kind": "idiom",
+      "subject": "ירפו ידיהם",
+      "rationale": "«Колдору бошойт» — еврей идиомасы, күч-кубат түшүүнү билдирет; кыргызча да сөзмө-сөз сакталды"
+    }
+  ],
+  "translation": "Анткени алардын баары бизди коркутуп: «Алардын колдору иштен бошоп, иш аткарылбай калат», — дешет. Эми болсо, ⟨את⟩ менин колумду бекемде.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "f984801729d723dbf0f9f5887ca49dacd26e3a470c32430727e5faa8441e9c6d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/nehemiah\/6\/9-12.1791221371125.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Анткени"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "алардын баары"
+    },
+    {
+      "surface": "מיראים",
+      "gloss": "коркутуп"
+    },
+    {
+      "surface": "אותנו",
+      "gloss": "⟨את⟩ бизди",
+      "marks": "бизди"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "деп"
+    },
+    {
+      "surface": "ירפו",
+      "gloss": "бошоп"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "колдору"
+    },
+    {
+      "surface": "מן",
+      "gloss": "иштен"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "иш"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "жана эмес"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "аткарылбайт"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "Эми болсо"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "бекемде"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "менин колумду"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "колумду"
+    }
+  ],
+  "timestamp": "2026-10-05T17:29:31.125690784Z",
+  "model": "glm-5.3"
+}

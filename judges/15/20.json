@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 15:20",
+  "book": "judges",
+  "lang": "ky",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "башкарды",
+      "rationale": "וישפט так мааниси «өкүм чыгарды, соттук» — кыргызча «соттук» кылып жаткан кызматты «башкарды» деп берүү табигыйраак."
+    },
+    {
+      "kind": "measurement",
+      "subject": "жыйырма жыл",
+      "rationale": "Шимшондун башкаруу мөөнөтү санап берилген."
+    }
+  ],
+  "translation": "Жана ал пелиштили күндөрүндө ⟨את⟩ Йисраэлди жыйырма жыл башкарды.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "6dc18d411f61a1e1b26973d45fc646cfd1f64aba9c990e20c460f6bf20f27604",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/judges\/15\/17-20.1791206372985.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "башкарды"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Йисраэлди"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэлди"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "күндөрүндө"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "пелиштили"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "жыйырма"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "жыл"
+    }
+  ],
+  "timestamp": "2026-10-05T13:19:32.986865903Z",
+  "model": "glm-5.3"
+}

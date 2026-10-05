@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 41:14",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Оомийин",
+      "rationale": "אמן — «чын, ишенимдүү»; кыргыз салымында «Оомийин» деген салттуу форма колдонулду"
+    }
+  ],
+  "translation": "Алкыштуу — Йисраэлдин Элохими Яхве, байыркы замандан түбөлүккө чейин. Оомийин, оомийин.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "3593f26d5df36ed03f4821da3686baaf04a5bb73a37c85932cce938e7107cb0f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/41\/13-14.1791215917823.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Алкыштуу"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Элохими"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэлдин"
+    },
+    {
+      "surface": "מהעולם",
+      "gloss": "байыркы замандан"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "жана...чейин"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "түбөлүккө"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Оомийин"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "жана оомийин"
+    }
+  ],
+  "timestamp": "2026-10-05T15:58:37.824132726Z",
+  "model": "glm-5.3"
+}

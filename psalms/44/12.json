@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 44:12",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "чачып жибердиң",
+      "rationale": "זרה — дан тазалоодо желге чачуу; элдер арасына чачуу образы"
+    }
+  ],
+  "translation": "Сен бизди жегенге мал катары бердиң, жана элдердин арасында чачып жибердиң.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "c4a954122efda5723568be6f51f7f4c966bca802f8bdcaff4575d7f26d555a9a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/44\/9-12.1791216037929.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תתננו",
+      "gloss": "Сен бизди ... бердиң"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "мал катары"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "жегенге"
+    },
+    {
+      "surface": "ובגוים",
+      "gloss": "жана элдердин арасында"
+    },
+    {
+      "surface": "זריתנו",
+      "gloss": "чачып жибердиң"
+    }
+  ],
+  "timestamp": "2026-10-05T16:00:37.930257415Z",
+  "model": "glm-5.3"
+}

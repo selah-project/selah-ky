@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "psalms 119:51",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Тораңдан",
+      "rationale": "D2 fixes תורה as Тора, not 'мыйзам'"
+    }
+  ],
+  "translation": "Текеберлер мени абдан шылдыңдашты, Тораңдан мен тайган жокмун.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "c9e2dba27090389238312a75e443044ea162f959c37a5db86bb09682301414db",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/119\/49-52.1791217319484.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זדים",
+      "gloss": "Текеберлер"
+    },
+    {
+      "surface": "הליצני",
+      "gloss": "мени шылдыңдашты"
+    },
+    {
+      "surface": "עד",
+      "gloss": "абдан"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "катуу"
+    },
+    {
+      "surface": "מתורתך",
+      "gloss": "Тораңдан"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "נטיתי",
+      "gloss": "тайган жокмун"
+    }
+  ],
+  "timestamp": "2026-10-05T16:21:59.484910142Z",
+  "model": "glm-5.3"
+}

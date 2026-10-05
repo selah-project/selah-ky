@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 31:2",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "эч качан",
+      "rationale": "חסיתי аялбаймын экенсөздүү; 'эч качан' — אל депрессив чекити"
+    },
+    {
+      "kind": "you",
+      "subject": "Яхвеге",
+      "rationale": "Давид Яхвеге түз кайрылуу"
+    }
+  ],
+  "translation": "Сага, Яхве, паналадым, эч качан уялбаймын — өмүр бою. Өзүңдүн цедегиң менен мени куткар.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "d2a7aaf1490402cc71aefc48c5e7b118fab95d62f37c4f167687c5e8c2a92705",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/31\/1-4.1791215729507.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "Сага"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "паналадым"
+    },
+    {
+      "surface": "אל",
+      "gloss": "эч качан"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "уялбаймын"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "өмүр бою"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "Өзүңдүн цедегиң менен"
+    },
+    {
+      "surface": "פלטני",
+      "gloss": "мени куткар"
+    }
+  ],
+  "timestamp": "2026-10-05T15:55:29.508082742Z",
+  "model": "glm-5.3"
+}

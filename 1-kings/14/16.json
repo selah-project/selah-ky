@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 14:16",
+  "book": "1-kings",
+  "lang": "ky",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "таштап берет",
+      "rationale": "נתן 'берүү' — жөн гана 'берүү' эмес, 'колдон чыгаруу, таштап кетүү' маанисинде"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חטא \/ החטיא",
+      "rationale": "Бир тамырдын эки формасы — 'күнөө кылды' жана 'күнөөгө түрттү' — кайсылоо күчтүү"
+    }
+  ],
+  "translation": "жана Ал ⟨את⟩ Йисраэлди таштап берет, Яровамдын күнөөлөрүнүн айынан — ал күнөө кылды жана Йисраэлди күнөөгө түрттү.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "60030763936d95073d1b8d3151520e4706dd19e64ddf4f6f131de87bb914d34b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-kings\/14\/16-16.1791223907581.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "таштап берет"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Йисраэлди"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэлди"
+    },
+    {
+      "surface": "בגלל",
+      "gloss": "айынан"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "күнөөлөрүнүн"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Яровамдын"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ал"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "күнөө кылды"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "жана ал"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "күнөөгө түрттү"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Йисраэлди"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэлди"
+    }
+  ],
+  "timestamp": "2026-10-05T18:11:47.581566052Z",
+  "model": "glm-5.3"
+}

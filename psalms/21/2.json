@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 21:2",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ал",
+      "rationale": "Ивритте субъекти кайра айтпайт, кыргызча экинчи жагында ⟨ал⟩ талап кылат"
+    },
+    {
+      "kind": "elision",
+      "subject": "מאד",
+      "rationale": "«абдан» «канчалык ... кубанып» ичине киргизилди, өзүнчө турган жок"
+    }
+  ],
+  "translation": "Яхве, Сенин күч-кудуретиң менен падыша кубанат, жана Сенин куткарууң менен ал канчалык кубанып жаркырайт!",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "6ee1fd41d4ce2ee00416719f0b5f4f425827e67a2f68b0305fa27a52e60697bd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/21\/1-4.1791215611213.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "בעזך",
+      "gloss": "күч-кудуретиң менен"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "кубанат"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "падыша"
+    },
+    {
+      "surface": "ובישועתך",
+      "gloss": "жана Сенин куткарууң менен"
+    },
+    {
+      "surface": "מה",
+      "gloss": "канчалык"
+    },
+    {
+      "surface": "יגיל",
+      "gloss": "кубанып жаркырайт"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "абдан"
+    }
+  ],
+  "timestamp": "2026-10-05T15:53:31.214309926Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 5:4",
+  "book": "deuteronomy",
+  "lang": "ky",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "פנים בפנים",
+      "rationale": "«Жүз жүзгө каршы» — түз, ачык мааниде сүйлөшүү; кыргызча «бет маңдай» да болмок, бирок «жүз жүзгө каршы» даана."
+    },
+    {
+      "kind": "elision",
+      "subject": "мүчө тартиби",
+      "rationale": "Еврейче «жүз жүзгө каршы» сүйлөм башында турат — кыргызча да ошол тартип сакталды."
+    }
+  ],
+  "translation": "Жүз жүзгө каршы сүйлөдү Яхве силер менен тоодо, оттун ортосунан.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "24ccd86a492357d5404e135610d0360475aac33abb530a37833f9221eb3add5f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/5\/1-4.1791204812429.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פנים",
+      "gloss": "жүз"
+    },
+    {
+      "surface": "בפנים",
+      "gloss": "жүзгө каршы"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сүйлөдү"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "силер менен"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "тоодо"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "ортосунан"
+    },
+    {
+      "surface": "האש",
+      "gloss": "оттун"
+    }
+  ],
+  "timestamp": "2026-10-05T12:53:32.430985287Z",
+  "model": "glm-5.3"
+}

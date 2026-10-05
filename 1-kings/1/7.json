@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 1:7",
+  "book": "1-kings",
+  "lang": "ky",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "анын сөздөрү ... менен болду",
+      "rationale": "דבריו עם — 'аңсезимдеш болду, кеңешти' деген идиома, көчүрмө котормо сөзмө-сөз 'сөздөрү менен болду'"
+    },
+    {
+      "kind": "crux",
+      "subject": "אחרי אדניה",
+      "rationale": "'Адонийанын артынан' (сөзмө-сөз) же 'Адонийа үчүн'; KJV 'following Adonijah helped him' деген эки жолу чечмелөө киргизет"
+    }
+  ],
+  "translation": "Жана анын сөздөрү Церуянын уулу Йоав менен жана кохен Эвьатар менен болду, жана алар Адонийанын артынан жөлөп беришти.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "125f51d37982b445ba9b65e316efa7f3b9cace9beb9bf84d25d2aa20ad1723a0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-kings\/1\/5-8.1791207935548.json",
+    "code": "641241cf-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "Жана болду"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "анын сөздөрү"
+    },
+    {
+      "surface": "עם",
+      "gloss": "менен"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Йоав"
+    },
+    {
+      "surface": "בן",
+      "gloss": "уулу"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "Церуянын"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "жана менен"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Эвьатар"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "кохен"
+    },
+    {
+      "surface": "ויעזרו",
+      "gloss": "жана алар жөлөп беришти"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "артынан"
+    },
+    {
+      "surface": "אדניה",
+      "gloss": "Адонийанын"
+    }
+  ],
+  "timestamp": "2026-10-05T13:45:35.549677760Z",
+  "model": "glm-5.3"
+}

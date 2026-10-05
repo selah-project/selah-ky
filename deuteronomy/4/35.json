@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "deuteronomy 4:35",
+  "book": "deuteronomy",
+  "lang": "ky",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "—",
+      "rationale": "Копула кыргызча талап кылынат, еврейче жок."
+    },
+    {
+      "kind": "crux",
+      "subject": "Элохим",
+      "rationale": "האלהים дегенде артикль «ошол Элохим» деп да окулуп келет: жалгыз Кудай катары."
+    }
+  ],
+  "translation": "Сага билишиң үчүн көрсөтүлдү: Яхве — ал Элохим, Андан башка жок.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "cfdeedfa4b2e5dc6cdec02ecb1a8524350bf5a06077d20111b4287955c9943dd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/4\/33-36.1791204814106.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Сага"
+    },
+    {
+      "surface": "הראת",
+      "gloss": "көрсөтүлдү"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "билишиң үчүн"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ал"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "אין",
+      "gloss": "жок"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "башка"
+    },
+    {
+      "surface": "מלבדו",
+      "gloss": "Андан"
+    }
+  ],
+  "timestamp": "2026-10-05T12:53:34.107445969Z",
+  "model": "glm-5.3"
+}

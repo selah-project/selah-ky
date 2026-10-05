@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 56:9",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 56,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "נוד",
+      "rationale": "'Сүргүн\/көчүүлөр' деген бул форма Танахта ушул жерде гана кездешет."
+    },
+    {
+      "kind": "measurement",
+      "subject": "китебиң",
+      "rationale": "Жаштар китепте катталат — эсептөө, каттоо мотиви."
+    },
+    {
+      "kind": "you",
+      "subject": "Яхвеге",
+      "rationale": "Аят Яхвеге түз кайрылуу менен башталат."
+    }
+  ],
+  "translation": "Сүргүндөримдү Сен санадың; жашымды баштыгыңа сал — алар китебиңде эмеспи?",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "5ff76c2cb034a988f47868058ac67641d6da77698813e0a4ab6e6d8602138b8f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/56\/9-12.1791216181787.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נדי",
+      "gloss": "сүргүндөримдү"
+    },
+    {
+      "surface": "ספרתה",
+      "gloss": "санадың"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Сен"
+    },
+    {
+      "surface": "שימה",
+      "gloss": "сал"
+    },
+    {
+      "surface": "דמעתי",
+      "gloss": "жашымды"
+    },
+    {
+      "surface": "בנאדך",
+      "gloss": "баштыгыңа"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "эмеспи"
+    },
+    {
+      "surface": "בספרתך",
+      "gloss": "китебиңде"
+    }
+  ],
+  "timestamp": "2026-10-05T16:03:01.788299559Z",
+  "model": "glm-5.3"
+}

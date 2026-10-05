@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 113,
+  "ref": "psalms 119:113",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "סעפים",
+      "rationale": "Бөлүнгөн акыл-эстүүлөр: 'эки жүздүүлөр', 'күмөн сунучулар', 'жалган ойлор' деген варианттар бар."
+    },
+    {
+      "kind": "substitution",
+      "subject": "эки жүздүүлөр",
+      "rationale": "סעפים букв. 'бөлүнгөн (акыл)' — бөлүнгөн жүрөк деген сүрөт."
+    }
+  ],
+  "translation": "Эки жүздүүлөрдү жек көрдүм, ал эми Тораңды сүйдүм.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "0012912ccfab3190faede15b8ae883b42dc59729d781b0882da2feb139e89989",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/119\/113-116.1791217401018.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "סעפים",
+      "gloss": "эки жүздүүлөрдү"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "жек көрдүм"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "ал эми Тораңды"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "сүйдүм"
+    }
+  ],
+  "timestamp": "2026-10-05T16:23:21.018766832Z",
+  "model": "glm-5.3"
+}

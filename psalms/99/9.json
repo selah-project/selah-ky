@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 99:9",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 99,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "бул",
+      "rationale": "Еврейче жок копула, кыргызча аныктооч талап кылат"
+    },
+    {
+      "kind": "substitution",
+      "subject": "тоосуна",
+      "rationale": "להר — 'тоого' багыттоо; 'Анын' тамырдык конструкттен кошулду"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Ыктыярдууларга чакыруу",
+      "rationale": "Көптүк сан буйрук: бийик көтөргүлө, сыйынгыла"
+    },
+    {
+      "kind": "you",
+      "subject": "Ырайымдын элине",
+      "rationale": "Көптүк сандагы буйрук мүнөздүү адресат"
+    }
+  ],
+  "translation": "Яхвени, Элохимибизди бийик көтөргүлө, жана Анын ыйык тоосуна сыйынгыла, анткени ыйык ⟨бул⟩ Яхве, Элохимибиз.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "8dda68d17645219ad927aa35bcd62768128258e2e667d0d4787e74b6284eaca3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/99\/9-9.1791216935721.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רוממו",
+      "gloss": "бийик көтөргүлө"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвени"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Элохимибизди"
+    },
+    {
+      "surface": "והשתחוו",
+      "gloss": "жана сыйынгыла"
+    },
+    {
+      "surface": "להר",
+      "gloss": "тоосуна"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "ыйык"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "ыйык"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Элохимибиз"
+    }
+  ],
+  "timestamp": "2026-10-05T16:15:35.722463492Z",
+  "model": "glm-5.3"
+}

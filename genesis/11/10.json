@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 11:10",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "жүз жаш, эки жыл",
+      "rationale": "Жашты эсептөө — Шемдин санжырасындагы өлчөө аяны."
+    },
+    {
+      "kind": "substitution",
+      "subject": "Топон",
+      "rationale": "המבול — «топон\/суу ташкыны» деген жалаңкы сөз, ысым эмес."
+    }
+  ],
+  "translation": "Мunalar Шемдин урпактары: Шем жүз жашында, Топондон эки жыл өткөндөн кийин, ⟨את⟩ Арпакшадды тууду.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "d600afaaff682b9f32b6c86c247364ca07dbbdb67574b0c482e52c0d1978d9ec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/11\/9-12.1791200896687.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Мunalar"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "урпактары"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Шемдин"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Шем"
+    },
+    {
+      "surface": "בן",
+      "gloss": "жашында"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "жүз"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "жыл"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "тууду"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Арпакшадды"
+    },
+    {
+      "surface": "ארפכשד",
+      "gloss": "Арпакшадды"
+    },
+    {
+      "surface": "שנתים",
+      "gloss": "эки жыл"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "өткөндөн кийин"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "Топондон"
+    }
+  ],
+  "timestamp": "2026-10-05T11:48:16.688658279Z",
+  "model": "glm-5.3"
+}

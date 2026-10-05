@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 87,
+  "ref": "psalms 119:87",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "алар",
+      "rationale": "ивритте этиштин жөнөкөй 3-жамаат формасы, субъект аталган жок"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כמעט כלוני",
+      "rationale": "'дээрлик бүтүрдү' — аллитерация кыргызча жоголду"
+    }
+  ],
+  "translation": "Жер үстүндө алар мени дээрлик жок кылышты, бирок мен буйруктарыңды таштабадым.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "8e03f311bbb937ffcb1e3d0c3a65cc4b4fa53d2c47c61faebecb9f7bbf051b71",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/119\/85-88.1791217376501.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "дээрлик"
+    },
+    {
+      "surface": "כלוני",
+      "gloss": "мени жок кылышты"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "жер үстүндө"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "бирок мен"
+    },
+    {
+      "surface": "לא",
+      "gloss": "эмес"
+    },
+    {
+      "surface": "עזבתי",
+      "gloss": "таштабадым"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "буйруктарыңды"
+    }
+  ],
+  "timestamp": "2026-10-05T16:22:56.502412145Z",
+  "model": "glm-5.3"
+}

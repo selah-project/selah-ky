@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 10:8",
+  "book": "1-kings",
+  "lang": "ky",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "экен",
+      "rationale": "еврейче copula жок, бактылоо айкылы кыргызча аягын талап кылат"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אשרי … אשרי",
+      "rationale": "эки жолу кайталанган бактылоо — риторикалык күчөтүү"
+    },
+    {
+      "kind": "invitation",
+      "subject": "падышага айтылган сөз",
+      "rationale": "Шеба ханышасы Шломого түз кайрылат — тыңдоочуга да багытталат"
+    }
+  ],
+  "translation": "Бактылуу ⟨экен⟩ сенин адамдарың, бактылуу сенин бул кулдарың — сенин алдыңда дайыма турган, ⟨את⟩ сенин акылмандуулугуңду уккан ⟨адамдар⟩!",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "16bc6228d1d334220e56b8a85afcb5b76a73bc9f5c6d8ce01aeac43850a2ac44",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-kings\/10\/5-8.1791208176469.json",
+    "code": "641241cf-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Бактылуу"
+    },
+    {
+      "surface": "אנשיך",
+      "gloss": "адамдарың"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "бактылуу"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "кулдарың"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "бул"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "турган"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "сенин алдыңда"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "дайыма"
+    },
+    {
+      "surface": "השמעים",
+      "gloss": "уккан"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сенин акылмандуулугуңду"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "акылмандуулугуңду"
+    }
+  ],
+  "timestamp": "2026-10-05T13:49:36.470233014Z",
+  "model": "glm-5.3"
+}

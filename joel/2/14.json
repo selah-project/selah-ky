@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joel 2:14",
+  "book": "joel",
+  "lang": "ky",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ким билсин",
+      "rationale": "מי יודע — 'ким билсин' деген ачык суроо же үмүттүү жоромон; котормолор түрдүүчө берет"
+    },
+    {
+      "kind": "addition",
+      "subject": "ал",
+      "rationale": "тамыр татаалыз буйрук сүйлөмдөн кийин субъекти катыш парадигмасы үчүн кошулду"
+    },
+    {
+      "kind": "elision",
+      "subject": "ичик",
+      "rationale": "ונסך — куюлган ичимдик курмандыгы, кыргызча бир сөз менен берилди"
+    }
+  ],
+  "translation": "Ким билсин — ал кайтса, кайып кетсе жана артынан береке калтырса: Яхвеге, силердин Элохимге, минха жана ичик.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "6055bc80e4d242b6a0afe396b2182a52064b985e2cc18710ee82734019282086",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/joel\/2\/13-16.1791214222642.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ким"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "билсин"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "кайтса"
+    },
+    {
+      "surface": "ונחם",
+      "gloss": "кайып кетсе"
+    },
+    {
+      "surface": "והשאיר",
+      "gloss": "калтырса"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "артынан"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "береке"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "минха"
+    },
+    {
+      "surface": "ונסך",
+      "gloss": "ичик"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхвеге"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "силердин Элохимге"
+    }
+  ],
+  "timestamp": "2026-10-05T15:30:22.643762359Z",
+  "model": "glm-5.3"
+}

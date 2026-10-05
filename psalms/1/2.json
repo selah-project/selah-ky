@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 1:2",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "כי אם",
+      "rationale": "Жуп байланыштык «тескерисинче» бир сөз менен берилди, אם өзүнчө эч нерсе болуп калды"
+    },
+    {
+      "kind": "substitution",
+      "subject": "күбүлөйт",
+      "rationale": "הגה — үн чыгарып окулап ой жүгүртүү; «күбүлөйт» үн компонентин сактайт"
+    }
+  ],
+  "translation": "Тескерисинче, анын жагымдуу тилеги Яхвенин Торасында, жана Торасын күндүз жана түнү күбүлөйт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "0b7bde8d463856105adba8cd3bf11fb810073a8be120a6130bdb28fd37d54ef9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/1\/1-4.1791215356086.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Тескерисинче"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "Торасында"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    },
+    {
+      "surface": "חפצו",
+      "gloss": "жагымдуу тилеги"
+    },
+    {
+      "surface": "ובתורתו",
+      "gloss": "Торасын"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "күбүлөйт"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "күндүз"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "жана түнү"
+    }
+  ],
+  "timestamp": "2026-10-05T15:49:16.087208371Z",
+  "model": "glm-5.3"
+}

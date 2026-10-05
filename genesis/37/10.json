@@ -1,0 +1,131 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 37:10",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "rationale": "кыргызча кызыкча сөз талап кылбайт, «сен көргөн» Participhle көтөрөт"
+    },
+    {
+      "kind": "idiom",
+      "subject": "הבוא נבוא",
+      "rationale": "инфинитив + өткөн чактын кайталоосу — «чын эле келебизби» күчөтүлгөн суроо"
+    },
+    {
+      "kind": "crux",
+      "subject": "сенин энең",
+      "rationale": "Рахел бул учурда өлүк болчу — «эне» Лияны же бүт үй-бүлөнү билдирет дебештер бар"
+    }
+  ],
+  "translation": "Жана ал аны атасына жана бир туугандарына айтып берди, атасы аны сөктү жана ага айтты: Сен көргөн бул түш эмне? Чын эле мен жана сенин энең жана бир туугандарың сага жерге таазим кылуу үчүн келебизби?",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "21a7c6126ef579e35247b0fe701e97d9023291e430c1f2672301550953d5f720",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/37\/9-12.1791201453009.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויספר",
+      "gloss": "айтып берди"
+    },
+    {
+      "surface": "אל",
+      "gloss": "карай"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "атасы"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "жана карай"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "бир туугандары"
+    },
+    {
+      "surface": "ויגער",
+      "gloss": "сөктү"
+    },
+    {
+      "surface": "בו",
+      "gloss": "аны"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "атасы"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "жана айтты"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ага"
+    },
+    {
+      "surface": "מה",
+      "gloss": "эмне"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "түш"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "бул"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "חלמת",
+      "gloss": "сен көргөн"
+    },
+    {
+      "surface": "הבוא",
+      "gloss": "чын эле келүү"
+    },
+    {
+      "surface": "נבוא",
+      "gloss": "келебиз"
+    },
+    {
+      "surface": "אני",
+      "gloss": "мен"
+    },
+    {
+      "surface": "ואמך",
+      "gloss": "жана сенин энең"
+    },
+    {
+      "surface": "ואחיך",
+      "gloss": "жана бир туугандарың"
+    },
+    {
+      "surface": "להשתחות",
+      "gloss": "таазим кылуу үчүн"
+    },
+    {
+      "surface": "לך",
+      "gloss": "сага"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "жерге"
+    }
+  ],
+  "timestamp": "2026-10-05T11:57:33.010796579Z",
+  "model": "glm-5.3"
+}

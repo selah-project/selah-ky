@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 21:14",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ачкан адамга суу алып келишти",
+      "rationale": "KJV өткөн чакта берет; JPS буйрук катары («ачкандарга суу алып келгиле») окуйт — эки салмак тең бар."
+    },
+    {
+      "kind": "substitution",
+      "subject": "качкын",
+      "rationale": "נודד — «тентиген, көчүп жүргөн» деген сөз; бир гана качып бараткан адам эмес."
+    }
+  ],
+  "translation": "Ачкан адамга жолуктурушу үчүн суу алып келишти — Тема жеринин жашоочулары — наны менен качкынды алдынан тосушту.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "7034096a3a50d196a17900691383f539e0c4b375babff40a04c993096788bec4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/21\/13-16.1791209668757.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לקראת",
+      "gloss": "жолуктурушу үчүн"
+    },
+    {
+      "surface": "צמא",
+      "gloss": "ачкан адамга"
+    },
+    {
+      "surface": "התיו",
+      "gloss": "алып келишти"
+    },
+    {
+      "surface": "מים",
+      "gloss": "суу"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "жашоочулары"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "жеринин"
+    },
+    {
+      "surface": "תימא",
+      "gloss": "Тема"
+    },
+    {
+      "surface": "בלחמו",
+      "gloss": "наны менен"
+    },
+    {
+      "surface": "קדמו",
+      "gloss": "алдынан тосушту"
+    },
+    {
+      "surface": "נדד",
+      "gloss": "качкынды"
+    }
+  ],
+  "timestamp": "2026-10-05T14:14:28.758575194Z",
+  "model": "glm-5.3"
+}

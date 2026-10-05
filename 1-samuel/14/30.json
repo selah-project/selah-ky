@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-samuel 14:30",
+  "book": "1-samuel",
+  "lang": "ky",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אף כי לוא",
+      "rationale": "'Дагы да, эгерде...' — 'канча анда, эгер...' деген салыштыруу идиомасы"
+    },
+    {
+      "kind": "crux",
+      "subject": "כי עתה לא רבתה מכה",
+      "rationale": "сөзмө-сөз 'азыр сокку чоң болгон жок' — суроо формасында 'чоң болмок эмес беле?' деп берилди"
+    }
+  ],
+  "translation": "Дагы да, эгерде эл бүгүн душмандарынын олжосунан — табылганынан эркин жеген болсо, анда азыр пелиштилердин арасындагы сокку чоң болмок эмес беле?",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "531e3f0b0ef3d61561db3690af04afd544bf66c3034f5fc00ff520c4d56de94c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-samuel\/14\/29-32.1791206863295.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "дагы да"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "לוא",
+      "gloss": "эгерде"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "жеген"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "болсо"
+    },
+    {
+      "surface": "היום",
+      "gloss": "бүгүн"
+    },
+    {
+      "surface": "העם",
+      "gloss": "эл"
+    },
+    {
+      "surface": "мשלל",
+      "gloss": "олжосунан"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "душмандарынын"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "מצא",
+      "gloss": "табылганынан"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анда"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "азыр"
+    },
+    {
+      "surface": "לא",
+      "gloss": "эмес"
+    },
+    {
+      "surface": "רבתה",
+      "gloss": "чоң болмок"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "сокку"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "пелиштилердин арасындагы"
+    }
+  ],
+  "timestamp": "2026-10-05T13:27:43.296036926Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 14:7",
+  "book": "proverbs",
+  "lang": "ky",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ובל ידעת",
+      "rationale": "«Билим эриндерин тааныйсуң» (буйрук мааниси: кет, анда тааныбайсың) же «тааныбайсың» (жокко чыгаруу) — которуучулар эки жол менен окуп келишкен."
+    },
+    {
+      "kind": "substitution",
+      "subject": "көрбөйсүң",
+      "rationale": "ידעת — «билесиң\/тааныйсың»; кыргыз контекстинде «көрбөйсүң» табигыйраак, латины «тааныбайсың»."
+    }
+  ],
+  "translation": "Акылсыз адамдын алдынан кет, анткени ⟨анда⟩ билимдин эриндерин көрбөйсүң.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "0195f10d83b91419012c022e68b7e48fcb235dd7e620ad87585678975b6175a0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/14\/5-8.1791218020450.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "кет"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "алдынан"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "адамдын"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "акылсыз"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "анткени... эмес"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "көрбөйсүң"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "эриндерин"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "билимдин"
+    }
+  ],
+  "timestamp": "2026-10-05T16:33:40.451367630Z",
+  "model": "glm-5.3"
+}

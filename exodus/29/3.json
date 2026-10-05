@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 29:3",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ошондой эле",
+      "rationale": "Акыркы эки объектти байланыштыруу үчүн байламта кошулду, еврейче жөн гана вав"
+    }
+  ],
+  "translation": "Жана ⟨את⟩ аларды бир себеттин үстүнө кой, жана себеттин ичинде ⟨את⟩ аларды алып кел, ошондой эле ⟨את⟩ өгүздү жана ⟨את⟩ эки такоону.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "b72086f378f6bfea2d439e8ace40f32038603e4eb8e802f284d4e26b42a706af",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/29\/1-4.1791202536714.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "жана кой"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "аларды"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстүнө"
+    },
+    {
+      "surface": "סל",
+      "gloss": "себеттин"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бир"
+    },
+    {
+      "surface": "והקרבת",
+      "gloss": "жана алып кел"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "аларды"
+    },
+    {
+      "surface": "בסל",
+      "gloss": "себеттин ичинде"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "жана ⟨את⟩",
+      "marks": "өгүздү"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "өгүз"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "жана ⟨את⟩",
+      "marks": "эки такоону"
+    },
+    {
+      "surface": "שני",
+      "gloss": "эки"
+    },
+    {
+      "surface": "האילם",
+      "gloss": "такоо"
+    }
+  ],
+  "timestamp": "2026-10-05T12:15:36.715928109Z",
+  "model": "glm-5.3"
+}

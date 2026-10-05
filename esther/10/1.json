@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 10:1",
+  "book": "esther",
+  "lang": "ky",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "мас",
+      "rationale": "מס — баш тартуучу жүк маанисинде: аргасыз эмгек түрүндөгү салык; жөн гана «салык» деген сөз жүк маанисин жоготот"
+    },
+    {
+      "kind": "crux",
+      "subject": "Ахашверош",
+      "rationale": "Бул ысым Ксеркске же Артаксеркске тиешелүү экени боюнча талаш бар; текст айтылышын сактады"
+    }
+  ],
+  "translation": "Жана падыша Ахашверош жерге жана деңиздин аралдарына салык салды.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "29b796585a0543d16a5c2b1a9929059f852632dde09f023113bf3667d50739a8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/esther\/10\/1-3.1791220337284.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "salды"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "падыша"
+    },
+    {
+      "surface": "אחשרש",
+      "gloss": "Ахашверош"
+    },
+    {
+      "surface": "מס",
+      "gloss": "салык"
+    },
+    {
+      "surface": "על",
+      "gloss": "жерге"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "жерге"
+    },
+    {
+      "surface": "ואיי",
+      "gloss": "жана аралдарына"
+    },
+    {
+      "surface": "הים",
+      "gloss": "деңиздин"
+    }
+  ],
+  "timestamp": "2026-10-05T17:12:17.284797406Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "lamentations 3:17",
+  "book": "lamentations",
+  "lang": "ky",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "тынчтыктан алыстатылды",
+      "rationale": "ותזנח: эгесиз пассив («жаным четтетилди») же Яхвени эгеси кылып («Сен алыстаттың») — кийинки аяттар Яхвени көрсөтөт, бирок бул аятта эгеси жок."
+    },
+    {
+      "kind": "substitution",
+      "subject": "жакшылык",
+      "rationale": "טובה — «эс-алыстык, ырыскы»; кыргызча бир сөзгө «жакшылык» деп берилди."
+    }
+  ],
+  "translation": "Жаным тынчтыктан алыстатылды, мен жакшылыкты унуттум.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "5434ad4564492120d9dac1ac58a516bb98fcdbbfa5c631b72b52eda56d30439e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/lamentations\/3\/17-20.1791219814016.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותזנח",
+      "gloss": "алыстатылды"
+    },
+    {
+      "surface": "משלום",
+      "gloss": "тынчтыктан"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "жаным"
+    },
+    {
+      "surface": "נשיתי",
+      "gloss": "унуттум"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "жакшылыкты"
+    }
+  ],
+  "timestamp": "2026-10-05T17:03:34.016651885Z",
+  "model": "glm-5.3"
+}

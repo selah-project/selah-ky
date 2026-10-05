@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 29:9",
+  "book": "proverbs",
+  "lang": "ky",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נשפט",
+      "rationale": "Нипхал: «соттошот» (өз ара талаш) же «сотталат» (YLt боюнча) — эки окуу бар."
+    },
+    {
+      "kind": "substitution",
+      "subject": "тынчтык",
+      "rationale": "נחת букв. «түшүү, тынчоо» — «тынчтык\/жооп табуу» маанисинде."
+    }
+  ],
+  "translation": "Даанышман адам акмак адам менен соттошот — ал каарланып да, күлүп да жатса, тынчтык болбойт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "347ef1b7fd26606cb72ca8827d1dac8af4e3dfd81df4fa4c33b5ccf0a2e8e397",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/29\/9-12.1791218383569.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "адам"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "даанышман"
+    },
+    {
+      "surface": "נשפט",
+      "gloss": "соттошот"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "акмак адам"
+    },
+    {
+      "surface": "איש",
+      "gloss": "адам"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "акмак"
+    },
+    {
+      "surface": "ורגז",
+      "gloss": "каарланып"
+    },
+    {
+      "surface": "ושחק",
+      "gloss": "күлүп"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "жок"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "тынчтык"
+    }
+  ],
+  "timestamp": "2026-10-05T16:39:43.570085861Z",
+  "model": "glm-5.3"
+}

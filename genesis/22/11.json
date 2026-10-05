@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 22:11",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "מן",
+      "rationale": "Чыгып-кетүү предлоги «асманнан» деген жөнөкөй формада камтылды."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אברהם אברהם",
+      "rationale": "Аттын эки жолу кайталанышы — еврей тилиндеги өтө маанилүү чакырыу ыкмасы; кыргызча да эки жолу сакталды."
+    },
+    {
+      "kind": "you",
+      "subject": "Аврахамга",
+      "rationale": "Периште Аврахамды аты менен тікелей чакырат."
+    }
+  ],
+  "translation": "Жана Яхвенин периштеси ага асманнан кыйкырды жана айтты: Аврахам, Аврахам! Ал айтты: Мен мындамын.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "ffb8dc1ed9d7bec130c40f64eb719f5c63487ba6aa227e9f271739788fdceebb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/22\/9-12.1791201099767.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "кыйкырды"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ага"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "периштеси"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    },
+    {
+      "surface": "מן",
+      "gloss": ""
+    },
+    {
+      "surface": "השמים",
+      "gloss": "асманнан"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "жана айтты"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Аврахам"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Аврахам"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ал айтты"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Мен мындамын"
+    }
+  ],
+  "timestamp": "2026-10-05T11:51:39.768557881Z",
+  "model": "glm-5.3"
+}

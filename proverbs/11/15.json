@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 11:15",
+  "book": "proverbs",
+  "lang": "ky",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "תקעים",
+      "rationale": "'кол чаап' — кепилдик берүүнүн еврей салты, кыргызча 'кепилдешүүчүлөр' менен ачылды"
+    },
+    {
+      "kind": "addition",
+      "subject": "коопсуз",
+      "rationale": "בוטח этиш 'ишенет' — сын-атаыш катары коюлду, кыргызча атооч менен берилди"
+    }
+  ],
+  "translation": "Жамандык тартат — анткени бөтөнгө кепил болгон, ал эми кол чаап кепилдешүүчүлөрдү жек көргөн ⟨коопсуз⟩.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "5a0f97c50cdc0ef735437a0bf3e6d07858a7f1a3ede01f731b49dffcce15b2f8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/11\/13-16.1791218004669.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רע",
+      "gloss": "жамандык"
+    },
+    {
+      "surface": "ירוע",
+      "gloss": "тартат"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "кепил болгон"
+    },
+    {
+      "surface": "זר",
+      "gloss": "бөтөнгө"
+    },
+    {
+      "surface": "ושנא",
+      "gloss": "ал эми ... жек көргөн"
+    },
+    {
+      "surface": "תקעים",
+      "gloss": "кол чаап кепилдешүүчүлөрдү"
+    },
+    {
+      "surface": "בוטח",
+      "gloss": "коопсуз"
+    }
+  ],
+  "timestamp": "2026-10-05T16:33:24.670088562Z",
+  "model": "glm-5.3"
+}

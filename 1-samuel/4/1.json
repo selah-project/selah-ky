@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 4:1",
+  "book": "1-samuel",
+  "lang": "ky",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "ויהי",
+      "rationale": "эмфатикалык 'жүзөөгө ашты' идиомасы 'жетти' деп берилди"
+    }
+  ],
+  "translation": "Шемуелдин сөзү бүт Йисраэлге жетти, жана Йисраэл пелиштилер менен согушууга каршы чыкты жана Эвен-хаЭзердин жанында лагер курду, пелиштилер болсо Афекте лагер курду.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "b1811a1e6475bbe0c29eb0b3b344ba97a30b90b15e387ca7e8a2292698d266ce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-samuel\/4\/1-4.1791206675185.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "жетти"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сөзү"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Шемуелдин"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "бүт"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэлге"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "чыкты"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэл"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "каршы"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "пелиштилерди"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "согушууга"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "лагер курду"
+    },
+    {
+      "surface": "על",
+      "gloss": "жанында"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "Эвен"
+    },
+    {
+      "surface": "העזר",
+      "gloss": "хаЭзердин"
+    },
+    {
+      "surface": "ופלשתים",
+      "gloss": "жана пелиштилер"
+    },
+    {
+      "surface": "חנו",
+      "gloss": "лагер курду"
+    },
+    {
+      "surface": "באפק",
+      "gloss": "Афекте"
+    }
+  ],
+  "timestamp": "2026-10-05T13:24:35.185851504Z",
+  "model": "glm-5.3"
+}

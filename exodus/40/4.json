@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 40:4",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ערכו",
+      "rationale": "«Анын жайылтылганы» (жалпы) же JPS «үстүндөгү нан» (_showbread_) — текстте «нан» жок, бирок салттык окуу ошону билдирет."
+    },
+    {
+      "kind": "substitution",
+      "subject": "чыраккарман",
+      "rationale": "המנорה букв. «чырак кармагыч» — «шамдар» эмес, жети бутактуу ыйык чыраккарман."
+    }
+  ],
+  "translation": "Жана ⟨את⟩ столду алып кирип, ⟨את⟩ анын жайылтылганын тартипке келтирип, ⟨את⟩ чыраккарманы алып кирип, ⟨את⟩ анын чырактарын жакшың керек.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "af3a6f9d1178b2ebfe7257f1540c18410aa2bbac99c3b36de40c24189ac49020",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/40\/1-4.1791202787065.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והבאת",
+      "gloss": "алып кирип"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "столду"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "стол"
+    },
+    {
+      "surface": "וערכת",
+      "gloss": "тартипке келтирип"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "жайылтылганын"
+    },
+    {
+      "surface": "ערכו",
+      "gloss": "анын жайылтылганы"
+    },
+    {
+      "surface": "והבאת",
+      "gloss": "алып кирип"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "чыраккарманы"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "чыраккарман"
+    },
+    {
+      "surface": "והעלית",
+      "gloss": "жакшың керек"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "чырактарын"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "анын чырактары"
+    }
+  ],
+  "timestamp": "2026-10-05T12:19:47.066783034Z",
+  "model": "glm-5.3"
+}

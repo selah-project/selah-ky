@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 22:1",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "דמים",
+      "rationale": "Көп сандагы «кандар» — кан төккөндүктүн жоопкерчилиги, literal «кандар» эмес"
+    },
+    {
+      "kind": "crux",
+      "subject": "велдердин номерлөөсү",
+      "rationale": "Еврейче 22:1 — көпчүлүк котормолордо 21:37; бул аят Кийинкиси (22:2) менен өтө байланыштуу"
+    }
+  ],
+  "translation": "Эгер казып кирүүдө ууру табылса жана урулуп өлсө, ага кан-актыгы жок.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "1bc048124d35040857de33e617141d813587dc1df0fd409e15c47105e3bbd233",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/22\/1-4.1791202333909.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Эгер"
+    },
+    {
+      "surface": "במחתרת",
+      "gloss": "казып кирүүдө"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "табылса"
+    },
+    {
+      "surface": "הגנב",
+      "gloss": "ууру"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "урулса"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "өлсө"
+    },
+    {
+      "surface": "אין",
+      "gloss": "жок"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ага"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "кан-актыгы"
+    }
+  ],
+  "timestamp": "2026-10-05T12:12:13.910362165Z",
+  "model": "glm-5.3"
+}

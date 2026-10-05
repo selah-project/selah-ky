@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 19:6",
+  "book": "numbers",
+  "lang": "ky",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "תולעת",
+      "rationale": "Бул — кызыл боёк берген курт (кызыл жүн); көп котормолор жөн гана «кызыл» дешет, биз курт сөзүн сактадык"
+    },
+    {
+      "kind": "hapax_combination",
+      "subject": "кедр-зөөпүр-кызыл",
+      "rationale": "Үчөө Тазаруу ыйыктыгында (Левит 14) дагы кездешет — ыйыктоо үчүн белгилүү үчтүк"
+    }
+  ],
+  "translation": "Жана ыйык кызмат кылуучу кедр жыгачын, зөөпүрүн жана кызыл көңдөй куртту алып, ургаачы бугуну өрттөлүп жаткан жердин ичине ыргытат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "e70f3ed59731a28b354395c39521a65554b80d7f87bfc453e077213f9b29416e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/numbers\/19\/5-8.1791204062224.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "алып"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ыйык кызмат кылуучу"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "жыгачын"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "кедр"
+    },
+    {
+      "surface": "ואזוב",
+      "gloss": "жана зөөпүрүн"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "жана кызыл"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "көңдөй куртту"
+    },
+    {
+      "surface": "והשליך",
+      "gloss": "ыргытат"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ичине"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "ичине"
+    },
+    {
+      "surface": "שרפת",
+      "gloss": "өрттөлүп жаткан жердин"
+    },
+    {
+      "surface": "הפרה",
+      "gloss": "ургаачы бугуну"
+    }
+  ],
+  "timestamp": "2026-10-05T12:41:02.225776633Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 62:13",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 62,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨бар⟩",
+      "rationale": "Еврейче байлама жок — хесед кимде экенин көрсөтүүчү этиш кыргызча талап кылынат"
+    },
+    {
+      "kind": "substitution",
+      "subject": "хесед",
+      "rationale": "חסед 'ырайым' деп да которулат, бирок D2 боюнча хесед формасы сакталат"
+    }
+  ],
+  "translation": "Жана сенин, Адонай, хеседиң ⟨бар⟩, анткени ⟨сен⟩ ар бир кишинин ишине ылайык төлөп бересиң.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "8a740cd6aa8aab327e09d6480016e7944d7465cd31e3897911805dc0cf2a88cd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/62\/13-13.1791216260226.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולך",
+      "gloss": "жана сенин"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "хеседиң"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨сен⟩"
+    },
+    {
+      "surface": "תשלם",
+      "gloss": "төлөп бересиң"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ар бир кишинин"
+    },
+    {
+      "surface": "כמעשהו",
+      "gloss": "ишине ылайык"
+    }
+  ],
+  "timestamp": "2026-10-05T16:04:20.226590183Z",
+  "model": "glm-5.3"
+}

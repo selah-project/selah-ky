@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 16:20",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨аннан⟩",
+      "rationale": "еврей тексти «курттар көтөрүлдү» дейт — зат (манна) кыргызча сүйлөмдө аталышы керек"
+    },
+    {
+      "kind": "idiom",
+      "subject": "שמעו אל",
+      "rationale": "«угуу + эл» — буйрукка баш ийүү деген идиома, жөн гана «укту» эмес"
+    }
+  ],
+  "translation": "Бирок алар Мошени укпай, айрым адамдар андан эртең мененге чейин калтырышты, жана ⟨аннан⟩ курттар чыгып сасып кетти, жана Моше аларга ачуланды.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "70a8f21e66c30240b694021e481e72c58fe1929837a3782844a3f9f788fd4b03",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/16\/17-20.1791202176669.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "бирок … жок"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "укпай"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ни"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Мошени"
+    },
+    {
+      "surface": "ויותרו",
+      "gloss": "калтырышты"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "айрым адамдар"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "андан"
+    },
+    {
+      "surface": "עד",
+      "gloss": "чейин"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "эртең мененге"
+    },
+    {
+      "surface": "וירם",
+      "gloss": "чыгып көбөйдү"
+    },
+    {
+      "surface": "תולעים",
+      "gloss": "курттар"
+    },
+    {
+      "surface": "ויבאש",
+      "gloss": "сасып кетти"
+    },
+    {
+      "surface": "ויקצף",
+      "gloss": "ачуланды"
+    },
+    {
+      "surface": "עלהם",
+      "gloss": "аларга"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    }
+  ],
+  "timestamp": "2026-10-05T12:09:36.670487541Z",
+  "model": "glm-5.3"
+}

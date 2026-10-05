@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 3:30",
+  "book": "proverbs",
+  "lang": "ky",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ал",
+      "rationale": "Еврейче этиштин жакын аталыгында «ал» жок, кыргызча тактык үчүн кошулду"
+    }
+  ],
+  "translation": "Адам менен бекеринен талашпа, эгерде ал сага жамандык кылбаса.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "8844867d968ec9db62dc0e11395174abb8bc87f1deb42f5348a1dc101146471b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/3\/29-32.1791217817829.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "жок"
+    },
+    {
+      "surface": "תרוב",
+      "gloss": "талашпа"
+    },
+    {
+      "surface": "עם",
+      "gloss": "менен"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "адам"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "бекеринен"
+    },
+    {
+      "surface": "אם",
+      "gloss": "эгерде"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "גמלך",
+      "gloss": "сага кылбаса"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "жамандык"
+    }
+  ],
+  "timestamp": "2026-10-05T16:30:17.833648020Z",
+  "model": "glm-5.3"
+}

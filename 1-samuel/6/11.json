@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 6:11",
+  "book": "1-samuel",
+  "lang": "ky",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "шишиктер",
+      "rationale": "טחור — ыйык жерде айтылган эн深度融合түү сөз: «чычкандардын же шишиктердин сөлөкөттөрү» — бузулган сөздүн так мааниси талаштуу."
+    },
+    {
+      "kind": "elision",
+      "subject": "кайсы када",
+      "rationale": "עכברי הזהב — «алтын чычкандар»: анын канча экени айтылбайт, сан жок."
+    }
+  ],
+  "translation": "Жана ⟨את⟩ Яхвенин сандыгын арабага коюшту, ⟨את⟩ сандыкты, ⟨את⟩ алтын чычкандарды жана ⟨את⟩ алардын шишиктеринин сөлөкөттөрүн.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "f174bc3f3b0be042c2f56cccab0974255fb64a2fcc9344410ac8719b9c67f557",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-samuel\/6\/9-12.1791206691990.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמו",
+      "gloss": "коюшту"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яхвенин сандыгын"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "сандыгын"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    },
+    {
+      "surface": "אל",
+      "gloss": "үстүнө"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "арабанын"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "сандыкты"
+    },
+    {
+      "surface": "הארגז",
+      "gloss": "сандыкты"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "алтын чычкандарды"
+    },
+    {
+      "surface": "עכברי",
+      "gloss": "чычкандарды"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "алтын"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "алардын шишиктеринин сөлөкөттөрүн"
+    },
+    {
+      "surface": "צלמי",
+      "gloss": "сөлөкөттөрүн"
+    },
+    {
+      "surface": "טחריהם",
+      "gloss": "алардын шишиктеринин"
+    }
+  ],
+  "timestamp": "2026-10-05T13:24:51.991085635Z",
+  "model": "glm-5.3"
+}

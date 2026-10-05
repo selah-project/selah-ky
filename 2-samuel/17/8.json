@@ -1,0 +1,132 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 17:8",
+  "book": "2-samuel",
+  "lang": "ky",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жаны",
+      "rationale": "נפש — «жан» эмес, дем\/тамак\/жашоо күчү дегенди билдирет; «жаны ачуу» — кайраттуу ачуу маанисинде."
+    },
+    {
+      "kind": "elision",
+      "subject": "את (үчүнчү)",
+      "rationale": "Бул את — H854 предлогу «менен»,direct-объект маркери эмес, ошондуктан ⟨את⟩ катары сакталбастан «менен» деп берилди."
+    }
+  ],
+  "translation": "Жана Хушай айтты: Сен ⟨את⟩ атаңды жана ⟨את⟩ анын кишилерин билесиң: алар баатырлар, жана жаны ачуу алар, талаада баласынан ажыраган аюудай; жана атаң согуш адамы, жана эл ⟨את⟩ менен түнөбөйт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "7562bbb4611d39fecddb8d8d2605f2e40edf7bef9b0a16b42966aec4b40f11e9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-samuel\/17\/5-8.1791207673022.json",
+    "code": "641241cf-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "жана айтты"
+    },
+    {
+      "surface": "חושי",
+      "gloss": "Хушай"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "сен"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "билесиң"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "атаңды"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "атаңды"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "жана ⟨את⟩",
+      "marks": "анын кишилерин"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "анын кишилерин"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "גברים",
+      "gloss": "баатырлар"
+    },
+    {
+      "surface": "המה",
+      "gloss": "алар"
+    },
+    {
+      "surface": "ומרי",
+      "gloss": "жана ачуу"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "жаны"
+    },
+    {
+      "surface": "המה",
+      "gloss": "алар"
+    },
+    {
+      "surface": "כדב",
+      "gloss": "аюудай"
+    },
+    {
+      "surface": "שכול",
+      "gloss": "баласынан ажыраган"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "талаада"
+    },
+    {
+      "surface": "ואביך",
+      "gloss": "жана атаң"
+    },
+    {
+      "surface": "איש",
+      "gloss": "адами"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "согуш"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "жана жок"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "түнөбөйт"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ менен"
+    },
+    {
+      "surface": "העם",
+      "gloss": "эл"
+    }
+  ],
+  "timestamp": "2026-10-05T13:41:13.023334693Z",
+  "model": "glm-5.3"
+}

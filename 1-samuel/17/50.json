@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "1-samuel 17:50",
+  "book": "1-samuel",
+  "lang": "ky",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "торго",
+      "rationale": "קלע — 'торго, ыргытуучу курал'; кыргызча бир сөз"
+    },
+    {
+      "kind": "addition",
+      "subject": "болчу",
+      "rationale": "אין — 'жок', кыргызча этиш формасы керек"
+    }
+  ],
+  "translation": "Давид пелиштиден күчтүү болуп чыкты торгодо жана таш менен, жана пелиштидин урду жана аны өлтүрдү, жана Давиддин колунда кылыч жок болчу.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "f7d5e0763157b1841779b591109124bf6f355a22beb3196f8ef4f4719855cfe3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-samuel\/17\/49-52.1791207020134.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "күчтүү болду"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "מן",
+      "gloss": "пелиштиден"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "пелишти"
+    },
+    {
+      "surface": "בקלע",
+      "gloss": "торгодо"
+    },
+    {
+      "surface": "ובאבן",
+      "gloss": "жана таш менен"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "урду"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "пелиштидин"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "пелишти"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "өлтүрдү"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "кылыч"
+    },
+    {
+      "surface": "אין",
+      "gloss": "жок"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "колдо"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    }
+  ],
+  "timestamp": "2026-10-05T13:30:20.135556301Z",
+  "model": "glm-5.3"
+}

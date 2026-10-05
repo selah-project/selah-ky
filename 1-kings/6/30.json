@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 6:30",
+  "book": "1-kings",
+  "lang": "ky",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ээбек",
+      "rationale": "קרקע — үйдүн ээбеги (жыгачтан чатырма төшөлгөн жер), «пол» деген сөз анын формасын жоготот"
+    }
+  ],
+  "translation": "Жана үйдүн ⟨את⟩ ээбегин ичинен жана сыртынан алтын менен каптады.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "ac5cf8b2848c90719680f6728c26fa3869a578a66c83d2d79fd353a834006aeb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-kings\/6\/30-31.1791223920391.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ээбегин"
+    },
+    {
+      "surface": "קרקע",
+      "gloss": "ээбеги"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "үйдүн"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "каптады"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "алтын"
+    },
+    {
+      "surface": "לפנימה",
+      "gloss": "ичинен"
+    },
+    {
+      "surface": "ולחיצון",
+      "gloss": "сыртынан"
+    }
+  ],
+  "timestamp": "2026-10-05T18:12:00.392345221Z",
+  "model": "glm-5.3"
+}

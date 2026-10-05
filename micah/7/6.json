@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "micah 7:6",
+  "book": "micah",
+  "lang": "ky",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "кордойт",
+      "rationale": "מנבל — 'жүйөсүздүк кылат, уятка калтырат' сыяктуу кең маани; 'кордойт' — эң жакын эквивалент"
+    },
+    {
+      "kind": "elision",
+      "subject": "כלה בחמתה",
+      "gloss": "",
+      "rationale": "'Каршы' этиши үчүнчү сапта кайталанбайт, кыргызча да түшүнүктүү"
+    }
+  ],
+  "translation": "Анткени уул атасын кордойт, кыз апасына каршы турат, келин кайненесине каршы; адамдын душмандары — анын үйүнүн кишиси.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "6fb42ba567955f16c666c145c444f7fed2cb1743d17213a26e829831390c00c8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/micah\/7\/5-8.1791214696903.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "בן",
+      "gloss": "уул"
+    },
+    {
+      "surface": "מנבל",
+      "gloss": "кордойт"
+    },
+    {
+      "surface": "אב",
+      "gloss": "атасын"
+    },
+    {
+      "surface": "בת",
+      "gloss": "кыз"
+    },
+    {
+      "surface": "קמה",
+      "gloss": "каршы турат"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "апасына"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "келин"
+    },
+    {
+      "surface": "בחמתה",
+      "gloss": "кайненесине"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "душмандары"
+    },
+    {
+      "surface": "איש",
+      "gloss": "адамдын"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "кишиси"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "үйүнүн"
+    }
+  ],
+  "timestamp": "2026-10-05T15:38:16.904328477Z",
+  "model": "glm-5.3"
+}

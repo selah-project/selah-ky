@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 18:7",
+  "book": "leviticus",
+  "lang": "ky",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "היא",
+      "rationale": "еврейче «ал» (аялга кайрылган), кыргызча «ал» — жынысы көрсөтүлбөйт"
+    },
+    {
+      "kind": "idiom",
+      "subject": "ערוה",
+      "rationale": "«жылаңачтык» — инцест туюмунун туруктуу термини"
+    }
+  ],
+  "translation": "Атаңдын жылаңачтыгын жана энеңдин жылаңачтыгын ачпа; ал — сенин энең, анын жылаңачтыгын ачпа.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "a7fa3d19689258b4b6bc7d2bdc453037a605d0e8d68faa23090dc3c532fca4a0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/18\/5-8.1791203180382.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "жылаңачтыгын"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "атаңдын"
+    },
+    {
+      "surface": "ו",
+      "gloss": "жана"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "жылаңачтыгын"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "энеңдин"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "ачпа"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "энең"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ал ⟨бул⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "ачпа"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "жылаңачтыгын"
+    }
+  ],
+  "timestamp": "2026-10-05T12:26:20.383676583Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 23:20",
+  "book": "deuteronomy",
+  "lang": "ky",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נשך\/נשך",
+      "rationale": "נשך «тиштөө» (жыландыкы) жана «өсүм» — бир тамыр, беш жолу кайталанат; кыргызча «тиштөө» деген сүрөт жоголду"
+    },
+    {
+      "kind": "alternative",
+      "subject": "өсүм",
+      "rationale": "«пайда», «сүт» (акы) деген да мүмкүн, бирок «өсүм» так"
+    }
+  ],
+  "translation": "Тууганыңа өсүм алба: күмүштүн өсүмү, аштыктын өсүмү, өсүм алына турган ар бир нерсенин өсүмү.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "8ac3bfe57f0b09c99368d3a7c4161c724ac812c888c238453895bacf5030b7ec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/23\/17-20.1791205248237.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "תשיך",
+      "gloss": "өсүм алба"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "тууганыңа"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "өсүмү"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "күмүштүн"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "өсүмү"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "аштыктын"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "өсүмү"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ар бир"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "нерсенин"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…дын"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "өсүм алына турган"
+    }
+  ],
+  "timestamp": "2026-10-05T13:00:48.239013481Z",
+  "model": "glm-5.3"
+}

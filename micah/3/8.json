@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "micah 3:8",
+  "book": "micah",
+  "lang": "ky",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "көтөрүлүшүн",
+      "rationale": "פשע — козголоң, чектен чыгуу; 'кылмыш' дегенге караганда 'көтөрүлүү' сөздүн формасына жакыныраак"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "Яаков \/ Йисраэл",
+      "rationale": "эки ысымдын параллелизми — бир эле эл эки аты менен чакырылат, кыргызча экөө тең сакталды"
+    }
+  ],
+  "translation": "Ал эми мен — күчкө, ⟨את⟩ Яхвенин рухуна, өкүмгө жана баатырлыкка толгонмун: Яаковко анын көтөрүлүшүн, Йисраэлге анын күнөөсүн жарыялоо үчүн.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "2680b664c7e946c26f44baf00f8b880f5be4781886087ef0e7fff611f0a6c890",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/micah\/3\/5-8.1791214584842.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "ал эми"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "мен"
+    },
+    {
+      "surface": "מלאתי",
+      "gloss": "толгонмун"
+    },
+    {
+      "surface": "כח",
+      "gloss": "күчкө"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яхвенин рухун"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "рух"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "өкүмгө"
+    },
+    {
+      "surface": "וגבורה",
+      "gloss": "баатырлыкка"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "жарыялоо үчүн"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Яаковко"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "көтөрүлүшүн"
+    },
+    {
+      "surface": "ולישראל",
+      "gloss": "Йисраэлге"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "күнөөсүн"
+    }
+  ],
+  "timestamp": "2026-10-05T15:36:24.844152188Z",
+  "model": "glm-5.3"
+}

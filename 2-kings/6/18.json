@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 6:18",
+  "book": "2-kings",
+  "lang": "ky",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "санвверим",
+      "rationale": "סנורים: сокурлук же чымындаан; айтылышы боюнча сакталды"
+    },
+    {
+      "kind": "addition",
+      "subject": "суранам",
+      "rationale": "נא — буйрукка жумшартуу кошулмасы"
+    }
+  ],
+  "translation": "Алар ага түшүп келгенде, Элиша Яхвеге сыйынып айтты: Бул ⟨את⟩ элди санвверим менен соккур. Жана алар Элишанын сөзү боюнча санвверим менен сокуруду.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "677dd9e7162bd760a52af816469ff67cad88492fb583f9e63928584f72bf634a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-kings\/6\/17-20.1791208757910.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "түшүп келгенде"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ага"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "сыйынып"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Элиша"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Яхвеге"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "הך",
+      "gloss": "соккур"
+    },
+    {
+      "surface": "נא",
+      "gloss": "суранам"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "бул элди"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "элди"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "бул"
+    },
+    {
+      "surface": "בסנורים",
+      "gloss": "санвверим менен"
+    },
+    {
+      "surface": "ויכם",
+      "gloss": "сокуруду"
+    },
+    {
+      "surface": "בסנורים",
+      "gloss": "санвверим менен"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "сөзү боюнча"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Элишанын"
+    }
+  ],
+  "timestamp": "2026-10-05T13:59:17.911542467Z",
+  "model": "glm-5.3"
+}

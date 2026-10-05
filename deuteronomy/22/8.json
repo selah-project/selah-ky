@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 22:8",
+  "book": "deuteronomy",
+  "lang": "ky",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יפל הנפל",
+      "rationale": "Этиш менен атооч — 'кулаган' деген сөз кайра айтылат, кыргызча бир гана жолу берилди."
+    },
+    {
+      "kind": "substitution",
+      "subject": "кан",
+      "rationale": "דמים көптүк сан — 'кандар' же канга жоопкерчилик; кыргызча 'кан' деп берилди."
+    }
+  ],
+  "translation": "Эгерде жаңы үй салсаң, үйүңдүн чатырына тосмо жаса, ошондо бирөө анын үстүнөн кулаганда үйүңө кан киргизбейсң.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "794ddb89b076f14dcfc10eeb491ad0a07e7a04fda1f028af580c0d94c566f42e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/22\/5-8.1791205150286.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "эгерде"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "салсаң"
+    },
+    {
+      "surface": "בית",
+      "gloss": "үй"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "жаңы"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "жана жаса"
+    },
+    {
+      "surface": "מעקה",
+      "gloss": "тосмо"
+    },
+    {
+      "surface": "לגגך",
+      "gloss": "чатырына"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "жана киргизбейсң"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "койбойсуң"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "кан"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "үйүңө"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ошондо"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "кулаганда"
+    },
+    {
+      "surface": "הנפל",
+      "gloss": "кулаган"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "анын үстүнөн"
+    }
+  ],
+  "timestamp": "2026-10-05T12:59:10.288115916Z",
+  "model": "glm-5.3"
+}

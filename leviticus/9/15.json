@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 9:15",
+  "book": "leviticus",
+  "lang": "ky",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "күнөө курмандыгы катары тартуулады",
+      "rationale": "ויחטאהו этиши «күнөө кылды» деген тамырдан — курмандыкты күнөө үчүн тартуулоо маанисинде"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ויקרב \/ קרבן",
+      "rationale": "«алып келди» жана «курмандык» бир тамырдан (קרב) — бул айкашы кыргызчада жоголду"
+    }
+  ],
+  "translation": "Жана ал ⟨את⟩ элдин курмандыгын алып келди, ⟨את⟩ эл үчүн болгон күнөө курмандыгы болгон текени алды жана аны союп, аны биринчисиндей күнөө курмандыгы катары тартуулады.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "77c8a782dbb1b27dc42f0895ff7d3ba825eba9862162e42c83d18ad4b4c371bd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/9\/14-15.1791223655733.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "алып келди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "элдин курмандыгын"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "курмандыгын"
+    },
+    {
+      "surface": "העם",
+      "gloss": "элдин"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "алды"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "текени"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "текени"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "күнөө курмандыгы"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "болгон"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "эл үчүн"
+    },
+    {
+      "surface": "וישחטהו",
+      "gloss": "аны союп"
+    },
+    {
+      "surface": "ויחטאהו",
+      "gloss": "аны күнөө курмандыгы катары тартуулады"
+    },
+    {
+      "surface": "כראשון",
+      "gloss": "биринчисиндей"
+    }
+  ],
+  "timestamp": "2026-10-05T18:07:35.735145411Z",
+  "model": "glm-5.3"
+}

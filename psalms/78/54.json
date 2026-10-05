@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "psalms 78:54",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨тоого⟩",
+      "rationale": "Ивритте «тоого» бир жолу гана айтылат; кыргызча ырааттуулук үчүн кайталанды."
+    },
+    {
+      "kind": "substitution",
+      "subject": "сатып алган",
+      "rationale": "קנתה — «ээлеп алды, курду» деген да мааниде; «сатып алуу» соода маанисин басаңдатат."
+    }
+  ],
+  "translation": "Жана аларды ыйык чегинине алып келди — бул тоого, анын оң колу сатып алган ⟨тоого⟩.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "235876a10c4c3a9ff0cc8b9400f0d479064f1e0007418d04a57222ffebbf93aa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/78\/53-56.1791216623198.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויביאם",
+      "gloss": "алып келди"
+    },
+    {
+      "surface": "אל",
+      "gloss": "чегинине"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "чек"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "ыйык"
+    },
+    {
+      "surface": "הר",
+      "gloss": "тоого"
+    },
+    {
+      "surface": "זה",
+      "gloss": "бул"
+    },
+    {
+      "surface": "קנתה",
+      "gloss": "сатып алган"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "анын оң колу"
+    }
+  ],
+  "timestamp": "2026-10-05T16:10:23.199520138Z",
+  "model": "glm-5.3"
+}

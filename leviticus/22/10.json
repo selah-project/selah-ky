@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 22:10",
+  "book": "leviticus",
+  "lang": "ky",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "адам",
+      "rationale": "«зар» сыяктуу эле эр адамды билдирген сөздөргө кыргызча «адам» сөзү кошулду"
+    },
+    {
+      "kind": "crux",
+      "subject": "зар",
+      "rationale": "זר — «бөтөн, ыйыкка тиешеси жок адам»: ыйкандын үй-бүлөсүнө кирбеген ар ким, улуттук чет элдик эмес"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קדеш кайталоосу",
+      "rationale": "קדש сөзү аятта эки жолу кайталанып, тыюу чекин күчөтөт"
+    }
+  ],
+  "translation": "Жана эч кандай чет элдик адам ыйык нерсе жебейт; ыйкандын коноктугу да, жалданган адам да ыйык нерсе жебейт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "123f3d2a246f921e3241ae3ebc32a7669fd1c59992a48006d469e463744cb23a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/22\/9-10.1791223630052.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "жана эч кандай"
+    },
+    {
+      "surface": "זר",
+      "gloss": "чет элдик адам"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жебейт"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "жебейт"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ыйык нерсе"
+    },
+    {
+      "surface": "תושב",
+      "gloss": "коноктук"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "ыйкандын"
+    },
+    {
+      "surface": "ושכיר",
+      "gloss": "жалданган адам"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жебейт"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "жебейт"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ыйык нерсе"
+    }
+  ],
+  "timestamp": "2026-10-05T18:07:10.053355894Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 42:18",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "бир туугандарга (Йосептин алдындагыларга)",
+      "rationale": "Йосеп камактагы бир туугандарына түз кайрылат"
+    },
+    {
+      "kind": "addition",
+      "subject": "анткени",
+      "rationale": "Еврей тилинде байланыштык жок, кыргызча сүйлөм үчүн кошулду"
+    }
+  ],
+  "translation": "Жана Йосеф аларга үчүнчү күнү айтты: «Муну кылыңар жана жашаңар, анткени ⟨את⟩ Элохимди мен коромун.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "d104c970e2a5ef8838e0d24a1eede219368c1bf2f2cabca0d6f4673deafa5572",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/42\/17-20.1791201646175.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "аларга"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосеф"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "күнү"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "үчүнчү"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "муну"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "кылыңар"
+    },
+    {
+      "surface": "וחיו",
+      "gloss": "жана жашаңар"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Элохимди"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Элохимди"
+    },
+    {
+      "surface": "אני",
+      "gloss": "мен"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "коромун"
+    }
+  ],
+  "timestamp": "2026-10-05T12:00:46.176065603Z",
+  "model": "glm-5.3"
+}

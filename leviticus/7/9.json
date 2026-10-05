@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 7:9",
+  "book": "leviticus",
+  "lang": "ky",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אתה",
+      "rationale": "את объект маркери ⟨את⟩ белгиси катары сакталды, кыргызча туу эмес"
+    },
+    {
+      "kind": "substitution",
+      "subject": "минха",
+      "rationale": "מנחה — уннан жасалган ырасмий белек; D2 боюнча минха сөзү кармалды"
+    }
+  ],
+  "translation": "Жана тандырда бышырылган ар кандай минха, казанда жасалган ар кандай нерсе жана табада ⟨את⟩ аны алып келген ыйык кызмат кылуучуга тиешелүү болот.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "1c888b16fb5f9b15e3400a15ea227cb6b25dfdb10ea37e1574d880a7a417d87d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/7\/9-12.1791202848457.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "жана ар кандай"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "минха"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "коториси"
+    },
+    {
+      "surface": "תאפה",
+      "gloss": "бышырылган"
+    },
+    {
+      "surface": "בתנור",
+      "gloss": "тандырда"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "жана ар кандай"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "жасалган"
+    },
+    {
+      "surface": "במרחשת",
+      "gloss": "казанда"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "жана үстүндө"
+    },
+    {
+      "surface": "מחבת",
+      "gloss": "таба"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "ыйык кызмат кылуучуга"
+    },
+    {
+      "surface": "המקריב",
+      "gloss": "алып келген"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "аны"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ага"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "тиешелүү болот"
+    }
+  ],
+  "timestamp": "2026-10-05T12:20:48.457809514Z",
+  "model": "glm-5.3"
+}

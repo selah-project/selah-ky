@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 4:2",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "эмне",
+      "rationale": "Еврейче суроо «мה-зе» — «бул эмне», толук суроо сүйлөм үчүн «эмне» кошулду"
+    },
+    {
+      "kind": "you",
+      "subject": "Моше",
+      "rationale": "Яхве Мошеге түз кайрылуу — суроо түрүндө"
+    }
+  ],
+  "translation": "Яхве ага айтты: Бул колуңдагы эмне? Ал айтты: Таяк.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "5b398b7c7d39fe4c6f93be38aab462308cb60fddd77a39b589623fe24e55484a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/4\/1-4.1791201919239.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ага"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "Бул"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "колуңдагы"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "Таяк"
+    }
+  ],
+  "timestamp": "2026-10-05T12:05:19.240333352Z",
+  "model": "glm-5.3"
+}

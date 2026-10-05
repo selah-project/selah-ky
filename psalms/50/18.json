@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 50:18",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ватарец",
+      "rationale": "'Чогуу жүрдүң' (букм. 'аны менен чуркадың') — KJV 'макул болдуң', JPS 'жолдош болдуң' деген варианттар бар"
+    },
+    {
+      "kind": "elision",
+      "subject": "болду",
+      "rationale": "'Үлүшүң … менен' деген эзилип айтылган кошумча — кыргызча ⟨болду⟩ кошулду"
+    }
+  ],
+  "translation": "Эгер ууруну көрсөң, аны менен чогуу жүрдүң, жана нике бузуучулар менен ⟨болду⟩ үлүшүң.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "15aed668552cc575206c6f0a43fb01428f4be214646cd9253294d44b31bc9138",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/50\/17-20.1791216099113.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Эгер"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "көрсөң"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "ууруну"
+    },
+    {
+      "surface": "ותרץ",
+      "gloss": "чогуу жүрдүң"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "аны менен"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "жана … менен"
+    },
+    {
+      "surface": "מנאפים",
+      "gloss": "нике бузуучулар"
+    },
+    {
+      "surface": "חלקך",
+      "gloss": "үлүшүң"
+    }
+  ],
+  "timestamp": "2026-10-05T16:01:39.114021353Z",
+  "model": "glm-5.3"
+}

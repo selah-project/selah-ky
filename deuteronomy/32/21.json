@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 32:21",
+  "book": "deuteronomy",
+  "lang": "ky",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "кызгандыруу\/каарландыруу",
+      "rationale": "Качыр сөздөрү (קנא\/כעס) эки жолу кайталанып, өлчөм-боюнча-өлчөм структурасын түзөт: жок кудай → жок эл."
+    },
+    {
+      "kind": "substitution",
+      "subject": "эл",
+      "rationale": "עם \"эл\" кыргызча бир сөз; \"жок эл\" деген семит идиома, \"эл эмес нерсе\" дегенди билдирет."
+    }
+  ],
+  "translation": "Алар жок кудай менен Мени кызгандырышты, ич күйгөн нерселери менен Мени каарландырышты; Мен аларды жок эл менен кызгандырам, акылсыз эл менен каарландырам.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "7490b22d91fa664ebbca90591b618e34fd557e3d1f38235291872450da003c32",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/32\/21-24.1791205452218.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הם",
+      "gloss": "Алар"
+    },
+    {
+      "surface": "קנאוני",
+      "gloss": "Мени кызгандырышты"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кудай"
+    },
+    {
+      "surface": "כעסוני",
+      "gloss": "Мени каарландырышты"
+    },
+    {
+      "surface": "בהבליהם",
+      "gloss": "ич күйгөн нерселери менен"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "Мен"
+    },
+    {
+      "surface": "אקניאם",
+      "gloss": "аларды кызгандырам"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "עם",
+      "gloss": "эл"
+    },
+    {
+      "surface": "בגוי",
+      "gloss": "эл менен"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "акылсыз"
+    },
+    {
+      "surface": "אכעיסם",
+      "gloss": "каарландырам"
+    }
+  ],
+  "timestamp": "2026-10-05T13:04:12.218619054Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 23:29",
+  "book": "leviticus",
+  "lang": "ky",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жан",
+      "rationale": "נפש — «дем алуучу жандык, тирүүлүк күчү», «жан» деген жокко эле жакын"
+    },
+    {
+      "kind": "crux",
+      "subject": "азап чегүү",
+      "rationale": "ענה «басынтуу»: орозо кармоону билдерге да, жалпы азап чегүүнү билдерге да болот"
+    },
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "rationale": "kyrgyz эттик атооч «жасаган» түрүндө байланышты көтөрөт, өзүнчө сөз талап кылынбайт"
+    }
+  ],
+  "translation": "Анткени ошол күндүн өзүндө азап чегбеген ар бир жан өз элинен кесилип ташталат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "0403cf303b488289d4083fa673329129a9d87f79d444d64c93e4d1d875bd3543",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/23\/29-32.1791203426003.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ар бир"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "жан"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "לא",
+      "gloss": "эмес"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "азап чегет"
+    },
+    {
+      "surface": "בעצם",
+      "gloss": "өзүндө"
+    },
+    {
+      "surface": "היום",
+      "gloss": "күндүн"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ошол"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "жана кесилип ташталат"
+    },
+    {
+      "surface": "מעמיה",
+      "gloss": "өз элинен"
+    }
+  ],
+  "timestamp": "2026-10-05T12:30:26.004309538Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 24:9",
+  "book": "joshua",
+  "lang": "ky",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "Бул аят — Яхвенин Йисраэл элине түз кайрылуусунун бир бөлүгү («силерди каргаш үчүн»)."
+    },
+    {
+      "kind": "elision",
+      "subject": "בישראל",
+      "rationale": "«Йисраэл менен» — «карышы» деген сөз еврейче жок, бирок «согушту» этиши аны өзүнө камтыйт."
+    }
+  ],
+  "translation": "Ошондо Балак, Циппордун уулу, Моабдын падышасы, турду жана Йисраэл менен согушту; жана ал жөнөтүп, Биламды, Беордун уулун чакыртып келди — ⟨את⟩ силерди каргаш үчүн.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "30f94f1314f824cfcb009c2b3c162da3cdf9baa668e0c621cbc524d409a5dda0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/joshua\/24\/9-12.1791206004601.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "турду"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Балак"
+    },
+    {
+      "surface": "בן",
+      "gloss": "уулу"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "Циппордун"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "падышасы"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моабдын"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "согушту"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Йисраэл менен"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "жөнөтүп"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "чакыртып келди"
+    },
+    {
+      "surface": "לבלעם",
+      "gloss": "Биламды"
+    },
+    {
+      "surface": "בן",
+      "gloss": "уулу"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "Беордун"
+    },
+    {
+      "surface": "לקלל",
+      "gloss": "каргаш үчүн"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "силерди"
+    }
+  ],
+  "timestamp": "2026-10-05T13:13:24.602563023Z",
+  "model": "glm-5.3"
+}

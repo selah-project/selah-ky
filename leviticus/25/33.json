@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 25:33",
+  "book": "leviticus",
+  "lang": "ky",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨бул⟩",
+      "rationale": "Hebrew uses pronoun הוא as copula; Kyrgyz requires an explicit nominal link"
+    },
+    {
+      "kind": "crux",
+      "subject": "ויצא ממכר",
+      "rationale": "'the sale of the house shall go out' — read as 'revert\/be released' (KJV) vs 'the redeemer from the Levites' (YLT); I follow the majority reading"
+    }
+  ],
+  "translation": "Жана эгер Левилердин бири куткарып алса, сатылган үй жана анын ээлик кылган шаары Жүбилей мааракесинде кайтып берилет, анткени Левилердин шаарларынын үйлөрү Йисраэл уулдарынын ичинде алардын ⟨бул⟩ ээлиги.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "46d80eba8ec9f8da3be1799650deb753dd01ee6e5a81bd9bfea8a4d73cd8a9ac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/25\/33-36.1791203401592.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "жана эгер"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "куткарып алса"
+    },
+    {
+      "surface": "מן",
+      "gloss": "…дан"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Левилер"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "чыгып кетет"
+    },
+    {
+      "surface": "ממכר",
+      "gloss": "сатылган"
+    },
+    {
+      "surface": "בית",
+      "gloss": "үй"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "жана шаар"
+    },
+    {
+      "surface": "אחזתו",
+      "gloss": "анын ээлиги"
+    },
+    {
+      "surface": "ביבל",
+      "gloss": "Жүбилейде"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "үйлөрү"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "шаарларынын"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Левилердин"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "бул"
+    },
+    {
+      "surface": "אחזתם",
+      "gloss": "алардын ээлиги"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ичинде"
+    },
+    {
+      "surface": "בני",
+      "gloss": "уулдарынын"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэл"
+    }
+  ],
+  "timestamp": "2026-10-05T12:30:01.593518889Z",
+  "model": "glm-5.3"
+}

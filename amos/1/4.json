@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "amos 1:4",
+  "book": "amos",
+  "lang": "ky",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "жеп",
+      "rationale": "אכל — 'жеген' оттун жүрүшү; кыргызча да 'от жеп кетет' деген элдик сүрөт сакталды"
+    },
+    {
+      "kind": "addition",
+      "subject": "болот",
+      "rationale": "ивриттин перфекти кыргызча келерче мааниде берилди, ошону белгилөө үчүн кошулду"
+    }
+  ],
+  "translation": "Мен Хазаелдин үйүнө от жиберем, ал Бен-Хададдын сарайларын жеп койгон болот.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "556b396dade6b4c5de378a20456f8a43db9a81aca80b568114318f8b13d623cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/amos\/1\/1-4.1791214254988.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "Мен жиберем"
+    },
+    {
+      "surface": "אש",
+      "gloss": "от"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "үйүнө"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "Хазаелдин"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "жеп койгон болот"
+    },
+    {
+      "surface": "ארמנות",
+      "gloss": "сарайларын"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Бен-"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Хададдын"
+    }
+  ],
+  "timestamp": "2026-10-05T15:30:54.989358490Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 109:20",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 109,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жан",
+      "rationale": "נפש — «дем алуучу, жандуу» деген сөз; «жан» бүтө да, тамыры да толук эмес"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨болсун⟩ эмес",
+      "rationale": "фраза тийиштүүлүктү билдирет: бул айыптоочулардын Яхведен тийиштүү наамы"
+    }
+  ],
+  "translation": "Бул — менин айыптоочуларымдын иши, Яхведен ⟨את⟩, жана менин жаныма каршы жамандык айткандардын.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "d726760e8ad24e053ef4fc3d09ef9a0423cca03724ff79bba4bf68ea5f67ffa7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/109\/17-20.1791217215550.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Бул"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "иши"
+    },
+    {
+      "surface": "שטני",
+      "gloss": "менин айыптоочуларымдын"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "Яхведен"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхведен"
+    },
+    {
+      "surface": "והדברים",
+      "gloss": "айткандардын"
+    },
+    {
+      "surface": "רע",
+      "gloss": "жамандык"
+    },
+    {
+      "surface": "על",
+      "gloss": "каршы"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "жаныма"
+    }
+  ],
+  "timestamp": "2026-10-05T16:20:15.551400854Z",
+  "model": "glm-5.3"
+}

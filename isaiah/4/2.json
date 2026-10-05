@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 4:2",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "бүрчүк",
+      "rationale": "צמח: өсүмдүк бүрчүгү же Машиах титулу (Захария 3:8, Ишаягынын 11:1 нешет); сөз форма-тууралуу мааниде сакталды"
+    },
+    {
+      "kind": "addition",
+      "subject": "болот",
+      "rationale": "еврей тилинде предикативдик кошумча жок; кыргыз тилинде эсептөө талап кылынат"
+    }
+  ],
+  "translation": "Ошо күндө Яхвенин бүрчүгү сулуулукка жана даңкка ⟨болот⟩, жана жердин мөмөсү Йисраэлдин аман калгандары үчүн сыймыкка жана көркөмдүккө ⟨болот⟩.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "a19b5c914eb955c63f4e3e304528e109f58632fa94e03c8925e5bd87525337a8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/4\/1-4.1791209439461.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "күндө"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ошо"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "болот"
+    },
+    {
+      "surface": "צמח",
+      "gloss": "бүрчүк"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    },
+    {
+      "surface": "לצבי",
+      "gloss": "сулуулукка"
+    },
+    {
+      "surface": "ולכבוד",
+      "gloss": "даңкка"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "мөмөсү"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "жердин"
+    },
+    {
+      "surface": "לגאון",
+      "gloss": "сыймыкка"
+    },
+    {
+      "surface": "ולתפארת",
+      "gloss": "көркөмдүккө"
+    },
+    {
+      "surface": "לפליטת",
+      "gloss": "аман калгандары"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэлдин"
+    }
+  ],
+  "timestamp": "2026-10-05T14:10:39.462318089Z",
+  "model": "glm-5.3"
+}

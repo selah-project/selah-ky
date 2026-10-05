@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 44:7",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "да",
+      "gloss_note": "",
+      "rationale": "в- prefixed кылычтын жалганганы кыргызча «да» байланыштыргычы менен берилди."
+    },
+    {
+      "kind": "substitution",
+      "subject": "kutkarbayt",
+      "rationale": "С corrected: kutkarmayt",
+      "note": "FIXME"
+    }
+  ],
+  "translation": "Анткени жааңа эмес, кылычыма да ишенбейм — ал мени kutkarbayt.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "65f1ccdf05b2ff8f2cf9345e6ccbdae8b33b8e6346fc3372310ba93d7a6de1f4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/44\/6-7.1791224435910.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Анткени"
+    },
+    {
+      "surface": "לא",
+      "gloss": "эмес"
+    },
+    {
+      "surface": "בקשתי",
+      "gloss": "жааңа"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "ишенбейм"
+    },
+    {
+      "surface": "וחרבי",
+      "gloss": "кылычыма да"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kutkarbayt"
+    },
+    {
+      "surface": "תושיעני",
+      "gloss": "мени kutkarbayt"
+    }
+  ],
+  "timestamp": "2026-10-05T18:20:35.910953345Z",
+  "model": "glm-5.3"
+}

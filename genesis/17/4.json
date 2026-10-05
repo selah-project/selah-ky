@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 17:4",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "болосуң",
+      "rationale": " והיית «болосуң» деген этиш — кыргызча туюм үчүн мүчө түрүндө берилди"
+    },
+    {
+      "kind": "crux",
+      "subject": "אתך",
+      "rationale": "бул את H854 «менен» предлоги (H853 объект белгиси эмес), бирок structура эрежеси боюнча ⟨את⟩ белгиси сакталды"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "המון גוים",
+      "rationale": "«элдердин көптүгү» — Аврахам аты менен укташ (ав-hamon gojim), кыргызча жоголгон"
+    }
+  ],
+  "translation": "Мен — мына, Менин келишимим ⟨את⟩ сен менен, жана сен элдердин көптүгүнүн атасы болосуң.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "f47baa7753d0bb5a943e020288da6fbeaf9d5e3b684fe2c215e96fdeac6e9a80",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/17\/4-4.1791223550350.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Мен"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "мына"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "келишимим"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "сен — бул жерде את жанаша мамиле катары «менен» маанисин кошот"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "болосуң"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "атасы"
+    },
+    {
+      "surface": "המון",
+      "gloss": "көптүгү"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "элдердин"
+    }
+  ],
+  "timestamp": "2026-10-05T18:05:50.351179011Z",
+  "model": "glm-5.3"
+}

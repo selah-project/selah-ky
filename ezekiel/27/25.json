@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 27:25",
+  "book": "ezekiel",
+  "lang": "ky",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שרותיך",
+      "rationale": "шуруу тамыры: 'кыдырып жүрүштү' (KJV 'ырдашты', ASV 'каравандар', JPS 'белек алып келишти')"
+    },
+    {
+      "kind": "substitution",
+      "subject": "оор болдуң",
+      "rationale": "כבד эфи 'оор' — байлыктан оорлондуң; 'даңкталдың' да мүмкүн"
+    }
+  ],
+  "translation": "Таршиш кемелери соодаңды кыдырып жүрүштү, жана сен деңиздердин жүрөгүндө өтө толдуң жана абдан оор болдуң.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "acf9f92b1b59575e8050dd0b1863f855f17b12ce101e31419276513b29bb8fec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ezekiel\/27\/25-28.1791212994593.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אניות",
+      "gloss": "кемелери"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "Таршиш"
+    },
+    {
+      "surface": "שרותיך",
+      "gloss": "соодаңды кыдырып жүрүштү"
+    },
+    {
+      "surface": "מערבך",
+      "gloss": "соодаң"
+    },
+    {
+      "surface": "ותמלאי",
+      "gloss": "жана толдуң"
+    },
+    {
+      "surface": "ותכבדי",
+      "gloss": "жана оор болдуң"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "өтө"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "жүрөгүндө"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "деңиздердин"
+    }
+  ],
+  "timestamp": "2026-10-05T15:09:54.593770118Z",
+  "model": "glm-5.3"
+}

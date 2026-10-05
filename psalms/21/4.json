@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 21:4",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תקדמנו",
+      "rationale": "KJV «preventest» (алдынан бардың) менен ASV «meetest» (тосуп алдың) — булakte «алдынан чыгуу» деген сүрөт сакталды"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "טוב ... ברכות",
+      "rationale": "«Жакшылык батаалары» — генделик конструкция, «жакшылыктын батасы» деп да которулат"
+    }
+  ],
+  "translation": "Анткени Сен аны жакшылык батаалары менен алдынан чыктың, анын башына таза алтындан таажы койдуң.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "6ee1fd41d4ce2ee00416719f0b5f4f425827e67a2f68b0305fa27a52e60697bd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/21\/1-4.1791215611213.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "תקדמנו",
+      "gloss": "аны ... алдынан чыктың"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "батаалары менен"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "жакшылык"
+    },
+    {
+      "surface": "תשית",
+      "gloss": "койдуң"
+    },
+    {
+      "surface": "לראשו",
+      "gloss": "башына"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "таажы"
+    },
+    {
+      "surface": "פז",
+      "gloss": "таза алтындан"
+    }
+  ],
+  "timestamp": "2026-10-05T15:53:31.214608941Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 32:11",
+  "book": "jeremiah",
+  "lang": "ky",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "החתום жана הגלוי",
+      "rationale": "Эки нуска: мөөрлөнгөн (сакталуучу) жана ачык (окулуучу) — котормолордо 'sealed\/open copy' деп бөлүнөт, кээ бирлери бир гана нуска деп окшоштурат."
+    },
+    {
+      "kind": "addition",
+      "subject": "нускасын",
+      "rationale": "Еврей текст 'мөөрлөнгөндү' дейт эле, түшүнүктүү болушу үчүн 'нуска' сөзү кошулду."
+    }
+  ],
+  "translation": "Жана мен алдым ⟨את⟩ сатып алуу китебин — ⟨את⟩ мөөрлөнгөн нускасаны, буйрук боюнча жана эрежелерди камтыганын, жана ⟨את⟩ ачык нускасаны.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "9b7130a7a1fb998a91b06686f9feb93646dac819e4c468f281bb9b957b223478",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/jeremiah\/32\/9-12.1791211498553.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואקח",
+      "gloss": "алдым"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сатып алуу китебин"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "китебин"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "сатып алуунун"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "мөөрлөнгөн нускасын"
+    },
+    {
+      "surface": "החתום",
+      "gloss": "мөөрлөнгөнүн"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "буйрук боюнча"
+    },
+    {
+      "surface": "והחקים",
+      "gloss": "жана эрежелерди"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ачык нускасын"
+    },
+    {
+      "surface": "הגלוי",
+      "gloss": "ачык нускасын"
+    }
+  ],
+  "timestamp": "2026-10-05T14:44:58.554100630Z",
+  "model": "glm-5.3"
+}

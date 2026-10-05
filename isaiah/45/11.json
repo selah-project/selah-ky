@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 45:11",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "האתיות שאלוני",
+      "rationale": "КЖВ\/JPS «сурагыла» — чакыруу; BSB «кантип сурабайсыңар» — нааразылык суроосу; жөн буйрук катары калды"
+    },
+    {
+      "kind": "substitution",
+      "subject": "האתיות",
+      "rationale": "Сөз «келүүчүлөр» — келечек нерселер; кыргызча «келүүчү нерселер» менен берилди"
+    }
+  ],
+  "translation": "Мындай дейт Яхве, Йисраэлдин Ыйыгы жана анын жаратуучусу: келүүчү нерселер жөнүндө Менден сурагыла, Менин уулдарым жөнүндө жана Менин колдумун иши жөнүндө Мага буйрук бергиле.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "f00f181a25d2a7170dcc90a7659cdea7860554cc94dcd89a86b630970e9f8f35",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/45\/9-12.1791210272566.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Мындай"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "дейт"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Ыйыгы"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэлдин"
+    },
+    {
+      "surface": "ויצרו",
+      "gloss": "жана анын жаратуучусу"
+    },
+    {
+      "surface": "האתיות",
+      "gloss": "келүүчү нерселер"
+    },
+    {
+      "surface": "שאלוני",
+      "gloss": "Менден сурагыла"
+    },
+    {
+      "surface": "על",
+      "gloss": "жөнүндө"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Менин уулдарым"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "жана жөнүндө"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "иши"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "Менин колдумун"
+    },
+    {
+      "surface": "тצוני",
+      "gloss": "Мага буйрук бергиле"
+    }
+  ],
+  "timestamp": "2026-10-05T14:24:32.567771952Z",
+  "model": "glm-5.3"
+}

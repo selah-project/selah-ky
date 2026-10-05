@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 20:22",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "өздөрүң",
+      "rationale": "אתם — басымдуу «силер өздөрүң», котормодо сакталды"
+    },
+    {
+      "kind": "elision",
+      "subject": "כי",
+      "rationale": "байланыш сыны; кыргызча тынчтык белгиси менен берилди"
+    },
+    {
+      "kind": "you",
+      "subject": "Йисраэл уулдарына",
+      "rationale": "Яхвенин сөзү Йисраэл уулдарына багытталган"
+    }
+  ],
+  "translation": "Яхве Мошеге мындай деди: Йисраэл уулдарына мындай де: Силер өздөрүң көрдүңөр — асмандан мен силер менен сүйлөштүм.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "598982cf26ea88b589891e70f8c1b4f6725367465155bc69cbe58aa5e3d6d2bb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/20\/21-24.1791202183438.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "мындай деди"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ке"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "כה",
+      "gloss": "мындай"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "де"
+    },
+    {
+      "surface": "אל",
+      "gloss": "га"
+    },
+    {
+      "surface": "בני",
+      "gloss": "уулдарына"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэл"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "силер өздөрүң"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "көрдүңөр"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "מן",
+      "gloss": "дан"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "асмандан"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "мен сүйлөштүм"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "силер менен"
+    }
+  ],
+  "timestamp": "2026-10-05T12:09:43.439666921Z",
+  "model": "glm-5.3"
+}

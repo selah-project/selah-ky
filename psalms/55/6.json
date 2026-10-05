@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 55:6",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 55,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "палáцут",
+      "rationale": "палáцут — денеңди киритип жиберүүчү чымыркай коркунуч; «зордук коркунуч» деп жумшартылды"
+    }
+  ],
+  "translation": "Коркуу жана калтыроо мага келди, жана зордук коркунуч мени каптады.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "5ae239ef97c42c3352964e5516d57741f85c1846c41c65d3502152908a7afc05",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/55\/5-8.1791216160748.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יראה",
+      "gloss": "коркуу"
+    },
+    {
+      "surface": "ורעד",
+      "gloss": "жана калтыроо"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "келди"
+    },
+    {
+      "surface": "בי",
+      "gloss": "мага"
+    },
+    {
+      "surface": "ותכסני",
+      "gloss": "мени каптады"
+    },
+    {
+      "surface": "פלצות",
+      "gloss": "зордук коркунуч"
+    }
+  ],
+  "timestamp": "2026-10-05T16:02:40.749564966Z",
+  "model": "glm-5.3"
+}

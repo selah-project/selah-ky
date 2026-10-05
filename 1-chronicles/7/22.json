@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 7:22",
+  "book": "1-chronicles",
+  "lang": "ky",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "коңул болду",
+      "rationale": "ויתאבל — «заңкылдап кайгырды», күңүрлөөнүн башка формасы."
+    },
+    {
+      "kind": "addition",
+      "subject": "көп күн",
+      "rationale": "Ивритте сан билдирбейт: «күндөр» көп санда, кыргызча «көп» кошулду."
+    }
+  ],
+  "translation": "Жана Эфрайим алардын атасы көп күнңүр коңул болду, жана ⟨анын⟩ бир туугандары аны жүрөктөнтүүгө келишти.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "82afb35ec53d4be1b9fda9111ba4d787a0f2b341136477fb20c53088a94f5ac3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-chronicles\/7\/21-24.1791221923265.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתאבל",
+      "gloss": "коңул болду"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Эфрайим"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "алардын атасы"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "күн"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "көп"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "жана келишти"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "анын бир туугандары"
+    },
+    {
+      "surface": "לנחמו",
+      "gloss": "аны жүрөктөнтүүгө"
+    }
+  ],
+  "timestamp": "2026-10-05T17:38:43.266276618Z",
+  "model": "glm-5.3"
+}

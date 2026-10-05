@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 1:1",
+  "book": "1-samuel",
+  "lang": "ky",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "эле",
+      "rationale": "Кыргызча «бар эле» айкашы еврейче ויהי ἀιש ἀχаддин түз эмес маанисин тартуулаш үчүн кошулду"
+    },
+    {
+      "kind": "measurement",
+      "subject": "теркеме",
+      "rationale": "Беш муунга чейинки тизме — Ярохам, Элиху, Тоху, Цуф, Элкана"
+    },
+    {
+      "kind": "crux",
+      "subject": "אפרתי",
+      "rationale": "«Эфраттык» же «Эфрайимдик»: KJV «an Ephrathite», JPS «an Ephraimite» — эки уруунун аталышы бир тамырдан"
+    }
+  ],
+  "translation": "Болду: Раматаим-Цофимден, Эфрайим тоосунан бир киши бар эле; анын аты Элкана — Ярохамдын уулу, Элихунун уулу, Тохунун уулу, Цуфтун уулу, эфраттык.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "1526a3718eeb1adf31a5ab9614213e1b59046a2d1c8f3c30d7108ab220d3b947",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-samuel\/1\/1-4.1791206611402.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "болду"
+    },
+    {
+      "surface": "איש",
+      "gloss": "киши"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бир"
+    },
+    {
+      "surface": "מן",
+      "gloss": "—ден"
+    },
+    {
+      "surface": "הרמתים",
+      "gloss": "Раматаим"
+    },
+    {
+      "surface": "צופים",
+      "gloss": "Цофим"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "тоодон"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Эфрайим"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "жана анын аты"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Элкана"
+    },
+    {
+      "surface": "בן",
+      "gloss": "уулу"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "Ярохам"
+    },
+    {
+      "surface": "בן",
+      "gloss": "уулу"
+    },
+    {
+      "surface": "אליהוא",
+      "gloss": "Элиху"
+    },
+    {
+      "surface": "בן",
+      "gloss": "уулу"
+    },
+    {
+      "surface": "תחו",
+      "gloss": "Тоху"
+    },
+    {
+      "surface": "בן",
+      "gloss": "уулу"
+    },
+    {
+      "surface": "צוף",
+      "gloss": "Цуф"
+    },
+    {
+      "surface": "אפרתי",
+      "gloss": "эфраттык"
+    }
+  ],
+  "timestamp": "2026-10-05T13:23:31.402944017Z",
+  "model": "glm-5.3"
+}

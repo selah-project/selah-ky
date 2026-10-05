@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 9:6",
+  "book": "numbers",
+  "lang": "ky",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жанына байланыштуу",
+      "rationale": "לנפש אדם 'адам нефешине' — өлгөн адамдын жанына тийгендиктен таза эмес болуу"
+    },
+    {
+      "kind": "addition",
+      "subject": "алардын ичинде",
+      "rationale": "Котормо контекстти байланыштыруу үчүн кошту; еврей текстинде жок"
+    }
+  ],
+  "translation": "Жана алардын ичинде адамдын жанына байланыштуу таза эмес болгон эркектер болду, ошол күнү Песахты өткөрө алышкан жок, ошол күнү алар Мошенин алдына жана Ахаарондун алдына келишти.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "ec93a7a2e7524f06c6e56cbc30a2ddc503da22f4aedc18b2974187a86cf7d735",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/numbers\/9\/5-8.1791203795883.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Жана... болду"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "эркектер"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "болгон"
+    },
+    {
+      "surface": "היו",
+      "gloss": "болгон"
+    },
+    {
+      "surface": "טמאים",
+      "gloss": "таза эмес"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "жанына байланыштуу"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "адамдын"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "алышкан"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "өткөрө"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Песахты"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "күнү"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ошол"
+    },
+    {
+      "surface": "ויקרבו",
+      "gloss": "жана алар келишти"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "алдына"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Мошенин"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "жана... алдына"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Ахаарондун"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "күнү"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ошол"
+    }
+  ],
+  "timestamp": "2026-10-05T12:36:35.884638567Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-chronicles 16:42",
+  "book": "1-chronicles",
+  "lang": "ky",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "турду",
+      "rationale": "Ивритте этиш жок — «дарбазага» деген мамиле гана бар; кыргызча сүйлөм бүтүшү үчүн ⟨турду⟩ кошулду."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ומצלתים",
+      "rationale": "Экилик сан (dual) — эки калкагы бар цимбалдар; кыргызча сан белгиси сакталган жок."
+    }
+  ],
+  "translation": "Алардын менен Хейман жана Йедутун — добуш чыгаруучуларга кернейлер жана цимбалдар, ошондой эле Элохимдин ыр аспаптары; жана Йедутундун уулдары дарбазада ⟨турду⟩.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "57f81b0feca48bbce70bd141720713744a0b577a58bb4d14a91d42f7815ef9ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-chronicles\/16\/41-43.1791222178465.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועמהם",
+      "gloss": "алардын менен"
+    },
+    {
+      "surface": "הימן",
+      "gloss": "Хейман"
+    },
+    {
+      "surface": "וידותון",
+      "gloss": "жана Йедутун"
+    },
+    {
+      "surface": "חצצרות",
+      "gloss": "кернейлер"
+    },
+    {
+      "surface": "ומצלתים",
+      "gloss": "жана цимбалдар"
+    },
+    {
+      "surface": "למשמיעים",
+      "gloss": "добуш чыгаруучуларга"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "жана аспаптары"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "ырдын"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Элохимдин"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "жана уулдары"
+    },
+    {
+      "surface": "ידותון",
+      "gloss": "Йедутундун"
+    },
+    {
+      "surface": "לשער",
+      "gloss": "дарбазада"
+    }
+  ],
+  "timestamp": "2026-10-05T17:42:58.466245961Z",
+  "model": "glm-5.3"
+}

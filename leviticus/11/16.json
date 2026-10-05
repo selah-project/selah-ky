@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 11:16",
+  "book": "leviticus",
+  "lang": "ky",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "бат היענה",
+      "rationale": "Lit. 'daughter of the ya'anah' — Hebrew idiom for a bird species; rendered 'яана кызы' keeping the literal shape."
+    },
+    {
+      "kind": "crux",
+      "subject": "התחמס",
+      "rationale": "'Night hawk' (KJV) vs 'owl' — uncertain species; transliterated тахмес."
+    },
+    {
+      "kind": "hapax",
+      "subject": "השחף",
+      "gloss": "шахап — likely 'gull\/lapwing', occurs only in the unclean-bird lists; transliterated."
+    }
+  ],
+  "translation": "жана ⟨את⟩ яана кызын, жана ⟨את⟩ тахместерди, жана ⟨את⟩ шахапты, жана ⟨את⟩ нецти анын түрү боюнча.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "d3d0184346def9ce19653054fc240a4e7c449dba372d5bf4ba2acc167f77440e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/11\/13-16.1791202967398.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "жана ⟨את⟩",
+      "marks": "яана кызын"
+    },
+    {
+      "surface": "בת",
+      "gloss": "кызын"
+    },
+    {
+      "surface": "היענה",
+      "gloss": "яана"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "жана ⟨את⟩",
+      "marks": "тахместерди"
+    },
+    {
+      "surface": "התחמס",
+      "gloss": "тахместерди"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "жана ⟨את⟩",
+      "marks": "шахапты"
+    },
+    {
+      "surface": "השחף",
+      "gloss": "шахапты"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "жана ⟨את⟩",
+      "marks": "нецти"
+    },
+    {
+      "surface": "הנץ",
+      "gloss": "нецти"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "анын түрү боюнча"
+    }
+  ],
+  "timestamp": "2026-10-05T12:22:47.399765681Z",
+  "model": "glm-5.3"
+}

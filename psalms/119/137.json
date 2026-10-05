@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 137,
+  "ref": "psalms 119:137",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "барсың",
+      "rationale": "Еврейче жок болгон копула, кыргызча талап кылат"
+    },
+    {
+      "kind": "substitution",
+      "subject": "түз",
+      "rationale": "וישר — сөз маанисинде 'түз, туура', геометриялык эмес"
+    }
+  ],
+  "translation": "Цедек ⟨барсың⟩, Яхве, жана өкүмдөрүң түз.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "b987db0bca1f7e9f00ff1062d3b0206eed3bf04da98588dd2b441e88a71559a4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/119\/137-140.1791217404277.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "Цедек"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Сен"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "жана түз"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "өкүмдөрүң"
+    }
+  ],
+  "timestamp": "2026-10-05T16:23:24.278029872Z",
+  "model": "glm-5.3"
+}

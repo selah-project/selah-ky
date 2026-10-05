@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 61:6",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 61,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "байлык",
+      "rationale": "חיל — күч, аскер, байлык маанилерин камтыт; бул жерде байлык"
+    },
+    {
+      "kind": "crux",
+      "subject": "мактанасыңар",
+      "rationale": "ימר — алмашуу; KJV «боаст», JPS «ревел» — мактануу же алмашуу"
+    }
+  ],
+  "translation": "Ал эми силер Яхвенин ыйык кызмат кылуучулары деп аталасыңар, «биздин Элохимдин кызматчылары» деп айтылат силерге; элдердин байлыгын жейтсиңер жана алардын даңкы менен мактанасыңар.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "c489af6f3f13a43d2ea2e976fda700f782fbea5b87b2526aa609737e7dfe9e9a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/61\/5-8.1791210586564.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "Ал эми силер"
+    },
+    {
+      "surface": "כהני",
+      "gloss": "ыйык кызмат кылуучулары"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    },
+    {
+      "surface": "תקראו",
+      "gloss": "аталасыңар"
+    },
+    {
+      "surface": "משרתי",
+      "gloss": "кызматчылары"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "биздин Элохимдин"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "айтылат"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "силерге"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "байлыгы"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "элдердин"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "жейтсиңер"
+    },
+    {
+      "surface": "ובכבודם",
+      "gloss": "жана алардын даңкы менен"
+    },
+    {
+      "surface": "תתימרו",
+      "gloss": "мактанасыңар"
+    }
+  ],
+  "timestamp": "2026-10-05T14:29:46.565313348Z",
+  "model": "glm-5.3"
+}

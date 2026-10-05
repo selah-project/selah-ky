@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 126:1",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 126,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "шиват",
+      "rationale": "שִׁיבַת: «кайтуу» же «туткундук» — эки окулуш бар."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שׁוּב \/ שִׁיבַת",
+      "rationale": "Тамырдын кайталанышы: «кайтаруу» жана «кайтуу» — кыргызча да угулат, бирок ичкери."
+    }
+  ],
+  "translation": "Өрүүлөргө чыгуу ыры. Яхве Цийондун ⟨את⟩ кайтуусун кайтарганда, биз түш көргөндөргө окшош болдук.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "798ea3a92aec631aa94802c46f21659af8b3879b66171e9128c6eba126b5d4e0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/126\/1-4.1791217461282.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "ыры"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "өрүүлөргө чыгуу"
+    },
+    {
+      "surface": "בשוב",
+      "gloss": "кайтарганда"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Цийондун кайтуусун"
+    },
+    {
+      "surface": "שיבת",
+      "gloss": "кайтуусун"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Цийондун"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "болдук"
+    },
+    {
+      "surface": "כחלמים",
+      "gloss": "түш көргөндөргө окшош"
+    }
+  ],
+  "timestamp": "2026-10-05T16:24:21.282950048Z",
+  "model": "glm-5.3"
+}

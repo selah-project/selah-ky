@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 19:32",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "לכה",
+      "rationale": "«Кел» — чоң кыздын кичинесине чакырыгы, императив"
+    },
+    {
+      "kind": "substitution",
+      "subject": "шарап ичирели",
+      "rationale": "נשקה «ичирүү» — causативдүү форма, «ичирейли» деген мааниде"
+    }
+  ],
+  "translation": "Кел, атабызга шарап ичирели, анын менен жатайлы жана атабыздан ⟨את⟩ үрөн сактап калайлы.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "6ad502ade1fdb4efb1ff85e0c024d0dc15b21e11666a50ad9b7313f5d845efb2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/19\/29-32.1791201050902.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכה",
+      "gloss": "Кел"
+    },
+    {
+      "surface": "נשקה",
+      "gloss": "ичирели"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "атабыз"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "атабызга"
+    },
+    {
+      "surface": "יין",
+      "gloss": "шарап"
+    },
+    {
+      "surface": "ונשכבה",
+      "gloss": "жатайлы"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "анын менен"
+    },
+    {
+      "surface": "ונחיה",
+      "gloss": "сактап калайлы"
+    },
+    {
+      "surface": "מאבינו",
+      "gloss": "атабыздан"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "үрөн"
+    }
+  ],
+  "timestamp": "2026-10-05T11:50:50.904661844Z",
+  "model": "glm-5.3"
+}

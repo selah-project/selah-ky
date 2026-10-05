@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 23:16",
+  "book": "proverbs",
+  "lang": "ky",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "бөйрөктөр",
+      "rationale": "כליות — бөйрөк, ички жүрөк-ой маанисинде; көп котормолор «ичким» деп жумшартат, бул жерде накта сүрөт сакталды."
+    },
+    {
+      "kind": "you",
+      "subject": "уулга",
+      "rationale": "«Эриндериң» — 15-аяттагы уулга кайрылуунун уландысы."
+    }
+  ],
+  "translation": "Жана бөйрөктөрүм, эриндериң түз нерселерди сүйлөгөндө, кубанып секирет.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "96a9b9ddd36e1155736ed5332b558b0e743fad86951c86557d3ff0f5f9f724dd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/23\/13-16.1791218304941.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותעלזנה",
+      "gloss": "кубанып секирет"
+    },
+    {
+      "surface": "כליותי",
+      "gloss": "бөйрөктөрүм"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "сүйлөгөндө"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "эриндериң"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "түз нерселерди"
+    }
+  ],
+  "timestamp": "2026-10-05T16:38:24.942800275Z",
+  "model": "glm-5.3"
+}

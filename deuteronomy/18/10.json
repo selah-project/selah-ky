@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 18:10",
+  "book": "deuteronomy",
+  "lang": "ky",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "קסם קסמים",
+      "rationale": "Бир тамырдын кайталоосу — «кемчил кемчилдиктерди»."
+    },
+    {
+      "kind": "crux",
+      "subject": "מעונן",
+      "rationale": "Тамыры ענן «булут»: булуткор (белгилерди булуттан окуган) же жашыруун аракет кылган сыйкырчы."
+    },
+    {
+      "kind": "hapax-adjacent",
+      "subject": "מנחש",
+      "rationale": "Лашуну ышкырып сыбыраган — жышаандарды билдирүүчү пайгамбарга каршы практика, кыргызча «жышаанчы» сүрөттү кармайт."
+    }
+  ],
+  "translation": "Сенин араныңда өз уулун же кызын оттон өткөрүүчү, сыйкырчы-кемчил, булуткор, жышаанчы жана сыйкырчы табылбашы керек.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "2d78e60d156a9819c1ba92c9c919e8d3bccb2a65f0cc314098737ff1131d3bb9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/18\/9-12.1791205074095.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "табылбашы керек"
+    },
+    {
+      "surface": "בך",
+      "gloss": "сенин араныңда"
+    },
+    {
+      "surface": "מעביר",
+      "gloss": "өткөрүүчү"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "өз уулун"
+    },
+    {
+      "surface": "ובתו",
+      "gloss": "же кызын"
+    },
+    {
+      "surface": "באש",
+      "gloss": "оттон"
+    },
+    {
+      "surface": "קסם",
+      "gloss": "сыйкырчы-кемчил"
+    },
+    {
+      "surface": "קסמים",
+      "gloss": "кемчилдиктерди"
+    },
+    {
+      "surface": "מעונן",
+      "gloss": "булуткор"
+    },
+    {
+      "surface": "ומנחש",
+      "gloss": "жышаанчы"
+    },
+    {
+      "surface": "ומכשף",
+      "gloss": "жана сыйкырчы"
+    }
+  ],
+  "timestamp": "2026-10-05T12:57:54.096584136Z",
+  "model": "glm-5.3"
+}

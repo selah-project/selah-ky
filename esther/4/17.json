@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "esther 4:17",
+  "book": "esther",
+  "lang": "ky",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Жана",
+      "rationale": "вав байламтасы кыргызча байланыш үчүн «Жана» катары берилди"
+    },
+    {
+      "kind": "substitution",
+      "subject": "өтүп кетти",
+      "rationale": "ויעבר — «өтүү, өтө кетүү»; көп котормолор «кетти жолуна» деп жумшартышат"
+    }
+  ],
+  "translation": "Жана Мордехай өтүп кетти, Эстер ага буйруган нерселердин баарысын кылды.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "6e71a439607a10edb43fa75f54b34f901436b59a24a2304d00f5ce4c7fa47d79",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/esther\/4\/17-17.1791220158172.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "өтүп кетти"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Мордехай"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "кылды"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "баарысын"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "нерселердин"
+    },
+    {
+      "surface": "צותה",
+      "gloss": "буйруган"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ага"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Эстер"
+    }
+  ],
+  "timestamp": "2026-10-05T17:09:18.173358585Z",
+  "model": "glm-5.3"
+}

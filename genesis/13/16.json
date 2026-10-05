@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 13:16",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "жөнөтөт алса",
+      "rationale": "יוכל — «жөнөтө алат», кыргызча этиш формасы үчүн кошумча сөз"
+    },
+    {
+      "kind": "measurement",
+      "subject": "санай алса ... саналат",
+      "rationale": "Аят саноо темасын көтөрөт — үрөн жердин топурагындай санап бүтүлгүс"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "למנות\/ימנה",
+      "rationale": "Этеш дайыма дал келет: «санай алса — саналат», ошол эле тамыр эки жолу"
+    }
+  ],
+  "translation": "Мен ⟨את⟩ сенин үрөнүңдү жердин топурагындай кыламын; эгер бир киши жердин ⟨את⟩ топурагын санай алса, сенин үрөнүң дагы саналат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "fb7b0b09cf813fcf2f419309de432538dbcccba124745701fb1b89183b9c70d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/13\/13-16.1791200918936.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "Мен ... кыламын"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сенин үрөнүңдү"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "сенин үрөнүңдү"
+    },
+    {
+      "surface": "кעפר",
+      "gloss": "топурагындай"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "жердин"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "...са"
+    },
+    {
+      "surface": "אם",
+      "gloss": "эгер"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "жөнөтөт алса"
+    },
+    {
+      "surface": "איש",
+      "gloss": "киши"
+    },
+    {
+      "surface": "למנות",
+      "gloss": "санай"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "топурагын"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "топурагын"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "жердин"
+    },
+    {
+      "surface": "גם",
+      "gloss": "дагы"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "үрөнүң"
+    },
+    {
+      "surface": "ימנה",
+      "gloss": "саналат"
+    }
+  ],
+  "timestamp": "2026-10-05T11:48:38.937387205Z",
+  "model": "glm-5.3"
+}

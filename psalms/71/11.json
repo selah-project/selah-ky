@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 71:11",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 71,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "аны",
+      "rationale": "еврейче объект ותפשוהү ичинде; кыргызча тактоо үчүн кошулду"
+    },
+    {
+      "kind": "substitution",
+      "subject": "кууп алуучу",
+      "rationale": "מציל — «жулуп алуучу, куткаруучу»; душмандардын сөзүндө «куткаруучу жок» деген маани"
+    }
+  ],
+  "translation": "Айтышкан: Элохим аны таштады, куугунла жана кармап алгыла, анткени аны кууп алуучу жок.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "0a567c5678e44f387d883d9244ab60c27e0aa82207404392feee9e08fb9363d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/71\/9-12.1791216410435.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "айтышкан"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "таштады"
+    },
+    {
+      "surface": "רדפו",
+      "gloss": "куугунла"
+    },
+    {
+      "surface": "ותפשוהו",
+      "gloss": "жана кармап алгыла"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "אין",
+      "gloss": "жок"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "кууп алуучу"
+    }
+  ],
+  "timestamp": "2026-10-05T16:06:50.436636089Z",
+  "model": "glm-5.3"
+}

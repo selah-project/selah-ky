@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 6:3",
+  "book": "2-kings",
+  "lang": "ky",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "жана",
+      "rationale": "Байламта вав кыргызча сүйлөм башына кошулду."
+    },
+    {
+      "kind": "elision",
+      "subject": "הואל",
+      "rationale": "«ынтызар бол, макул бол» маанисиндеги сейрек этиш кыска «макул бол» деп берилди."
+    }
+  ],
+  "translation": "Жана бирөө айтты: Суранам, макул болуп, ⟨את⟩ кулдарың менен бар. Ал айтты: Мен барамын.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "ec4418d02451f2c11171621883be98d05d20a2646d11941f87f9b0c06bdf6039",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-kings\/6\/1-4.1791208727818.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "жана айтты"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "бирөө"
+    },
+    {
+      "surface": "הואל",
+      "gloss": "макул бол"
+    },
+    {
+      "surface": "נא",
+      "gloss": "суранам"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "бар"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "кулдарың"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "кулдарың менен"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ал айтты"
+    },
+    {
+      "surface": "אני",
+      "gloss": "мен"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "барамын"
+    }
+  ],
+  "timestamp": "2026-10-05T13:58:47.820174775Z",
+  "model": "glm-5.3"
+}

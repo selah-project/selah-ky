@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 7:9",
+  "book": "job",
+  "lang": "ky",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Шеол",
+      "rationale": "שאול «тозок» деп которулбайт — бул өлгөндөрдүн дүйнөсү, жаза эмес"
+    },
+    {
+      "kind": "addition",
+      "subject": "киши",
+      "rationale": "Еврейче текст «түшкөн» дейт эле, ээси көрсөтүлгөн жок"
+    }
+  ],
+  "translation": "Булут тарап кетет, ошондой эле Шеолго түшкөн киши кайра чыкпайт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "47739897109f69893f391a71de4f6bad46473a337a7876d61244a8041a03378c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/job\/7\/9-12.1791218621441.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כלה",
+      "gloss": "тарап"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "булут"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "кетет"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ошондой эле"
+    },
+    {
+      "surface": "יורד",
+      "gloss": "түшкөн"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шеолго"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "чыкпайт"
+    }
+  ],
+  "timestamp": "2026-10-05T16:43:41.441816818Z",
+  "model": "glm-5.3"
+}

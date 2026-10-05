@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 103:3",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 103,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "күнөө",
+      "rationale": "עון — «бурмалануу, кыйшайуу» деген сөз, «күнөө» дегеннен кеңири сүрөт"
+    },
+    {
+      "kind": "addition",
+      "subject": "Ал",
+      "rationale": "Еврейде этиштик ат атооч «кечирүүчү» деп башталат; «Ал» жама керек болду"
+    }
+  ],
+  "translation": "Ал бардык күнөөңдү кечирет, бардык оорулуңдукту айыктырат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "5d7842f1cc76a792b5698e3ac41f741f2510068c2c0a3b2077e97ee9b4e2d2b4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/103\/1-4.1791216990359.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הסלח",
+      "gloss": "кечирет"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "бардык"
+    },
+    {
+      "surface": "עונכי",
+      "gloss": "күнөөңдү"
+    },
+    {
+      "surface": "הרפא",
+      "gloss": "айыктырат"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "бардык"
+    },
+    {
+      "surface": "גחלאיכי",
+      "gloss": "оорулуңдукту"
+    }
+  ],
+  "timestamp": "2026-10-05T16:16:30.360273186Z",
+  "model": "glm-5.3"
+}

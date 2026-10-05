@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 107:17",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "акмактар",
+      "rationale": "אוילילим — 'акылсыздар', наадандар; жөн гана 'теленгиттер' эмес"
+    },
+    {
+      "kind": "crux",
+      "subject": "жапа чегишти",
+      "rationale": "יתענו: 'жапа чегишти' (KJV) же 'өздөрүн жапа чекттиришти' (YLT) — этиш өтө жышаангы мүмкүн"
+    }
+  ],
+  "translation": "Аялдар... жок — Акмак тушкүн жолдорунан жана мыйзамсыздыктарынан жапа чегишти.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "1e577dc82f5be701837c6c340edddc98eb479b6e24012baef21928cfe320d6c8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/107\/17-20.1791217139081.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אולים",
+      "gloss": "акмактар"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "жолунан"
+    },
+    {
+      "surface": "פשעם",
+      "gloss": "түшкүнлүгүнөн"
+    },
+    {
+      "surface": "ומעונתיהם",
+      "gloss": "жана мыйзамсыздыктарынан"
+    },
+    {
+      "surface": "יתענו",
+      "gloss": "жапа чегишти"
+    }
+  ],
+  "timestamp": "2026-10-05T16:18:59.084391580Z",
+  "model": "glm-5.3"
+}

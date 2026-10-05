@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "ezra 2:55",
+  "book": "ezra",
+  "lang": "ky",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ha-Сопереттин",
+      "rationale": "הספרת carries the article ה; the name may be a common noun 'the scribe' rather than a proper name."
+    },
+    {
+      "kind": "measurement",
+      "subject": "name list",
+      "rationale": "Census of Solomon's servants' descendants returning from exile."
+    },
+    {
+      "kind": "addition",
+      "subject": "colon",
+      "rationale": "Hebrew has no punctuation; colon supplied to mark the head of the list."
+    }
+  ],
+  "translation": "Шеломохтун кулдарынын балдары: Сотайдын балдары, ha-Сопереттин балдары, Перуданын балдары.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "d973d15431e85b1686359f8e3461bd5deb0a48e312e8031db5d3132a6b7e3786",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ezra\/2\/53-56.1791220979539.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "балдары"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "кулдарынын"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шеломохтун"
+    },
+    {
+      "surface": "בני",
+      "gloss": "балдары"
+    },
+    {
+      "surface": "סוטי",
+      "gloss": "Сотайдын"
+    },
+    {
+      "surface": "בני",
+      "gloss": "балдары"
+    },
+    {
+      "surface": "הספרת",
+      "gloss": "ha-Сопереттин"
+    },
+    {
+      "surface": "בני",
+      "gloss": "балдары"
+    },
+    {
+      "surface": "פרודא",
+      "gloss": "Перуданын"
+    }
+  ],
+  "timestamp": "2026-10-05T17:22:59.539956990Z",
+  "model": "glm-5.3"
+}

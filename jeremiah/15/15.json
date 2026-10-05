@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 15:15",
+  "book": "jeremiah",
+  "lang": "ky",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Яхвеге",
+      "rationale": "Иеремия直接 обращается к Яхве с мольбой"
+    },
+    {
+      "kind": "crux",
+      "subject": "לארך אפך",
+      "rationale": "'в долготерпении Твоём' (буквально 'в длине ноздри Твоей') — идиома терпения, соединена с אפך"
+    },
+    {
+      "kind": "elision",
+      "subject": "אפך",
+      "rationale": "'гнев Твой' слит с идиомой долготерпения в одно выражение 'узак чыдамкайлыгыңда'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אף",
+      "rationale": "буквально 'нос\/ноздря' — идиома гнева или долготерпения"
+    }
+  ],
+  "translation": "Сен билесиң, Яхве, мени эстеп, мени көрүп, куугунчуларымнан менин өчүмдү ал; узак чыдамкайлыгыңда мени алып койбо; бил: Сен үчүн кордук көтөрдүм.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "bf44da90949b574866251e893d608753e57f1e78ad6bf3b7fe2cdcb921691d28",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/jeremiah\/15\/13-16.1791211047779.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Сен"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "билесиң"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "זכרני",
+      "gloss": "мени эстеп"
+    },
+    {
+      "surface": "ופקדני",
+      "gloss": "мени көрүп"
+    },
+    {
+      "surface": "והנקם",
+      "gloss": "өчүмдү ал"
+    },
+    {
+      "surface": "לי",
+      "gloss": "менин"
+    },
+    {
+      "surface": "מרדפי",
+      "gloss": "куугунчуларымнан"
+    },
+    {
+      "surface": "אל",
+      "gloss": "койбо"
+    },
+    {
+      "surface": "לארך",
+      "gloss": "узак чыдамкайлыгыңда"
+    },
+    {
+      "surface": "אפך",
+      "gloss": ""
+    },
+    {
+      "surface": "תקחני",
+      "gloss": "мени алып"
+    },
+    {
+      "surface": "דע",
+      "gloss": "бил"
+    },
+    {
+      "surface": "שאתי",
+      "gloss": "көтөрдүм"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "Сен үчүн"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "кордук"
+    }
+  ],
+  "timestamp": "2026-10-05T14:37:27.781443630Z",
+  "model": "glm-5.3"
+}

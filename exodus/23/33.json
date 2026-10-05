@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 23:33",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "פן",
+      "rationale": "«болбосо\/анткени ... мүмкүн» — коркуу-эскертүү байламтасы, кыргызча шарттуу маани менен берилди"
+    },
+    {
+      "kind": "substitution",
+      "subject": "кудайлары",
+      "rationale": "אלהיהם бул жерде башка элдердин кудайлары — кичине тамга менен «кудайлар»"
+    },
+    {
+      "kind": "you",
+      "subject": "Йисраэлге",
+      "rationale": "Жалпы адресат — Мицрайимден чыгып жаткан Йисраэл эли"
+    }
+  ],
+  "translation": "Алар сенин жериңде турбашы керек, анткени алар сени Мага каршы күнөө кылууга азгырышы мүмкүн, себеби сен алардын кудайларына кызмат кылсаң, алар сага тузак болот.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "b3d37afa934727eef74f9bdd1f970ca506dd9c4c77c87c5c23210b24122fa317",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/23\/33-33.1791202255329.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "турбашы керек"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "сенин жериңде"
+    },
+    {
+      "surface": "פן",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "יחטיאו",
+      "gloss": "азгырышы мүмкүн"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "сени"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Мага каршы"
+    },
+    {
+      "surface": "כי",
+      "gloss": "себеби"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "кызмат кылсаң"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "кудайларына"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "алардын кудайларына"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "болот"
+    },
+    {
+      "surface": "לך",
+      "gloss": "сага"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "тузак"
+    }
+  ],
+  "timestamp": "2026-10-05T12:10:55.330259570Z",
+  "model": "glm-5.3"
+}

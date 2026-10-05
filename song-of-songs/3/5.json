@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 3:5",
+  "book": "song-of-songs",
+  "lang": "ky",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בצבאות",
+      "rationale": "Бул жерде צבאות — «жейрандар» (צביהнын көп саны), Яхве Цебаот деген ысым менен окшош жазылыш, бирок байланышы жок."
+    },
+    {
+      "kind": "you",
+      "subject": "Йерушалайимдин кыздарына",
+      "rationale": "Түз кайрылуу — ант формасында клиша кабар."
+    }
+  ],
+  "translation": "Мен ⟨את⟩ силерди анттырдым, Йерушалайимдин кыздары, жейрандар же талаа буландары менен: ⟨את⟩ сүйүүнү ойготпоңуз жана тынчын албаңуз, ал каалаганга чейин.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "48fa7a29f10decce6ab0f3002e71442ed7dc27e7e8d6de591df172940d227039",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/song-of-songs\/3\/5-8.1791219579687.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "השבעתי",
+      "gloss": "анттырдым"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ силерди",
+      "marks": "Йерушалайимдин кыздары"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "кыздары"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Йерушалайимдин"
+    },
+    {
+      "surface": "בצבאות",
+      "gloss": "жейрандар"
+    },
+    {
+      "surface": "או",
+      "gloss": "же"
+    },
+    {
+      "surface": "באילות",
+      "gloss": "буландары"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "талаанын"
+    },
+    {
+      "surface": "אם",
+      "gloss": "эгер"
+    },
+    {
+      "surface": "תעירו",
+      "gloss": "ойготсоңуз"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "жана эгер"
+    },
+    {
+      "surface": "תעוררו",
+      "gloss": "тынчын алсаңуз"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сүйүүнү"
+    },
+    {
+      "surface": "האהבה",
+      "gloss": "сүйүүнү"
+    },
+    {
+      "surface": "עד",
+      "gloss": "чейин"
+    },
+    {
+      "surface": "שתחפץ",
+      "gloss": "ал каалаганга"
+    }
+  ],
+  "timestamp": "2026-10-05T16:59:39.687881411Z",
+  "model": "glm-5.3"
+}

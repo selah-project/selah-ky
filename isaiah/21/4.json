@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 21:4",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ал⟩",
+      "rationale": "Ивритте этиштин субъектиси жок; кыргызча сүйлөм талап кылгандыктан ⟨ал⟩ кошулду."
+    },
+    {
+      "kind": "crux",
+      "subject": "נשף",
+      "rationale": "נשף — «күңүлтүш \/ алакандын караңгылыгы» же «түн»; кейипкердин сүйгөн түнү коркууга айланганы."
+    }
+  ],
+  "translation": "Жүрөгүм адашты, титиреэ мени чочитту; ⟨ал⟩ сүйгөнүмдүн күңүлтүшүн ⟨את⟩ мага титиреге айландырды.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "75ad1e40dba5f69429b035087f8bd8929945858256804858b38a0d6746d47e1c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/21\/1-4.1791209722062.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תעה",
+      "gloss": "адашты"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "жүрөгүм"
+    },
+    {
+      "surface": "פלצות",
+      "gloss": "титиреэ"
+    },
+    {
+      "surface": "בעתתני",
+      "gloss": "мени чочитту"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "күңүлтүшүн"
+    },
+    {
+      "surface": "נשף",
+      "gloss": "күңүлтүшү"
+    },
+    {
+      "surface": "חשקי",
+      "gloss": "сүйгөнүмдүн"
+    },
+    {
+      "surface": "שם",
+      "gloss": "айландырды"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мага"
+    },
+    {
+      "surface": "לחרדה",
+      "gloss": "титиреге"
+    }
+  ],
+  "timestamp": "2026-10-05T14:15:22.063742253Z",
+  "model": "glm-5.3"
+}

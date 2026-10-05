@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 106:15",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 106,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "напшы",
+      "rationale": "נפש — «жан» эмес, дем алуучу жандык, жашаа күчү; кыргызча эң жакыны «напшы» деген сөзсүз транслитерация"
+    },
+    {
+      "kind": "hapax",
+      "subject": "רזון",
+      "rationale": "«арыктык» — бул сөз Танахта сейрек кездешет, сөзмө-сөз сүрөтү сакталды"
+    }
+  ],
+  "translation": "Жана аларга сурамдарын берди, бирок напшыларына арыктык жөнөттү.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "6057f115937366e718ba43b3c279106224f51f088d9364b8175cbc3144ec018d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/106\/13-16.1791217110100.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "берди"
+    },
+    {
+      "surface": "להם",
+      "gloss": "аларга"
+    },
+    {
+      "surface": "שאלתם",
+      "gloss": "сурамдарын"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "жөнөттү"
+    },
+    {
+      "surface": "רזון",
+      "gloss": "арыктык"
+    },
+    {
+      "surface": "בנפשם",
+      "gloss": "напшыларына"
+    }
+  ],
+  "timestamp": "2026-10-05T16:18:30.103795697Z",
+  "model": "glm-5.3"
+}

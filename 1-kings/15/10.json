@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 15:10",
+  "book": "1-kings",
+  "lang": "ky",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "кырк бир жыл",
+      "rationale": "падышачылыктын узактыгы саны менен берилген"
+    },
+    {
+      "kind": "crux",
+      "subject": "энеси",
+      "rationale": "אמו «эне», бирок Мааха Асанын чоң энеси болушу мүмкүн (BSB «grandmother»), йехудалык салтта «эне» падышанын улуу аялын да билдирет"
+    }
+  ],
+  "translation": "Жана кырк бир жыл Йерушалайимде башкарады; анын энесинин аты Мааха, Авшаломдун кызы.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "ec9ef6b61e5365a130cda9d0125011fa2d62dea08417bea72f164226365200cd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-kings\/15\/9-12.1791208391626.json",
+    "code": "641241cf-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וארבעים",
+      "gloss": "жана кырк"
+    },
+    {
+      "surface": "ואחת",
+      "gloss": "бир"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "жыл"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "башкарады"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Йерушалайимде"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "жана аты"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "энесинин"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Мааха"
+    },
+    {
+      "surface": "בת",
+      "gloss": "кызы"
+    },
+    {
+      "surface": "אבישלום",
+      "gloss": "Авшаломдун"
+    }
+  ],
+  "timestamp": "2026-10-05T13:53:11.627627686Z",
+  "model": "glm-5.3"
+}

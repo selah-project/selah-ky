@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 32:25",
+  "book": "deuteronomy",
+  "lang": "ky",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨аларды⟩",
+      "rationale": "Иврит тилинде объекттүү ээлик көрсөткүч жок, алардан улам пайда болгон"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ажыратат",
+      "rationale": "שכל тексти 'түшүүгө' жакын — баласынан ажыроо, бул жерде жалпы мааниде колдонулат"
+    }
+  ],
+  "translation": "Тышта кылыч ⟨аларды⟩ ажыратат, бөлмөлөрдө болсо коркунуч — жигитти да, кызды да, эмизилүүчү баланы да карыган адам менен.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "8d1b1549e239f3380cd48fafebfae17d476469fb90b7d3f5f3e2b986e774c252",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/32\/25-28.1791205436122.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מחוץ",
+      "gloss": "тышта"
+    },
+    {
+      "surface": "תשכל",
+      "gloss": "ажыратат"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "кылыч"
+    },
+    {
+      "surface": "ומחדרים",
+      "gloss": "жана бөлмөлөрдө"
+    },
+    {
+      "surface": "אימה",
+      "gloss": "коркунуч"
+    },
+    {
+      "surface": "גם",
+      "gloss": "да"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "жигитти"
+    },
+    {
+      "surface": "גם",
+      "gloss": "да"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "кызды"
+    },
+    {
+      "surface": "יונק",
+      "gloss": "эмизилүүчү баланы"
+    },
+    {
+      "surface": "עם",
+      "gloss": "менен"
+    },
+    {
+      "surface": "איש",
+      "gloss": "адамды"
+    },
+    {
+      "surface": "שיבה",
+      "gloss": "кариган"
+    }
+  ],
+  "timestamp": "2026-10-05T13:03:56.123384357Z",
+  "model": "glm-5.3"
+}

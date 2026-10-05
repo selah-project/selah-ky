@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 47:9",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 47,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "падышачылык кылды",
+      "rationale": "מלך перфектти — «тактыга отурду» деп да ок不一; кыргызча «падышачылык кылды» инцептив маанини берет"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨את⟩",
+      "rationale": "котормодо ⟨את⟩ маркери тактынын үстүнө деген объектиге эмес, туура эмес жайгашкан сыяктуу — бул жерде את жок деген текшерүү: текстте את жок, маркер кошулган жок"
+    }
+  ],
+  "translation": "Элохим элдер үстүнөн падышачылык кылды, Элохим ⟨את⟩ ыйык тактысынын үстүнө отурду.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "2cdf1c7bfa7a6d88c56939cd2a2fd8ef6e560d347d67c36d08b2408182d00591",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/47\/9-10.1791216041937.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "падышачылык кылды"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстүнөн"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "элдер"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "отурду"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстүнө"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "тактысынын"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "ыйык"
+    }
+  ],
+  "timestamp": "2026-10-05T16:00:41.937803521Z",
+  "model": "glm-5.3"
+}

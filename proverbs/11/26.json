@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 11:26",
+  "book": "proverbs",
+  "lang": "ky",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יקבהו",
+      "rationale": "бул жерде קבב (каргыш айт) тамыры; сөздүктөгי נקב (тешиү) эмес — котормолордун баары «каргайт» дейт"
+    },
+    {
+      "kind": "substitution",
+      "subject": "בר",
+      "rationale": "בר — эгин данды талаада турган кезинде да түшүнөт; «дан» кылып алынды"
+    }
+  ],
+  "translation": "Данды кармап турганга эл каргыш айтат, ал эми сатып жүргөндүн башына береке тийет.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "d27d585a90bc99d96c8d9dd6edc124656d194a7c8b74ddacd919acd2aaa7e207",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/11\/25-28.1791218000180.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מנע",
+      "gloss": "кармап турганга"
+    },
+    {
+      "surface": "בר",
+      "gloss": "дан"
+    },
+    {
+      "surface": "יקבהו",
+      "gloss": "каргаш айтат"
+    },
+    {
+      "surface": "לאום",
+      "gloss": "эл"
+    },
+    {
+      "surface": "וברכה",
+      "gloss": "береке"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "башына"
+    },
+    {
+      "surface": "משביר",
+      "gloss": "сатып жүргөн"
+    }
+  ],
+  "timestamp": "2026-10-05T16:33:20.181141126Z",
+  "model": "glm-5.3"
+}

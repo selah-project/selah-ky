@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 103:15",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 103,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ציץ \/ יציץ",
+      "rationale": "Гүл (циц) жана гүлдөө (яциц) — ошол эле тамыр кайталанат: «талаа гүлүндөйдөй гүлдөйт» — кыргызча байланыш бир аз жумшартылды."
+    }
+  ],
+  "translation": "Адам баласынын күндөрү чөптөй; талаа гүлүндөйдөй ал гүлдөйт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "8fb404682e6fcceec1c0c687951955156f6b0ffe4ebcd9cec163f0f254815c13",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/103\/13-16.1791216978673.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אנוש",
+      "gloss": "адам баласы"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "чөптөй"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "күндөрү"
+    },
+    {
+      "surface": "כציץ",
+      "gloss": "гүлүндөйдөй"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "талаа"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ошондой"
+    },
+    {
+      "surface": "יציץ",
+      "gloss": "гүлдөйт"
+    }
+  ],
+  "timestamp": "2026-10-05T16:16:18.674464165Z",
+  "model": "glm-5.3"
+}

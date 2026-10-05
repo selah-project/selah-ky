@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "jeremiah 51:19",
+  "book": "jeremiah",
+  "lang": "ky",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Ызарынды",
+      "rationale": "Жөнөкөй сүйлөм үчүн кошулган тыныштык — еврей текстинде жок."
+    },
+    {
+      "kind": "crux",
+      "subject": "уругу",
+      "rationale": "שבט: 'урук\/тайпа' же 'аса-таяк' — KJV 'rod', JPS 'tribe'."
+    }
+  ],
+  "translation": "Яаковдун үлүшү мыналарга окшош эмес, анткени бардыгын пишкен Ал Ызарынды жана мурасынын уругу — Яхве Цебаот Анын ысымы.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "cf9a1d39d2238a4a95e95340c9bf70b477e3612427efcd7035651205cc338f14",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/jeremiah\/51\/17-20.1791212008743.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "כאלה",
+      "gloss": "мыналарга окшош"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "үлүшү"
+    },
+    {
+      "surface": "יעקוב",
+      "gloss": "Яаковдун"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "יוצר",
+      "gloss": "пишкен"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "бардыгын"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Ал"
+    },
+    {
+      "surface": "ושבט",
+      "gloss": "жана уругу"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "мурасынын"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цебаот"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "Анын ысымы"
+    }
+  ],
+  "timestamp": "2026-10-05T14:53:28.744808692Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 63:9",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 63,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жаным",
+      "rationale": "נפש вананын жаны\/деми — «жан» кеңири кабыл алынган, бирок сөз «дем алуучу жандык» деген сүрөттү берет"
+    }
+  ],
+  "translation": "Жаным Сага жабышып турат, Сенин оң колуң мени кармап турат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "a6bd11b0433fd2e8ac46bc2ccb62e89be14c7c212bf14565ba135586b13f9937",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/63\/9-12.1791216306682.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דבקה",
+      "gloss": "жабышып турат"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "жаным"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "Сага"
+    },
+    {
+      "surface": "בי",
+      "gloss": "мени"
+    },
+    {
+      "surface": "תמכה",
+      "gloss": "кармап турат"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "оң колуң"
+    }
+  ],
+  "timestamp": "2026-10-05T16:05:06.683202754Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 6:5",
+  "book": "proverbs",
+  "lang": "ky",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "бөкөндөй",
+      "rationale": "צבי — 'жаркыраган даңк' деген тамыр; 'бөкөн\/кызыл кийик' же 'олуя' деген варианттар бар"
+    },
+    {
+      "kind": "elision",
+      "subject": "охотник",
+      "rationale": "ивритте биринчи 'колдон' артында аны кармаган адам аты жок, 'кол' гана айтылат"
+    }
+  ],
+  "translation": "Бөкөндөй колдон кутулуп ал, жана туз куургучтун колунан куштай кач.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "2ee86f209c556177fd85475cddea1c7a302ae2d04cc8c7e77bdac462d12a3480",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/6\/5-8.1791217832149.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנצל",
+      "gloss": "кутулуп ал"
+    },
+    {
+      "surface": "כצבי",
+      "gloss": "бөкөндөй"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "колдон"
+    },
+    {
+      "surface": "וכצפור",
+      "gloss": "жана куштай"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "колунан"
+    },
+    {
+      "surface": "יקוש",
+      "gloss": "туз куургучтун"
+    }
+  ],
+  "timestamp": "2026-10-05T16:30:32.150607583Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 119:8",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "עד מאד",
+      "rationale": "«чейин абдан» — күчөтүүчү эсептүү айтым, «такыр» деп берилди"
+    },
+    {
+      "kind": "invitation",
+      "subject": "таштабагын",
+      "rationale": "Яхвеге багышталган өтүнүч — төрт аяттын токтолушу"
+    }
+  ],
+  "translation": "⟨את⟩ буйруктарыңды сактайм; мени такыр таштабагын.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "98bb0e9185f46b87e351d62541c78edc3e05053bb5c705a5a6612adebae06563",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/119\/5-8.1791217287715.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "буйруктарыңды"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "буйруктарыңды"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "сактайм"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…багын"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "таштаба"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ченин"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "такыр"
+    }
+  ],
+  "timestamp": "2026-10-05T16:21:27.717768934Z",
+  "model": "glm-5.3"
+}

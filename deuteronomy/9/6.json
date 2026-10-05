@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 9:6",
+  "book": "deuteronomy",
+  "lang": "ky",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "мойну-катуу",
+      "rationale": "קשה ערף 'катуу мойн' — мойну бүгүлбөгөн, баш тартуучу эл; сөзмө-сөз сакталды"
+    },
+    {
+      "kind": "elision",
+      "subject": "כי",
+      "rationale": "Экинчи כי 'анткени' катары көрсөтүлдү, биринчиси 'бил' этишине сиңди"
+    }
+  ],
+  "translation": "Жана бил: сенин цедегиң үчүн эмес Яхве, сенин Элохимиң, сага ⟨את⟩ ушул жакшы жерди аны ээлешің үчүн берип жатат, анткени сен мойну-катуу элсиң.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "46863c6bc441592994da4fdf1f864742047b0fcf977a2fe33a4cb8209087dc3c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/9\/5-8.1791204912815.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידעת",
+      "gloss": "Жана бил"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "לא",
+      "gloss": "эмес"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "цедегиң үчүн"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "сенин Элохимиң"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "берип жатат"
+    },
+    {
+      "surface": "לך",
+      "gloss": "сага"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ушул жакшы жерди"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "жерди"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "жакшы"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ушул"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "аны ээлешің үчүн"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "עם",
+      "gloss": "эл"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "катуу"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "мойну"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "сен"
+    }
+  ],
+  "timestamp": "2026-10-05T12:55:12.816860690Z",
+  "model": "glm-5.3"
+}

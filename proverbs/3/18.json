@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 3:18",
+  "book": "proverbs",
+  "lang": "ky",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "—",
+      "rationale": "Кыргызча байламча (тирек) талап кылынат, еврейче жок"
+    },
+    {
+      "kind": "crux",
+      "subject": "עץ חיים",
+      "rationale": "«Жашоо дарагы» — Башталыш 2:9 дагы даракка шилтеме; кээ бир которуучулар «жашоо булагы» деп алмаштырат"
+    }
+  ],
+  "translation": "Ал — аны кармагандарга жашоо дарагы, жана аны кармап тургандар бактылуу.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "2c00e03554356e4ffe22ae69de5b7b63f08a53be63d49413389d9724bc38fe0c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/3\/17-20.1791217800109.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עץ",
+      "gloss": "дарагы"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "жашоо"
+    },
+    {
+      "surface": "היא",
+      "gloss": "Ал"
+    },
+    {
+      "surface": "למחזיקים",
+      "gloss": "кармагандарга"
+    },
+    {
+      "surface": "בה",
+      "gloss": "аны"
+    },
+    {
+      "surface": "ותמכיה",
+      "gloss": "жана аны кармап тургандар"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "бактылуу"
+    }
+  ],
+  "timestamp": "2026-10-05T16:30:00.110062809Z",
+  "model": "glm-5.3"
+}

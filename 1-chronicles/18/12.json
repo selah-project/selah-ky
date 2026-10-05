@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 18:12",
+  "book": "1-chronicles",
+  "lang": "ky",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨аларды⟩",
+      "rationale": "Ивритте 'жогорудагыларды' деген гриф жок; кыргыз тилинде түшүнүү үчүн кошулду."
+    },
+    {
+      "kind": "measurement",
+      "subject": "он сегиз миң",
+      "rationale": "Кырылгандардын саны — өлчөө мазмуну."
+    }
+  ],
+  "translation": "Жана Цруянын уулу Абишай Эдомду туз өрөөнүндө ⟨את⟩ согуп, он сегиз миң ⟨את⟩ [аларды] курмандыкка чалды.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "3878b3683288703e454cd4652473b36f6620fe83a5f35461cc8eaca64ada0da3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-chronicles\/18\/12-12.1791224633929.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואבשי",
+      "gloss": "Жана Абишай"
+    },
+    {
+      "surface": "בן",
+      "gloss": "уулу"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "Цруянын"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "согуп"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Эдомду"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Эдомду"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "өрөөнүндө"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "туз"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "сегиз"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "он"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "миң"
+    }
+  ],
+  "timestamp": "2026-10-05T18:23:53.929497863Z",
+  "model": "glm-5.3"
+}

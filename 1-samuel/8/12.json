@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 8:12",
+  "book": "1-samuel",
+  "lang": "ky",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "миң жана элүү",
+      "rationale": "Аскердик башкаруунун чени: миң башчылар, элүү башчылар."
+    },
+    {
+      "kind": "substitution",
+      "subject": "חרישו",
+      "rationale": "Букв. 'анын айдоосу' — айдоо мезгили\/жери, кыргызча 'анын жерин' деп берилди."
+    }
+  ],
+  "translation": "жана өзүнө миң башчыларды жана элүү башчыларды даярдоочу, жана анын жерин айдоого, оруғун жыйноого, анын согуш куралдарын жана араба жабдыктарын жасоого коймоочу.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "00ed4f9e203c4225df3114edbf866bf95f425e3a7ec6d77d95346c7180b51cb2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-samuel\/8\/9-12.1791206637313.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולשום",
+      "gloss": "жана даярдоочу"
+    },
+    {
+      "surface": "לו",
+      "gloss": "өзүнө"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "башчыларды"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "миң"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "башчыларды"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "элүү"
+    },
+    {
+      "surface": "ולחרש",
+      "gloss": "жана айдоого"
+    },
+    {
+      "surface": "חרישו",
+      "gloss": "анын жерин"
+    },
+    {
+      "surface": "ולקצר",
+      "gloss": "жана жыйноого"
+    },
+    {
+      "surface": "קצירו",
+      "gloss": "оруғун"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "жана жасоого"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "куралдарын"
+    },
+    {
+      "surface": "מלחמתו",
+      "gloss": "согуш"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "жана жабдыктарын"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "араба"
+    }
+  ],
+  "timestamp": "2026-10-05T13:23:57.315260427Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 57:2",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 57,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жаным",
+      "rationale": "נפש — дем алуучу жандык, кыргызчада «жан» эң жакын форма"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חנני ... חנני",
+      "rationale": "кайра-кайра айтылган ырайым сурамы, ритмикалык кайталоо"
+    },
+    {
+      "kind": "you",
+      "subject": "Элохимге",
+      "rationale": "тике даректөө — Давид Элохимге сыйынып жатат"
+    }
+  ],
+  "translation": "Мага ырайым кыл, Элохим, мага ырайым кыл, анткени жаным Сага сыйынат, жана Сенин канаттарыңдын көлөкөсүнө жашынамын, кырсычтар өтүп кеткенге чейин.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "d9e16379a7b9d56d469c1d2d3802e3db3a926d926af845591578736d2477456a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/57\/1-4.1791216272315.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Мага ырайым кыл"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "мага ырайым кыл"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "בך",
+      "gloss": "Сага"
+    },
+    {
+      "surface": "חסיה",
+      "gloss": "сыйынат"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "жаным"
+    },
+    {
+      "surface": "ובצל",
+      "gloss": "жана ... көлөкөсүнө"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "канаттарыңдын"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "жашынамын"
+    },
+    {
+      "surface": "עד",
+      "gloss": "чейин"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "өтүп кеткенге"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "кырсычтар"
+    }
+  ],
+  "timestamp": "2026-10-05T16:04:32.316573295Z",
+  "model": "glm-5.3"
+}

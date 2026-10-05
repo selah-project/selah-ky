@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 45:10",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "שגל",
+      "rationale": "'Ханыша' (жубай катары) — Танахта сейрек сөз, падышанын башкы жубайын билдирет."
+    },
+    {
+      "kind": "crux",
+      "subject": "ביקרותיך",
+      "rationale": "'Сыйлуу аялдарың' же 'кымбат баалуу заттарың' — эки окуу бар."
+    }
+  ],
+  "translation": "Падышалардын кыздары сенин сыйлууларыңдын ичинде; оң жагыңда Офирдин таза алтынынан ханыша турат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "15bd46efc475de8ce0b91834e51b08724dc0458c8621ee8945062f58d2a616a8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/45\/9-12.1791216059463.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בנות",
+      "gloss": "кыздары"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "падышалардын"
+    },
+    {
+      "surface": "ביקרותיך",
+      "gloss": "сыйлууларыңдын ичинде"
+    },
+    {
+      "surface": "נצבה",
+      "gloss": "турат"
+    },
+    {
+      "surface": "שגל",
+      "gloss": "ханыша"
+    },
+    {
+      "surface": "לימינך",
+      "gloss": "оң жагыңда"
+    },
+    {
+      "surface": "בכתם",
+      "gloss": "таза алтынынан"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "Офирдин"
+    }
+  ],
+  "timestamp": "2026-10-05T16:00:59.464230403Z",
+  "model": "glm-5.3"
+}

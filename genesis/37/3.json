@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 37:3",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כתנת פסים",
+      "rationale": "«узун жендүү көйнөк» (ЙLT) менен «түстүү көйнөк» (KJV салты) ортосундагы белгилүү талаш; פס — кең\/узун жендүү деген сөз"
+    },
+    {
+      "kind": "crux",
+      "subject": "בן זקנים",
+      "rationale": "«карлык уулу» же раббин окуу боюнча «акылман (закен) уулу»"
+    },
+    {
+      "kind": "substitution",
+      "subject": "сүйдү",
+      "rationale": "אהב — «жактыруу, сүйүү», кыргызча бир маанилуу берилди"
+    }
+  ],
+  "translation": "Жана Йисраэл ⟨את⟩ Йосепти өз уулдарынын баарынан ашык сүйдү, анткени ал ага карлык уулу эле; жана ага узун жендүү пассым көйнөк жасап берди.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "72b6973ed3bb683749f37a9efc5286c33fb0be434f30b0084174ae02a374dd18",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/37\/1-4.1791201516642.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישראל",
+      "gloss": "Жана Йисраэл"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "сүйдү"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Йосепти"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосепти"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "баарынан ашык"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "уулдарынын"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "בן",
+      "gloss": "уулу"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "карлыктын"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ал"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ага"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "жасап берди"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ага"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "көйнөк"
+    },
+    {
+      "surface": "פסים",
+      "gloss": "узун жендүү пассым"
+    }
+  ],
+  "timestamp": "2026-10-05T11:58:36.643509400Z",
+  "model": "glm-5.3"
+}

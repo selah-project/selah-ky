@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 22:15",
+  "book": "2-samuel",
+  "lang": "ky",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ברק",
+      "rationale": "«чагылган» — жебелер менен катар ысым же кайра «жебелерди чагылган катары»; JPS\/BSB «чагылганды ыргытты» дейт"
+    },
+    {
+      "kind": "substitution",
+      "subject": "душмандар",
+      "rationale": "ם мүчөсү («аларды») 3-жаңылыкты көрсөтөт; ким экени контексттен — душмандар"
+    }
+  ],
+  "translation": "Жана ал жебелерди жөнөттү жана аларды чачыратты, чагылган, жана аларды чайпалтты.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "33cfa62fbff39a9da83baa8367649746eb406fdb54efda4762c49266fb25f763",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-samuel\/22\/13-16.1791207862186.json",
+    "code": "641241cf-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "жөнөттү"
+    },
+    {
+      "surface": "חצים",
+      "gloss": "жебелерди"
+    },
+    {
+      "surface": "ויפיצם",
+      "gloss": "чачыратты"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "чагылган"
+    },
+    {
+      "surface": "ויהמם",
+      "gloss": "чайпалтты"
+    }
+  ],
+  "timestamp": "2026-10-05T13:44:22.187668452Z",
+  "model": "glm-5.3"
+}

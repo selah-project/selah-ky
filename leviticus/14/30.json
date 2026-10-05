@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 14:30",
+  "book": "leviticus",
+  "lang": "ky",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "תרים\/יונה",
+      "rationale": "two dove words; Kyrgyz has one word kögüchkön, so the pair 'turtledove \/ young pigeon' collapses"
+    },
+    {
+      "kind": "idiom",
+      "subject": "колу жеткенин",
+      "rationale": "idiom 'what his hand reaches' = what he can afford, kept literally"
+    }
+  ],
+  "translation": "Жана ал ⟨את⟩ экиден бирин жасайт — көгүчкөндөрдүн же көгүчкөн балдарынын ичинен, колу жеткенин.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "e2cd7ce35c96e09522fd259e70279ac4a68cdb64f800767eaf69433ef3225fc2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/14\/29-32.1791203058881.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "жана жасайт"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "экиден бири"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "экиден бири"
+    },
+    {
+      "surface": "מן",
+      "gloss": "…дин ичинен"
+    },
+    {
+      "surface": "התרים",
+      "gloss": "көгүчкөндөрдүн"
+    },
+    {
+      "surface": "או",
+      "gloss": "же"
+    },
+    {
+      "surface": "מן",
+      "gloss": "…дин"
+    },
+    {
+      "surface": "בני",
+      "gloss": "балдары"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "көгүчкөндүн"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "…ды"
+    },
+    {
+      "surface": "תשיג",
+      "gloss": "жетет"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "колу"
+    }
+  ],
+  "timestamp": "2026-10-05T12:24:18.881968790Z",
+  "model": "glm-5.3"
+}

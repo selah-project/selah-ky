@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 60:4",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 60,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "карагын",
+      "rationale": "Сионго көзүн көтөрүп көрүүгө буйрук"
+    },
+    {
+      "kind": "crux",
+      "subject": "על צד תאמנה",
+      "rationale": "«Капталда багылышат» же «колго алынышат» (ASV: carried in the arms) — אמן тамыры «эмизип багуу» дегенди билдирет"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "באו\/יבאו",
+      "rationale": "Бир аятта ובא эки жолу кайталанат — келүү т themesи бекемделет"
+    }
+  ],
+  "translation": "Көзүңдү айланта көтөрүп карагын: баары чогулду, сага келишти; сенин уулдарың алыстан келишет, жана сенин кыздарың капталда багылышат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "91bf5f6dbb3a6bec6b81062e753b9d77763f8fdf85e70d112d8b24a4d6dee0f0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/60\/1-4.1791210572981.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שאי",
+      "gloss": "көтөрүп"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "айланта"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "көзүңдү"
+    },
+    {
+      "surface": "וראי",
+      "gloss": "жана карагын"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "баары"
+    },
+    {
+      "surface": "נקבצו",
+      "gloss": "чогулду"
+    },
+    {
+      "surface": "באו",
+      "gloss": "келишти"
+    },
+    {
+      "surface": "לך",
+      "gloss": "сага"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "уулдарың"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "алыстан"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "келишет"
+    },
+    {
+      "surface": "ובנתיך",
+      "gloss": "жана кыздарың"
+    },
+    {
+      "surface": "על",
+      "gloss": "…ка"
+    },
+    {
+      "surface": "צד",
+      "gloss": "каптал"
+    },
+    {
+      "surface": "תאמנה",
+      "gloss": "багылышат"
+    }
+  ],
+  "timestamp": "2026-10-05T14:29:32.983083590Z",
+  "model": "glm-5.3"
+}

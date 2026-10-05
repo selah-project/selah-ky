@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 31:14",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жаным",
+      "rationale": "נפש — 'дем алуучу жандык, жашоо күчү'; 'жан' тар мааниде эмес"
+    },
+    {
+      "kind": "alternative",
+      "subject": "מגור מסביב",
+      "rationale": "'Тегерегимде коркуу' — 'террор тегерегинде' (магор миссавив) деген туруктуу сөз айкашы"
+    }
+  ],
+  "translation": "Анткени мен көптөрдүн жалаасын уктум, тегерегимде коркуу; алар менге каршы чогулаарып, ⟨את⟩ жанымды алууну ойлошту.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "69a7a776067940c6d8c11359738eef81aac1f5e14588a2392c6139c92624bb75",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/31\/13-16.1791215715625.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "уктум"
+    },
+    {
+      "surface": "דבת",
+      "gloss": "жалаа"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "көптөрдүн"
+    },
+    {
+      "surface": "מגור",
+      "gloss": "коркуу"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "тегерегимде"
+    },
+    {
+      "surface": "בהוסדם",
+      "gloss": "алар чогулаарып"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "бирге"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "менге каршы"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "алууну"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "⟨את⟩ жанымды",
+      "marks": "жанымды"
+    },
+    {
+      "surface": "זממו",
+      "gloss": "ойлошту"
+    }
+  ],
+  "timestamp": "2026-10-05T15:55:15.625910935Z",
+  "model": "glm-5.3"
+}

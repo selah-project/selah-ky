@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "2-kings 17:38",
+  "book": "2-kings",
+  "lang": "ky",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כרת ברית",
+      "rationale": "Ивритче 'келишим кесүү' — кыргызча 'келишим түзүү\/кесип берүү'; сөз жүзүндө 'кесүү' сакталды"
+    },
+    {
+      "kind": "elision",
+      "subject": "אתכם",
+      "rationale": "Бул את (H854) предлог — 'менен' маанисинде, кыргызча 'силер менен' менен кошулуп кетти"
+    },
+    {
+      "kind": "you",
+      "subject": "силер",
+      "rationale": "Келишим жөнүндө түз кайрылуу"
+    }
+  ],
+  "translation": "Жана силер менен кесип берген келишимимди унутпагыла, жана башка кудайлардан коркпогула.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "e1f0d0896f67be67ab4c4bea895a697e8112a2b9ef3580a9efd9aba7d6f0423c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-kings\/17\/37-40.1791209115318.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והברית",
+      "gloss": "жана келишимимди"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "эмнени"
+    },
+    {
+      "surface": "כרתי",
+      "gloss": "кесип берген"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "силер менен"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "תשכחו",
+      "gloss": "унутпагыла"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "жана... жок"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "коркпогула"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "кудайлардан"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "башка"
+    }
+  ],
+  "timestamp": "2026-10-05T14:05:15.319228027Z",
+  "model": "glm-5.3"
+}

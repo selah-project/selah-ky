@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 21:4",
+  "book": "proverbs",
+  "lang": "ky",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "ניר",
+      "rationale": "Бул сөз Танахта ушул жерде гана кездешет; KJV «plowing» (айдоо), LXX боюнча «чырак» (נר) деп окулат"
+    },
+    {
+      "kind": "crux",
+      "subject": "ניר",
+      "rationale": "«Айдоо» (KJV, JPS) же «чырагы» (ASV, LXX таасиринде) — тамырлар бир эле эжекцияда айырмаланат"
+    }
+  ],
+  "translation": "Көздөрдүн бийиктиги жана жүрөктүн кеңдиги — жамандардын айдоосу — күнөө.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "d15a74477e7c58955ab6ab793fa2ebbba0f84de4f11c6e53b95476b1ae291ec7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/21\/1-4.1791218210354.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רום",
+      "gloss": "бийиктиги"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "көздөрдүн"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "жана кеңдиги"
+    },
+    {
+      "surface": "לב",
+      "gloss": "жүрөктүн"
+    },
+    {
+      "surface": "נר",
+      "gloss": "айдоосу"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "жамандардын"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "күнөө"
+    }
+  ],
+  "timestamp": "2026-10-05T16:36:50.355344895Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 51:8",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ичкиликтер",
+      "rationale": "בטחות — көп сандагы 'бөйрөктөр', ички адамдын отуру; кыргызча 'ичкиликтер' деген сөздө сакталды"
+    },
+    {
+      "kind": "secret",
+      "subject": "בסתם",
+      "rationale": "Жашырылган, жабык жер — жашыруун билим мотиви"
+    }
+  ],
+  "translation": "Карап көрсөң, ичкиликтерде чындыкты каалайсың, жана жашыруун жерде мага даанышмандыкты билдиресиң.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "0e766f8045ad1ee404c5cb4d09eb034c4e86bb35eb7569190358b3c6579dca1a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/51\/5-8.1791216177530.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "карап көрсөң"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "чындыкты"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "каалайсың"
+    },
+    {
+      "surface": "בטחות",
+      "gloss": "ичкиликтерде"
+    },
+    {
+      "surface": "ובסתם",
+      "gloss": "жана жашыруун жерде"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "даанышмандыкты"
+    },
+    {
+      "surface": "תודיעני",
+      "gloss": "мага билдиресиң"
+    }
+  ],
+  "timestamp": "2026-10-05T16:02:57.531856357Z",
+  "model": "glm-5.3"
+}

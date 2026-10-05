@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 63:1",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 63,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "мизмор",
+      "rationale": "מזמור — аспаптык музыкага коюлган ыр; кыргызча «мизмор» деген ысым түрүндө сакталды"
+    },
+    {
+      "kind": "addition",
+      "subject": "кезинде",
+      "rationale": "בהיותо «болуу» этиши кыргызча «кези» сөзү менен ачылды"
+    }
+  ],
+  "translation": "Давидтин мизморы, ал Йихуда чөлүндө болгон кезинде.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "dc79e24376d86015fac8a97b52f20ca2365d9ec20f1fd7deb0321802bda5c305",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/63\/1-4.1791216358787.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "мизмор"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давидтин"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "болгон кезинде"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "чөлүндө"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Йихуда"
+    }
+  ],
+  "timestamp": "2026-10-05T16:05:58.787971282Z",
+  "model": "glm-5.3"
+}

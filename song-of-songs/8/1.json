@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 8:1",
+  "book": "song-of-songs",
+  "lang": "ky",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מי יתנך",
+      "rationale": "«Ким берер эле» — еврей каалоо идиомасы, «канча жакшы болмок» деген мааниде"
+    },
+    {
+      "kind": "addition",
+      "subject": "алар",
+      "rationale": "יָבֿוּזוּ көптүк санга таандык этиш; «алар» субъектин түшүндүрүү үчүн кошулду"
+    }
+  ],
+  "translation": "Ким сени мага бир туугандай берер эле, энемдин эмчегин эмген! Сени тышкарыда тапсам, өпмөн — ошондо да алар менден жүз бурушпас эле.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "4681abec20a1bb380eb99c89cdb81178bbedde8ecf8f3c17fcac4d09fb6b634a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/song-of-songs\/8\/1-4.1791219706212.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ким"
+    },
+    {
+      "surface": "יתנך",
+      "gloss": "сени берер эле"
+    },
+    {
+      "surface": "כאח",
+      "gloss": "бир туугандай"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мага"
+    },
+    {
+      "surface": "יונק",
+      "gloss": "эмген"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "эмчегин"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "энемдин"
+    },
+    {
+      "surface": "אמצאך",
+      "gloss": "сени тапсам"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "тышкарыда"
+    },
+    {
+      "surface": "אשקך",
+      "gloss": "өпмөн"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ошондо да"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "יבוזו",
+      "gloss": "жүз бурушпас"
+    },
+    {
+      "surface": "לי",
+      "gloss": "менден"
+    }
+  ],
+  "timestamp": "2026-10-05T17:01:46.212592766Z",
+  "model": "glm-5.3"
+}

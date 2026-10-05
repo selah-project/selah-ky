@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 19:3",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יום ליום … לילה ללילה",
+      "rationale": "«Күн күнгө — түн түнгө» деген кайталоо-параллелизм, эки сап тең эч өзгөрүүсүз сакталды."
+    }
+  ],
+  "translation": "Күн күнгө сөз төгөт, жана түн түнгө билим көрсөтөт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "d8287053d8f596e0214dd1b5c0435b86ff9547bcd3bbb54b7e30a0f6ab64ac4e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/19\/1-4.1791215603006.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "күн"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "күнгө"
+    },
+    {
+      "surface": "יביע",
+      "gloss": "төгөт"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "сөз"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "жана түн"
+    },
+    {
+      "surface": "ללילה",
+      "gloss": "түнгө"
+    },
+    {
+      "surface": "יחוה",
+      "gloss": "көрсөтөт"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "билим"
+    }
+  ],
+  "timestamp": "2026-10-05T15:53:23.007758748Z",
+  "model": "glm-5.3"
+}

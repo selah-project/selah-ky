@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "numbers 7:50",
+  "book": "numbers",
+  "lang": "ky",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "десять шекелей",
+      "rationale": "Вес золотой чаши указан в шекелях."
+    },
+    {
+      "kind": "substitution",
+      "subject": "күйүзө",
+      "rationale": "קטרת — благовонное курение; передано одним словом «күйүзө» (ардан чыккан жыт)."
+    }
+  ],
+  "translation": "Бир алтын алакан, он шекел, күйүзө толгон.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "cbe7fbb53bdad4e20700f50255b0da7a6a95aee75874419cd2523d1ba50c3301",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/numbers\/7\/49-52.1791203697576.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "алакан"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "бир"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "он"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "алтын"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "толгон"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "күйүзө"
+    }
+  ],
+  "timestamp": "2026-10-05T12:34:57.577265628Z",
+  "model": "glm-5.3"
+}

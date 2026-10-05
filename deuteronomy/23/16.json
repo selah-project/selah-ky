@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 23:16",
+  "book": "deuteronomy",
+  "lang": "ky",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "לא + тапшырбагын",
+      "rationale": "Эврейче эки сөз (ло + тасгир) кыргызча бир болочокчу формада берилди."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ээ",
+      "rationale": "אדניו бул жерде адам жөнүндө — «кожоюн\/ээ»; Адонай Ысымынын формасы эмес."
+    }
+  ],
+  "translation": "Кулду анын ээсине тапшырбагын — ал өз ээсинен сага качып келген.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "2bb8bb5a35e90ff0eb67e0ca4f6134c61e4dac0df80d08fd7f5a3fa74a27ca18",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/23\/13-16.1791205232740.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "тапшырбагын"
+    },
+    {
+      "surface": "תסגיר",
+      "gloss": "тапшырбагын"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "кулду"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ге"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "ээсине"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "ינצל",
+      "gloss": "качып келген"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "сага"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "…дан"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "ээсинен"
+    }
+  ],
+  "timestamp": "2026-10-05T13:00:32.742104725Z",
+  "model": "glm-5.3"
+}

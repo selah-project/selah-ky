@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 39:4",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ойлонуп жүргөндө",
+      "rationale": "הגיג — кыбыраган муң, ичинен көңүл айтуу; жөн гана «ой жүгүртүү» эмес."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "тынчтык — от",
+      "rationale": "2–3-аяттардагы үч катар унчукпоо 4-аятта от жалынына айланат — үндүн жарылушы риторикалык чокусу."
+    }
+  ],
+  "translation": "Ичимде жүрөгүм ысып кетти, ойлонуп жүргөндө от жанып кетти — ошондо мен тилим менен сүйлөдүм.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "7c2ab32a375ff9e54959f3239a0df1553b2b559a7759a3e1daabf1d04a1ed9fc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/39\/1-4.1791215982676.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חם",
+      "gloss": "ысып кетти"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "жүрөгүм"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "ичимде"
+    },
+    {
+      "surface": "בהגיגי",
+      "gloss": "ойлонуп жүргөндө"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "жанып кетти"
+    },
+    {
+      "surface": "אש",
+      "gloss": "от"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "мен сүйлөдүм"
+    },
+    {
+      "surface": "בלשוני",
+      "gloss": "тилим менен"
+    }
+  ],
+  "timestamp": "2026-10-05T15:59:42.677686690Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 18:6",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "байламдары",
+      "rationale": "חבלי — «аркан, чынжыр» деген сөз; салт котормолорунда «кайгы» деп алынган, бирок сөздүн өзү — аркан"
+    },
+    {
+      "kind": "crux",
+      "subject": "קדמוני",
+      "rationale": "«алдыма чыгуу, мени күтүп туруу» же «менден мурун жетишүү»: KJV «prevented me», жаңы котормолор «confronted me»"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חבלי שאול \/ מוקשי מות",
+      "rationale": "эки параллелдүү түзүлүш: Шеолдун байламдары — өлүмдүн торлору; экөө тең кармап алуу образы"
+    }
+  ],
+  "translation": "Шеолдун байламдары мени курчап алды, өлүмдүн торлорунан менин алдыма чыгышты.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "690139cc98787fbf4f8903546c3df08b7a3e957553e4ec1ba24e7113331b8d8a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/18\/6-7.1791224411132.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חבלי",
+      "gloss": "байламдары"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шеолдун"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "мени курчап алды"
+    },
+    {
+      "surface": "קדמוני",
+      "gloss": "менинин алдыма чыгышты"
+    },
+    {
+      "surface": "מוקשי",
+      "gloss": "торлорунан"
+    },
+    {
+      "surface": "מות",
+      "gloss": "өлүмдүн"
+    }
+  ],
+  "timestamp": "2026-10-05T18:20:11.132610557Z",
+  "model": "glm-5.3"
+}

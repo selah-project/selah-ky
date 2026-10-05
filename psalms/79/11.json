@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 79:11",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 79,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הותר",
+      "rationale": "Hophal ырастоочу: 'бошотулсун' (JPS, YLT) же 'сактап кал' (KJV, ASV) — тамыр יתר 'артта калды\/ашыкта'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אנקת\/אסיר",
+      "rationale": "Эки сөздүн аллитерациясы (ан-а), кыргызча жоголот."
+    },
+    {
+      "kind": "you",
+      "subject": "Яхвеге",
+      "rationale": "Тилеке Яхвеге багытталган: 'алдыңа', 'колуңдун'."
+    }
+  ],
+  "translation": "Камактагынын өкүрүүсү алдыңа келсин; колуңдун улуулугуна жараша өлүм балдарын бошот.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "1378b9d7e1f1a10e84e05e2d709ab7988c83612101981698b6600fa504e2a98f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/79\/10-11.1791224462927.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "келсин"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "алдыңа"
+    },
+    {
+      "surface": "אנקת",
+      "gloss": "өкүрүүсү"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "камактагынын"
+    },
+    {
+      "surface": "כגדל",
+      "gloss": "улуулугуна жараша"
+    },
+    {
+      "surface": "зרועך",
+      "gloss": "колуңдун"
+    },
+    {
+      "surface": "הותר",
+      "gloss": "бошот"
+    },
+    {
+      "surface": "בני",
+      "gloss": "балдарын"
+    },
+    {
+      "surface": "תמותה",
+      "gloss": "өлүмдүн"
+    }
+  ],
+  "timestamp": "2026-10-05T18:21:02.928860924Z",
+  "model": "glm-5.3"
+}

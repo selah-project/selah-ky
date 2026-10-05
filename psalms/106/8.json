@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 106:8",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 106,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "аларды",
+      "rationale": "Этиштеги -ם мүчөсү кыргызча өзүнчө ат атын талап кылат"
+    }
+  ],
+  "translation": "Бирок аларды Өз ысымынын атынан куткарды, Өз кудуретин билдирүү үчүн ⟨את⟩.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "398990a8f996e117e518ccdae18272d9e1a45132d9234326b9c1a547ffd75863",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/106\/5-8.1791217136328.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויושיעם",
+      "gloss": "куткарды"
+    },
+    {
+      "surface": "למען",
+      "gloss": "атынан"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ысымынын"
+    },
+    {
+      "surface": "להודיע",
+      "gloss": "билдирүү үчүн"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Өз кудуретин"
+    },
+    {
+      "surface": "גבורתו",
+      "gloss": "кудуретин"
+    }
+  ],
+  "timestamp": "2026-10-05T16:18:56.336071824Z",
+  "model": "glm-5.3"
+}

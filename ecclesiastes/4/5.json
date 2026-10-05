@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 4:5",
+  "book": "ecclesiastes",
+  "lang": "ky",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "өз этин жейт",
+      "rationale": "אכל את בשרו — «өз этин жешүү» идиома: колдорун кучактап жаткан наадан өзүн-өзү жеп жок кылат"
+    }
+  ],
+  "translation": "Наадан ⟨את⟩ колдорун кучактайт да, ⟨את⟩ өз этин жейт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "41e3a196145a68c09ccc0a255909c14ac6c33e4e140d40852bd667d3efda73d4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ecclesiastes\/4\/5-8.1791220030864.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הכסיל",
+      "gloss": "наадан"
+    },
+    {
+      "surface": "חבק",
+      "gloss": "кучактайт"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "колдорун"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "колдорун"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "жейт"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "өз этин"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "өз этин"
+    }
+  ],
+  "timestamp": "2026-10-05T17:07:10.865551395Z",
+  "model": "glm-5.3"
+}

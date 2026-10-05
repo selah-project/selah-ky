@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 1:5",
+  "book": "1-kings",
+  "lang": "ky",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "өзүн көтөрүп",
+      "rationale": "מתנשא — 'өзүн бийик көтөрүү' рефлексив; параллел癖 Абшалом (2 Шемуэл 15) менен дал келет"
+    },
+    {
+      "kind": "alternative",
+      "subject": "атчандар",
+      "rationale": "ופרשים көп сандуу; 'араба жана атчандар' — көп араба же бир араба экени так эмес"
+    }
+  ],
+  "translation": "Жана Адонийа, Хаггиттин уулу, өзүн көтөрүп айтты: «Мен падыша боломун». Жана ал өзүнө араба жана атчандарды, жана алдында чуркаган элүү кишини даярдады.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "125f51d37982b445ba9b65e316efa7f3b9cace9beb9bf84d25d2aa20ad1723a0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-kings\/1\/5-8.1791207935548.json",
+    "code": "641241cf-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואדניה",
+      "gloss": "Жана Адонийа"
+    },
+    {
+      "surface": "בן",
+      "gloss": "уулу"
+    },
+    {
+      "surface": "חגית",
+      "gloss": "Хаггиттин"
+    },
+    {
+      "surface": "מתנשא",
+      "gloss": "өзүн көтөрүп"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Мен"
+    },
+    {
+      "surface": "אמלך",
+      "gloss": "падыша боломун"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "Жана ал даярдады"
+    },
+    {
+      "surface": "לו",
+      "gloss": "өзүнө"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "араба"
+    },
+    {
+      "surface": "ופרשים",
+      "gloss": "жана атчандарды"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "жана элүү"
+    },
+    {
+      "surface": "איש",
+      "gloss": "кишини"
+    },
+    {
+      "surface": "רצים",
+      "gloss": "чуркаган"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "алдында"
+    }
+  ],
+  "timestamp": "2026-10-05T13:45:35.549241495Z",
+  "model": "glm-5.3"
+}

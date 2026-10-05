@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 13:18",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "эмендери",
+      "rationale": "אלון — 'эмен' же 'теребинт'; көпчүлүк котормолор 'талаа' деп алмаштырат (Вульгата salus)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "чатырын көчүрүп",
+      "rationale": "הלאӄ 'чатыр курду' деген этиш; кыргызча 'чатырын көчүрдү' деп айтылды"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ויאהל...ויבא...וישב...ויבן",
+      "rationale": "Үч 'вайимер' катары: келүү-жайгашуу-курмоо — кыймыл чынжыры"
+    }
+  ],
+  "translation": "Жана Аврахам чатырын көчүрүп, келип, Мамренин эмендеринин жанында, Хеврондо жайгашты жана ал жерде Яхвеге курмандык чырагын тургузду.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "a8fa77bc53bbf674a7418ef8198eb6bbd1e521ea7789b53b23fda592963fc0cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/13\/17-18.1791200892979.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאהл",
+      "gloss": "чатырын көчүрүп"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Аврахам"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "келип"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "жайгашты"
+    },
+    {
+      "surface": "באלני",
+      "gloss": "эмендеринин жанында"
+    },
+    {
+      "surface": "ממרא",
+      "gloss": "Мамре"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ал жерде"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "Хеврондо"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "тургузду"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ал жерде"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "курмандык чырагын"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхвеге"
+    }
+  ],
+  "timestamp": "2026-10-05T11:48:12.979767494Z",
+  "model": "glm-5.3"
+}

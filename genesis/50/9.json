@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 50:9",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "чоң",
+      "rationale": "כבד бирдей 'оор' деген сөз мурдагы аятта (50:9) 'оор' болуп калат; көпчүлүк котормолор 'чоң' деп коюшат, бирок сөздүн формасы 'салмактуу'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גם...גם",
+      "rationale": "'дагы... дагы' кайталоосу еврей текстинде да сакталды"
+    }
+  ],
+  "translation": "Жана анын менен дагы арабалар, дагы атчандар көтөрүлүштү, жана лагерь абдан оор болду.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "9042361f1e8eb44f2125d2309b6dfccdc9bb5d6c8bd95e50eda40fece25621ac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/50\/9-12.1791201830699.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "көтөрүлүштү"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "анын-менен"
+    },
+    {
+      "surface": "גם",
+      "gloss": "дагы"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "арабалар"
+    },
+    {
+      "surface": "גם",
+      "gloss": "дагы"
+    },
+    {
+      "surface": "פרשים",
+      "gloss": "атчандар"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "жана-болду"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "лагерь"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "оор"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "абдан"
+    }
+  ],
+  "timestamp": "2026-10-05T12:03:50.699963428Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 46:12",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "бузукуларга чакыруу",
+      "rationale": " 'Мага угула' — императив, кайрылуу."
+    },
+    {
+      "kind": "crux",
+      "subject": "אבירי לב",
+      "rationale": " 'күчтүү-жүрөктүүлөр' (YLT) же 'токмо жүрөктүүлөр' (KJV\/JPS) — мактанчаак же катаал экени боюнча талаш."
+    }
+  ],
+  "translation": "Мага угула, катуу жүрөктүүлөр, цедектен алыстар!",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "8555de819c89b8125b99c8ab018794a5c6154e0a44f7933e68869a4a3433192a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/46\/9-12.1791210252601.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "угула"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Мага"
+    },
+    {
+      "surface": "אבירי",
+      "gloss": "катуу"
+    },
+    {
+      "surface": "לב",
+      "gloss": "жүрөктүүлөр"
+    },
+    {
+      "surface": "הרחוקים",
+      "gloss": "алыстар"
+    },
+    {
+      "surface": "מצדקה",
+      "gloss": "цедектен"
+    }
+  ],
+  "timestamp": "2026-10-05T14:24:12.602538363Z",
+  "model": "glm-5.3"
+}

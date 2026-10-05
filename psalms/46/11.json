@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 46:11",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ארום ... ארום",
+      "rationale": "Эки жолу кайталанган 'бийикмин' — параллелизм, экөө тең сакталды."
+    },
+    {
+      "kind": "crux",
+      "subject": "הרפו",
+      "rationale": "'Токтогула' (колуңарды тарткыла) — жүрөккө айтылган буйрук; кээ бир котормолор 'тынч болгула' деп жумшартылган маани беришет."
+    },
+    {
+      "kind": "invitation",
+      "subject": "Токтогула жана билингиле",
+      "rationale": "Дирик чакыруу — токтоо жана билүү буйругу."
+    },
+    {
+      "kind": "you",
+      "subject": "Токтогула",
+      "rationale": "Адресат — эл\/окурман; ылайдан Яхвенин өзү сүйлөйт."
+    }
+  ],
+  "translation": "Токтогула жана билингиле: Мен — Элохиммин, элдер арасында бийикмин, жер бетинде бийикмин.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "4bb028f6c60e54043b340f871415b1dd75b009cf2e31c5010be783dc15d98f8d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/46\/9-12.1791216070000.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הרפו",
+      "gloss": "Токтогула"
+    },
+    {
+      "surface": "ודעו",
+      "gloss": "жана билингиле"
+    },
+    {
+      "surface": "כי",
+      "gloss": ":"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Мен"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохиммин"
+    },
+    {
+      "surface": "ארום",
+      "gloss": "бийикмин"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "элдер арасында"
+    },
+    {
+      "surface": "ארום",
+      "gloss": "бийикмин"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "жер бетинде"
+    }
+  ],
+  "timestamp": "2026-10-05T16:01:10.001279041Z",
+  "model": "glm-5.3"
+}

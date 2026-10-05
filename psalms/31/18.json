@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 31:18",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Шеол",
+      "rationale": "שאול — 'тозок' эмес, өлгөндөрдүн дүйнөсү"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אבושה\/יבשו",
+      "rationale": "Бир тамырдын эки жолу кайталанышы — 'уял' этиши, кыргызча байланыш бир аз бошойдо"
+    }
+  ],
+  "translation": "Яхве, уялбоого бергин, анткени мен Сага кыйкырдым; мыйзамсыздар уялсын, Шеолго унчукпай түшсүн.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "9b59587d797f302d4a591541f55483600804e5612d4c188375668f3d7f0833de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/31\/17-20.1791215705258.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…боо"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "уялбоого бергин"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "мен Сага кыйкырдым"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "уялсын"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "мыйзамсыздар"
+    },
+    {
+      "surface": "ידמו",
+      "gloss": "унчукпай түшсүн"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Шеолго"
+    }
+  ],
+  "timestamp": "2026-10-05T15:55:05.259355346Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 49:15",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "бул",
+      "rationale": "Акыркы сүйлөмдө субъект жок — кыргыз тили талап кылат"
+    },
+    {
+      "kind": "crux",
+      "subject": "וצירם",
+      "rationale": "ציר: \"сулуулук\/бут кейпи\" же \"тобу\" — жумшартылган маанилер ар түрдүү"
+    }
+  ],
+  "translation": "Койлор сыяктуу Шеолго жайылышты; Өлүм аларды багат, жана түз жүргөндөр таңда аларды башкарышат; алардын сулуулугу Шеолдо чириш үчүн — ⟨бул⟩ анын жайы.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "ae76094a5829c5cb42ed74ffb3f10e2a65e874946867c2a24cd66fa141130155",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/49\/13-16.1791216103018.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כצאן",
+      "gloss": "койлор сыяктуу"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Шеолго"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "жайылышты"
+    },
+    {
+      "surface": "מות",
+      "gloss": "Өлүм"
+    },
+    {
+      "surface": "ירעם",
+      "gloss": "аларды багат"
+    },
+    {
+      "surface": "וירדו",
+      "gloss": "жана башкарышат"
+    },
+    {
+      "surface": "בם",
+      "gloss": "аларды"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "түз жүргөндөр"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "таңда"
+    },
+    {
+      "surface": "וצירם",
+      "gloss": "алардын сулуулугу"
+    },
+    {
+      "surface": "לבלות",
+      "gloss": "чириш үчүн"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шеолдо"
+    },
+    {
+      "surface": "מזבל",
+      "gloss": "жай"
+    },
+    {
+      "surface": "לו",
+      "gloss": "анын"
+    }
+  ],
+  "timestamp": "2026-10-05T16:01:43.019518029Z",
+  "model": "glm-5.3"
+}

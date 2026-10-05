@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 109:8",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 109,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "פקדה",
+      "rationale": "'Кызматкердик\/көзөмөл' (KJV 'office', JPS 'charge') — сөз 8199 'пакад' тамырынан, расмий дайындоо маанисинде."
+    },
+    {
+      "kind": "measurement",
+      "subject": "күндөрү аз болсун",
+      "rationale": "Өмүрдүн күндөрү саналат — импrecative өлчөө."
+    }
+  ],
+  "translation": "Анын күндөрү аз болсун, анын кызматкердигин башка бирөө алсын.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "6f19dae491a01475922e5575bbc1bde79c2b2eed86026de955e8e7f91e9ab34a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/109\/5-8.1791217187314.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "болсун"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "анын күндөрү"
+    },
+    {
+      "surface": "מעטים",
+      "gloss": "аз"
+    },
+    {
+      "surface": "פקדתו",
+      "gloss": "анын кызматкердигин"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "алсын"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "башка бирөө"
+    }
+  ],
+  "timestamp": "2026-10-05T16:19:47.316493324Z",
+  "model": "glm-5.3"
+}

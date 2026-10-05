@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 27:10",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "verse",
+      "rationale": "Санак: жыйырма түркүк, жыйырма пайдубал."
+    },
+    {
+      "kind": "substitution",
+      "subject": "חשוקים",
+      "rationale": "Сөз «байланыштырылган» деген — түркүктөрдү бириктирген тилке\/шыргай; «байламта» деп алынды."
+    }
+  ],
+  "translation": "Анын түркүктөрү жыйырма жана алардын пайдубалдары жыйырма жезден; түркүктөрдүн илгичтери жана алардын байламталары күмүш.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "589aa9bf494ccb0db3abecbeeeff8860bd697dc46c27970f62bd968a95847a96",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/27\/9-12.1791202392388.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועמדיו",
+      "gloss": "жана анын түркүктөрү"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "жыйырма"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "жана алардын пайдубалдары"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "жыйырма"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "жез"
+    },
+    {
+      "surface": "וגוי",
+      "gloss": "илгичтери"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "түркүктөрдүн"
+    },
+    {
+      "surface": "וחשוקיהם",
+      "gloss": "жана алардын байламталары"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "күмүш"
+    }
+  ],
+  "timestamp": "2026-10-05T12:13:12.389127284Z",
+  "model": "glm-5.3"
+}

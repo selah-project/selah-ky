@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 36:8",
+  "book": "ezekiel",
+  "lang": "ky",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "анткени … келди",
+      "rationale": " לבוא 'to come' is an infinitive complementary to קרבו 'they drew near'; folded into one verb, infinitive gloss elided"
+    },
+    {
+      "kind": "you",
+      "subject": "Йисраэлдин тоолору",
+      "rationale": " direct second-person address to the mountains of Israel"
+    },
+    {
+      "kind": "elision",
+      "subject": "מындай мыйзамдай}",
+      "rationale": " no such marker — ignore; Hebrew has no added particles here"
+    }
+  ],
+  "translation": "Ал эми силер, Йисраэлдин тоолору, бутактарыңарды чыгарасыңар жана мыйзамдай} мөмөлөрүңөрдү элим Йисраелге ташыйсыңар, анткени алар жакындап келди.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "06b2597d2e50b0dda299f8134be9cb17747ec2e167e093faa17bcbd8b17b2add",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ezekiel\/36\/5-8.1791213338759.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "ал эми силер"
+    },
+    {
+      "surface": "הרי",
+      "gloss": "тоолору"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэлдин"
+    },
+    {
+      "surface": "ענפכם",
+      "gloss": "бутактарыңарды"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "чыгарасыңар"
+    },
+    {
+      "surface": "ופריכם",
+      "gloss": "жана мөмөлөрүңөрдү"
+    },
+    {
+      "surface": "תשאו",
+      "gloss": "ташыйсыңар"
+    },
+    {
+      "surface": "לעמי",
+      "gloss": "элим"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраелге"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "жакындап келди"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-10-05T15:15:38.760826919Z",
+  "model": "glm-5.3"
+}

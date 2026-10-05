@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 4:20",
+  "book": "2-chronicles",
+  "lang": "ky",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "סגור",
+      "rationale": "'Жабылган\/бүтөлгөн' алтын — салттуу 'таза алтын' деп которулат, бирок сөздүн тамыры 'жабуу' дегенди билдирет."
+    },
+    {
+      "kind": "elision",
+      "subject": "כמשפט",
+      "rationale": "'Өкүм\/жобо боюнча' — Дебирдин алдындагы чырактардын жанышуу тартиби ыйык жобо катары берилген."
+    }
+  ],
+  "translation": "Жана ⟨את⟩ чыракчыларды жана алардын чырактарын — Дебирдин алдында өкүм боюнча күйгүзүү үчүн — таза алтындан.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "5acb737a7fc1abf950578a72ce9356f2b0ceb64e0951c3547bac25653c5fff75",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-chronicles\/4\/17-20.1791222615087.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "жана ⟨את⟩",
+      "marks": "чыракчыларды"
+    },
+    {
+      "surface": "המנרות",
+      "gloss": "чыракчыларды"
+    },
+    {
+      "surface": "ונרתיהם",
+      "gloss": "жана алардын чырактарын"
+    },
+    {
+      "surface": "לבערם",
+      "gloss": "күйгүзүү үчүн"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "өкүм боюнча"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "алдында"
+    },
+    {
+      "surface": "הדביר",
+      "gloss": "Дебирдин"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "алтындан"
+    },
+    {
+      "surface": "סגור",
+      "gloss": "таза"
+    }
+  ],
+  "timestamp": "2026-10-05T17:50:15.088904826Z",
+  "model": "glm-5.3"
+}

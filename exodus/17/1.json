@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 17:1",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ал-пи Яхве",
+      "rationale": "«Яхвенин оозу боюнча» — буюрумдун идиомасы, кыргызча «боюнча» менен берилди."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨үчүн⟩",
+      "rationale": "Ивритте «эл ичүүгэ суу жок» деп турат; кыргызча «эл үчүн» кошулду."
+    }
+  ],
+  "translation": "Жана Йисраэл уулдарынын бүт жамааты Син чөлүнөн өз жүрүштөрү боюнча Яхвенин оозу боюнча жөнөп, Рефидимде лагер курду, жана эл ичүүгэ суу жок болду.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "4e0cb33fb780de23a5457460b0fac974a3ed65f1b147121e73b186193c4b33d9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/17\/1-4.1791202241587.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "жөнөп"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүт"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "жамааты"
+    },
+    {
+      "surface": "בני",
+      "gloss": "уулдарынын"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэл"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "чөлүнөн"
+    },
+    {
+      "surface": "סין",
+      "gloss": "Син"
+    },
+    {
+      "surface": "למסעיהם",
+      "gloss": "өз жүрүштөрү боюнча"
+    },
+    {
+      "surface": "על",
+      "gloss": "боюнча"
+    },
+    {
+      "surface": "פי",
+      "gloss": "оозу"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "лагер курду"
+    },
+    {
+      "surface": "ברפידים",
+      "gloss": "Рефидимде"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "жок"
+    },
+    {
+      "surface": "מים",
+      "gloss": "суу"
+    },
+    {
+      "surface": "לשתת",
+      "gloss": "ичүүгэ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "эл ⟨үчүн⟩"
+    }
+  ],
+  "timestamp": "2026-10-05T12:10:41.588356481Z",
+  "model": "glm-5.3"
+}

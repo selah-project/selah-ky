@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 27:7",
+  "book": "proverbs",
+  "lang": "ky",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жан",
+      "rationale": "נפש — «дем алуучу жандык, тирчилик күчү»; «жан» эң жакын, бирок бул «рух» эмес"
+    },
+    {
+      "kind": "crux",
+      "subject": "תבוס",
+      "rationale": "«таптоо» (ylt) же «жек көрүү\/жарамсыз көрүү» (KJV «loatheth»); тамыр — бут менен басуу, таптоо"
+    }
+  ],
+  "translation": "Ток жан балдан таптанат, ач жан болсо бардык ачуну таттуу табат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "ecf70c51ac4394523a4be221211784d1789f6bf649666812e138ca37d67919a8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/27\/5-8.1791218394416.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "жан"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "ток"
+    },
+    {
+      "surface": "תבוס",
+      "gloss": "таптанат"
+    },
+    {
+      "surface": "נפת",
+      "gloss": "балдан"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "жана жан"
+    },
+    {
+      "surface": "רעבה",
+      "gloss": "ач"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бардык"
+    },
+    {
+      "surface": "мר",
+      "gloss": "ачууну"
+    },
+    {
+      "surface": "מתוק",
+      "gloss": "таттуу табат"
+    }
+  ],
+  "timestamp": "2026-10-05T16:39:54.417080896Z",
+  "model": "glm-5.3"
+}

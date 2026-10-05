@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 10:2",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ידלק",
+      "rationale": "\"Отко алдырт\" (дегеле, кубалайт) же YLT сыяктуу \"жакыр ызга чыгат\" (каарланат); экөө тең דלק тамырынан — от."
+    },
+    {
+      "kind": "crux",
+      "subject": "יתפשו",
+      "rationale": "Аңдатма \"каралышсын\" (тилек) же баяндоо \"каралышат\" (KJV\/JPS айырмасы); контекст тилекти колдойт."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מזמות\/חשבו",
+      "rationale": "\"Айлампа ойлоо\" — ойдун токулушу туурарады; кыргызча \"ойлогон айлампа\" менен сакталды."
+    }
+  ],
+  "translation": "Жаман адам текеберлиги менен жакырды ызга чыгат; ошол ойлогон айлампаларында кармалышсын.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "64b7c75c8ddef3e9eb6a115d81ce206838af1db8d70ce08a7d5c22a9f9020d50",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/10\/1-4.1791215506313.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בגאות",
+      "gloss": "текеберлиги менен"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "жаман адам"
+    },
+    {
+      "surface": "ידלק",
+      "gloss": "ызга чыгат"
+    },
+    {
+      "surface": "עני",
+      "gloss": "жакырды"
+    },
+    {
+      "surface": "יתפשו",
+      "gloss": "каралышсын"
+    },
+    {
+      "surface": "במזמות",
+      "gloss": "айлампаларында"
+    },
+    {
+      "surface": "זו",
+      "gloss": "ошол"
+    },
+    {
+      "surface": "חשבו",
+      "gloss": "ойлогон"
+    }
+  ],
+  "timestamp": "2026-10-05T15:51:46.314330162Z",
+  "model": "glm-5.3"
+}

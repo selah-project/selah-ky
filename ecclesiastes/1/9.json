@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 1:9",
+  "book": "ecclesiastes",
+  "lang": "ky",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שהיה\/שיהיה · שנעשה\/שיעשה",
+      "rationale": "Үнүштүү айкаш: болгон-болот, кылынган-кылынат — өткөн менен келечектин күзгүлүүү түзүлүшү кыргызча да сакталды."
+    },
+    {
+      "kind": "crux",
+      "subject": "מה",
+      "rationale": "מה — сурак же өткөн заман баяндоо; KJV\/ASV\/JPS баяндоо деп, BSB түз баяндоо деп алышкан; бул жерде риторикалык сурак катары берилди."
+    }
+  ],
+  "translation": "Эмне болгон — ошол дагы болот, жана эмне кылынган — ошол дагы кылынат; жана күндүн астында жаңы эч нерсе жок.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "27f173a84f9a1ec94f8ebd53284a036761940cecce59e8b5ebee17c31b58bc0d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ecclesiastes\/1\/9-12.1791219966123.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "эмне"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "болгон"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ошол"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "болот"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "жана эмне"
+    },
+    {
+      "surface": "שנעשה",
+      "gloss": "кылынган"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ошол"
+    },
+    {
+      "surface": "שיעשה",
+      "gloss": "кылынат"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "жана жок"
+    },
+    {
+      "surface": "כל",
+      "gloss": "эч нерсе"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "жаңы"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "астында"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "күндүн"
+    }
+  ],
+  "timestamp": "2026-10-05T17:06:06.124134721Z",
+  "model": "glm-5.3"
+}

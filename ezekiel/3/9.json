@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 3:9",
+  "book": "ezekiel",
+  "lang": "ky",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שמיר",
+      "rationale": "шамыр: 'тыкан таш' (алмаз) же 'тикен' — байыркы котормолор 'адамант' деп айтышкан."
+    },
+    {
+      "kind": "substitution",
+      "subject": "בית מרי",
+      "rationale": "козголоңчул үй — бул образдуу түрмөк: 'ачуулуу үй' деген сөз айкашы."
+    },
+    {
+      "kind": "you",
+      "subject": "Йехезкелге",
+      "rationale": "Яхве пайгамбарга түз кайрылат."
+    }
+  ],
+  "translation": "Шамырдай, таштан да катуу кылып, мен сенин маңдайыңды бердим; алардан коркпо, алардын жүзүнөн тайпай тургун, анткени алар — козголоңчул үй.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "84a6f5ea000c804b8f93c4b1b8fd58ec51b5c30a84b34c8e1fe867143f2a8311",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ezekiel\/3\/9-12.1791212139039.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כשמיר",
+      "gloss": "шамырдай"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "катуу"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "таштан"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "бердим"
+    },
+    {
+      "surface": "מצחך",
+      "gloss": "маңдайыңды"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "коркпо"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "аларды"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "жана жок"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "тайпай тургун"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "алардын жүзүнөн"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "בית",
+      "gloss": "үй"
+    },
+    {
+      "surface": "מרי",
+      "gloss": "козголоңчул"
+    },
+    {
+      "surface": "המה",
+      "gloss": "алар"
+    }
+  ],
+  "timestamp": "2026-10-05T14:55:39.040506356Z",
+  "model": "glm-5.3"
+}

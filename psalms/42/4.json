@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 42:4",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "жаш нан болду",
+      "rationale": "Идиома: жаш тамактын ордунда — бугу образы менен байланышкан"
+    },
+    {
+      "kind": "you",
+      "subject": "мага айтышканда",
+      "rationale": "Душмандар псалмдын айттуучусуна түз кайрылышат"
+    }
+  ],
+  "translation": "Көз жашым мага күнү-түнү нан болду; күн бою мага айтышканда: \"Элохимуң кайда?\"",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "9adda3a0b6d948574b8d5f6e9a495cfb0791bdaabbc2aee75c9250080c01ffbd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/42\/1-4.1791216007909.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "болду"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мага"
+    },
+    {
+      "surface": "דמעתי",
+      "gloss": "Көз жашым"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "нан"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "күнү"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "түнү"
+    },
+    {
+      "surface": "באמר",
+      "gloss": "айтышканда"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "мага"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бою"
+    },
+    {
+      "surface": "היום",
+      "gloss": "күн"
+    },
+    {
+      "surface": "איה",
+      "gloss": "кайда"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Элохимуң"
+    }
+  ],
+  "timestamp": "2026-10-05T16:00:07.910572110Z",
+  "model": "glm-5.3"
+}

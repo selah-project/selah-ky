@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 40:20",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ал",
+      "rationale": "Кыргыз тили этиштин ээсин талап кылат."
+    },
+    {
+      "kind": "crux",
+      "subject": "капкак",
+      "rationale": "הכפרת — 'ырайым ордогу' (KJV 'mercy seat') же жөн гана 'сандыктын капкагы' (JPS); бул жерде жөнөкөй 'капкак' тандылды."
+    }
+  ],
+  "translation": "Жана ал алып, ⟨את⟩ күбөлүктү сандыкка салды, ⟨את⟩ таяктарды сандыктын үстүнө коюп, ⟨את⟩ капкагын сандыктын үстүнө, өйдө койду.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "e075e919630fd3cd16c784d6f1d69323dd13039d0e78d89fa3d524a42b5a2fc7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/40\/19-20.1791223641899.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "алып"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "салды"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "күбөлүктү"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "күбөлүктү"
+    },
+    {
+      "surface": "אל",
+      "gloss": "сандыкка"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "сандыкка"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "коюп"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "таяктарды"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "таяктарды"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстүнө"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "сандыктын"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "койду"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "капкагын"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "капкагын"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстүнө"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "сандыктын"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "өйдө"
+    }
+  ],
+  "timestamp": "2026-10-05T18:07:21.901292919Z",
+  "model": "glm-5.3"
+}

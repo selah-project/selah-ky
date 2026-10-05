@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 15:17",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כרת ברית (келишим кесүү)",
+      "rationale": "еврейче «келишимди кесүү» — бул кесилген бөлүктөр менен байланышкан"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הגזרים",
+      "rationale": "«кесилген бөлүктөр» — 15:10 дагы кесилген жаныбарларга шилтеме, байланыш көзгө урунат"
+    },
+    {
+      "kind": "hapax",
+      "subject": "עלטה",
+      "rationale": "«караңгы» — Танахта сейрек сөз, калың караңгылыкты билдирет"
+    }
+  ],
+  "translation": "Күн батып, караңгы түшкөндө, мына — түтөгөн тандыр жана от факелы; ал бул кесилген бөлүктөрдүн ортосунан өттү.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "34c231771ed0eb9f3a7ec09b2c5f3569b35f763fa43a7d78903856bf5d29d682",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/15\/17-20.1791200977752.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "болду"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "күн"
+    },
+    {
+      "surface": "באה",
+      "gloss": "батып"
+    },
+    {
+      "surface": "ועלטה",
+      "gloss": "жана караңгы"
+    },
+    {
+      "surface": "היה",
+      "gloss": "түштү"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "жана мына"
+    },
+    {
+      "surface": "תנור",
+      "gloss": "тандыр"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "түтөгөн"
+    },
+    {
+      "surface": "ולפיד",
+      "gloss": "жана факел"
+    },
+    {
+      "surface": "אש",
+      "gloss": "от"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ал"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "өттү"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ортосунан"
+    },
+    {
+      "surface": "הגזרים",
+      "gloss": "кесилген бөлүктөрдүн"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "бул"
+    }
+  ],
+  "timestamp": "2026-10-05T11:49:37.753296763Z",
+  "model": "glm-5.3"
+}

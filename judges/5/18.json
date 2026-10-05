@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "judges 5:18",
+  "book": "judges",
+  "lang": "ky",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жан",
+      "rationale": "נפש — тамак\/дем\/жашоо күчү; 'жан' дале толук эмес"
+    },
+    {
+      "kind": "crux",
+      "subject": "חרף",
+      "rationale": "'ачыкка чыгарды, коркпой сунду' — 'аябаган' деген эркинчилең которуу"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨бул⟩ · ⟨ал⟩",
+      "rationale": "кыргыз тили талап кылган ат атоочтор, еврейчеде жок"
+    }
+  ],
+  "translation": "Зебулун — ⟨бул⟩ өз жанын өлүмгэ аябаган эл, жана Нафтали ⟨ал⟩ талаанын бийиктиктеринде.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "bdfc2024d56a8ab80cab947a36c06312832e8672deaf034906f9938a44412841",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/judges\/5\/17-20.1791206107045.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זבלון",
+      "gloss": "Зебулун"
+    },
+    {
+      "surface": "עם",
+      "gloss": "эл"
+    },
+    {
+      "surface": "חרף",
+      "gloss": "аябаган"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "өз жанын"
+    },
+    {
+      "surface": "למות",
+      "gloss": "өлүмгэ"
+    },
+    {
+      "surface": "ונфתלי",
+      "gloss": "жана Нафтали"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстүндө"
+    },
+    {
+      "surface": "מרומי",
+      "gloss": "бийиктиктеринин"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "талаанын"
+    }
+  ],
+  "timestamp": "2026-10-05T13:15:07.046070139Z",
+  "model": "glm-5.3"
+}

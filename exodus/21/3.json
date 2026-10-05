@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 21:3",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "בגפו",
+      "rationale": "Букма мааниси «өз денеси менен» — жеке өзү, бирөөсүз; кыргызча «жеке өзү» деген турмуш сөзү берилди"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בגפו יבא \/ בגפו יצא",
+      "rationale": "Кирүү жана чыгуу окшош түзүлүш менен айтылат — параллелизм, кыргызча сакталды"
+    }
+  ],
+  "translation": "Эгер ал жеке өзү келсе, жеке өзү чыгат; эгер ал аялдын күйөөсү болсо, аялы аны менен чыгат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "e00d3a443c679e325a2cdeb91bc8db30e8f2f8b9ede0ddde24b640bf33a8f61d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/21\/1-4.1791202322301.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "эгер"
+    },
+    {
+      "surface": "בגפו",
+      "gloss": "жеке өзү"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "келсе"
+    },
+    {
+      "surface": "בגפו",
+      "gloss": "жеке өзү"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "чыгат"
+    },
+    {
+      "surface": "אם",
+      "gloss": "эгер"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "күйөөсү"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "аялдын"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ал"
+    },
+    {
+      "surface": "ויצאה",
+      "gloss": "чыгат"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "аялы"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "аны менен"
+    }
+  ],
+  "timestamp": "2026-10-05T12:12:02.302538504Z",
+  "model": "glm-5.3"
+}

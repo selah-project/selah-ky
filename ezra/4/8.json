@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezra 4:8",
+  "book": "ezra",
+  "lang": "ky",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "кеңешчи",
+      "rationale": "בעל טעם — «акыл-эстин ээси», лексикалык форма «кеңешчи» деп берилди."
+    },
+    {
+      "kind": "you",
+      "subject": "кат",
+      "rationale": "Аят падыша Артахшаштага багытталган каттын башталышы — төмөнкү аяттарга чакыруу."
+    }
+  ],
+  "translation": "Рехум кеңешчи жана жазуучу Шимшай Йерушалайм жөнүндө падыша Артахшаштага бир кат мындайча жазышты:",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "cebcd1c2d5db7c1032d76f990de8f6ba96f03719a9161daae9df580ce415f644",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ezra\/4\/5-8.1791221017252.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רחום",
+      "gloss": "Рехум"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "ээси"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "кеңеш"
+    },
+    {
+      "surface": "ושמשי",
+      "gloss": "жана Шимшай"
+    },
+    {
+      "surface": "ספרא",
+      "gloss": "жазуучу"
+    },
+    {
+      "surface": "כתבו",
+      "gloss": "жазышты"
+    },
+    {
+      "surface": "אגרה",
+      "gloss": "кат"
+    },
+    {
+      "surface": "חדה",
+      "gloss": "бир"
+    },
+    {
+      "surface": "על",
+      "gloss": "жөнүндө"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Йерушалайм"
+    },
+    {
+      "surface": "לארתחששתא",
+      "gloss": "Артахшаштага"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "падыша"
+    },
+    {
+      "surface": "כנמא",
+      "gloss": "мындайча"
+    }
+  ],
+  "timestamp": "2026-10-05T17:23:37.253374641Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "2-samuel 3:38",
+  "book": "2-samuel",
+  "lang": "ky",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "הלוא",
+      "rationale": "суроу-болочтуу «-бы\/-бе» мүчөсү менен берилди, өзүнчө сөз жок"
+    },
+    {
+      "kind": "idiom",
+      "subject": "נפל",
+      "rationale": "«кулады» — еврейче «жыгылды\/өлдү» маанисинде; кыргызча «күл төгүлдү» дагы болмок"
+    },
+    {
+      "kind": "you",
+      "subject": "кулдарына",
+      "rationale": "падыша өз кулдарына түз кайрылуу — суроо формасы"
+    }
+  ],
+  "translation": "Жана падыша өз кулдарына айтты: «Билбейсиңерби, бүгүн Йисраэлде төрө жана улуу адам кулады?»",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "00d91dafc87941300e606976ca2ffeb947016096734c0aae0f36f55fe61f0d1f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-samuel\/3\/37-39.1791207351490.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "падыша"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "кулдарына"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": ""
+    },
+    {
+      "surface": "תדעו",
+      "gloss": "билбейсиңерби"
+    },
+    {
+      "surface": "כי",
+      "gloss": "-ды"
+    },
+    {
+      "surface": "שר",
+      "gloss": "төрө"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "жана улуу"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "кулады"
+    },
+    {
+      "surface": "היום",
+      "gloss": "бүгүн"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ушул"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Йисраэлде"
+    }
+  ],
+  "timestamp": "2026-10-05T13:35:51.491357324Z",
+  "model": "glm-5.3"
+}

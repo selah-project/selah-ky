@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 3:17",
+  "book": "leviticus",
+  "lang": "ky",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "тирек — жок",
+      "rationale": "Еврейче текстте «бул» деген атооч жок; жобо ээсиз келет"
+    },
+    {
+      "kind": "elision",
+      "subject": "לא",
+      "gloss": "жебеңер деген терс этишке жуурулду"
+    },
+    {
+      "kind": "you",
+      "subject": "Ысрайыл коомуна",
+      "rationale": "Көптүк санда 2-жац — тыюу айтылууда"
+    }
+  ],
+  "translation": "Түбөлүктүк жобо — муундуу муунустарыңарга, бардык турмуш жайларыңарда: эч бир май жана эч бир кан жебеңер.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "d24a50ef8f2d925c03eee118c3d0ab7a3847e8b3486c26f4765bfbd46fd3601e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/3\/17-17.1791202771368.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חקת",
+      "gloss": "жобо"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "түбөлүктүк"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "муунустарыңарга"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "бардык"
+    },
+    {
+      "surface": "מושבתיכם",
+      "gloss": "турмуш жайларыңарда"
+    },
+    {
+      "surface": "כל",
+      "gloss": "эч бир"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "май"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "жана эч бир"
+    },
+    {
+      "surface": "דם",
+      "gloss": "кан"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жебеңер"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "жебеңер"
+    }
+  ],
+  "timestamp": "2026-10-05T12:19:31.369513534Z",
+  "model": "glm-5.3"
+}

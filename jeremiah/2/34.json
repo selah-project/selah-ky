@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "jeremiah 2:34",
+  "book": "jeremiah",
+  "lang": "ky",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жандар",
+      "rationale": "נפש — жандык, дем, жашоо күчү; 'жан' катары берилди."
+    },
+    {
+      "kind": "crux",
+      "subject": "במחתרת מצאתים",
+      "rationale": "'аларды уурулукта таппадым' (JPS: алар кирбеген жерде) же 'мен аларды жашырын издеп таппадым' (KJV)."
+    },
+    {
+      "kind": "elision",
+      "subject": "על כל אלה",
+      "rationale": "'ушулардын баарынын үстүнөн' — 37-аятка багытталган бүтпөгөн сүйлөм, предлог түшүктөлдү."
+    }
+  ],
+  "translation": "Ошондой эле этек-жээгинде муктаж, күнөөсүз жандардын каны табылды. Уурулук кылып кирген жерлеринен таппадым ⟨буларды⟩ — анткени баарынан ⟨ошол жерлерден⟩.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "281c7d884e89a2049df56feed76be65f1193cc8e9225dcd7ef3019887ee0a67f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/jeremiah\/2\/33-36.1791210675986.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ошондой эле"
+    },
+    {
+      "surface": "בכנפיך",
+      "gloss": "этек-жээгинде"
+    },
+    {
+      "surface": "נמצאו",
+      "gloss": "табылды"
+    },
+    {
+      "surface": "דם",
+      "gloss": "каны"
+    },
+    {
+      "surface": "נפשות",
+      "gloss": "жандардын"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "муктаж"
+    },
+    {
+      "surface": "נקיים",
+      "gloss": "күнөөсүз"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "במחתרת",
+      "gloss": "уурулук кылып кирген жерлеринен"
+    },
+    {
+      "surface": "מצאתים",
+      "gloss": "таппадим"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "על",
+      "gloss": "—"
+    },
+    {
+      "surface": "כל",
+      "gloss": "баарынан"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ошол жерлерден"
+    }
+  ],
+  "timestamp": "2026-10-05T14:31:15.987070801Z",
+  "model": "glm-5.3"
+}

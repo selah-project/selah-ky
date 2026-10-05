@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 104:15",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 104,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "өлүмдүү адам",
+      "rationale": "אנוש — «өлгүлүк, өлүмдүү жан» деген аталыш; «адам» деген жалпы сөзгө караганда сөздүн формасы сакталды"
+    },
+    {
+      "kind": "crux",
+      "subject": "май жүздөрдү жарык кылуу үчүн",
+      "rationale": "משמן — «майдан»: «жүздөр майдан жарык болот» (YLT, JPS) же «май жүздү жарык кылат» (KJV); биринчи окума тандылды"
+    }
+  ],
+  "translation": "Жана шарап өлүмдүү адамдын жүрөгүн кубантат, май жүздөрдү жарык кылуу үчүн, жана нан өлүмдүү адамдын жүрөгүн бекемдейт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "e1d495dd5bbe341b1261def89a48026f5aeefad034a9bfec79bdd8f528adc5e0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/104\/13-16.1791217025285.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויין",
+      "gloss": "жана шарап"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "кубантат"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "жүрөгүн"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "өлүмдүү адамдын"
+    },
+    {
+      "surface": "להצהיל",
+      "gloss": "жарык кылуу үчүн"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "жүздөрдү"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "май"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "жана нан"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "жүрөгүн"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "өлүмдүү адамдын"
+    },
+    {
+      "surface": "יסעд",
+      "gloss": "бекемдейт"
+    }
+  ],
+  "timestamp": "2026-10-05T16:17:05.286653339Z",
+  "model": "glm-5.3"
+}

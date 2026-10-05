@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 5:2",
+  "book": "1-samuel",
+  "lang": "ky",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "аны",
+      "rationale": "Pronoun added for the suffixed aleph-tav אתו, Kyrgyz needs the object explicit."
+    }
+  ],
+  "translation": "Пелиштиликтер Элохимдин ⟨את⟩ сандыкты алышты жана аны Дагондун үйүнө алып келишти, Дагондун жанына коюшту.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "54e0879cfe8cb456718a389f669b32562a4598d03f60c0ffadf45483615ebc7e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-samuel\/5\/1-4.1791206684910.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "алышты"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Пелиштиликтер"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сандыкты"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "сандыкты"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Элохимдин"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "алып келишти"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "аны"
+    },
+    {
+      "surface": "בית",
+      "gloss": "үйүнө"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "Дагондун"
+    },
+    {
+      "surface": "ויציגו",
+      "gloss": "коюшту"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "аны"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "жанына"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "Дагондун"
+    }
+  ],
+  "timestamp": "2026-10-05T13:24:44.911479154Z",
+  "model": "glm-5.3"
+}

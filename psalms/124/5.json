@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 124:5",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 124,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жүрөк-жан",
+      "rationale": "נפש — дем алуучу жандык, жаныктык күч; «жан» гана тар мааниде"
+    },
+    {
+      "kind": "crux",
+      "subject": "הזידונים",
+      "rationale": "«кайнаган суулар» же «текебер суулар» — Strong's боюнча кайноо\/толкун, салттуу котормолор «tekөber» дейт"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "המים הזידונים",
+      "rationale": "суунун кайнашы адамдын текеберлүүлүгүнө окшотулган"
+    }
+  ],
+  "translation": "Анда биздин жүрөк-жаныбыз үстүнөн өтмөк болчу кайнаган суулар — текебер толкундар.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "2f3f1ff67fc6c604af6d8a8895cf26968e3b4b6204f95e7d0c1401defac21b66",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/124\/5-8.1791217486254.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אזי",
+      "gloss": "анда"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "өтмөк болчу"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстүнөн"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "жүрөк-жаныбыз"
+    },
+    {
+      "surface": "המים",
+      "gloss": "суулар"
+    },
+    {
+      "surface": "הזידונים",
+      "gloss": "кайнаган-текебер"
+    }
+  ],
+  "timestamp": "2026-10-05T16:24:46.254990972Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 49:9",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨сен⟩",
+      "rationale": "Еврейде жок, маанини ачык кылуу үчүн кошулду"
+    },
+    {
+      "kind": "substitution",
+      "subject": "олжо",
+      "rationale": "מטרף — 'жыртылган олжо', бир сөз кылынды"
+    },
+    {
+      "kind": "you",
+      "subject": "Йегудага",
+      "rationale": "Ата өз уулу Йегудага түз кайрылат"
+    }
+  ],
+  "translation": "Йегуда — арстандын бабы: олжодон, уулум, ⟨сен⟩ көтөрүлдүң; ал бүктөлдү, арстандай жана арстан кыздай жатып калды; аны ким тургузат?",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "0acda0678629bb60e16fc3a1cb81802d47e019186d924266b70249a4a6218f90",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/49\/9-12.1791201809383.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גור",
+      "gloss": "бабы"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "арстан"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Йегуда"
+    },
+    {
+      "surface": "מטרף",
+      "gloss": "олжодон"
+    },
+    {
+      "surface": "בני",
+      "gloss": "уулум"
+    },
+    {
+      "surface": "עלית",
+      "gloss": "көтөрүлдүң"
+    },
+    {
+      "surface": "כרע",
+      "gloss": "бүктөлдү"
+    },
+    {
+      "surface": "רבץ",
+      "gloss": "жатып калды"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "арстандай"
+    },
+    {
+      "surface": "וכלביא",
+      "gloss": "жана арстан кыздай"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ким"
+    },
+    {
+      "surface": "יקימנו",
+      "gloss": "тургузат"
+    }
+  ],
+  "timestamp": "2026-10-05T12:03:29.383928788Z",
+  "model": "glm-5.3"
+}

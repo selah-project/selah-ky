@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 11:1",
+  "book": "joshua",
+  "lang": "ky",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "элчилерди",
+      "rationale": "Hebrew says only 'sent to'; the object sent is implied"
+    },
+    {
+      "kind": "elision",
+      "subject": "these things",
+      "rationale": "כשמע has no stated object; Kyrgyz 'укканда' leaves it likewise open"
+    }
+  ],
+  "translation": "Болду Хацордун падышасы Явин буларды укканда, ал Мадондун падышасы Йовавка жана Шимрондун падышасына жана Ахшафтын падышасына элчилерди жөнөттү.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "2bb57afbbfa1abd2ac78c0906fb572c214e6e9d1231cf9a306e5b478523f860c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/joshua\/11\/1-4.1791205789913.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Болду"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "укканда"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "Явин"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "падышасы"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Хацордун"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "жөнөттү"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ка"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "Йовав"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "падышасы"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "Мадондун"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "жана …ка"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "падышасы"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Шимрондун"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "жана …ка"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "падышасы"
+    },
+    {
+      "surface": "אכשף",
+      "gloss": "Ахшафтын"
+    }
+  ],
+  "timestamp": "2026-10-05T13:09:49.914127611Z",
+  "model": "glm-5.3"
+}

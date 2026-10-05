@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 29:1",
+  "book": "proverbs",
+  "lang": "ky",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "мойнун катуу кылган",
+      "rationale": "ערף הקשה 'мойун катуу кылуу' — итааттан баш тартуу идиомасы, кыргызча да сөзмө-сөз сакталды"
+    },
+    {
+      "kind": "substitution",
+      "subject": "сынаты",
+      "rationale": "ישבר 'жарылуу\/сынуу' — кээ бир котормолор 'жок кылынат' деп жумшартышат"
+    }
+  ],
+  "translation": "Токтоосу көп киши — мойнун катуу кылган адам — капыстан сынаты, жана айыктыруу жок.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "2b8336082e41c1b0d1af0495e2a2ea5050121a3e7d3fea4beab8ffad2195df0a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/29\/1-4.1791218428609.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "киши"
+    },
+    {
+      "surface": "תוכחות",
+      "gloss": "токтоосу көп"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "катуу кылган"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "мойнун"
+    },
+    {
+      "surface": "פתע",
+      "gloss": "капыстан"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "сынаты"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "жана жок"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "айыктыруу"
+    }
+  ],
+  "timestamp": "2026-10-05T16:40:28.610423086Z",
+  "model": "glm-5.3"
+}

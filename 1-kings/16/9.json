@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 16:9",
+  "book": "1-kings",
+  "lang": "ky",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "жаткан эле",
+      "rationale": "Кыргызча этиштин жаткыч маанисы үчүн кошулду; еврейче жок"
+    },
+    {
+      "kind": "substitution",
+      "subject": "турган",
+      "rationale": "אשר על הבית — «үйдүн үстүнө болгон» — сарай башкаруучусу деген кызмат"
+    }
+  ],
+  "translation": "Жана анын кулу Зимри, арабалардын жарымынын башчысы, ага каршы куйрөөкө койду; ал болсо Тирцада, үйдүн үстүнө турган Арцанын үйүндө ичип, мас болуп жаткан эле.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "6f02ec899826ec5a24e1809910db58003015a7afa903464827bd41d854d62eee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-kings\/16\/9-12.1791208389300.json",
+    "code": "641241cf-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקשר",
+      "gloss": "куйрөөкө койду"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ага каршы"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "анын кулу"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Зимри"
+    },
+    {
+      "surface": "שר",
+      "gloss": "башчысы"
+    },
+    {
+      "surface": "מחצית",
+      "gloss": "жарымынын"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "арабалардын"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ал болсо"
+    },
+    {
+      "surface": "בתרצה",
+      "gloss": "Тирцада"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "ичип"
+    },
+    {
+      "surface": "שכור",
+      "gloss": "мас болуп"
+    },
+    {
+      "surface": "בית",
+      "gloss": "үйүндө"
+    },
+    {
+      "surface": "ארצא",
+      "gloss": "Арцанын"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "турган"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстүнө"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "үйдүн"
+    },
+    {
+      "surface": "בתרצה",
+      "gloss": "Тирцада"
+    }
+  ],
+  "timestamp": "2026-10-05T13:53:09.301377115Z",
+  "model": "glm-5.3"
+}

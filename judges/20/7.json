@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 20:7",
+  "book": "judges",
+  "lang": "ky",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "сыңар",
+      "rationale": "Hebrew lacks copula; Kyrgyz requires it, bracketed"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Левиттин үнү",
+      "rationale": "the Levite summons all Israel to give word and counsel here and now"
+    },
+    {
+      "kind": "you",
+      "subject": "Йисраэлдин уулдарына",
+      "rationale": "direct address to the assembled tribes"
+    }
+  ],
+  "translation": "Карагыла, силер баарыңар Йисраэлдин уулдары ⟨сыңар⟩; бул жерде өзүңөргө сөз жана кеңеш бергиле.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "2806584d19cd92ba378db9dc821264bc51d6e8abfcd2abc42ef861565c77f4f6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/judges\/20\/5-8.1791206508144.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "карагыла"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "баарыңар"
+    },
+    {
+      "surface": "בני",
+      "gloss": "уулдары"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэлдин"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "бергиле"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "өзүңөргө"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сөз"
+    },
+    {
+      "surface": "ועצה",
+      "gloss": "жана кеңеш"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "бул жерде"
+    }
+  ],
+  "timestamp": "2026-10-05T13:21:48.145746208Z",
+  "model": "glm-5.3"
+}

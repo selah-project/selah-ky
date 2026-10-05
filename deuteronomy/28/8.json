@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 28:8",
+  "book": "deuteronomy",
+  "lang": "ky",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אתך",
+      "rationale": "жакындык предлогу «сен менен», буйруктун объектиси эмес — ⟨את⟩ белгиси менен көрсөтүлдү"
+    }
+  ],
+  "translation": "Яхве ⟨את⟩ батышын сен менен сенин кампаларыңда жана колуң узаткан нерсенин баарына буйрук кылсын; жана сени баттасын жерде, сага Яхве Элохимиң берген жерде.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "7ba576684ab76643af980a6ddeaeadd1e8f5e6e4078ac7f2ca712657c8f30fac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/28\/5-8.1791205294743.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יצו",
+      "gloss": "буйрук кылсын"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ сен менен"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "батышын"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "батышын"
+    },
+    {
+      "surface": "באסמיך",
+      "gloss": "сенин кампаларыңда"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "жана баарына"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "узаткан"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "колуң"
+    },
+    {
+      "surface": "וברכך",
+      "gloss": "жана сени баттасын"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "жерде"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "жерде"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Элохимиң"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "берген"
+    },
+    {
+      "surface": "לך",
+      "gloss": "сага"
+    }
+  ],
+  "timestamp": "2026-10-05T13:01:34.744400338Z",
+  "model": "glm-5.3"
+}

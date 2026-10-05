@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joel 4:17",
+  "book": "joel",
+  "lang": "ky",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨анда⟩",
+      "rationale": "Ивриттин жайгашууилтикти (״שכן בציון״ — Цийондо жашаган) кыргызча айкын жайгашуу керек."
+    },
+    {
+      "kind": "elision",
+      "subject": "כי",
+      "rationale": "'Ошондо' жана эки чекит аркылуу туюлду, өзүнчө сөз катары берилген жок."
+    },
+    {
+      "kind": "substitution",
+      "subject": "זרים",
+      "rationale": "זר — 'бөтөн, чет элдик адам' сөзү 'бөтөндөр' катары берилди, мурдагы салттык 'жат элдер' ордуна."
+    }
+  ],
+  "translation": "Ошондо билесиңер: Мен — Яхве, силердин Элохимуңар, Цийон менин ыйык тоом — ⟨анда⟩ жашаган; Йерушалайим ыйык болот, жана бөтөндөр анын аркылуу өтпөйт мындан ары.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "0e0b6eb408dbc1b0f6fbd6e576c634e1cc8bbc2be8d770e2513278e9ca094e86",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/joel\/4\/17-20.1791214189930.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידעתם",
+      "gloss": "Ошондо билесиңер"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "אני",
+      "gloss": "Мен"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "силердин Элохимуңар"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "жашаган"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "Цийон"
+    },
+    {
+      "surface": "הר",
+      "gloss": "тоосу"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "менин ыйык"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "болот"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Йерушалайим"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ыйык"
+    },
+    {
+      "surface": "וזרים",
+      "gloss": "жана бөтөндөр"
+    },
+    {
+      "surface": "לא",
+      "gloss": "өтпөйт"
+    },
+    {
+      "surface": "יעברו",
+      "gloss": "аркылуу өт"
+    },
+    {
+      "surface": "בה",
+      "gloss": "анын"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "мындан ары"
+    }
+  ],
+  "timestamp": "2026-10-05T15:29:49.931210786Z",
+  "model": "glm-5.3"
+}

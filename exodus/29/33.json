@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 29:33",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kaptoo",
+      "rationale": "כפר literally 'to cover'; rendered 'kaptoo (kofonmo)' keeping the root picture rather than a doctrinal term"
+    },
+    {
+      "kind": "idiom",
+      "subject": "kolun tolturuu",
+      "rationale": "מלא את ידם 'to fill the hand' = to ordain\/consecrate; literal hand-filling kept"
+    },
+    {
+      "kind": "elision",
+      "subject": "אתם (second)",
+      "rationale": "second aleph-tav pronoun form marks the object of eating; carried as marker only"
+    }
+  ],
+  "translation": "Жана алар ⟨אתם⟩ жесе — аны менен алар үчүн каптоо (кофонмо) жасалган, алардын колун толтуруу үчүн, аларды ыйыктоо үчүн; бөтөн адам жебейт, анткени алар — ыйык.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "7ee97fc3ff2fede9f3c2a254554e5bc1718f405486bdb5e6264fc284fc2df85c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/29\/33-36.1791202498545.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "жана алар жесе"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "алар"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "алар"
+    },
+    {
+      "surface": "כפר",
+      "gloss": "каптоо жасалган"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "алар үчүн"
+    },
+    {
+      "surface": "למלא",
+      "gloss": "толтуруу үчүн"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "колун"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "алардын колун"
+    },
+    {
+      "surface": "לקדש",
+      "gloss": "ыйыктоо үчүн"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "бөтөн адам жебейт"
+    },
+    {
+      "surface": "וזר",
+      "gloss": "бөтөн адам"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "жебейт"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ыйык"
+    },
+    {
+      "surface": "הם",
+      "gloss": "алар"
+    }
+  ],
+  "timestamp": "2026-10-05T12:14:58.546351157Z",
+  "model": "glm-5.3"
+}

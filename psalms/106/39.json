@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 106:39",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 106,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "бузукluk кылышты",
+      "rationale": "זנה — 'зина кылуу' деген сөздүн өзү; элдин Яхвеге болгон чынжырлыгын бузууну туюнтат"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מעשיהם\/מעלליהם",
+      "rationale": "Эки окшош түзүлүштөгү 'өз иштери\/өз кылыштары' — ивриттик параллелизм, кыргызча бир аз жумшарды"
+    }
+  ],
+  "translation": "Жана алар өз иштери менен араныган болушту жана өз кылмыштары менен бузукluk кылышты.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "2584ab0b2b34fe58bc34147c97fae5781c2db4426109cfe3bae8bedbacef795b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/106\/37-40.1791217099493.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויטמאו",
+      "gloss": "араныган болушту"
+    },
+    {
+      "surface": "במעשיהם",
+      "gloss": "өз иштери менен"
+    },
+    {
+      "surface": "ויזנו",
+      "gloss": "бузукluk кылышты"
+    },
+    {
+      "surface": "במעלליהם",
+      "gloss": "өз кылмыштары менен"
+    }
+  ],
+  "timestamp": "2026-10-05T16:18:19.498603144Z",
+  "model": "glm-5.3"
+}

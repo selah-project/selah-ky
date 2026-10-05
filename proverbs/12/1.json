@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 12:1",
+  "book": "proverbs",
+  "lang": "ky",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "малдай надан",
+      "rationale": "בער — мал-жан жаныбарга тиешелүү түшүнүк, 'жапайы\/акылсыз' деп жумшар коюлду, жаныбар сүрөтү сакталды"
+    },
+    {
+      "kind": "crux",
+      "subject": "оңдоо",
+      "rationale": "מוסר жана תוכחת экөө тең 'тарбия\/оңдоо' маанисинде; экөөнү айырмалоо үчүн 'тарбия' жана 'оңдоо' деп бөлдүм"
+    }
+  ],
+  "translation": "Тарбияны сүйгөн билимди сүйөт, ал эми оңдоону жек көргөн — малдай надан.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "0638d996d48731068fb7026737d18735acaf4c13abd6173197b0aa539974cd24",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/12\/1-4.1791218003766.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "сүйгөн"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "тарбияны"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "сүйөт"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "билимди"
+    },
+    {
+      "surface": "ושנא",
+      "gloss": "жек көргөн"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "оңдоону"
+    },
+    {
+      "surface": "בער",
+      "gloss": "малдай надан"
+    }
+  ],
+  "timestamp": "2026-10-05T16:33:23.766683176Z",
+  "model": "glm-5.3"
+}

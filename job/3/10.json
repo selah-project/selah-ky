@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 3:10",
+  "book": "job",
+  "lang": "ky",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "курсактагы эшиктер",
+      "rationale": "דלתי בטן — энелік курсактын 'эшиктери'; кыргызча да эшик сөзү сакталды"
+    },
+    {
+      "kind": "substitution",
+      "subject": "эмгек",
+      "rationale": "עמל — оор тозок, азап маанисинде да; бир сөз 'эмгек' кармалды"
+    }
+  ],
+  "translation": "Анткени ал курсактагы эшиктерди жаап койгон жок жана эмгекти көздөрүмдөн жашырган жок.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "ecfed7b6939c18312c618bd114b16097bd56db81b6e3a54b1d35f8248973ecc7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/job\/3\/9-12.1791218517549.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "жаап койгон"
+    },
+    {
+      "surface": "דלתי",
+      "gloss": "эшиктерди"
+    },
+    {
+      "surface": "בטני",
+      "gloss": "курсактын"
+    },
+    {
+      "surface": "ויסתר",
+      "gloss": "жана жашырган"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "эмгекти"
+    },
+    {
+      "surface": "мעיני",
+      "gloss": "көздөрүмдөн"
+    }
+  ],
+  "timestamp": "2026-10-05T16:41:57.550509616Z",
+  "model": "glm-5.3"
+}

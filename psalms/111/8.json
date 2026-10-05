@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 111:8",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 111,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Алар",
+      "rationale": "subject pronoun supplied — Hebrew participle carries no explicit subject; it refers to the precepts of v.7"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לעד לעולם",
+      "rationale": "double forever-formula, intensification by paired synonyms"
+    }
+  ],
+  "translation": "Алар түбөлүккө, узакка чейин түшүбөстөн бекитилген, чындык менен жана түз жол менен жасалган.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "6ac6105171b3cc244d57c5875fc5bb9ca82c2c5f9d24bd5aea6be085fb81f9ce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/111\/5-8.1791217195034.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "סמוכים",
+      "gloss": "бекитилген"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "түбөлүккө"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "узакка чейин"
+    },
+    {
+      "surface": "עשוים",
+      "gloss": "жасалган"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "чындык менен"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "жана түз жол менен"
+    }
+  ],
+  "timestamp": "2026-10-05T16:19:55.044049072Z",
+  "model": "glm-5.3"
+}

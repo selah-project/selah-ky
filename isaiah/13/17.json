@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 13:17",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "הנני",
+      "rationale": "אני 'Мен' бетте жок, הנני 'Мин, мына Мен' деген көрсөтүү сөзү"
+    }
+  ],
+  "translation": "Мин, Мен аларга каршы ⟨את⟩ Мадай элин ойготом — алар күмүштү эсептешпейт, алтынды каалашпайт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "e6f1528e78f732d87ce9a35fae03f5db992620ec926562a3c27205aedf901714",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/13\/17-20.1791209569829.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "Мин"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "ойготом"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "аларга каршы"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Мадай эл"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "Мадай эл"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "алар"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "күмүш"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "эсептешет"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "жана алтын"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "יחפצו",
+      "gloss": "каалашат"
+    },
+    {
+      "surface": "בו",
+      "gloss": "аны"
+    }
+  ],
+  "timestamp": "2026-10-05T14:12:49.830470657Z",
+  "model": "glm-5.3"
+}

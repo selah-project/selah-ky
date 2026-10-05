@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 14:10",
+  "book": "proverbs",
+  "lang": "ky",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жан",
+      "rationale": "нефеш — 'дем алуучу жандык, кыйынчылыкка чыдагыч күч' — 'жан' руханий маани кошот"
+    },
+    {
+      "kind": "addition",
+      "subject": "ал",
+      "rationale": "жADI байламта үчүн кошулду"
+    }
+  ],
+  "translation": "Жүрөк өз жанынын ачуулугун билет, ал эми анын кубанычына бөтөн адам аралаша албайт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "69afcab67d2b04cc3d035ddcb405694f97d806bcedb7294861e5089950dca0ba",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/14\/9-12.1791217945335.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "жүрөк"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "билет"
+    },
+    {
+      "surface": "מרת",
+      "gloss": "ачуулугун"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "өз жанынын"
+    },
+    {
+      "surface": "ובשמחתו",
+      "gloss": "кубанычына"
+    },
+    {
+      "surface": "לא",
+      "gloss": "эмес"
+    },
+    {
+      "surface": "יתערב",
+      "gloss": "аралаша албайт"
+    },
+    {
+      "surface": "זר",
+      "gloss": "бөтөн адам"
+    }
+  ],
+  "timestamp": "2026-10-05T16:32:25.336322237Z",
+  "model": "glm-5.3"
+}

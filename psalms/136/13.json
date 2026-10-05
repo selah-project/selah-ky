@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 136:13",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 136,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Суф деңизи",
+      "rationale": "ים סוף — «камыш деңизи»; «Кызыл деңиз» деген салттуу ат коюлбай, Суф аты сакталды"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לגזר \/ לגזרים",
+      "rationale": "бир тамырдын кайталанышы — «бөлгөн \/ бөлүктөргө», кыргызча «бөл-» тамыры менен сакталды"
+    }
+  ],
+  "translation": "Суф деңизин бөлүктөргө бөлгөнгө, анткени анын хеседи түбөлүккө калат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "ef818ee972da16c3afc2126e425ed19038582aa6ef3dc9b768a15a4099cdefdd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/136\/13-16.1791217528320.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לגזר",
+      "gloss": "бөлгөнгө"
+    },
+    {
+      "surface": "ים",
+      "gloss": "деңизин"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Суф"
+    },
+    {
+      "surface": "לגזרים",
+      "gloss": "бөлүктөргө"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "түбөлүккө"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "хеседи"
+    }
+  ],
+  "timestamp": "2026-10-05T16:25:28.321400706Z",
+  "model": "glm-5.3"
+}

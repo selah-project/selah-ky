@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 122:6",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 122,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "сурагыла",
+      "rationale": "Буйрук менен окурманга кайрылуу — аянтка зыярат кылгандарга чакыруу"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שאלו · שלום · ישליו",
+      "rationale": "Үч сөз тең שלטамырынан: сурау — тынчтык — тынч болуу; кыргызча ушул үчтүктүн уйкаштыгы жоголот"
+    },
+    {
+      "kind": "you",
+      "subject": "Йерушалайым",
+      "rationale": "Туура аталышы менен шаарга түз кайрылуу"
+    }
+  ],
+  "translation": "Йерушалайымдын тынчтыгын сурагыла, сени сүйгөндөр тынч болсун.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "14184fee368cd1ac8bb7e05239d149d4f3e46268a5915a20954dda9a634b60d8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/122\/5-8.1791217496912.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שאלו",
+      "gloss": "сурагыла"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "тынчтыгын"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Йерушалайымдын"
+    },
+    {
+      "surface": "ישליו",
+      "gloss": "тынч болсун"
+    },
+    {
+      "surface": "אהביך",
+      "gloss": "сени сүйгөндөр"
+    }
+  ],
+  "timestamp": "2026-10-05T16:24:56.913885030Z",
+  "model": "glm-5.3"
+}

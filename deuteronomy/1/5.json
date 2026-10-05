@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 1:5",
+  "book": "deuteronomy",
+  "lang": "ky",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הואיל",
+      "rationale": "'баштады' же 'өзүнө милдет алды' — Яал кылымы: ыдобур менен баштоо же ынаныз кылуу"
+    },
+    {
+      "kind": "substitution",
+      "subject": "באר",
+      "rationale": "'казуу' деген тамыр — 'түшүндүрүү' деген салыштырма мааниси колдонулду"
+    }
+  ],
+  "translation": "Иордандын ары жагында, Моаб жеринде Моше бул ⟨את⟩ Тораны түшүндүрө баштады, айтып:",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "6cbea38baab9e355a66f9608be1dc17758851a010cac64339a0fde3cdba167dd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/1\/5-8.1791204686195.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בעבר",
+      "gloss": "ары жагында"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Иордандын"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "жеринде"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моаб"
+    },
+    {
+      "surface": "הואיל",
+      "gloss": "баштады"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "באר",
+      "gloss": "түшүндүрө"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "бул Тораны"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Тораны"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "бул"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "айтып"
+    }
+  ],
+  "timestamp": "2026-10-05T12:51:26.195702921Z",
+  "model": "glm-5.3"
+}

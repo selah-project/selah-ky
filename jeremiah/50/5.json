@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 50:5",
+  "book": "jeremiah",
+  "lang": "ky",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "менен",
+      "rationale": "ивритте «кошулуу» деген этишке предлог кошулган, кыргызча «келишим менен» деген түзүлүш талап кылат"
+    },
+    {
+      "kind": "you",
+      "subject": "Келгиле, кошулалы",
+      "rationale": "айткыч — Ыйык Жериби», эл өзүнө багытталган чакыруу"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Келгиле",
+      "rationale": "байыркы Израилди Яхвеге кайтууга чакырган императив"
+    }
+  ],
+  "translation": "Сыйынды жолун сурашат, жүздөрү ошол жакка: «Келгиле, Яхвеге кошулалы, унутулбай турган түбөлүктүү келишим менен».",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "ae20984ed204bbc34470735ddd9616be01060af876641dbfecb30157f0a9feee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/jeremiah\/50\/5-8.1791211942279.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ציון",
+      "gloss": "Сыйынды"
+    },
+    {
+      "surface": "ישאלו",
+      "gloss": "сурашат"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "жолун"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ошол жакка"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "жүздөрү"
+    },
+    {
+      "surface": "באו",
+      "gloss": "келгиле"
+    },
+    {
+      "surface": "ונלוו",
+      "gloss": "жана кошулалы"
+    },
+    {
+      "surface": "אל",
+      "gloss": "менен"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвеге"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "келишим"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "түбөлүктүү"
+    },
+    {
+      "surface": "לא",
+      "gloss": "эмес"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "унутулат"
+    }
+  ],
+  "timestamp": "2026-10-05T14:52:22.280457033Z",
+  "model": "glm-5.3"
+}

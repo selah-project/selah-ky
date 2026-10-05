@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 3:5",
+  "book": "jeremiah",
+  "lang": "ky",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הינטר",
+      "rationale": "нааразылыкты кармоо (каардoo) же нааразы болуу — KJV 'anger', JPS 'bear grudge' сыяктуу альтернативалар"
+    },
+    {
+      "kind": "addition",
+      "subject": "сен",
+      "rationale": "еврей тилинде айрым атаяр сөз жок, этиштин мүчөсүндө гана бар"
+    },
+    {
+      "kind": "you",
+      "subject": "Исраэлге (карындаш образында)",
+      "rationale": "аят тыңдоочуга багытталган суроо менен башталат"
+    }
+  ],
+  "translation": "Нааразылык ар дайым кармалабы, акырына чейин сакталабы? Карабагын, ⟨сен⟩ сүйлөдүң жана жамандыктарды кылдың жана күчүң жеткенин кылдың.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "a7484f205294b91bbfad7d9fa3d9829055fb744ac52f3c3dc7234f2151b425e3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/jeremiah\/3\/5-8.1791210740893.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הינטר",
+      "gloss": "нааразылык кармалабы"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ар дайым"
+    },
+    {
+      "surface": "אם",
+      "gloss": "обо"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "сакталабы"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "акырына чейин"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "карабагын"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "сен сүйлөдүң"
+    },
+    {
+      "surface": "ותעשי",
+      "gloss": "жана кылдың"
+    },
+    {
+      "surface": "הרעות",
+      "gloss": "жамандыктарды"
+    },
+    {
+      "surface": "ותוכל",
+      "gloss": "жана күчүң жетти"
+    }
+  ],
+  "timestamp": "2026-10-05T14:32:20.893883481Z",
+  "model": "glm-5.3"
+}

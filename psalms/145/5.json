@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 145:5",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 145,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אשיחה",
+      "rationale": "еврейче 'өзүңө-өзүң сүйлөө, ой жүгүртүү' — ой жүгүртүү жана катуу айтуу экөө тең камтылат"
+    },
+    {
+      "kind": "you",
+      "subject": "Яхвеге",
+      "rationale": "жалгыз 2-жаккы үндөө — аят бүтүндөй Яхвеге багытталган мактөө"
+    }
+  ],
+  "translation": "Улуулугуңдун даңкынын жаркыраган көркү жөнүндө жана ажайып иштериң жөнүндө ойлонуп айтып жүрөмүн.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "4e6a216089b2dccb24e04e3faf03ddae0a90834c58010e66ec559eb1a503a58e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/145\/5-8.1791217662739.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הדר",
+      "gloss": "жаркыраган көркү"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "даңкынын"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "улуулугуңдун"
+    },
+    {
+      "surface": "ודברי",
+      "gloss": "жана ... жөнүндө"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "ажайып иштериң"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "ойлонуп айтып жүрөмүн"
+    }
+  ],
+  "timestamp": "2026-10-05T16:27:42.740400346Z",
+  "model": "glm-5.3"
+}

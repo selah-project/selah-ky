@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 89:12",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨—⟩ байланыш",
+      "rationale": "еврейче этишсиз ээлик конструкция; кыргызча «Сеники» менен берилди"
+    },
+    {
+      "kind": "measurement",
+      "subject": "жаратылыштын тизмеси",
+      "rationale": "асман, жер, дүйнө жана анын толуктугу — ээлик энумерациясы"
+    }
+  ],
+  "translation": "Асмандар Сеники, жер да Сеники; дүйнө жана анын толуктугу — Сен аларды негиздедиң.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "946c26a8e3e0ef41ad038276dce8d054dd3cefb110f3bc993fdc296222af6faa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/89\/9-12.1791216772277.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Сеники"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "Асмандар"
+    },
+    {
+      "surface": "אף",
+      "gloss": "да"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Сеники"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "жер"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "дүйнө"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "толуктугу"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Сен"
+    },
+    {
+      "surface": "יסадתם",
+      "gloss": "негиздедиң"
+    }
+  ],
+  "timestamp": "2026-10-05T16:12:52.278518844Z",
+  "model": "glm-5.3"
+}

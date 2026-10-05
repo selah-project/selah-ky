@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 44:6",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ננגח",
+      "rationale": "Буквалдык мааниси «мүйүз менен сүзүү» (нагах) — жоокерлик сүрөт катары берилди."
+    },
+    {
+      "kind": "elision",
+      "subject": "קמינו",
+      "rationale": "«Тургандар» — этиштин этиштик катыштоосу «бизге каршы» деген кошумча менен ачылды."
+    }
+  ],
+  "translation": "Сенин аркаңда душмандарыбызды сүзөбүз, атыңдын ичинде бизге каршы тургандарды тепкилей.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "65f1ccdf05b2ff8f2cf9345e6ccbdae8b33b8e6346fc3372310ba93d7a6de1f4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/44\/6-7.1791224435910.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "Сенин аркаңда"
+    },
+    {
+      "surface": "צרינו",
+      "gloss": "душмандарыбызды"
+    },
+    {
+      "surface": "ננגח",
+      "gloss": "сүзөбүз"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "атыңдын ичинде"
+    },
+    {
+      "surface": "נבוס",
+      "gloss": "тепкилей"
+    },
+    {
+      "surface": "קמינו",
+      "gloss": "бизге каршы тургандарды"
+    }
+  ],
+  "timestamp": "2026-10-05T18:20:35.910765876Z",
+  "model": "glm-5.3"
+}

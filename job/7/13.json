@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 7:13",
+  "book": "job",
+  "lang": "ky",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "כי",
+      "rationale": "тирек багындыруучу — кыргызча сүйлөмдө кашаа менен берилди"
+    },
+    {
+      "kind": "crux",
+      "subject": "ישא בשיחי",
+      "rationale": "KJV 'ease my complaint' менен YLT 'He taketh away in my talking my couch' ортосундагы талаш; биз 'сырымды көтөрсүн' деген_literal reboot"
+    }
+  ],
+  "translation": "Мен айттым: төшөгүм мени жубатсын, ордум менин сырымды көтөрсүн.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "cd39044740d7c572944c9015716ef9bbfe7dc89afba146913a7981b150cd6e07",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/job\/7\/13-16.1791218645638.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "⟨себеби⟩"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "мен айттым"
+    },
+    {
+      "surface": "תנחמני",
+      "gloss": "мени жубатсын"
+    },
+    {
+      "surface": "ערשי",
+      "gloss": "төшөгүм"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "көтөрсүн"
+    },
+    {
+      "surface": "בשיחי",
+      "gloss": "сырымды"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "ордум"
+    }
+  ],
+  "timestamp": "2026-10-05T16:44:05.639485643Z",
+  "model": "glm-5.3"
+}

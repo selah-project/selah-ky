@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 10:13",
+  "book": "proverbs",
+  "lang": "ky",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨болот⟩",
+      "rationale": "Еврейче этиш жок — «тајак артына» деген туюмдуу айтым керек"
+    },
+    {
+      "kind": "substitution",
+      "subject": "хохма",
+      "rationale": "חכמה кармай турган форма; «даанышмандык» эмес, еврейче сөз"
+    }
+  ],
+  "translation": "Түшүнүктүүнүн эриндерінде хохма табылат, ал эми жүрөгү жетишпегендин артына ⟨болот⟩ таяк.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "3327ddd08224dd2b01ba9ebc43fe55f4beea596d03ea59b3aef588bb4393e959",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/10\/13-16.1791217926810.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בשפתי",
+      "gloss": "эриндеринде"
+    },
+    {
+      "surface": "נבון",
+      "gloss": "түшүнүктүүнүн"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "табылат"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "хохма"
+    },
+    {
+      "surface": "ושבט",
+      "gloss": "ал эми таяк"
+    },
+    {
+      "surface": "לגו",
+      "gloss": "артына"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "жетишпегендин"
+    },
+    {
+      "surface": "לב",
+      "gloss": "жүрөгү"
+    }
+  ],
+  "timestamp": "2026-10-05T16:32:06.811144558Z",
+  "model": "glm-5.3"
+}

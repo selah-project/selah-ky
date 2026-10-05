@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 35:2",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "жана (экинчи)",
+      "rationale": "Еврейче ו бир жолу келет; кыргызча тизмектин табигыйлыгы үчүн кошулду."
+    }
+  ],
+  "translation": "Бекем карма калканды жана чоң калканды, жана мага жардамга тургун.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "9e54e0c61676270b7f5d6b5458d264a714ab9888762ce540cc682511ab34a194",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/35\/1-4.1791215878475.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "החזק",
+      "gloss": "бекем карма"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "калкан"
+    },
+    {
+      "surface": "וצנה",
+      "gloss": "жана чоң калкан"
+    },
+    {
+      "surface": "וקומה",
+      "gloss": "жана тургун"
+    },
+    {
+      "surface": "בעזרתי",
+      "gloss": "мага жардамга"
+    }
+  ],
+  "timestamp": "2026-10-05T15:57:58.476458411Z",
+  "model": "glm-5.3"
+}

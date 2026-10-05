@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 20:3",
+  "book": "2-kings",
+  "lang": "ky",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "бүтүн жүрөк",
+      "rationale": "לבב שלם — «бүтүн\/толук жүрөк», диний «сыйынуучу жүрөк» эмес"
+    },
+    {
+      "kind": "you",
+      "subject": "Яхвеге",
+      "rationale": "Хизкияунун Яхвеге түздөн-түз сыйынуусу"
+    }
+  ],
+  "translation": "Оо, Яхве, эстеп кой, сураныч, ⟨את⟩ менимче Сенин алдыңда чындык менен жана бүтүн жүрөк менен жүргөнүмдү, жана Сенин көзүңө жакшы көрүнгөндү кылдым; жана Хизкияу чоң ый менен ыйлады.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "5dcf1d1281b42ee3d28f98d5098fdeecd2876064b644263751dd85d1a795b25d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-kings\/20\/1-4.1791209232148.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "Оо"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "эстеп кой"
+    },
+    {
+      "surface": "נא",
+      "gloss": "сураныч"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "…жүргөнүмдү"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…ни"
+    },
+    {
+      "surface": "התהלכתי",
+      "gloss": "жүргөнүмдү"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "Сенин алдыңда"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "чындык менен"
+    },
+    {
+      "surface": "ובלבב",
+      "gloss": "жана жүрөк менен"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "бүтүн"
+    },
+    {
+      "surface": "והטוב",
+      "gloss": "жана жакшыны"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "Сенин көзүңө"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "кылдым"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "жана ыйлады"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Хизкияу"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "ый"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "чоң"
+    }
+  ],
+  "timestamp": "2026-10-05T14:07:12.149387748Z",
+  "model": "glm-5.3"
+}

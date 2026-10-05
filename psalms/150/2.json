@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 150:2",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 150,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "Аны мактагыла",
+      "rationale": "Plural imperatives summoning the congregation to praise."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הללוהו ... הללוהו",
+      "rationale": "Repeated imperative of praise frames the verse, anaphora typical of Psalm 150."
+    }
+  ],
+  "translation": "Аны Өзүнүн кудуреттүү иштеринде мактагыла, Аны Өзүнүн улуулугунун көптүгүнө ылайык мактагыла.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "ed4ee97b553285b2a43bd91718a74be8590464662ffffb5e092298e525c18a44",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/150\/2-3.1791224504340.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Аны мактагыла"
+    },
+    {
+      "surface": "בגבורתיו",
+      "gloss": "Өзүнүн кудуреттүү иштеринде"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "Аны мактагыла"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "көптүгүнө ылайык"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "Өзүнүн улуулугунун"
+    }
+  ],
+  "timestamp": "2026-10-05T18:21:44.340677117Z",
+  "model": "glm-5.3"
+}

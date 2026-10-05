@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 31:4",
+  "book": "proverbs",
+  "lang": "ky",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "או",
+      "rationale": "או — 'каалоо\/умтулуу' (YLT) же байламча 'же' (KJV); 'каалоо' мааниси танахта жалгыз ушул жерде."
+    },
+    {
+      "kind": "hapax",
+      "subject": "או",
+      "rationale": "או 'каалоо' маанисинде Танахта бир гана жерде кездешет."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אל למלכים",
+      "rationale": "'жок, падышалар үчүн' эки жолу кайталанат — ритмдик параллелизм."
+    },
+    {
+      "kind": "you",
+      "subject": "Лемуелге",
+      "rationale": "Ат direkt кабар: 'Лемуел' — эне уулуна кайрылат."
+    }
+  ],
+  "translation": "Жок, Лемуел, падышалар үчүн эмес — падышалар шарап ичпесин, башкаруучулар аракка умтулбасын.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "dde9941be6f30a67e18cc6bb786b08eee80d9b202a3e0788ab97bcc64ada7b1d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/31\/1-4.1791218506716.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "жок"
+    },
+    {
+      "surface": "למלכים",
+      "gloss": "падышалар"
+    },
+    {
+      "surface": "למואל",
+      "gloss": "Лемуел"
+    },
+    {
+      "surface": "אל",
+      "gloss": "жок"
+    },
+    {
+      "surface": "למלכים",
+      "gloss": "падышалар"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "ичпесин"
+    },
+    {
+      "surface": "יין",
+      "gloss": "шарап"
+    },
+    {
+      "surface": "ולרוזנים",
+      "gloss": "башкаруучулар"
+    },
+    {
+      "surface": "או",
+      "gloss": "умтулбасын"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "арак"
+    }
+  ],
+  "timestamp": "2026-10-05T16:41:46.717638622Z",
+  "model": "glm-5.3"
+}

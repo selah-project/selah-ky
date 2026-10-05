@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 18:17",
+  "book": "2-samuel",
+  "lang": "ky",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "rationale": "Идиома катары וישליכו אתו ביער אל הפחת — татаал кошумча, кыргызча «токойдогу чоң цатка» деп берилди."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "гадол... гадол",
+      "rationale": "«чоң цат» жана «абдан чоң дөбө» — жөнөкөй лексикалык кайталоо, эки жолу гадол кездешет."
+    },
+    {
+      "kind": "substitution",
+      "subject": "галь",
+      "rationale": "גל — «домдук» деген сөз, кыргызча «дөбө» деп алынды."
+    }
+  ],
+  "translation": "Жана алар Авшаломду алып, аны токойдогу чоң цатка ыргытышты жана анын үстүнө абдан чоң таш дөбөсүн койушту, жана бүт Йисраэл ар бир киши өз чатырына качышты.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "a3385d7e7061cab6f1dbfea11606d7db1d1288afa95d0129e8f35c584ccd1cde",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-samuel\/18\/17-20.1791207766663.json",
+    "code": "641241cf-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "алып"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Авшаломду"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Авшалом"
+    },
+    {
+      "surface": "וישליכו",
+      "gloss": "ыргытышты"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "аны"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "токойдо"
+    },
+    {
+      "surface": "אל",
+      "gloss": "файдалуу эмес"
+    },
+    {
+      "surface": "הפחת",
+      "gloss": "цат"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "чоң"
+    },
+    {
+      "surface": "ויצבו",
+      "gloss": "койушту"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "анын үстүнө"
+    },
+    {
+      "surface": "גל",
+      "gloss": "дөбө"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "таш"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "чоң"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "абдан"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "жана бүт"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэл"
+    },
+    {
+      "surface": "נסו",
+      "gloss": "качышты"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ар бир киши"
+    },
+    {
+      "surface": "לאהלו",
+      "gloss": "өз чатырына"
+    }
+  ],
+  "timestamp": "2026-10-05T13:42:46.664614654Z",
+  "model": "glm-5.3"
+}

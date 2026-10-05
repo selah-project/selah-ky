@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 8:12",
+  "book": "leviticus",
+  "lang": "ky",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "бир бөлүгүн",
+      "rationale": "Ивритте «майлануу майынын» деп гана айтылат, «бир бөлүгүн» түшүнүк үчүн кошулду"
+    },
+    {
+      "kind": "addition",
+      "subject": "аны",
+      "rationale": "Майланган адамды так көрсөтүү үчүн кашаа менен кошулду"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "משמן\/המשחה\/וימשח",
+      "rationale": "Үчөө тең משח тамырынан — май, майлануу, майлоо: ушул уйкаштык кыргызча да «май» сөзү менен сакталды"
+    }
+  ],
+  "translation": "Жана ал майлануу майынын бир бөлүгүн Ахарондун башына куюп, ⟨את⟩ аны аны ыйыктоо үчүн майлады.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "7271a8db83a1f8cc1dc9e0533367efaf5f71ed5dc1db6a7cd1416d7ba8c5d0d0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/8\/12-12.1791223610658.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצק",
+      "gloss": "куйду"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "майынын бир бөлүгүн"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "майлануу"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстүнө"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "башына"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Ахарондун"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "майлады"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "аны (Ахаронду)"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "аны ыйыктоо үчүн"
+    }
+  ],
+  "timestamp": "2026-10-05T18:06:50.658789474Z",
+  "model": "glm-5.3"
+}

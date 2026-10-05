@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 43:30",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "боор",
+      "rationale": "רחמים боор жана боорукерлик экөөнө тең тиешелүү; «жүрөк» деген котормо тамырдын ички мүнөзүн жоготот"
+    },
+    {
+      "kind": "idiom",
+      "subject": "נכמרו רחמיו",
+      "rationale": "буюкча: «боору тартылды» — катуу боорукерлик; кыргызча «боору өздөн чыгып кетти» деген туюк мааниде берилди"
+    },
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "rationale": "кыргызча «бирасына» деген сөз багытты эле көтөрөт"
+    }
+  ],
+  "translation": "Жана Йосеп шашылды, анткени анын боору бирасына өздөн чыгып кетти, ыйгысы келди, бөлмөгө кирип, ошол жерде ыйлады.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "4f4ce993ba2b37faceb8af518f0650dd915b64529a80b492d34b35db7133d79c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/43\/29-32.1791201673270.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימהר",
+      "gloss": "шашылды"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосеп"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "נכמרו",
+      "gloss": "өздөн чыгып кетти"
+    },
+    {
+      "surface": "רחמיו",
+      "gloss": "боору"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "бирасына"
+    },
+    {
+      "surface": "ויבקש",
+      "gloss": "ыйгысы келди"
+    },
+    {
+      "surface": "לבכות",
+      "gloss": "ыйгоо"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "кирип"
+    },
+    {
+      "surface": "החדרה",
+      "gloss": "бөлмөгө"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "ыйлады"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ошол жерде"
+    }
+  ],
+  "timestamp": "2026-10-05T12:01:13.271798401Z",
+  "model": "glm-5.3"
+}

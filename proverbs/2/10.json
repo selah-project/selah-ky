@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 2:10",
+  "book": "proverbs",
+  "lang": "ky",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жан",
+      "rationale": "נפש 'жан' катары; еврейче кеңири — дем, жашоо күчү"
+    },
+    {
+      "kind": "addition",
+      "subject": "болот",
+      "rationale": "ינעם этиштин ачык болушу үчүн 'болот' кошулду"
+    }
+  ],
+  "translation": "Себеби хахам:\\u00ad да, так: Себеби даанышмандык жүрөгүңө кирет, жана билим жаныңа жагымдуу болот.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "c1ad0c5531a682a64dee5fa30ca5d40a87b36ecfd10576bbd17c8f81ae25b3be",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/2\/9-12.1791217728418.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "себеби"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "кирет"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "даанышмандык"
+    },
+    {
+      "surface": "בלבך",
+      "gloss": "жүрөгүңө"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "жана билим"
+    },
+    {
+      "surface": "לנפשך",
+      "gloss": "жаныңа"
+    },
+    {
+      "surface": "ינעם",
+      "gloss": "жагымдуу болот"
+    }
+  ],
+  "timestamp": "2026-10-05T16:28:48.419502938Z",
+  "model": "glm-5.3"
+}

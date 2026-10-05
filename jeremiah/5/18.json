@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 5:18",
+  "book": "jeremiah",
+  "lang": "ky",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨мен...кылбайм⟩",
+      "rationale": "Жөнөкөй өтмө сүйлөм үчүн этиш жекече формада айтылган кыргызча конструкция кошулду."
+    },
+    {
+      "kind": "substitution",
+      "subject": "толук жок кылуу",
+      "rationale": "כלה «бүтүндөй аяктоо, ойдуң» — кыргызча эки сөз менен берилди."
+    }
+  ],
+  "translation": "Бирок ошол күндөрдө да — Яхвенин сөзү — мен силерди ⟨את⟩ толук жок кылбайм.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "09047a980c5e0ef1a4dce9a51a4367c9ef280b558364842e09168b513c100499",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/jeremiah\/5\/17-20.1791210833521.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "бирок...да"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "күндөрдө"
+    },
+    {
+      "surface": "ההמה",
+      "gloss": "ошол"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "сөзү"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "мен...кылбайм"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "силерди"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "толук жок кылууну"
+    }
+  ],
+  "timestamp": "2026-10-05T14:33:53.522292273Z",
+  "model": "glm-5.3"
+}

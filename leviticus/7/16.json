@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 7:16",
+  "book": "leviticus",
+  "lang": "ky",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "ביום ... וממחרת",
+      "rationale": "Убада\/ыктыяр курмандыгынын жеш мөөнөтү: ошол күнү жана эртеси — ыраазычылык курмандыгынан айырмалуу"
+    },
+    {
+      "kind": "alternative",
+      "subject": "יאכל",
+      "rationale": "Экинчи יאכל 'жешілет' эмес 'жесе болот' деп да окулат (JPS 'may be eaten')"
+    }
+  ],
+  "translation": "Эгерде курмандыгы — убада же өз ыктыяры менен берилген тартуу болсо, анын ⟨את⟩ курмандыгын тартуулаган күнү жешілет; жана эртеси да андан калганы жешілет.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "ee40c252b5a69349d095423e05c1c09237c3cd6474e56f9554e088188f23e542",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/7\/13-16.1791202890617.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Эгерде"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "убада"
+    },
+    {
+      "surface": "או",
+      "gloss": "же"
+    },
+    {
+      "surface": "נדבה",
+      "gloss": "өз ыктыяры менен берилген тартуу"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "курмандыгы"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "курмандыгы"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "күнү"
+    },
+    {
+      "surface": "הקריבו",
+      "gloss": "тартуулаган"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "курмандыгын"
+    },
+    {
+      "surface": "זבחו",
+      "gloss": "курмандыгын"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "жешілет"
+    },
+    {
+      "surface": "וממחרת",
+      "gloss": "жана эртеси"
+    },
+    {
+      "surface": "והנותר",
+      "gloss": "калганы"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "андан"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "жешілет"
+    }
+  ],
+  "timestamp": "2026-10-05T12:21:30.618503393Z",
+  "model": "glm-5.3"
+}

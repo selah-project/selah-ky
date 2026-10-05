@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 23:5",
+  "book": "proverbs",
+  "lang": "ky",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "התעוף \/ ועיף",
+      "rationale": "Бир э тамыр эки жерде — көз 'учуруу' жана байлык 'учуу': кыргызча 'учургун\/учат' менен кармалды."
+    },
+    {
+      "kind": "idiom",
+      "subject": "כנפים",
+      "rationale": "Байлык 'өзүнө канат жасайт' — жөн гана 'жоголот' деген жок, сүрөт сакталды."
+    },
+    {
+      "kind": "crux",
+      "subject": "ואיננו",
+      "rationale": "'Ал жок' — ким жок: көзүңдүн жеми байлыкпы же ал жок болотбу; JPS 'жоголду' деп, башкалары 'жок нерсе' деп берет."
+    }
+  ],
+  "translation": "Көзүңдү ага учургун — ал жок: анткени байлык өзүнө канаттарды жасап алат, бүркүт сыяктуу асманга учат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "3a19efeb16716e587f5348d891244f4e882322d6bd267df8a6fe000130f503c8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/23\/5-8.1791218310092.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "התעוף",
+      "gloss": "учургун"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "көзүңдү"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ага"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "жок"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "жасап"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "жасайт"
+    },
+    {
+      "surface": "לו",
+      "gloss": "өзүнө"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "канаттарды"
+    },
+    {
+      "surface": "כנשר",
+      "gloss": "бүркүт сыяктуу"
+    },
+    {
+      "surface": "ועיף",
+      "gloss": "учат"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "асманга"
+    }
+  ],
+  "timestamp": "2026-10-05T16:38:30.093139919Z",
+  "model": "glm-5.3"
+}

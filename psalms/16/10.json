@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 16:10",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жан",
+      "rationale": "נפש — дем алуучу жандык, жүрөк-тамыр, жандын күчү; 'жан' кеңири кабыл алынган"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ыйык кызматкериң",
+      "rationale": "חסידך — 'сага ырайымдуу\/мейirimдуу болгонуң'; 'ыйык кызматкер' кызматты көрсөтөт"
+    },
+    {
+      "kind": "crux",
+      "subject": "שחת",
+      "rationale": "'чуңкур' же 'чирүү\/бузулуу': жүйөө 16:10 ЛXX жана кийинки салтта 'чирүү' катары окулат"
+    }
+  ],
+  "translation": "Анткени Сен менин жанымды Шеолго таштабайсың, Сен ыйык кызматкериңди чуңкурду көрүүгө бербейсиң.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "f041adf7c180d1275277bbe4966d6c99a2d54c655c65c1b65c01b3642bbf91df",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/16\/10-11.1791224420741.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "таштабайсың"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "жанымды"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Шеолго"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "бербейсиң"
+    },
+    {
+      "surface": "חסידך",
+      "gloss": "ыйык кызматкериңди"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "көрүүгө"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "чуңкурду"
+    }
+  ],
+  "timestamp": "2026-10-05T18:20:20.742414230Z",
+  "model": "glm-5.3"
+}

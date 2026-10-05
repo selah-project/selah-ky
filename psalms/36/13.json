@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 36:13",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "און",
+      "rationale": "אור literally 'nothingness\/vanity', rendered as 'заым' (wickedness) — that which is worthless in a moral sense"
+    },
+    {
+      "kind": "idiom",
+      "subject": "ולא יכלו קום",
+      "rationale": "'and not able to rise' — final fall of the wicked, expressed periphrastically in Kyrgyz"
+    }
+  ],
+  "translation": "Ал жерде заым иштегендер кулады; күч менен кулаган жана туруга жарабай калды.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "a813f6839967e704ba2e07cac14b6c6cda6d1a1ca8ff0b6f6792c1351b255ef8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/36\/13-13.1791215782054.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "ал жерде"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "кулады"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "иштегендер"
+    },
+    {
+      "surface": "און",
+      "gloss": "заым"
+    },
+    {
+      "surface": "דחו",
+      "gloss": "күч менен кулаган"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "жана эмес"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "жарабай калды"
+    },
+    {
+      "surface": "קום",
+      "gloss": "турууга"
+    }
+  ],
+  "timestamp": "2026-10-05T15:56:22.055010289Z",
+  "model": "glm-5.3"
+}

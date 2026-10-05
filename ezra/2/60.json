@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "ezra 2:60",
+  "book": "ezra",
+  "lang": "ky",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "652",
+      "rationale": "Делая, Товия жана Некода урууларынын саны."
+    },
+    {
+      "kind": "addition",
+      "subject": "адам",
+      "rationale": "Еврейче текстте жалаң сандар айтылат, «адам» сөзү кошулду."
+    }
+  ],
+  "translation": "Делаянын балдары, Товиянын балдары, Некоданын балдары — алты жүз элүү эки ⟨адам⟩.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "2637b67a3efc776febbede01887c9342175a81b8f6178c54087ba3a4af72a66c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ezra\/2\/57-60.1791220989483.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "балдары"
+    },
+    {
+      "surface": "דליה",
+      "gloss": "Делая"
+    },
+    {
+      "surface": "בני",
+      "gloss": "балдары"
+    },
+    {
+      "surface": "טוביה",
+      "gloss": "Товия"
+    },
+    {
+      "surface": "בני",
+      "gloss": "балдары"
+    },
+    {
+      "surface": "נקודא",
+      "gloss": "Некода"
+    },
+    {
+      "surface": "שש",
+      "gloss": "алты"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "жүз"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "элүү"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "жана эки"
+    }
+  ],
+  "timestamp": "2026-10-05T17:23:09.485079368Z",
+  "model": "glm-5.3"
+}

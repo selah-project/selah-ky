@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 23:25",
+  "book": "leviticus",
+  "lang": "ky",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "עבדה",
+      "rationale": "מלאכת עבדה — эпитеттик кошумча, кыргызча бир сөзгө кошулуп кетти"
+    },
+    {
+      "kind": "substitution",
+      "subject": "курмандык",
+      "rationale": "אִשָּׁה — букв. от-курмандыгы, отко бышырылган ыкмасы менен берилди"
+    }
+  ],
+  "translation": "Эч кандай кызмат ишин жасабагыла жана Яхвеге отко бышырылган курмандык алып келгиле.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "e5b1287b60357a7cc0026e1357b27fb487a49af873b0131cdb162705ea793e11",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/23\/25-28.1791203441504.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "эч кандай"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "кызмат ишин"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "(кызмат)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жасабагыла эмес"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "жасабагыла"
+    },
+    {
+      "surface": "והקרבתם",
+      "gloss": "алып келгиле"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "отко бышырылган курмандык"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхвеге"
+    }
+  ],
+  "timestamp": "2026-10-05T12:30:41.505082978Z",
+  "model": "glm-5.3"
+}

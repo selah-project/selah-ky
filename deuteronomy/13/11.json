@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 13:11",
+  "book": "deuteronomy",
+  "lang": "ky",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨Элохимеңден⟩",
+      "rationale": "Ивритте «Яхведен, Элохимеңден» деген бир эле атоо, кыргызча аныктамалык айрым ачык эки жолу айтылды."
+    },
+    {
+      "kind": "substitution",
+      "subject": "להדיחך",
+      "rationale": "Буквалдык мааниси «сени түртүп түшүү\/куууп чыгуу»; «айдалууга» деп берилди."
+    }
+  ],
+  "translation": "Жана таштар менен аны таш бастыр да, өлсүн; анткени ал сени Яхведен, Элохимеңден — сени Мицрайим жеринен, кулдук үйүнөн чыгарган ⟨Элохимеңден⟩ айдалууга аракет кылды.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "18bb400e2036e72450fa56b09ff687eb6ca95326e0b18c292b31a2aa27c65ec5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/13\/9-12.1791204967479.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וסקלתו",
+      "gloss": "жана аны таш бастыр"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "таштар менен"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "жана өлсүн"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "аракет кылды"
+    },
+    {
+      "surface": "להדיחך",
+      "gloss": "сени айдалууга"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "…дан"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Элохимең"
+    },
+    {
+      "surface": "המוציאך",
+      "gloss": "чыгарган"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "жеринен"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицрайим"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "үйүнөн"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "кулдук"
+    }
+  ],
+  "timestamp": "2026-10-05T12:56:07.480890056Z",
+  "model": "glm-5.3"
+}

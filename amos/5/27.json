@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "amos 5:27",
+  "book": "amos",
+  "lang": "ky",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "сүргүнгө айдайм",
+      "rationale": "הגליתי — түздөн-түз \"жылаңайланттым, жалаңдаттым\", дегенче сүргүн маанисинде."
+    },
+    {
+      "kind": "crux",
+      "subject": "מהלאה לדמשק",
+      "rationale": "\"Дамашектен алыс\" же \"Дамашектен ары\" — Дамашектин өзүнө эмес, андан тышкарыга сүргүн."
+    },
+    {
+      "kind": "elision",
+      "subject": "אלהי צבאות",
+      "rationale": "Котормодо Элохими Цебаоттун атооч формасы Яхве менен байланыштырылды; ивритте эки аттын тизмеси."
+    }
+  ],
+  "translation": "Жана Мен силерди ⟨את⟩ Дамашектен ары сүргүнгө айдайм, — дейт Яхве Цебаот, анын ысымы ошол.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "402c01821f7679efb7279b49e24d96dd6bfdae8161a426316d1488e183ef2ad8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/amos\/5\/25-27.1791214290718.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והגליתי",
+      "gloss": "сүргүнгө айдайм"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ силерди",
+      "marks": "силер"
+    },
+    {
+      "surface": "מהלאה",
+      "gloss": "ары"
+    },
+    {
+      "surface": "לדמשק",
+      "gloss": "Дамашектен"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "дейт"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Элохими"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цебаоттун"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "анын ысымы"
+    }
+  ],
+  "timestamp": "2026-10-05T15:31:30.719137245Z",
+  "model": "glm-5.3"
+}

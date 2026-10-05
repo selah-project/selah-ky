@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "joshua 21:41",
+  "book": "joshua",
+  "lang": "ky",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "чет-жакалары",
+      "rationale": "מגרש — шаардын айланасындагы жайыты бар ачык жер, «пригород» дегенге жакын"
+    },
+    {
+      "kind": "measurement",
+      "subject": "кырк сегиз шаар",
+      "rationale": "Левилердин шаарларынын жыйынтык саны"
+    },
+    {
+      "kind": "addition",
+      "subject": "болду",
+      "rationale": "Еврей текстинде этиш жок, кыргызча баяндоо үчүн кошулду"
+    }
+  ],
+  "translation": "Левилердин бардык шаарлары Йисраэл уулдарынын ээлигинин ичинде — кырк сегиз шаар жана алардын чет-жакалары болду.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "653afc1de28541ef7f4c308f99af58ab034b0200844f42b8befc91db651c6c47",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/joshua\/21\/41-44.1791205919949.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "бардык"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "шаарлары"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Левилердин"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ичинде"
+    },
+    {
+      "surface": "אחזת",
+      "gloss": "ээлигинин"
+    },
+    {
+      "surface": "בני",
+      "gloss": "уулдарынын"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэл"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "шаар"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "кырк"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "сегиз"
+    },
+    {
+      "surface": "ומגרשיהן",
+      "gloss": "жана алардын чет-жакалары"
+    }
+  ],
+  "timestamp": "2026-10-05T13:11:59.950358171Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 34:4",
+  "book": "deuteronomy",
+  "lang": "ky",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨менен ант берген⟩",
+      "rationale": "еврейче זאת הארץ אשר 'бул — ал жер' деңишет; кыргызча салыштыруу тиешелеринен кутулуу үчүн кошулду"
+    },
+    {
+      "kind": "substitution",
+      "subject": "үрөн",
+      "rationale": "זרע literally 'үрөн'; 'тукум\/урпак' да мүмкүн, бирок сөздүн формасы үрөн"
+    },
+    {
+      "kind": "crux",
+      "subject": "אתננה убактысы",
+      "rationale": "настоящее\/будущее 'беремин' же перфект 'бергемин' — KJV 'I will give', YLT 'I give'"
+    },
+    {
+      "kind": "you",
+      "subject": "Мошеге",
+      "rationale": "Яхвенин Мошеге түз кайрылуусу: бул жер, сен көрдүң, өтпөйсүң"
+    }
+  ],
+  "translation": "Жана Яхве ага айтты: Бул — ⟨менен ант берген⟩ жер, аны Аврахамга, Йицхакка жана Яаковка бергемин деп ант бергенмин, аны сенин үрөнүңө беремин. Мен аны сенин көздөрүң менен көрсөттүм, бирок ал жерге өтпөйсүң.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "915f56d21b0ce35b6ec202dd94e7633e5115049bbfadaf86f9de2c7eadd79037",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/34\/1-4.1791205477785.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "жана айтты"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ага"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "бул"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "жер"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ал"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "ант бергенмин"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "Аврахамга"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "Йицхакка"
+    },
+    {
+      "surface": "וליעקב",
+      "gloss": "жана Яаковка"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "деп"
+    },
+    {
+      "surface": "לזרעך",
+      "gloss": "сенин үрөнүңө"
+    },
+    {
+      "surface": "אתננה",
+      "gloss": "беремин"
+    },
+    {
+      "surface": "הראיתיך",
+      "gloss": "көрсөттүм"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "көздөрүң менен"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "ал жерге"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "өтпөйсүң"
+    }
+  ],
+  "timestamp": "2026-10-05T13:04:37.786944995Z",
+  "model": "glm-5.3"
+}

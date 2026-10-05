@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 60:12",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 60,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "הלא",
+      "rationale": "'албетте эмеспи' — риторикалык суроо белгиси; кыргызча 'эмес беле' деп берилди."
+    },
+    {
+      "kind": "crux",
+      "subject": "בצבאותינו — менен",
+      "rationale": "'аскерлерибиз МЕНЕН чыгуу' (атаандаштык) же 'аскерлерибизге каршы чыгуу' (жетүүчүсү) деп эки жол окулат."
+    }
+  ],
+  "translation": "Сен эмес беле, Элохим, бизди таштап жиберген? Жана Элохим, аскерлерибиз менен чыкпайсыңбы.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "c02e51728684459ebb22d1877dc862e70799cfd34f5b52f77423e5fc6312d32d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/60\/9-12.1791216292694.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "эмес беле"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Сен"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "זנחתנו",
+      "gloss": "бизди таштап жиберген"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "жана ... байсың"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "чыкпайсың"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "בצבאותינו",
+      "gloss": "аскерлерибиз менен"
+    }
+  ],
+  "timestamp": "2026-10-05T16:04:52.695563025Z",
+  "model": "glm-5.3"
+}

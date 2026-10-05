@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 19:16",
+  "book": "job",
+  "lang": "ky",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ал",
+      "rationale": "Ивритте «жооп бербейт» этиши 3-жак эркек санында турат — кыргызчада субъекттин аты түшүндүрмө катары кошулду."
+    },
+    {
+      "kind": "substitution",
+      "subject": "жалтардым",
+      "rationale": "אתחנן — ырайым сурап ийилүү, тилек кылуу; кыргызча «жалтаруу» ийилүү сөзү менен берилди."
+    }
+  ],
+  "translation": "Кулума үн салдым, бирок ал жооп бербейт; оозум менен ага жалтардым.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "c85719a68e869bd0c59a723cbe55fe2d1147611f66c00202299e5d1c329fe7da",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/job\/19\/13-16.1791218936893.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לעבדי",
+      "gloss": "кулума"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "үн салдым"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "бирок ал жок"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "жооп бербейт"
+    },
+    {
+      "surface": "במו",
+      "gloss": "менен"
+    },
+    {
+      "surface": "פי",
+      "gloss": "оозум"
+    },
+    {
+      "surface": "אתחנן",
+      "gloss": "жалтардым"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ага"
+    }
+  ],
+  "timestamp": "2026-10-05T16:48:56.894352307Z",
+  "model": "glm-5.3"
+}

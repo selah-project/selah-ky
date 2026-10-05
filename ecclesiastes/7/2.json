@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 7:2",
+  "book": "ecclesiastes",
+  "lang": "ky",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨аны⟩",
+      "rationale": "еврейче «аларды жүрөгүнө берет» — объект так болушу үчүн кошулду"
+    },
+    {
+      "kind": "idiom",
+      "subject": "יתן אל לבו",
+      "rationale": "букв. «жүрөгүнө берүү» — «көңүл бургула» маанисинде"
+    }
+  ],
+  "translation": "Жакшы — кайгы үйүнө баруу, той үйүнө баруудан, анткени ал — бүт адамдардын аягы, жана тирүү ⟨аны⟩ жүрөгүнө берет.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "88416ebfdb9190a4ed711f197ac7969d1185e9aba19ea520cb1612e01ed1de8b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ecclesiastes\/7\/1-4.1791220107138.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "жакшы"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "баруу"
+    },
+    {
+      "surface": "אל",
+      "gloss": "жакын"
+    },
+    {
+      "surface": "בית",
+      "gloss": "үйүнө"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "кайгы"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "…баруудан"
+    },
+    {
+      "surface": "אל",
+      "gloss": "жакын"
+    },
+    {
+      "surface": "בית",
+      "gloss": "үйүнө"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "той"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ал"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "аягы"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүт"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "адамдардын"
+    },
+    {
+      "surface": "והחי",
+      "gloss": "жана тирүү"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "берет"
+    },
+    {
+      "surface": "אל",
+      "gloss": "жакын"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "жүрөгүнө"
+    }
+  ],
+  "timestamp": "2026-10-05T17:08:27.140256125Z",
+  "model": "glm-5.3"
+}

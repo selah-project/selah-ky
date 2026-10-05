@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 16:9",
+  "book": "proverbs",
+  "lang": "ky",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "את",
+      "rationale": "Direct object marker, preserved as ⟨את⟩ pointing at 'the way'."
+    },
+    {
+      "kind": "addition",
+      "subject": "анын",
+      "rationale": "Hebrew suffix on צעדו is third person; Kyrgyz requires the pronoun separately."
+    }
+  ],
+  "translation": "Адамдын жүрөгү ⟨את⟩ жолун ойлоп чыгат, ал эми Яхве анын кадамын бекемдейт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "664f084f18761986a56461539626a6999bee459edca9fec0b4c559562beebcd5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/16\/9-12.1791218058740.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "жүрөгү"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "адамдын"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "ойлоп чыгат"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "жолун"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ал эми Яхве"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "бекемдейт"
+    },
+    {
+      "surface": "צעדו",
+      "gloss": "кадамын"
+    }
+  ],
+  "timestamp": "2026-10-05T16:34:18.740423108Z",
+  "model": "glm-5.3"
+}

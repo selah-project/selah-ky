@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 12:36",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "וישאלום",
+      "rationale": "«алар сурангандарды берди» же «карыз берди»; тамыры שאל — сурау\/карыз берүү"
+    },
+    {
+      "kind": "substitution",
+      "subject": "тоноду",
+      "rationale": "וינצלו — «тартып алды, бошотту»; KJV «spoil»"
+    }
+  ],
+  "translation": "Жана Яхве ⟨את⟩ элдин ырайымын Мицрайим элинин көз алдында берди, жана алар аларга берип жиберди, жана алар Мицрайимди тоноду.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "dee89cab50acc11b6e2a9a7235c4cad3cc5547e49e720e6db3e5656404e824fe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/12\/33-36.1791202096388.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Жана Яхве"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "берди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ырайымын"
+    },
+    {
+      "surface": "חן",
+      "gloss": "ырайымын"
+    },
+    {
+      "surface": "העם",
+      "gloss": "элдин"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "көз алдында"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицрайим элинин"
+    },
+    {
+      "surface": "וישאלום",
+      "gloss": "жана алар аларга берип жиберди"
+    },
+    {
+      "surface": "וינצלו",
+      "gloss": "жана алар…тоноду"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Мицрайимди"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицрайимди"
+    }
+  ],
+  "timestamp": "2026-10-05T12:08:16.389235760Z",
+  "model": "glm-5.3"
+}

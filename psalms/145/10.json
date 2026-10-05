@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 145:10",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 145,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ийкөөсүң",
+      "rationale": "יודוך баштапкы мааниси 'кол сунуп таануу' — кыргызча 'даңазалоо' деп берилди"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ыйыктарың",
+      "rationale": "חסידיך — 'хеседди көрсөткөндөрүң', адатта 'ыйыктар' деп которулат"
+    }
+  ],
+  "translation": "Бардык иштериң Сени даңазалайбы, Яхве, жана ыйыктарың Сени алкышташат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "8deb2f88faa100032b94e467defa4882e1966ad759c0dc71e5f9c8f3b400fddf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/145\/10-11.1791224526008.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "даңазалайбы"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бардык"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "иштериң"
+    },
+    {
+      "surface": "וחסידיך",
+      "gloss": "жана ыйыктарың"
+    },
+    {
+      "surface": "יברכוכה",
+      "gloss": "алкышташат"
+    }
+  ],
+  "timestamp": "2026-10-05T18:22:06.008928922Z",
+  "model": "glm-5.3"
+}

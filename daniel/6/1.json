@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "daniel 6:1",
+  "book": "daniel",
+  "lang": "ky",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "болжол менен",
+      "rationale": "כבר букв. «уулу сыяктуу» — жашты болжол менен көрсөтүү, кыргызча «болжол менен» деп ачык айтылды"
+    },
+    {
+      "kind": "measurement",
+      "subject": "алтымыш жана эки жаш",
+      "rationale": "Дарийавештин жашы саналып жатат"
+    },
+    {
+      "kind": "alternative",
+      "subject": "Дарийавеш",
+      "rationale": "арамейче דריו׷ айтылышы боюнча; салттуу «Дарий» да мүмкүн"
+    }
+  ],
+  "translation": "Дарийавеш Медин падышалыкты кабыл алды, ⟨болжол менен⟩ алтымыш жана эки жашында.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "ac30af728ec1bd744f920fa1ebd1ea33394aa6c11b7b042e28140fdc2aea8b6e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/daniel\/6\/1-4.1791220776378.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ודריוש",
+      "gloss": "Дарийавеш"
+    },
+    {
+      "surface": "מדיא",
+      "gloss": "Медин"
+    },
+    {
+      "surface": "קבל",
+      "gloss": "кабыл алды"
+    },
+    {
+      "surface": "מלכותא",
+      "gloss": "падышалыкты"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "болжол менен"
+    },
+    {
+      "surface": "שנין",
+      "gloss": "жашында"
+    },
+    {
+      "surface": "שתין",
+      "gloss": "алтымыш"
+    },
+    {
+      "surface": "ותרתין",
+      "gloss": "жана эки"
+    }
+  ],
+  "timestamp": "2026-10-05T17:19:36.379515371Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "ezekiel 33:32",
+  "book": "ezekiel",
+  "lang": "ky",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "песня любви",
+      "rationale": "שיר עגבים — буквально «песня любовных вожделений»; пророк — развлечение, не вестник."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עגבים",
+      "rationale": "то же слово, что в 33:31: их любовные речи ↔ ты им песня любви — связующий мотив."
+    }
+  ],
+  "translation": "И вот, ты для них как песня любви — красивый голос и хорошо играющий; и услышат ⟨את⟩ твои слова, но ⟨эч⟩ ⟨את⟩ их не делают.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "b5437fd13561a86ad8a3d2963ef5a781e6f23046766f267b2d2da3c47e93d491",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ezekiel\/33\/29-32.1791213200089.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והנך",
+      "gloss": "И вот, ты"
+    },
+    {
+      "surface": "להם",
+      "gloss": "для них"
+    },
+    {
+      "surface": "כשיר",
+      "gloss": "как песня"
+    },
+    {
+      "surface": "עגבים",
+      "gloss": "любви"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "красивый"
+    },
+    {
+      "surface": "קול",
+      "gloss": "голос"
+    },
+    {
+      "surface": "ומטב",
+      "gloss": "и хорошо"
+    },
+    {
+      "surface": "נגן",
+      "gloss": "играющий"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "и услышат"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сөздөрүңдү"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "твои слова"
+    },
+    {
+      "surface": "ועשים",
+      "gloss": "но делают"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "⟨эч⟩ не"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ их",
+      "marks": "сөздөрүңдү"
+    }
+  ],
+  "timestamp": "2026-10-05T15:13:20.091369066Z",
+  "model": "glm-5.3"
+}

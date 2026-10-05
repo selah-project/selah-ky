@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 39:2",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יהוה את יוסף",
+      "rationale": "את бул жерде H854 предлог катары 'менен' маанисинде да окйлушат: 'Яхве Йосеф менен болду'."
+    },
+    {
+      "kind": "addition",
+      "subject": "болду",
+      "rationale": "כי... 'адам ийгиликтүү' деген атоочтук айтылышта этиш жок; кыргызча 'болду' кошулду."
+    }
+  ],
+  "translation": "Жана Яхве ⟨את⟩ Йосеф ⟨менен⟩ болду, жана ал ийгиликтүү адам болду, жана ал өзүнүн кожоюну Мицрайимдиктин үйүндө болду.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "17e25ea9f80445fb68623ec36d87ab2dc3e7437fdba07a19abc3006360b6fcf6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/39\/1-4.1791201592472.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "болду"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Йосеф"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосеф"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "болду"
+    },
+    {
+      "surface": "איש",
+      "gloss": "адам"
+    },
+    {
+      "surface": "מצליח",
+      "gloss": "ийгиликтүү"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "болду"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "үйүндө"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "өзүнүн кожоюну"
+    },
+    {
+      "surface": "המצרי",
+      "gloss": "Мицрайимдиктин"
+    }
+  ],
+  "timestamp": "2026-10-05T11:59:52.473678175Z",
+  "model": "glm-5.3"
+}

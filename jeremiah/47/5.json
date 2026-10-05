@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 47:5",
+  "book": "jeremiah",
+  "lang": "ky",
+  "chapter": 47,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שארית עמקם",
+      "rationale": "«алардын өрөөнүнүн калдыгы» — өрөөндүн өзүнүн калганыбы, Ашкелондун калдыгыбы деген талаш бар."
+    },
+    {
+      "kind": "substitution",
+      "subject": "נדמתה",
+      "rationale": "дамах — «үнсүз болуу, жок болуу»; «жок болду» деп берилди."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תתגודדי",
+      "rationale": "гадад — азап үчүн өзүн кесүү салты; Мыйзамды кайталоо 14:1 аны тыюйт."
+    }
+  ],
+  "translation": "Такыбайлык келди Газага, Ашкелон жок болду — ⟨алардын⟩ өрөөнүнүн калдыгы; качанга чейин ⟨сен⟩ өзүңдү кесикиң?",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "2f11236b7b61a040822ab48a1d3d4bbcda20878906becfa0b51cdab63a092c18",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/jeremiah\/47\/5-7.1791211728062.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "באה",
+      "gloss": "келди"
+    },
+    {
+      "surface": "קרחה",
+      "gloss": "такыбайлык"
+    },
+    {
+      "surface": "אל",
+      "gloss": "го"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Газага"
+    },
+    {
+      "surface": "נדמתה",
+      "gloss": "жок болду"
+    },
+    {
+      "surface": "אשקלון",
+      "gloss": "Ашкелон"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "калдыгы"
+    },
+    {
+      "surface": "עמקם",
+      "gloss": "өрөөнүнүн"
+    },
+    {
+      "surface": "עד",
+      "gloss": "качанга чейин"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "качан"
+    },
+    {
+      "surface": "תתגודדי",
+      "gloss": "өзүңдү кесикиң"
+    }
+  ],
+  "timestamp": "2026-10-05T14:48:48.062852243Z",
+  "model": "glm-5.3"
+}

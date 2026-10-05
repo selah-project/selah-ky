@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 16:4",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עצבותם",
+      "rationale": "עַצְּבוֹת — «азаптар» же «буттар»: KJV «азаптары көбөйөт», JPS «буттары көбөйсүн»."
+    },
+    {
+      "kind": "substitution",
+      "subject": "кудайларга",
+      "rationale": "אחר — «башка [кудайлар]»; зат аты кыскарылып калган, кыргызча толукталды."
+    }
+  ],
+  "translation": "Алардын буттары көбөйсүн — башка ⟨кудайларга⟩ чыгышкандар; алардын кандуу нэсектерин төкпөйм, алардын ысымдарын ⟨את⟩ эриндериме албайм.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "dac7418744feaab5a3e0868637f42acc9b8efebf12029a003f62e88da584ce76",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/16\/1-4.1791215451751.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ירבו",
+      "gloss": "көбөйсүн"
+    },
+    {
+      "surface": "עצבותם",
+      "gloss": "алардын буттары"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "башка"
+    },
+    {
+      "surface": "מהרו",
+      "gloss": "чыгышкандар"
+    },
+    {
+      "surface": "בל",
+      "gloss": "жок"
+    },
+    {
+      "surface": "אסיך",
+      "gloss": "төкпөйм"
+    },
+    {
+      "surface": "נסכיהם",
+      "gloss": "алардын нэсектери"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "кандуу"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "жана жок"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "албайм"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "алардын ысымдарын"
+    },
+    {
+      "surface": "שמותם",
+      "gloss": "алардын ысымдарын"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстүнө"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "эриндериме"
+    }
+  ],
+  "timestamp": "2026-10-05T15:50:51.752875881Z",
+  "model": "glm-5.3"
+}

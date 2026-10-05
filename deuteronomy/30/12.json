@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 30:12",
+  "book": "deuteronomy",
+  "lang": "ky",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "берет",
+      "rationale": "Ивритте жок болгон жардам мааниси — 'ким чыгат' деген суроо кыргызча 'ким чыгып берет' болуп такталды"
+    },
+    {
+      "kind": "secret",
+      "subject": "асманда эмес",
+      "rationale": "Буйрук жашыруун, жеткиликтсиз жерде эмес — бул аят 30:11–14 тобунун 'ачык билим' деген темасын ачат"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "השמימה",
+      "rationale": "בשמים жана השמימה — 'асманда' менен 'асманыга' — бир эне сөздүн эки жолу кайтуусу ритмди түзөт"
+    }
+  ],
+  "translation": "Ал асманда эмес — «Биз үчүн асманыга ким чыгып берет, аны бизге алып келет да, бизге угузат, жана биз ⟨את⟩ аны аткарабыбы?» — деп айтасың.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "1a63e0cb29759a638331b6fb4579cdde360e9da6799c109af65c0cd21026ce65",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/30\/9-12.1791205337905.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "эмес"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "асманда"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Ал"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "…деп айтасың"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ким"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "чыгып берет"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "биз үчүн"
+    },
+    {
+      "surface": "השמימה",
+      "gloss": "асманыга"
+    },
+    {
+      "surface": "ויקחה",
+      "gloss": "жана ... алып келет"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "бизге"
+    },
+    {
+      "surface": "וישמענו",
+      "gloss": "жана ... угузат"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "аны"
+    },
+    {
+      "surface": "ונעשנה",
+      "gloss": "жана ... аткарабыбы"
+    }
+  ],
+  "timestamp": "2026-10-05T13:02:17.906745609Z",
+  "model": "glm-5.3"
+}

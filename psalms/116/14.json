@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 116:14",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 116,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נא",
+      "rationale": "particle נא read as 'now' (KJV) or as entreaty 'I pray' (YLT)"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨эле⟩",
+      "rationale": "kyrgyz needs an adverb marker for the Hebrew particle נא"
+    }
+  ],
+  "translation": "Назирлеримди Яхвеге төлөйм, азыр ⟨эле⟩ бардык элинин алдында.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "f8f10062da369522955524945906256f81a0f23e824c8a9f9eff292dd6de4891",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/116\/13-16.1791217277323.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נדרי",
+      "gloss": "Назирлеримди"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхвеге"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "төлөйм"
+    },
+    {
+      "surface": "נגדה",
+      "gloss": "алдында"
+    },
+    {
+      "surface": "נא",
+      "gloss": "азыр ⟨эле⟩"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "бардык"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "элинин"
+    }
+  ],
+  "timestamp": "2026-10-05T16:21:17.324290980Z",
+  "model": "glm-5.3"
+}

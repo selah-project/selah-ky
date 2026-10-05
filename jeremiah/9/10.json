@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 9:10",
+  "book": "jeremiah",
+  "lang": "ky",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תנים",
+      "rationale": "תנים (танним) — 'шакал' же 'деңиз жыланы\/аждаар': KJV 'dragons', заманбап котормолор 'jackals'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שממה \/ מבלי יושב",
+      "rationale": "'ээн-басар — турған жок' — өнөкөт коштошуу, эки сөз бир эле ойдун күчөтүлүшү"
+    }
+  ],
+  "translation": "Жана ⟨את⟩ Йерушалайимди үймөктөргө, шакалдардын жайына бердим, жана ⟨את⟩ Йүдө шаарларын ээн-басар кыладым — турған эч ким жок.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "701b3678bb719311701aff54e5be955aa73e98dd77c779cc44587485922f1345",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/jeremiah\/9\/9-12.1791210935582.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "жана бердим"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Йерушалайимди"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Йерушалайимди"
+    },
+    {
+      "surface": "לגלים",
+      "gloss": "үймөктөргө"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "жайына"
+    },
+    {
+      "surface": "תנים",
+      "gloss": "шакалдардын"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ жана",
+      "marks": "Йүдө шаарларын"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "шаарларын"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Йүдө"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "кыладым"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "ээн-басар"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "жок"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "турған"
+    }
+  ],
+  "timestamp": "2026-10-05T14:35:35.583176160Z",
+  "model": "glm-5.3"
+}

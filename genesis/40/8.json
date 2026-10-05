@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 40:8",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Элохим",
+      "rationale": "לאלהים бул жерде Элохим ысымы катары сакталды, 'кудайлар' эмес"
+    },
+    {
+      "kind": "you",
+      "subject": "Йосефтин наыпчыларга айткан сөзү",
+      "rationale": "Түш жоруму Элохимге таандык экенин айтып, түштөрүн айтууга чакырат"
+    }
+  ],
+  "translation": "Жана алар ага айттышты: Түш көрдүк, аны жоруучу жок. Жана Йосеф аларга айтты: Жорумдар Элохимге таандык эмеспи? Мага айтып бергилечи.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "5afc356fc052956f2e77475bc85fbe17c76038bafeb3c24796fcb18b8a2d39c9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/40\/5-8.1791201539635.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "алар айттышты"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ага"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "түш"
+    },
+    {
+      "surface": "חלמנו",
+      "gloss": "көрдүк"
+    },
+    {
+      "surface": "ופתר",
+      "gloss": "жана жоруучу"
+    },
+    {
+      "surface": "אין",
+      "gloss": "жок"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "аны"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "жана айтты"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "аларга"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосеф"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "эмеспи"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Элохимге"
+    },
+    {
+      "surface": "פתרנים",
+      "gloss": "жорумдар"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "айтып бергилечи"
+    },
+    {
+      "surface": "נא",
+      "gloss": "сураныч"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мага"
+    }
+  ],
+  "timestamp": "2026-10-05T11:58:59.636445370Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 9:12",
+  "book": "hosea",
+  "lang": "ky",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ажыратам",
+      "rationale": "ושכלתים букв. «баласыз калтырам, түшүк кылам» — насыя катары алынды"
+    },
+    {
+      "kind": "crux",
+      "subject": "בשורי",
+      "rationale": "«мен алардан бурсам» же «мен алардан кетсем» — которуулар эки жактуу"
+    }
+  ],
+  "translation": "Анткени эгерде алар ⟨את⟩ балдарын чоңойтса да, мен аларды адамдан ажыратам; анткени оор күн да аларга — алардан бурганымда.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "85733376a4fdef4fc44aeaad025b158a6e5314fc167b8af32e92a544459d0ee6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/hosea\/9\/9-12.1791213968654.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "אם",
+      "gloss": "эгерде"
+    },
+    {
+      "surface": "יגדלו",
+      "gloss": "чоңойтса"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "балдарын"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "балдарын"
+    },
+    {
+      "surface": "ושכלתים",
+      "gloss": "ажыратам"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "адамдан"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "גם",
+      "gloss": "да"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "оор күн"
+    },
+    {
+      "surface": "להם",
+      "gloss": "аларга"
+    },
+    {
+      "surface": "בשורי",
+      "gloss": "бурганымда"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "алардан"
+    }
+  ],
+  "timestamp": "2026-10-05T15:26:08.656006902Z",
+  "model": "glm-5.3"
+}

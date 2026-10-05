@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "leviticus 13:46",
+  "book": "leviticus",
+  "lang": "ky",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "rationale": "относителдик байламта түшүрүлдү"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יטמא טמא הוא",
+      "rationale": "тамырдын үч жолу кайталанышы — ритуалдык басым, кыргызча эки жолу калды"
+    }
+  ],
+  "translation": "Жара анын ичинде болгон күндөрдүн баарында ал таза эмес болот; таза эмес ал жалгыз отурат, лагерден тышкары болот анын жашоо жайы.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "870586b47f6230994bde4f45ef558cae91c02be95bf41b34722dbe19c5b1c320",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/13\/45-48.1791203098458.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "баарында"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "күндөрдүн"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "жара"
+    },
+    {
+      "surface": "בו",
+      "gloss": "анын ичинде"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "таза эмес болот"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "таза эмес"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ал"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "жалгыз"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "отурат"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "тышкары"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "лагерден"
+    },
+    {
+      "surface": "מושבו",
+      "gloss": "анын жашоо жайы"
+    }
+  ],
+  "timestamp": "2026-10-05T12:24:58.459693879Z",
+  "model": "glm-5.3"
+}

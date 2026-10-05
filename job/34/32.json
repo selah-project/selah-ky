@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "job 34:32",
+  "book": "job",
+  "lang": "ky",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨аны⟩",
+      "rationale": "אסיף 'кошомун' — кайра жасоо объектиси текстте жок"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Сен мага үйрөт",
+      "rationale": "Ийобдун оозунан чыккан үйрөтүү сураныы — Элге багытталган"
+    },
+    {
+      "kind": "crux",
+      "subject": "בלעדי אחזה",
+      "rationale": "'көрбөгөн нерседен тышкары' (KJV) менен 'көрсөм да' (Geneva 'if I see not') ортосунда талаш"
+    }
+  ],
+  "translation": "Мен көрбөгөндүн ордуна Сен мага үйрөт — эгер мен зулумдук кылсам, ⟨аны⟩ кайра жасай бербеймин.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "32bf92ad5ff7e21a86bd4268cefa935960753f5a9cd2fc268e18e423684f0666",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/job\/34\/29-32.1791219362524.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בלעדי",
+      "gloss": "ордуна"
+    },
+    {
+      "surface": "אחזה",
+      "gloss": "көрбөгөндү"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Сен"
+    },
+    {
+      "surface": "הרני",
+      "gloss": "мага үйрөт"
+    },
+    {
+      "surface": "אם",
+      "gloss": "эгер"
+    },
+    {
+      "surface": "עול",
+      "gloss": "зулумдук"
+    },
+    {
+      "surface": "פעלתי",
+      "gloss": "кылсам"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "אסיף",
+      "gloss": "кайра жасай бербеймин"
+    }
+  ],
+  "timestamp": "2026-10-05T16:56:02.525530612Z",
+  "model": "glm-5.3"
+}

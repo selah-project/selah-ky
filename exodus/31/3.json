@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 31:3",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "устачылык",
+      "rationale": "מלאאכה — жалпы «иш, эмгек», бул жерде кол өнөрчүлүк маанисинде."
+    }
+  ],
+  "translation": "жана Мен ⟨את⟩ аны Элохимдин руху менен толтургом — акылмандыкта, түшүнүүдө, билимде жана ар кандай устачылыкта.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "f6bf04b29791fe11920969691a6ef199183e7df34d81fc743f4f756ced92e8f6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/31\/1-4.1791202471990.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמלא",
+      "gloss": "толтургом"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "аны (Бецалелди)"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "рух"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохимдин"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "акылмандыкта"
+    },
+    {
+      "surface": "ובתבונה",
+      "gloss": "түшүнүүдө"
+    },
+    {
+      "surface": "ובדעת",
+      "gloss": "билимде"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "ар кандай"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "устачылыкта"
+    }
+  ],
+  "timestamp": "2026-10-05T12:14:31.991389568Z",
+  "model": "glm-5.3"
+}

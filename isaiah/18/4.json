@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 18:4",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כחם צח עלי אור",
+      "rationale": "«нурга тийген ачык ысык» (ASV) же «чөптөгү күйгүзүүчү ысык» (ЖКВ «herbs») — «чөп» түшүндүрүүсү болжолдуу"
+    },
+    {
+      "kind": "addition",
+      "subject": "маалынын",
+      "rationale": "קציר «орок\/жыйноо» — кыргызча «орок маалы» деп ачыкталды"
+    }
+  ],
+  "translation": "Antкени Яхве мага мындай деди: Мен өз ордомдо тынч жатып караймын, күн нурундагы ачык ысыктай, орок маалынын ысыгындагы шүүдүрүм булутундай.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "09e49299305836eb392ba88b85b98d89ff37106566c1a06010df6da0936bf95f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/18\/1-4.1791209736985.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Antкени"
+    },
+    {
+      "surface": "כה",
+      "gloss": "мындай"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "деди"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "мага"
+    },
+    {
+      "surface": "אשקוטה",
+      "gloss": "тынч жатып"
+    },
+    {
+      "surface": "ואביטה",
+      "gloss": "жана караймын"
+    },
+    {
+      "surface": "במכוני",
+      "gloss": "өз ордомдо"
+    },
+    {
+      "surface": "כחם",
+      "gloss": "ысыктай"
+    },
+    {
+      "surface": "צח",
+      "gloss": "ачык"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "кубары"
+    },
+    {
+      "surface": "אור",
+      "gloss": "нурдун"
+    },
+    {
+      "surface": "כעב",
+      "gloss": "булутундай"
+    },
+    {
+      "surface": "טל",
+      "gloss": "шүүдүрүм"
+    },
+    {
+      "surface": "בחם",
+      "gloss": "ысыгындагы"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "орок маалынын"
+    }
+  ],
+  "timestamp": "2026-10-05T14:15:36.986931539Z",
+  "model": "glm-5.3"
+}

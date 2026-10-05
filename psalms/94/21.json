@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 94:21",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 94,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жан",
+      "rationale": "נפש — дем алуучу жандык, тамак\/жан күчү; 'жан' бир гана тарабын берет"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨адамды⟩",
+      "rationale": "'каны таза' сын атооч — субстантивдүү колдонулуш, кыргызча тактоо талап кылат"
+    }
+  ],
+  "translation": "Алар адил жандын үстүнөн топтолот жана каны таза ⟨адамды⟩ күнөөлүү деп жарыялашат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "0f15ef12c275c81bdcb9a43b9ac6e3af98f1cdd262cee3fd259d75ed0ba68830",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/94\/21-23.1791216854153.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יגודו",
+      "gloss": "топтолот"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстүнөн"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "жан"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "адил"
+    },
+    {
+      "surface": "ודם",
+      "gloss": "жана кан"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "таза"
+    },
+    {
+      "surface": "ירשיעו",
+      "gloss": "күнөөлүү деп жарыялашат"
+    }
+  ],
+  "timestamp": "2026-10-05T16:14:14.154322191Z",
+  "model": "glm-5.3"
+}

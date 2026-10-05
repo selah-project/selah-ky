@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 7:8",
+  "book": "1-samuel",
+  "lang": "ky",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨Ал⟩",
+      "rationale": "ивритте субъекттин аты жок — каалoo филсинин («сактасын») айкын болушу үчүн кыргызча жөндөмө кошулду."
+    },
+    {
+      "kind": "you",
+      "subject": "тынба",
+      "rationale": "Йисраэл уулдарынын Шемуелге түз багыттуу өтүнүчү."
+    },
+    {
+      "kind": "crux",
+      "subject": "אל תחרש ממנו מזעק",
+      "rationale": "тынба\/үндөбө» же «биздин үчүн кыйкырудан баш тартпа» — эки окурм аракетти эмнеге багыттайры деген талаш."
+    }
+  ],
+  "translation": "Жана Йисраэл уулдары Шемуелге айтышты: Биздин үчүн Элохимибиз Яхвеге кыйкырудан тынба, жана ⟨Ал⟩ бизди плиштимдин колунан сактасын.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "4e4ff7bb999484b2a1d667a340b36987d2b66c72091a0d09ae01dc335a4fc87e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-samuel\/7\/5-8.1791206696032.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Жана айтышты"
+    },
+    {
+      "surface": "בני",
+      "gloss": "уулдары"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэл"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ге"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Шемуелге"
+    },
+    {
+      "surface": "אל",
+      "gloss": "түгүл"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "тынба"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "…дан"
+    },
+    {
+      "surface": "מזעק",
+      "gloss": "кыйкырудан"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ге"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвеге"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Элохимибиз"
+    },
+    {
+      "surface": "וישענו",
+      "gloss": "жана сактасын"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "колунан"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "плиштимдин"
+    }
+  ],
+  "timestamp": "2026-10-05T13:24:56.033899283Z",
+  "model": "glm-5.3"
+}

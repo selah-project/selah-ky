@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 25:15",
+  "book": "2-kings",
+  "lang": "ky",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "זהב זהב · כסף כסף",
+      "rationale": "«алтын алтын, күмүш күмүш» — өтө таза материалды билдирүүчү экилештерүү, кыргызча сакталды."
+    },
+    {
+      "kind": "substitution",
+      "subject": "аткаруучулардын башчысы",
+      "rationale": "רב טבחים көчө мааниси «союучулардын башчысы» — падышанын сакчысына\/аткаруучусуна айтылат."
+    }
+  ],
+  "translation": "Жана от казандарды ⟨את⟩, чачылоо чөйчөктөрүн ⟨את⟩ — алтындан жасалганын алтын, күмүштөн жасалганын күмүш — аткаруучулардын башчысы алды.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "c7cb550643f972caf7279dd9b8a8f82b3fc0403313a7b5a596b557930b8d142d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-kings\/25\/13-16.1791209335036.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "от казандарды"
+    },
+    {
+      "surface": "המחתות",
+      "gloss": "от казандарды"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "чачылоо чөйчөктөрүн"
+    },
+    {
+      "surface": "המזרקות",
+      "gloss": "чачылоо чөйчөктөрүн"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "кайсы"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "алтын"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "алтын"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "жана кайсы"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "күмүш"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "күмүш"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "алды"
+    },
+    {
+      "surface": "רב",
+      "gloss": "башчысы"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "аткаруучулардын"
+    }
+  ],
+  "timestamp": "2026-10-05T14:08:55.037586945Z",
+  "model": "glm-5.3"
+}

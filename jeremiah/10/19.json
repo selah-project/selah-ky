@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "jeremiah 10:19",
+  "book": "jeremiah",
+  "lang": "ky",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נחלה\/חלי",
+      "rationale": "Жалгыз тамырдан алынган אהלי — «оору» деген сөз эки жолу кайтылат; кыргызча байланыш жоголду."
+    },
+    {
+      "kind": "substitution",
+      "subject": "оору",
+      "rationale": "חלי — оору, кабатырлык, кырсыг; «оору» гана тар маани берет."
+    },
+    {
+      "kind": "elision",
+      "subject": "על",
+      "rationale": "כי предлогу «ойдун» ичинде эриген; кыргызча «сынымдан» көтөрүп турат."
+    }
+  ],
+  "translation": "Ой, мага — сынымдан! Жарагым оор; мен болсо: «Чын эле бул — оору, жана мен аны көтөрөм» дедим.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "8fa59c9d6972726d009ace5291eb36e8cf6ca6cbf84c3170850657f111264609",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/jeremiah\/10\/17-20.1791210897008.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אוי",
+      "gloss": "Ой"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мага"
+    },
+    {
+      "surface": "על",
+      "gloss": "—"
+    },
+    {
+      "surface": "שברי",
+      "gloss": "сынымдан"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "оор"
+    },
+    {
+      "surface": "מכתי",
+      "gloss": "жарагым"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "мен болсо"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "дедим"
+    },
+    {
+      "surface": "אך",
+      "gloss": "чын эле"
+    },
+    {
+      "surface": "זה",
+      "gloss": "бул"
+    },
+    {
+      "surface": "חלי",
+      "gloss": "оору"
+    },
+    {
+      "surface": "ואשאנו",
+      "gloss": "жана аны көтөрөм"
+    }
+  ],
+  "timestamp": "2026-10-05T14:34:57.009748697Z",
+  "model": "glm-5.3"
+}

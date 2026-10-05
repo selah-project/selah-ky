@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 21:13",
+  "book": "1-samuel",
+  "lang": "ky",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מפני",
+      "rationale": "Literally 'from the face of'; rendered with the Kyrgyz ablative -дан."
+    }
+  ],
+  "translation": "Давид ⟨את⟩ бул сөздөрдү жүрөгүнө койду жана Акиштен, Гаттын падышасынан, өтө коркту.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "fc1b27828201017ca6ac03a4aaffd8c28de1cdbaadc29d9854a75bf5d26798cb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-samuel\/21\/13-16.1791207096325.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "койду"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "бул сөздөрдү"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "бул сөздөрдү"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "бул"
+    },
+    {
+      "surface": "בלבבו",
+      "gloss": "жүрөгүнө"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "жана коркту"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "өтө"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "-дан"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Акиштен"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "падышасынан"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Гаттын"
+    }
+  ],
+  "timestamp": "2026-10-05T13:31:36.326492968Z",
+  "model": "glm-5.3"
+}

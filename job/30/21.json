@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 30:21",
+  "book": "job",
+  "lang": "ky",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לאכזר",
+      "rationale": "'ачууланган\/жүзүн буруу' же туура 'каармандык' — бул жерде күтүлбөгөн кубулуш: Яхве азыр Иовдун душманы сыяктуу."
+    },
+    {
+      "kind": "substitution",
+      "subject": "תשטמני",
+      "rationale": "שׂטם 'жашырынып куугунтуктоо' маанисинде 'мен куугунтуктайсың' деп берилди."
+    }
+  ],
+  "translation": "Сен мага жүзүңдү ачууланып бурулдуң, колуңдун күч-кудурети менен мени куугунтуктайсың.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "1f56baa33c094ec857824903ef203d3602fadcb434be39cdd4b31f39a1d8f10f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/job\/30\/21-24.1791219196433.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תהפך",
+      "gloss": "бурулдуң"
+    },
+    {
+      "surface": "לאכזар",
+      "gloss": "жүзүңдү ачууланып"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мага"
+    },
+    {
+      "surface": "בעצם",
+      "gloss": "кудурети менен"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "колуңдун"
+    },
+    {
+      "surface": "תשטמני",
+      "gloss": "мени куугунтуктайсың"
+    }
+  ],
+  "timestamp": "2026-10-05T16:53:16.434616209Z",
+  "model": "glm-5.3"
+}

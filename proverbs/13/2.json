@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 13:2",
+  "book": "proverbs",
+  "lang": "ky",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "жейт",
+      "rationale": "экинчи жарым сүйлөмдө этиш жок; биринчи жарымдагы אכל экинчи жерге да тиешелүү деп ⟨…⟩ менен кошулду"
+    },
+    {
+      "kind": "substitution",
+      "subject": "жан",
+      "rationale": "נפש — дем алуучу, жанык күч; 'жан' жакын, бирок 'тамак\/каалоо' мааниси да бар"
+    }
+  ],
+  "translation": "Адам оозунун жемишинен жакшылыкты жейт, ал эми чыккынчылардын жаны зордукту ⟨жейт⟩.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "259a96b14145fe009f7903fcfe0970fec25774a3d828f3318011ba1428967c73",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/13\/1-4.1791218015890.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מפרי",
+      "gloss": "жемишинен"
+    },
+    {
+      "surface": "פי",
+      "gloss": "оозунун"
+    },
+    {
+      "surface": "איש",
+      "gloss": "адам"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "жейт"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "жакшылыкты"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "ал эми... жаны"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "чыккынчылардын"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "зордукту"
+    }
+  ],
+  "timestamp": "2026-10-05T16:33:35.891298287Z",
+  "model": "glm-5.3"
+}

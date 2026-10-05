@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "joshua 22:34",
+  "book": "joshua",
+  "lang": "ky",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עד",
+      "rationale": "Name of the altar 'Ed' (witness) — KJV\/ASV transliterate 'Ed', JPS leaves it untranslated; here rendered as the name «Эд» with the meaning 'күбө' in apposition."
+    },
+    {
+      "kind": "addition",
+      "subject": "бул",
+      "rationale": "Kyrgyz requires a copula where Hebrew has none in 'Яхве האלהים'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "האלהים",
+      "rationale": "'The God' with article — Kyrgyz has no article, rendered simply 'Элохим'."
+    }
+  ],
+  "translation": "Жана Рувен уулдары жана Гад уулдары курмандыкты «Эд» деп аташты; анткени ал биздин арабызда күбө, анткени Яхве ⟨бул⟩ Элохим.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "4be9337cb16feb523cf92a547ef537d0a8ac8516a53e724857f655ec8f64fea7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/joshua\/22\/33-34.1791205981284.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקראו",
+      "gloss": "жана аташты"
+    },
+    {
+      "surface": "בני",
+      "gloss": "уулдары"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Рувен"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "жана уулдары"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Гад"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "курмандыкты"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "עד",
+      "gloss": "күбө"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ал"
+    },
+    {
+      "surface": "בינתינו",
+      "gloss": "биздин арабызда"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Элохим"
+    }
+  ],
+  "timestamp": "2026-10-05T13:13:01.285681900Z",
+  "model": "glm-5.3"
+}

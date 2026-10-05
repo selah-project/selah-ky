@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 143:3",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 143,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жан",
+      "rationale": "נפש — 'тамак\/дем\/жашоо күчү' дегенге жакын; 'жан' түшүнүгү кеңейтилген."
+    }
+  ],
+  "translation": "анткени душман менин жанымды кууп жатат, ал менин жашоомду жерге чайпады, мени караңгылыктарда отургузду, байыркы өлгөндөрдөй.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "d7ea2addd3a0aa4d4a94507bbc4435ec9a6da2c7e1962af6ff60f2716542c0f0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/143\/1-4.1791217593203.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "רדף",
+      "gloss": "кууп жатат"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "душман"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "жанымды"
+    },
+    {
+      "surface": "דכא",
+      "gloss": "чайпады"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "жерге"
+    },
+    {
+      "surface": "חיתי",
+      "gloss": "жашоомду"
+    },
+    {
+      "surface": "הושיבני",
+      "gloss": "мени отургузду"
+    },
+    {
+      "surface": "במחשכים",
+      "gloss": "караңгылыктарда"
+    },
+    {
+      "surface": "כמתי",
+      "gloss": "өлгөндөрдөй"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "байыркы"
+    }
+  ],
+  "timestamp": "2026-10-05T16:26:33.204896811Z",
+  "model": "glm-5.3"
+}

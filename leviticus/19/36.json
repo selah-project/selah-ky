@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "leviticus 19:36",
+  "book": "leviticus",
+  "lang": "ky",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "צדק ×4",
+      "rationale": "«Цедек» сөзү төрт жолу кайталанат — риторикалык рефрен, толук сакталды"
+    },
+    {
+      "kind": "measurement",
+      "subject": "эфа, гин, тараза, таш",
+      "rationale": "Ченемдер тизмеленип берилген — өлчөө аяты"
+    },
+    {
+      "kind": "elision",
+      "subject": "אתכם",
+      "rationale": "Aleph-tav объект маркери ⟨את⟩ белгиси катары сакталды, кыргызча толтуп берилбейт"
+    }
+  ],
+  "translation": "Цедек таразалар, цедек таштар, цедек эфа жана цедек гин силерде болсун; Мен — Яхве, силердин Элохимиңер, силерди Мицрайим жеринен чыгарганым.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "c1e30096f888f3c498b18cc43848958914de0e4fa12873ffd47901f172fba920",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/19\/33-36.1791203294533.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מאזני",
+      "gloss": "таразалар"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "цедек"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "таштар"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "цедек"
+    },
+    {
+      "surface": "איפת",
+      "gloss": "эфа"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "цедек"
+    },
+    {
+      "surface": "והין",
+      "gloss": "жана гин"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "цедек"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "болсун"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "силерде"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Мен"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "силердин Элохимиңер"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ал"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "чыгарганым"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "силерди"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "жеринен"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицрайим"
+    }
+  ],
+  "timestamp": "2026-10-05T12:28:14.534801102Z",
+  "model": "glm-5.3"
+}

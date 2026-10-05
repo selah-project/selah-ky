@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 14:12",
+  "book": "proverbs",
+  "lang": "ky",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "түз жол",
+      "rationale": "'адамга түз көрүнөт' (KJV) окшош; лектин өзү 'түз' дейт, 'окшойт' деген сөз жок"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ישר\/ישרים",
+      "rationale": "14:9,11 дегי 'түз жүргөндөр' менен бир тамыр — бул жерде ирония: 'түз' көрүнгөн жол өлүмгө алып барат"
+    }
+  ],
+  "translation": "Адамдын көз алдында түз жол бар, бирок анын аягы — өлүм жолдору.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "69afcab67d2b04cc3d035ddcb405694f97d806bcedb7294861e5089950dca0ba",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/14\/9-12.1791217945335.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "бар"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "жол"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "түз"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "көз алдында"
+    },
+    {
+      "surface": "איש",
+      "gloss": "адамдын"
+    },
+    {
+      "surface": "ואחריתה",
+      "gloss": "анын аягы"
+    },
+    {
+      "surface": "дרכי",
+      "gloss": "жолдору"
+    },
+    {
+      "surface": "מות",
+      "gloss": "өлүм"
+    }
+  ],
+  "timestamp": "2026-10-05T16:32:25.336582697Z",
+  "model": "glm-5.3"
+}

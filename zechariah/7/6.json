@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 7:6",
+  "book": "zechariah",
+  "lang": "ky",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אתם האוכלים \/ אתם השתים",
+      "rationale": "атаыштык + причастий кайталоосу — «жеген силер, ичкен силер» риторикалык параллелизм"
+    },
+    {
+      "kind": "you",
+      "subject": "элге",
+      "rationale": "суроо формасында түз кайрылуу уланып жатат"
+    }
+  ],
+  "translation": "Жана жегенде, ичкенде — жеген ⟨сен⟨⟩өзүң⟩ эмес белеңер, ичкен да ⟨сен⟨⟩өзүң⟩?",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "cd9eac0da49561c5e02cc5d3e781fed677bace510fb409453cf1344b91dc08d8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/zechariah\/7\/5-8.1791215008290.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "жана …да"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "жегенде"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "да"
+    },
+    {
+      "surface": "תשתו",
+      "gloss": "ичкенде"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "эмес белеңер"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "сен"
+    },
+    {
+      "surface": "האכלים",
+      "gloss": "жеген"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "сен"
+    },
+    {
+      "surface": "השתים",
+      "gloss": "ичкен"
+    }
+  ],
+  "timestamp": "2026-10-05T15:43:28.291039661Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 92:9",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 92,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "турасың",
+      "rationale": "Еврей текстте этиш жок — «маром» («бийиктик») атоочтук баяндооч, кыргызча этиш талап кылат"
+    },
+    {
+      "kind": "you",
+      "subject": "Яхвеге",
+      "rationale": "Дубаса Яхвеге түз кайрылуу"
+    }
+  ],
+  "translation": "Ал эми сен, Яхве, бийиктикте турасың ⟨түбөлүккө⟩.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "ccb29bba7eab0d6769349d3ffd820dfd370e974b97e7c1334d1ae31883a0070a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/92\/9-12.1791216861325.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ал эми сен"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "бийиктикте"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "түбөлүккө"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-10-05T16:14:21.326243572Z",
+  "model": "glm-5.3"
+}

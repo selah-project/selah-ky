@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 37:7",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "рух",
+      "rationale": "רוח — «рух\/шамал\/дем»: KJV «blast» (шамал катары), ЖПС жана башкалар «a spirit» (рух катары) деп берет; кыргызча бир сөз «рух» эки окууну тең камтыйт."
+    },
+    {
+      "kind": "substitution",
+      "subject": "кулатам",
+      "rationale": "הפלתיו — каузатив «кулатуу\/жыгылтуу»: «кылыч менен жыгам» деп да берилет."
+    }
+  ],
+  "translation": "Токон, Мен анын ичине рух коюп жатам, ал кабар угат да, өз жерине кайтат, жана Мен аны өз жеринде кылыч менен кулатам.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "b4caa4597af4c618e286eefd2c1cf8858d258b7658ce7f2c51ae58d76275ac76",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/37\/6-7.1791224148996.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "Токон, Мен"
+    },
+    {
+      "surface": "נותן",
+      "gloss": "коюп жатам"
+    },
+    {
+      "surface": "בו",
+      "gloss": "анын ичине"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "рух"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "угат"
+    },
+    {
+      "surface": "שמועה",
+      "gloss": "кабар"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "кайтат"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ине"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "өз жери"
+    },
+    {
+      "surface": "והпלתיו",
+      "gloss": "кулатам"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "кылыч менен"
+    },
+    {
+      "surface": "בארצו",
+      "gloss": "өз жеринде"
+    }
+  ],
+  "timestamp": "2026-10-05T18:15:48.998083805Z",
+  "model": "glm-5.3"
+}

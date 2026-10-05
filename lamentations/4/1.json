@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 4:1",
+  "book": "lamentations",
+  "lang": "ky",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יועם",
+      "rationale": "עמם ээ майдаларынан өтө көп окулган: «каарды», «түшүп калды», «өчтү» — кыйроо маанисинде."
+    },
+    {
+      "kind": "substitution",
+      "subject": "төгүлүп жатат",
+      "rationale": "שפך literally «төгүү» — таштар кымбат металл эрибеси сыяктуу эритилип төгүлгөнү жөнүндө сүрөт."
+    }
+  ],
+  "translation": "Кантип алтын карарып калды, эң жакшы таза алтын өзгөрдү! Ыйык таштар ар бир көчөнүн башына төгүлүп жатат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "bb2c366e0bcc61432dc5cf537b3dacf7df9e6917daf70646c16bb65a11ad8ef5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/lamentations\/4\/1-4.1791219890905.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "איכה",
+      "gloss": "Кантип"
+    },
+    {
+      "surface": "יועם",
+      "gloss": "каарып калды"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "алтын"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "өзгөрдү"
+    },
+    {
+      "surface": "הכתם",
+      "gloss": "эң жакшы таза алтын"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "эң жакшы"
+    },
+    {
+      "surface": "תשתפכנה",
+      "gloss": "төгүлүп жатат"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "таштар"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ыйык"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "башына"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ар бир"
+    },
+    {
+      "surface": "חוצות",
+      "gloss": "көчөнүн"
+    }
+  ],
+  "timestamp": "2026-10-05T17:04:50.906153533Z",
+  "model": "glm-5.3"
+}

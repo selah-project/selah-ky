@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 28:17",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "одем · питда · барекет",
+      "rationale": "Асыл таштардын аттары болжолдуу; еврейче аталыштары транслитерацияланды, «рубин» же «зумрут» деп койулган жок"
+    },
+    {
+      "kind": "measurement",
+      "subject": "төрт катар",
+      "rationale": "Таштардын төрт катары саналып көрсөтүлүүдө"
+    },
+    {
+      "kind": "substitution",
+      "subject": "биринчи",
+      "gloss-placeholder": false,
+      "rationale": "האחד «бир» деген сандык ат ачык (эмес), бирок тизмеде катардын тартибин көрсөтөт"
+    }
+  ],
+  "translation": "Ага таш орнотууларды толтурмун — төрт катар таш: биринчи катарда одем, питда жана барекет болсун.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "f43b2ea1e09ec8560e49de6b2f5f7e0d8441bbdb8dff13741f46d3551f83b8a3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/28\/17-20.1791202444161.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומלאת",
+      "gloss": "толтурмун"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ага"
+    },
+    {
+      "surface": "מלאת",
+      "gloss": "орнотууларды"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "таш"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "төрт"
+    },
+    {
+      "surface": "טורים",
+      "gloss": "катар"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "таш"
+    },
+    {
+      "surface": "טור",
+      "gloss": "катар"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "одем"
+    },
+    {
+      "surface": "פטדה",
+      "gloss": "питда"
+    },
+    {
+      "surface": "וברקת",
+      "gloss": "жана барекет"
+    },
+    {
+      "surface": "הטור",
+      "gloss": "⟨катар⟩"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "биринчи"
+    }
+  ],
+  "timestamp": "2026-10-05T12:14:04.161670401Z",
+  "model": "glm-5.3"
+}

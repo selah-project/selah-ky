@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 105:40",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Ал",
+      "rationale": "этиштин субъектин көрсөтүү үчүн жамао керек болду, ⟨…⟩ белгисиз кошулду"
+    },
+    {
+      "kind": "crux",
+      "subject": "שלו",
+      "rationale": "сулдурбай — учуу учун оор куш; кээ бир котормолор «селде» деп беришет"
+    }
+  ],
+  "translation": "Сурашты, жана Ал сулдурбай да алып келди, жана аларды асмандын наны менен тойгузду.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "13de54975d6c0cf9b7d16426a426cdfa39d7074471677b7046572bcaf8b6fda9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/105\/37-40.1791217070213.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שאל",
+      "gloss": "сурашты"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "алып келди"
+    },
+    {
+      "surface": "שלו",
+      "gloss": "сулдурбай"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "наны"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "асмандын"
+    },
+    {
+      "surface": "ישביעם",
+      "gloss": "аларды тойгузду"
+    }
+  ],
+  "timestamp": "2026-10-05T16:17:50.216451140Z",
+  "model": "glm-5.3"
+}

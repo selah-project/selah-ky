@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 7:16",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "казылган ор",
+      "rationale": "Жаман адам өзү казган ордун өзү түшөт — бул идиома сүрөт бойдон берилди"
+    },
+    {
+      "kind": "addition",
+      "subject": "өзү жасаган",
+      "rationale": "Ивритте 'жасаган' этиш бар, 'өзү' түшүнүктүү кылуу үчүн киргизилди"
+    }
+  ],
+  "translation": "Ордук казды жана аны тереңдетти, өзү жасаган орого түштү.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "cde8a333cd66e7f1e6340b4957c7a2c26ead845377c63444c6458b18cbe08ba2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/7\/13-16.1791215304803.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בור",
+      "gloss": "Ордук"
+    },
+    {
+      "surface": "כרה",
+      "gloss": "казды"
+    },
+    {
+      "surface": "ויחפרהו",
+      "gloss": "жана аны тереңдетти"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "түштү"
+    },
+    {
+      "surface": "בשחת",
+      "gloss": "орого"
+    },
+    {
+      "surface": "יפעל",
+      "gloss": "жасаган"
+    }
+  ],
+  "timestamp": "2026-10-05T15:48:24.804171819Z",
+  "model": "glm-5.3"
+}

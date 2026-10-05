@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "psalms 105:41",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "аска",
+      "rationale": "צור — аска-жар, булар эмес; жалпы «таш» эмес, конкреттуу жар"
+    }
+  ],
+  "translation": "Асканы ачты, жана суулар агып чыкты, кургак чөлдөрдө дарыя болуп акты.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "3bcf3e91c9d8187e15f2e68267f20a63cb29afad7a7819666188127303ab1450",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/105\/41-44.1791217069139.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "ачты"
+    },
+    {
+      "surface": "צור",
+      "gloss": "аска"
+    },
+    {
+      "surface": "ויזובו",
+      "gloss": "жана агып чыкты"
+    },
+    {
+      "surface": "מים",
+      "gloss": "суулар"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "акты"
+    },
+    {
+      "surface": "בציות",
+      "gloss": "кургак чөлдөрдө"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "дарыя"
+    }
+  ],
+  "timestamp": "2026-10-05T16:17:49.141003717Z",
+  "model": "glm-5.3"
+}

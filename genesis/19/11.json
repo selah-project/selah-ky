@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 19:11",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "סנורים",
+      "rationale": "Көп сандагы «сокурлуктар» деген сөз «сокурлук менен» деп бирге берилди; кээ бирлери «жаркыраган нур» (санверим) деп да окуйт — крүзис."
+    },
+    {
+      "kind": "measurement",
+      "subject": "кичинесинен чоңуна чейин",
+      "rationale": "Бардык куракты камтуучу эки чек катары берилген."
+    }
+  ],
+  "translation": "Жана ⟨את⟩ үйдүн кире беришиндеги адамдарды кичинесинен чоңуна чейин сокурлук менен урушту, алар кире беришти табуудан чарчашты.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "a22d0585e144ec315aaf6f9bb35645a03cc58a1a7516e495636d871d7f1ca5e2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/19\/9-12.1791201012166.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "адамдарды"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "адамдарды"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "алар"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "кире беришинин"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "үйдүн"
+    },
+    {
+      "surface": "הכו",
+      "gloss": "урушту"
+    },
+    {
+      "surface": "בסנורים",
+      "gloss": "сокурлук менен"
+    },
+    {
+      "surface": "מקטן",
+      "gloss": "кичинесинен"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "чейин"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "чоңуна"
+    },
+    {
+      "surface": "וילאו",
+      "gloss": "чарчашты"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "табуудан"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "кире беришти"
+    }
+  ],
+  "timestamp": "2026-10-05T11:50:12.168307038Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ecclesiastes 2:25",
+  "book": "ecclesiastes",
+  "lang": "ky",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יחוש",
+      "rationale": "'ашыкпа\/тез умтул' же 'ырахат ал' (KJB 'hasten' vs JPS 'enjoy') — тамыр хуш еки жерде эки түрдүү чечмеленет"
+    },
+    {
+      "kind": "crux",
+      "subject": "ממני",
+      "rationale": "'менден тышкары' же Раси боюнча 'Андан (Элохимден) тышкары' — сөзмө-сөз 'мен', бирок кээ бир котормолор Аны деп окуп жатышат"
+    }
+  ],
+  "translation": "Анткени ким жей алат, жана ким тез ырахат табмак — менден тышкары?",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "80fadad80666ca7cdefb2aa659c6c768f3ac030e0dba222d49698dda147f3b27",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ecclesiastes\/2\/25-26.1791219976810.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ким"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "жей алат"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "жана ким"
+    },
+    {
+      "surface": "יחוש",
+      "gloss": "тез ырахат табмак"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "тышкары"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "менден"
+    }
+  ],
+  "timestamp": "2026-10-05T17:06:16.811282871Z",
+  "model": "glm-5.3"
+}

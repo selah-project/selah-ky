@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 3:23",
+  "book": "numbers",
+  "lang": "ky",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "батыш",
+      "rationale": "יָמָה көчүү багыты — «деңиз тарапка», б.а. батышка; кыргызча түшүнүктүү болушу үчүн «батыш» кашаада кошулду"
+    },
+    {
+      "kind": "you",
+      "subject": "Гершондуктардын урууларына",
+      "rationale": "Жайгашуу буйругу Гершон урууларына багытталган"
+    }
+  ],
+  "translation": "Гершондуктардын уруулары Мишкандын артында, деңиз ⟨батыш⟩ тарапта лагерди курат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "5ba9646a191e6c6099aea73bad64e58ffc1438e9a0842484b8c18bbcf505d138",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/numbers\/3\/21-24.1791203577021.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משפחת",
+      "gloss": "уруулары"
+    },
+    {
+      "surface": "הגרשני",
+      "gloss": "Гершондуктардын"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "артында"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Мишкандын"
+    },
+    {
+      "surface": "יחנו",
+      "gloss": "лагерди курат"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "деңиз ⟨батыш⟩ тарапта"
+    }
+  ],
+  "timestamp": "2026-10-05T12:32:57.021883483Z",
+  "model": "glm-5.3"
+}

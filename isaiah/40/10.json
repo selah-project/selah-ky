@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 40:10",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הנה ... הנה",
+      "rationale": "Эки «мына» — айтымды бөлгөн риторикалык кайталоо."
+    },
+    {
+      "kind": "crux",
+      "subject": "משלה לו",
+      "rationale": "«Анын үчүн бийлик кылат» же «Анын үстүнөн бийлик кылат» — эки окуу бар."
+    }
+  ],
+  "translation": "Мына, Адонай Яхве күч менен келет, жана Анын колу Анын үчүн бийлик кылат; мына, Анын сыйлыгы ⟨את⟩ Анын жанында, жана Анын иши Анын алдында.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "2b45e05ca91f290114752edbe6c4ea89335c575badc0098a7398ad28ad321a5b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/40\/9-12.1791210151375.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "мына"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "בחזק",
+      "gloss": "күч менен"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "келет"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "жана Анын колу"
+    },
+    {
+      "surface": "משלה",
+      "gloss": "бийлик кылат"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Анын үчүн"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "мына"
+    },
+    {
+      "surface": "שכרו",
+      "gloss": "Анын сыйлыгы"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ жанында",
+      "marks": "Анын сыйлыгы"
+    },
+    {
+      "surface": "ופעלתו",
+      "gloss": "жана Анын иши"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "Анын алдында"
+    }
+  ],
+  "timestamp": "2026-10-05T14:22:31.376353866Z",
+  "model": "glm-5.3"
+}

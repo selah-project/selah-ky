@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 107:27",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жутулуп жок болот",
+      "rationale": "תתבלע literally 'swallowed' — KJV 'at their wit's end' loses the swallowing image"
+    },
+    {
+      "kind": "crux",
+      "subject": "יחוגו",
+      "rationale": "from חגג 'move in a circle'; here 'reel, stagger' — KJV 'reel to and fro'"
+    }
+  ],
+  "translation": "Алар айланып жүрүшөт жана мас адамдай теңселип билинишет, жана алардын бүт акылмандыгы жутулуп жок болот.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "fe38e2ac011a80b057b0275eb9d4816ac380b91b14336740ac1caad6c2a03580",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/107\/27-28.1791224518710.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יחוגו",
+      "gloss": "айланып жүрүшөт"
+    },
+    {
+      "surface": "וינועו",
+      "gloss": "жана теңселип билинишет"
+    },
+    {
+      "surface": "כשכור",
+      "gloss": "мас адамдай"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "жана бүт"
+    },
+    {
+      "surface": "חכמתם",
+      "gloss": "алардын акылмандыгы"
+    },
+    {
+      "surface": "תתבלע",
+      "gloss": "жутулуп жок болот"
+    }
+  ],
+  "timestamp": "2026-10-05T18:21:58.710927023Z",
+  "model": "glm-5.3"
+}

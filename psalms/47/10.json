@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 47:10",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 47,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "жогорку адамдары",
+      "rationale": "נדיבי עמים: «элдердин төрөлөрү\/негиздөөчүлөрү» же «элдердин ыктыярдуу байлары» — падышалары деген да окуу бар"
+    },
+    {
+      "kind": "crux",
+      "subject": "эли ⟨менен⟩",
+      "rationale": "עם אלהי אברהם: «Аврахамдын Элохиминин эли МЕНЕН чогулду» же эл катары чогулду — apposition же жандоочу"
+    },
+    {
+      "kind": "substitution",
+      "subject": "калкандары",
+      "rationale": "מגני figuratively «баскынчыларды коргоочу\/башкаруучулар» — жер калкандары Элохимге таандык"
+    }
+  ],
+  "translation": "Элдердин жогорку адамдары чогулду, Аврахамдын Элохиминин эли ⟨менен⟩, анткени жердин калкандары Элохимге таандык — ал аябай жогору көтөрүлдү.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "2cdf1c7bfa7a6d88c56939cd2a2fd8ef6e560d347d67c36d08b2408182d00591",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/47\/9-10.1791216041937.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נדיבי",
+      "gloss": "жогорку адамдары"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "элдердин"
+    },
+    {
+      "surface": "נאספו",
+      "gloss": "чогулду"
+    },
+    {
+      "surface": "עם",
+      "gloss": "эли"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Элохиминин"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Аврахамдын"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Элохимге"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "калкандары"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "жердин"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "аябай"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "жогору көтөрүлдү"
+    }
+  ],
+  "timestamp": "2026-10-05T16:00:41.938036461Z",
+  "model": "glm-5.3"
+}

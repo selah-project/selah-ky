@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-samuel 18:30",
+  "book": "1-samuel",
+  "lang": "ky",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מדי צאתם",
+      "rationale": "'Every time they went out' vs 'from the time they went out'; ky follows the iterative reading (сайын)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "שכל",
+      "rationale": "Root means acting with insight\/prospering; ky 'акылмандыгыраак иштеди' covers both wisdom and success."
+    }
+  ],
+  "translation": "Жана пелиштилердин төрөлөрү чыгышты; алар чыккан сайын Давид Шаулдун бардык кызматчыларынан акылмандыгыраак иштеди, жана анын аты өтө кадырлуу болду.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "b730fc5cc880ad3008028311b1af05296bbae4e930523479319bceb199ecd97b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-samuel\/18\/29-30.1791206993320.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "чыгышты"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "төрөлөрү"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "пелиштилердин"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "жана болду"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "сайын"
+    },
+    {
+      "surface": "צאתם",
+      "gloss": "алар чыккан"
+    },
+    {
+      "surface": "שכל",
+      "gloss": "акылмандыгыраак иштеди"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "бардык...нан"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "кызматчылары"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаулдун"
+    },
+    {
+      "surface": "וייקר",
+      "gloss": "кадырлуу болду"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "анын аты"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "өтө"
+    }
+  ],
+  "timestamp": "2026-10-05T13:29:53.321448320Z",
+  "model": "glm-5.3"
+}

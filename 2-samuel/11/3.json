@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 11:3",
+  "book": "2-samuel",
+  "lang": "ky",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ויאמר",
+      "rationale": "Ким айтканы көрсөтүлбөгөн — Давид өзү сурашы мүмкүн же кызматчы жооп берет; 'айтылды' деп бейтарап берилди"
+    },
+    {
+      "kind": "idiom",
+      "subject": "הלוא זאת",
+      "rationale": "Суроо формасы 'бул ... эмес беле?' — жообу так билүү үчүн берилген риторикалык суроо"
+    }
+  ],
+  "translation": "Давид жөнөттү да аял жөнүндө сурады; жана айтылды: Бул Бат-Шеба эмес беле, Элиамдын кызы, хеттик Уриянын аялы?",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "87b97f4831e00aaaad12d0be3e3eef3296d096f207bc0e9cbd34062174437279",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-samuel\/11\/1-4.1791207598863.json",
+    "code": "641241cf-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "жөнөттү"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "וידרש",
+      "gloss": "сурады"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "аял жөнүндө"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "жана айтты"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "эмес беле"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "бул"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Бат-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Шеба"
+    },
+    {
+      "surface": "בת",
+      "gloss": "кызы"
+    },
+    {
+      "surface": "אליעם",
+      "gloss": "Элиамдын"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "аялы"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Уриянын"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "хеттик"
+    }
+  ],
+  "timestamp": "2026-10-05T13:39:58.864547029Z",
+  "model": "glm-5.3"
+}

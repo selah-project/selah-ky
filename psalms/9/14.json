@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 9:14",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨кармаган⟩",
+      "rationale": "עניי משנאי түз конструкция — «менин жабыгым жек көргөндөрүмдүн» кыргызча байламча талап кылат"
+    },
+    {
+      "kind": "you",
+      "subject": "Яхвеге",
+      "rationale": "тике багытталган жалбаруу"
+    }
+  ],
+  "translation": "Мага ырайым көрсөт, Яхве! Мени жек көргөндөрүмдүн ⟨кармаган⟩ жабыгымды көр; өлүм дарбазаларынан мени бийик көтөргөн⟨сүң⟩.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "7177c1999b3dac1e63867afd0dc8bb3174a434db8c9474bf88cdd1be3a620ff9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/9\/13-16.1791215459431.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חננני",
+      "gloss": "мага ырайым көрсөт"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "көр"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "жабыгымды"
+    },
+    {
+      "surface": "משנאי",
+      "gloss": "жек көргөндөрүмдүн"
+    },
+    {
+      "surface": "מרוממי",
+      "gloss": "бийик көтөргөн"
+    },
+    {
+      "surface": "משערי",
+      "gloss": "дарбазаларынан"
+    },
+    {
+      "surface": "מות",
+      "gloss": "өлүм"
+    }
+  ],
+  "timestamp": "2026-10-05T15:50:59.432212008Z",
+  "model": "glm-5.3"
+}

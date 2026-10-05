@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 22:20",
+  "book": "proverbs",
+  "lang": "ky",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שלשום",
+      "rationale": "Даамдык тутумда «эки күн мурда» деген сөз; котормолор бөлүнөт: «үч ирет» (YLT, Женева), «отуз сөз» (BSB, ПСА шайыптоосу боюнча), «эң көркөм нерселер» (KJV, איששימ читтили) — бул жерде «үч ирет» тандылды"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הלא + сурак",
+      "rationale": "Риторикалык «жокпу?» сурагы — жооп талап кылган бекем ырастоо; кыргызча жокочуу формасында берилди"
+    }
+  ],
+  "translation": "Мен сага үч ирет кеңештер менен билимде жазбадымбы?",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "5c1bb37de68f024dba8c1739306419265f83ebdbab4dc92627dd66bd08aa24a2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/22\/17-20.1791218248069.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "жазбадымбы"
+    },
+    {
+      "surface": "כתבתי",
+      "gloss": "мен... жаздым"
+    },
+    {
+      "surface": "לך",
+      "gloss": "сага"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "үч ирет"
+    },
+    {
+      "surface": "במועצת",
+      "gloss": "кеңештер"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "жана билим"
+    }
+  ],
+  "timestamp": "2026-10-05T16:37:28.070665181Z",
+  "model": "glm-5.3"
+}

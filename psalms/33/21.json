@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 33:21",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "כי … כי",
+      "rationale": "Эки «анткени» кайталоосу — псалмдын ритмикалык өзөгү, кыргызча да сакталды"
+    },
+    {
+      "kind": "you",
+      "subject": "биз",
+      "rationale": "Жамааттын биргелешип айткан сөзү — «жүрөгүбүз», «таянып турабыз»"
+    }
+  ],
+  "translation": "Анткени Анын ичинде жүрөгүбүз сүйүнөт, анткени Анын ыйык ысымына биз таянып турабыз.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "a916f9d90cad1c57c489438c97d4795a397d2217c582100b666eb5e16c7c782b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/33\/21-22.1791215786984.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "בו",
+      "gloss": "Анын ичинде"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "сүйүнөт"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "жүрөгүбүз"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "ысымына"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "ыйык"
+    },
+    {
+      "surface": "בטחנו",
+      "gloss": "таянып турабыз"
+    }
+  ],
+  "timestamp": "2026-10-05T15:56:26.984765915Z",
+  "model": "glm-5.3"
+}

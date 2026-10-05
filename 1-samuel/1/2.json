@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 1:2",
+  "book": "1-samuel",
+  "lang": "ky",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "эле",
+      "rationale": "Еврейче жок копула кыргызча баяндоочтук сүйлөм үчүн кошулду"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חנה\/פננה",
+      "rationale": "Ханна — «ырайым», Пенинна — «меруерт»: тескери мүнөздөгө эки ысым, кыргызча аталар жоголду"
+    }
+  ],
+  "translation": "Жана анын эки аялы бар эле: биринин аты Ханна, экинчисинин аты Пенинна; Пениннага балдар бар эле, Ханнага болсо балдар жок эле.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "1526a3718eeb1adf31a5ab9614213e1b59046a2d1c8f3c30d7108ab220d3b947",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-samuel\/1\/1-4.1791206611402.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולו",
+      "gloss": "жана ага"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "эки"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "аялы"
+    },
+    {
+      "surface": "שם",
+      "gloss": "аты"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "биринин"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "Ханна"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "жана аты"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "экинчисинин"
+    },
+    {
+      "surface": "פננה",
+      "gloss": "Пенинна"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "болду"
+    },
+    {
+      "surface": "לפננה",
+      "gloss": "Пениннага"
+    },
+    {
+      "surface": "ילדים",
+      "gloss": "балдар"
+    },
+    {
+      "surface": "ולחנה",
+      "gloss": "Ханнага болсо"
+    },
+    {
+      "surface": "אין",
+      "gloss": "жок"
+    },
+    {
+      "surface": "ילדים",
+      "gloss": "балдар"
+    }
+  ],
+  "timestamp": "2026-10-05T13:23:31.403181776Z",
+  "model": "glm-5.3"
+}

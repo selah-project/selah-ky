@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 1:20",
+  "book": "1-samuel",
+  "lang": "ky",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שאלתיו\/שמואאל",
+      "rationale": "Шемуэл аты менен шаал («сурадым») тамырынын оюнчугу — 1:27 менен байланышкан"
+    }
+  ],
+  "translation": "Жана күндөрдүн айланып өтүшүндө болду, Ханна бойго бүттү жана уул төрөдү, жана анын ⟨את⟩ атын Шемуэл деп койду, анткени аны Яхведен сурадым.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "98f8a4ad51bf32b36f257cf442f46f7d6c1377bf8de5278c8360a8957cc8a78b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-samuel\/1\/17-20.1791206579325.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "болду"
+    },
+    {
+      "surface": "לתקפות",
+      "gloss": "айланып өтүшүндө"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "күндөрдүн"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "бойго бүттү"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "Ханна"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "төрөдү"
+    },
+    {
+      "surface": "בן",
+      "gloss": "уул"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "койду"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "атын"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "атын"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Шемуэл"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "Яхведен"
+    },
+    {
+      "surface": "שאלתיו",
+      "gloss": "сурадым"
+    }
+  ],
+  "timestamp": "2026-10-05T13:22:59.326746870Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 22:9",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אין ראה",
+      "rationale": "лiteral 'нет видящего' — көргөн адам жок: свидетель происшествия отсутствует"
+    },
+    {
+      "kind": "substitution",
+      "subject": "нӣшбה",
+      "rationale": "'угнан\/взят в плен' — алынып кетсе, захват скрадывающим"
+    }
+  ],
+  "translation": "Эгерде бир киши өзүнүн жакынына эшек же өгүз же козу же каалаган жаныбарды сактоого берсе, ал өлүп калса, же сынып калса, же алынып кетсе — көргөн адам жок болсо,",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "f80bf2e6de2bddac0dc60239cd715af131cedcde923a6b50eb7f4107600f818d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/22\/9-12.1791202267974.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "эгерде"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "берсе"
+    },
+    {
+      "surface": "איש",
+      "gloss": "киши"
+    },
+    {
+      "surface": "אל",
+      "gloss": "өзүнүн...ко"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "жакынына"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "эшек"
+    },
+    {
+      "surface": "או",
+      "gloss": "же"
+    },
+    {
+      "surface": "שור",
+      "gloss": "өгүз"
+    },
+    {
+      "surface": "או",
+      "gloss": "же"
+    },
+    {
+      "surface": "שה",
+      "gloss": "козу"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "же каалаган"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "жаныбарды"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "сактоого"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "өлүп калса"
+    },
+    {
+      "surface": "או",
+      "gloss": "же"
+    },
+    {
+      "surface": "נשבר",
+      "gloss": "сынып калса"
+    },
+    {
+      "surface": "או",
+      "gloss": "же"
+    },
+    {
+      "surface": "נשבה",
+      "gloss": "алынып кетсе"
+    },
+    {
+      "surface": "אין",
+      "gloss": "жок"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "көргөн адам"
+    }
+  ],
+  "timestamp": "2026-10-05T12:11:07.975427303Z",
+  "model": "glm-5.3"
+}

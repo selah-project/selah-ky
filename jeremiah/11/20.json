@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 11:20",
+  "book": "jeremiah",
+  "lang": "ky",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "כליות = бөйрөктөр",
+      "rationale": "Еврейче ички ой-ниеттин органы — 'бөйрөктөр'; көп котормолор 'акыл-эс' деп жумшартат."
+    },
+    {
+      "kind": "you",
+      "subject": "Яхвеге",
+      "rationale": "Моше эмес, Ырмая Яхвеге тикелей кайрылат."
+    },
+    {
+      "kind": "addition",
+      "subject": "эй",
+      "rationale": "Чакыруу интонациясы үчүн кошулду; еврейче жок."
+    }
+  ],
+  "translation": "Жана, эй Яхве Цебаот, адилетти өкүм кылчу, бөйрөктөрдү жана жүрөктү сынай турган, Сенин алардан кек алууңду көрөйүнчү, анткени Сага ⟨את⟩ дооматымды ашкереледим.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "890b04e897cbc46d2a1b6f2d94160063d9662159f2bc995aa9d3cd7473a5d86c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/jeremiah\/11\/17-20.1791210946879.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "эй Яхве"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цебаот"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "өкүм кылчу"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "адилетти"
+    },
+    {
+      "surface": "בחן",
+      "gloss": "сынай турган"
+    },
+    {
+      "surface": "כליות",
+      "gloss": "бөйрөктөрдү"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "жана жүрөктү"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "көрөйүнчү"
+    },
+    {
+      "surface": "נקמתך",
+      "gloss": "Сенин кек алууңду"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "алардан"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "Сага"
+    },
+    {
+      "surface": "גליתי",
+      "gloss": "ашкереледим"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "дооматымды"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "дооматымды"
+    }
+  ],
+  "timestamp": "2026-10-05T14:35:46.880626849Z",
+  "model": "glm-5.3"
+}

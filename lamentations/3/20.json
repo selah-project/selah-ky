@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "lamentations 3:20",
+  "book": "lamentations",
+  "lang": "ky",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "זכור תזכור",
+      "rationale": "Экинчи үндүүлүктү кайталоо: «эсте, эстеген сайын» — дүрбөлөңгө салган кайталоо, кыргызча да кайталоо менен берилди."
+    },
+    {
+      "kind": "substitution",
+      "subject": "чөгүп баратат",
+      "rationale": "ותשיח — «чумпу, батпакка чөгүү»; көпчүлүк котормо «тыйылып баш ийди» дейт, бирок сөздүн сүрөтү — чөгүү."
+    }
+  ],
+  "translation": "Эсте, эстеген сайын — жаным ичимде чөгүп баратат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "5434ad4564492120d9dac1ac58a516bb98fcdbbfa5c631b72b52eda56d30439e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/lamentations\/3\/17-20.1791219814016.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "Эсте"
+    },
+    {
+      "surface": "תזכור",
+      "gloss": "эстеген сайын"
+    },
+    {
+      "surface": "ותשיח",
+      "gloss": "чөгүп баратат"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ичимде"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "жаным"
+    }
+  ],
+  "timestamp": "2026-10-05T17:03:34.017218693Z",
+  "model": "glm-5.3"
+}

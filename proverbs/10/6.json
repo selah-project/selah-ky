@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 10:6",
+  "book": "proverbs",
+  "lang": "ky",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨турат⟩",
+      "rationale": "Ивритте этиштин аягы жок, кыргызча айкындоочу этиш кошулду"
+    },
+    {
+      "kind": "substitution",
+      "subject": "חמס",
+      "rationale": "«зордук-замбирек» — бузулган ооз жаап жаткан нерсе; кыргызча маани тескери айланып, зордук оозду жабат"
+    }
+  ],
+  "translation": "Цедиктин башына батакелер ⟨турат⟩, ал эми жаман адамдардын оозун зордук-замбирек жаап турат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "36b0543c3ca8a3601ea51b94f7f80f707c801c1018dd861a1a59b95dd93270bb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/10\/5-8.1791217913316.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברכות",
+      "gloss": "батакелер"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "башына"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "цедик"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "ал эми оозун"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "жаман адамдардын"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "жаап турат"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "зордук"
+    }
+  ],
+  "timestamp": "2026-10-05T16:31:53.317353675Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "ezekiel 16:48",
+  "book": "ezekiel",
+  "lang": "ky",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "חי אני… אם",
+      "rationale": "Еврейче ант формуласы: «Мен жашамын… эгер…» — оң маанайдагы ант, кыргызча «жок» деп берилди."
+    },
+    {
+      "kind": "elision",
+      "subject": "את",
+      "rationale": "Бул жерде את — DOM белгиси эмес, басымдуу «сен» ат атооч (אַתְּ); ⟨את⟩ белгиси коюлган жок."
+    }
+  ],
+  "translation": "Мен жашап жүргөндө — Адонай Яхвенин сөзү — Седом, сенин сиңдиң, ал жана анын кыздары сен жана сенин кыздарың жасагандай жасаган жок.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "7e6b8f0a246a31ef6164bdc24a33f1b4a87ec2334b83df7fde8501f7244db9b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ezekiel\/16\/45-48.1791212457552.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חי",
+      "gloss": "жашап жүргөндө"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Мен"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "сөзү"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    },
+    {
+      "surface": "אם",
+      "gloss": "жок"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "жасаган"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Седом"
+    },
+    {
+      "surface": "אחותך",
+      "gloss": "сиңдиң"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ал"
+    },
+    {
+      "surface": "ובנותיה",
+      "gloss": "жана анын кыздары"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "-дай"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "жасаган"
+    },
+    {
+      "surface": "את",
+      "gloss": "сен"
+    },
+    {
+      "surface": "ובנותיך",
+      "gloss": "жана сенин кыздарың"
+    }
+  ],
+  "timestamp": "2026-10-05T15:00:57.553367563Z",
+  "model": "glm-5.3"
+}

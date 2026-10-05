@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 24:18",
+  "book": "numbers",
+  "lang": "ky",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "והיה … ירשה x2",
+      "rationale": "Эдом менен Сеирдин үстүнөн эки жолу кайталанган «жана болот … ээликке» параллелизм, кыргызча да кайталанып сакталды"
+    },
+    {
+      "kind": "crux",
+      "subject": "עשה חיל",
+      "rationale": "«баатырдык кылат» (KJV\/BSB) менен «кубаттуу иш кылат» деген варианттар бар; хейл — күч, аскер, байлык маанилерин камтыйт"
+    },
+    {
+      "kind": "addition",
+      "subject": "айланат",
+      "rationale": "ירשה жок номиналдык сүйлөм; кыргызча этиш талап кылат"
+    }
+  ],
+  "translation": "Жана Эдом ээликке айланат, жана Сеир — анын душмандары — ээликке айланат, ал эми Йисраэл баатырдык кылат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "d928bf1ce4a2a59ddde6bbd879bbc78888690a17f0c655e6e033280fb3b3e630",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/numbers\/24\/18-19.1791223703922.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "жана … айланат"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Эдом"
+    },
+    {
+      "surface": "ירשה",
+      "gloss": "ээликке"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "жана … айланат"
+    },
+    {
+      "surface": "ירשה",
+      "gloss": "ээликке"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Сеир"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "анын душмандары"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "ал эми Йисраэл"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "кылат"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "баатырдык"
+    }
+  ],
+  "timestamp": "2026-10-05T18:08:23.922599789Z",
+  "model": "glm-5.3"
+}

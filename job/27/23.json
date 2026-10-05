@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 27:23",
+  "book": "job",
+  "lang": "ky",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "адамдар",
+      "rationale": "субъекту ивритте жок — кол чабуу жана ышкырыуу шарттуу түрдө адамдарды билдирет"
+    },
+    {
+      "kind": "elision",
+      "subject": "עליו",
+      "rationale": "ышкырыктын алдындагы «анын үстүнө» кыргызча экинчи жолу айтылбай калды"
+    }
+  ],
+  "translation": "⟨Адамдар⟩ анын үстүнө колдорун чаап, аны өз орнунан ышкырып чыгарышат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "bde751e5e0d77a314c7e1bd5efc2362baaff1955ac16dd0e6069691040b460bb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/job\/27\/21-23.1791219088110.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישפק",
+      "gloss": "чаап"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "анын үстүнө"
+    },
+    {
+      "surface": "כפימו",
+      "gloss": "колдорун"
+    },
+    {
+      "surface": "וישרק",
+      "gloss": "ышкырып"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "анын үстүнө"
+    },
+    {
+      "surface": "ממקמו",
+      "gloss": "өз орнунан"
+    }
+  ],
+  "timestamp": "2026-10-05T16:51:28.111720072Z",
+  "model": "glm-5.3"
+}

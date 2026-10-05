@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 10:14",
+  "book": "jeremiah",
+  "lang": "ky",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נבער",
+      "rationale": "בער тамыры 'от коюу' жана 'аң-сезимсиз болуу' деген эки маанини берет — от жок күйүү менен акылсыздык биригет"
+    },
+    {
+      "kind": "substitution",
+      "subject": "рух",
+      "rationale": "рух — 'дем\/шамал' деген сөз; тасвирде дем жок деген сөз"
+    },
+    {
+      "kind": "crux",
+      "subject": "נסכו",
+      "rationale": "негизи 'куюлган белек\/куйма тасвир' — куюлган жез деген сөздүн өзүн кармадык"
+    }
+  ],
+  "translation": "Ар бир адам билиминен аң-сезимсиз болду, ар бир уста пилди түшүндө уят болду, анткени анын куйма тасвири жалган, алардын ичинде рух жок.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "2429aa1c80bb6e38ef5671a6bd74d95255f5f96e5b9a9515620507030ca3642d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/jeremiah\/10\/13-16.1791210904436.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נבער",
+      "gloss": "аң-сезимсиз болду"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ар бир"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "адам"
+    },
+    {
+      "surface": "מדעת",
+      "gloss": "билиминен"
+    },
+    {
+      "surface": "הביש",
+      "gloss": "уят болду"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ар бир"
+    },
+    {
+      "surface": "צורף",
+      "gloss": "уста"
+    },
+    {
+      "surface": "מפסל",
+      "gloss": "пилди түшүндө"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "жалган"
+    },
+    {
+      "surface": "נסכו",
+      "gloss": "анын куйма тасвири"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "жана жок"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "рух"
+    },
+    {
+      "surface": "בם",
+      "gloss": "алардын ичинде"
+    }
+  ],
+  "timestamp": "2026-10-05T14:35:04.436819201Z",
+  "model": "glm-5.3"
+}

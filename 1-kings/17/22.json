@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 17:22",
+  "book": "1-kings",
+  "lang": "ky",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жан",
+      "rationale": "נפש — дем алуучу жандык, жаны-күч; «жан» — салттуу, бирок так эмес"
+    }
+  ],
+  "translation": "Жана Яхве Элияхунун үнүн укту, жана баланын жаны анын ичине кайтты, жана ал жашады.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "dbfafb97c33258db20bff1d23c6a40fd6da4d040e47351e0e128ca9a326cb74a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-kings\/17\/21-24.1791208398880.json",
+    "code": "641241cf-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "укту"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "үнүн"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Элияхунун"
+    },
+    {
+      "surface": "ותשב",
+      "gloss": "жана кайтты"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "жан"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "баланын"
+    },
+    {
+      "surface": "על",
+      "gloss": "ичине"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "анын ичине"
+    },
+    {
+      "surface": "ויחי",
+      "gloss": "жана жашады"
+    }
+  ],
+  "timestamp": "2026-10-05T13:53:18.881275539Z",
+  "model": "glm-5.3"
+}

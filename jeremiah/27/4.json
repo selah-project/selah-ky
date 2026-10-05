@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 27:4",
+  "book": "jeremiah",
+  "lang": "ky",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "элчилерге",
+      "rationale": "Версия элчилерге түз кайрылат: 'кожоюндарыңарга мындай дегиле'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "кожоюндор",
+      "rationale": "אדניכם бул жерде адамдар — падышалар жөнүндө, ошондуктан 'кожоюндор', 'Адонай' эмес."
+    }
+  ],
+  "translation": "Жана аларга өздөрүнүн кожоюндарына айт деп буйрук бер: Мындай деди Яхве Цебаот, Йисраэлдин Элохими: кожоюндарыңарга мындай дегиле:",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "e57cb00699db0c7d0b7642f466d07c5229a707740e3111f2ea62fe8a2c70d62a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/jeremiah\/27\/1-4.1791211345130.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וצוית",
+      "gloss": "жана буйрук бер"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "аларга"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кожоюндарына"
+    },
+    {
+      "surface": "אדניהם",
+      "gloss": "өздөрүнүн кожоюндарына"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "айт деп"
+    },
+    {
+      "surface": "כה",
+      "gloss": "мындай"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "деди"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цебаот"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Элохими"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэлдин"
+    },
+    {
+      "surface": "כה",
+      "gloss": "мындай"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "дегиле"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кожоюндарыңарга"
+    },
+    {
+      "surface": "אדניכם",
+      "gloss": "кожоюндарыңарга"
+    }
+  ],
+  "timestamp": "2026-10-05T14:42:25.131533104Z",
+  "model": "glm-5.3"
+}

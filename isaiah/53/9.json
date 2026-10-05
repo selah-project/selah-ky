@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 53:9",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 53,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "קברו",
+      "rationale": "«Анын күмбөзүн жамандарга берди» же «жамандар менен бирге күмбөзү» — текстте ким берди (ал же алар) так эмес."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ал⟩",
+      "rationale": "Еврей текстте субъекти жок, кыргыз сүйлөмү талап кылат."
+    }
+  ],
+  "translation": "Жана ⟨ал⟩ ⟨את⟩ жаман адамдарга күмбөзүн берди, жана ⟨את⟩ байга өлүмүндө, анткени ал зордук кылган эмес, жана оозунда айла-амал болгон эмес.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "a6ed37f8da4e1edbb8956eb75f873939ae3d65161d00e15fbed220d0ac0818ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/53\/9-12.1791210388817.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Жана берди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "жаман адамдар"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "жаман адамдарга"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "күмбөзүн"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "жана ⟨את⟩"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "байга"
+    },
+    {
+      "surface": "במתיו",
+      "gloss": "өлүмүндө"
+    },
+    {
+      "surface": "על",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "לא",
+      "gloss": "эмес"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "зордук"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "кылган"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "жана эмес"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "айла-амал"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "оозунда"
+    }
+  ],
+  "timestamp": "2026-10-05T14:26:28.818345399Z",
+  "model": "glm-5.3"
+}

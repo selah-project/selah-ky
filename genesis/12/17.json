@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 12:17",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "וינגע \/ נגעים",
+      "rationale": "Этиш менен зат атооч бир тамырдан (нага — уруу\/соору), уруу-соору пайда болгон байланыш кыргызча бир аз жумшараңкы калды"
+    },
+    {
+      "kind": "substitution",
+      "subject": "үй-бүлө",
+      "rationale": "ביתו — үйү, бирок бул жерде үй-бүлөсү, үйдөгүлөр деген мааниде"
+    }
+  ],
+  "translation": "Жана Яхве ⟨את⟩ Фараону жана ⟨את⟩ анын үй-бүлөсүн Сарай — Аврахамдын аялы — боюнча болгон иштин үстүнөн чоң сооруктар менен урду.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "a4dd18830dc8f9f85311a466f04aac5c84f97876a68ccd7dd995aaa03281a13f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/12\/17-20.1791200937506.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וינגע",
+      "gloss": "урду"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Фараон"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Фараон"
+    },
+    {
+      "surface": "נגעים",
+      "gloss": "сооруктар"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "чоң"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "анын үй-бүлөсүн"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "үй-бүлөсүн"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстүнөн"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "боюнча болгон иштин"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Сарай"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "аялы"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Аврахам"
+    }
+  ],
+  "timestamp": "2026-10-05T11:48:57.507409285Z",
+  "model": "glm-5.3"
+}

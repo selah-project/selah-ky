@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 12:1",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ачууң",
+      "rationale": "א׷פ тамырыLiteral 'мурун' — ачууну билдирет, кыргызча 'ачуу' сөзү сакталды"
+    },
+    {
+      "kind": "you",
+      "subject": "ысрайыл элине",
+      "rationale": "аят «сен» деп ошол күндө айтыла турган сөзгө кайрылат"
+    }
+  ],
+  "translation": "Жана ошол күнү сен айтасың: Сага таазим этем, Яхве, анткени Сен мага ачууланган элең; Сенин ачууң артка бурулду, жана Сен мени жубаттың.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "7b11a1770a91e83a3b027b120f03b4a3702eec15948219e84aca02524f2b22ad",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/12\/1-4.1791209537660.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "жана сен айтасың"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ошол күнү"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ошол"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "Сага таазим этем"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "אנפת",
+      "gloss": "ачууланган элең"
+    },
+    {
+      "surface": "בי",
+      "gloss": "мага"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "артка бурулду"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "Сенин ачууң"
+    },
+    {
+      "surface": "ותנחמני",
+      "gloss": "жана Сен мени жубаттың"
+    }
+  ],
+  "timestamp": "2026-10-05T14:12:17.660543784Z",
+  "model": "glm-5.3"
+}

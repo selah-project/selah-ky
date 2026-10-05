@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 2:16",
+  "book": "numbers",
+  "lang": "ky",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "жүз миң жана бир жана элүү миң жана төрт жүз жана элүү",
+      "rationale": "Түштүк лагердин жалпы саны — 151 450; еврейче эсеп сөзүнүн тартиби сакталды."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לצבאתם ... ושנים יסעו",
+      "rationale": "Аскерлер боюнча эсеп айтылып, ошондукий эле жөнөө тартиби (экинчи) берилет — саны жана орун биригип турат."
+    }
+  ],
+  "translation": "Рувим лагеринде эсепке алынгандардын баары — жүз миң жана бир жана элүү миң жана төрт жүз жана элүү, өз аскерлери боюнча; жана алар экинчи болуп жөнөшөт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "2b500ff97263ae027f2b9a5a001f7822a3a1ea33061a9f6788b5047fc31b239c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/numbers\/2\/13-16.1791203574039.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "баары"
+    },
+    {
+      "surface": "הפקדים",
+      "gloss": "эсепке алынгандар"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "лагеринде"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Рувим"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "жүз"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "миң"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "жана бир"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "жана элүү"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "миң"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "жана төрт"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "жүз"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "жана элүү"
+    },
+    {
+      "surface": "לצבאתם",
+      "gloss": "аскерлери боюнча"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "экинчи"
+    },
+    {
+      "surface": "יסעו",
+      "gloss": "жөнөшөт"
+    }
+  ],
+  "timestamp": "2026-10-05T12:32:54.044900804Z",
+  "model": "glm-5.3"
+}

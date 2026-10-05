@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 27:6",
+  "book": "1-chronicles",
+  "lang": "ky",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "башчы болду",
+      "rationale": "Ивритте этиш жок, кыргызча сүйлөм толукталды"
+    },
+    {
+      "kind": "crux",
+      "subject": "ועל השלשים",
+      "rationale": "'отуздун үстүнөн' — отуз баатырдын командириби же алардын ичинен энкүчтүүбү, котормолор бөлүнөт"
+    }
+  ],
+  "translation": "Бул — Бенаяху, отуз баатырдын ичиндеги баатыр жана отуздун үстүнөн ⟨башчы⟩; жана анын бөлүгүнө анын уулу Амизабад ⟨башчы болду⟩.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "94387d202d325cb132713675be5619be152cd2f6f8fb26669100ff5487a2df2a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-chronicles\/27\/5-8.1791222427018.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Бул"
+    },
+    {
+      "surface": "בניהו",
+      "gloss": "Бенаяху"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "баатыр"
+    },
+    {
+      "surface": "השלשים",
+      "gloss": "отуз"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "жана үстүнөн"
+    },
+    {
+      "surface": "השלשים",
+      "gloss": "отуздун"
+    },
+    {
+      "surface": "ומחלקתו",
+      "gloss": "жана анын бөлүгүнө"
+    },
+    {
+      "surface": "עמיזבד",
+      "gloss": "Амизабад"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "уулу"
+    }
+  ],
+  "timestamp": "2026-10-05T17:47:07.019983135Z",
+  "model": "glm-5.3"
+}

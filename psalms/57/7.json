@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 57:7",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 57,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "өздөрү",
+      "rationale": "Ивритте «өздөрү» жок, ким түшкөнү так эмес — кошулду"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חרו\/נפלו",
+      "rationale": "Казгандар өздөрү казган чуңкурга түшөт — өз кылыгына өзү түшүү инверсиясы"
+    }
+  ],
+  "translation": "Тор курдум капканым үчүн, жаныбырканам эңкейип калды, алдыма чуңкур казды, анын ортосуна өздөрү түшүп калышты. Селah.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "84411a8859fb53a749c3e95403a297451a264393a89b9c982b88286514726b0d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/57\/5-8.1791216249730.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רשת",
+      "gloss": "Тор"
+    },
+    {
+      "surface": "הכינו",
+      "gloss": "курдум"
+    },
+    {
+      "surface": "לפעמי",
+      "gloss": "капканам үчүн"
+    },
+    {
+      "surface": "כפף",
+      "gloss": "эңкейип"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "жаныбырканам"
+    },
+    {
+      "surface": "כרו",
+      "gloss": "казды"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "алдыма"
+    },
+    {
+      "surface": "שיחה",
+      "gloss": "чуңкур"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "түшүп калышты"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "ортосуна"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Селah"
+    }
+  ],
+  "timestamp": "2026-10-05T16:04:09.731983031Z",
+  "model": "glm-5.3"
+}

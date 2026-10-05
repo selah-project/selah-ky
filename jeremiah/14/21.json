@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 14:21",
+  "book": "jeremiah",
+  "lang": "ky",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אתנו",
+      "rationale": "биз менен деген предлог ⟨…⟩ ичинде берилди, ал עמנו эмес, את предлогу (H854) — 'биз менен'"
+    },
+    {
+      "kind": "crux",
+      "subject": "ууратпа",
+      "rationale": "תנבל — 'куурай түшөт' деген сөз; көп котормолор 'уят кылба' деп алат, бул жерде тактынын көлөкөрүү мааниси сакталды"
+    },
+    {
+      "kind": "you",
+      "subject": "Яхвеге",
+      "rationale": "жалбарынуу түрүндөгү түз кайрылуу — Сенден келешиме кылбоону сурануу"
+    }
+  ],
+  "translation": "Ысымыңдын үчүн жек көрбө, даңкыңдын тактысын ууратпа; эстеп ал, келишимиңди бузба ⟨биз менен⟩.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "0a22c37075a4a00cdee73751f0e66c7636c43dfc933c35debd38bff90bcb38a2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/jeremiah\/14\/21-22.1791224240872.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "…ба"
+    },
+    {
+      "surface": "תנאץ",
+      "gloss": "жек көрбө"
+    },
+    {
+      "surface": "למען",
+      "gloss": "үчүн"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ысымыңдын"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ба"
+    },
+    {
+      "surface": "תנבל",
+      "gloss": "ууратпа"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "тактысын"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "даңкыңдын"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "эстеп ал"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ба"
+    },
+    {
+      "surface": "תפר",
+      "gloss": "бузба"
+    },
+    {
+      "surface": "בריתך",
+      "gloss": "келишимиңди"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "биз менен"
+    }
+  ],
+  "timestamp": "2026-10-05T18:17:20.873134555Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 2:17",
+  "book": "ecclesiastes",
+  "lang": "ky",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "хебел",
+      "rationale": "הבל — «аба» деген сөз, «түбөлүксүз нерселер»; бир форма катары сакталды"
+    },
+    {
+      "kind": "crux",
+      "subject": "рухтун ооруусу",
+      "rationale": "ורעות רוח: «рухту майып кылуу» (ASV «striving after wind») же «рухтун азабы»"
+    }
+  ],
+  "translation": "Жана мен жашоону жек көрдүм, анткени күнгө астында жасалган иш мага жаман, анткени баары хебел жана рухтун ооруусу.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "c1c669dab5203901d782a63b4894168e24168b4354b61b7ce2442b2bb17daf6f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ecclesiastes\/2\/17-20.1791220026275.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושנאתי",
+      "gloss": "жана мен жек көрдүм"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "жашоону"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "жашоо"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "רע",
+      "gloss": "жаман"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "мага"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "иш"
+    },
+    {
+      "surface": "שנעשה",
+      "gloss": "жасалган"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "астында"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "күнгө"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "баары"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "хебел"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "жана ооруусу"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "рухтун"
+    }
+  ],
+  "timestamp": "2026-10-05T17:07:06.275917011Z",
+  "model": "glm-5.3"
+}

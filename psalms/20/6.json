@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 20:6",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "נדגל",
+      "rationale": "דגל — «желек көтөрүү», көрүнүктүү болуу деген сөз; желек образын сактадык."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ישועתך \/ יענהו",
+      "rationale": "Псаломдогу ישע (куткаруу) тамыры 7-аяттагы הושיע жана ישע менен кайталанат; бул байланыш кыргызчада билинбейт."
+    }
+  ],
+  "translation": "Сенин куткарууңда кубанып ыр-деп жатабыз, жана биздин Элохимдин ысымында желекти көтөрөбүз. Яхве бардык тилектериңди аткарсын.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "b70362ea678cba5d68fa857a1169ccd0156699025f575beb6a22e412f222aab7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/20\/6-7.1791224423785.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נרננה",
+      "gloss": "кубанып ыр-дейбиз"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "сенин куткарууңда"
+    },
+    {
+      "surface": "ובשם",
+      "gloss": "жана ... ысымында"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "биздин Элохим"
+    },
+    {
+      "surface": "נדגל",
+      "gloss": "желекти көтөрөбүз"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "аткарсын"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бардык"
+    },
+    {
+      "surface": "משאלותיך",
+      "gloss": "тилектериңди"
+    }
+  ],
+  "timestamp": "2026-10-05T18:20:23.785814271Z",
+  "model": "glm-5.3"
+}

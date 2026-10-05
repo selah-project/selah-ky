@@ -1,0 +1,156 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "esther 9:12",
+  "book": "esther",
+  "lang": "ky",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "беш жүз киши",
+      "rationale": "Падыша өлтүрүлгөндөрдүн санын санап айтат."
+    },
+    {
+      "kind": "you",
+      "subject": "Эстирге",
+      "rationale": "Падыша падыша Эстирге түз кайрылат жана анын тилегин сурайт."
+    },
+    {
+      "kind": "invitation",
+      "subject": "эмнени тилейсің",
+      "rationale": "Падышанын суроосу — тилек-суранычты чакырган ачык чакырык."
+    }
+  ],
+  "translation": "Падыша падыша Эстирге айтты: Шушан сарайында жөөттөр беш жүз кишини өлтүрүштү жана жок кылышты, жана ⟨את⟩ Амандын он уулун; падышанын калган облустарында эмне кылышты? Эмнени тилейсің — берилсин, дагы эмнени суранасың — жасалсын.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "5caa1af612d20e88fca42557e7ff78938d0d743e3d7f7c3eda2fde417bc56bd8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/esther\/9\/9-12.1791220340574.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "падыша"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "Эстирге"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "падыша"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "Шушанда"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "сарайында"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "өлтүрүштү"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "жөөттөр"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "жана жок кылышты"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "беш"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "жүз"
+    },
+    {
+      "surface": "איש",
+      "gloss": "кишини"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "жана ⟨את⟩",
+      "marks": "он уулун"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "он"
+    },
+    {
+      "surface": "בני",
+      "gloss": "уулун"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Амандын"
+    },
+    {
+      "surface": "בשאר",
+      "gloss": "калган"
+    },
+    {
+      "surface": "מדינות",
+      "gloss": "облустарында"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "падышанын"
+    },
+    {
+      "surface": "מה",
+      "gloss": "эмне"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "кылышты"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "эмнени"
+    },
+    {
+      "surface": "שאלתך",
+      "gloss": "тилейсің"
+    },
+    {
+      "surface": "וינתן",
+      "gloss": "берилсин"
+    },
+    {
+      "surface": "לך",
+      "gloss": "сенге"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "дагы эмнени"
+    },
+    {
+      "surface": "בקשתך",
+      "gloss": "суранасың"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "дагы"
+    },
+    {
+      "surface": "ותעש",
+      "gloss": "жасалсын"
+    }
+  ],
+  "timestamp": "2026-10-05T17:12:20.575892940Z",
+  "model": "glm-5.3"
+}

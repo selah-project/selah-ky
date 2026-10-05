@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 26:33",
+  "book": "leviticus",
+  "lang": "ky",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "וְהָיְתָה",
+      "rationale": "hebrew 'and it will be' folded into the kyrgyz predicate 'болот'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שממה \/ חרבה",
+      "rationale": "double desolation-word pairing at verse end, echo effect lost in kyrgyz"
+    }
+  ],
+  "translation": "Силерди элдердин арасына чачып жиберемин жана артыңардан кылычты сунамын; жериңер ээн калат, шаарларыңар кыйранга айланат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "1a60109d385c2524203e8f8993a72028f14591c3e3cdd3df314f22158dba0f2a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/26\/33-36.1791203488399.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתכם",
+      "gloss": "⟨את⟩ силерди"
+    },
+    {
+      "surface": "אזרה",
+      "gloss": "чачып жиберемин"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "элдердин арасына"
+    },
+    {
+      "surface": "והריקתי",
+      "gloss": "жана ... сунамын"
+    },
+    {
+      "surface": "אחריכם",
+      "gloss": "артыңардан"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "кылычты"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "болот"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "жериңер"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "ээн"
+    },
+    {
+      "surface": "ועריכם",
+      "gloss": "шаарларыңар"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "айланат"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "кыйранга"
+    }
+  ],
+  "timestamp": "2026-10-05T12:31:28.400328161Z",
+  "model": "glm-5.3"
+}

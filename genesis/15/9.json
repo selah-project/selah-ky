@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 15:9",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "үч жылдык",
+      "rationale": "םשלשת үч жаныбар тең 'үч жаштагы' деп үч жолу кайталанат — өлчөм так сакталат"
+    },
+    {
+      "kind": "substitution",
+      "subject": "көгүчкөн",
+      "rationale": "ותר тор түрүндөгү көгүчкөн (turtle-dove); кыргызча анык аты жок, көгүчкөн деп берилди"
+    }
+  ],
+  "translation": "Жана Ал ага айтты: Мага үч жылдык музоо, үч жылдык эчки жана үч жылдык эркек кой ал, ошондой эле көгүчкөн жана жөжө көгүчкөн.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "f2524336737e06441f9193efbd5c9a8cc5b0ee8aa4e4fd8cc07f7822c17a1ccf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/15\/9-12.1791200994137.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ага"
+    },
+    {
+      "surface": "קחה",
+      "gloss": "ал"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мага"
+    },
+    {
+      "surface": "עגלה",
+      "gloss": "музоо"
+    },
+    {
+      "surface": "משלשת",
+      "gloss": "үч жылдык"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "жана эчки"
+    },
+    {
+      "surface": "משלשת",
+      "gloss": "үч жылдык"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "жана эркек кой"
+    },
+    {
+      "surface": "משלש",
+      "gloss": "үч жылдык"
+    },
+    {
+      "surface": "ותר",
+      "gloss": "жана көгүчкөн"
+    },
+    {
+      "surface": "וגוזל",
+      "gloss": "жана жөжө көгүчкөн"
+    }
+  ],
+  "timestamp": "2026-10-05T11:49:54.137964084Z",
+  "model": "glm-5.3"
+}

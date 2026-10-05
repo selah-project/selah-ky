@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nahum 1:10",
+  "book": "nahum",
+  "lang": "ky",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עד סירים סבכים",
+      "rationale": "«Оруп-чабылганча» дегенди билдериши мүмкүн (KJV), же «тике-нектер бири-бирине илинишкен» (JPS); текст караңгы."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "סבכים \/ סבואים",
+      "rationale": "סבך (илинишкен) жана סבא (мас) тамырларынын үндөштүгү — кыргызча жоголот."
+    },
+    {
+      "kind": "hapax",
+      "subject": "סבא",
+      "rationale": "Бул аяттагы сөз формасы Танахта сейрек кездешет."
+    }
+  ],
+  "translation": "Анткени илинишкен тикенектердей жана өз ичимдиктери менен мас болгондордой алар кургаган солгондой жеп жиберилишет — толук.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "1f480c5ba6659a2440d3d5ee3f5f26d23a326f449adf822fb2700c7a09b03399",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/nahum\/1\/9-12.1791214626011.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "עד",
+      "gloss": "чейин"
+    },
+    {
+      "surface": "סירים",
+      "gloss": "тике-нектер"
+    },
+    {
+      "surface": "סבכים",
+      "gloss": "илинишкен"
+    },
+    {
+      "surface": "וכסבאם",
+      "gloss": "жана өз ичимдиктери"
+    },
+    {
+      "surface": "סבואים",
+      "gloss": "мас болгондор"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "жеп жиберилишет"
+    },
+    {
+      "surface": "כקש",
+      "gloss": "солгондой"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "кургаган"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "толук"
+    }
+  ],
+  "timestamp": "2026-10-05T15:37:06.012571031Z",
+  "model": "glm-5.3"
+}

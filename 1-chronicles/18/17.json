@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 18:17",
+  "book": "1-chronicles",
+  "lang": "ky",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "башкарды",
+      "rationale": "על «үстүнөн\/башында» — кыргызча «башкарды» менен берилди, кызмат мааниси"
+    },
+    {
+      "kind": "addition",
+      "subject": "болушту",
+      "rationale": "Ивритте этиш жок, атооч сөз айтылган; кыргызча айкындуулук үчүн кошулду"
+    },
+    {
+      "kind": "idiom",
+      "subject": "падышанын колунда",
+      "rationale": "ליד המלך калып эрежеси «падышанын колунда\/жанында» — кызматта деген мааниде"
+    }
+  ],
+  "translation": "Жана Бенайаху, Йехояданын уулу, керетилерди жана пелетилерди башкарды, жана Давиддин уулдары падышанын колунда биринчилер ⟨болушту⟩.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "e521c17634f9877c4c711908cd9b1d5b5961892825b05424f8a14564db15574f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-chronicles\/18\/17-17.1791222163217.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובניהו",
+      "gloss": "жана Бенайаху"
+    },
+    {
+      "surface": "בן",
+      "gloss": "уулу"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Йехояданын"
+    },
+    {
+      "surface": "על",
+      "gloss": "башкарды"
+    },
+    {
+      "surface": "הכרתי",
+      "gloss": "керетилерди"
+    },
+    {
+      "surface": "והפלתי",
+      "gloss": "жана пелетилерди"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "жана ... уулдары"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давиддин"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "биринчилер"
+    },
+    {
+      "surface": "ליד",
+      "gloss": "колунда"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "падышанын"
+    }
+  ],
+  "timestamp": "2026-10-05T17:42:43.217658105Z",
+  "model": "glm-5.3"
+}

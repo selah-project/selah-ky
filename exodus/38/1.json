@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 38:1",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": " altar dimensions",
+      "rationale": "Verse dimensions the altar in cubits: 5×5×3."
+    },
+    {
+      "kind": "substitution",
+      "subject": "чыканак",
+      "rationale": "אמה literally the forearm below the elbow, a unit of measure; rendered by unit name."
+    }
+  ],
+  "translation": "Жана ал ⟨את⟩ өрттөлүүчү курмандыктын мизбахын шиттим дарагынан жасады: биштин узундугу, биштин туурасы — төрт бурчтуу, үчтөн бийиктиги.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "6addf33f52fd59438ef8a2c488b684adfc2a8754075e2434d1c1566c42292545",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/38\/1-4.1791202711171.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "жасады"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "өрттөлүүчү курмандыктын мизбахын"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "мизбах"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "өрттөлүүчү"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "дарагынан"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "шиттим"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "биш"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "чыканак"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "узундугу"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "жана биш"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "чыканак"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "туурасы"
+    },
+    {
+      "surface": "רבוע",
+      "gloss": "төрт бурчтуу"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "жана үч"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "чыканак"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "бийиктиги"
+    }
+  ],
+  "timestamp": "2026-10-05T12:18:31.172228040Z",
+  "model": "glm-5.3"
+}

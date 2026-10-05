@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 66:6",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 66,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "дарыя",
+      "rationale": "הנהר — Кызыл деңиз (Чыгуу 15) же Иордан (Жошуа 3) деп эки окуу бар; текст буйрук бербейт."
+    },
+    {
+      "kind": "substitution",
+      "subject": "кубандык",
+      "rationale": "נשמחה — «биз кубандык» же «кубаналы» (кохортатив) деп да оклат; өткөн убакыт тандылды."
+    }
+  ],
+  "translation": "Деңизди кургак жерге айлантты, дарыяда бут менен өтүштү; ал жерде Биз ⟨Анын⟩ ичинде кубандык.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "a053864c231e7b93af25ede034cb9125ad962863e7cde04a752eba69391ddb84",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/66\/5-8.1791216346146.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הפך",
+      "gloss": "айлантты"
+    },
+    {
+      "surface": "ים",
+      "gloss": "Деңизди"
+    },
+    {
+      "surface": "ליבשה",
+      "gloss": "кургак жерге"
+    },
+    {
+      "surface": "בנהר",
+      "gloss": "дарыяда"
+    },
+    {
+      "surface": "יעברו",
+      "gloss": "өтүштү"
+    },
+    {
+      "surface": "ברגל",
+      "gloss": "бут менен"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ал жерде"
+    },
+    {
+      "surface": "נשמחה",
+      "gloss": "кубандык"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟨Анын⟩ ичинде"
+    }
+  ],
+  "timestamp": "2026-10-05T16:05:46.147577078Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 93:2",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 93,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "албетта",
+      "rationale": "מאז бир нече котормодо «ошол убакта» деп берилет; айкындык мааниси кошулду"
+    },
+    {
+      "kind": "substitution",
+      "subject": "мээнеттен",
+      "rationale": "מעולם «жоголуу чекитинен — эстелбеген мезгилден» деген сөзмө-сөз сүрөт"
+    }
+  ],
+  "translation": "Тактың ошондон бери бекем турган, албетта мээнеттен, өмүр бою — Сен.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "831a0ae960a4e0f13d21c2fd8125f15c5390ff0b98d3dcc9db00ad1b9e5d9efa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/93\/1-4.1791216915357.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "бекем турган"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "тактың"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "ошондон бери"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "мээнеттен"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Сен"
+    }
+  ],
+  "timestamp": "2026-10-05T16:15:15.358513041Z",
+  "model": "glm-5.3"
+}

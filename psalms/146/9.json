@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 146:9",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 146,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "түз тургозот",
+      "rationale": "יעודד (עוד) — «кармап турат, түз тургозот» маанисинде; KJV «relieveth», JPS «upholdeth»"
+    },
+    {
+      "kind": "crux",
+      "subject": "кыйшайтат",
+      "rationale": "יעות — «кыйшайтат» (JPS) же «төңкөрүп салат» (KJV «turneth upside down»)"
+    }
+  ],
+  "translation": "Яхве ⟨את⟩ чет өлкөлүктөрдү сактайт, жетимди жана жесирди түз тургозот, ал эми жамандардын жолун кыйшайтат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "d5fcbf227f804cb9f705f06dde37bba557510f04d8b58a66a2a92cf66769d671",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/146\/9-10.1791217624287.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "сактайт"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "чет өлкөлүктөрдү"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "чет өлкөлүктөрдү"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "жетимди"
+    },
+    {
+      "surface": "ואלמנה",
+      "gloss": "жана жесирди"
+    },
+    {
+      "surface": "יעודד",
+      "gloss": "түз тургозот"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "ал эми жолун"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "жамандардын"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "кыйшайтат"
+    }
+  ],
+  "timestamp": "2026-10-05T16:27:04.287835823Z",
+  "model": "glm-5.3"
+}

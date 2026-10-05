@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 70:6",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 70,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Яхве",
+      "rationale": "Тике багытталган дуба — Элохимге жана Яхвеге."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨бул⟩",
+      "rationale": "Кыргыз тили копула талап кылат, еврейче текстте жок."
+    },
+    {
+      "kind": "addition",
+      "subject": "-мынсың",
+      "rationale": "«жакыр жана муктажмын» — этиштин жоктугун кыргызча этиш-байламча толтурат."
+    }
+  ],
+  "translation": "Мен болсо жакыр жана муктажмын; Элохим, мага шашыл; Сен ⟨бул⟩ менин жардамчым жана куткаруучумсуң, Яхве, кечикпе!",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "5472612b7449b7643614afcc20f7d591ddaadc21d2e1b50d1f5b2e14a76832a8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/70\/5-6.1791216380704.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Мен болсо"
+    },
+    {
+      "surface": "עני",
+      "gloss": "жакыр"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "жана муктаж"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "шашыл"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мага"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "жардамчым"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "жана куткаруучум"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Сен"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "жок"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "кечикпе"
+    }
+  ],
+  "timestamp": "2026-10-05T16:06:20.705315917Z",
+  "model": "glm-5.3"
+}

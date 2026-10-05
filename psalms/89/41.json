@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "psalms 89:41",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "שמת ... מחתה",
+      "rationale": "буквально «поставил его крепость разрушением» — передано как «обратил в развалины»"
+    }
+  ],
+  "translation": "Анын тосмолорунун баарын буздуң, анын чебин кыйроого айланттың.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "53f8ee8a217282c258cbd10cf0f993670adb04c6fd1e20abb763a908477986d6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/89\/41-44.1791216753242.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פרצת",
+      "gloss": "буздуң"
+    },
+    {
+      "surface": "כל",
+      "gloss": "баарын"
+    },
+    {
+      "surface": "גדרתיו",
+      "gloss": "тосмолорунун"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "айланттың"
+    },
+    {
+      "surface": "מבצריו",
+      "gloss": "чебин"
+    },
+    {
+      "surface": "מחתה",
+      "gloss": "кыйроого"
+    }
+  ],
+  "timestamp": "2026-10-05T16:12:33.243179782Z",
+  "model": "glm-5.3"
+}

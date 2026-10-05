@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 27:2",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "נא",
+      "rationale": "Жумшактык бөлүкчөсүнүн кыргызча так эквиваленти жок, тыбыш катары гана сезилип турат."
+    },
+    {
+      "kind": "mystery",
+      "subject": "өлүм күнү",
+      "rationale": "Йицхак өлүм күнүн билбестигин өзү айтат — билинбеген нерсе."
+    }
+  ],
+  "translation": "Жана ал айтты: Караба, карый баштадым, өлүм күнүмдү билбейм.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "82fed4a047f332614c066d7b5855631bf5a5b08e1159aedbfb6f9c17ff7cfb54",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/27\/1-4.1791201240562.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "караба"
+    },
+    {
+      "surface": "נא",
+      "gloss": "…а"
+    },
+    {
+      "surface": "זקנתי",
+      "gloss": "карый баштадым"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "билбейм"
+    },
+    {
+      "surface": "יום",
+      "gloss": "күнү"
+    },
+    {
+      "surface": "מותי",
+      "gloss": "өлүмүмдү"
+    }
+  ],
+  "timestamp": "2026-10-05T11:54:00.563751107Z",
+  "model": "glm-5.3"
+}

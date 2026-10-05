@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 31:18",
+  "book": "proverbs",
+  "lang": "ky",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "анын",
+      "rationale": "כי даамдоо-билүү объектиси Hebrewде ачык эмес, кыргызча түшүндүрмө атооч талап кылат"
+    },
+    {
+      "kind": "substitution",
+      "subject": "даамдап билет",
+      "rationale": "טעמה — даамдоо; мында сезип билүү маанисинде, даам деген сөз сакталды"
+    }
+  ],
+  "translation": "Ал даамдап ⟦анын⟧ жакшы экенин билет — өз соода пайдасын; түнүнө анын чырагы өчпөйт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "b8ecc8c7cdb16eddb51b1cf67c059b1a094747296deda200af374ae0c7e97984",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/31\/17-20.1791218488638.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טעמה",
+      "gloss": "даамдап"
+    },
+    {
+      "surface": "כי",
+      "gloss": "экенин"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "жакшы"
+    },
+    {
+      "surface": "סחרה",
+      "gloss": "өз соода пайдасын"
+    },
+    {
+      "surface": "לא",
+      "gloss": "өчпөйт… эмес — «жок»"
+    },
+    {
+      "surface": "יכבה",
+      "gloss": "өчпөйт"
+    },
+    {
+      "surface": "בליל",
+      "gloss": "түнүнө"
+    },
+    {
+      "surface": "נרה",
+      "gloss": "анын чырагы"
+    }
+  ],
+  "timestamp": "2026-10-05T16:41:28.638968642Z",
+  "model": "glm-5.3"
+}

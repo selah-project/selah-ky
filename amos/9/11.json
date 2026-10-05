@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "amos 9:11",
+  "book": "amos",
+  "lang": "ky",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "סכה",
+      "rationale": "«чатырча» — байыркы убактылуы чатыр, ыйык ишеним жайы эмес."
+    },
+    {
+      "kind": "alternative",
+      "subject": "פרציהן",
+      "rationale": "Көптүк сан «алардын жарыктары» — чатырчанын дубалдарынын жарыктары; бирлик катары да түшүндүрүлөт."
+    },
+    {
+      "kind": "measurement",
+      "subject": "ошол күнү",
+      "rationale": "«Ошол күн» — келечектеги белгилүү убакыт белгиси."
+    }
+  ],
+  "translation": "Ошол күнү Мен кулаган Давидтин ⟨את⟩ чатырчасын тиктеп, ⟨את⟩ анын жарыктарын бекитип, анын урандыларын тургузам жана аны байыркы күндөрдөгүдөй курам.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "f8267812af290365fb9bdbdf6006b6398bce3cd4105759b310e0b4fd1d4ca2e6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/amos\/9\/9-12.1791214344010.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ошол күнү"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ошол"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "тиктеп"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Давидтин чатырчасын"
+    },
+    {
+      "surface": "סכת",
+      "gloss": "чатырчасын"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давидтин"
+    },
+    {
+      "surface": "הנפלת",
+      "gloss": "кулаган"
+    },
+    {
+      "surface": "וגדרתי",
+      "gloss": "жана бекитемин"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "анын жарыктарын"
+    },
+    {
+      "surface": "פרציהן",
+      "gloss": "анын жарыктарын"
+    },
+    {
+      "surface": "והרסתיו",
+      "gloss": "анын урандыларын"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "тургузам"
+    },
+    {
+      "surface": "ובניתיה",
+      "gloss": "жана курам"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "…дегидей"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "байыркы күндөрдө"
+    }
+  ],
+  "timestamp": "2026-10-05T15:32:24.011659435Z",
+  "model": "glm-5.3"
+}

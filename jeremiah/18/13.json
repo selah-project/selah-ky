@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 18:13",
+  "book": "jeremiah",
+  "lang": "ky",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "сурагыла",
+      "rationale": "Яхве элдердин арасынан сурай турган суроо коюп, угуучуну тартат"
+    },
+    {
+      "kind": "crux",
+      "subject": "שעררת",
+      "rationale": "коркунучтуу нерсе — 'жийиркенчтүү жорук' дагы которулат"
+    },
+    {
+      "kind": "substitution",
+      "subject": "кызы",
+      "rationale": "בתולת — 'таза кыз' образы, Йисраэл жөнүндө метафора"
+    }
+  ],
+  "translation": "Ошондуктан Яхве мындай дейт: элдердин арасынан сурагыла, мындай нерселерди ким угуптур? Йисраэлдин кызы абдан коркунучтуу иш кылды.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "70f6398f96cfbcdf984f978fe9fece1f71e4c77e2ff7f588feecc75f3f60160a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/jeremiah\/18\/13-16.1791211159007.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Ошондуктан"
+    },
+    {
+      "surface": "כה",
+      "gloss": "мындай"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "дейт"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "שאלו",
+      "gloss": "сурагыла"
+    },
+    {
+      "surface": "נא",
+      "gloss": "азир"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "элдердин арасынан"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ким"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "угуптур"
+    },
+    {
+      "surface": "כאלה",
+      "gloss": "мындай нерселерди"
+    },
+    {
+      "surface": "שעררת",
+      "gloss": "коркунучтуу нерсе"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "кылды"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "абдан"
+    },
+    {
+      "surface": "בתולת",
+      "gloss": "кызы"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэлдин"
+    }
+  ],
+  "timestamp": "2026-10-05T14:39:19.008408222Z",
+  "model": "glm-5.3"
+}

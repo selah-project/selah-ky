@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 24:1",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "анын",
+      "rationale": "פניה суффикси бар, бирок кыргызча «жүзүн» дегенде ээлик так эмес — ⟨анын⟩ түшүндүрмө катары кошулду"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בוקק\/בולקה",
+      "rationale": "бир тамырдын кайталоосу — «бошотуу\/талкалоо» парасти, еврейче үн жакындыгы кыргызча жоголот"
+    },
+    {
+      "kind": "invitation",
+      "subject": "הנה",
+      "rationale": "«Караңызы» — окурманга түз кайрылуу, көз алдына элестетүүгө чакыруу"
+    }
+  ],
+  "translation": "Караңызы, Яхве жерди бошотуп, аны талкалайт, жана ⟨анын⟩ жүзүн кайчылантат, жана анын жашоочуларын чачып жиберет.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "0eefc8af49c179054712df3c85ce8d98161160f1c6551019c7820f00d6724d45",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/24\/1-4.1791209832306.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Караңызы"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "בוקק",
+      "gloss": "бошотуп"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "жерди"
+    },
+    {
+      "surface": "ובולקה",
+      "gloss": "жана талкалайт"
+    },
+    {
+      "surface": "ועוה",
+      "gloss": "жана кайчылантат"
+    },
+    {
+      "surface": "פניה",
+      "gloss": "жүзүн"
+    },
+    {
+      "surface": "והפיץ",
+      "gloss": "жана чачып жиберет"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "анын жашоочуларын"
+    }
+  ],
+  "timestamp": "2026-10-05T14:17:12.306604031Z",
+  "model": "glm-5.3"
+}

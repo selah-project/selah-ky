@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 64:7",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 64,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "сың",
+      "rationale": "Ивритте «атабыз» деген атоочтук сүйлөм; кыргызча мүчө талап кылат"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חמר \/ יצרנו",
+      "rationale": "Чопо жана чебер — чоподон жасоо сүрөтү; Яхве падыша эмес, Ата жана чебер катары"
+    }
+  ],
+  "translation": "Азыр, эй Яхве, Сен биздин Атабызсың, биз — чопо, жана Сен бизди жараткан чеберсиң, жана баарыбыз Сенин колуңдун эмгегибиз.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "1c6f02b30f0d3eb0ec598fb5fa82f66cc4d035d7f4c504c36ab9be999cc6a01c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/64\/5-8.1791210578257.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "азыр"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "биздин Атабыз"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Сен"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "биз"
+    },
+    {
+      "surface": "החמר",
+      "gloss": "чопо"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "жана Сен"
+    },
+    {
+      "surface": "יצרנו",
+      "gloss": "бизди жараткан чеберсиң"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "эмгеги"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "колуңдун"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "баарыбыз"
+    }
+  ],
+  "timestamp": "2026-10-05T14:29:38.258560291Z",
+  "model": "glm-5.3"
+}

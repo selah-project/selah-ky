@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 1:17",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "тирүү калтырды",
+      "rationale": "ותחיין — гипил: 'тирүү кылды', 'жашатып койду', каузативдүү форма"
+    },
+    {
+      "kind": "addition",
+      "subject": "жок",
+      "rationale": "киргизилген терсөө — לא макулдашты көтөрөт"
+    }
+  ],
+  "translation": "Жана төрөтчү аялдар ⟨את⟩ Элохимден коркту, Мицрайим падышасы аларга сүйлөгөндөй кылышкан жок, жана ⟨את⟩ балдарды тирүү калтырышты.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "ea07d7968f57a30b9380d67d89bfccbd3c5e31ebc71db162550a6f8f99b9c54b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/1\/17-20.1791201874630.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותיראן",
+      "gloss": "коркту"
+    },
+    {
+      "surface": "המילדת",
+      "gloss": "төрөтчү аялдар"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Элохим"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "кылышты"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "айткандай"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сүйлөдү"
+    },
+    {
+      "surface": "אליהן",
+      "gloss": "аларга"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "падышасы"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицрайим"
+    },
+    {
+      "surface": "ותחיין",
+      "gloss": "тирүү калтырды"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "балдарды"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "балдарды"
+    }
+  ],
+  "timestamp": "2026-10-05T12:04:34.631008451Z",
+  "model": "glm-5.3"
+}

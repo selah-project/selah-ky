@@ -1,0 +1,126 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 1:7",
+  "book": "deuteronomy",
+  "lang": "ky",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "פנו וסעו לכם",
+      "rationale": "'өзүңөргө бурул' — байыркы еврей туюму, кыргызча 'жолго чыккыла'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨өзүңөр⟩",
+      "rationale": "לכל дател формасы туюк калды"
+    }
+  ],
+  "translation": "Бурулгула жана жолго чыккыла, тоолуу Аморрий жерине жана анын бардык коңшуларына баргыла — Арабада, тоодо, түздүктө, түштүктө жана деңиз жээгинде, Канаан жеринде жана Ливандо, чоң дарыяга чейин — Перат дарыясына.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "6cbea38baab9e355a66f9608be1dc17758851a010cac64339a0fde3cdba167dd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/1\/5-8.1791204686195.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פנו",
+      "gloss": "бурулгула"
+    },
+    {
+      "surface": "וסעו",
+      "gloss": "жолго чыккыла"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "⟨өзүңөр⟩"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "баргыла"
+    },
+    {
+      "surface": "הר",
+      "gloss": "тоолуу жерина"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Аморрий"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "жана... үчүн"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бардык"
+    },
+    {
+      "surface": "שכניו",
+      "gloss": "коңшуларына"
+    },
+    {
+      "surface": "בערבה",
+      "gloss": "Арабада"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "тоодо"
+    },
+    {
+      "surface": "ובשפלה",
+      "gloss": "түздүктө"
+    },
+    {
+      "surface": "ובנגב",
+      "gloss": "түштүктө"
+    },
+    {
+      "surface": "ובחוף",
+      "gloss": "жана жээгинде"
+    },
+    {
+      "surface": "הים",
+      "gloss": "деңиз"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "жеринде"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Канаан"
+    },
+    {
+      "surface": "והלבנון",
+      "gloss": "жана Ливандо"
+    },
+    {
+      "surface": "עד",
+      "gloss": "чейин"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "дарыяга"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "чоң"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "дарыясы"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "Перат"
+    }
+  ],
+  "timestamp": "2026-10-05T12:51:26.196078838Z",
+  "model": "glm-5.3"
+}

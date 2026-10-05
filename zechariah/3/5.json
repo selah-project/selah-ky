@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zechariah 3:5",
+  "book": "zechariah",
+  "lang": "ky",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "оролмо",
+      "rationale": "צניף — башка оролгон кездеме; «сүлтан» же «митра» деген кийинки аталыштар түшүп калган"
+    },
+    {
+      "kind": "addition",
+      "subject": "жанында",
+      "rationale": "Ивриттегi עמד жөн гана «турду» дейт; периштенин жанында экени контексттен"
+    }
+  ],
+  "translation": "Жана мен айттым: Анын башына таза оролмо коюшсун. Алар анын башына таза оролмону коюшту жана аны кийимдер менен кийиндиришти, ал эми Яхвенин периштеси жанында турду.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "981141e3321e5c7471106dcbf81fa9936e502b3420e1962eff597cc75482c4e7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/zechariah\/3\/5-8.1791215059658.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "жана мен айттым"
+    },
+    {
+      "surface": "ישימו",
+      "gloss": "коюшсун"
+    },
+    {
+      "surface": "צניף",
+      "gloss": "оролмо"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "таза"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстүнө"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "анын башынын"
+    },
+    {
+      "surface": "וישימו",
+      "gloss": "жана алар коюшту"
+    },
+    {
+      "surface": "הצניף",
+      "gloss": "оролмону"
+    },
+    {
+      "surface": "הטהור",
+      "gloss": "таза"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстүнө"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "анын башынын"
+    },
+    {
+      "surface": "וילבשהו",
+      "gloss": "жана аны кийиндиришти"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "кийимдер"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "жана периште"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "турду"
+    }
+  ],
+  "timestamp": "2026-10-05T15:44:19.659431054Z",
+  "model": "glm-5.3"
+}

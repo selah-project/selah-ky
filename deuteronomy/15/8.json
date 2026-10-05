@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 15:8",
+  "book": "deuteronomy",
+  "lang": "ky",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ачык ач",
+      "rationale": "פתח תפתח — инфинитив менен этиштин кайталануусу: «чын дилден ач» деген күчөтүү; кыргызча «ачык ач» менен берилди"
+    },
+    {
+      "kind": "addition",
+      "subject": "анын ордуна",
+      "rationale": "כי бул жерде алдынкы аяттын терс буйругуна таянуу үчүн кыргызча байланыш катары кошулду"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Исраэл элине буйрук",
+      "rationale": "жакырынга кол ачуу жөнүндө直接的 буйрук — падышачылык мыйзамдын адресати эл"
+    }
+  ],
+  "translation": "Анын ордуна ⟨את⟩ колуңду ага ачык ач, жана ага анын жетишпегенинин жетишинче — эмнеден жетишсиз болсо — берип карыз бер.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "f1b4e3128e20c94b7ef2a7a757c6def1f45526c6ad36cce103b0ee1b18a8be49",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/15\/8-8.1791223753545.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "анын ордуна"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ач"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "ач"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "колуңду"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "колуңду"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ага"
+    },
+    {
+      "surface": "והעבט",
+      "gloss": "карыз бер"
+    },
+    {
+      "surface": "תעביטנו",
+      "gloss": "ага берип карыз бер"
+    },
+    {
+      "surface": "די",
+      "gloss": "жетишинче"
+    },
+    {
+      "surface": "מחסרו",
+      "gloss": "анын жетишпегенинин"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "эмнеден"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "жетишсиз болсо"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ага"
+    }
+  ],
+  "timestamp": "2026-10-05T18:09:13.546598683Z",
+  "model": "glm-5.3"
+}

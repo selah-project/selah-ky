@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 21:3",
+  "book": "1-kings",
+  "lang": "ky",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "חלילה לי מיהוה",
+      "rationale": "«Яхведен мага алыс болсун» — ант оозеки; «жок болсун» деп берилди"
+    },
+    {
+      "kind": "you",
+      "subject": "Навот → Ахав",
+      "rationale": "падышага каршы түз жооп: баш тартуу Яхвеге таянуу менен"
+    }
+  ],
+  "translation": "Навот Ахавга айтты: Мага жок болсун Яхведен — аталарымдын мурасын ⟨את⟩ сага берүү!",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "43996b67bab36963950fd87267c1b0858f6b5de5696a1e2760850a9c1fe623a8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-kings\/21\/1-4.1791208572779.json",
+    "code": "641241cf-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Навот"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ахавга"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "жок болсун"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мага"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "Яхведен"
+    },
+    {
+      "surface": "מתתי",
+      "gloss": "берүү"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "мурасын"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "мурасын"
+    },
+    {
+      "surface": "אבתי",
+      "gloss": "аталарымдын"
+    },
+    {
+      "surface": "לך",
+      "gloss": "сага"
+    }
+  ],
+  "timestamp": "2026-10-05T13:56:12.780644700Z",
+  "model": "glm-5.3"
+}

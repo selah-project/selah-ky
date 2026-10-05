@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 5:1",
+  "book": "job",
+  "lang": "ky",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Ийобго",
+      "rationale": "Элифаз Ийобго түз кайрылат — суроо формасындагы чакырык."
+    },
+    {
+      "kind": "crux",
+      "subject": "קדושים — ыйыктар",
+      "rationale": "Ыйык адамдар же периштелер (ыйык рухий күчтөр) — котормолор бөлүнөт; бул жерде «ыйыктар» деп ачык калды."
+    },
+    {
+      "kind": "substitution",
+      "subject": "עונך",
+      "rationale": "Еврейче этиш «сага жооп берет» — кыргызча «жооп берүүчү» деп субстантивацияланды."
+    }
+  ],
+  "translation": "Чакыр эми, сага жооп берүүчү барбы? Жана ыйыктардын кайсынысына бурасың?",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "818959b0fefbe470fa0a0a653079fc1c58d285d3994a77ac701c71d11b28f2e1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/job\/5\/1-4.1791218703747.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קרא",
+      "gloss": "чакыр"
+    },
+    {
+      "surface": "נא",
+      "gloss": "эми"
+    },
+    {
+      "surface": "היש",
+      "gloss": "барбы"
+    },
+    {
+      "surface": "עונך",
+      "gloss": "сага жооп берүүчү"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "жана...га"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кайсынысы"
+    },
+    {
+      "surface": "מקדשים",
+      "gloss": "ыйыктардын"
+    },
+    {
+      "surface": "תפנה",
+      "gloss": "бурасың"
+    }
+  ],
+  "timestamp": "2026-10-05T16:45:03.748522769Z",
+  "model": "glm-5.3"
+}

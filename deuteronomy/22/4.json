@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 22:4",
+  "book": "deuteronomy",
+  "lang": "ky",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הקם תקים",
+      "rationale": "Инфинитив абсолюту + этиш — «сөзсүз тургуз» күчөтүүсү"
+    },
+    {
+      "kind": "crux",
+      "subject": "נפלים",
+      "rationale": "Көптүк сан бирликтеги эки жаныбарга (эшек жана өгүз) тиешелүү — котормолорду айрымдары жекелик кылышат"
+    }
+  ],
+  "translation": "Бир тууганыңдын ⟨את⟩ эшегин же анын өгүзүн жолдо жыгылган көрүп, алардан көзүңдү жашырба — аларды анын менен бирге сөзсүз тургуз.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "5ac9a73a6cec47aec85e53dab9b9141d9ee06032c09bc004bad12048237c28e9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/22\/1-4.1791205176245.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "жашырба"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "көрүп"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "эшегин"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "эшегин"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "бир тууганыңдын"
+    },
+    {
+      "surface": "או",
+      "gloss": "же"
+    },
+    {
+      "surface": "שורו",
+      "gloss": "анын өгүзүн"
+    },
+    {
+      "surface": "נפלים",
+      "gloss": "жыгылган"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "жолдо"
+    },
+    {
+      "surface": "והתעלמת",
+      "gloss": "көзүңдү жашырба"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "алардан"
+    },
+    {
+      "surface": "הקם",
+      "gloss": "сөзсүз"
+    },
+    {
+      "surface": "תקים",
+      "gloss": "тургуз"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "анын менен бирге"
+    }
+  ],
+  "timestamp": "2026-10-05T12:59:36.246818176Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 35:19",
+  "book": "numbers",
+  "lang": "ky",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "кандын өч алгычы",
+      "rationale": "גואל הדם туура мааниси — «кандын жакын-тууган куткаруучусу»; кыргызча «өч алгыч» ролдук сөз."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ימית … ימיתנו",
+      "rationale": "«Өлтүрөт … аны өлтүрөт» — басымдуу эки жолу кайталоо."
+    }
+  ],
+  "translation": "Кандын өч алгычынын өзү ⟨את⟩ өлтүргүчтү өлтүрөт; ага жолукканда аны өлтүрөт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "7586cc054bbc5446ac83ba04e306b024ba0ed143a00ce0567eb54937f1eb3b82",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/numbers\/35\/17-20.1791204586793.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גאל",
+      "gloss": "өч алгычы"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "Кандын"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "өзү"
+    },
+    {
+      "surface": "ימית",
+      "gloss": "өлтүрөт"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "өлтүргүчтү"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "өлтүргүчтү"
+    },
+    {
+      "surface": "בפגעו",
+      "gloss": "жолукканда"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ага"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ал"
+    },
+    {
+      "surface": "ימיתנו",
+      "gloss": "аны өлтүрөт"
+    }
+  ],
+  "timestamp": "2026-10-05T12:49:46.794262425Z",
+  "model": "glm-5.3"
+}

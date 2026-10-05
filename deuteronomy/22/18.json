@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 22:18",
+  "book": "deuteronomy",
+  "lang": "ky",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ויסרו",
+      "rationale": "'жазалашат' — יסר сокку менен да, сөз менен да тарбиялоо\/жазалоо маанисин берет."
+    }
+  ],
+  "translation": "Жана ошол шаардын карыгылары ⟨את⟩ ал кишини кармап алышат жана ⟨את⟩ аны жазалашат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "0b35c2ca1cf594574b21e168d5e357c8aab3c76385631338aeca2915d17316f1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/22\/17-20.1791205213955.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "Жана кармап алышат"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "каригылары"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "шаардын"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ошол"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ал кишини"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ал киши"
+    },
+    {
+      "surface": "ויסרו",
+      "gloss": "жана жазалашат"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ аны"
+    }
+  ],
+  "timestamp": "2026-10-05T13:00:13.956172258Z",
+  "model": "glm-5.3"
+}

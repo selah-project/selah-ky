@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 11:11",
+  "book": "joshua",
+  "lang": "ky",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жан",
+      "rationale": "נפש — дем алуучу жандуу жаратылыш, «жан» кеңири кабыл алынды"
+    },
+    {
+      "kind": "idiom",
+      "subject": "кылычтын оозу",
+      "rationale": "לפי חרב — туура кокус «кылычтын оозу», кыргызча «кылычтын мизи» да болот"
+    }
+  ],
+  "translation": "Алар ⟨את⟩ анда турган ар бир жанды кылычтын оозу менен согуп, херемке арнады — дем алган эч ким калган жок — жана ⟨את⟩ Хацорду отто өрттөдү.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "2e957455d72014792a99304929dfde5480d3079de9f83a9c40e0e3de0973fb15",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/joshua\/11\/9-12.1791205770387.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויכו",
+      "gloss": "согуп"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ар бир жанды"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ар бир"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "жанды"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "турган"
+    },
+    {
+      "surface": "בה",
+      "gloss": "анда"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "оозу менен"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "кылычтын"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "херемке арнады"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "калган"
+    },
+    {
+      "surface": "כל",
+      "gloss": "эч ким"
+    },
+    {
+      "surface": "נשמה",
+      "gloss": "дем алган"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Хацорду"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Хацорду"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "өрттөдү"
+    },
+    {
+      "surface": "באש",
+      "gloss": "отто"
+    }
+  ],
+  "timestamp": "2026-10-05T13:09:30.388477985Z",
+  "model": "glm-5.3"
+}

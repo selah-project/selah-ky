@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 25:3",
+  "book": "proverbs",
+  "lang": "ky",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חקר",
+      "rationale": "2-аяттагы этиш חקר менен бул аяттагы зат атооч חקר — изилдөө\/ченүү тамыры кайталанат."
+    },
+    {
+      "kind": "elision",
+      "subject": "אין חקר",
+      "rationale": "'изилдөө жок' туура эмес угулат, 'чени жок' деп идиома катары берилди."
+    }
+  ],
+  "translation": "Асман бийиктикке, жер тереңдикке, падышалардын жүрөгүнүн чени жок.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "f992d1e4ab323a6140d847215fa2fe87e2a2def12c7eba812f094039f80e8ae4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/25\/1-4.1791218339272.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמים",
+      "gloss": "асман"
+    },
+    {
+      "surface": "לרום",
+      "gloss": "бийиктикке"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "жер"
+    },
+    {
+      "surface": "לעמק",
+      "gloss": "тереңдикке"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "жүрөгү"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "падышалардын"
+    },
+    {
+      "surface": "אין",
+      "gloss": "жок"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "чени"
+    }
+  ],
+  "timestamp": "2026-10-05T16:38:59.273476763Z",
+  "model": "glm-5.3"
+}

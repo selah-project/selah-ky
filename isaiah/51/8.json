@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 51:8",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עש \/ סס",
+      "rationale": "Эки ар башка сөз бир эле жаныбарды (күбө) билдирет — параллелизм; кыргызча эки сөз менен (күбө · курт) айырмаланды."
+    },
+    {
+      "kind": "substitution",
+      "subject": "цедек",
+      "rationale": "צדקה 'цедек' деп айтылышынча калды, 'адилеттик' гана дебей."
+    },
+    {
+      "kind": "addition",
+      "subject": "аларды",
+      "rationale": "יאכל׮ мүчөсүндөгү -ם 'аларды' кыргызча ачык жазылды."
+    }
+  ],
+  "translation": "Себеби аларды күбө кийимди жегендей жейт, жана аларды курт жүндү жегендей жейт; ал эми Менин цедегим түбөлүккө болот, жана Менин куткаруум муундан муунга.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "eb484cd8fc038d59bb135534f1ca9eb7ec95b276c2d92b07897e3ea41a5c36cb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/51\/8-8.1791224076763.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Себеби"
+    },
+    {
+      "surface": "כבגד",
+      "gloss": "кийимди жегендей"
+    },
+    {
+      "surface": "יאכלם",
+      "gloss": "аларды жейт"
+    },
+    {
+      "surface": "עש",
+      "gloss": "күбө"
+    },
+    {
+      "surface": "וכצמר",
+      "gloss": "жана жүндү жегендей"
+    },
+    {
+      "surface": "יאכלם",
+      "gloss": "аларды жейт"
+    },
+    {
+      "surface": "סס",
+      "gloss": "курт"
+    },
+    {
+      "surface": "וצדקתי",
+      "gloss": "ал эми Менин цедегим"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "түбөлүккө"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "болот"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "жана Менин куткаруум"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "муундан"
+    },
+    {
+      "surface": "דורים",
+      "gloss": "муунга"
+    }
+  ],
+  "timestamp": "2026-10-05T18:14:36.763863957Z",
+  "model": "glm-5.3"
+}

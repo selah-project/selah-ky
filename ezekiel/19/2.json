@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 19:2",
+  "book": "ezekiel",
+  "lang": "ky",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "көбөйттү",
+      "rationale": "רבתה «көбөйттү\/чоңойтту» — салттуу котормолор «эмизди, багып чыгарды» дейт, бирок сөздүн формасы «көбөйүү»."
+    },
+    {
+      "kind": "addition",
+      "subject": "ал —",
+      "rationale": "קינа сура-жооп стилинде копула жок; кыргызча «Ал —» кошулду."
+    }
+  ],
+  "translation": "жана айтасың: Энең эмне? Ал — арстан аял; арстандардын арасында жатты, жаш арстандардын ортосунда козуларын көбөйттү.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "d8d884efe0a22ed50725aee063d41e73343fe339cfee654274f65f1f5099d9ac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ezekiel\/19\/1-4.1791212568265.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "айтасың"
+    },
+    {
+      "surface": "מה",
+      "gloss": "эмне"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "Энең"
+    },
+    {
+      "surface": "לביא",
+      "gloss": "арстан аял"
+    },
+    {
+      "surface": "בין",
+      "gloss": "арасында"
+    },
+    {
+      "surface": "אריות",
+      "gloss": "арстандардын"
+    },
+    {
+      "surface": "רבצה",
+      "gloss": "жатты"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ортосунда"
+    },
+    {
+      "surface": "כפרים",
+      "gloss": "жаш арстандардын"
+    },
+    {
+      "surface": "רבתה",
+      "gloss": "көбөйттү"
+    },
+    {
+      "surface": "גוריה",
+      "gloss": "козуларын"
+    }
+  ],
+  "timestamp": "2026-10-05T15:02:48.266068191Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 11:2",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "чыгыштан",
+      "rationale": "מקדם 'алды' деген да; 'чыгыштан' салттуу окуу, 'чыгышты көздөй' да мүмкүн"
+    },
+    {
+      "kind": "addition",
+      "subject": "алар",
+      "rationale": "כncmp ичиндеги жашырын этиш субъектиси кыргызча ачык жазылууга аргасыз"
+    }
+  ],
+  "translation": "Жана алар чыгыштан жөнөп баратканда, Шынар жериндеги өрөөндү табышты жана ошол жерде отурушту.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "a483b5895629e339dfc2df94495c16eb4d1c8d8c0d5219776df6c3ceaec1da90",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/11\/1-4.1791200949440.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "жана…болду"
+    },
+    {
+      "surface": "בנסעם",
+      "gloss": "алар жөнөп баратканда"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "чыгыштан"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "жана табышты"
+    },
+    {
+      "surface": "בקעה",
+      "gloss": "өрөөндү"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "жериндеги"
+    },
+    {
+      "surface": "שנער",
+      "gloss": "Шынар"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "жана отурушту"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ошол жерде"
+    }
+  ],
+  "timestamp": "2026-10-05T11:49:09.441767912Z",
+  "model": "glm-5.3"
+}

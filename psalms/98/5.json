@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 98:5",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 98,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "זמרו\/זמרה",
+      "rationale": "Этеш менен зат аты бир тамырдан — замырда\/зимра, кайрадоо жоголот"
+    },
+    {
+      "kind": "you",
+      "subject": "израилдиктерге",
+      "rationale": "Көп нускадагы буйрук — ырдоого чакыруу"
+    }
+  ],
+  "translation": "Яхвеге кинор менен замырдаңар, кинор менен жана ырдын үнү менен.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "d0c70d0449de28f277a4e22571880ac3cd848c2108023311254a4152dd585472",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/98\/5-8.1791216965975.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "замырдаңар"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхвеге"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "кинор менен"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "кинор менен"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "жана ... үнү"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "ырдын"
+    }
+  ],
+  "timestamp": "2026-10-05T16:16:05.975511399Z",
+  "model": "glm-5.3"
+}

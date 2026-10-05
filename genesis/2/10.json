@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 2:10",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "башка",
+      "rationale": "ראשים literally 'heads' — headwaters, source streams; Kyrgyz 'баш' keeps the body-part picture"
+    }
+  ],
+  "translation": "Жана Эденнен бир дарыя агып чыгып, ⟨את⟩ бакты сугарчу; жана ал жактан ал төрт башка бөлүнүп кетчу.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "b4cd62958375c9359b944679d157bf42a17e537c70d4a3e3bc7e8a8a53562873",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/2\/9-12.1791200709865.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונהר",
+      "gloss": "жана дарыя"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "агып чыгып"
+    },
+    {
+      "surface": "מעדן",
+      "gloss": "Эденнен"
+    },
+    {
+      "surface": "להשקות",
+      "gloss": "сугарчу"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "бакты"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "бакты"
+    },
+    {
+      "surface": "ומשם",
+      "gloss": "жана ал жактан"
+    },
+    {
+      "surface": "יפרד",
+      "gloss": "бөлүнүп кетчу"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "болчу"
+    },
+    {
+      "surface": "לארבעה",
+      "gloss": "төрт"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "башка"
+    }
+  ],
+  "timestamp": "2026-10-05T11:45:09.866513511Z",
+  "model": "glm-5.3"
+}

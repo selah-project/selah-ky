@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 115:2",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 115,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "дешсин",
+      "rationale": "נא суроо-төгүн сөзү, кыргызча кайрадан берилди"
+    },
+    {
+      "kind": "you",
+      "subject": "Яхвеге",
+      "rationale": "аят Яхвеге багышталган суроо-тилек ичинде"
+    }
+  ],
+  "translation": "Эмне үчүн элдер айтсын: алардын Элохими кайда дешсин?",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "80ac09966d24a74ffa4fcbea3480205d886b56e155f1cf2c46148ec88c69fb48",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/115\/1-4.1791217229664.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "эмне үчүн"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "айтсын"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "элдер"
+    },
+    {
+      "surface": "איה",
+      "gloss": "кайда"
+    },
+    {
+      "surface": "нא",
+      "gloss": "дешсин"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Элохими"
+    }
+  ],
+  "timestamp": "2026-10-05T16:20:29.665697912Z",
+  "model": "glm-5.3"
+}

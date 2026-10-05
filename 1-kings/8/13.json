@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 8:13",
+  "book": "1-kings",
+  "lang": "ky",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "בנה בניתי",
+      "rationale": "Инфинитив абсолют этвер менен этиштин кайраланышы — басым күчөтүү; кыргызча 'кууп курадым' деп берилди"
+    },
+    {
+      "kind": "hapax",
+      "subject": "זבל",
+      "rationale": "Зебул — 'жашоо орду, бийик жай' деген сонун сөз, бул жерде үйдүн наамы катары калтырылды"
+    },
+    {
+      "kind": "alternative",
+      "subject": "עולמים",
+      "rationale": "Көп санда 'түбөлүктөргө' — 'эбак — эбактарга' да мүмкүн"
+    }
+  ],
+  "translation": "Кууп чынында курадым Сен үчүн үй — зебул, турган жай, олтурган жериң, түбөлүктөргө.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "10ba86f01d7f4300c2161cb60d124891de103b54c4b9961008b499c1f1e86033",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-kings\/8\/13-16.1791208226184.json",
+    "code": "641241cf-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בנה",
+      "gloss": "кууп"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "курадым"
+    },
+    {
+      "surface": "בית",
+      "gloss": "үй"
+    },
+    {
+      "surface": "זבל",
+      "gloss": "зебул"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Сен үчүн"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "турган жай"
+    },
+    {
+      "surface": "לשבתך",
+      "gloss": "олтурган жериң"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "түбөлүктөргө"
+    }
+  ],
+  "timestamp": "2026-10-05T13:50:26.184627883Z",
+  "model": "glm-5.3"
+}

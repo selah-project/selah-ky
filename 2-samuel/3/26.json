@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 3:26",
+  "book": "2-samuel",
+  "lang": "ky",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "булак",
+      "rationale": "מבור 'чуңкур\/цистерна' деген сөз; 'булак' салттуу окуу, латынча 'кудуқ' да болот."
+    }
+  ],
+  "translation": "Жана Иоав Давиддин алдынан чыгып, Авнердин артынан элчилерди жөнөттү, алар ⟨את⟩ аны Сира булактан кайтарып алып келишти, ал эми Давид билген жок.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "5f79440de16903dc2230ce547381bfd1d19ec3c4958f5ce70272fd5c52758832",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-samuel\/3\/25-28.1791207409988.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "чыгып"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Иоав"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "алдынан"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давиддин"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "жөнөттү"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "элчилерди"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "артынан"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Авнердин"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "кайтарып алып келишти"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ аны",
+      "marks": "аны (Авнерди)"
+    },
+    {
+      "surface": "מבור",
+      "gloss": "Сира булактан"
+    },
+    {
+      "surface": "הסרה",
+      "gloss": "Сира"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "ал эми Давид"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "билген"
+    }
+  ],
+  "timestamp": "2026-10-05T13:36:49.989203226Z",
+  "model": "glm-5.3"
+}

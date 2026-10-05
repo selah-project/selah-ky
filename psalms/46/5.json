@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 46:5",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ийер",
+      "rationale": "еврейче 'шаар' сөзү менен байланыштырган 'жер' сөзү кошулду"
+    }
+  ],
+  "translation": "Дарыя — анын тарамдары Элохимдин шаарын кубантат, ыйык жерди, Эльондун Мишкандарын кубантат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "cb68144b53611ae5fffcd48d5663c80d179f8bc221b6909b7282ed527f016b73",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/46\/5-8.1791216094734.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נהר",
+      "gloss": "дарыя"
+    },
+    {
+      "surface": "פלגיו",
+      "gloss": "анын тарамдары"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "кубантат"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "шаарын"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохимдин"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ыйык"
+    },
+    {
+      "surface": "משכני",
+      "gloss": "Мишкандарын"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Эльондун"
+    }
+  ],
+  "timestamp": "2026-10-05T16:01:34.735305865Z",
+  "model": "glm-5.3"
+}

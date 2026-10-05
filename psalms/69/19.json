@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 69:19",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 69,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жан",
+      "rationale": "נפש 'жан' катары берилди; негизги мааниси — дем алуучу жандуулук, жашоо күчү"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גאלה \/ פדני",
+      "rationale": "Эки тамыр — 'тууган катары куткаруу' жана 'төлөп бошотуу' — бири-бирин толуктап турат"
+    }
+  ],
+  "translation": "Жанымага жакындап кел, аны куткар; душмандарымдын айынан мени бошот.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "3541448ad988430c7c0e9cd622498bc9ae204fe97471d965f9f45c6b53dceaea",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/69\/17-20.1791216465822.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קרבה",
+      "gloss": "жакындап кел"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…га"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "жаным"
+    },
+    {
+      "surface": "גאלה",
+      "gloss": "куткар"
+    },
+    {
+      "surface": "למען",
+      "gloss": "айынан"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "душмандарымдын"
+    },
+    {
+      "surface": "פדני",
+      "gloss": "бошот"
+    }
+  ],
+  "timestamp": "2026-10-05T16:07:45.823546451Z",
+  "model": "glm-5.3"
+}

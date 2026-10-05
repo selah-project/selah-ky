@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 102:26",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 102,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "לפנים",
+      "rationale": "Сөзөзүндөгү 'беттердин алдында' = 'мурда, байыркы убакта' идиома."
+    }
+  ],
+  "translation": "Мурда ⟨את⟩ жерди негиздедиң, жана асман колуңдун иши.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "813f0a78dff17f327da6e578f53b87e7c76a21a7b123ebcc3bd852a02d2b2f9d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/102\/25-28.1791216999275.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לפנים",
+      "gloss": "Мурда"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "жерди"
+    },
+    {
+      "surface": "יסדת",
+      "gloss": "негиздедиң"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "жана ... иши"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "колуңдун"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "асман"
+    }
+  ],
+  "timestamp": "2026-10-05T16:16:39.276038275Z",
+  "model": "glm-5.3"
+}

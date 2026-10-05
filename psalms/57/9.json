@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 57:9",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 57,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "ойгон",
+      "rationale": "Үч жолу кайталанган буйрук: аспаптарга жана таңга чакыруу"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עורה\/אעירה",
+      "rationale": "Ошол эле עור тамыры үч жолу — ойгон, ойгон, ойгот"
+    },
+    {
+      "kind": "crux",
+      "subject": "אעירה שחר",
+      "rationale": "Таңды ойготууму (таңга ырдоо) же эрте менен ойгонууму"
+    }
+  ],
+  "translation": "Ойгон, мактанымдыгым, ойгон, нивел ⟨жана⟩ киннор! Мен таңды ойготмоюн.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "88b234e884a18acd4462a9af204869aa65553829ce71268139fe7702a98395d7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/57\/9-12.1791216177398.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "ойгон"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "мактанымдыгым"
+    },
+    {
+      "surface": "עורה",
+      "gloss": "ойгон"
+    },
+    {
+      "surface": "הנבל",
+      "gloss": "невел"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "жана киннор"
+    },
+    {
+      "surface": "אעירה",
+      "gloss": "ойготмоюн"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "таңды"
+    }
+  ],
+  "timestamp": "2026-10-05T16:02:57.398639392Z",
+  "model": "glm-5.3"
+}

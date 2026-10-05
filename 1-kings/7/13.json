@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 7:13",
+  "book": "1-kings",
+  "lang": "ky",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "алып келди",
+      "rationale": "קח 'алды' — контекст боюнча 'алып келди' деп кеңейтилди"
+    }
+  ],
+  "translation": "Падыша Шеломо жөнөттү жана ⟨את⟩ Хирамды Цордо алып келди.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "7ebbcfcafde2ec3f44535ec4d5af3406182a8e9527a34f23a26eb69a3789fad1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-kings\/7\/13-16.1791208132669.json",
+    "code": "641241cf-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "жөнөттү"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "падыша"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шеломо"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "алып келди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Хирамды"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Хирамды"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "Цордо"
+    }
+  ],
+  "timestamp": "2026-10-05T13:48:52.670464926Z",
+  "model": "glm-5.3"
+}

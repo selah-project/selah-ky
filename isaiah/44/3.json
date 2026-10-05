@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 44:3",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אצק…אצק",
+      "rationale": "«Кую» этиши эки жолу кайталанат — суу менен рух бирдей «куюлат», параллелизм кыргызча сакталды."
+    },
+    {
+      "kind": "substitution",
+      "subject": "рух",
+      "rationale": "רוח — шамал\/дем\/Рух, бир сөз; кыргызча «рух» бүт маанилерди кармайт."
+    }
+  ],
+  "translation": "Анткени мен суу куям чолага, жана агымдарды кургак жерге; рухумду куям сенин үрөнүңө, жана батамды урпактарыңа.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "396a7e0731e46733a07176e845cda5d3659e60453e1af09ccec3d6171d89d04a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/44\/1-4.1791210206239.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "אצק",
+      "gloss": "куям"
+    },
+    {
+      "surface": "מים",
+      "gloss": "суу"
+    },
+    {
+      "surface": "על",
+      "gloss": "…байланышкан"
+    },
+    {
+      "surface": "צמא",
+      "gloss": "чолага"
+    },
+    {
+      "surface": "ונזלים",
+      "gloss": "жана агымдарды"
+    },
+    {
+      "surface": "על",
+      "gloss": "…байланышкан"
+    },
+    {
+      "surface": "יבשה",
+      "gloss": "кургак жерге"
+    },
+    {
+      "surface": "אצק",
+      "gloss": "куям"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "рухумду"
+    },
+    {
+      "surface": "על",
+      "gloss": "…байланышкан"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "сенин үрөнүңө"
+    },
+    {
+      "surface": "וברכתי",
+      "gloss": "жана батамды"
+    },
+    {
+      "surface": "על",
+      "gloss": "…байланышкан"
+    },
+    {
+      "surface": "צאצאיך",
+      "gloss": "урпактарыңа"
+    }
+  ],
+  "timestamp": "2026-10-05T14:23:26.240133840Z",
+  "model": "glm-5.3"
+}

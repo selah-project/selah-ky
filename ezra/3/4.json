@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 3:4",
+  "book": "ezra",
+  "lang": "ky",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "белгиленген сандагы",
+      "rationale": "במספר — курмандыктардын күн сайын саны белгиленген (Санжыра 29)"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יום ביום ... יום ביומו",
+      "rationale": "«Күн күнүнө» кайталоосу — үч жолу, күн сайындыкты баса белгилөө"
+    }
+  ],
+  "translation": "Жана алар жазылгандай ⟨את⟩ Кечелер майрамын өткөрүштү, жана күн сайын белгиленген сандагы өрт курмандыктарын — өкүм боюнча, ар бир күндүн ишин өз күнүндө аткарышты.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "1d66040f1b731ef9028b4cae650142809fe564e7ba8e19574869158ae90a5279",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ezra\/3\/1-4.1791221051835.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "өткөрүштү"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Кечелер майрамын"
+    },
+    {
+      "surface": "חג",
+      "gloss": "майрамын"
+    },
+    {
+      "surface": "הסכות",
+      "gloss": "Кечелер"
+    },
+    {
+      "surface": "ככתוב",
+      "gloss": "жазылгандай"
+    },
+    {
+      "surface": "ועלת",
+      "gloss": "жана өрт курмандыгын"
+    },
+    {
+      "surface": "יום",
+      "gloss": "күн сайын"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "күн"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "белгиленген сандагы"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "өкүм боюнча"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "иши"
+    },
+    {
+      "surface": "יום",
+      "gloss": "күндүн"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "өз күнүндө"
+    }
+  ],
+  "timestamp": "2026-10-05T17:24:11.837502371Z",
+  "model": "glm-5.3"
+}

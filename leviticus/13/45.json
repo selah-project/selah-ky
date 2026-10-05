@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "leviticus 13:45",
+  "book": "leviticus",
+  "lang": "ky",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "פרמים\/פרוע",
+      "rationale": "жыртылган кийим (פרמ) менен жайылган чач (פרוע) — эки окшош тамыр, кыргызча алымжешпейт"
+    },
+    {
+      "kind": "substitution",
+      "subject": "царааттуу",
+      "rationale": "צרוע — 'цараат менен сүргүлгөн'; 'жугуштуу оорулуу' деген анык эмес, анткени цараат — байыркы чечилбеген термин"
+    },
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "rationale": "относителдик байламта орунсуз болуп, түшүрүлдү"
+    }
+  ],
+  "translation": "Жана царааттуу адам — анын ичинде жара бар — кийимдери жыртылган болот, башынын чачы жайылып турат, үстүнкү эринин жаап алат жана: «Таза эмес! Таза эмес!» деп кыйкырат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "870586b47f6230994bde4f45ef558cae91c02be95bf41b34722dbe19c5b1c320",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/13\/45-48.1791203098458.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והצרוע",
+      "gloss": "жана царааттуу адам"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "בו",
+      "gloss": "анын ичинде"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "жара"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "кийимдери"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "болот"
+    },
+    {
+      "surface": "פרמים",
+      "gloss": "жыртылган"
+    },
+    {
+      "surface": "וראשו",
+      "gloss": "жана башынын"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "болот"
+    },
+    {
+      "surface": "פרוע",
+      "gloss": "чачы жайылып"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "жана үстүнө"
+    },
+    {
+      "surface": "שפם",
+      "gloss": "үстүнкү эринин"
+    },
+    {
+      "surface": "יעטה",
+      "gloss": "жаап алат"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "жана таза эмес"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "таза эмес"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "деп кыйкырат"
+    }
+  ],
+  "timestamp": "2026-10-05T12:24:58.459488738Z",
+  "model": "glm-5.3"
+}

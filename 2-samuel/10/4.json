@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 10:4",
+  "book": "2-samuel",
+  "lang": "ky",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "чатыштарына",
+      "rationale": "שֵׁתָה — адамдын отургуч жери, чат; «чатыш» деген сөз эң жакын сүрөт"
+    },
+    {
+      "kind": "hapax",
+      "subject": "מדויהם",
+      "rationale": "מַדְוֵיהֶם — кийим маанисинде бул форма Танахта сейрек учурайт"
+    }
+  ],
+  "translation": "Ошондо Ханун ⟨את⟩ Давиддин кулдарын кармап алды, ⟨את⟩ сакалдарынын жарымын кырды жана ⟨את⟩ кийимдерин ортосунан чатыштарына чейин кесип, аларды жөнөтүп жиберди.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "2664ed9f2af9c7265fae66198485abd1c13e29ff97b8c6860761edb035cf2d70",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-samuel\/10\/4-4.1791223819118.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "кармап алды"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "Ханун"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Давиддин кулдарын"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "кулдарын"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давиддин"
+    },
+    {
+      "surface": "ויגלח",
+      "gloss": "кырды"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сакалдарынын жарымын"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "жарымын"
+    },
+    {
+      "surface": "זקנם",
+      "gloss": "сакалдарынын"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "кесип"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "кийимдерин"
+    },
+    {
+      "surface": "מדויהם",
+      "gloss": "кийимдерин"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "ортосунан"
+    },
+    {
+      "surface": "עד",
+      "gloss": "чейин"
+    },
+    {
+      "surface": "שתותיהם",
+      "gloss": "чатыштарына"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "жөнөтүп жиберди"
+    }
+  ],
+  "timestamp": "2026-10-05T18:10:19.118948672Z",
+  "model": "glm-5.3"
+}

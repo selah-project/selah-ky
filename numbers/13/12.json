@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 13:12",
+  "book": "numbers",
+  "lang": "ky",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "уруу тизмеси",
+      "rationale": "Чабуулчулардын уруу боюнча тизмелениши."
+    },
+    {
+      "kind": "substitution",
+      "subject": "matteh → уруу",
+      "rationale": "למטה «таяк\/бутак» сөзү уруу маанисинде."
+    }
+  ],
+  "translation": "Дан уруусунан — Аммиэл, Гемаллинин уулу.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "d4f4e41b28025210266f7ab59e24d28b44e5452414612de979bf1d86cd9a9cd5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/numbers\/13\/9-12.1791203828300.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "уруусунан"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Дан"
+    },
+    {
+      "surface": "עמיאל",
+      "gloss": "Аммиэл"
+    },
+    {
+      "surface": "בן",
+      "gloss": "уулу"
+    },
+    {
+      "surface": "גמלי",
+      "gloss": "Гемаллинин"
+    }
+  ],
+  "timestamp": "2026-10-05T12:37:08.301053130Z",
+  "model": "glm-5.3"
+}

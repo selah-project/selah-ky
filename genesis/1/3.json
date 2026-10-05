@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 1:3",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יהי אור \/ ויהי אור",
+      "rationale": "Буйрук жана аткарылышы окшош конструкцияда кайталанат — стилистикалык окшоштук сакталды"
+    }
+  ],
+  "translation": "Жана Элохим айтты: Жарык болсун! Жана жарык болду.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "74811423b4ef720f67f63379fee8e2797e4ed37fb025781088bc80b89f4e564a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/1\/1-4.1791200743204.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Жана айтты"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "болсун"
+    },
+    {
+      "surface": "אור",
+      "gloss": "Жарык"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "Жана болду"
+    },
+    {
+      "surface": "אור",
+      "gloss": "жарык"
+    }
+  ],
+  "timestamp": "2026-10-05T11:45:43.205346605Z",
+  "model": "glm-5.3"
+}

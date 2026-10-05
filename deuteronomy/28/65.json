@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "deuteronomy 28:65",
+  "book": "deuteronomy",
+  "lang": "ky",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жан",
+      "rationale": "נפש — дем алуучу жандык, жан-күч; «жан» жакын, бирок толук эмес"
+    },
+    {
+      "kind": "hapax",
+      "subject": "דאבון",
+      "rationale": "Танахта ушул жерде гана кездешет — «сынык, аза тартуу»"
+    },
+    {
+      "kind": "addition",
+      "subject": "болбойт",
+      "rationale": "Ивритте «жана болбойт» этиши бар, кыргызча «эс алуу болбойт» катары түштү"
+    }
+  ],
+  "translation": "Жана ошол элдердин ичинде сен тынч албайсың, жана бутуңдун табанына эс алуу болбойт; жана Яхве сага ал жерде титиреген жүрөк, көздөрдүн солгулоосу жана жандын сыныгын берет.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "2dbf3d38fe4d3302548c486d3fb19d4227a82637b77044601e15319d29dca030",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/28\/65-68.1791205347578.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובגוים",
+      "gloss": "жана ошол элдердин ичинде"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "ошол"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "תרגיע",
+      "gloss": "тынч албайсың"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "жана жок"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "болбойт"
+    },
+    {
+      "surface": "מנוח",
+      "gloss": "эс алуу"
+    },
+    {
+      "surface": "לכף",
+      "gloss": "табаны"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "бутуңдун"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "жана берет"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "לך",
+      "gloss": "сага"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ал жерде"
+    },
+    {
+      "surface": "לב",
+      "gloss": "жүрөк"
+    },
+    {
+      "surface": "רגז",
+      "gloss": "титиреген"
+    },
+    {
+      "surface": "וכליון",
+      "gloss": "жана солгулоо"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "көздөрдүн"
+    },
+    {
+      "surface": "ודאבון",
+      "gloss": "жана сынык"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "жан"
+    }
+  ],
+  "timestamp": "2026-10-05T13:02:27.578873021Z",
+  "model": "glm-5.3"
+}

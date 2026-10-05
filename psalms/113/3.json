@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 113:3",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 113,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "күн чыккан жерден баткан жерге чейин",
+      "rationale": "Мейкиндик ченеми: чыгыштан батышка чейинки толук айланма."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הלל",
+      "rationale": "1-аяттагы הללו тамыры пассив формада кайрадан жаңырып, псалмдын алкагын байланыштырат."
+    }
+  ],
+  "translation": "Күн чыккан жерден күн баткан жерге чейин Яхвенин ысымы мактаалат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "c0852a409decb447994df9aa4fc3408b61805740d0bf14922ede1fbd76068fde",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/113\/1-4.1791217187581.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ממזרח",
+      "gloss": "чыккан жерден"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "күн"
+    },
+    {
+      "surface": "עד",
+      "gloss": "чейин"
+    },
+    {
+      "surface": "מבואו",
+      "gloss": "баткан жерге"
+    },
+    {
+      "surface": "מהלל",
+      "gloss": "мактаалат"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ысымы"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    }
+  ],
+  "timestamp": "2026-10-05T16:19:47.582928959Z",
+  "model": "glm-5.3"
+}

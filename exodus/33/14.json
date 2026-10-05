@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 33:14",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ал⟩",
+      "rationale": "Этиштин ээси контексттен (Яхве, 33:12) кыргызча айкын болсун деп кошулду."
+    },
+    {
+      "kind": "crux",
+      "subject": "פני",
+      "rationale": "«Жүзүм» же «Өз катышуум\/албеттем»: көпчүлүк котормолор «presence» деп алып, жүз деген сөздүн сүрөтүн жоготушат; бул жерде жүз катары сакталды."
+    }
+  ],
+  "translation": "Жана ⟨ал⟩ айтты: Менин жүзүм барып барат, жана сага тынчтык беремин.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "a50943af0ba1e4122df30205c0af43598c53a6af008cc33aa6af33a2c3f02d26",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/33\/13-16.1791202640312.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "жана айтты"
+    },
+    {
+      "surface": "פני",
+      "gloss": "жүзүм"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "барып барат"
+    },
+    {
+      "surface": "והנחתי",
+      "gloss": "жана тынчтык беремин"
+    },
+    {
+      "surface": "לך",
+      "gloss": "сага"
+    }
+  ],
+  "timestamp": "2026-10-05T12:17:20.313355139Z",
+  "model": "glm-5.3"
+}

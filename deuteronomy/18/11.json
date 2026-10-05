@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 18:11",
+  "book": "deuteronomy",
+  "lang": "ky",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "וחבר חבר",
+      "rationale": "Этиш менен зат атында бир тамыр кайталанат: «байлаган — бай»."
+    },
+    {
+      "kind": "crux",
+      "subject": "אוב",
+      "rationale": "«Көңдөй үн \/ териден жасалган идиш» дегенди билдирет: арув рух, аны чакыруучу же чакырылган өлүктүн руху деген окуулар бар."
+    },
+    {
+      "kind": "addition",
+      "subject": "(адам болбошу керек)",
+      "rationale": "Верс 10 дагы «табылбашы керек» айтылгандыктан тизмени улантып турат."
+    }
+  ],
+  "translation": "Жана сыйкырды байлаган, арув рухунан суроочу, билимдүү жана өлгөндөрдөн сураган (адам болбошу керек).",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "2d78e60d156a9819c1ba92c9c919e8d3bccb2a65f0cc314098737ff1131d3bb9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/18\/9-12.1791205074095.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וחבר",
+      "gloss": "жана байлаган"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "сыйкырды"
+    },
+    {
+      "surface": "ושאל",
+      "gloss": "сураган"
+    },
+    {
+      "surface": "אוב",
+      "gloss": "арув рухунан"
+    },
+    {
+      "surface": "וידעני",
+      "gloss": "билимдүү"
+    },
+    {
+      "surface": "ודרש",
+      "gloss": "сураган"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...дөн"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "өлгөрдөн"
+    }
+  ],
+  "timestamp": "2026-10-05T12:57:54.096743387Z",
+  "model": "glm-5.3"
+}

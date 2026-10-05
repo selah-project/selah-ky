@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 22:20",
+  "book": "job",
+  "lang": "ky",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "קימנו",
+      "rationale": "«биздин мал-мүлкүбүз» (KJV, Geneva) же «бизге каршы тургандар» (ASV, BSB) — экинчисин тандадым, анткени קים «каршы туруучу» деген мааниде."
+    },
+    {
+      "kind": "alternative",
+      "subject": "אם לא",
+      "rationale": "Риторикалык суроо («жок беле?») же бекитүү («албетте») катары да окулат."
+    }
+  ],
+  "translation": "«Бизге каршы тургандар жок кылынган жок беле? Алардын калганын от жеп койду.»",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "5604adf21904d7e7c69009cec48db614adb6fdd8e0cb30c73d57b097fca58d86",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/job\/22\/17-20.1791219003694.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "беле"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "נכחד",
+      "gloss": "жок кылынган"
+    },
+    {
+      "surface": "קימנו",
+      "gloss": "бизге каршы тургандар"
+    },
+    {
+      "surface": "ויתרם",
+      "gloss": "алардын калганын"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "жеп койду"
+    },
+    {
+      "surface": "אש",
+      "gloss": "от"
+    }
+  ],
+  "timestamp": "2026-10-05T16:50:03.695400367Z",
+  "model": "glm-5.3"
+}

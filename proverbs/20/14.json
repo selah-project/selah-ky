@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 20:14",
+  "book": "proverbs",
+  "lang": "ky",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "רע רע",
+      "rationale": "Эки жолу айтылган «жаман, жаман» — соодадагы түшүрүү айлакерлигин билдирет, кайталоо сакталды"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ал⟩",
+      "rationale": "לו «ал үчүн» — кыргызча этиштин субъектисиз калбас үчүн кошулду"
+    }
+  ],
+  "translation": "«Жаман, жаман!» — дейт сатып алуучу, бирок ал кеткенде анан мактанат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "e56e36a94c9352ec6af22904d780c48416026730c019a8961dbf9993ce4a97a3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/20\/13-16.1791218208851.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רע",
+      "gloss": "Жаман"
+    },
+    {
+      "surface": "רע",
+      "gloss": "жаман"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "дейт"
+    },
+    {
+      "surface": "הקונה",
+      "gloss": "сатып алуучу"
+    },
+    {
+      "surface": "ואזל",
+      "gloss": "кеткенде"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨ал⟩"
+    },
+    {
+      "surface": "אז",
+      "gloss": "анан"
+    },
+    {
+      "surface": "יתהלל",
+      "gloss": "мактанат"
+    }
+  ],
+  "timestamp": "2026-10-05T16:36:48.852416866Z",
+  "model": "glm-5.3"
+}

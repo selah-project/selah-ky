@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 89:50",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Адонайга",
+      "rationale": "Сынаган адам Элохимге түз кайрылат"
+    },
+    {
+      "kind": "substitution",
+      "subject": "хесед",
+      "rationale": "חסד — ырайым\/махаббат\/берилгендик бирге камтыган сөз; бир сөз бойдон калды"
+    }
+  ],
+  "translation": "Каякеда, Адонай, Сенин алгачкы хеседдериң, Давидге ант бергенсиң Өзүңдүн ишенимдүүлүгүң менен?",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "e3f51ecf2da9f0eb77773a7dae2e3cc21d1992659dc20733ce0fddece9ea6211",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/89\/49-52.1791216846971.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "איה",
+      "gloss": "каякеда"
+    },
+    {
+      "surface": "חסדיך",
+      "gloss": "хеседдериң"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "алгачкы"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "נשבעת",
+      "gloss": "ант бергенсиң"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давидге"
+    },
+    {
+      "surface": "באמונתך",
+      "gloss": "ишенимдүүлүгүң менен"
+    }
+  ],
+  "timestamp": "2026-10-05T16:14:06.971961900Z",
+  "model": "glm-5.3"
+}

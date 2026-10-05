@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 40:9",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Мишкан",
+      "rationale": "המשכן ысым бойдон сакталды, «чатыр» деп которулган жок"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שמן\/המשחה\/ומשחת",
+      "rationale": "май, майлоо, майло — бир тамырдын кайталанышы"
+    }
+  ],
+  "translation": "Жана сен майлоо майын алып, ⟨את⟩ Мишканды жана ⟨את⟩ анын ичиндеги нерселердин баарын майла, жана ⟨את⟩ аны жана ⟨את⟩ анын идиштеринин баарын ыйыктагын, жана ал ыйык болсун.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "8888f8bb1af7a7722eddddf8d16cadc26a223200a9093135e5d332c47d547d9c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/40\/9-12.1791202766428.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "алып"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "майлоо майын"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "майын"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "майлоо"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "майла"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Мишканды"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Мишканды"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "нерселердин баарын"
+    },
+    {
+      "surface": "כל",
+      "gloss": "баарын"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "нерселердин"
+    },
+    {
+      "surface": "בו",
+      "gloss": "анын ичиндеги"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "ыйыктагын"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ аны",
+      "marks": "Мишкан"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "жана ⟨את⟩",
+      "marks": "идиштеринин баарын"
+    },
+    {
+      "surface": "כל",
+      "gloss": "баарын"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "идиштеринин"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "болсун"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ыйык"
+    }
+  ],
+  "timestamp": "2026-10-05T12:19:26.429595600Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 32:28",
+  "book": "deuteronomy",
+  "lang": "ky",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "адашкан",
+      "rationale": "אבד — 'жоголуу, кыйроо'; бул жерде кеңештен адашкан, жок болгон деген мааниде"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨жок⟩",
+      "rationale": "װאין сөзү кыймылдык этишти талап кылат, кыргызча этиштик форма кошулду"
+    }
+  ],
+  "translation": "Себеби алар — кеңештен адашкан эл, алардын ичинде түшүнүк ⟨жок⟩.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "5eee989ab9d063abce5661352585aa997b11c25bb575e5ec62d8777b9ecd19de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/32\/28-28.1791223753760.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "себеби"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "эл"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "адашкан"
+    },
+    {
+      "surface": "עצות",
+      "gloss": "кеңештен"
+    },
+    {
+      "surface": "המה",
+      "gloss": "алар"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "жок"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "алардын ичинде"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "түшүнүк"
+    }
+  ],
+  "timestamp": "2026-10-05T18:09:13.761111271Z",
+  "model": "glm-5.3"
+}

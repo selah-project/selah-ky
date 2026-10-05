@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 29:4",
+  "book": "deuteronomy",
+  "lang": "ky",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "кырк жыл",
+      "rationale": "Чөлдөгү жүрүштүн убактысы санап берилет."
+    },
+    {
+      "kind": "elision",
+      "subject": "מעל ... רגלך",
+      "rationale": "«бутуңдан үстүңө» деген маани ийликке жутулуп, өзүнчө предлог калбады."
+    }
+  ],
+  "translation": "Жана Мен ⟨את⟩ силерди чөлдө кырк жыл бою алып жүрдүм: кийимдериңер силердин үстүңөрдөн эскиреген жок, жана бут кийимиң бутуңдан эскиреген жок.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "5234afd9c2a388a948bad7267e80da4ae8c3539e81794b134202fd7ab9ddf88f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/29\/1-4.1791205382879.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואולך",
+      "gloss": "жана алып жүрдүм"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "силерди"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "кырк"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "жыл"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "чөлдө"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "בלו",
+      "gloss": "эскиреген"
+    },
+    {
+      "surface": "שלמתיכם",
+      "gloss": "кийимдериңер"
+    },
+    {
+      "surface": "מעליכם",
+      "gloss": "үстүңөрдөн"
+    },
+    {
+      "surface": "ונעלך",
+      "gloss": "жана бут кийимиң"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "בלתה",
+      "gloss": "эскиреген"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "—"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "бутуңдан"
+    }
+  ],
+  "timestamp": "2026-10-05T13:03:02.880628895Z",
+  "model": "glm-5.3"
+}

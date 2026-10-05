@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 49:15",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Сионго",
+      "rationale": "Яхве Сионго түз кайрылат — «Мен сени унутпаймын»."
+    },
+    {
+      "kind": "idiom",
+      "subject": "боорундагы уулу",
+      "rationale": "בן בטנה кыпчыгырач «икOOдин уулу» эмес, ичтеги уул — эненин ички байланышын билдирет."
+    },
+    {
+      "kind": "addition",
+      "subject": "ала",
+      "rationale": "Суроо формасында танбанык мүчө «ала» кошулду, еврейче жок."
+    }
+  ],
+  "translation": "Аял өз эмизүүчү баласын, боорундагы уулун унута алабы? Алар унутса да, Мен сени унутпаймын.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "f8507b5336344870947ea6223c7afe9be6f6e98ab0819e3bb7226b34166eec1c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/49\/13-16.1791210282154.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "התשכח",
+      "gloss": "унута алабы"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "аял"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "өз эмизүүчү баласын"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "боорундагы"
+    },
+    {
+      "surface": "בן",
+      "gloss": "уулун"
+    },
+    {
+      "surface": "בטנה",
+      "gloss": "боорундагы"
+    },
+    {
+      "surface": "גם",
+      "gloss": "да"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "алар"
+    },
+    {
+      "surface": "תשכחנה",
+      "gloss": "унутса"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "Мен"
+    },
+    {
+      "surface": "לא",
+      "gloss": "унутпаймын — эмес"
+    },
+    {
+      "surface": "אשכחך",
+      "gloss": "сени унутпаймын"
+    }
+  ],
+  "timestamp": "2026-10-05T14:24:42.155410311Z",
+  "model": "glm-5.3"
+}

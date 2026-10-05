@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 2:10",
+  "book": "ezekiel",
+  "lang": "ky",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "алдыңкы жак \/ артыңкы жак",
+      "rationale": "פנים\/אחור Literally 'beti' жана 'arti' — китептин эки бетин билдирет"
+    },
+    {
+      "kind": "hapax",
+      "subject": "והי",
+      "rationale": "הֵי деген тамыр Танахта өтө сейрек кездешет — кайгынын үнү"
+    },
+    {
+      "kind": "mystery",
+      "subject": "тоголоктун мазмуну",
+      "rationale": "Кошок, күбүрөөн жана хей жазылган — жабык, оор мазмун, азыр ачылып жатат"
+    }
+  ],
+  "translation": "Жана ал ⟨את⟩ аны менин алдыма жайып берди, жана ал алдыңкы жактан да, артыңкы жактан да жазылган эле, ага кошоктор, күбүрөөн жана хей жазылган.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "cc10daeca51f883c05a4f8cc4af48ece0f0d91eadc10effd19d7ef1dcc52dc39",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ezekiel\/2\/9-10.1791212099060.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויפרש",
+      "gloss": "жайып берди"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "аны"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "менин алдыма"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "жана ал"
+    },
+    {
+      "surface": "כתובה",
+      "gloss": "жазылган эле"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "алдыңкы жак"
+    },
+    {
+      "surface": "ואחור",
+      "gloss": "артыңкы жак"
+    },
+    {
+      "surface": "וכתוב",
+      "gloss": "жазылган"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ага"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "кошоктор"
+    },
+    {
+      "surface": "והגה",
+      "gloss": "күбүрөөн"
+    },
+    {
+      "surface": "והי",
+      "gloss": "хей"
+    }
+  ],
+  "timestamp": "2026-10-05T14:54:59.061003340Z",
+  "model": "glm-5.3"
+}

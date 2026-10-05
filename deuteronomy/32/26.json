@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 32:26",
+  "book": "deuteronomy",
+  "lang": "ky",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אפאיהם",
+      "rationale": "Тамыры פאה «үйлөтүү, чачуу» деген сөз; KJV «бурчтарга чачуу», JPS «акырын чыгаруу» деп бөлүнөт — кыргызча булут жок, форма сакталды"
+    },
+    {
+      "kind": "substitution",
+      "subject": "адам баласынан",
+      "rationale": "מאנוש — «өлүмдүү адам» деген семиттик сөз, кыргызча бир сөз менен берилди"
+    }
+  ],
+  "translation": "Айттым: аларды үйлөтүп жиберейин, эстелгисин адам баласынан токтотойун.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "a2046fe3b11ea9c502e2e7d8265bbe8966693eca7340224edafd4c3ad9b1ab24",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/32\/26-27.1791223785329.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "айттым"
+    },
+    {
+      "surface": "אפאיהם",
+      "gloss": "аларды үйлөтүп жиберейин"
+    },
+    {
+      "surface": "אשביתה",
+      "gloss": "токтотойун"
+    },
+    {
+      "surface": "מאנוש",
+      "gloss": "адам баласынан"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "эстелгисин"
+    }
+  ],
+  "timestamp": "2026-10-05T18:09:45.330361792Z",
+  "model": "glm-5.3"
+}

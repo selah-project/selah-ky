@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 11:18",
+  "book": "deuteronomy",
+  "lang": "ky",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жан",
+      "rationale": "נפש — «дем алуучу жаны бар жандык», жүрөк-жан бир бүтүн адам"
+    },
+    {
+      "kind": "crux",
+      "subject": "טוטפת",
+      "rationale": "«маңдайгы байлам»; сөздүн так мааниси белгисиз — «белги» же «байлам»"
+    }
+  ],
+  "translation": "Жана бул ⟨את⟩ менин сөздөрүмдү жүрөктөрүңөргө жана жандарыңарга коюп, ⟨את⟩ аларды колуңарга белги кылып байлаңар, жана алар көздөрүңөрдүн ортосунда маңдай белгилери болсун.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "bf9d61cdcc33eb40cbcedb8fcff71a0bfb4b7a78d261f4da31f7e3eb3c487429",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/11\/17-20.1791204905407.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמתם",
+      "gloss": "жана коюп"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сөздөрүмдү"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "менин сөздөрүмдү"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "бул"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстүнө"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "жүрөктөрүңөргө"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "жана үстүнө"
+    },
+    {
+      "surface": "נפשכם",
+      "gloss": "жандарыңарга"
+    },
+    {
+      "surface": "וקשרתם",
+      "gloss": "жана байлаңар"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ аларды",
+      "marks": "аларды (сөздөрдү)"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "белги кылып"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстүнө"
+    },
+    {
+      "surface": "ידכם",
+      "gloss": "колуңарга"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "жана болсун"
+    },
+    {
+      "surface": "לטוטפת",
+      "gloss": "маңдай белгилери"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ортосунда"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "көздөрүңөрдүн"
+    }
+  ],
+  "timestamp": "2026-10-05T12:55:05.408667637Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ruth 4:1",
+  "book": "ruth",
+  "lang": "ky",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "פלני אלמני",
+      "rationale": "Hebrew 'so-and-so, such-a-one' — an unnamed-person formula, rendered 'мындай-мындай бирөө'"
+    },
+    {
+      "kind": "addition",
+      "subject": "эй",
+      "rationale": "Kyrgyz vocative particle added to make the address to the unnamed goel natural"
+    },
+    {
+      "kind": "you",
+      "subject": "гоэлге",
+      "rationale": "Boaz directly addresses the kinsman-redeemer with imperatives"
+    }
+  ],
+  "translation": "Боаз дарбазага чыгып, ошол жерде отурду; жана мына, Боаз сөзүн айткан гоэл өтүп бараткан. Ал ага айтты: Бери бурул да, мында отур, эй, мындай-мындай бирөө. Ал бурулду да, отурду.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "f9f10f41f90983eba33f5e91f718cbea656441d54503a322e36385173b5c96e6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ruth\/4\/1-4.1791219763260.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובעז",
+      "gloss": "Боаз"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "чыгып барды"
+    },
+    {
+      "surface": "השער",
+      "gloss": "дарбазага"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "отурду"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ошол жерде"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "жана мына"
+    },
+    {
+      "surface": "הגאל",
+      "gloss": "гоэл"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "өтүп бараткан"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ким жөнүндө"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сөзүн айткан"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Боаз"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "סורה",
+      "gloss": "бурул"
+    },
+    {
+      "surface": "שבה",
+      "gloss": "отур"
+    },
+    {
+      "surface": "פה",
+      "gloss": "мында"
+    },
+    {
+      "surface": "פלני",
+      "gloss": "мындай"
+    },
+    {
+      "surface": "אלמני",
+      "gloss": "мындай бирөө"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "бурулду"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "отурду"
+    }
+  ],
+  "timestamp": "2026-10-05T17:02:43.261590225Z",
+  "model": "glm-5.3"
+}

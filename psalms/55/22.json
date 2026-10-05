@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 55:22",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 55,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "מחמאות",
+      "rationale": "«майга окшогон таттуу сөз» — Танахта жалгыз ушул жерде кездешет"
+    },
+    {
+      "kind": "idiom",
+      "subject": "майдан жылмакай",
+      "rationale": "Ибрей ырдагы «жылмакайлык майлуу» салыштыруусу — сырткы жылмалуулук менен ички согуштун каршылыгы"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חלקו\/רכו",
+      "rationale": "«жылмакай» жана «жумшак» — эки катар сүрөт, суурулган кылыч менен аяктайт"
+    }
+  ],
+  "translation": "Анын оозу майдан жылмакай, бирок анын жүрөгү — согуш; анын сөздөрү жымышкан майдан жумшак, ал эми алар — суурулган кылычтар.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "90a7f7bda4c6f34dcd96227750125f62b893a19f5cf6317094f0adfe1d6f9133",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/55\/21-24.1791216224434.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חלקו",
+      "gloss": "жылмакай"
+    },
+    {
+      "surface": "מחמאות",
+      "gloss": "майга окшогон таттуулук"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "анын оозу"
+    },
+    {
+      "surface": "וקרב",
+      "gloss": "жүрөгүндө — согуш"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "жүрөгү"
+    },
+    {
+      "surface": "רכו",
+      "gloss": "жумшак"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "анын сөздөрү"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "майдан"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "ал эми алар"
+    },
+    {
+      "surface": "פתחות",
+      "gloss": "суурулган кылычтар"
+    }
+  ],
+  "timestamp": "2026-10-05T16:03:44.435704750Z",
+  "model": "glm-5.3"
+}

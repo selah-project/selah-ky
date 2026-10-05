@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 32:12",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "על שדים ספדים",
+      "rationale": "'Эмчектер үчүн көкүлөшөт' (KJV) же 'эмчектерине уруп көкүлөшөт' (JPS) — על介词дин эки окууусу."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ספדים",
+      "gloss": "көкүлөшөт",
+      "rationale": "Чач жулуп, көкүрөкке уруу — чыгыш азасы; кыргызча жалпы 'көкүлөө'."
+    }
+  ],
+  "translation": "Эмчектер үчүн көкүлөшөт, сүйкүмдүү талаалар үчүн, жемиш берген жүзүм үчүн.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "7c511c6a17fc7bd099fb8f980d19dbf99caba575bc91838a22dfe6706c83e9d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/32\/9-12.1791209862300.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "үчүн"
+    },
+    {
+      "surface": "שדים",
+      "gloss": "эмчектер"
+    },
+    {
+      "surface": "ספדים",
+      "gloss": "көкүлөшөт"
+    },
+    {
+      "surface": "על",
+      "gloss": "үчүн"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "талаалар"
+    },
+    {
+      "surface": "חמד",
+      "gloss": "сүйкүмдүү"
+    },
+    {
+      "surface": "על",
+      "gloss": "үчүн"
+    },
+    {
+      "surface": "גפן",
+      "gloss": "жүзүм"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "жемиш берген"
+    }
+  ],
+  "timestamp": "2026-10-05T14:17:42.301841665Z",
+  "model": "glm-5.3"
+}

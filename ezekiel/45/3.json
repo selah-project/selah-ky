@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 45:3",
+  "book": "ezekiel",
+  "lang": "ky",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "беш жыйырма миң × он миң",
+      "rationale": "Ыйык бөлүктүн өлчөмдөрү кайталанууда"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קדש קדשים",
+      "rationale": "Экинчи даражадагы ыйыктуулук — эврейче конструкция 'ыйыктардын ыйыгы' кыргызча бир сөзгө батпайт"
+    }
+  ],
+  "translation": "Жана ушул өлчөмдөн өлчөгүн: узундугу беш жыйырма миң, туурасы он миң; жана анда ыйык жай — ыйыктардын ыйыгы болсун.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "d65889b18cd215b82206e5e6ccdedc5594f811aa9044860e1b5c2340b0ab8cb0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ezekiel\/45\/1-4.1791213727535.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "жана ушул өлчөмдөн"
+    },
+    {
+      "surface": "המדה",
+      "gloss": "өлчөмдөн"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ушул"
+    },
+    {
+      "surface": "תמוד",
+      "gloss": "өлчөгүн"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "узундугу"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "беш"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "жыйырма"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "миң"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "туурасы"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "он"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "миң"
+    },
+    {
+      "surface": "ובו",
+      "gloss": "жана анда"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "болсун"
+    },
+    {
+      "surface": "המקדש",
+      "gloss": "ыйык жай"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ыйыктардын"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "ыйыгы"
+    }
+  ],
+  "timestamp": "2026-10-05T15:22:07.536630362Z",
+  "model": "glm-5.3"
+}

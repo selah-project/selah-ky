@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 4:10",
+  "book": "2-chronicles",
+  "lang": "ky",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מכתף הימנית קדמה",
+      "rationale": "«Оң ийиндин чыгыш тарабы» — KJV «чыгыш учунун оң тарабы», BSB «түштүк-чыгыш бурчу» деп болжолдойт; ивриттин сөз тизмеги так эмес жайгашкан."
+    },
+    {
+      "kind": "substitution",
+      "subject": "койду",
+      "rationale": "נתן көбүрөөк «берди\/жайгаштырды»; «койду» — жайгаштыруу маанисиндеги кыргызча адаттагы тандоо."
+    }
+  ],
+  "translation": "Жана ⟨את⟩ деңизди оң жак ийиндинин чыгыш тарабына, түштүктүн каршысына койду.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "6f61e0638e90538c0ef142914a2d9b4251cdb6abfc5adaea92b83287633cd3c4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-chronicles\/4\/9-12.1791222599420.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "жана ⟨את⟩",
+      "marks": "деңизди"
+    },
+    {
+      "surface": "הים",
+      "gloss": "деңизди"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "койду"
+    },
+    {
+      "surface": "מכתף",
+      "gloss": "ийининин"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "оң жак"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "чыгыш тарабына"
+    },
+    {
+      "surface": "ממול",
+      "gloss": "каршысына"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "түштүктүн"
+    }
+  ],
+  "timestamp": "2026-10-05T17:49:59.421650615Z",
+  "model": "glm-5.3"
+}

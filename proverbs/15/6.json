@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 15:6",
+  "book": "proverbs",
+  "lang": "ky",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חסן רב",
+      "rationale": "'байлык көп' же 'күч-кубат' — KJV эскири 'strength', башкалары 'treasure'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "булганыч",
+      "rationale": "נעכרת 'сууну лайга айланткан' — бузуу\/төңкөрүү сүрөтү"
+    }
+  ],
+  "translation": "Цедиктин үйүндө байлык көп, ал эми жаман адамдын кирешеси — булганыч.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "37c8f20d94c77a270694137ac827fa8a9cf240f9f27269f655d367465573d74f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/15\/5-8.1791218049195.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "үйүндө"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "цедиктин"
+    },
+    {
+      "surface": "חסן",
+      "gloss": "байлык"
+    },
+    {
+      "surface": "רב",
+      "gloss": "көп"
+    },
+    {
+      "surface": "ובתבואת",
+      "gloss": "ал эми ... кирешеси"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "жаман адамдын"
+    },
+    {
+      "surface": "נעכרת",
+      "gloss": "булганыч"
+    }
+  ],
+  "timestamp": "2026-10-05T16:34:09.196489429Z",
+  "model": "glm-5.3"
+}

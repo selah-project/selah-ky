@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "job 34:31",
+  "book": "job",
+  "lang": "ky",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жаза",
+      "rationale": "נשאתי 'көтөрдүм' — көтөрүлгөн нерсе текстте айтылбайт; котормолор 'жаза' же 'күнөө' деп толтурушат"
+    },
+    {
+      "kind": "crux",
+      "subject": "אחבל",
+      "rationale": "'байлам \/ бузуу' — KJV 'күнөө кылбайм', JPS 'күнөөлүү болсом да' деп эки башка окуйт"
+    }
+  ],
+  "translation": "Себеби Элге айтылган: Мен ⟨жазаны⟩ көтөрдүм, эми бузулушту улантпайм.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "32bf92ad5ff7e21a86bd4268cefa935960753f5a9cd2fc268e18e423684f0666",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/job\/34\/29-32.1791219362524.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "себеби"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…га"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эл"
+    },
+    {
+      "surface": "האמר",
+      "gloss": "айтылган"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "көтөрдүм"
+    },
+    {
+      "surface": "לא",
+      "gloss": "эмес"
+    },
+    {
+      "surface": "אחבол",
+      "gloss": "бузулушту улантпайм"
+    }
+  ],
+  "timestamp": "2026-10-05T16:56:02.525357951Z",
+  "model": "glm-5.3"
+}

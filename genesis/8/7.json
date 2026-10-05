@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 8:7",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "יצוא ושוב",
+      "rationale": "«чыгып жана кайтып» — кайталануучу кыймылды билдирүүчү инфинитив конструкциясы; «ал жер-жерди айланып жүрдү» деген да окуу бар"
+    },
+    {
+      "kind": "crux",
+      "subject": "кузгун кайтып келди бекен",
+      "rationale": "текст кузгун качан токтогонун айтпайт — «кургаганга чейин» жөнөтүүлөрдү же кыймылды билдире алат"
+    }
+  ],
+  "translation": "Жана ал ⟨את⟩ кузгунду жөнөттү, жана ал чыгып, кайтып турду — суулар жерден кургаганга чейин.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "bc3c4e86185114d3c4080e2c0c492babaed1b43f2104f7f381f4de0974f4f76f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/8\/5-8.1791200839134.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "жана жөнөттү"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "кузгунду"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "кузгунду"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "жана чыгып"
+    },
+    {
+      "surface": "יצוא",
+      "gloss": "чыккандай"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "кайтып турду"
+    },
+    {
+      "surface": "עד",
+      "gloss": "чейин"
+    },
+    {
+      "surface": "יבשת",
+      "gloss": "кургаганга"
+    },
+    {
+      "surface": "המים",
+      "gloss": "суулар"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "дан"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "жерден"
+    }
+  ],
+  "timestamp": "2026-10-05T11:47:19.135697228Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "daniel 1:16",
+  "book": "daniel",
+  "lang": "ky",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "המלצר",
+      "rationale": "Вавилон сарай кызматкери; аты катары (Мелцар) эмес, кызмат катары алынды"
+    },
+    {
+      "kind": "hapax",
+      "subject": "זרענים",
+      "rationale": "бул форма Танахта бир гана жерде кездешет — себилген өсүмдүк азыктары"
+    }
+  ],
+  "translation": "Жана сакчы алардын ⟨את⟩ тамактарын жана ичүүчү шарабын алып салды жана аларга өсүмдүк азыктарын берди.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "5067c7a39eaa2934fb4ef7273d34d8e92fb790d2e07d0b51cee22b89bdd7b5cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/daniel\/1\/13-16.1791220347030.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "жана болду"
+    },
+    {
+      "surface": "המלצר",
+      "gloss": "сакчы"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "алып салды"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "алардын тамактарын"
+    },
+    {
+      "surface": "פתבגם",
+      "gloss": "тамактарын"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "жана шарабын"
+    },
+    {
+      "surface": "משתיהם",
+      "gloss": "ичүүчү"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "берди"
+    },
+    {
+      "surface": "להם",
+      "gloss": "аларга"
+    },
+    {
+      "surface": "זרענים",
+      "gloss": "өсүмдүк азыктарын"
+    }
+  ],
+  "timestamp": "2026-10-05T17:12:27.031454540Z",
+  "model": "glm-5.3"
+}

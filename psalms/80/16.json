@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 80:16",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 80,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בן",
+      "rationale": "Ивритте жазылганы «уул»; бирок котормолордун көбү бул сөздү тамыр сөзү כנה менен теңдеп «бутак» деп алат — бул экөөнүн ортосундагы белгилүү талаш."
+    },
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "gloss": "Ысым «көчөттү» сөзүнөн кийинки өтмө мааниде экенини көрсөтөт; кыргызча айрым сөзгө бөлүнгөн эмес."
+    }
+  ],
+  "translation": "жана Өзүңдүн оң колуң отургузган көчөттү, жана Өзүң Өзүңө бекемдеген уулду.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "305be8c6480c8a9520b2ab6947204039b1c90193a757246ccd25c88ae28f7240",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/80\/13-16.1791216680505.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכנה",
+      "gloss": "жана көчөттү"
+    },
+    {
+      "surface": "אשер",
+      "gloss": ""
+    },
+    {
+      "surface": "נטעה",
+      "gloss": "отургузган"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "оң колуң"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "жана үстүнө"
+    },
+    {
+      "surface": "בן",
+      "gloss": "уулду"
+    },
+    {
+      "surface": "אמצתה",
+      "gloss": "бекемдеген"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Өзүңө"
+    }
+  ],
+  "timestamp": "2026-10-05T16:11:20.506484907Z",
+  "model": "glm-5.3"
+}

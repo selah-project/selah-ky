@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 3:25",
+  "book": "job",
+  "lang": "ky",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "פחד\/פחדתי",
+      "rationale": "Зат (коркуу) жана этиш (корктум) бир тамырдан — үндөштүк кыргызча бир аз сакталды"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ויאתיני",
+      "rationale": "Бул 'келди' эмес, 'жетип алды, туш болду' — кыргызча 'мага келди' деп жумшартылды"
+    }
+  ],
+  "translation": "Анткени коркуудан корктум, жана ал мага келди; эмнеден чочуганым болсо, ал мага келди.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "6e7764243e26ee22cc3f271ded1838f4fd052e8100db71fb5abfe64c7f891ec2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/job\/3\/25-26.1791218512442.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "коркуудан"
+    },
+    {
+      "surface": "פחדתי",
+      "gloss": "корктум"
+    },
+    {
+      "surface": "ויאתיני",
+      "gloss": "жана ал мага келди"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "эмнеден... болсо"
+    },
+    {
+      "surface": "יגרתי",
+      "gloss": "чочуганым"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ал... келди"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мага"
+    }
+  ],
+  "timestamp": "2026-10-05T16:41:52.443209439Z",
+  "model": "glm-5.3"
+}

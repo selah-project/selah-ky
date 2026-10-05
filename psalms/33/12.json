@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 33:12",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ал⟩",
+      "rationale": "Аныктооччү кыргызча талап кылат, еврейче жок."
+    },
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "rationale": "Салыштырма 'ал' эмес, кайра '— ... болгон' конструкциясы менен берилди."
+    }
+  ],
+  "translation": "Бакыттуу ⟨ал⟩ эл — Яхве анын Элохими болгон; ⟨ал⟩ калк Өзүнө мурас кылып тандаган.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "ec459b6d1061b212e6727725a9817f1cb65ce7e36288a40482e5131b10c94f0e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/33\/9-12.1791215794145.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "бакыттуу"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "эл"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "анын Элохими"
+    },
+    {
+      "surface": "העם",
+      "gloss": "калк"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "тандаган"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "мурас кылып"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Өзүнө"
+    }
+  ],
+  "timestamp": "2026-10-05T15:56:34.146699285Z",
+  "model": "glm-5.3"
+}

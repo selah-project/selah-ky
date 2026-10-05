@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 35:28",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "алып келишти",
+      "rationale": "Этиш алдында аягындагы 27-аяттан уланып келет; кыргыз сүйлөмү этишти талап кылганы үчүн кошулду."
+    },
+    {
+      "kind": "substitution",
+      "subject": "קטרת",
+      "rationale": "«түтөтүү, күйгүзүү» — жыпар заттарды күйгүзүү маанисинде."
+    }
+  ],
+  "translation": "Жана ⟨את⟩ жыпар заттарды жана ⟨את⟩ майдалар жыпар заттар үчүн, майлоо майы үчүн жана жыпар тамырлардын күйгүзүлө турган майы үчүн алып келишти.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "9bfee707a3aadb4d0f766b8030ffa0c068b883e12485322e31b4d79248048805",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/35\/25-28.1791202645134.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Жана ⟨את⟩",
+      "marks": "жыпар заттарды"
+    },
+    {
+      "surface": "הבשם",
+      "gloss": "жыпар заттар"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "жана ⟨את⟩",
+      "marks": "майдалар"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "май"
+    },
+    {
+      "surface": "لמאור",
+      "gloss": "жарык үчүн"
+    },
+    {
+      "surface": "ולשמן",
+      "gloss": "жана майы үчүн"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "майлоо"
+    },
+    {
+      "surface": "ולקטרת",
+      "gloss": "жана күйгүзүлүүчү жыпар үчүн"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "жыпар заттардын"
+    }
+  ],
+  "timestamp": "2026-10-05T12:17:25.136745491Z",
+  "model": "glm-5.3"
+}

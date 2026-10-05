@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 4:5",
+  "book": "hosea",
+  "lang": "ky",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "כשל ... כשל",
+      "rationale": "«тайып жыгылуу» эки жолу кайталанат — күндүз жана түн ичинде кулаган эңсөө, кыргызча кайталоо сакталды"
+    },
+    {
+      "kind": "substitution",
+      "subject": "энең",
+      "rationale": "אֵם «эне» — бул жерде элдин (Йисраэлдин) энелери ишенимди билдирет, бирок сөз өз кейпинде калды"
+    }
+  ],
+  "translation": "Сен бүгүн тайып жыгыласың, жана түн ичинде пайгамбар да сени менен тайып жыгылат, жана Мен сенин энеңди жок кылам.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "fcd5788ab055d9294abff3c4200c82b21c63ecbceaaaa619eb0df534fb0b6119",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/hosea\/4\/5-8.1791213872034.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכשלת",
+      "gloss": "тайып жыгыласың"
+    },
+    {
+      "surface": "היום",
+      "gloss": "бүгүн"
+    },
+    {
+      "surface": "וכשל",
+      "gloss": "жана ... тайып жыгылат"
+    },
+    {
+      "surface": "גם",
+      "gloss": "да"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "пайгамбар"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "сени менен"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "түн ичинде"
+    },
+    {
+      "surface": "ודמיתי",
+      "gloss": "жана Мен ... жок кылам"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "энеңди"
+    }
+  ],
+  "timestamp": "2026-10-05T15:24:32.035096142Z",
+  "model": "glm-5.3"
+}

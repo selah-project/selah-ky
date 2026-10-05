@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 63:4",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 63,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ошондуктан",
+      "rationale": "Еврей текстте байланыш сөз жок; маани байламы кыргызча кошулду"
+    }
+  ],
+  "translation": "Анткени Сенин хеседең өмүрдөн жакшыраак — ошондуктан эриндерим Сени даңктайт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "dc79e24376d86015fac8a97b52f20ca2365d9ec20f1fd7deb0321802bda5c305",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/63\/1-4.1791216358787.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Анткени"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "жакшыраак"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "хеседең"
+    },
+    {
+      "surface": "מחיים",
+      "gloss": "өмүрдөн"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "эриндерим"
+    },
+    {
+      "surface": "ישבחונך",
+      "gloss": "Сени даңктайт"
+    }
+  ],
+  "timestamp": "2026-10-05T16:05:58.788523353Z",
+  "model": "glm-5.3"
+}

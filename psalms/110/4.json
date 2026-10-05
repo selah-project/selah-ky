@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 110:4",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 110,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨сун⟩",
+      "rationale": "Еврей текстте «жок» деген этиштин аты жок — «жана тайбайт» деп кошулду"
+    },
+    {
+      "kind": "crux",
+      "subject": "Малки-Цедектин тартиби боюнча",
+      "rationale": "על דברתי — «буйругу боюнча», «тартиби боюнча» же «сөзү боюнча»; дибра сөзүнүн так мааниси талаштуу"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "малки-цедек",
+      "rationale": "«Цедектин падышасы» — аттын өзүндө падыша+цедек (адилеттүүлүк) айкашып турат"
+    },
+    {
+      "kind": "you",
+      "subject": "сен",
+      "rationale": "Яхвенин ант тикелей үндөлгөн адамга айтылат"
+    }
+  ],
+  "translation": "Яхве ант берген жана тайбайт: «Сен түбөлүккө ыйык кызмат кылуучусуң, Малки-Цедектин тартиби боюнча».",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "a9fc14d6108c4830e16e28557f49cfef27112e6db4f52b942264cdbdb7d92645",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/110\/1-4.1791217240374.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "ант берген"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "жана жок"
+    },
+    {
+      "surface": "ינחם",
+      "gloss": "тайбайт"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "сен"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "ыйык кызмат кылуучусуң"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "түбөлүккө"
+    },
+    {
+      "surface": "על",
+      "gloss": "боюнча"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "тартиби"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Малки-"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "Цедектин"
+    }
+  ],
+  "timestamp": "2026-10-05T16:20:40.375295550Z",
+  "model": "glm-5.3"
+}

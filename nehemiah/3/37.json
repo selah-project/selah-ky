@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "nehemiah 3:37",
+  "book": "nehemiah",
+  "lang": "ky",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "על",
+      "rationale": "Ивриттеги 'жабуу' этишиминин 'үстүнө' деген байланыштыры кыргызча табигый чыгуу үчүн түшүрүлдү"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨Сени⟩",
+      "rationale": "הכעיסо этишиминин объектиси ивритте аталбайт, кыргызча аныктоо үчүн кошулду"
+    },
+    {
+      "kind": "you",
+      "subject": "Яхвеге",
+      "rationale": "Аят — дубал куруучулардын душмандары жөнүндө Яхвеге багышталган тилеке"
+    }
+  ],
+  "translation": "Алардын кароосуздугун жаппа, алардын күнөөсүн Өз алдыңдан өчүрүп салба, анткени алар куруучулардын алдында ⟨Сени⟩ каарландырышты.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "97d6c9fdbf6da73c636b752818484804bfb950050ba172f69c81a76bfd5b4b52",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/nehemiah\/3\/37-38.1791221289387.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "жана ... -ба"
+    },
+    {
+      "surface": "תכס",
+      "gloss": "жаппа"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "עונם",
+      "gloss": "алардын кароосуздугун"
+    },
+    {
+      "surface": "וחטאתם",
+      "gloss": "жана алардын күнөөсүн"
+    },
+    {
+      "surface": "מלפניך",
+      "gloss": "Өз алдыңдан"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ба"
+    },
+    {
+      "surface": "תמחה",
+      "gloss": "өчүрүп салба"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "הכעיסו",
+      "gloss": "каарландырышты"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "алдында"
+    },
+    {
+      "surface": "הבונים",
+      "gloss": "куруучулардын"
+    }
+  ],
+  "timestamp": "2026-10-05T17:28:09.387753724Z",
+  "model": "glm-5.3"
+}

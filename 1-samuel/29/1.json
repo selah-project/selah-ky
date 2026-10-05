@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 29:1",
+  "book": "1-samuel",
+  "lang": "ky",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "בעין",
+      "rationale": "ין 'көз' деген сөз 'булак' маанисинде — көлдүн көзү; кыргызча 'булак' деп алынды"
+    }
+  ],
+  "translation": "Жана пелиштилер ⟨את⟩ бардык лагерлерин Апекке чогултту, ал эми Йисраэл Йизреэлдеги булактын жанында лагер күтүп жатышты.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "c2bc929b6b7c2e396214a29b79bc84ec6684118f9246669442d8c70ca726f997",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-samuel\/29\/1-4.1791207239228.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "чогултту"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "пелиштилер"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "бардык лагерлерин"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бардык"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "лагерлерин"
+    },
+    {
+      "surface": "אפקה",
+      "gloss": "Апекке"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "ал эми Йисраэл"
+    },
+    {
+      "surface": "חנים",
+      "gloss": "лагер күтүп жатышты"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "булактын жанында"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "жайгашкан"
+    },
+    {
+      "surface": "ביזרעאל",
+      "gloss": "Йизреэлдеги"
+    }
+  ],
+  "timestamp": "2026-10-05T13:33:59.229076908Z",
+  "model": "glm-5.3"
+}

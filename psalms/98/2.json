@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 98:2",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 98,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": " Kutkaruu",
+      "rationale": "יְשׁוּעָה — куткаруу, жардам, жеңиш; кыргызча бир сөз менен берилди"
+    },
+    {
+      "kind": "substitution",
+      "subject": "цедек",
+      "rationale": "צֶדֶק\/צְדָקָה — D2 боюнча которулбайт, цедек деп алынды"
+    },
+    {
+      "kind": "addition",
+      "subject": "Өзүнүн",
+      "rationale": "Еврейче мүчө -ו Possessive кыргызча толук ат аоший эмес, атооч менен берилди"
+    }
+  ],
+  "translation": "Яхве Өзүнүн куткаруусун билди; элдердин көз алдында Өзүнүн цедегин ачты.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "21c2e07fbebf2ce78d3f7a11c17cfcc58427b0aa6074eaee8447cf6d1822cbde",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/98\/2-3.1791224489254.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הודיע",
+      "gloss": "билди"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ישועתו",
+      "gloss": "Өзүнүн куткаруусун"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "көз алдында"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "элдердин"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "ачты"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "Өзүнүн цедегин"
+    }
+  ],
+  "timestamp": "2026-10-05T18:21:29.254619710Z",
+  "model": "glm-5.3"
+}

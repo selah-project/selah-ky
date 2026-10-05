@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 20:2",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "—",
+      "rationale": "Кыргызча атоочтук тизмекте копула талап кылат, еврейче жок"
+    },
+    {
+      "kind": "you",
+      "subject": "Израильге",
+      "rationale": "Декалогдун биринчи буйругу — сенин деп тикелей кайрылуу"
+    }
+  ],
+  "translation": "Мен — Яхве, сенин Элохимиң, сени Мицрайим жеринен, кулдар үйүнөн алып чыкканым.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "69a775fb3ec2f7e067ade54b76e564d770df72874c6f1c38229a2acf4d17d8ee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/20\/1-4.1791202218149.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Мен"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "сенин Элохимиң"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…каным"
+    },
+    {
+      "surface": "הוצאתיך",
+      "gloss": "алып чыккан"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "жеринен"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицрайим"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "үйүнөн"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "кулдар"
+    }
+  ],
+  "timestamp": "2026-10-05T12:10:18.150439070Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joel 1:4",
+  "book": "joel",
+  "lang": "ky",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "газам\/арбе\/йелек\/хасил",
+      "rationale": "чегирткенин төрт аталышыбы же өсүп жаткан чегирткенин төрт баскычыбы — котормочулар бөлүнөт; аты боюнча калдырылды"
+    },
+    {
+      "kind": "hapax",
+      "subject": "גזם (газам)",
+      "rationale": "бул сөз Танахта ушул жерде жана 2:25 тe гана кездешет"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יתר…אכל кайталоосу",
+      "rationale": "калганын-жеди деген эки сөздүн үч жолу кайталанышы — толук жутуу.themeасын үч баскычта куруйт"
+    }
+  ],
+  "translation": "Газамдын калганын арбе жеди, жана арбенин калганын йелек жеди, жана йелектин калганын хасил жеди.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "45ec4144656b393b5be42ca51f70630482d559c7d6c577947af9d11450d8110e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/joel\/1\/1-4.1791214087862.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יתר",
+      "gloss": "калганын"
+    },
+    {
+      "surface": "הגזם",
+      "gloss": "Газамдын"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "жеди"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "арбе"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "жана …калганын"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "арбенин"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "жеди"
+    },
+    {
+      "surface": "הילק",
+      "gloss": "йелек"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "жана …калганын"
+    },
+    {
+      "surface": "הילק",
+      "gloss": "йелектин"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "жеди"
+    },
+    {
+      "surface": "החסיל",
+      "gloss": "хасил"
+    }
+  ],
+  "timestamp": "2026-10-05T15:28:07.863183086Z",
+  "model": "glm-5.3"
+}

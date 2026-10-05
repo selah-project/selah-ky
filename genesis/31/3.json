@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 31:3",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "кайтып бар",
+      "rationale": "Яхвенин Яаковко тике буйругу — чакыруу"
+    },
+    {
+      "kind": "you",
+      "subject": "Яаковко",
+      "rationale": "Яхве Яаковко тике кайрылат"
+    },
+    {
+      "kind": "substitution",
+      "subject": "сеники боломун",
+      "rationale": "עמך буквалдуу «сенин менен» — кыргызча «Мен сенин жаныңда боломун»"
+    }
+  ],
+  "translation": "Яхве Яаковко айтты: «Аталарыңдын жерине жана туулган жериңе кайтып бар, жана Мен сеники боломун».",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "c18f01c20658d1d3b1531353c17f2891c1d965ede789c4d16e8a7a36b2fe9e11",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/31\/1-4.1791201373458.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ко"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаков"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "кайтып бар"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ине"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "жерине"
+    },
+    {
+      "surface": "אבותיך",
+      "gloss": "аталарыңдын"
+    },
+    {
+      "surface": "ולמולדתך",
+      "gloss": "жана туулган жериңе"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "жана боломун"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "сеники"
+    }
+  ],
+  "timestamp": "2026-10-05T11:56:13.459905160Z",
+  "model": "glm-5.3"
+}

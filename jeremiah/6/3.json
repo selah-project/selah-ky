@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 6:3",
+  "book": "jeremiah",
+  "lang": "ky",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "койчулар",
+      "rationale": "жауifty баскынчылар койчулар образында сүрөттөлөт — образ сакталды."
+    },
+    {
+      "kind": "idiom",
+      "subject": "колун жайып жейт",
+      "rationale": "еврейче 'өз колу менен жейт' — өз бөлүгүндө отоо чабат деген идиома."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רעים\/רעו",
+      "rationale": "койчу (רֹעִים) жана жамандык (רַע) үндөштүгү — текстте сакталбайт."
+    }
+  ],
+  "translation": "Ага койчулар келет, алардын үйүрлөрү менен; айланасына чатыларды тигишет, ар бир адам ⟨את⟩ колун жайып жейт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "ce034e7494189da34e25a48e89a75395785afb3971c68b39f0f17df39daea6da",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/jeremiah\/6\/1-4.1791210811161.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אליה",
+      "gloss": "Ага"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "келет"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "койчулар"
+    },
+    {
+      "surface": "ועדריהם",
+      "gloss": "алардын үйүрлөрү менен"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "тигишет"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "айланасына"
+    },
+    {
+      "surface": "אהלים",
+      "gloss": "чатыларды"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "тегерек"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "жейт"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ар бир адам"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "колун"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "колун"
+    }
+  ],
+  "timestamp": "2026-10-05T14:33:31.162129370Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 144:15",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 144,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אשרי העם",
+      "rationale": "'Бактылуу эл' сабы эки жолу кайталанат — псалмдын аягындагы параллелизм"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אשרי",
+      "rationale": "'бактылуу' — еврейче 'ашрей' тушундүрүү сөзү, 'канча бактылуу!' деген кыйкырык"
+    }
+  ],
+  "translation": "Бактылуу ошондой эл — мына ушундай абалда; бактылуу ал эл, анын Элохими Яхве.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "03ec3eb36db4f12f8b8d9b5531d39acebaed495ef25298a17ffb668739be92ee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/144\/13-15.1791217638533.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Бактылуу"
+    },
+    {
+      "surface": "העם",
+      "gloss": "эл"
+    },
+    {
+      "surface": "שככה",
+      "gloss": "мына ушундай абалда"
+    },
+    {
+      "surface": "לו",
+      "gloss": "анын"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "бактылуу"
+    },
+    {
+      "surface": "העם",
+      "gloss": "эл"
+    },
+    {
+      "surface": "שיהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Элохими"
+    }
+  ],
+  "timestamp": "2026-10-05T16:27:18.534529074Z",
+  "model": "glm-5.3"
+}

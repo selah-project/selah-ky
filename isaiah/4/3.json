@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 4:3",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "адам",
+      "rationale": "еврей тилинде субстантивдик эмес participди түшүндүрүү үчүн кыргыз тилинде атооч талап кылынат"
+    },
+    {
+      "kind": "measurement",
+      "subject": "жашоого жазылгандар",
+      "rationale": "жаштардын китебине киргизилгендерди эсептөө-каттоо"
+    }
+  ],
+  "translation": "Жана болот: Цийондо калган жана Йерушалайимде артта калган ⟨адам⟩ ыйык деп аталат — Йерушалайимде жашоого жазылгандардын баары.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "a19b5c914eb955c63f4e3e304528e109f58632fa94e03c8925e5bd87525337a8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/4\/1-4.1791209439461.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "жана болот"
+    },
+    {
+      "surface": "הנשאר",
+      "gloss": "калган"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "Цийондо"
+    },
+    {
+      "surface": "והנותר",
+      "gloss": "артта калган"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Йерушалайимде"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "ыйык"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "аталат"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨ал⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "баары"
+    },
+    {
+      "surface": "הכתוב",
+      "gloss": "жазылган"
+    },
+    {
+      "surface": "לחיים",
+      "gloss": "жашоого"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Йерушалайимде"
+    }
+  ],
+  "timestamp": "2026-10-05T14:10:39.462482229Z",
+  "model": "glm-5.3"
+}

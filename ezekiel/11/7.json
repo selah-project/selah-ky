@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 11:7",
+  "book": "ezekiel",
+  "lang": "ky",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨бул⟩",
+      "rationale": "еврейче атоочтук тамга жок; кыргызча билдирүү үчүн кошулду"
+    },
+    {
+      "kind": "alternative",
+      "subject": "הוציא",
+      "rationale": "этиштин жөнөкөй пассиви («сиздер чыгарыласыңар», KJV\/ASV сыяктуу) — бул жерде актив формасы тандылды"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "казан\/эт",
+      "rationale": "Эзекиил 11:3 дөгө тамаша кайрылып, Яхве аны тескери буруп жатат: казандын ичиндеги эт — өлтүрүлгөндөр"
+    }
+  ],
+  "translation": "Ошондуктан мыни айтты Адонай Яхве: анын ичине койгон өлтүрүлгөндөрүңөр — алар ⟨бул⟩ эт, ал эми ал ⟨бул⟩ казан; ал эми сиздерди ⟨את⟩ анын ичинен чыгарамын.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "9479fba0d70351b7b878e681557005729a0aad4369cf9b312c7147adaac4315c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ezekiel\/11\/5-8.1791212241894.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "ошондуктан"
+    },
+    {
+      "surface": "כה",
+      "gloss": "мыни"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "חלליכם",
+      "gloss": "өлтүрүлгөндөрүңөр"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "кимдерди"
+    },
+    {
+      "surface": "שמתם",
+      "gloss": "койгонсуңар"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "анын ичине"
+    },
+    {
+      "surface": "המה",
+      "gloss": "алар"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "эт"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "жана ал"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "казан"
+    },
+    {
+      "surface": "ואתכם",
+      "gloss": "⟨את⟩",
+      "marks": "сиздерди"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "чыгарамын"
+    },
+    {
+      "surface": "מתוכה",
+      "gloss": "анын ичинен"
+    }
+  ],
+  "timestamp": "2026-10-05T14:57:21.895366186Z",
+  "model": "glm-5.3"
+}

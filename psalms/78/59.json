@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "psalms 78:59",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨буларды⟩",
+      "rationale": "Ивритте 'укту' деп гана турат — эмне укканы мурунку аяттан келет."
+    },
+    {
+      "kind": "crux",
+      "subject": "өтө",
+      "rationale": "מאד 'өтө' — айтылышы 56-аяттагы 'Элион' (бийик) деген атка жакын үндалат: алар бийикти каардантты, Ал абдан жек көрдү."
+    }
+  ],
+  "translation": "Элохим ⟨буларды⟩ укту жана өтө ачууланды, жана Йисраэлди өтө жек көрүп түшүрдү:",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "799f7f342bb4b72181309fa0186dcf0126b45a2bd21c21bd6ec1bba169c44022",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/78\/57-60.1791216615494.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "укту"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "ויתעבר",
+      "gloss": "ачууланды"
+    },
+    {
+      "surface": "וימאס",
+      "gloss": "жек көрүп түшүрдү"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "өтө"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Йисраэлди"
+    }
+  ],
+  "timestamp": "2026-10-05T16:10:15.495233620Z",
+  "model": "glm-5.3"
+}

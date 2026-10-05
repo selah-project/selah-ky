@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 125:5",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 125,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "алып барат",
+      "rationale": "יוליכם: 'алар менен кошуп айдайт' же 'аларды арам иш кылгандардын катарына кошот' — байланыштын так жери орусуу."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עקלкלותם",
+      "rationale": "עקלקלות — кайталануучу тамыр, 'ийри-буйру' үн угулушу; кыргызча айкүңгөй деген сөз ойнотууну кармай албайт."
+    },
+    {
+      "kind": "addition",
+      "subject": "болсун",
+      "rationale": "Шаломдун тилек формасы кыргызча айтылыш үчүн кошулду."
+    }
+  ],
+  "translation": "Ал эми өз айкүңгөй жолдоруна бурулгандарды Яхве ⟨את⟩ арам иш кылгандар менен бирге алып барат — Йисраэл үстүнө тынчтык болсун.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "77e57cbb0eefeb92bde67babb3a747e55bb582fbf55cbe4469e75c45d3504480",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/125\/5-5.1791217417187.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והמטים",
+      "gloss": "бурулгандарды"
+    },
+    {
+      "surface": "עקלקלותם",
+      "gloss": "айкүңгөй жолдоруна"
+    },
+    {
+      "surface": "יוליכם",
+      "gloss": "алып барат"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "арам иш кылгандар"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "иш кылгандар"
+    },
+    {
+      "surface": "האון",
+      "gloss": "арам"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "тынчтык"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстүнө"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэл"
+    }
+  ],
+  "timestamp": "2026-10-05T16:23:37.187870579Z",
+  "model": "glm-5.3"
+}

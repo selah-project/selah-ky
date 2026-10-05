@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 4:1",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "забуру",
+      "rationale": "מזמור — аспап менен аткарылуучу ыр, «забур» салттуу аталыш катары алынды"
+    }
+  ],
+  "translation": "Которуучуга, чыналтуу аспаптары менен, Давидтин забуру.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "8c174a185ab4aa0e751ac7befed73883264b6c3469270b59a657583123ea5fff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/4\/1-4.1791215350526.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Которуучуга"
+    },
+    {
+      "surface": "בנגינות",
+      "gloss": "чыналтуу аспаптары менен"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "забур"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давидтин"
+    }
+  ],
+  "timestamp": "2026-10-05T15:49:10.527322250Z",
+  "model": "glm-5.3"
+}

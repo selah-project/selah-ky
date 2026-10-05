@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 31:7",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "השמרים הבלי שוא",
+      "rationale": "Буквально «сактоочулар жалган бекер нерселерди» — бош нерселерге тартылгандар; дагы бир окуу: «сактоочулар» = кудайлардын өзү"
+    }
+  ],
+  "translation": "Мен жалган бекер нерселерди кармангандарды жек көрдүм, ал эми мен Яхвеге ишендим.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "321aab05eaa32e5b93f1892e7168168f80579fbe726107436a18f8a237a6a21d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/31\/5-8.1791215760547.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שנאתי",
+      "gloss": "жек көрдүм"
+    },
+    {
+      "surface": "השמרים",
+      "gloss": "кармангандарды"
+    },
+    {
+      "surface": "הבלי",
+      "gloss": "бекер нерселерди"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "жалган"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ал эми мен"
+    },
+    {
+      "surface": "אל",
+      "gloss": "жакка"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "ишендим"
+    }
+  ],
+  "timestamp": "2026-10-05T15:56:00.548549039Z",
+  "model": "glm-5.3"
+}

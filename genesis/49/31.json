@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 49:31",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שמה ... שמה ... ושמה",
+      "rationale": "Үч жолу кайталанган 'ошол жерде' — ритмдик кайрылуу, кыргызча да кайталанган сакталды"
+    },
+    {
+      "kind": "addition",
+      "subject": "алар",
+      "rationale": "קברו этиши 3-жаң. көп сандагы жүрүмдүү форма — кыргызча 'алар' субъекти талап кылат"
+    }
+  ],
+  "translation": "Ошол жерде алар ⟨את⟩ Аврахамды жана ⟨את⟩ аялы Сараны койдулар; ошол жерде алар ⟨את⟩ Йицхакты жана ⟨את⟩ аялы Ривканы койдулар; жана ошол жерде мен ⟨את⟩ Леаны койдум.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "a33527899d60e9fdd3d1c851099961a8f996658e25a20fc2b16ee53ed9aa957a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/49\/29-32.1791201815968.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "ошол жерде"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "койдула"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Аврахамды"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Аврахамды"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "жана ⟨את⟩",
+      "marks": "Сараны"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Сараны"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "аялы"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ошол жерде"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "койдула"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Йицхакты"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Йицхакты"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "жана ⟨את⟩",
+      "marks": "Ривканы"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Ривканы"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "аялы"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "жана ошол жерде"
+    },
+    {
+      "surface": "קברתי",
+      "gloss": "мен койдум"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Леаны"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Леаны"
+    }
+  ],
+  "timestamp": "2026-10-05T12:03:35.969936502Z",
+  "model": "glm-5.3"
+}

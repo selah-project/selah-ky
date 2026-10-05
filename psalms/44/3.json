@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 44:3",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ותטעם жөнүндө",
+      "rationale": "Ким отургузулду: элдер ( KJV «plantedst them» — Ысраэлди) же башка элдер? Контекст — Кудай Өз элин отургузду"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨бизди⟩",
+      "rationale": "Ивритте тамгасыз үчүнчү жак көрсөтүлөт; кыргызча объект талап кылат"
+    },
+    {
+      "kind": "substitution",
+      "subject": "תרע",
+      "rationale": "Бузуу\/жаман кылуу тамыры — «талкалоо» катары берилди"
+    }
+  ],
+  "translation": "Сен ⟨Өз⟩ колуң менен элдерди кууп чыгып, ⟨бизди⟩ отургуздуң; калктарды талкалап, аларды кубалап жибердиң.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "2d81b34b2fe27c73d336ae0b6513a78bcce3ba43b1f8a7c8ced15d5436171424",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/44\/2-3.1791224467820.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Сен"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "колуң менен"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "элдерди"
+    },
+    {
+      "surface": "הורשת",
+      "gloss": "кууп чыгып"
+    },
+    {
+      "surface": "ותטעм",
+      "gloss": "отургуздуң"
+    },
+    {
+      "surface": "תרע",
+      "gloss": "талкалап"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "калктарды"
+    },
+    {
+      "surface": "ותשלחם",
+      "gloss": "кубалап жибердиң"
+    }
+  ],
+  "timestamp": "2026-10-05T18:21:07.821311563Z",
+  "model": "glm-5.3"
+}

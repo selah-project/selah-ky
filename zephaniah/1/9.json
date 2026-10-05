@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zephaniah 1:9",
+  "book": "zephaniah",
+  "lang": "ky",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "על",
+      "rationale": "Первый על (каршы) поглощен кирг. конструкцией «жазалаймын»"
+    },
+    {
+      "kind": "crux",
+      "subject": "босогонун үстүнөн секирген",
+      "rationale": "הדולג על המפתן: аллюзия на 1 Цар 5:5 (филистимляне не ступали на порог) — обрядовый обычай vs. простая поспешность"
+    }
+  ],
+  "translation": "Ошол күнү Мен босогонун үстүнөн секирген ар бирөөнү жазалаймын — алар кожоюндарынын үйүн зордук жана алдамчылык менен толтуруучулар.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "cc64be537addc9dee5f494cf483193bac30855508a002a84a0130ff4f3e6ec02",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/zephaniah\/1\/9-12.1791214866642.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ופקדתי",
+      "gloss": "жазалаймын"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "כל",
+      "gloss": "ар бир"
+    },
+    {
+      "surface": "הדולג",
+      "gloss": "секирген"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстүнөн"
+    },
+    {
+      "surface": "המפתן",
+      "gloss": "босого"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "күнү"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ошол"
+    },
+    {
+      "surface": "הממלאים",
+      "gloss": "толтуруучулар"
+    },
+    {
+      "surface": "בית",
+      "gloss": "үйүн"
+    },
+    {
+      "surface": "אדניהם",
+      "gloss": "кожоюндарынын"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "зордук"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "жана алдамчылык"
+    }
+  ],
+  "timestamp": "2026-10-05T15:41:06.643053385Z",
+  "model": "glm-5.3"
+}

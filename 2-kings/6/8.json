@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 6:8",
+  "book": "2-kings",
+  "lang": "ky",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "פלני אלמני",
+      "rationale": "Еврей «мындай-тигилей» деген аталбаган формула; кыргызча «мына бул жер» деп берилди."
+    },
+    {
+      "kind": "addition",
+      "subject": "болот",
+      "rationale": "׃«менин лагерим болот» — еврей текстте этиш жок, көбүнчө болочок маанини билдирет."
+    }
+  ],
+  "translation": "Жана Арам падышасы Йисраэл менен согушуп жүрдү, ал өз кызматчылары менен кеңешип: «Мына бул жерде менин лагерим болот», — деди.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "448e0ca9ff12856f3509e29114a52919d42231debc945d11a16bcf7b067c6657",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-kings\/6\/5-8.1791208706708.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומלך",
+      "gloss": "Жана…падышасы"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Арам"
+    },
+    {
+      "surface": "היה",
+      "gloss": "жүрдү"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "согушуп"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Йисраэл менен"
+    },
+    {
+      "surface": "ויועץ",
+      "gloss": "кеңешип"
+    },
+    {
+      "surface": "אל",
+      "gloss": "менен"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "өз кызматчылары"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "деп"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "жер"
+    },
+    {
+      "surface": "פלני",
+      "gloss": "мына"
+    },
+    {
+      "surface": "אלמני",
+      "gloss": "бул"
+    },
+    {
+      "surface": "תחנתי",
+      "gloss": "лагерим"
+    }
+  ],
+  "timestamp": "2026-10-05T13:58:26.709502622Z",
+  "model": "glm-5.3"
+}

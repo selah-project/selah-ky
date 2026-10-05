@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 9:4",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "мипанейха",
+      "rationale": "«Сенин жүзүңдөн» — еврейче «алдыңда, көрүнүшүңдөн» деген идиома, качып кетүү маанисинде"
+    }
+  ],
+  "translation": "Менин душмандарым артка качканда, алар Сенин жүзүңдөн буттары тизелеп, жок болушат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "6d9df4af184fd4e81cc4b0d2ec260639cbfbd651ea58300a17f895f57dda1832",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/9\/1-4.1791215485577.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בשוב",
+      "gloss": "качканда"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "душмандарым"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "артка"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "тизелеп"
+    },
+    {
+      "surface": "ויאבדו",
+      "gloss": "жана жок болушат"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "Сенин жүзүңдөн"
+    }
+  ],
+  "timestamp": "2026-10-05T15:51:25.578269085Z",
+  "model": "glm-5.3"
+}

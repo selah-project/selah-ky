@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 1:27",
+  "book": "numbers",
+  "lang": "ky",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "сан",
+      "rationale": "Йегуда уруусунун саны: 74 600."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨бул⟩",
+      "rationale": "Еврей текстинде этиш жок; сан айтылгандыктан кыргызча атооч кошулду."
+    }
+  ],
+  "translation": "Алардын эсепке алынгандары — Йегуда уруусунан — ⟨бул⟩ жетимиш төрт миң алты жүз.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "a6876181f567b504e7464683e229e2551bdb6adac7a7ecd86af2d35764a1b733",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/numbers\/1\/26-27.1791223655733.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "эсепке алынгандары"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "уруусунан"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Йегуда"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "төрт"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "жетимиш"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "миң"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "алты"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "жүз"
+    }
+  ],
+  "timestamp": "2026-10-05T18:07:35.735153024Z",
+  "model": "glm-5.3"
+}

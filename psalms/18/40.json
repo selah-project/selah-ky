@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 18:40",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Жана Сен",
+      "rationale": "Еврейче этиштин мүчөлөрү Сен-ди билдирет, айрыкча коюлган жок"
+    },
+    {
+      "kind": "substitution",
+      "subject": "күч",
+      "rationale": "חיל — күч, аскер, байлык маанисин камтыган сөз"
+    },
+    {
+      "kind": "substitution",
+      "subject": "тиизе бүктүрүп",
+      "rationale": "תכריע — «тизе бүгүү, жыгылуу» деген сүрөттүү этиш"
+    }
+  ],
+  "translation": "Жана Сен мени согуш үчүн күч менен курчадың; мени кошо тургандарды Өзүң тизе бүктүрүп, менин астыма жыгылдың.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "127cf3b054ba9a16e72bbcac3f9dd30a1801a492d1adbc9ca6b9856216e7ed7d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/18\/40-40.1791224389687.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאזרני",
+      "gloss": "курчадың"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "күч"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "согуш үчүн"
+    },
+    {
+      "surface": "תכריע",
+      "gloss": "тизе бүктүрүп"
+    },
+    {
+      "surface": "קמי",
+      "gloss": "мени кошо тургандарды"
+    },
+    {
+      "surface": "תחתי",
+      "gloss": "астымда"
+    }
+  ],
+  "timestamp": "2026-10-05T18:19:49.687625663Z",
+  "model": "glm-5.3"
+}

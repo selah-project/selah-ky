@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 150:3",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 150,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "Аны мактагыла",
+      "rationale": "Repeated imperatives summoning praise with instruments."
+    },
+    {
+      "kind": "crux",
+      "subject": "невел",
+      "rationale": "נבל: stringed instrument ('psaltery') vs wine-skin; instrument reading kept as Hebrew name."
+    }
+  ],
+  "translation": "Аны шофардын үнү менен мактагыла, Аны невел менен жана кинор менен мактагыла.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "ed4ee97b553285b2a43bd91718a74be8590464662ffffb5e092298e525c18a44",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/150\/2-3.1791224504340.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Аны мактагыла"
+    },
+    {
+      "surface": "בתקע",
+      "gloss": "үнү менен"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "шофардын"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "Аны мактагыла"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "невел менен"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "жана кинор менен"
+    }
+  ],
+  "timestamp": "2026-10-05T18:21:44.340864097Z",
+  "model": "glm-5.3"
+}

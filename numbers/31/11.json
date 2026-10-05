@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 31:11",
+  "book": "numbers",
+  "lang": "ky",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "השלל \/ המלקוח",
+      "rationale": "Эки жакын сөз — «олжо» (бут) жана «тартып алынган нерселер» (туткундар жана мал): көпчүлүк котормолор экөөнү айырмалоо үчүн эки аталыш берет."
+    }
+  ],
+  "translation": "Жана алар ⟨את⟩ бүт олжону жана ⟨את⟩ бүт олжолоп алынган нерселерди — адамдан да, жаныбардан да — алышты.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "97413b1bef2d5e25dc63fa516d842ecfae3472f959ba2a3d114a0451a96afb93",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/numbers\/31\/9-12.1791204497138.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "алышты"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "бүт олжону"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүт"
+    },
+    {
+      "surface": "השלל",
+      "gloss": "олжону"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "жана ⟨את⟩",
+      "marks": "бүт олжолоп алынган нерселерди"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүт"
+    },
+    {
+      "surface": "המלקוח",
+      "gloss": "олжолоп алынган нерселерди"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "адамдан да"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "жаныбардан да"
+    }
+  ],
+  "timestamp": "2026-10-05T12:48:17.139324324Z",
+  "model": "glm-5.3"
+}

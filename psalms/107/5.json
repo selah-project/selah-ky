@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 107:5",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жаны",
+      "rationale": "נפש — дем алуучу жандык, тамак\/жашоо күчү; 'жан' тар мааниде эмес"
+    },
+    {
+      "kind": "alternative",
+      "subject": "алсырап калды",
+      "rationale": "תתעטף букв. 'жабылуу, оролуу' — 'жүрөгү оролуп калды' деп да болот"
+    }
+  ],
+  "translation": "Ачка да, сусаган да — алардын жаны аларда алсырап калды.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "e413da2727b7846aef2b172e9e4bfdd8211c0d5d070a0c275aac17332a049563",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/107\/5-8.1791217137802.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רעבים",
+      "gloss": "ачка"
+    },
+    {
+      "surface": "גם",
+      "gloss": "да"
+    },
+    {
+      "surface": "צמאים",
+      "gloss": "сусаган"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "алардын жаны"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "аларда"
+    },
+    {
+      "surface": "תתעטף",
+      "gloss": "алсырап калды"
+    }
+  ],
+  "timestamp": "2026-10-05T16:18:57.804485271Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 4:13",
+  "book": "numbers",
+  "lang": "ky",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "күлүнөн тазалашат",
+      "rationale": "ודשנו түпкү мааниси «майлуу кылуу\/күлдөн арылтуу» — көбүнчө «күлүн алуу» катары берилет"
+    },
+    {
+      "kind": "substitution",
+      "subject": "аргаман",
+      "rationale": "ארגמן — кызыл-көгүш боок; өң аты өзүндө сакталды"
+    }
+  ],
+  "translation": "Жана алар ⟨את⟩ курмандык чарасын күлүнөн тазалашат, жана анын үстүнө аргаман кездеме жайышат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "b255bd005c0ae83bcb625c5a6ea05617e31a4c4fcbefe9b6164356253f918332",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/numbers\/4\/13-16.1791203640038.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ודשנו",
+      "gloss": "тазалашат"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "курмандык чарасын"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "курмандык чарасын"
+    },
+    {
+      "surface": "ופרשו",
+      "gloss": "жайышат"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "анын үстүнө"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "кездеме"
+    },
+    {
+      "surface": "ארגמן",
+      "gloss": "аргаман"
+    }
+  ],
+  "timestamp": "2026-10-05T12:34:00.039704643Z",
+  "model": "glm-5.3"
+}

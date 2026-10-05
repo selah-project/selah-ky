@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 128:2",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 128,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "וטוב לך",
+      "rationale": "«Сага жакшы болот» — ивриттин даана сүйлөмү, кыргызча «жакшылык болот» кылды."
+    },
+    {
+      "kind": "substitution",
+      "subject": "אשריך",
+      "rationale": "1-аяттагы אשרי сыяктуу эле «бактылуу» сөзү, ээлик формада — тырышчаак мамиле."
+    }
+  ],
+  "translation": "Колуңдун эмгегин жейсің, бактылуу болосун жана ⟨сага⟩ жакшылык болот.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "d7566107d30fc2a0d4cee36675931758fde9a219fd50cc777995d4bd37a500fa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/128\/1-4.1791217431816.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יגיע",
+      "gloss": "эмгегин"
+    },
+    {
+      "surface": "כפיך",
+      "gloss": "Колуңдун"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткен менен"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "жейсің"
+    },
+    {
+      "surface": "אשריך",
+      "gloss": "бактылуу болосун"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "жакшылык"
+    },
+    {
+      "surface": "לך",
+      "gloss": "сага"
+    }
+  ],
+  "timestamp": "2026-10-05T16:23:51.817386081Z",
+  "model": "glm-5.3"
+}

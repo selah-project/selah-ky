@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 35:8",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "аны",
+      "rationale": "түшүндүрмөлүк ат атооч, ивритте тиешелүү ат атоочтор жок"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שואה ... שואה",
+      "rationale": "«кыйроо» сөзүнүн эки жолу кайталанышы — тор казган өзүнө түшөт деген хиазмдык аягы"
+    }
+  ],
+  "translation": "Кыйроо аны билбестен жетсин, жана анын жашырган тармагын аны кармасын — ошол кыйроого ал кулагай.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "2cd652a6c2ab2b5db7d020ccc77f4d525584910dabecdda16ec45f856edc0d4e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/35\/5-8.1791215859058.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תבואהו",
+      "gloss": "жетсин"
+    },
+    {
+      "surface": "שואה",
+      "gloss": "кыйроо"
+    },
+    {
+      "surface": "לא",
+      "gloss": "билбестен"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "билбестен"
+    },
+    {
+      "surface": "ורשתו",
+      "gloss": "жана анын тармагын"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "жашырган"
+    },
+    {
+      "surface": "טמן",
+      "gloss": "жашырган"
+    },
+    {
+      "surface": "תלכדו",
+      "gloss": "кармасын"
+    },
+    {
+      "surface": "בשואה",
+      "gloss": "ошол кыйроого"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "кулагай"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ошол"
+    }
+  ],
+  "timestamp": "2026-10-05T15:57:39.059064858Z",
+  "model": "glm-5.3"
+}

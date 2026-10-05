@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 145:6",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 145,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "גדולתיך — «улуулук» же «улюк иштериң»",
+      "rationale": "גדולה конкреттүү «улюк иштери» дегенди да туюндурат; бул жерде абстракттуу «улуулугуң» тандалды."
+    },
+    {
+      "kind": "you",
+      "subject": "Яхвеге",
+      "rationale": "Жалпылуу заттар менен кайрылуу — забур Яхвеге багышталган."
+    }
+  ],
+  "translation": "Жана коркунучтуу иштериңдин күчү жөнүндө айтышат, жана ⟨את⟩ улуулугуңду баян кылам.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "1ce9fb7713a569611832b0bfd059986175d9130555ba7a95327d9849b4ac1014",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/145\/6-7.1791224518967.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועזוז",
+      "gloss": "күчү жөнүндө"
+    },
+    {
+      "surface": "נוראתיך",
+      "gloss": "коркунучтуу иштериңдин"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "айтышат"
+    },
+    {
+      "surface": "וגדולתיך",
+      "gloss": "жана улуулугуңду"
+    },
+    {
+      "surface": "אספרенה",
+      "gloss": "баян кылам"
+    }
+  ],
+  "timestamp": "2026-10-05T18:21:58.967772519Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 90:14",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 90,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Яхвеге",
+      "rationale": "Тикелей адресат — Яхве, императив 'тойгуруп ал'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "хесед",
+      "rationale": "D2 боюнча 'ырайым' гана эмес, хесед сөзү өзү сакталат"
+    }
+  ],
+  "translation": "Таң менен бизди өзүңдүн хеседиңе тойгуруп ал, жана биз бардык күндөрүбүздө ырдап, кубанабыз.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "3f225827a7058d87ddbce5c0afd9998834a95364ffe8d8a857f9b9b5d5eaaff4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/90\/13-16.1791216876078.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שבענו",
+      "gloss": "тойгуруп ал бизди"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "Таң менен"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "хеседиңе"
+    },
+    {
+      "surface": "ונרננה",
+      "gloss": "жана ырдайбыз"
+    },
+    {
+      "surface": "ונשמחה",
+      "gloss": "кубанабыз"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "бардык"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "күндөрүбүздө"
+    }
+  ],
+  "timestamp": "2026-10-05T16:14:36.079544439Z",
+  "model": "glm-5.3"
+}

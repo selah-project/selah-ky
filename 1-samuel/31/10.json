@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 31:10",
+  "book": "1-samuel",
+  "lang": "ky",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עשתרות",
+      "rationale": "Аштарот — көп сандуу форма; 'Ашторот кудайларынын үйү' же шаардын аты деген окуулар бар."
+    },
+    {
+      "kind": "substitution",
+      "subject": "תקעו",
+      "rationale": "түпкү мааниси 'кагуу, чегүү'; 'илип коюу' — салттуу чечмелөө."
+    }
+  ],
+  "translation": "Жана алар ⟨את⟩ анын курал-жарактарын Аштароттун үйүнө коюшту, ал эми ⟨את⟩ анын денесин Бейт-Шандын дубалына илишти.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "f01ec8cba7e950f22fbeb6521a363df0fe4a8509179030ebc21b71a5d5856dec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-samuel\/31\/9-12.1791207338096.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמו",
+      "gloss": "коюшту"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "анын курал-жарактарын"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "анын курал-жарактарын"
+    },
+    {
+      "surface": "בית",
+      "gloss": "үйүнө"
+    },
+    {
+      "surface": "עשתרות",
+      "gloss": "Аштароттун"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "жана ⟨את⟩",
+      "marks": "анын денесин"
+    },
+    {
+      "surface": "גויתו",
+      "gloss": "анын денесин"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "илишти"
+    },
+    {
+      "surface": "בחומת",
+      "gloss": "дубалына"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бейт-Шан"
+    },
+    {
+      "surface": "שן",
+      "gloss": "Бейт-Шан"
+    }
+  ],
+  "timestamp": "2026-10-05T13:35:38.097507148Z",
+  "model": "glm-5.3"
+}

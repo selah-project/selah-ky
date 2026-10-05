@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 8:4",
+  "book": "ecclesiastes",
+  "lang": "ky",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "бар",
+      "rationale": "希伯来文无语动词，吉尔吉斯语补出「有」"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דבר…שלטון",
+      "rationale": "王的「话」与「权柄」并列——话语即权柄的修辞，吉尔吉斯语保留并列结构"
+    }
+  ],
+  "translation": "Падышанын сөзү турган жерде бийлик бар, жана ким ага: «Эмне кылып жатасың?» деп айта алат?",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "ab5194fb5734e8ad5b6da3ed010248d0ee08189ca164c81a73ecc7e041f31d73",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ecclesiastes\/8\/1-4.1791220122676.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "באשר",
+      "gloss": "турган жерде"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сөзү"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "падышанын"
+    },
+    {
+      "surface": "שלטון",
+      "gloss": "бийлик"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "жана ким"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "айта алат"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ага"
+    },
+    {
+      "surface": "מה",
+      "gloss": "эмне"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "кылып жатасың"
+    }
+  ],
+  "timestamp": "2026-10-05T17:08:42.678121150Z",
+  "model": "glm-5.3"
+}

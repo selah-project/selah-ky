@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 6:17",
+  "book": "proverbs",
+  "lang": "ky",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨...⟩ жок — байламда «жана»",
+      "rationale": "וידים колдонгон байламта кыргызча «жана» менен берилди"
+    },
+    {
+      "kind": "elision",
+      "subject": "накты ээлик-байланыш",
+      "rationale": "еврей текстинде этиш жок — ат атоочтор гана тизмелет"
+    }
+  ],
+  "translation": "Көтөрүлгөн көздөр, жалган тил, жана күнөөсүз кан төккөн колдор,",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "e6184baccefb4e874a99ab38c4925f2e560aaa1c58eda30ae1c89a5df362a673",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/6\/17-20.1791217835260.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עינים",
+      "gloss": "көздөр"
+    },
+    {
+      "surface": "רמות",
+      "gloss": "көтөрүлгөн"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "тил"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "жалган"
+    },
+    {
+      "surface": "וידים",
+      "gloss": "жана колдор"
+    },
+    {
+      "surface": "שפכות",
+      "gloss": "төккөн"
+    },
+    {
+      "surface": "דם",
+      "gloss": "кан"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "күнөөсүз"
+    }
+  ],
+  "timestamp": "2026-10-05T16:30:35.260854442Z",
+  "model": "glm-5.3"
+}

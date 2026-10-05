@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 131:1",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 131,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ממני",
+      "rationale": "'мага' — 'менден ашып түшкөн' маанисинде; кыргызча 'мага ажайып' деп берилди"
+    },
+    {
+      "kind": "you",
+      "subject": "Яхвеге",
+      "rationale": "Давид Яхвени тикелей дарбайт"
+    }
+  ],
+  "translation": "Өйдө чыгуулардын ыры, Давидке. Яхве, жүрөгүм тебеленген жок жана көздөрүм бийик болгон жок, жана мен улук иштерде жана мага ажайып нерселерде жүргөн жокмун.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "1c0cb547ae6b76470ef40cc8726145e6975bbcec089364c071e37d7b93009b6a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/131\/1-3.1791217452251.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "ыры"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "өйдө чыгуулардын"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давидке"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "тебеленген"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "жүрөгүм"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "жана жок"
+    },
+    {
+      "surface": "רמו",
+      "gloss": "бийик болгон"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "көздөрүм"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "жана жок"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "жүргөн жокмун"
+    },
+    {
+      "surface": "בגדלות",
+      "gloss": "улук иштерде"
+    },
+    {
+      "surface": "ובנפלאות",
+      "gloss": "жана ажайып нерселерде"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "мага"
+    }
+  ],
+  "timestamp": "2026-10-05T16:24:12.252048438Z",
+  "model": "glm-5.3"
+}

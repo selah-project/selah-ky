@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 29:9",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אילות",
+      "rationale": "Бугу ургаачылары «толготулат» (туу мезгили) же байыркы окууда «эмендер» (אילות эмес אילים деген байланыш) — KJV «hinds to calve» менен BSB «twists the oaks» бөлүнөт."
+    },
+    {
+      "kind": "substitution",
+      "subject": "Кабуд",
+      "rationale": "כבוד — «оорлук, салмак, жаркырага жакшылык»; аты катары үн көтөрүлүп сакталды."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קול יהוה",
+      "rationale": "Жылмаак 9:3–9 бою «Яхвенин үнү» жети жолу кайталанат — кыргызча бул ыргактын күчү басаңдап калат."
+    }
+  ],
+  "translation": "Яхвенин үнү бугу ургаачыларын толготот жана токойлорду жылаңачтайт, жана Анын сарайында баары: «Кабуд!» дейт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "72de4c19d358056f472487a268c5baea71f324be6f164b6e97c70f23a6a4f309",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/29\/9-11.1791215670204.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "үнү"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    },
+    {
+      "surface": "יחולל",
+      "gloss": "толготот"
+    },
+    {
+      "surface": "אילות",
+      "gloss": "бугу ургаачыларын"
+    },
+    {
+      "surface": "ויחשף",
+      "gloss": "жана жылаңачтайт"
+    },
+    {
+      "surface": "יערות",
+      "gloss": "токойлорду"
+    },
+    {
+      "surface": "ובהיכלו",
+      "gloss": "жана Анын сарайында"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "баары"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "дейт"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "Кабуд"
+    }
+  ],
+  "timestamp": "2026-10-05T15:54:30.204631477Z",
+  "model": "glm-5.3"
+}

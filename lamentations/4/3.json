@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 4:3",
+  "book": "lamentations",
+  "lang": "ky",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תנין",
+      "rationale": "Бул жерде ургаачы ченгир (jackal) деп окулса да, башка жерлерде «деңиз жаныбары» деген мааниде — KJV «sea monsters», JPS «jackals»."
+    },
+    {
+      "kind": "idiom",
+      "subject": "элимдин кызы",
+      "rationale": "בת עמי — элдин кызы, элдин өзүнүн поэтикалык аталышы."
+    },
+    {
+      "kind": "substitution",
+      "subject": "түйө куш",
+      "rationale": "ענים — түйө куш, байыркы жакын чыгыш салтында күчүктөрүн таштап кетүүчү жаныбар катары белгилүү (Иов 39:14–16)."
+    }
+  ],
+  "translation": "Дагы эле ченгирлер эмчегин ачып, күчүктөрүн эмизип жатат, ал эми элимдин кызы чөлдөгү түйө куштай ырайымсыз болуп калды.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "bb2c366e0bcc61432dc5cf537b3dacf7df9e6917daf70646c16bb65a11ad8ef5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/lamentations\/4\/1-4.1791219890905.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Дагы эле"
+    },
+    {
+      "surface": "תנין",
+      "gloss": "ченгирлер"
+    },
+    {
+      "surface": "חלצו",
+      "gloss": "ачып"
+    },
+    {
+      "surface": "שד",
+      "gloss": "эмчегин"
+    },
+    {
+      "surface": "היניקו",
+      "gloss": "эмизип жатат"
+    },
+    {
+      "surface": "גוריהן",
+      "gloss": "күчүктөрүн"
+    },
+    {
+      "surface": "בת",
+      "gloss": "кызы"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "элимдин"
+    },
+    {
+      "surface": "לאכזר",
+      "gloss": "ырайымсыз"
+    },
+    {
+      "surface": "כי",
+      "gloss": "катары"
+    },
+    {
+      "surface": "ענים",
+      "gloss": "түйө куштай"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "чөлдөгү"
+    }
+  ],
+  "timestamp": "2026-10-05T17:04:50.906702950Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 12:7",
+  "book": "judges",
+  "lang": "ky",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "биринде",
+      "rationale": "еврейче ויקבר בערי גלעד көп сан менен «Гилад шаарларында коюлду» дейт; бир шаар көрсөтүлүшү кошулду"
+    },
+    {
+      "kind": "measurement",
+      "subject": "алты жыл",
+      "rationale": "Йифтахтын башкаруу мөөнөтү жыл менен өлчөнөт"
+    }
+  ],
+  "translation": "Жана Йифтах ⟨את⟩ Йисраелди алты жыл башкарды; андан кийин Гиладдык Йифтах өлдү жана Гиладдын шаарларынын биринде коюлду.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "b55309e0f4a6a9313fada43e61bf5b5c7acf0a0bfd63b84bf0a46dee5409b862",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/judges\/12\/5-8.1791206354676.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "башкарды"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Йифтах"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Йисраелди"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраелди"
+    },
+    {
+      "surface": "שש",
+      "gloss": "алты"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "жыл"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "өлдү"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Йифтах"
+    },
+    {
+      "surface": "הגלעדי",
+      "gloss": "Гиладдык"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "коюлду"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "шаарларынын биринде"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Гиладдын"
+    }
+  ],
+  "timestamp": "2026-10-05T13:19:14.677618701Z",
+  "model": "glm-5.3"
+}

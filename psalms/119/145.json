@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 145,
+  "ref": "psalms 119:145",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "мен",
+      "rationale": "Ивриттин этиш формасына кошулган ээлик жекече ат атооч"
+    },
+    {
+      "kind": "you",
+      "subject": "Яхвеге",
+      "rationale": "Тилек Яхвеге түз кайрылуу менен айтылат"
+    },
+    {
+      "kind": "invitation",
+      "subject": "мага жооп бер",
+      "rationale": "Императив менен жооп берүүгө чакыруу"
+    }
+  ],
+  "translation": "Бүт жүрөгүм менен чакырдым — мага жооп бер, Яхве! Мен Сенин буйруктарыңды сактайм.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "318ede7d3cbe732d905715070abea530c78d6062f0166a563b3870d56c119192",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/119\/145-148.1791217349041.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קראתי",
+      "gloss": "чакырдым"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "бүт"
+    },
+    {
+      "surface": "לב",
+      "gloss": "жүрөгүм менен"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "мага жооп бер"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "буйруктарыңды"
+    },
+    {
+      "surface": "אצרה",
+      "gloss": "сактайм"
+    }
+  ],
+  "timestamp": "2026-10-05T16:22:29.041560225Z",
+  "model": "glm-5.3"
+}

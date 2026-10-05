@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 21:5",
+  "book": "numbers",
+  "lang": "ky",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жаныбыз",
+      "rationale": "נפש — дем алуучу жандык, көңүл\/таам-эрк; «жан» кеңири кабыл алынган, бирок бул оокаттан безүү сезими"
+    },
+    {
+      "kind": "addition",
+      "subject": "каршы",
+      "rationale": "ב ... сүйлөдү — еврейче «жөн гана сүйлөдү», «каршы» контексттен"
+    },
+    {
+      "kind": "crux",
+      "subject": "הקלקל",
+      "rationale": "кыйшайтылган тамыр: «жеңил\/нурсуз нан» (KJV light bread) же «жаман\/жуткун нан» — мanna көздөлүп, эки окуу бар"
+    }
+  ],
+  "translation": "Жана эл Элохимге жана Мошеге каршы сүйлөдү: Эмне үчүн бизди Мицрайимден чыгардыңар, чөлдө өлүш үчүн? Анткени нан жок, суу да жок, жана жаныбыз мына бул жуткун нандан жийиркенди.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "974bebcc9ae6c61854be7cea6eabdf8c3e39e2ac1182f605aed4ef5efd6015b5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/numbers\/21\/5-8.1791204104296.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "жана ... сүйлөдү"
+    },
+    {
+      "surface": "העם",
+      "gloss": "эл"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "Элохимге каршы"
+    },
+    {
+      "surface": "ובמשה",
+      "gloss": "жана Мошеге каршы"
+    },
+    {
+      "surface": "למה",
+      "gloss": "эмне үчүн"
+    },
+    {
+      "surface": "העלитנו",
+      "gloss": "бизди чыгардыңар"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Мицрайимден"
+    },
+    {
+      "surface": "למות",
+      "gloss": "өлүш үчүн"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "чөлдө"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "אין",
+      "gloss": "жок"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "нан"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "жана ... жок"
+    },
+    {
+      "surface": "מים",
+      "gloss": "суу"
+    },
+    {
+      "surface": "ונפשנו",
+      "gloss": "жана жаныбыз"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "жийиркенди"
+    },
+    {
+      "surface": "בלחם",
+      "gloss": "нандан"
+    },
+    {
+      "surface": "הקלקל",
+      "gloss": "жуткун"
+    }
+  ],
+  "timestamp": "2026-10-05T12:41:44.296952061Z",
+  "model": "glm-5.3"
+}

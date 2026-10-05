@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 135,
+  "ref": "psalms 119:135",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "жүз нурландыр",
+      "rationale": "עיר\/האיר פנים — ырайым көрсөтүү деген еврей идиомасы; кыргызча да окшош образда берилди."
+    },
+    {
+      "kind": "addition",
+      "subject": "Өз",
+      "rationale": "Позициялык мүчө 3-жак көрсөткүч керек болду, еврейчеде жок."
+    }
+  ],
+  "translation": "Өз жүзүңдү кулуңа нурландыр, жана мага ⟨את⟩ жоболоруңду үйрөт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "26b1389558043b6ca67ee29ab6db0dce409fc27acbd42834369226cb999f96de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/119\/133-136.1791217398654.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פניך",
+      "gloss": "Өз жүзүңдү"
+    },
+    {
+      "surface": "האר",
+      "gloss": "нурландыр"
+    },
+    {
+      "surface": "בעבדך",
+      "gloss": "улуңа"
+    },
+    {
+      "surface": "ולמדני",
+      "gloss": "жана мага үйрөт"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "жоболоруңду"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "жоболоруңду"
+    }
+  ],
+  "timestamp": "2026-10-05T16:23:18.654989547Z",
+  "model": "glm-5.3"
+}

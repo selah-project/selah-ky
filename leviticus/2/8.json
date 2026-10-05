@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 2:8",
+  "book": "leviticus",
+  "lang": "ky",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "мүрзө",
+      "rationale": "מזבח — курмандык чалгыч; кыргызча диний «алтарь» термини колдонулбай, салттуу балама берилди"
+    },
+    {
+      "kind": "elision",
+      "subject": "אותה глаголдогу мүчө",
+      "rationale": "ивритте «аны» этиш мүчөсүндө; кыргызча «аны» кайра ачык жазылды"
+    }
+  ],
+  "translation": "Жана Яхвеге ушулардан жасалган ⟨את⟩ минханы алып кел, аны ыйык кызмат кылуучуга жакындатып, аны мүрзөгө жакындат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "16c89a26376a241ad035c7e866c2c3fbb5f05f783cbfb95f71b6da5858b11717",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/2\/5-8.1791202808489.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והבאת",
+      "gloss": "алып кел"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "минханы"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "минханы"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "эмне"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "жасалган"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "ушулардан"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхвеге"
+    },
+    {
+      "surface": "והקריבה",
+      "gloss": "жакындат"
+    },
+    {
+      "surface": "אל",
+      "gloss": "жеткизип"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ыйык кызмат кылуучуга"
+    },
+    {
+      "surface": "והגישה",
+      "gloss": "жакындат"
+    },
+    {
+      "surface": "אל",
+      "gloss": "четине"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "мүрзөгө"
+    }
+  ],
+  "timestamp": "2026-10-05T12:20:08.490478608Z",
+  "model": "glm-5.3"
+}

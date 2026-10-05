@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 17:16",
+  "book": "1-kings",
+  "lang": "ky",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "rationale": "Относительный местоимение кыргызча болбогондуктан түшүрүлдү, конструктиbindung аркылуу берилди"
+    },
+    {
+      "kind": "idiom",
+      "subject": "ביד אליהו",
+      "rationale": "Буквально «Элияхунун колунда» — «колу аркылуу» деген мааниде"
+    }
+  ],
+  "translation": "Ун идиши бүтпөдү, май идиши да кемибеди — Яхвенин Элияхунун колу аркылуу айткан сөзү боюнча.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "abd7c02b3ec8f488cdcb15d5b438955f1e3c3beb632ddba858b5d1e3a10c924f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-kings\/17\/13-16.1791208435269.json",
+    "code": "641241cf-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כד",
+      "gloss": "идиш"
+    },
+    {
+      "surface": "הקמח",
+      "gloss": "ун"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "כלתה",
+      "gloss": "бүтпөдү"
+    },
+    {
+      "surface": "וצפחת",
+      "gloss": "жана май идиши"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "май"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "кемибеди"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "сөзү боюнча"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "דבר",
+      "gloss": "айткан"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "колу аркылуу"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Элияхунун"
+    }
+  ],
+  "timestamp": "2026-10-05T13:53:55.271343326Z",
+  "model": "glm-5.3"
+}

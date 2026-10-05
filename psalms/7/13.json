@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 7:13",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "керип",
+      "rationale": "דרך — букв. 'топтоо' (жааны тебеп керүү); кыргызча 'керип' берилди"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ал⟩",
+      "rationale": "Ивритте субъекти көрсөткүн сөз жок, кыргызча шарт үчүн кошулду"
+    }
+  ],
+  "translation": "Эгер ⟨ал⟩ кайтпаса, өз кылычын курчуйт, өз жаасын керип, аны даярдады.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "cde8a333cd66e7f1e6340b4957c7a2c26ead845377c63444c6458b18cbe08ba2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/7\/13-16.1791215304803.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Эгер"
+    },
+    {
+      "surface": "לא",
+      "gloss": "байланыштуу эмес"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "кайтпаса"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "өз кылычын"
+    },
+    {
+      "surface": "ילטוש",
+      "gloss": "курчуйт"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "өз жаасын"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "керип"
+    },
+    {
+      "surface": "ויכוננה",
+      "gloss": "жана аны даярдады"
+    }
+  ],
+  "timestamp": "2026-10-05T15:48:24.803710968Z",
+  "model": "glm-5.3"
+}

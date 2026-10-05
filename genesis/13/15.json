@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 13:15",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "түбөлүккө",
+      "rationale": "עולם — «жоголуу чекити жок убакыт», кыргызча түбөлүк сөзү эң жакын эквивалент"
+    },
+    {
+      "kind": "addition",
+      "subject": "да берээрин",
+      "rationale": "Еврей текстинде экинчи этиш жок, бир гана אתננה эки алышты ээлейт"
+    }
+  ],
+  "translation": "Себеби сен көргөн ⟨את⟩ бүт жерди сага берээрин, жана түбөлүккө сенин үрөнүңө ⟨да⟩ берээрин.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "fb7b0b09cf813fcf2f419309de432538dbcccba124745701fb1b89183b9c70d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/13\/13-16.1791200918936.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Себеби"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "бүт жерди"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүт"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "жерди"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "...ган"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "сен"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "көргөн"
+    },
+    {
+      "surface": "לך",
+      "gloss": "сага"
+    },
+    {
+      "surface": "אתננה",
+      "gloss": "берээрин"
+    },
+    {
+      "surface": "ולזרעך",
+      "gloss": "жана сенин үрөнүңө"
+    },
+    {
+      "surface": "עד",
+      "gloss": "...че йин"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "түбөлүккө"
+    }
+  ],
+  "timestamp": "2026-10-05T11:48:38.937154264Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 36:17",
+  "book": "2-chronicles",
+  "lang": "ky",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ויעל",
+      "rationale": "'жиберди' (аларга каршы чыгарды) — еврейче 'алардын үстүнө көтөрдү\/чыгарды'; KJV 'brought upon', YLT 'causeth to go up'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "וישש",
+      "rationale": "'абдан карыган' — еврейче 'чачы агарган, кураган адам'; KJV 'him that stooped for age'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בחוריהם\/בחור",
+      "rationale": "Эки жерде кайталанган בחור 'тандалган жаш' деген тамыр — өлтүрүлгөндөр 'тандалгандар' болгон."
+    }
+  ],
+  "translation": "Жана ал алардын үстүнө Касдимдердин падышасын жиберди; ал алардын жаштарын кылыч менен алардын ыйык жайында өлтүрдү, жашка да, кызга да, карыганга да, абдан карыганга да боорукерлик кылган жок — баарын ⟨את⟩ анын колуна берди.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "6529f69636f53f04b06982bb4adcfb3a9c39834e0ec40d3a3b3cea2267beeca4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-chronicles\/36\/17-20.1791223502317.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "жиберди"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "алардын үстүнө"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Касдимдердин падышасын"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "падышасын"
+    },
+    {
+      "surface": "כשדיים",
+      "gloss": "Касдимдердин"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "өлтүрдү"
+    },
+    {
+      "surface": "בחוריהם",
+      "gloss": "алардын жаштарын"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "кылыч менен"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ийинде"
+    },
+    {
+      "surface": "מקדשם",
+      "gloss": "алардын ыйык жайынын"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "חמל",
+      "gloss": "боорукерлик кылган"
+    },
+    {
+      "surface": "על",
+      "gloss": "дая"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "жашка"
+    },
+    {
+      "surface": "ובתולה",
+      "gloss": "кызга да"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "карыганга да"
+    },
+    {
+      "surface": "וישש",
+      "gloss": "абдан карыганга да"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "баарын"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "берди"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "анын колуна"
+    }
+  ],
+  "timestamp": "2026-10-05T18:05:02.318752036Z",
+  "model": "glm-5.3"
+}

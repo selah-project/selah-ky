@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 17:11",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ערלה",
+      "rationale": "«сүннөтпөгөн теринин бөлүгү» — конкреттүү анатомиялык сөз, жөн гана «терисин» дегенге караганда так."
+    },
+    {
+      "kind": "you",
+      "subject": "Аврахамга",
+      "rationale": "Келишимдин белгиси тууралуу түз буйрук уланууда."
+    }
+  ],
+  "translation": "Силер ⟨את⟩ өздөрүңөрдүн терисинин арткы бөлүгүн сүннөт кыласыңар, жана ал мени менен силердин ортоңордагы келишимдин белгиси болот.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "830bf8de48cd4b90be25c13d566580a155d0cba7b29fc22b571c328057bde33b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/17\/9-12.1791200986512.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונמלתם",
+      "gloss": "сүннөт кыласыңар"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "өздөрүңөрдүн терисинин"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "эт"
+    },
+    {
+      "surface": "ערלתכם",
+      "gloss": "сүннөтпөгөн териниңердин"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "жана ал болот"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "белгиси"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "келишимдин"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "мени"
+    },
+    {
+      "surface": "וביניכם",
+      "gloss": "менен силердин ортоңордагы"
+    }
+  ],
+  "timestamp": "2026-10-05T11:49:46.513300828Z",
+  "model": "glm-5.3"
+}

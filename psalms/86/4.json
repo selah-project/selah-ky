@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 86:4",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 86,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "жан көтөрүү",
+      "rationale": "נפש נשא — «жан көтөрүү» идиомасы, тикелей сакталды: умут менен ибадат мааниси."
+    }
+  ],
+  "translation": "Кулуңдун жанын кубандыр, анткени Сага, Адонай, жанымды көтөрөм.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "9bf46ba0d669e77375ecc6311d1ed76a626361b83e9a0d9085bd67760988709b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/86\/1-4.1791216799010.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמח",
+      "gloss": "кубандыр"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "жанын"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "Кулуңдун"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "Сага"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "жанымды"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "көтөрөм"
+    }
+  ],
+  "timestamp": "2026-10-05T16:13:19.011285496Z",
+  "model": "glm-5.3"
+}

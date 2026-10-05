@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 109:2",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 109,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "алар мени ⟨את⟩ жалган тил менен сүйлөштү",
+      "rationale": "кjv reads 'spoken against me'; Hebrew אִתִּי is literally 'with me'"
+    }
+  ],
+  "translation": "Анткени мыйксыздын оозу жана алдамчылыктын оозу мага каршы ачылды, алар мени ⟨את⟩ жалган тил менен сүйлөштү.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "4e93a87331292423e31d0b6e0900e868c52634e2c0ed0f8b730ebf095603344d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/109\/1-4.1791217226836.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "פי",
+      "gloss": "оозу"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "мыйксыздын"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "жана оозу"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "алдамчылыктын"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "мага каршы"
+    },
+    {
+      "surface": "פתחו",
+      "gloss": "ачылды"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "сүйлөштү"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "мени"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "тил"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "жалган"
+    }
+  ],
+  "timestamp": "2026-10-05T16:20:26.837945126Z",
+  "model": "glm-5.3"
+}

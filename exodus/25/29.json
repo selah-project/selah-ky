@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 25:29",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "קערתיו וכפתיו וקשותיו ומנקיתיו",
+      "rationale": "Идиш астындагы идиштердин аталыштары боюнча котормочулар бөлүнөт: KJV 'dishes, spoons, covers, bowls', JPS 'dishes, pans, jars, bowls', YLT 'dishes, bowls, covers, cups' — буюмдардын так функциясы белгисиз."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨төгүлөт⟩",
+      "rationale": "אשר יסך בהן — 'алар менен төгүлө турган' деген салыштыруу ача турган сүйлөм кыргызча толук эмес сүйлөм болуп калат, этиш кошулду."
+    }
+  ],
+  "translation": "Жана анын табактарын, кашыктарын, капкакчаларын жана чүмөчөлөрүн жасайсың — алар менен ⟨төгүлөт⟩ — таза алтындан ⟨את⟩ аларды жасайсың.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "f5947f62cc4596e3f7127139b32075a25dcc30248ba32344938bbd6da22b407b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/25\/29-32.1791202431430.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "жасайсың"
+    },
+    {
+      "surface": "קערתיו",
+      "gloss": "анын табактарын"
+    },
+    {
+      "surface": "וכפתיו",
+      "gloss": "анын кашыктарын"
+    },
+    {
+      "surface": "וקשותיו",
+      "gloss": "анын капкакчаларын"
+    },
+    {
+      "surface": "ומנקיתיו",
+      "gloss": "анын чүмөчөлөрүн"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "алар менен"
+    },
+    {
+      "surface": "יסך",
+      "gloss": "⟨төгүлөт⟩"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "алар"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "алтын"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "таза"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "жасайсың"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "аларды"
+    }
+  ],
+  "timestamp": "2026-10-05T12:13:51.431454028Z",
+  "model": "glm-5.3"
+}

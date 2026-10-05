@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 104:24",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 104,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "קנינך",
+      "rationale": "'Сендин сатып алгандарың \/ байлыгың' же 'жаратууларың' — KJV 'riches', JPS 'creatures'"
+    },
+    {
+      "kind": "you",
+      "subject": "Яхвеге",
+      "rationale": "Аят Яхвенин өзүнө түз кайрылуу менен сүйлөйт"
+    }
+  ],
+  "translation": "Канча көп иштериң, Яхве! Баарын акылмандык менен жасадың; жер сендин жаратууларың менен толгон.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "9e7b141356948e4cd92bb06f6f5e2f705ad6ad6ab93b8c20b8b5a2a07d0ec7ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/104\/21-24.1791216965246.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "канча"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "көп"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "иштериң"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "баарын"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "акылмандык менен"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "жасадың"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "толгон"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "жер"
+    },
+    {
+      "surface": "קנינך",
+      "gloss": "жаратууларың"
+    }
+  ],
+  "timestamp": "2026-10-05T16:16:05.247926753Z",
+  "model": "glm-5.3"
+}

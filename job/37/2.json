@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 37:2",
+  "book": "job",
+  "lang": "ky",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שמעו שמוע",
+      "rationale": "Этиштин кайталанышы — «угкула, угула» — буйрук экенин баса белгилейт"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Угула",
+      "rationale": "Буйрук менен чакыруу — угуучуну текстке тартат"
+    }
+  ],
+  "translation": "Угула, анын добушунун күүлөнүүсүн угкула, жана анын оозунан чыккан гүүлдөө.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "2fba9b30a419c2db1e04062441e1255097cc4af898950900bab143834125e3de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/job\/37\/1-4.1791219374571.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "угкула"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "угула"
+    },
+    {
+      "surface": "ברגז",
+      "gloss": "күүлөнүүсүн"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "добушунун"
+    },
+    {
+      "surface": "והגה",
+      "gloss": "жана гүүлдөө"
+    },
+    {
+      "surface": "מפיו",
+      "gloss": "анын оозунан"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "чыккан"
+    }
+  ],
+  "timestamp": "2026-10-05T16:56:14.571799189Z",
+  "model": "glm-5.3"
+}

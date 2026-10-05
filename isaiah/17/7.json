@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 17:7",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨Өзүнүн⟩",
+      "rationale": "кыргызча тактоо үчүн кошулду — еврейче 'жаратуучусуна' деген сыяктуу"
+    },
+    {
+      "kind": "substitution",
+      "subject": "төнөт",
+      "rationale": "שעה — жардам издеп тиктөө, карай калүү; кыргызча 'төнүү' эң жакын"
+    }
+  ],
+  "translation": "Ошол күндө адам ⟨Өзүнүн⟩ жаратуучусуна төнөт, жана анын көздөрү Йисраэлдин Ыйыгына тиктешет.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "52e6cb3380af1ec67efd3a81b772f2034218a9db2763a00a4c5fac9cef6694d9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/17\/5-8.1791209710593.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Ошол күндө"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ошол"
+    },
+    {
+      "surface": "ישעה",
+      "gloss": "төнөт"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "адам"
+    },
+    {
+      "surface": "על",
+      "gloss": "…ка"
+    },
+    {
+      "surface": "עשהו",
+      "gloss": "жаратуучусуна"
+    },
+    {
+      "surface": "ועיניו",
+      "gloss": "жана анын көздөрү"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…га"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Ыйыгы"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэлдин"
+    },
+    {
+      "surface": "תראינה",
+      "gloss": "тиктешет"
+    }
+  ],
+  "timestamp": "2026-10-05T14:15:10.594404867Z",
+  "model": "glm-5.3"
+}

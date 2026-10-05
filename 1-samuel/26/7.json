@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 26:7",
+  "book": "1-samuel",
+  "lang": "ky",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "במעגל",
+      "rationale": "Чынжыр чөйрөдө: 'б barricade' (JPS) · ' track' (YLT) · 'wagoonder жайы' (ASV) — сөз байыркы учурда атайын билинбеген."
+    },
+    {
+      "kind": "substitution",
+      "subject": "мעוכה",
+      "rationale": "сөз 'басылган, сайылган' дегенге жакын — 'сайылган' деп алынды, KJV 'stuck'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שכב\/שכבים",
+      "rationale": "Шаулдун жатуусу жана элдин жатуусу дал ошол эле тамыр менен берилген — кыргызча байланыш сакталды."
+    }
+  ],
+  "translation": "Давид жана Абишай түн иринде элге келди, жана караса, Шаул курчоонун ичинде уктап жаткан, анын найзасы жерге баш туш жагына сайылган турат, ал эми Авнер жана эл анын тегерегинде жатышкан.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "50b2f3fb6c10c9d126639d55cc08732b18048ed4efe435e2363aa4a7df43e983",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-samuel\/26\/7-8.1791223859342.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "келди"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "ואבישי",
+      "gloss": "жана Абишай"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…га"
+    },
+    {
+      "surface": "העם",
+      "gloss": "элге"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "түн"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "жана караса"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "жаткан"
+    },
+    {
+      "surface": "ישן",
+      "gloss": "уктап"
+    },
+    {
+      "surface": "במעגל",
+      "gloss": "курчоонун ичинде"
+    },
+    {
+      "surface": "וחניתו",
+      "gloss": "жана анын найзасы"
+    },
+    {
+      "surface": "מעוכה",
+      "gloss": "сайылган"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "жерге"
+    },
+    {
+      "surface": "מראшתו",
+      "gloss": "баш туш жагына"
+    },
+    {
+      "surface": "ואבנר",
+      "gloss": "жана Авнер"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "жана эл"
+    },
+    {
+      "surface": "שכבים",
+      "gloss": "жатышкан"
+    },
+    {
+      "surface": "סביבתו",
+      "gloss": "анын тегерегинде"
+    }
+  ],
+  "timestamp": "2026-10-05T18:10:59.343471967Z",
+  "model": "glm-5.3"
+}

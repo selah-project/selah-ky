@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 30:25",
+  "book": "job",
+  "lang": "ky",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לקשה יום",
+      "rationale": "'күнү кыйын' (кийин жашоо) же 'кыйынчылыкка учураган' — котормолор эки жолго бөлүнөт."
+    },
+    {
+      "kind": "substitution",
+      "subject": "жан",
+      "rationale": "נפש — дем алуу, жашоо күчү; 'жан' жакын, бирок так эмес."
+    },
+    {
+      "kind": "addition",
+      "subject": "адам",
+      "rationale": "Ивритте адам сөзү жок, 'күнү кыйын дегенге' кошулду."
+    }
+  ],
+  "translation": "Күнү кыйын болгон адам үчүн ыйлабадым беле? Жаным байкустун үчүн кайгырабады беле?",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "03d2b1aec17e7cdb0335e4d0c4fbe586ff2633e3fae4e266daa8cb50815396de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/job\/30\/25-28.1791219261469.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "беле"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨жок⟩"
+    },
+    {
+      "surface": "בכיתי",
+      "gloss": "ыйлабадым"
+    },
+    {
+      "surface": "לקשה",
+      "gloss": "кыйын"
+    },
+    {
+      "surface": "יום",
+      "gloss": "күнү"
+    },
+    {
+      "surface": "עגמה",
+      "gloss": "кайгырабады"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "жаным"
+    },
+    {
+      "surface": "לאביון",
+      "gloss": "байкустун"
+    }
+  ],
+  "timestamp": "2026-10-05T16:54:21.469807294Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 7:16",
+  "book": "judges",
+  "lang": "ky",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ראשים",
+      "rationale": "Literal «баштар» — адамдардын бөлүктөрү (башчылары) үчүн метонимия, кыргызча «бөлүккө» деп берилди."
+    },
+    {
+      "kind": "measurement",
+      "subject": "үч жүз",
+      "rationale": "Адамдардын саны жана бөлүнүшү саналып берилген."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כדים…הכדים",
+      "rationale": "Кумра сөзү эки жолу кайталанат — окшош түзүлүш, кыргызча да сакталды."
+    }
+  ],
+  "translation": "Ал ⟨את⟩ үч жүз адамды үч бөлүккө бөлдү, жана баарынын колуна шофарларды, бош кумраларды жана кумралардын ичинде алаампаларды берди.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "d3809489e9323efc6f2414234cb02e30aba87e1c955e7395a039fe4b5dccbe5d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/judges\/7\/13-16.1791206278710.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחץ",
+      "gloss": "бөлдү"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "үч жүз адамды"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "үч"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "жүз"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "адамды"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "үч"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "бөлүккө"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "берди"
+    },
+    {
+      "surface": "שופרות",
+      "gloss": "шофарларды"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "колуна"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "баарынын"
+    },
+    {
+      "surface": "וכדим",
+      "gloss": "кумраларды"
+    },
+    {
+      "surface": "רקים",
+      "gloss": "бош"
+    },
+    {
+      "surface": "ולפדים",
+      "gloss": "алаампаларды"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ичинде"
+    },
+    {
+      "surface": "הכדים",
+      "gloss": "кумралардын"
+    }
+  ],
+  "timestamp": "2026-10-05T13:17:58.712385413Z",
+  "model": "glm-5.3"
+}

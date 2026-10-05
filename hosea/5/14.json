@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "hosea 5:14",
+  "book": "hosea",
+  "lang": "ky",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "өзүм",
+      "rationale": "אני אני кайталоосу басым берет; 'Мен, Мен өзүм' деген формада сакталды."
+    },
+    {
+      "kind": "substitution",
+      "subject": "כפיר",
+      "rationale": "'жаш арстан' — бул сөз 'кептер' деген мааниде да колдонулат, бирок бул жерде жырткыч мааниси."
+    }
+  ],
+  "translation": "Анткени Мен Эфрайимге арстандай, Жеһуданын үй-бүлөсүнө жаш арстандаймин; Мен, Мен өзүм жыртып кетем, алып кетем, жана арачалай турган жок.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "2830d9081449925b2083262562e00a23b0e34e059796d79dfc3b9f578d333675",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/hosea\/5\/13-15.1791213810542.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Мен"
+    },
+    {
+      "surface": "כשחל",
+      "gloss": "арстандай"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "Эфрайимге"
+    },
+    {
+      "surface": "וככפיר",
+      "gloss": "жаш арстандай"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "үй-бүлөсүнө"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Жеһуданын"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Мен"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Мен өзүм"
+    },
+    {
+      "surface": "אטרף",
+      "gloss": "жыртып"
+    },
+    {
+      "surface": "ואלך",
+      "gloss": "кетем"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "алып кетем"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "жана жок"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "арачалай турган"
+    }
+  ],
+  "timestamp": "2026-10-05T15:23:30.543297472Z",
+  "model": "glm-5.3"
+}

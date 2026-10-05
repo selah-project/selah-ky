@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 18:1",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "צלצל",
+      "rationale": "шоокумдаган деген сөз Танахта бул жерде гана ушул формада кездешет"
+    },
+    {
+      "kind": "crux",
+      "subject": "צלצל כנפים",
+      "rationale": "«канат шоокуму» же «канат көлөкөсү» (Вульгата\/ЖКВ) же «чыңгыр «чымылдак» — тамыр түрдүүчө окшош"
+    }
+  ],
+  "translation": "Ой, канаттардын шуулдаган жери, Куш дарыяларынын ары жагында жаткан!",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "09e49299305836eb392ba88b85b98d89ff37106566c1a06010df6da0936bf95f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/18\/1-4.1791209736985.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Ой"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "жери"
+    },
+    {
+      "surface": "צלצל",
+      "gloss": "шуулдаган"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "канаттардын"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ал"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "ары жагында жаткан"
+    },
+    {
+      "surface": "לנהרי",
+      "gloss": "дарыяларынын"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Куш"
+    }
+  ],
+  "timestamp": "2026-10-05T14:15:36.986328550Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 41:13",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "тумдугум",
+      "rationale": "בתמי — бүтүндүк, күнөөсүздүк; «тумдук» сөзү бүтүн болгон жүрөктү билдирет"
+    },
+    {
+      "kind": "addition",
+      "subject": "Мени",
+      "rationale": "בי — предлогтун объектиси, кыргызча тактоо үчүн ⟨Мени⟩ кашаада кошулду"
+    }
+  ],
+  "translation": "Мен болсо, өз тумдугумда ⟨Мени⟩ кармап турасың жана Мени Өз жүзүңдөн түбөлүккө тургузасың.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "3593f26d5df36ed03f4821da3686baaf04a5bb73a37c85932cce938e7107cb0f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/41\/13-14.1791215917823.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Мен болсо"
+    },
+    {
+      "surface": "בתמי",
+      "gloss": "өз тумдугумда"
+    },
+    {
+      "surface": "תמכת",
+      "gloss": "кармап турасың"
+    },
+    {
+      "surface": "בי",
+      "gloss": "Мени"
+    },
+    {
+      "surface": "ותציבני",
+      "gloss": "жана Мени...тургузасың"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "Өз жүзүңдөн"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "түбөлүккө"
+    }
+  ],
+  "timestamp": "2026-10-05T15:58:37.823894059Z",
+  "model": "glm-5.3"
+}

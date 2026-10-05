@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 15:16",
+  "book": "2-samuel",
+  "lang": "ky",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "пилагеш",
+      "rationale": "פילגש — «жарымкатын\/токон» деген статус; түшүнүксүз болбошу үчүн еврейче сөз айтылышында берилди"
+    },
+    {
+      "kind": "idiom",
+      "subject": "ברגליו",
+      "rationale": "Түз мааниси «анын буттарынын астында» — «ээрчип» деген маани, кыргызча да түз формада сакталды"
+    }
+  ],
+  "translation": "Падыша чыкты жана анын бүт үй-бүлөсү анын буттарынын астында; падыша он аял — пилагештерди — ⟨את⟩ үйдү күтүү үчүн калдырды.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "19a1d22330635f4300dea5fe62eb52e33b4f4fa69f5028a74410113fb6ea966d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-samuel\/15\/13-16.1791207639162.json",
+    "code": "641241cf-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "чыкты"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Падыша"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "жана бүт"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "үй-бүлөсү"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "буттарынын астында"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "калдырды"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "падыша"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "он аял-пилагештерди"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "он"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "аял"
+    },
+    {
+      "surface": "פלגשים",
+      "gloss": "пилагештерди"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "күтүү үчүн"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "үйдү"
+    }
+  ],
+  "timestamp": "2026-10-05T13:40:39.163598179Z",
+  "model": "glm-5.3"
+}

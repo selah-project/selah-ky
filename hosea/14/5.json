@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 14:5",
+  "book": "hosea",
+  "lang": "ky",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אפי",
+      "rationale": "Буквально «Менин мурнум» — демде ачуу маанисинде, кыргызча «ачуум» деп берилди"
+    },
+    {
+      "kind": "substitution",
+      "subject": "мшемבה",
+      "rationale": "נדבה «ыктыярдуулук, өз каалоо менен» — «тартуу» эмес, эрктүүлүк мааниси сакталды"
+    },
+    {
+      "kind": "addition",
+      "subject": "Мен",
+      "rationale": "Ивритте даана жок көрүнүп турат (агглютинацияланган форма), кыргызча этишти субъекти менен берүү зарыл"
+    }
+  ],
+  "translation": "Мен алардын чегинүүсүн айыктырам, аларды ыктыярдуу сүйөм, анткени Менин ачуум андан кайтты.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "33a70dbb1802f770e32d7c3d826afaea8dc33bfe9a56dc0f61b012e18af35e66",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/hosea\/14\/5-8.1791214007515.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ארפא",
+      "gloss": "айыктырам"
+    },
+    {
+      "surface": "משובתם",
+      "gloss": "алардын чегинүүсүн"
+    },
+    {
+      "surface": "אהבם",
+      "gloss": "аларды сүйөм"
+    },
+    {
+      "surface": "נדבה",
+      "gloss": "ыктыярдуу"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "שב",
+      "gloss": "кайтты"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "ачуум"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "андан"
+    }
+  ],
+  "timestamp": "2026-10-05T15:26:47.515537886Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 121:3",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 121,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ал⟩",
+      "rationale": "Ким тайгактырбай турганы ачык эмес: Яхве же сактоочу — кыргызча субъективдүү"
+    },
+    {
+      "kind": "you",
+      "subject": "Йисраэлге \/ зыяратчыга",
+      "rationale": "2-жак мүчөлөр (бутаң, сактоочуң) — тикелей кайрылуу"
+    }
+  ],
+  "translation": "Бутаңды тайгактырбасын, сактоочуң уйкулабасын.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "8f07faf0f11916aa1ad6ab96a29c64b818bcebbde0b41505d274b77833588e39",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/121\/1-4.1791217411588.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "-басын"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "тиеше көрсөтпөсүн"
+    },
+    {
+      "surface": "лמוט",
+      "gloss": "тайгактырбасын"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "бутаңды"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-басын"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "уйкулабасын"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "сактоочуң"
+    }
+  ],
+  "timestamp": "2026-10-05T16:23:31.589351664Z",
+  "model": "glm-5.3"
+}

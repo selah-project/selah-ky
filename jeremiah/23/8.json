@@ -1,0 +1,128 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 23:8",
+  "book": "jeremiah",
+  "lang": "ky",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "כי אם",
+      "rationale": "«кийинки» каршы коюу калыбы — кыргызча «бирок» деген бир сөз менен берилди."
+    },
+    {
+      "kind": "substitution",
+      "subject": "זרע",
+      "rationale": "«үрөн» — тукум маанисинде да, бирок сөздүн формасы өсүмдүк үрөнүн билдирет."
+    },
+    {
+      "kind": "addition",
+      "subject": "жана",
+      "rationale": "7-аяттын уландысы катары «бирок» менен байланышкан сөздөр кыргызча таза угуу үчүн коюлду."
+    }
+  ],
+  "translation": "Бирок: «Тирүү Яхве, ал Йисраэл үй-бүлөсүнүн ⟨את⟩ үрөнүн түндүк жерінен, аларды кууган бүт жерлерден алып чыгып, алып келген»; алар өз жерлеринде отурушат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "1e60cac891bf77fb20372154fcb642d05eb6a27881f66a2d50131bfb83ec1fe6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/jeremiah\/23\/5-8.1791211259234.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "бирок"
+    },
+    {
+      "surface": "אם",
+      "gloss": "—"
+    },
+    {
+      "surface": "חי",
+      "gloss": "Тирүү"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ал"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "алып чыгып"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "жана ал"
+    },
+    {
+      "surface": "הביא",
+      "gloss": "алып келген"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "үрөнүн"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "үрөнүн"
+    },
+    {
+      "surface": "בית",
+      "gloss": "үй-бүлөсүнүн"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэл"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "жерінен"
+    },
+    {
+      "surface": "צפונה",
+      "gloss": "түндүк"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "бүт"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "жерлерден"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "аларды"
+    },
+    {
+      "surface": "הדחתים",
+      "gloss": "кууган"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ал жерде"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "отурушат"
+    },
+    {
+      "surface": "על",
+      "gloss": "—"
+    },
+    {
+      "surface": "אדמתם",
+      "gloss": "өз жерлеринде"
+    }
+  ],
+  "timestamp": "2026-10-05T14:40:59.236418252Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 140:6",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 140,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "лид",
+      "rationale": "«Колдун жанында» — жолдун жээги деген сөз айкашы; кыргызча «жолго жакын» деп берилди."
+    },
+    {
+      "kind": "elision",
+      "subject": "Селах",
+      "rationale": "סלах музыкалык белги, котормо эмес, транслитерацияланып сакталды."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "פח · רשת · מקשים",
+      "rationale": "Үч ар башка тузак сөзүнүн өтмөгү — аңчылык образдарынын катмарлануусу."
+    }
+  ],
+  "translation": "Текеберлер мага тор жашырышты жана жиптер; алар жолго жакын тор жайышты, мага тузактар коюшту. Селах.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "f06e768a26a834343732c1f2e13446a76b7c3e2d7ff917327d1302bb6fa497fe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/140\/5-8.1791217594456.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טמנו",
+      "gloss": "жашырышты"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "текеберлер"
+    },
+    {
+      "surface": "פח",
+      "gloss": "тор"
+    },
+    {
+      "surface": "ли",
+      "gloss": "мага"
+    },
+    {
+      "surface": "וחבלים",
+      "gloss": "жана жиптер"
+    },
+    {
+      "surface": "пרשו",
+      "gloss": "жайышты"
+    },
+    {
+      "surface": "רשת",
+      "gloss": "тор"
+    },
+    {
+      "surface": "ליד",
+      "gloss": "жолго жакын"
+    },
+    {
+      "surface": "מעגל",
+      "gloss": "жол"
+    },
+    {
+      "surface": "מקשים",
+      "gloss": "тузактар"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "коюшту"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мага"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Селах"
+    }
+  ],
+  "timestamp": "2026-10-05T16:26:34.457731495Z",
+  "model": "glm-5.3"
+}

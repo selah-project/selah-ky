@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 95:2",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 95,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "таазим",
+      "rationale": "תודה literally 'hand extended' → thanksgiving offering; rendered as 'thankful praise'"
+    },
+    {
+      "kind": "invitation",
+      "subject": "cohortatives",
+      "rationale": "Continued first-person-plural summons"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נרננה\/נריע",
+      "rationale": "Root pair רנן\/רוע repeated from v.1 — ringing shout echo carries into v.2"
+    }
+  ],
+  "translation": "Анын жүзүнө таазим менен алдынан баралы, замырлар менен Ага кыйкырайлы",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "10d86986e2ff93155526143b6e52afb9b7bf2e9ef6d05a572507347523f37b71",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/95\/1-4.1791216898234.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נקדמה",
+      "gloss": "алдынан баралы"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "Анын жүзүнө"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "таазим менен"
+    },
+    {
+      "surface": "בזמרות",
+      "gloss": "замырлар менен"
+    },
+    {
+      "surface": "נריע",
+      "gloss": "кыйкырайлы"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Ага"
+    }
+  ],
+  "timestamp": "2026-10-05T16:14:58.235428004Z",
+  "model": "glm-5.3"
+}

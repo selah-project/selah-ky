@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 24:1",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "בא בימים",
+      "rationale": "буквалдыу 'күндөргө кирди' — курагы чоңоюп калды деген идиома."
+    },
+    {
+      "kind": "addition",
+      "subject": "эле",
+      "rationale": "Кыргызча өткөн чак мааниси үчүн кошулду; еврейче жок."
+    }
+  ],
+  "translation": "Аврахам карыган эле, күндөргө кирген эле, жана Яхве ⟨את⟩ Аврахамды нерселердин баарында баталаган эле.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "ea961d83f769b412ae323bc6f09c0c25c1bc1d1e6182a27e37d93f92ea907400",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/24\/1-4.1791201135481.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואברהם",
+      "gloss": "Аврахам"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "караган эле"
+    },
+    {
+      "surface": "בא",
+      "gloss": "кирген эле"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "күндөргө"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "жана Яхве"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "баталаган эле"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Аврахамды"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Аврахамды"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "баарында"
+    }
+  ],
+  "timestamp": "2026-10-05T11:52:15.481525236Z",
+  "model": "glm-5.3"
+}

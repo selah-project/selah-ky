@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 84:12",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 84,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨—⟩ тире\/копула",
+      "rationale": "Еврейче айтымда «болот» деген байлам жок; кыргызча тире менен берилди"
+    },
+    {
+      "kind": "substitution",
+      "subject": "токтоолуу",
+      "rationale": "בתמים — «толук, бүтүндөй, өзгөчөлүк» деген мааниде; «токтоолуу» жакын котормо"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חן \/ וכבוד",
+      "rationale": "Ырайым менен даңктын жупташып кайталанышы — ыр саптагы параллелизм"
+    }
+  ],
+  "translation": "Анткени Яхве Элохим — күн жана калкан; ырайым менен даңкты Яхве берет; токтоолуу жүргөндөрдөн жакшылыкты кармабайт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "08f30260f093c112e0b4d6c2bd3512ff528184b773f326dd2f3fb95cfbc6d76c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/84\/12-12.1791224469176.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "күн"
+    },
+    {
+      "surface": "ומגן",
+      "gloss": "жана калкан"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "חן",
+      "gloss": "ырайым"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "менен даңк"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "берет"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "ימנע",
+      "gloss": "кармабайт"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "жакшылык"
+    },
+    {
+      "surface": "להלכים",
+      "gloss": "жүргөндөрдөн"
+    },
+    {
+      "surface": "בתמים",
+      "gloss": "токтоолуу"
+    }
+  ],
+  "timestamp": "2026-10-05T18:21:09.177275322Z",
+  "model": "glm-5.3"
+}

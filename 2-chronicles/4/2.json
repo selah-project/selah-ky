@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 4:2",
+  "book": "2-chronicles",
+  "lang": "ky",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "он чылач… отуз чылач",
+      "rationale": "Деңиздин өлчөмдөрү: диаметри 10, бийиктиги 5, айланасы 30 чылач."
+    },
+    {
+      "kind": "crux",
+      "subject": "жип (קו)",
+      "rationale": "Отуз чылач «жип» — окружностьтин өлчөмү; π≈3 болжолдуулугу боюнча белгилүү талаш."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "סביב…סביב",
+      "rationale": "«Тегеректей, айланасы боюнча» — סבב тамырынын кайталоосу."
+    }
+  ],
+  "translation": "Жана ал ⟨את⟩ Куйма Деңизди жасады: жээгинен жээгине чейин он чылач, тегерек, айланасы боюнча, бийиктиги беш чылач, жана отуз чылач жип аны тегеректей курчап турду.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "b648226e045fe23f329dd32710053b493f4e679765225bf24ae355bedf0d40d9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-chronicles\/4\/2-3.1791224656676.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "жасады"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Куйма Деңизди"
+    },
+    {
+      "surface": "הים",
+      "gloss": "Деңизди"
+    },
+    {
+      "surface": "מוצק",
+      "gloss": "куйма"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "он"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "чылач"
+    },
+    {
+      "surface": "משפתו",
+      "gloss": "жээгинен"
+    },
+    {
+      "surface": "אל",
+      "gloss": "чейин"
+    },
+    {
+      "surface": "שפתו",
+      "gloss": "жээгине"
+    },
+    {
+      "surface": "עגול",
+      "gloss": "тегерек"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "айланасы боюнча"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "жана беш"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "чылач"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "бийиктиги"
+    },
+    {
+      "surface": "וקו",
+      "gloss": "жана жип"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "отуз"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "чылач"
+    },
+    {
+      "surface": "יסב",
+      "gloss": "курчап турду"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ аны",
+      "marks": "аны"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "тегеректей"
+    }
+  ],
+  "timestamp": "2026-10-05T18:24:16.677567811Z",
+  "model": "glm-5.3"
+}

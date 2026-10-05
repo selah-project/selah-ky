@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 89:1",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "машкил",
+      "rationale": "משכיל — музыкалык\/адабий көрсөтмө; «акыл үйрөткөн ыр» деп берилди, так мааниси билинбейт."
+    }
+  ],
+  "translation": "Акыл үйрөткөн ыр, Эйтан Эзрахитке тиешелүү.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "00677826807f8ef4eb285ebc5735edd95335c06db53b37ecefb1a35daed13445",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/89\/1-4.1791216796422.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "акыл үйрөткөн ыр"
+    },
+    {
+      "surface": "לאיתן",
+      "gloss": "Эйтан"
+    },
+    {
+      "surface": "האזרחי",
+      "gloss": "Эзрахит"
+    }
+  ],
+  "timestamp": "2026-10-05T16:13:16.423004555Z",
+  "model": "glm-5.3"
+}

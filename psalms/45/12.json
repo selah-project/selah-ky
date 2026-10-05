@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 45:12",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אדניך",
+      "rationale": "Бул жерде адам — падыша жөнүндө, ошондуктан 'мырзаң'; кийинки салтта Яхвеге карата окуулар да бар."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "והשתחוי לו",
+      "rationale": "Баш ийүү буйругу 'ал мырзаң' деген себеп менен ыргактуу байланышта."
+    }
+  ],
+  "translation": "Падыша сулуулугуңду кааласын, анткени ал сенин мырзаң — ага баш ий.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "15bd46efc475de8ce0b91834e51b08724dc0458c8621ee8945062f58d2a616a8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/45\/9-12.1791216059463.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתאו",
+      "gloss": "кааласын"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "падыша"
+    },
+    {
+      "surface": "יפיך",
+      "gloss": "сулуулугуңду"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ал"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "сенин мырзаң"
+    },
+    {
+      "surface": "והשתחוי",
+      "gloss": "баш ий"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ага"
+    }
+  ],
+  "timestamp": "2026-10-05T16:00:59.464516706Z",
+  "model": "glm-5.3"
+}

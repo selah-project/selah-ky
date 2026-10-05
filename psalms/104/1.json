@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 104:1",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 104,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жан",
+      "rationale": "נפשי — «дем алуучу жаны»: кыргызча «жан» жакын, бирок бул «тамак\/жашоо күчү» дегенди да билдирет"
+    },
+    {
+      "kind": "addition",
+      "subject": "Сен ... улуусуң",
+      "rationale": "Ивритте копула жок, кыргызча «Сен» жана «-суң» кошулду"
+    },
+    {
+      "kind": "you",
+      "subject": "to Яхве",
+      "rationale": "Жан өзүнө багыттап, Яхвени алкылууга чакырат"
+    }
+  ],
+  "translation": "Жаныма, ⟨את⟩ Яхвени алкыла; о Яхве, Элохимим, Сен өтө улуусуң, Сен улуулукту жана көркөмдүктү кийип алдың.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "80e8b39750f89be9c4df9e4cea0680088468ffdd09e59397ae433aeecdae158c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/104\/1-4.1791217017847.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "алкыла"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "жаныма"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яхвени"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвени"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Элохимим"
+    },
+    {
+      "surface": "גדלת",
+      "gloss": "улуусуң"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "өтө"
+    },
+    {
+      "surface": "הוד",
+      "gloss": "улуулукту"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "жана көркөмдүктү"
+    },
+    {
+      "surface": "לבשת",
+      "gloss": "кийип алдың"
+    }
+  ],
+  "timestamp": "2026-10-05T16:16:57.848005348Z",
+  "model": "glm-5.3"
+}

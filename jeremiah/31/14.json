@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 31:14",
+  "book": "jeremiah",
+  "lang": "ky",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жан",
+      "rationale": "נפש 'жан' эмес, дем алуучу жашоо күчү, тамакка болгон умтул"
+    },
+    {
+      "kind": "elision",
+      "subject": "דשן",
+      "rationale": "'майлуулук' — ыйык кызматка арналган майда кой, кыргызчада курмандык мааниси ачылбай калды"
+    }
+  ],
+  "translation": "Жана Мен ыйык кызмат кылуучулардын жанын майлуулук менен тойгузам, жана Менин элим Менин жакшылыгыма ⟨את⟩ тойот, — Яхвенин сөзү.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "b255feae052ae4b5516b499c84664ae54c9a3b33b44614506f6f0e3c322d3cb4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/jeremiah\/31\/13-16.1791211418301.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ורויתי",
+      "gloss": "тойгузам"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "жанын"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ыйык кызмат кыzuучулардын"
+    },
+    {
+      "surface": "דשן",
+      "gloss": "майлуулук"
+    },
+    {
+      "surface": "ועמי",
+      "gloss": "жана Менин элим"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Менин жакшылыгыма"
+    },
+    {
+      "surface": "טובי",
+      "gloss": "Менин жакшылыгым"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "тойот"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "сөзү"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    }
+  ],
+  "timestamp": "2026-10-05T14:43:38.302658856Z",
+  "model": "glm-5.3"
+}

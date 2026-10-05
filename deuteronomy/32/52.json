@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "deuteronomy 32:52",
+  "book": "deuteronomy",
+  "lang": "ky",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "алыстан",
+      "rationale": "минегед — «карыш жерде, туш тарапта» деген сөз, кыргызча «алыстан» маанини берет"
+    },
+    {
+      "kind": "addition",
+      "subject": "ал жакка",
+      "rationale": "вешама — «ошол жерге» деген бир сөз, кыргызча эки сөз болду"
+    },
+    {
+      "kind": "elision",
+      "subject": "которую",
+      "rationale": "אשер төрт жолу кайталанып, кыргызча бир сөз менен берилди"
+    }
+  ],
+  "translation": "Анткены сен ⟨את⟩ жерди алыстан көрөсүң, бирок Мен Йисраэл уулдарына берген жерге кире албайсың.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "873ccfd3e4a8112c3ec3f18c6c4ac4a86ca0bab5c0e33268beeadc82c0f6132c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/32\/49-52.1791205423581.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "анткены"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "алыстан \/ каршысынан"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "көрөсүң"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "жерди"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "жерди"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "бирок ал жакка"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок \/ албайсың"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "кире"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…га \/ -га"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "жерге"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "которую"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Мен"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "берген"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "…нын уулдарына \/ уландарына"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэлдин"
+    }
+  ],
+  "timestamp": "2026-10-05T13:03:43.583078832Z",
+  "model": "glm-5.3"
+}

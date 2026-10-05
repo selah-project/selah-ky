@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 18:16",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ачууңдан",
+      "rationale": "מגערתך — «сенин тилдегениңден\/койругуңдан»; кыргызча табигый үчүн «ачууңдан» деп берилди"
+    },
+    {
+      "kind": "idiom",
+      "subject": "мурдуңдун рухунун деми",
+      "rationale": "אף — мурдун; ивритте каардарлык мурдундан чыккан дем менен сүрөттөлөт, кыргызча да сөзмө-сөз сакталды"
+    }
+  ],
+  "translation": "Жана суу агымдары көрүндү, жана жердин пайдубалдары ачылып калды — Сенин ачууңдан, Яхве, Сенин мурдуңдун рухунун деминен.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "608c6fed06f7833bbbefd115254c0e4e2e7d5951059d2364ce59478d255b4ba9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/18\/13-16.1791215569477.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "көрүндү"
+    },
+    {
+      "surface": "אפיקי",
+      "gloss": "агымдары"
+    },
+    {
+      "surface": "מים",
+      "gloss": "суу"
+    },
+    {
+      "surface": "ויגלו",
+      "gloss": "ачылып калды"
+    },
+    {
+      "surface": "מוסדות",
+      "gloss": "пайдубалдары"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "жердин"
+    },
+    {
+      "surface": "מגערתך",
+      "gloss": "Сенин ачууңдан"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "מנשמת",
+      "gloss": "деминен"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "рухунун"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "мурдуңдун"
+    }
+  ],
+  "timestamp": "2026-10-05T15:52:49.478667953Z",
+  "model": "glm-5.3"
+}

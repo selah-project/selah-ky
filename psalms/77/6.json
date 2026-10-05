@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 77:6",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 77,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "алгачкы замандардын",
+      "rationale": "עולמים — «жоголуу чегине чейинки убакыт»; кыргызча «түбөлүк» да мүмкүн"
+    }
+  ],
+  "translation": "Мен байыркы күндөрдү ойлоп чыгам, алгачкы замандардын жылдарын эсиме түшүрөм.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "6a84d3cd64e25f3fe64598015cc650f563b9fc12bab644192602b75f8177ab93",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/77\/5-8.1791216520017.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חשбתי",
+      "gloss": "ойлоп чыгам"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "күндөрдү"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "байыркы"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "жылдарын"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "алгачкы замандардын"
+    }
+  ],
+  "timestamp": "2026-10-05T16:08:40.018168106Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 52:4",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 52,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨аны⟩",
+      "rationale": "עשקו объектиси — «аны» (элим) кыргызча талап кылат, еврейчеде этиштин аягында гана"
+    },
+    {
+      "kind": "crux",
+      "subject": "ואשור באפס",
+      "rationale": "«Ашшур акысыз» — бекер, акысыз зордук же «толук (эпсиз) зордук» деген окуулар бар"
+    }
+  ],
+  "translation": "Анткени Адонай Яхве мындай дейт: алгач элим Мицрайимге ал жерде конуш болуу үчүн түштү, жана Ашшур аны акысыз зорлук кылды.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "82878627cbc51c07e9aaf9b90461175ba057fe9592f8c0fb9318309ff589c8eb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/52\/1-4.1791210410460.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "כה",
+      "gloss": "мындай"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "дейт"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицрайимге"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "түштү"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "элим"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "алгач"
+    },
+    {
+      "surface": "לגור",
+      "gloss": "конуш болуу үчүн"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ал жерде"
+    },
+    {
+      "surface": "ואשור",
+      "gloss": "жана Ашшур"
+    },
+    {
+      "surface": "באפס",
+      "gloss": "акысыз"
+    },
+    {
+      "surface": "עשקו",
+      "gloss": "зорлук кылды"
+    }
+  ],
+  "timestamp": "2026-10-05T14:26:50.461369171Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "lamentations 3:2",
+  "book": "lamentations",
+  "lang": "ky",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "айдап",
+      "rationale": "נהג — мал айдагандай айдоо маанисинде; «жетектеди» деген жумшак котормо сүрөттү жоготот"
+    }
+  ],
+  "translation": "⟨את⟩ мени айдап, караңгылыкка жүргөздү — жарыкка эмес.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "cd7b0b8efa22676419bf13ef797ee7b9369fbcf8377f072e991a2e6bb886e6f6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/lamentations\/3\/1-4.1791219816862.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "мени"
+    },
+    {
+      "surface": "נהг",
+      "gloss": "айдап"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "жүргөздү"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "караңгылыкка"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "эмес"
+    },
+    {
+      "surface": "אור",
+      "gloss": "жарыкка"
+    }
+  ],
+  "timestamp": "2026-10-05T17:03:36.863582217Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 2:7",
+  "book": "job",
+  "lang": "ky",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ириңдүү жара",
+      "rationale": "שחין — 'ибез, ириңдүү жаралоо'; 'boils' көп сан, еврейче жекеше."
+    },
+    {
+      "kind": "measurement",
+      "subject": "таманынан чокусуна чейин",
+      "rationale": "Дене бүтүндөй ченелүүчү сүрөт: өтө ылдыйдан өтө жогоруга чейин."
+    }
+  ],
+  "translation": "Жана Сатана Яхвенин жүзүнөн ⟨את⟩ чыгып, Ийовду таманынын табанынан башынын чокусуна чейин жаман ириңдүү жара менен урду.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "dcc2ad8e5586abc31c88729202a96bda0340f7952bb1329573ea994d70a22086",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/job\/2\/5-8.1791218565225.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "Жана … чыгып"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "Сатана"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "…нен ⟨את⟩"
+    },
+    {
+      "surface": "פני",
+      "gloss": "жүзүнөн"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "уру"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ийовду"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ийовду"
+    },
+    {
+      "surface": "בשחין",
+      "gloss": "ириңдүү жара менен"
+    },
+    {
+      "surface": "רע",
+      "gloss": "жаман"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "табанынан"
+    },
+    {
+      "surface": "רגלו",
+      "gloss": "таманынын"
+    },
+    {
+      "surface": "עד",
+      "gloss": "чейин"
+    },
+    {
+      "surface": "קדקדו",
+      "gloss": "башынын чокусуна"
+    }
+  ],
+  "timestamp": "2026-10-05T16:42:45.226848689Z",
+  "model": "glm-5.3"
+}

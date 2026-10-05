@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 71:3",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 71,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "צוית להושיעני",
+      "rationale": "'Сен куткарууну буйрудуң' же 'куткарууну буйрук бер' — өткөн чак да, буйрук да болушу мүмкүн (KJV буйрук дебейт)."
+    },
+    {
+      "kind": "addition",
+      "subject": "суң",
+      "rationale": "Кыргызча атооччул конструкция ээлик мүчөнү талап кылат, ивритте жок."
+    }
+  ],
+  "translation": "Мага аска-жайдын, дайыма кирүүгө болуучу мекендин бол; сен мени куткарууну буйрудуң, анткени сен менин аскам жана бекем крепостумсуң.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "38058d90d99057f2165ca77799e41e1aa7540a660bf582d3cd81aac6bf69eb7d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/71\/1-4.1791216433229.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "היה",
+      "gloss": "бол"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мага"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "аска-жайдын"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "мекендин"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "кирүүгө"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "дайыма"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "буйрудуң"
+    },
+    {
+      "surface": "להושיעני",
+      "gloss": "мени куткарууну"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "менин аскам"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "жана бекем крепостум"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "сен"
+    }
+  ],
+  "timestamp": "2026-10-05T16:07:13.229977473Z",
+  "model": "glm-5.3"
+}

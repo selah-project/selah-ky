@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 1:5",
+  "book": "ecclesiastes",
+  "lang": "ky",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "шואף",
+      "rationale": "«Шабылдап» (дем алгысы келгендей аракет кылып) — KJV «hasteth» «шашылышат» деп берет; негизги мааниси «тез-тез дем алуу»."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "זרח ... זורח",
+      "rationale": "Аятта «чыгат» жана «чыгып турган» бир эле тамырдан кайталанат — күндүн айланып келиши даана көрүнөт."
+    }
+  ],
+  "translation": "Жана күн чыгат, жана күн батат, жана өз ордуна шабылдап барат — ал чыгып турган ошол жерде.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "7ee817c5897eb9019f5f2eb1e4bead17372d0ec66a5cd051a57637b4597197cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ecclesiastes\/1\/5-8.1791220027916.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וזרח",
+      "gloss": "жана чыгат"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "күн"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "жана батат"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "күн"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "жана ... ка"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "өз ордуна"
+    },
+    {
+      "surface": "שואף",
+      "gloss": "шабылдап"
+    },
+    {
+      "surface": "זורח",
+      "gloss": "чыгып турган"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ал"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ошол жерде"
+    }
+  ],
+  "timestamp": "2026-10-05T17:07:07.917408447Z",
+  "model": "glm-5.3"
+}

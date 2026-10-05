@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 78:17",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "каршы",
+      "rationale": "לחטא לו кайра айтылышы — кыргызча 'ага каршы' предлоги кошулду"
+    },
+    {
+      "kind": "substitution",
+      "subject": "кургак чөл",
+      "rationale": "בציה — 'кургактык\/чөл'; бир сөз эки сөзгө айланды"
+    }
+  ],
+  "translation": "Жана алар дагы ага каршы күнөө кылды, эң Жогоркуну кургак чөлдө нааразы кылышты.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "45132fcddd19c03ae7c7fda930131bc10ebc10a668dd27918511bfbed25c9ec8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/78\/17-20.1791216573962.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויוסיפו",
+      "gloss": "жана...дагы"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "дагы"
+    },
+    {
+      "surface": "לחטא",
+      "gloss": "күнөө кылды"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ага каршы"
+    },
+    {
+      "surface": "למרות",
+      "gloss": "нааразы кылышты"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "эң Жогоркуну"
+    },
+    {
+      "surface": "בציה",
+      "gloss": "кургак чөлдө"
+    }
+  ],
+  "timestamp": "2026-10-05T16:09:33.963440915Z",
+  "model": "glm-5.3"
+}

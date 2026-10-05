@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 6:12",
+  "book": "2-chronicles",
+  "lang": "ky",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ал",
+      "rationale": "Ивритте субъект жок — алдындағы тексттен Шеломо экени белгилүү"
+    },
+    {
+      "kind": "substitution",
+      "subject": "כפיו",
+      "rationale": "Көп жалганы 'алакандарын' деп берилди; жекече да болот ('алаканын')"
+    }
+  ],
+  "translation": "Жана ал Яхвенин курмандык чалынын алдында, бүт Йисраэл чогулушунун каршысында турду да, алакандарын жайып дерди.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "5cf5142afa9b8966104ce5cdcd0741c5e6f56653e29567c95cbd7edcff5b49d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-chronicles\/6\/12-12.1791224628998.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "турду"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "алдында"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "курмандык чалы"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "каршысында"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүт"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "чогулуш"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэл"
+    },
+    {
+      "surface": "ויפרש",
+      "gloss": "жайып"
+    },
+    {
+      "surface": "כפיו",
+      "gloss": "алакандарын"
+    }
+  ],
+  "timestamp": "2026-10-05T18:23:48.999343245Z",
+  "model": "glm-5.3"
+}

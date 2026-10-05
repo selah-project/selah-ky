@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 6:17",
+  "book": "numbers",
+  "lang": "ky",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "минха",
+      "rationale": "מנחתו — минха деп сакталды, «ун курмандыгы» котормосу эмес"
+    },
+    {
+      "kind": "elision",
+      "subject": "завет кабыгы",
+      "rationale": "סל — жөн гана «себет»; «ачыткысыз» да «татыктуу» ордуна дафтарлык сөз"
+    }
+  ],
+  "translation": "Жана ⟨את⟩ кочкорун Яхвеге тынчтык курмандыгы катары жасайт, ачыткысыз нандардын себетинин үстүнөн; ымыркай да анын минхасын жана анын ичимдик курмандыгын жасайт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "5c0c6a99105a177a605235c94bf6c3b575be447c9ed9022b1c168e65fb1e3968",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/numbers\/6\/17-20.1791203683944.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "кочкорун"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "кочкору"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "жасайт"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "курмандык"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "тынчтык"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхвеге"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстүнөн"
+    },
+    {
+      "surface": "סל",
+      "gloss": "себет"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "ачыткысыз нандардын"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "жана жасайт"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ымыркай"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "анын минхасын"
+    },
+    {
+      "surface": "מנחתו",
+      "gloss": "анын минхасы"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "жана ⟨את⟩",
+      "marks": "анын ичимдик курмандыгын"
+    },
+    {
+      "surface": "נסכו",
+      "gloss": "анын ичимдик курмандыгы"
+    }
+  ],
+  "timestamp": "2026-10-05T12:34:43.945146993Z",
+  "model": "glm-5.3"
+}

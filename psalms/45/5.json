@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 45:5",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ותורך",
+      "rationale": "Тамыры ירה: 'үйрөтөт' (KJV, JPS) же 'ата атып жиберет' (BSB 'show') — эки окуу тең бар."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ксылдык",
+      "rationale": "ענוה — 'жумшактык\/моюн сунуу', падышалык касиет катары."
+    }
+  ],
+  "translation": "Жана сенин даңкың менен ийгилик тап, минген бойдон чындык сөзүнүн, ксылдыктын жана цедектин үчүн, жана сенин оң колуң сага коркутуучу иштерди үйрөтөт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "629bded34f53d67fc575652ae2097649e1ec92627abe711e50b62f34c967bf30",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/45\/5-8.1791216138075.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והדרך",
+      "gloss": "жана сенин даңкың"
+    },
+    {
+      "surface": "צלח",
+      "gloss": "ийгилик тап"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "мин"
+    },
+    {
+      "surface": "על",
+      "gloss": "үчүн"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сөз"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "чындык"
+    },
+    {
+      "surface": "וענוה",
+      "gloss": "жана ксылдык"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "цедек"
+    },
+    {
+      "surface": "ותורך",
+      "gloss": "жана оң колуң үйрөтөт"
+    },
+    {
+      "surface": "נוראות",
+      "gloss": "коркутуучу иштер"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "сенин оң колуң"
+    }
+  ],
+  "timestamp": "2026-10-05T16:02:18.075825696Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 3:12",
+  "book": "2-kings",
+  "lang": "ky",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Ошондуктан",
+      "rationale": "еврей текстинде жок — аракеттин себебин байланыштыруу үчүн кошулду."
+    }
+  ],
+  "translation": "Йехошафат айтты: Аны менен Яхвенин ⟨את⟩ сөзү бар. Ошондуктан Йисраэл падышасы, Йехошафат жана Эдом падышасы ага түшүштү.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "858259e49cdb4caad24f2b628b9fd189bca89096455c2c8f68deca18e6a385ac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-kings\/3\/9-12.1791208666727.json",
+    "code": "641241cf-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Йехошафат"
+    },
+    {
+      "surface": "יש",
+      "gloss": "бар"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "Яхвенин сөзү"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сөзү"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    },
+    {
+      "surface": "וירדו",
+      "gloss": "түшүштү"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ага"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "падышасы"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэл"
+    },
+    {
+      "surface": "ויהושפט",
+      "gloss": "жана Йехошафат"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "жана падышасы"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Эдом"
+    }
+  ],
+  "timestamp": "2026-10-05T13:57:46.729581045Z",
+  "model": "glm-5.3"
+}

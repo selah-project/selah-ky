@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 105:19",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "сынады",
+      "rationale": "צרפ — «эритип тазалоо» (металл); Йосеп тазаланган сыяктуу сыналды"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דברו \/ אמרת",
+      "rationale": "«сөзү \/ сөзү» — эки синоним катар келет; кыргызча айырма толук сакталбай калды"
+    }
+  ],
+  "translation": "Анын сөзү келген убакка чейин Яхвенин сөзү аны сынады.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "f8327d44b013834f214f5d4c59b87ad829552042b07997840c8b507bc8c87c53",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/105\/17-20.1791217105353.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "чейин"
+    },
+    {
+      "surface": "עת",
+      "gloss": "убакка"
+    },
+    {
+      "surface": "בא",
+      "gloss": "келген"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "анын сөзү"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "сөзү"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    },
+    {
+      "surface": "צרפתהו",
+      "gloss": "аны сынады"
+    }
+  ],
+  "timestamp": "2026-10-05T16:18:25.357606556Z",
+  "model": "glm-5.3"
+}

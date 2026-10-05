@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 44:13",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "байлыкка",
+      "rationale": "בלא הון literally 'without wealth' — 'for no wealth', rendered adverbially in Kyrgyz"
+    },
+    {
+      "kind": "alternative",
+      "subject": "JPS 'small gain'",
+      "rationale": "Some read בלא הון as 'for a trifling price' rather than 'for nothing'"
+    }
+  ],
+  "translation": "Сен элиңди эч байлыкка сатасың жана алардын баасынан көбөйтпөйсүң.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "ae5db8211991fba40a7be49d8a8fef6e18c73abf8fefdfb9a9b7cf74c6b387de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/44\/13-16.1791216044460.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תמכר",
+      "gloss": "сатасың"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "элиңди"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "эч"
+    },
+    {
+      "surface": "הון",
+      "gloss": "байлыкка"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "жана... бөлөк"
+    },
+    {
+      "surface": "רבית",
+      "gloss": "көбөйтпөйсүң"
+    },
+    {
+      "surface": "במחיריהם",
+      "gloss": "алардын баасынан"
+    }
+  ],
+  "timestamp": "2026-10-05T16:00:44.460520331Z",
+  "model": "glm-5.3"
+}

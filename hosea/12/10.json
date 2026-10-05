@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 12:10",
+  "book": "hosea",
+  "lang": "ky",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ал эми Мен⟩",
+      "rationale": "Ивритте вав-баң түрүндөгү басым: «Мен болсо» — кыргызча байламта кошулду"
+    },
+    {
+      "kind": "crux",
+      "subject": "עוד אושיבך",
+      "rationale": "«Дагы отургузам» — кайра чатырларга кайтаруу (жазага тартуу) же Майрам күндөрүндөгүдөй Кучук чатырлар майрамына шилтеме"
+    }
+  ],
+  "translation": "Ал эми Мен — Яхве, сенин Элохимуң, Мицрайим жеринен; дагы силерди чатырларда отургузам, белгилүү убактын күндөрүндөгүдөй.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "80e2c9bd12540df068d94b2119aa471aa93d58499d856da8b09f83710d002745",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/hosea\/12\/9-12.1791213989897.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "ал эми Мен"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "сенин Элохимуң"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "жеринен"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицрайим"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "дагы"
+    },
+    {
+      "surface": "אושיבך",
+      "gloss": "отургузам"
+    },
+    {
+      "surface": "באהלים",
+      "gloss": "чатырларда"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "күндөрүндөгүдөй"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "белгилүү убактын"
+    }
+  ],
+  "timestamp": "2026-10-05T15:26:29.898315807Z",
+  "model": "glm-5.3"
+}

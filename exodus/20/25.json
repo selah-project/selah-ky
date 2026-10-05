@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 20:25",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "חרבך",
+      "rationale": "Сөз букв. «кылычың» — катуу курал; көп котормолор «аспабың» деп жумшартат, бирок еврей текст кылыч дейт."
+    },
+    {
+      "kind": "crux",
+      "subject": "גזית",
+      "rationale": "«Чапталган (жонулган) таш» — бычак менен иштетилген таш; айрым окуу булганууну эмес, жасалма эмес табигый ташты талап кылат."
+    },
+    {
+      "kind": "alternative",
+      "subject": "ותחללה",
+      "rationale": "Перфект «булгадың» катары да окулат: серпсең — булганган болот."
+    }
+  ],
+  "translation": "Жана эгер мага таштан курмандык чарын жасасаң, аны чапталган таштардан курба — анткени ага кылычыңды серпсең, аны булгайсың.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "d40b2b47895515cc0540a214d7328ca1aba8ec56d29b8e57ea51caea42e15bb4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/20\/25-26.1791202260298.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Жана эгер"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "курмандык чары"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "таштан"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "жасасаң"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мага"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "курба"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩",
+      "marks": "аны (курмандык чарын)"
+    },
+    {
+      "surface": "גזית",
+      "gloss": "чапталган таштардан"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "кылычыңды"
+    },
+    {
+      "surface": "הנפת",
+      "gloss": "серпсең"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ага"
+    },
+    {
+      "surface": "ותחללה",
+      "gloss": "аны булгайсың"
+    }
+  ],
+  "timestamp": "2026-10-05T12:11:00.299094206Z",
+  "model": "glm-5.3"
+}

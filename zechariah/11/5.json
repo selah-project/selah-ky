@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zechariah 11:5",
+  "book": "zechariah",
+  "lang": "ky",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "קניהן",
+      "rationale": "«сатып алгандар» — קנה «ээлик кылуу, сатып алуу»; кээ бир котормолор «ээлери» деп берет"
+    },
+    {
+      "kind": "crux",
+      "subject": "ואעשר",
+      "rationale": "«мен бай болдум» же «бай кылды» — сатуучунун өзү байды же Яхве байлатты деп талашкан"
+    }
+  ],
+  "translation": "Аларды сатып алгандар аларды өлтүрүшөт жана күнөөлүү деп эсептешпейт, аларды саткандар: «Яхве алгысы, мен бай болдум» дешет, алардын койчулары болсо аларга боор оорутпайт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "14a19b808ae01bc553c6902bb70a2f96ba68d0a5cda50e4324dbf9b5c3e50236",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/zechariah\/11\/5-8.1791215201550.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "аларды"
+    },
+    {
+      "surface": "קניהן",
+      "gloss": "сатып алгандар"
+    },
+    {
+      "surface": "יהרגן",
+      "gloss": "өлтүрүшөт"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "жана эмес"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "күнөөлүү деп эсептешпейт"
+    },
+    {
+      "surface": "ומכריהן",
+      "gloss": "жана аларды саткандар"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "дешет"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "алгысы"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ואעשר",
+      "gloss": "мен бай болдум"
+    },
+    {
+      "surface": "ורעיהם",
+      "gloss": "жана алардын койчулары"
+    },
+    {
+      "surface": "לא",
+      "gloss": "эмес"
+    },
+    {
+      "surface": "יחמול",
+      "gloss": "боор оорутпайт"
+    },
+    {
+      "surface": "עליהן",
+      "gloss": "аларга"
+    }
+  ],
+  "timestamp": "2026-10-05T15:46:41.550871617Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 8:3",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עז",
+      "rationale": "LXX «мактоо» (θαῖνος → αἶνος) деп окуйт; иврит текстте «күч, кубат»"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עוללים\/עוללים—עז",
+      "rationale": "алсыз ымыркайлардын оозунан күч (עז) — алсыздык\/кубат каршылыгы, риторикалык өзөк"
+    }
+  ],
+  "translation": "Эмчектеги ымыркайлардын жана сүт эмгендердин оозунан Сен күч-кудат түптөдүң, Сени душмандагандарына ⟨карап⟩, душманды жана өч алгычты унтотуу үчүн.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "6a6c2f52fd99c85af060df0d891eca0772a9f08a156742440f7d3fb3d35f6a97",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/8\/1-4.1791215356801.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מפי",
+      "gloss": "оозунан"
+    },
+    {
+      "surface": "עוללים",
+      "gloss": "эмчектеги ымыркайлардын"
+    },
+    {
+      "surface": "וינקים",
+      "gloss": "жана сүт эмгендер"
+    },
+    {
+      "surface": "יסדת",
+      "gloss": "түптөдүң"
+    },
+    {
+      "surface": "עז",
+      "gloss": "күч-кудат"
+    },
+    {
+      "surface": "למען",
+      "gloss": "⟨карап⟩"
+    },
+    {
+      "surface": "צורריך",
+      "gloss": "Сени душмандагандарына"
+    },
+    {
+      "surface": "להשבית",
+      "gloss": "унтотуу үчүн"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "душманды"
+    },
+    {
+      "surface": "ומתנקם",
+      "gloss": "жана өч алгычты"
+    }
+  ],
+  "timestamp": "2026-10-05T15:49:16.802945490Z",
+  "model": "glm-5.3"
+}

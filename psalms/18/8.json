@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 18:8",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "געש\/רעש",
+      "rationale": "Эки тамырдын үн окшоштугу (raigash\/raash) кайталанып, үчүнчү жолу hitga'ashu деп кайра жаралат — бул үндүк оюн кыргызча далдааланып\/титиреди жуптогу менен гана жакындатылды."
+    },
+    {
+      "kind": "substitution",
+      "subject": "каар күйгөн",
+      "rationale": "חרה сөз лүддү 'жалындоо, кызуу' дегенди билдирет — каардын көз ичинен жалын чыккандай сүрөт; кыргызча 'каары күйгөн' деп жакындатылды."
+    }
+  ],
+  "translation": "Жер далдааланып, титиреди жана тоолордун пайдубалдары чөккөлөп, далдааланды, анткени ага каар күйгөн.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "ce0118d720673e0919d8b6eb35606f85cece7e3cd977800ebfb0be50a2811a7c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/18\/8-8.1791224401280.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותגעש",
+      "gloss": "далдааланып"
+    },
+    {
+      "surface": "ותרעש",
+      "gloss": "титиреди"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "жер"
+    },
+    {
+      "surface": "ומוסדי",
+      "gloss": "пайдубалдары"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "тоолордун"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "чөккөлөп"
+    },
+    {
+      "surface": "ויתגעשו",
+      "gloss": "далдааланды"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "каар күйгөн"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ага"
+    }
+  ],
+  "timestamp": "2026-10-05T18:20:01.281205511Z",
+  "model": "glm-5.3"
+}

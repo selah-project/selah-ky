@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 1:2",
+  "book": "numbers",
+  "lang": "ky",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "את ראש נשא",
+      "rationale": "«Башты көтөрүү» — эсеп алуу, санап чыгуу деген идиома"
+    },
+    {
+      "kind": "substitution",
+      "subject": "לגלגלתם",
+      "rationale": "Букчан\/сөөк башы — адамдарды баш башынан эсептөө ыкмасы"
+    },
+    {
+      "kind": "measurement",
+      "subject": "эсеп алуу",
+      "rationale": "Калкты санап чыгуу буйругу"
+    },
+    {
+      "kind": "invitation",
+      "subject": "алыңар",
+      "rationale": "Буйрук формасы — Мошеге (жана Ааронго) түз кайрылуу"
+    }
+  ],
+  "translation": "Йисраэл уулдарынын бүткүл чогулушунан ⟨את⟩ баш санын алыңар, уруулары боюнча, аталарынын үйү боюнча, ысымдардын саны менен, ар бир эркекти, баш башынан.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "6644281be4303ce7a73fdb58cbdaf9eb2f36d97306ae9dd0814bfe6bad26ccf0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/numbers\/1\/1-4.1791203559121.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "алыңар"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "баш"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "баш"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүткүл"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "чогулушунан"
+    },
+    {
+      "surface": "бני",
+      "gloss": "уулдарынын"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэл"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "уруулары боюнча"
+    },
+    {
+      "surface": "лבית",
+      "gloss": "…үйү боюнча"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "аталарынын"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "саны менен"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "ысымдардын"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ар бир"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "эркекти"
+    },
+    {
+      "surface": "לגלגלתם",
+      "gloss": "баш башынан"
+    }
+  ],
+  "timestamp": "2026-10-05T12:32:39.122651032Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 7:15",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "билүү үчүн",
+      "rationale": "לדעתו 'билүү үчүн' же 'билгенге чейин' (KJV 'that he may know' vs ASV 'when he knoweth')"
+    },
+    {
+      "kind": "addition",
+      "subject": "ал",
+      "rationale": "Этиштин субъектиси — алдынкы аяттагы уул — кыргызча талап кылынат"
+    }
+  ],
+  "translation": "Сары май менен балды ал жейт — жаманды четке кагууну жана жакшыны тандоону билүү үчүн.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "a6146c4e58a799711a253935b5c8021d72e44f34325de6d7f3a7ceed119778e2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/7\/13-16.1791209456864.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חמאה",
+      "gloss": "сары май менен"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "жана балды"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ал жейт"
+    },
+    {
+      "surface": "לדעתו",
+      "gloss": "билүү үчүн"
+    },
+    {
+      "surface": "מאוס",
+      "gloss": "четке кагууну"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "жаманды"
+    },
+    {
+      "surface": "ובחור",
+      "gloss": "жана тандоону"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "жакшыны"
+    }
+  ],
+  "timestamp": "2026-10-05T14:10:56.865607821Z",
+  "model": "glm-5.3"
+}

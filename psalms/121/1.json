@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 121:1",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 121,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "למעלות",
+      "rationale": "'Өрөөскө чыгуучулар' (пиогримдик ыр) же 'тепкичтер боюнча' — болжолдуу котормо; аталыш сакталды"
+    },
+    {
+      "kind": "crux",
+      "subject": "мэаин яво эзри",
+      "rationale": "Суроо ('кайдан келет?') же жооп ('келет — мынадан') — акцент белгиси суроону колдойт"
+    },
+    {
+      "kind": "invitation",
+      "subject": "окурман",
+      "rationale": "Ыр суроо менен башталып, окурманды тартат"
+    }
+  ],
+  "translation": "Ырдан — өрөөскө чыгуучуларга. Көзүмдү тоолорго көтөрөм; жардамым кайдан келет?",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "8f07faf0f11916aa1ad6ab96a29c64b818bcebbde0b41505d274b77833588e39",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/121\/1-4.1791217411588.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "ыр"
+    },
+    {
+      "surface": "למעלות",
+      "gloss": "өрөөскө чыгуучуларга"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "көтөрөм"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "көзүмдү"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "тоолорго"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "кайдан"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "келет"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "жардамым"
+    }
+  ],
+  "timestamp": "2026-10-05T16:23:31.588970578Z",
+  "model": "glm-5.3"
+}

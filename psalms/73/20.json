@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 73:20",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 73,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "образ",
+      "rationale": "צלם — 'образ, шайтан көрүнүш, элес' деген сөз; 'образ' жалпы мааниде алынды"
+    }
+  ],
+  "translation": "Ойгонгон адамдын түшү сыяктуу, Адонай, ойгонуңда алардын образын жек көрөсүң.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "d31432a85700b1e047adc134f4595a8af7363556d66597757182c6ded057e1f7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/73\/17-20.1791216509946.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כחלום",
+      "gloss": "түшүндөй"
+    },
+    {
+      "surface": "מהקיץ",
+      "gloss": "ойгонгон адамдан"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "ойгонуңда"
+    },
+    {
+      "surface": "צלמם",
+      "gloss": "алардын образын"
+    },
+    {
+      "surface": "תבזה",
+      "gloss": "жек көрөсүң"
+    }
+  ],
+  "timestamp": "2026-10-05T16:08:29.947472411Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 2:20",
+  "book": "1-samuel",
+  "lang": "ky",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שאלה\/שאל",
+      "rationale": "«Сурам» жана «сурады» — бир тамырдын кайталанышы; Ханна «сурап» алганы (1:27-28) менен байланышкан оюн, кыргызча жарым-жартылай сакталды"
+    },
+    {
+      "kind": "crux",
+      "subject": "השאלה",
+      "rationale": "KJV\/ЖПС «карыз» (Ханна баланы Яхвеге «карызга берди»), ЖЛТ\/БСБ «сурам»; кыргызча «сурам» алынды"
+    }
+  ],
+  "translation": "Жана Эли ⟨את⟩ Элкананы жана ⟨את⟩ аялын баталап айтчу: «Яхве сага бул аялдан үрөн берсин — Яхведен сураган сурамдын ордуна.» Жана алар өз жерлерине кетишче.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "53307a92db703bb329923e8eec1180f4547d05a5bc0d9aeb9b55fc69c224d5b0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-samuel\/2\/17-20.1791206616513.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וברך",
+      "gloss": "Жана баталап"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Эли"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Элкананы"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Элкананы"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "жана ⟨את⟩",
+      "marks": "аялын"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "аялын"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "айтчу"
+    },
+    {
+      "surface": "ישם",
+      "gloss": "берсин"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "לך",
+      "gloss": "сага"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "үрөн"
+    },
+    {
+      "surface": "מן",
+      "gloss": "дан"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "аялдан"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "бул"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ордуна"
+    },
+    {
+      "surface": "השאלה",
+      "gloss": "сурамдын"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "сураган"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "сураган"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхведен"
+    },
+    {
+      "surface": "והלכו",
+      "gloss": "Жана кетишче"
+    },
+    {
+      "surface": "למקמו",
+      "gloss": "өз жерлерине"
+    }
+  ],
+  "timestamp": "2026-10-05T13:23:36.515350635Z",
+  "model": "glm-5.3"
+}

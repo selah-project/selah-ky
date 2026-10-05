@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 19:16",
+  "book": "2-kings",
+  "lang": "ky",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Хизкиянын Яхвеге Dubасы",
+      "rationale": "Буйрук мамилелери менен Яхвеге түз багытталган тилек."
+    },
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "gloss": "Байламта кыргызча тиркеме конструкциясы менен берилди, өзүнчө сөз катары көрүнбөйт."
+    },
+    {
+      "kind": "crux",
+      "subject": "שלחו",
+      "rationale": "«Ал жиберген» (Сенахириб өзү) же «аны жиберди» (элчилерди) — суффиксти таандыктыгы боюнча талаш."
+    }
+  ],
+  "translation": "Кулакты буруп угу, Яхве; көздөрдү ачып көр, Яхве; жана Сенахирибдин сөздөрүн уг — ⟨את⟩ тирүү Элохимди кор кылуу үчүн жиберген сөздөрүн.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "cfd5c4226dd0b1eed32ed21ef90266ae0942232603bacbd8db7e45d934a36314",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-kings\/19\/13-16.1791209168282.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הטה",
+      "gloss": "буруп"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "кулагыңды"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "жана уг"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "ачып"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "көздөрүңдү"
+    },
+    {
+      "surface": "ווראה",
+      "gloss": "жана көр"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "жана уг"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сөздөрүн"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "сөздөрүн"
+    },
+    {
+      "surface": "סנחריב",
+      "gloss": "Сенахирибдин"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "жиберген"
+    },
+    {
+      "surface": "לחרף",
+      "gloss": "кор кылуу үчүн"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохимди"
+    },
+    {
+      "surface": "חי",
+      "gloss": "тирүү"
+    }
+  ],
+  "timestamp": "2026-10-05T14:06:08.283792665Z",
+  "model": "glm-5.3"
+}

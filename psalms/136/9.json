@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 136:9",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 136,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "хесед",
+      "rationale": "חסד котормолордо 'ырайым' деп берилет, бирок D2 боюнча хесед катары сакталат"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨берген⟩",
+      "rationale": "Еврей тексти бир гана сын атоочторду берет; этиш алдынкы аяттан улам кошулду"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כי לעולם חסדו",
+      "rationale": "Рефрен 26 жолу кайталанат — псалмдын каркасы, кыргызча да сөз аткаруу менен берилди"
+    }
+  ],
+  "translation": "⟨את⟩ айды жана жылдыздарды түндө башкарууга ⟨берген⟩, анткени анын хеседи түбөлүккө.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "6878842d7f85e6c13eebce35360ead4f69361d0e960a09cf83082446e8cd9593",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/136\/9-12.1791217534467.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "айды"
+    },
+    {
+      "surface": "הירח",
+      "gloss": "айды"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "жана жылдыздарды"
+    },
+    {
+      "surface": "לממשלות",
+      "gloss": "башкарууга"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "түндө"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "түбөлүккө"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "анын хеседи"
+    }
+  ],
+  "timestamp": "2026-10-05T16:25:34.468421669Z",
+  "model": "glm-5.3"
+}

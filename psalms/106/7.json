@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 106:7",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 106,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Суф деңизи",
+      "rationale": "ים סוף — «Камыш деңизи»; «Кызыл деңиз» салттуу котормо, бул жерде айтылыш боюнча сакталды"
+    },
+    {
+      "kind": "substitution",
+      "subject": "хесед",
+      "rationale": "חסד — «ырайым» эмес, өзүнчө хесед сөзү катары калтырылды"
+    },
+    {
+      "kind": "alternative",
+      "subject": "וימרו",
+      "rationale": "«нааразы болушту» — башка окулушу: «буйругуна каршы чыгышты»"
+    }
+  ],
+  "translation": "Аталарыбыз Мицрайимде Сенин кереметтериңди түшүнбөдү, Сенин көп хеседдериңди эстешпеди ⟨את⟩, деңиздин жээгинде, Суф деңизинде нааразы болушту.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "398990a8f996e117e518ccdae18272d9e1a45132d9234326b9c1a547ffd75863",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/106\/5-8.1791217136328.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אבותינו",
+      "gloss": "аталарыбыз"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Мицрайимде"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "түшүнбөдү"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "каереметтериңди"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "эстешпеди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "көп хеседдериңди"
+    },
+    {
+      "surface": "רב",
+      "gloss": "көп"
+    },
+    {
+      "surface": "חסדיך",
+      "gloss": "хеседдериң"
+    },
+    {
+      "surface": "וימרו",
+      "gloss": "нааразы болушту"
+    },
+    {
+      "surface": "על",
+      "gloss": "жээгинде"
+    },
+    {
+      "surface": "ים",
+      "gloss": "деңиздин"
+    },
+    {
+      "surface": "בים",
+      "gloss": "деңизинде"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Суф"
+    }
+  ],
+  "timestamp": "2026-10-05T16:18:56.334720284Z",
+  "model": "glm-5.3"
+}

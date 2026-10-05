@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 1:14",
+  "book": "2-kings",
+  "lang": "ky",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жеп койду",
+      "rationale": "ותאכל «жеди» — от жөнүндө «жутту\/кулптап койду» маанисинде"
+    },
+    {
+      "kind": "you",
+      "subject": "Элияхуга",
+      "rationale": "башчынын өтүнүчү Элияхуга багытталган"
+    }
+  ],
+  "translation": "Мына, асманнан от түштү да, ⟨את⟩ алгачкы эки элүү башчысын жана ⟨את⟩ алардын элүүлөрүн жеп койду; эми өтүнөм, жаным көзүңө баалуу болсун.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "17df0a39c627a4c41c0f1d0e0175767370ec63f6f68fec18b69c876f9fdbe145",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-kings\/1\/13-16.1791208697985.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "мына"
+    },
+    {
+      "surface": "ירדה",
+      "gloss": "түштү"
+    },
+    {
+      "surface": "אש",
+      "gloss": "от"
+    },
+    {
+      "surface": "מן",
+      "gloss": "асманнан"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "асман"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "жана жеп койду"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "алгачкы эки элүү башчысын"
+    },
+    {
+      "surface": "שני",
+      "gloss": "эки"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "башчысы"
+    },
+    {
+      "surface": "החמשים",
+      "gloss": "элүү"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "алгачкы"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "алардын элүүлөрүн"
+    },
+    {
+      "surface": "חמשיהם",
+      "gloss": "алардын элүүлөрү"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "эми"
+    },
+    {
+      "surface": "תיקר",
+      "gloss": "баалуу болсун"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "жаным"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "көзүңө"
+    }
+  ],
+  "timestamp": "2026-10-05T13:58:17.986783384Z",
+  "model": "glm-5.3"
+}

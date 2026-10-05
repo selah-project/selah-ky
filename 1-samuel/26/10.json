@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 26:10",
+  "book": "1-samuel",
+  "lang": "ky",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כי אם",
+      "rationale": "«албетте ... жөн гана»: YLT «except» — «Яхведен башка эч ким»; KJV\/ASV — «Яхве соккусун» убада катары"
+    },
+    {
+      "kind": "idiom",
+      "subject": "חי יהוה",
+      "rationale": "ант идиомасы «Яхве тирүү!» — бүтүндөй табияттуу калды"
+    }
+  ],
+  "translation": "Жана Давид айтты: Яхве тирүү! Яхве өзү аны соккусун, же анын күнү келип өлсүн, же ал согушка түшүп жок болсун.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "2f6a56f3a536360a070684ed38632b70195ba5a206c3af16e9bf0e676f4d4294",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-samuel\/26\/9-12.1791207255412.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "жана айтты"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "חי",
+      "gloss": "тирүү"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "כי",
+      "gloss": "албетте"
+    },
+    {
+      "surface": "אם",
+      "gloss": "жөн гана"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "יגפנו",
+      "gloss": "аны соккусун"
+    },
+    {
+      "surface": "או",
+      "gloss": "же"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "анын күнү"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "келсе"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "өлсүн"
+    },
+    {
+      "surface": "או",
+      "gloss": "же"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "согушка"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "түшсө"
+    },
+    {
+      "surface": "ונספה",
+      "gloss": "жок болсун"
+    }
+  ],
+  "timestamp": "2026-10-05T13:34:15.413577384Z",
+  "model": "glm-5.3"
+}

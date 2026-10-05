@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 27:26",
+  "book": "leviticus",
+  "lang": "ky",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "эч ким",
+      "rationale": "Ивриттеги איש — «адам», бул жерде жалпылоочу мааниде."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בכור\/יבכר",
+      "rationale": "Бир тамырдын кайталанышы: туңгуч \/ туңгуч кылуу."
+    }
+  ],
+  "translation": "Бирок малдагы туңгуч — ал Яхвеге туңгуч катары берилген — аны эч ким ыйыктабайт; бука болобу, козу болобу — ал Яхвеники.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "4eec02fe031ab5328d54c85d48b408297646004578a1557e1f9838863b0d2ba5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/27\/25-28.1791203498071.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "бирок"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "туңгуч"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ал"
+    },
+    {
+      "surface": "יבכר",
+      "gloss": "туңгуч катары берилет"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхвеге"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "малдагы"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "יקדיש",
+      "gloss": "ыйыктабайт"
+    },
+    {
+      "surface": "איש",
+      "gloss": "эч ким"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "аны"
+    },
+    {
+      "surface": "אם",
+      "gloss": "булубу"
+    },
+    {
+      "surface": "שור",
+      "gloss": "бука"
+    },
+    {
+      "surface": "אם",
+      "gloss": "булубу"
+    },
+    {
+      "surface": "שה",
+      "gloss": "козу"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхвеники"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ал"
+    }
+  ],
+  "timestamp": "2026-10-05T12:31:38.072229024Z",
+  "model": "glm-5.3"
+}

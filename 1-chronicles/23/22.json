@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 23:22",
+  "book": "1-chronicles",
+  "lang": "ky",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "аларды алышты",
+      "rationale": "וישאום 'аларды алып берди' — еврей салтында күйөөгө берүүнү билдирет, 'үйлөндү' деп да которулат."
+    },
+    {
+      "kind": "idiom",
+      "subject": "כי אם",
+      "rationale": "'бирок жок' — тек берүүчү байламда колдонулган идиома."
+    }
+  ],
+  "translation": "Элазар өлдү, ага уулдар болгон жок, бирок кыздар болду; аларды Киштин уулдары, алардын бир туугандары алышты.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "1fcc946415d705cc304b9cdd78c87216a0535095103030dd6d1e514e57ac6bf2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-chronicles\/23\/21-24.1791222348385.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "өлдү"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Элазар"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "היו",
+      "gloss": "болгон"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ага"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "уулдар"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бирок"
+    },
+    {
+      "surface": "אם",
+      "gloss": "жок"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "кыздар"
+    },
+    {
+      "surface": "וישאום",
+      "gloss": "аларды алышты"
+    },
+    {
+      "surface": "בני",
+      "gloss": "уулдары"
+    },
+    {
+      "surface": "קיש",
+      "gloss": "Киштин"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "алардын бир туугандары"
+    }
+  ],
+  "timestamp": "2026-10-05T17:45:48.385849705Z",
+  "model": "glm-5.3"
+}

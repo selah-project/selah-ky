@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 14:6",
+  "book": "hosea",
+  "lang": "ky",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ויך",
+      "rationale": "Буквально «чабат» (нукса); бул жерде «жайылат, кетет» деген мааниде — котормочулар «чыгарат», «таянат» деп беришет"
+    },
+    {
+      "kind": "crux",
+      "subject": "כשושנה",
+      "rationale": "שושנה — «лилия» же жалпы «гүл»; кыргызча «ливи» (ак лилия) деп алынды"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "шык · Ливан",
+      "rationale": "שושנה жана לבנור деген эки сөздүн актык образы бири-бирин бекемдейт — ак гүл, ак шык, Ливандын карлуу бийиктиги"
+    }
+  ],
+  "translation": "Мен Йисраэл үчүн шыктай боломун, ал ливидей гүлдөйт жана анын тамырлары Ливандыкыдай жайылат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "33a70dbb1802f770e32d7c3d826afaea8dc33bfe9a56dc0f61b012e18af35e66",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/hosea\/14\/5-8.1791214007515.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אהיה",
+      "gloss": "боломун"
+    },
+    {
+      "surface": "כטל",
+      "gloss": "шыктай"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Йисраэл үчүн"
+    },
+    {
+      "surface": "יפרח",
+      "gloss": "гүлдөйт"
+    },
+    {
+      "surface": "כשושנה",
+      "gloss": "ливидей"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "жайылат"
+    },
+    {
+      "surface": "שרשיו",
+      "gloss": "анын тамырлары"
+    },
+    {
+      "surface": "כלבנון",
+      "gloss": "Ливандыкыдай"
+    }
+  ],
+  "timestamp": "2026-10-05T15:26:47.515725565Z",
+  "model": "glm-5.3"
+}

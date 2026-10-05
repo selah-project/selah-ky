@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 6:4",
+  "book": "hosea",
+  "lang": "ky",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "хесед",
+      "rationale": "D2 боюнча хесед которулбайт: «ырайым» гана эмес, берилгендик мааниси да камтылат"
+    },
+    {
+      "kind": "you",
+      "subject": "Эфрайимге жана Йехудага",
+      "rationale": "Яхве эки урууга түз кайрылат"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "кайталоо",
+      "rationale": "«Эмне кылайын сага» эки жолу айтылат — параллелизм, кыргызча сакталды"
+    }
+  ],
+  "translation": "Эмне кылайын сага, Эфрайим? Эмне кылайын сага, Йехуда? Силердин хеседиңер таңкы булут сыяктуу, эртеңки шүүдүүм сыяктуу — кетип баратат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "ccd4e587470c4a05d8e068da3c391b409f88903cb9c8f66738ad549b22dd4730",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/hosea\/6\/1-4.1791213850534.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Эмне"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "кылайын"
+    },
+    {
+      "surface": "לך",
+      "gloss": "сага"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Эфрайим"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Эмне"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "кылайын"
+    },
+    {
+      "surface": "לך",
+      "gloss": "сага"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Йехуда"
+    },
+    {
+      "surface": "וחסדכם",
+      "gloss": "Силердин хеседиңер"
+    },
+    {
+      "surface": "כענן",
+      "gloss": "булут сыяктуу"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "таңкы"
+    },
+    {
+      "surface": "וכטל",
+      "gloss": "шүүдүүм сыяктуу"
+    },
+    {
+      "surface": "משכים",
+      "gloss": "эртеңки"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "кетип баратат"
+    }
+  ],
+  "timestamp": "2026-10-05T15:24:10.535662383Z",
+  "model": "glm-5.3"
+}

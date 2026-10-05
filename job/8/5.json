@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 8:5",
+  "book": "job",
+  "lang": "ky",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "תשחר",
+      "rationale": "שחר 'таң атаруу' — 'эрте туруп издөө' идиомасы; кыргызча 'таң менен издесең' деп сакталды"
+    },
+    {
+      "kind": "addition",
+      "subject": "тарапка",
+      "rationale": "אל предлогу кыргызча 'тарапка' деп ачык берилди"
+    }
+  ],
+  "translation": "Эгер сен Элди таң менен издесең жана Шаддайга жалбарсаң,",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "dfe413fbc92753263dd6c5c295bde0023545c9410cf4c5314581b826b1a975d4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/job\/8\/5-8.1791218628908.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Эгер"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "сен"
+    },
+    {
+      "surface": "תשחר",
+      "gloss": "таң менен издесең"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨тарапка⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Элди"
+    },
+    {
+      "surface": "ו",
+      "gloss": "жана"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨тарапка⟩"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Шаддайга"
+    },
+    {
+      "surface": "תתחנן",
+      "gloss": "жалбарсаң"
+    }
+  ],
+  "timestamp": "2026-10-05T16:43:48.908715483Z",
+  "model": "glm-5.3"
+}

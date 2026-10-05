@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 23:15",
+  "book": "proverbs",
+  "lang": "ky",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "болсо",
+      "rationale": "Еврейче этиш жок — сын атооч гана; кыргызча шарт маани ⟨болсо⟩ менен толукталды."
+    },
+    {
+      "kind": "you",
+      "subject": "уулга",
+      "rationale": "«Уулум» — окурман-уулга түз кайрылуу, Мишлейдеги даамдуу насыят формасы."
+    },
+    {
+      "kind": "invitation",
+      "subject": "насыат",
+      "rationale": "Атанын уулуна кайрылуусу — текст окурманды өзүнө тартат."
+    }
+  ],
+  "translation": "Уулум, эгерде жүрөгүң акылдуу ⟨болсо⟩, жүрөгүм кубанат, дагы менин ⟨өзүм⟩.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "96a9b9ddd36e1155736ed5332b558b0e743fad86951c86557d3ff0f5f9f724dd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/23\/13-16.1791218304941.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Уулум"
+    },
+    {
+      "surface": "אם",
+      "gloss": "эгерде"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "акылдуу"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "жүрөгүң"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "кубанат"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "жүрөгүм"
+    },
+    {
+      "surface": "גם",
+      "gloss": "дагы"
+    },
+    {
+      "surface": "אני",
+      "gloss": "мен"
+    }
+  ],
+  "timestamp": "2026-10-05T16:38:24.942673782Z",
+  "model": "glm-5.3"
+}

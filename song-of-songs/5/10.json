@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 5:10",
+  "book": "song-of-songs",
+  "lang": "ky",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨жарык⟩",
+      "rationale": "Цах — «жаркыраган, күндөй жарык»; этишсиз сыпаттоо кыргызча этишти талап кылат"
+    },
+    {
+      "kind": "crux",
+      "subject": "דגול",
+      "rationale": "Дагаль — «желек көтөрүү, көзгө илинишүү»: «белгилүү», «аскан» же «тандаган» деген варианттар бар"
+    },
+    {
+      "kind": "measurement",
+      "subject": "он миң",
+      "rationale": "Ревава — сан: мириад, он миң"
+    }
+  ],
+  "translation": "Менин сүйүктүүм ⟨жарык⟩ жана кызгылт, он миңдин ичинен желбеп турган.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "683dc488b1be97ca2072cb6d26549d713d2e61ac8ac4bfa757045f65556c416f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/song-of-songs\/5\/9-12.1791219518845.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דודי",
+      "gloss": "Менин сүйүктүүм"
+    },
+    {
+      "surface": "צח",
+      "gloss": "жарык"
+    },
+    {
+      "surface": "ואדום",
+      "gloss": "жана кызгылт"
+    },
+    {
+      "surface": "דגול",
+      "gloss": "желбеп турган"
+    },
+    {
+      "surface": "מרבבה",
+      "gloss": "он миңдин ичинден"
+    }
+  ],
+  "timestamp": "2026-10-05T16:58:38.846101933Z",
+  "model": "glm-5.3"
+}

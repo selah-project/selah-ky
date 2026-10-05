@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 32:2",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "сөйкө",
+      "rationale": "נזם literally a nose-ring, but the text itself places it on the ear; rendered as ear-ring"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "פרקו \/ ויתפרקו",
+      "rationale": "Aaron's command and the people's action in v.3 share the same root, a verbal echo kept in Kyrgyz by repeating үзүп"
+    }
+  ],
+  "translation": "Ахарон аларга айтты: Аялдарыңардын, уулдарыңардын жана кыздарыңардын кулагындагы алтын сөйкөлөрдү үзүп алдырпагыла да мага алып келгиле.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "ca5f21abf735ccc4a3ab1b8ac27c29239a46d4224e43f3d3887d07b488c16f1d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/32\/2-3.1791223572317.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "аларга"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Ахарон"
+    },
+    {
+      "surface": "פרקו",
+      "gloss": "үзүп алдырпагыла"
+    },
+    {
+      "surface": "נזמי",
+      "gloss": "сөйкөлөрдү"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "алтын"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "котору"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "кулагында"
+    },
+    {
+      "surface": "נשיכם",
+      "gloss": "аялдарыңардын"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "уулдарыңардын"
+    },
+    {
+      "surface": "ובנתיכם",
+      "gloss": "жана кыздарыңардын"
+    },
+    {
+      "surface": "והביאו",
+      "gloss": "алып келгиле"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "мага"
+    }
+  ],
+  "timestamp": "2026-10-05T18:06:12.317818306Z",
+  "model": "glm-5.3"
+}

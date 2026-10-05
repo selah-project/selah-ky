@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 98:3",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 98,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "хесед",
+      "rationale": "חֶסֶד — D2 боюнча которулбайт, хесед деп алынды"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ишенимдүүлүк",
+      "rationale": "אֱמוּנָה — бекемдик, ишенимдүүлүк; туура эмес ' чындык' деп берилди"
+    },
+    {
+      "kind": "addition",
+      "subject": "Ал",
+      "rationale": "Еврейче этиштин ээси жок, кыргызча атооч талап кылат"
+    },
+    {
+      "kind": "idiom",
+      "subject": "אַפְסֵי אָרֶץ",
+      "rationale": "'жердин чектери\/учурлары' — дүйнөнүн бүткүл учундагы жерлер деген идиома"
+    }
+  ],
+  "translation": "Ал Өзүнүн хеседин жана Өзүнүн ишенимдүүлүгүн Йисраэл үй-бүлөсүнө эстеди; жердин бардык учурлары биздин Элохимибиздин ⟨את⟩ куткаруусун көрүштү.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "21c2e07fbebf2ce78d3f7a11c17cfcc58427b0aa6074eaee8447cf6d1822cbde",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/98\/2-3.1791224489254.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "естеди"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "Өзүнүн хеседин"
+    },
+    {
+      "surface": "ואמונתו",
+      "gloss": "жана Өзүнүн ишенимдүүлүгүн"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "үй-бүлөсүнө"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэл"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "көрүштү"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бардык"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "учурлары"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "жердин"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "биздин Элохимибиздин куткаруусун"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "куткаруусун"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "биздин Элохимибиздин"
+    }
+  ],
+  "timestamp": "2026-10-05T18:21:29.254939120Z",
+  "model": "glm-5.3"
+}

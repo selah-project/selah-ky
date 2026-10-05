@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 42:11",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "רצח",
+      "rationale": "KJV «клыч» деп айтат; сөз «кыюу\/чабуу» деген — JPS «crushing» дейт"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "каякта сенин Элохимиң",
+      "rationale": "душмандардын шылдың сөзү — псалмдун кайрылма сөзү катары кайталанат (42:4, 42:11)"
+    }
+  ],
+  "translation": "Сөөктөрүмдү кыюу менен кордойт мени душмандым, мага күн бою: «Каякта сенин Элохимиң?» деп айтканда.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "dd0bffdb5820e29ed6499137322efd3aa7881cb0c2854312e051700e8e3994fb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/42\/9-12.1791216002331.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברצח",
+      "gloss": "кыюу менен"
+    },
+    {
+      "surface": "בעצמותי",
+      "gloss": "сөөктөрүмдү"
+    },
+    {
+      "surface": "חרפוני",
+      "gloss": "кордойт"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "душмандым"
+    },
+    {
+      "surface": "באמרם",
+      "gloss": "деп айтканда"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "мага"
+    },
+    {
+      "surface": "כל",
+      "gloss": "күн бою"
+    },
+    {
+      "surface": "היום",
+      "gloss": "күн"
+    },
+    {
+      "surface": "איה",
+      "gloss": "каякта"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Элохимиң"
+    }
+  ],
+  "timestamp": "2026-10-05T16:00:02.332116465Z",
+  "model": "glm-5.3"
+}

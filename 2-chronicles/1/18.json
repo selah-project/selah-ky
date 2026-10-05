@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-chronicles 1:18",
+  "book": "2-chronicles",
+  "lang": "ky",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "айтты",
+      "rationale": "Иврит 'айтты' — ниетди билдирет ('чечти' деген мааниде), бирок сөз формасы 'айтуу' бойдон сакталды."
+    }
+  ],
+  "translation": "Жана Шеломо Яхвенин ысымы үчүн үй, жана өз падышачылыгы үчүн үй куратууну айтты.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "65e46b81f10873ef196f892f032518e9cbed6031977106b539d9c17b1764a9e8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-chronicles\/1\/17-18.1791222523388.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шеломо"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "куратууну"
+    },
+    {
+      "surface": "בית",
+      "gloss": "үй"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "ысымы үчүн"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "жана үй"
+    },
+    {
+      "surface": "למלכותו",
+      "gloss": "өз падышачылыгы үчүн"
+    }
+  ],
+  "timestamp": "2026-10-05T17:48:43.388953737Z",
+  "model": "glm-5.3"
+}

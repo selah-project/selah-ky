@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 3:32",
+  "book": "proverbs",
+  "lang": "ky",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "secret",
+      "subject": "סודו",
+      "rationale": "Яхвенин жашырылган кеңеши, сыры — түздөр менен бөлүшүлөт"
+    },
+    {
+      "kind": "crux",
+      "subject": "сыры",
+      "rationale": "סוד: «сыр\/кеңеш» (KJV, JPS) же «достук, жакындык» (ASV, BSB) — байланыштын жашыруун же жылуу тарабы"
+    },
+    {
+      "kind": "addition",
+      "subject": "адам",
+      "rationale": "נלוז сыяктуу субстантивдүү этиш, кыргызча «кыйшайган адам» деп ачылды"
+    }
+  ],
+  "translation": "Анткени кыйшайган адам Яхвеге жийиркеничтүү, ал эми ⟨את⟩ түздөр менен Анын сыры.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "8844867d968ec9db62dc0e11395174abb8bc87f1deb42f5348a1dc101146471b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/3\/29-32.1791217817829.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "жийиркеничтүү"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвеге"
+    },
+    {
+      "surface": "נלוז",
+      "gloss": "кыйшайган адам"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "жана ⟨את⟩",
+      "marks": "түздөр менен"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "түздөр"
+    },
+    {
+      "surface": "סודо",
+      "gloss": "Анын сыры"
+    }
+  ],
+  "timestamp": "2026-10-05T16:30:17.835060397Z",
+  "model": "glm-5.3"
+}

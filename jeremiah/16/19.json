@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "jeremiah 16:19",
+  "book": "jeremiah",
+  "lang": "ky",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "О,",
+      "rationale": "Чакыруу падежи еврейче жок, кыргызча сөз башына коюлду"
+    },
+    {
+      "kind": "substitution",
+      "subject": "бош нерселер",
+      "rationale": "הבל — «дем, боштук», буга чейин да «аба» катары которулат"
+    },
+    {
+      "kind": "crux",
+      "subject": "אליך",
+      "rationale": "«Ушуларга (Сага) элдер келет» же «Сенин аларыңа» — тексттин ким сүйлөп жатканына жараша окуулар бар"
+    }
+  ],
+  "translation": "О, Яхве, күч-кубатым, жана бекемдигим, жана кыйын күндөгү панаам! Ушуларга элдер жердин чет-жакаларынан келет жана айтышат: «Чын эле аталарыбыз жалганчылыкты, эч пайдасы жок бош нерселерди мурас кылып алышкан».",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "7021c1a1ed94eff917c4d3d8a3492aec69215d12f0915df3ab77daeed5c19f8a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/jeremiah\/16\/17-20.1791211061679.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "күч-кубатым"
+    },
+    {
+      "surface": "ומעזי",
+      "gloss": "бекемдигим"
+    },
+    {
+      "surface": "ומנוסי",
+      "gloss": "панаам"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "күндө"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "кыйын"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ушуларга"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "элдер"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "келет"
+    },
+    {
+      "surface": "מאפסי",
+      "gloss": "чет-жакаларынан"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "жердин"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "айтышат"
+    },
+    {
+      "surface": "אך",
+      "gloss": "чын эле"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "жалганчылыкты"
+    },
+    {
+      "surface": "נחלו",
+      "gloss": "мурас кылып алышкан"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "аталарыбыз"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "бош нерселерди"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "жана жок"
+    },
+    {
+      "surface": "בם",
+      "gloss": "-нда"
+    },
+    {
+      "surface": "מועיל",
+      "gloss": "пайдасы"
+    }
+  ],
+  "timestamp": "2026-10-05T14:37:41.681883023Z",
+  "model": "glm-5.3"
+}

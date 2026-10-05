@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 5:5",
+  "book": "proverbs",
+  "lang": "ky",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Шеол",
+      "rationale": "שאול — өлгөндөрдүн дүйнөсү, тозок эмес, ошондуктан транслитерацияланат"
+    },
+    {
+      "kind": "idiom",
+      "subject": "кармап турат",
+      "rationale": "יתמכו 'тутуп турат' — жол Шеолго алып барат деген сүрөт"
+    }
+  ],
+  "translation": "Анын буттары өлүмгө түшөт, Шеолду анын кадамдары кармап турат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "634bdf2d6c230691f8124e9cca7f27563ca1031179649cca180354209e6297ba",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/5\/5-8.1791217754601.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רגליה",
+      "gloss": "Анын буттары"
+    },
+    {
+      "surface": "ירדות",
+      "gloss": "түшөт"
+    },
+    {
+      "surface": "מות",
+      "gloss": "өлүмгө"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шеолду"
+    },
+    {
+      "surface": "צעדיה",
+      "gloss": "анын кадамдары"
+    },
+    {
+      "surface": "יתמכו",
+      "gloss": "кармап турат"
+    }
+  ],
+  "timestamp": "2026-10-05T16:29:14.601521420Z",
+  "model": "glm-5.3"
+}

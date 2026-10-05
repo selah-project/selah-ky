@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 10:16",
+  "book": "1-samuel",
+  "lang": "ky",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "secret",
+      "subject": "падышачылык жөнүндөгү сөз",
+      "rationale": "Шаул Шемуэлдин падышалык жөнүндөгү сөзүн тагасынан жашырды — укумдаган кабар"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הגד הגיד",
+      "rationale": "Нагад тамырынын кайталанышы — «так эле айтып берди» — интенсивдүү катмар, кыргызча «так эле» менен берилди"
+    }
+  ],
+  "translation": "Жана Шаул тагасына айтты: Ал бизге так эле айтып берди — эшектер табылды деп; ал эми падышачылык жөнүндөгү ⟨את⟩ сөздү, Шемуэл эмне деген болсо, ага айткан жок.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "30eadc316bcb92e42884cbdd0e1e5a4b65f6e9d96542a71e6ad196854f356a50",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-samuel\/10\/13-16.1791206803469.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "жана … айтты"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-га"
+    },
+    {
+      "surface": "דודו",
+      "gloss": "тагасына"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "так"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "айтып берди"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "бизге"
+    },
+    {
+      "surface": "כי",
+      "gloss": "-ды"
+    },
+    {
+      "surface": "נמצאו",
+      "gloss": "табылды"
+    },
+    {
+      "surface": "האתנות",
+      "gloss": "эшектер"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "падышачылык жөнүндөгү сөздү"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сөзүн"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "падышачылык жөнүндөгү"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "айткан"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ага"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "… болсо"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "деген"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Шемуэл"
+    }
+  ],
+  "timestamp": "2026-10-05T13:26:43.470431610Z",
+  "model": "glm-5.3"
+}

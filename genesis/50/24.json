@@ -1,0 +1,134 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 50:24",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "פקד יפקד",
+      "rationale": "инфинитив абсолют + этиш — кайталоо менен бекемдөө: «чындап эле эстейт»"
+    },
+    {
+      "kind": "crux",
+      "subject": "פקד",
+      "rationale": "«эстейт\/көрүп келет» — JPS «remember», KJV «visit»: достук маанисиндеги келип көрүү жана эсте"
+    },
+    {
+      "kind": "you",
+      "subject": "Жусуптун биртуугандарына",
+      "rationale": "Жусуп өлүм алдында биртуугандарына тикелей кайрылат"
+    },
+    {
+      "kind": "measurement",
+      "subject": "ата-бабалардын тизмеси",
+      "rationale": "ант берген адамдар саналып берилген: Аврахам, Йицхак, Яаков"
+    }
+  ],
+  "translation": "Жана Жусуп биртуугандарына айтты: Мен өлөм; жана Элохим силерди чындап эле эстейт жана ⟨את⟩ силерди бул жерден Аврахамга, Йицхакка жана Яаковка ант берген жерге чыгарып алып барат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "6343e7145f69ba2644b17f9d786797df1c9e41780e6d7862b6e1abea30edbff8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/50\/21-24.1791201844607.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Жусуп"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "биртуугандарына"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Мен"
+    },
+    {
+      "surface": "מת",
+      "gloss": "өлөм"
+    },
+    {
+      "surface": "ואלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "чындап"
+    },
+    {
+      "surface": "יפקד",
+      "gloss": "эстейт"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "силерди"
+    },
+    {
+      "surface": "והעלה",
+      "gloss": "чыгарып алып барат"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "силерди"
+    },
+    {
+      "surface": "מן",
+      "gloss": "бул жерден"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "жерден"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "бул"
+    },
+    {
+      "surface": "אל",
+      "gloss": "жетеле"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "жерге"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "анан"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "ант берген"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "Аврахамга"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "Йицхакка"
+    },
+    {
+      "surface": "וליעקב",
+      "gloss": "Яаковка"
+    }
+  ],
+  "timestamp": "2026-10-05T12:04:04.609387176Z",
+  "model": "glm-5.3"
+}

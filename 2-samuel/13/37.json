@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "2-samuel 13:37",
+  "book": "2-samuel",
+  "lang": "ky",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ויתאבל субъекти",
+      "rationale": "Эврей тексти субъектти айтпайт: Авшалом бейитте эмес, Давид (көпчүлүк котормолор боюнча) уулу Авшалом үчүн коштонот."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨Давид⟩",
+      "rationale": "Эврейде субъект жок, кыргыз тили ачык ээ талап кылат."
+    }
+  ],
+  "translation": "Жана Авшалом качып, Гешурдун падышасы Аммихурдун уулу Талмайга барды, жана ⟨Давид⟩ уулу үчүн бүт күндөрү бою коштонду.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "7dd3ae543bb73036c7238b50354f8a8565df4db1fe51614c2d09091155da0dfa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-samuel\/13\/37-39.1791207529435.json",
+    "code": "641241cf-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואבשלום",
+      "gloss": "Жана Авшалом"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "качып"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "барды"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ка"
+    },
+    {
+      "surface": "תלמי",
+      "gloss": "Талмайга"
+    },
+    {
+      "surface": "בן",
+      "gloss": "уулу"
+    },
+    {
+      "surface": "עמיחור",
+      "gloss": "Аммихурдун"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "падышасы"
+    },
+    {
+      "surface": "גשור",
+      "gloss": "Гешурдун"
+    },
+    {
+      "surface": "ויתאבל",
+      "gloss": "жана коштонду"
+    },
+    {
+      "surface": "על",
+      "gloss": "үчүн"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "уулу"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүт"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "күндөрү бою"
+    }
+  ],
+  "timestamp": "2026-10-05T13:38:49.436307774Z",
+  "model": "glm-5.3"
+}

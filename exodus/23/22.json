@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 23:22",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "шамоа тишма",
+      "rationale": "инфинитив + этиш ― бүткүл күчү менен угуу; кыргызча 'чын дил менен угу'"
+    },
+    {
+      "kind": "addition",
+      "subject": "нерселердин",
+      "rationale": "кыргыз тилине талап кылынган аталыш сөз"
+    }
+  ],
+  "translation": "Анткени эгер сен анын үнүн чын дил менен угсаң жана Мен сүйлөгөн нерселердин баарын кылсаң, Мен ⟨את⟩ сенин душмандарыңа душман боломун жана ⟨את⟩ сени кысында ―тарагандарды кысамын.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "0e279b83c6bba92dabf686a74c77df624b4a62719e10b96c4cbead53d34d7d28",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/23\/21-24.1791202293184.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "אם",
+      "gloss": "эгер"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "чын дил"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "угсаң"
+    },
+    {
+      "surface": "בקלו",
+      "gloss": "анын үнүн"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "жана кылсаң"
+    },
+    {
+      "surface": "כל",
+      "gloss": "баарын"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "нерселердин"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "Мен сүйлөгөн"
+    },
+    {
+      "surface": "ואיבתי",
+      "gloss": "Мен душман боломун"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "душмандарыңа"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "сенин душмандарыңа"
+    },
+    {
+      "surface": "וצרתי",
+      "gloss": "жана кысамын"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сени кысында ―тарагандарды"
+    },
+    {
+      "surface": "צרריך",
+      "gloss": "сени кысында ―тарагандарды"
+    }
+  ],
+  "timestamp": "2026-10-05T12:11:33.185248887Z",
+  "model": "glm-5.3"
+}

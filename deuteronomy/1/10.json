@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 1:10",
+  "book": "deuteronomy",
+  "lang": "ky",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "көптүк",
+      "rationale": "элдин саны асман жылдыздарына салыштырылып өлчөнөт"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הרבה \/ לרב",
+      "rationale": "бир тамырдын кайталанышы — «көбөйттү … көп», кадимки которууда байкалбайт"
+    }
+  ],
+  "translation": "Яхве, силердин Элохимуңар ⟨את⟩ силерди көбөйттү, жана муну көрсөңөр, бүгүн силер асман жылдыздарындай көпсүңөр.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "7ad343c6a9f3c2409e5db444556643da6e3a0932ec8447c87792229105ba673d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/1\/9-12.1791204632113.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Элохимуңар"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "көбөйттү"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "силерди"
+    },
+    {
+      "surface": "והנכם",
+      "gloss": "жана муну көрсөңөр"
+    },
+    {
+      "surface": "היום",
+      "gloss": "бүгүн"
+    },
+    {
+      "surface": "ככוכבי",
+      "gloss": "жылдыздарындай"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "асман"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "көп"
+    }
+  ],
+  "timestamp": "2026-10-05T12:50:32.114886388Z",
+  "model": "glm-5.3"
+}

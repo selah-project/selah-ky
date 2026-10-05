@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 16:10",
+  "book": "proverbs",
+  "lang": "ky",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "бар",
+      "rationale": "Еврейче байламча жок, кыргызча сүйлөм талап кылат"
+    },
+    {
+      "kind": "crux",
+      "subject": "жоромол",
+      "rationale": "קסם: 'жоромол \/ аян' (KJV 'divine sentence') же 'байлык таштоо' — Мыйзамды кайталоо 18да קסם тыюу салынган нерсе, бул жерде падышанын сөзүнүн ыйыктыгына айланган"
+    },
+    {
+      "kind": "substitution",
+      "subject": "чыккынчылык",
+      "rationale": "ימעל — 'жашыруун чыккынчылык кылуу' деген этиш, кыргызча бир сөз менен"
+    }
+  ],
+  "translation": "Падышанын эриндеринде жоромол ⟨бар⟩; өкүмдө анын оозу чыккынчылык кылбайт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "c892d0c643b36b791af4217c96bb395365923cf96d748cb675e84a1f8686c500",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/16\/10-11.1791224531293.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קסם",
+      "gloss": "жоромол"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстүндө"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "эриндеринде"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "падышанын"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "өкүмдө"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "ימעל",
+      "gloss": "чыккынчылык кылбайт"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "анын оозу"
+    }
+  ],
+  "timestamp": "2026-10-05T18:22:11.293551621Z",
+  "model": "glm-5.3"
+}

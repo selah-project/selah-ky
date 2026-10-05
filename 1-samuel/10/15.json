@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 10:15",
+  "book": "1-samuel",
+  "lang": "ky",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Шаулга",
+      "rationale": "Таганын түз буйругу жана суроосу — «айтып берчи»"
+    },
+    {
+      "kind": "idiom",
+      "subject": "נא",
+      "rationale": "Жумшактык бөлүкчөсү кыргызча «-чи» мүчөсү менен берилди"
+    }
+  ],
+  "translation": "Жана Шаулдун тагасы айтты: Мага айтып берчи, Шемуэл силерге эмне деди?",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "30eadc316bcb92e42884cbdd0e1e5a4b65f6e9d96542a71e6ad196854f356a50",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-samuel\/10\/13-16.1791206803469.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "жана … айтты"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "тагасы"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаулдун"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "айтып бер"
+    },
+    {
+      "surface": "נא",
+      "gloss": "-чи"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мага"
+    },
+    {
+      "surface": "מה",
+      "gloss": "эмне"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "деди"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "силерге"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Шемуэл"
+    }
+  ],
+  "timestamp": "2026-10-05T13:26:43.470266282Z",
+  "model": "glm-5.3"
+}

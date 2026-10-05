@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 4:3",
+  "book": "hosea",
+  "lang": "ky",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "Ошондуктан",
+      "rationale": "על כן — «ошонун үчүн», эки сөздүн бирдикти кыргызча бир сөзгө бириктирилди."
+    },
+    {
+      "kind": "substitution",
+      "subject": "жок болот",
+      "rationale": "יאספу — «чогултулулат\/алынат», жок болуу маанисинде."
+    }
+  ],
+  "translation": "Ошондуктан жер кайгырат, жана анын ичинде жашаган ар бир жан, талаанын айбандары менен жана асмандын канаттуулары менен бирге сөгүлөт; ошондой эле деңиздин балыктары да жок болот.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "34aac181ae38907c2b891af286b1ec679d93f45652b14bc2fd76eaef144fb98a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/hosea\/4\/1-4.1791213878489.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Ошондуктан"
+    },
+    {
+      "surface": "כן",
+      "gloss": ""
+    },
+    {
+      "surface": "תאבל",
+      "gloss": "кайгырат"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "жер"
+    },
+    {
+      "surface": "ואמלל",
+      "gloss": "сөгүлөт"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ар бир"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "жашаган"
+    },
+    {
+      "surface": "בה",
+      "gloss": "анын ичинде"
+    },
+    {
+      "surface": "בחית",
+      "gloss": "айбандары менен"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "талаанын"
+    },
+    {
+      "surface": "ובעוף",
+      "gloss": "жана канаттуулары менен"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "асмандын"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ошондой эле"
+    },
+    {
+      "surface": "דגי",
+      "gloss": "балыктары"
+    },
+    {
+      "surface": "הים",
+      "gloss": "деңиздин"
+    },
+    {
+      "surface": "יאספו",
+      "gloss": "жок болот"
+    }
+  ],
+  "timestamp": "2026-10-05T15:24:38.490826792Z",
+  "model": "glm-5.3"
+}

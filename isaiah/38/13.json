@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 38:13",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שויתי",
+      "rationale": "'Тынч жаттым \/ өзүмду теңелдим' (ASV, JPS) менен 'эсептедим' (KJV, Geneva) ортосунда талаш; тамыр шавах — теңдөө, тынч коюу."
+    },
+    {
+      "kind": "you",
+      "subject": "Сен",
+      "rationale": "Аяттын аягы Яхвеге түз кайрылуу: 'Сен мени бүтүрөсүң'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מיום עד לילה",
+      "rationale": "'Күндөн түнгө чейин' — 38:12 деги 'кечеден таңга чейин' ге карама-каршы коюлган ыр түзүмү."
+    }
+  ],
+  "translation": "Таңга чейин тынч жаттым; арстандай ал менин бардык сөөктөрүмдү сындырат; күндөн түнгө чейин Сен мени бүтүрөсүң.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "f50c46082cd122090cc0ec0bdc5c5b77db5417280e7b826880434fe0783f0f27",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/38\/13-16.1791210030076.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שויתי",
+      "gloss": "тынч жаттым"
+    },
+    {
+      "surface": "עד",
+      "gloss": "чейин"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "таң"
+    },
+    {
+      "surface": "כארי",
+      "gloss": "арстандай"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ошентип"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "сындырат"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бардык"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "сөөктөрүмдү"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "күндөн"
+    },
+    {
+      "surface": "עד",
+      "gloss": "чейин"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "түнгө"
+    },
+    {
+      "surface": "תשלימני",
+      "gloss": "мени бүтүрөсүң"
+    }
+  ],
+  "timestamp": "2026-10-05T14:20:30.077043917Z",
+  "model": "glm-5.3"
+}

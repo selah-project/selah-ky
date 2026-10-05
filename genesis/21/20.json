@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 21:20",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "את",
+      "rationale": "Бул жерде את H853 (объект белгиси) эмес, את H854 «менен» предлогу — ⟨את⟩ маркери коюлган жок"
+    },
+    {
+      "kind": "alternative",
+      "subject": "рбһ kbvشת",
+      "rationale": "Литералдуу «жаа атуучулукта күчөдү»; «жаа атуучу болуп өстү» деген экинчи окуу берилди"
+    }
+  ],
+  "translation": "Элохим бала ⟨את⟩ менен болду, ал чоңойду жана чөлдө жашады жана жаа атуучу болуп өстү.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "a1d7e8693fefbb1d2c931627856edfc5093d96fc422e7ed381e7758abe70641a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/21\/17-20.1791201114414.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "болду"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ менен"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "бала"
+    },
+    {
+      "surface": "ויגדל",
+      "gloss": "чоңойду"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "жашады"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "чөлдө"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "болуп өстү"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "өстү"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "жаа атуучу"
+    }
+  ],
+  "timestamp": "2026-10-05T11:51:54.416314276Z",
+  "model": "glm-5.3"
+}

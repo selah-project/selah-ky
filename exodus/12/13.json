@@ -1,0 +1,128 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 12:13",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "өтүп кетем",
+      "rationale": "פסח 'секүү, өтүү' — Песах майрамынын аты ошол тамырдан; кыргызча 'өтүп кетүү' сөздүн сүрөтүн берет"
+    },
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "rationale": "сетерлик байланыштык 'алардын' деп берилди, кыргызча салыштырма сүйлөм түзүлүшүн талап кылат"
+    },
+    {
+      "kind": "you",
+      "subject": "Израилге",
+      "rationale": "айтарман — Мицрайимдеги Йисраэл эли, жазанын алдын алуу буйругу"
+    }
+  ],
+  "translation": "Жана кан силерге белги болсун — силер турган үйлөрдүн үстүнө; Мен ⟨את⟩ канды көргөндө силерден өтүп кетем, жана Мен Мицрайим жерин соскондо жок кылуучу жаза силерде болбойт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "d771f4f7cfc17c459b829d496b6ef16c26dc32bd0110da486313f39fedd425be",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/12\/13-16.1791202154265.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "болсун"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "кан"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "силерге"
+    },
+    {
+      "surface": "לאת",
+      "gloss": "белги"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстүнө"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "үйлөрдүн"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "алардын"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "силер"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ал жерде"
+    },
+    {
+      "surface": "וראיתי",
+      "gloss": "көргөндө"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "кан"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "кан"
+    },
+    {
+      "surface": "ופסחתי",
+      "gloss": "өтүп кетем"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "силерден"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "жана жок"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "болот"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "силерде"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "жаза"
+    },
+    {
+      "surface": "למשחית",
+      "gloss": "жок кылуучу"
+    },
+    {
+      "surface": "בהכתי",
+      "gloss": "соскондо"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "жеринде"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицрайим"
+    }
+  ],
+  "timestamp": "2026-10-05T12:09:14.266022822Z",
+  "model": "glm-5.3"
+}

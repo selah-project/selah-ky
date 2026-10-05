@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 12:17",
+  "book": "2-samuel",
+  "lang": "ky",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עליו",
+      "rationale": "'анын үстүнө' — KJV 'arious' 'кулу үчүн келди' деп кошот; лексикалык мааниси 'үстүнө, каршы'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ברא",
+      "rationale": "ברא бул жерде 'тамактануу' (араабий פרע менен байланыштырылат), биз 'жебеди' деп берик."
+    },
+    {
+      "kind": "elision",
+      "subject": "אתם",
+      "rationale": "Бул אתם 'алар менен' деген алдыңкы сөз (H854), бірок структура боюнча ⟨את⟩ деп белгиленди."
+    }
+  ],
+  "translation": "Жана анын үйүнүн карыган кишилери анын үстүнө турду, аны жерден тургузуу үчүн, бирок ал каалабады жана алар ⟨את⟩ менен нан жебеди.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "51a362bdc68aa2fd8c96065d3a7ca1e269553b70e42d035441100a831c806a37",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-samuel\/12\/17-20.1791207539624.json",
+    "code": "641241cf-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "турду"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "караган кишилери"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "анын үйүнүн"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "анын үстүнө"
+    },
+    {
+      "surface": "להקימו",
+      "gloss": "аны тургузуу үчүн"
+    },
+    {
+      "surface": "מן",
+      "gloss": "…дан"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "жерден"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "бирок… жок"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "каалабады"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "жана… жок"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "жебеди"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "алар"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "нан"
+    }
+  ],
+  "timestamp": "2026-10-05T13:38:59.624753849Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 91:1",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 91,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жашырын жер",
+      "rationale": "סתר — 'жабуу, жашыруун жай'; 'сыр' эмес, баш паанэ жай мааниси"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ישב\/יתלונן",
+      "rationale": "эки тамыр тең 'токтоп туруу' маанисинде — 'отурат' жана 'түнөйт' параллелизмди бүтүрөт"
+    }
+  ],
+  "translation": "Эльондун жашырын жеринде отурган адам Шаддайдын көлөкөсүндө түнөйт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "4378b2ae66edad1eb8182fd2f627b8f97b17efceab305f8980faf21032273c55",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/91\/1-4.1791216922085.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "отурган адам"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "жашырын жеринде"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Эльондун"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "көлөкөсүндө"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Шаддайдын"
+    },
+    {
+      "surface": "יתלונן",
+      "gloss": "түнөйт"
+    }
+  ],
+  "timestamp": "2026-10-05T16:15:22.085855796Z",
+  "model": "glm-5.3"
+}

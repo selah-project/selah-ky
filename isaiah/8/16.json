@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 8:16",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "צור",
+      "rationale": "Бул жерде «аска» (צור II) эмес, «байлоо» (צור I): «күбөлүктү байла» — көп котормолор «аска» деп каташа reads"
+    },
+    {
+      "kind": "secret",
+      "subject": "мөөрлөнгөн Тора",
+      "rationale": "Тораны мөөрлөө — жашырылган, белгилүү убакка чейин пломбаланган билим"
+    },
+    {
+      "kind": "invitation",
+      "subject": "пайгамбарга берилген буйрук",
+      "rationale": "Байла, мөөрлө — кошулча сандагы императив, тике буйрук"
+    }
+  ],
+  "translation": "Байла ⟨את⟩ күбөлүктү, Тораны мөөрлө мениң үйрөнчүүләрүмдүн ичинде.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "d68edc4e0241c4a532cfc10469ab978202e514b13b9bddf4c3e633ee42a88a78",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/8\/13-16.1791209444396.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צור",
+      "gloss": "Байла"
+    },
+    {
+      "surface": "תעודה",
+      "gloss": "күбөлүктү"
+    },
+    {
+      "surface": "חתום",
+      "gloss": "мөөрлө"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "Тораны"
+    },
+    {
+      "surface": "בלמדי",
+      "gloss": "мениң үйрөнчүүләрүмдүн ичинде"
+    }
+  ],
+  "timestamp": "2026-10-05T14:10:44.397759754Z",
+  "model": "glm-5.3"
+}

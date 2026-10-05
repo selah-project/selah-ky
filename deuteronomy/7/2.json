@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 7:2",
+  "book": "deuteronomy",
+  "lang": "ky",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "החרם תחרים",
+      "rationale": "Инфинитив абсолют + этиш — күчөтүү ыкмасы: «сөзсүз харам кыл»; кыргызча тактика аркылуу берилди."
+    },
+    {
+      "kind": "crux",
+      "subject": "харам",
+      "rationale": "חרם — «толук жок кылууга арналган» деген ыйык тыюу; «толук кыруу» же «харам кылуу» деген варианттар бар."
+    }
+  ],
+  "translation": "Жана Яхве, сенин Элохимиң, аларды сенин алдыңа берет, сен аларды сабайсың — аларды сөзсүз харам кыласың; аларга келишим түзбө жана аларга ырайым кылба.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "bc559034d95778083e1bd5bd32de9d8e80805bcf769d2883a9df3f95b1bbf930",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/7\/1-4.1791204839437.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתנם",
+      "gloss": "Жана аларды берет"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "сенин Элохимиң"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "сенин алдыңа"
+    },
+    {
+      "surface": "והכיתם",
+      "gloss": "жана аларды сабайсың"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "сөзсүз харам кылууга"
+    },
+    {
+      "surface": "תחרים",
+      "gloss": "харам кыласың"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "аларды"
+    },
+    {
+      "surface": "לא",
+      "gloss": "эмес"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "түзбөсүң"
+    },
+    {
+      "surface": "להם",
+      "gloss": "аларга"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "келишим"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "жана эмес"
+    },
+    {
+      "surface": "תחנם",
+      "gloss": "аларга ырайым кылбайсың"
+    }
+  ],
+  "timestamp": "2026-10-05T12:53:59.438721299Z",
+  "model": "glm-5.3"
+}

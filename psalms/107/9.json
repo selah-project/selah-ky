@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 107:9",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жан",
+      "rationale": "נפש — дем алуучу жаныбар, кеңири мааниде: тамагы, жан күчү"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "השביע\/שקקה",
+      "rationale": "שקק — аңчы айбандай чуркаган, ачкалыкта аңдыгандык сөз оюну кыргызча жоголду"
+    }
+  ],
+  "translation": "Анткени Ал токтоосуз эңсеген жанды тойгузду, жана ач жанды жакшылык менен толтурду.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "fa2b43ed24c66df6cd26b57e8a2bfa3111682000e5d407cf23a768b653f78263",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/107\/9-12.1791217082420.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "השביע",
+      "gloss": "тойгузду"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "жан"
+    },
+    {
+      "surface": "שקקה",
+      "gloss": "токтоосуз эңсеген"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "жана жан"
+    },
+    {
+      "surface": "רעבה",
+      "gloss": "ач"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "толтурду"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "жакшылык"
+    }
+  ],
+  "timestamp": "2026-10-05T16:18:02.421527122Z",
+  "model": "glm-5.3"
+}

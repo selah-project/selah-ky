@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "nehemiah 13:16",
+  "book": "nehemiah",
+  "lang": "ky",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Цордуктар",
+      "rationale": "הצרים — Цор (Тир) шаарынын жашоочулору; шаардын еврейче аты сакталды."
+    },
+    {
+      "kind": "hapax",
+      "subject": "מכר (существительное)",
+      "rationale": "«Сатык нерселер» деген зат атооч бул түрүндө Танахта сейрек кездешет."
+    }
+  ],
+  "translation": "Цордуктар да анда жашап, балык алып келишчү жана ар кандай сатык нерселерди Шаббат күнү Йегуда уулдарына, Йерушалаймда сатышчу.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "0ab7823c728c5fd118a8c466f18998579ff087bd60c4f5eba5c7274e0cc4bc60",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/nehemiah\/13\/13-16.1791221752086.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והצרים",
+      "gloss": "Цордуктар"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "жашап"
+    },
+    {
+      "surface": "בה",
+      "gloss": "анда"
+    },
+    {
+      "surface": "מביאים",
+      "gloss": "алып келишчү"
+    },
+    {
+      "surface": "דאג",
+      "gloss": "балык"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ар кандай"
+    },
+    {
+      "surface": "מכר",
+      "gloss": "сатык нерселерди"
+    },
+    {
+      "surface": "ומכרים",
+      "gloss": "сатышчу"
+    },
+    {
+      "surface": "בשבת",
+      "gloss": "Шаббат күнү"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "уулдарына"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Йегуда"
+    },
+    {
+      "surface": "ובירושלם",
+      "gloss": "Йерушалаймда"
+    }
+  ],
+  "timestamp": "2026-10-05T17:35:52.087481639Z",
+  "model": "glm-5.3"
+}

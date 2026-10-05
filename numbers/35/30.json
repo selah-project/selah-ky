@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 35:30",
+  "book": "numbers",
+  "lang": "ky",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жан",
+      "rationale": "נפש — дем алуучу жандык, жаны-күч; кыргызча «жан» эң жакын"
+    },
+    {
+      "kind": "crux",
+      "subject": "ירצח",
+      "rationale": "Ким өлтүрүш керек: коом же өкүм чыгаруучу — еврейче этиш жашырылган субъектти билдирет"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רצח \/ הרצח",
+      "rationale": "Этиш менен ат атооч бир ээ түбүнөн кайталанат: «өлтүрүүчү өлтүрүлсүн»"
+    }
+  ],
+  "translation": "Ким жанды өлтүрсө, күбөлөрдүн оозу боюнча өлтүрүүчү ⟨את⟩ өлтүрүлсүн; жана бир күбө жан боюнча өлүмгө жооп бербесин.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "fc41b4f3b3fe6b8f9417977bfe62ce77c6fc5b92d574ea5e6b197b77cd4e3207",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/numbers\/35\/29-32.1791204618466.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ким"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "өлтүрсө"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "жанды"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "оозу боюнча"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "күбөлөрдүн"
+    },
+    {
+      "surface": "ירצח",
+      "gloss": "өлтүрүлсүн"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "өлтүрүүчүнү"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "өлтүрүүчү"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "жана күбө"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бир"
+    },
+    {
+      "surface": "לא",
+      "gloss": "болбойт"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "жооп бербесин"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "жан боюнча"
+    },
+    {
+      "surface": "למות",
+      "gloss": "өлүмгө"
+    }
+  ],
+  "timestamp": "2026-10-05T12:50:18.466734518Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "judges 10:18",
+  "book": "judges",
+  "lang": "ky",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יחל",
+      "rationale": "корень חלל: 'баштоо' (KJV, JPS) же 'эрүүдөн чыгуу, эрлик көрсөтүү' деген башка окуу бар; 'баштоо' тандылды."
+    },
+    {
+      "kind": "addition",
+      "subject": "birинчи",
+      "rationale": "״баштаган״ дегенге такыр биринчи болгонун тактоо үчүн кошулду."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גלעד … גלעד",
+      "rationale": "Гилад сөзү аятта эки жолу кайталанып, анын тургунлары жөнүндөгү суроо-жооптун алкагын курат."
+    },
+    {
+      "kind": "you",
+      "subject": "Гилад башчылары",
+      "rationale": "өз ара кайрылуу — суроо салышы кылынган, так addressee — Гилад эли."
+    }
+  ],
+  "translation": "Жана эл — Гилад башчылары — өз ара айтышты: Аммон уулдары менен согушууга биринчи баштаган киши ким? Ал Гиладдын бардык жашоочуларынын башчысы болот.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "50699b77182f5b791147db9fdb6f6d64388729b316dbbcf29e96190c8f38322e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/judges\/10\/17-18.1791206298152.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "жана айтышты"
+    },
+    {
+      "surface": "העם",
+      "gloss": "эл"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "башчылары"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Гилад"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ар бир киши"
+    },
+    {
+      "surface": "אל",
+      "gloss": "каарата"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "өз жакынына"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ким?"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "бул киши"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ал"
+    },
+    {
+      "surface": "יחל",
+      "gloss": "баштаган"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "согушууга"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "менен…уулдары"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Аммон"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "болот"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "башчысы"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "бардык"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "жашоочуларынын"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Гиладдын"
+    }
+  ],
+  "timestamp": "2026-10-05T13:18:18.153443194Z",
+  "model": "glm-5.3"
+}

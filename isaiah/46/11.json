@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 46:11",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "жырткы куш",
+      "rationale": " עיט — Кирге (Persия падышасына) берилген сүрөт; 'бүркүт' да, 'жырткы куш' да айтылат."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אף ×3",
+      "rationale": " үч жолу 'дал' — айтылган-аткарылган ыргактуу курулма."
+    },
+    {
+      "kind": "addition",
+      "subject": "кеңеши<мдин>",
+      "rationale": " עצתו 'анын кеңеши' — Яхвенин кеңеши экени контексттен, кыргызча такташ үчүн кошулду."
+    }
+  ],
+  "translation": "Чыгыштан жырткы кушту, алыс жерден кеңеши<мдин> адамын чакырамын; дал айттым — ошону алып келермин, дал жасап чыктым — ошону аткарамын.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "8555de819c89b8125b99c8ab018794a5c6154e0a44f7933e68869a4a3433192a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/46\/9-12.1791210252601.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קרא",
+      "gloss": "чакырамын"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "чыгыштан"
+    },
+    {
+      "surface": "עיט",
+      "gloss": "жырткы кушту"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "жерден"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "алыс"
+    },
+    {
+      "surface": "איש",
+      "gloss": "адамын"
+    },
+    {
+      "surface": "עצתו",
+      "gloss": "кеңеши<мдин>"
+    },
+    {
+      "surface": "אף",
+      "gloss": "дал"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "айттым"
+    },
+    {
+      "surface": "אף",
+      "gloss": "дал"
+    },
+    {
+      "surface": "אביאנה",
+      "gloss": "алып келермин"
+    },
+    {
+      "surface": "יצרתי",
+      "gloss": "жасап чыктым"
+    },
+    {
+      "surface": "אף",
+      "gloss": "дал"
+    },
+    {
+      "surface": "אעשנה",
+      "gloss": "аткарамын"
+    }
+  ],
+  "timestamp": "2026-10-05T14:24:12.602396015Z",
+  "model": "glm-5.3"
+}

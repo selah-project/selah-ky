@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 11:13",
+  "book": "deuteronomy",
+  "lang": "ky",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שמע תשמעו",
+      "rationale": "Инфинитив абсолют + этиш — «угууга угуңар», күчөтүү; кыргызча «көңүл буруп угууңар» менен берилди"
+    },
+    {
+      "kind": "substitution",
+      "subject": "жаныңар",
+      "rationale": "נפש — «жан\/дем-жаныоо» маанисинде; «жан» дайыма туура эмес, бирок бул жерде жүрөк менен кошулган жандык күч"
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "Моше Йисраэлге тикелей кайрылат"
+    }
+  ],
+  "translation": "Жана болот: эгер силер менин буйруктарыма, бүгүн силерге буйрук берген мунун — Яхве Элохимиңерди сүйүүгө жана Аны бүт жүрөгүңөр менен, бүт жаныңар менен кызмат кылууга — көңүл буруп угууңар,",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "5e7356629e3c7a107172c684e4f174dd6f7f8a82d8a87133e9b805f7e348dd09",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/11\/13-16.1791204902661.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Жана болот"
+    },
+    {
+      "surface": "אם",
+      "gloss": "эгер"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "көңүл буруп"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "угууңар"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iker"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "мунун буйруктарыма"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "аларды"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "мен"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "буйрук берген"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "силер"
+    },
+    {
+      "surface": "היום",
+      "gloss": "бүгүн"
+    },
+    {
+      "surface": "לאהבה",
+      "gloss": "сүйүүгө"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яхве Элохимиңерди"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Элохимиңерди"
+    },
+    {
+      "surface": "ולעבדו",
+      "gloss": "жана Ага кызмат кылууга"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "бүт"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "жүрөгүңөр менен"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "жана бүт"
+    },
+    {
+      "surface": "נפשכם",
+      "gloss": "жаныңар менен"
+    }
+  ],
+  "timestamp": "2026-10-05T12:55:02.661910944Z",
+  "model": "glm-5.3"
+}

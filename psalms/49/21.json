@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 49:21",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נמשל\/נדמו",
+      "rationale": "Эки тамырдын үнү окшош: «окшоштурулду» жана «жок кылынды» — дагы бир окшоштук, кыргызча жоголот."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ביקר",
+      "rationale": "Сөзмө-сөз «баалуулук, кадыр» — байлык жана урмат эки мааниси бар."
+    },
+    {
+      "kind": "crux",
+      "subject": "נדמו",
+      "rationale": "«Жок кылынды» же «үнсүз калды» (дамах — «үнсүз болуу»): малдар ээрчий түшкөн өлүм же акылсыз үнсүздүк."
+    }
+  ],
+  "translation": "Адам урмат-баркта, бирок түшүнбөйт — ал малдарга окшоштурук, алар жок кылынгандай.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "dc6b7c77f76eb66697796be341fc5d46f0785a167995223d72f36ffde2e9ea8f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/49\/21-21.1791216031671.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "адам"
+    },
+    {
+      "surface": "ביקר",
+      "gloss": "урмат-баркта"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "бирок түшүнбөйт"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "түшүнбөйт"
+    },
+    {
+      "surface": "נמשל",
+      "gloss": "окшоштурук"
+    },
+    {
+      "surface": "כבהמות",
+      "gloss": "малдарга"
+    },
+    {
+      "surface": "נדמו",
+      "gloss": "жок кылынгандай"
+    }
+  ],
+  "timestamp": "2026-10-05T16:00:31.671568128Z",
+  "model": "glm-5.3"
+}

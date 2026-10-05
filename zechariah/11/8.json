@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "zechariah 11:8",
+  "book": "zechariah",
+  "lang": "ky",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נפש",
+      "rationale": "נפש «жан, дем, тирчилик күчү» — «жан» деп берилди, «душа» эмес"
+    },
+    {
+      "kind": "crux",
+      "subject": "שלשת הרעים",
+      "rationale": "«үч койчу» кимдер экени белгисиз — падышалар, пайгамбарлар, ыйык кызмат кылуучулар деген талаштар бар"
+    },
+    {
+      "kind": "measurement",
+      "subject": "бир ай",
+      "rationale": "вакт бир ай менен ченелет — үч койчу бир айдын ичинде жок кылынган"
+    }
+  ],
+  "translation": "Мен ⟨את⟩ үч койчуну бир айдын ичинде жок кылдым, жаным алардан талыды, алардын жаны да Менден жиренді.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "14a19b808ae01bc553c6902bb70a2f96ba68d0a5cda50e4324dbf9b5c3e50236",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/zechariah\/11\/5-8.1791215201550.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואכחד",
+      "gloss": "жана жок кылдым"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "үч"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "үч"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "койчуну"
+    },
+    {
+      "surface": "בירח",
+      "gloss": "айдын"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бир"
+    },
+    {
+      "surface": "ותקצר",
+      "gloss": "жана талыды"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "жаным"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "алардан"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "жана да"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "жаны"
+    },
+    {
+      "surface": "בחלה",
+      "gloss": "жиренді"
+    },
+    {
+      "surface": "בי",
+      "gloss": "Менден"
+    }
+  ],
+  "timestamp": "2026-10-05T15:46:41.551556187Z",
+  "model": "glm-5.3"
+}

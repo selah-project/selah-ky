@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 23:7",
+  "book": "2-chronicles",
+  "lang": "ky",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "כי לא (2-жолу эмес)",
+      "rationale": "Крал текстинде «башка каалаган адам» түшүнүктүү; бул жерде אל «ийгиликке» кыскача берилди"
+    },
+    {
+      "kind": "substitution",
+      "subject": "менен",
+      "rationale": "Биринчи את — тикелей объект белгиси ⟨את⟩; экинчи את — «менен» маанисиндеги предлог, башка лемма"
+    },
+    {
+      "kind": "crux",
+      "subject": "הבית",
+      "rationale": "«Үй» — Яхвенин үйү (ыйык жай) же падышанын сарайы деген талаш окулуштар бар"
+    },
+    {
+      "kind": "invitation",
+      "subject": "лебилерге буйрук",
+      "rationale": "Аят лебилерге багытталган буйрук сөздөрдөн турат"
+    }
+  ],
+  "translation": "Жана лебилер ⟨את⟩ падышаны тегеректе турсун, ар бир адам куралы колунда; үйгө кирген адам өлтүрүлсүн, жана ⟨את⟩ падыша киргенде да, чыкканда да алар ⟨анын жанында⟩ болсун.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "8f7d7655baeacddefe05aca29c2d1aea656b8be5652894a7ccccf09ca12fd9c5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-chronicles\/23\/5-8.1791223102170.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והקיפו",
+      "gloss": "тегеректе турсун"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "лебилер"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "падышаны"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "падышаны"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "айланта"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ар бир адам"
+    },
+    {
+      "surface": "וכליו",
+      "gloss": "жана куралы"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "колунда"
+    },
+    {
+      "surface": "והבא",
+      "gloss": "жана кирген"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "הבית",
+      "gloss": "үйгө"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "өлтүрүлсүн"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "жана болсун"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ⟨менен⟩",
+      "marks": "падыша"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "падыша"
+    },
+    {
+      "surface": "בבאו",
+      "gloss": "киргенде"
+    },
+    {
+      "surface": "ובצאתו",
+      "gloss": "жана чыкканда"
+    }
+  ],
+  "timestamp": "2026-10-05T17:58:22.171475958Z",
+  "model": "glm-5.3"
+}

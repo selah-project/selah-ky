@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 89:5",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "סלה",
+      "rationale": "Музыкалык тыныш белгиси, которулбайт — Селах катары калды"
+    },
+    {
+      "kind": "substitution",
+      "subject": "түбөлүккө",
+      "rationale": "עולם түркмөгөн убакыт чеги — «жашыруун, көзгө көрүнбөгөн чек» деген тамырдан"
+    }
+  ],
+  "translation": "Түбөлүккө чейин Мен сенин үрөнүңдү бекемдейм, жана муундан муунга сенин тактыңды курам. Селах.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "178bf9212f44ae038112b02baed77b9860670dd0c53b0eba6cac22ba3f622af4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/89\/5-8.1791216746061.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "чейин"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "түбөлүккө"
+    },
+    {
+      "surface": "אכין",
+      "gloss": "бекемдейм"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "үрөнүңдү"
+    },
+    {
+      "surface": "ובניתי",
+      "gloss": "жана курам"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "муундан"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "муунга"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "тактыңды"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Селах"
+    }
+  ],
+  "timestamp": "2026-10-05T16:12:26.061809391Z",
+  "model": "glm-5.3"
+}

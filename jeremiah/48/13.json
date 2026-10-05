@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 48:13",
+  "book": "jeremiah",
+  "lang": "ky",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "rationale": "Бейт-Эл бир ат катары мүчөлөштү, эки текен бир атты көтөрдү"
+    },
+    {
+      "kind": "substitution",
+      "subject": "уят болот",
+      "rationale": "בוש — «кубаруу, чырай тамуу», уяттуулуктун ички сезими"
+    }
+  ],
+  "translation": "Моаб Кемоштон уят болот, Йисраелдин үйү Бейт-Элден, ишеничтеринен уят болгондой.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "06eefd8ad063313dcdd61773269a79244642834baeadf78909e8b62df708604b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/jeremiah\/48\/13-16.1791211851417.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובש",
+      "gloss": "уят болот"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моаб"
+    },
+    {
+      "surface": "מכמוש",
+      "gloss": "Кемоштон"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "сыяктуу"
+    },
+    {
+      "surface": "בשו",
+      "gloss": "уят болушкан"
+    },
+    {
+      "surface": "בית",
+      "gloss": "үйү"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраелдин"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "Бейт-Элден"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "מבטחם",
+      "gloss": "ишеничтеринен"
+    }
+  ],
+  "timestamp": "2026-10-05T14:50:51.418011388Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 8:12",
+  "book": "2-chronicles",
+  "lang": "ky",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "өрттөлүүчү курмандыктар",
+      "rationale": "עלות — «жогору көтөрүлүүчү» деген сөз; курмандыктын түрүнө айланган."
+    },
+    {
+      "kind": "substitution",
+      "subject": "алдыңкы бөлмө",
+      "rationale": "האולם — үйгө жабышкан кире бериш бөлмө, порченик."
+    }
+  ],
+  "translation": "Ошондо Шеломо Яхвеге өрттөлүүчү курмандыктарды Яхвендин, алдыңкы бөлмөнүн алдына салган курмандык жайынын үстүнө көтөрүп берди.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "f512bd8dfa35b6dc126d097ac42748632e04355733317ee3ac51ebeacce6021a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-chronicles\/8\/9-12.1791222768157.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "ошондо"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "көтөрүп берди"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шеломо"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "өрттөлүүчү курмандыктарды"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхвеге"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстүнө"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "курмандык жайынын"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвендин"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…ны"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "салган"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "алдына"
+    },
+    {
+      "surface": "האולם",
+      "gloss": "алдыңкы бөлмөнүн"
+    }
+  ],
+  "timestamp": "2026-10-05T17:52:48.159690429Z",
+  "model": "glm-5.3"
+}

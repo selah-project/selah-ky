@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "zephaniah 3:19",
+  "book": "zephaniah",
+  "lang": "ky",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨…⟩",
+      "rationale": "Этиштин толук айкындыгы үчүн 'Токто, Мен' кошулду; הנני — 'менин мынам'"
+    },
+    {
+      "kind": "crux",
+      "subject": "בכל הארץ בשתם",
+      "rationale": "'бүт жерде, алардын уяттыгында' — уят жерде бе ('ушул жерлеринде') же бүт жерде бе (KJV 'every land')"
+    }
+  ],
+  "translation": "Токто, ошол убакта Мен сенин бардык кордогондоруңа ⟨את⟩ жасайм; Мен ⟨את⟩ аксаганды куткарам, куулган-чачылганды чогултам, аларды бүт жерде, кор болгон жерлеринде, атактуу жана мактоого коймо.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "dccc0d87725a437121555f0ae15f1bc96a8e1bb9ec078b17ef2caee57518403b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/zephaniah\/3\/17-20.1791214857995.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "Токто, Мен"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "жасайм"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "бардык кордогондоруңа"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бардык"
+    },
+    {
+      "surface": "מעניך",
+      "gloss": "сенин кордогондоруңо"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "ошол убакта"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "ошол"
+    },
+    {
+      "surface": "והושעתי",
+      "gloss": "жана Мен куткарам"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "аксаганды"
+    },
+    {
+      "surface": "הצלעה",
+      "gloss": "аксаганды"
+    },
+    {
+      "surface": "והנדחה",
+      "gloss": "жана куулган-чачылганды"
+    },
+    {
+      "surface": "אקבץ",
+      "gloss": "чогултам"
+    },
+    {
+      "surface": "ושמתים",
+      "gloss": "жана аларды коймо"
+    },
+    {
+      "surface": "לתהלה",
+      "gloss": "мактоого"
+    },
+    {
+      "surface": "ולשם",
+      "gloss": "жана атакка"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "бүт"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "жерде"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "кор болгон жерлеринде"
+    }
+  ],
+  "timestamp": "2026-10-05T15:40:57.996355126Z",
+  "model": "glm-5.3"
+}

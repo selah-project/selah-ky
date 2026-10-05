@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 4:8",
+  "book": "1-samuel",
+  "lang": "ky",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kutkarat",
+      "rationale": "латын тамгалары ката — «куткарат» болушу керек"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "האלה \/ האלהים \/ המכים \/ מכה",
+      "rationale": "«бул» жана «Элохим» деген сөздөрдүн кайрылуусу жана מכה\/המכים уруу тамырынын кайталоосу"
+    },
+    {
+      "kind": "crux",
+      "subject": "במדבר",
+      "rationale": "согуулар чөлдө эмес, Мицрайимде болгон; текст Пелиштилилердин аң-сезимин көрсөтөт"
+    },
+    {
+      "kind": "you",
+      "subject": "Пелиштилилердин өз ара сөзү",
+      "rationale": "коркуу ичинде багыштоо"
+    }
+  ],
+  "translation": "«Бизге оңбойт! Бизди бул укмуштуу Элохимдердин колунан ким kutkarat? Бул — ⟨את⟩ Мицрайимди чөлдө ар кандай согуу менен урган Элохим!»",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "e22cc62d0726d92c285ce54fc5a4b4e97306e999a63b7ef63e166f9958f7657a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-samuel\/4\/5-8.1791206665224.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אוי",
+      "gloss": "оңбойт"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "бизге"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ким"
+    },
+    {
+      "surface": "יצילנו",
+      "gloss": "kutkarat"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "колунан"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Элохимдердин"
+    },
+    {
+      "surface": "האדירים",
+      "gloss": "укмуштуу"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "бул"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "бул"
+    },
+    {
+      "surface": "הם",
+      "gloss": "-"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "המכים",
+      "gloss": "урган"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Мицрайимди"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицрайимди"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ар кандай"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "согуу"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "чөлдө"
+    }
+  ],
+  "timestamp": "2026-10-05T13:24:25.225490062Z",
+  "model": "glm-5.3"
+}

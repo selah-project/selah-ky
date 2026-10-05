@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 10:6",
+  "book": "2-chronicles",
+  "lang": "ky",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "болгон",
+      "rationale": "Кыргызча өткөн чактык байланыш үчүн кошулду"
+    },
+    {
+      "kind": "substitution",
+      "subject": "כל הימים кайтарылбай калды",
+      "rationale": "כל הימים 10:7 да, бул аятта жок"
+    }
+  ],
+  "translation": "Падыша Рехавам атасы Шеломо тирүү кезинде анын алдында турган карылар менен ⟨את⟩ кеңешти жана аларга айтты: Бул элге сөз кайтаруу үчүн силер кандай кеңеш бересиңер?",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "bec773b208767d994b14450efce18e9a908effb92f59607874bc9bb4fa523a44",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-chronicles\/10\/5-8.1791222825433.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויועץ",
+      "gloss": "кеңешти"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "падыша"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Рехавам"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "карылар"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "карылар"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "алар"
+    },
+    {
+      "surface": "היו",
+      "gloss": "болгон"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "турган"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "алдында"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шеломо"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "атасы"
+    },
+    {
+      "surface": "בהיתו",
+      "gloss": "кезинде"
+    },
+    {
+      "surface": "חי",
+      "gloss": "тирүү"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "איך",
+      "gloss": "кандай"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "силер"
+    },
+    {
+      "surface": "נועצים",
+      "gloss": "кеңеш бересиңер"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "кайтаруу"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "элге"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "бул"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сөз"
+    }
+  ],
+  "timestamp": "2026-10-05T17:53:45.434465525Z",
+  "model": "glm-5.3"
+}

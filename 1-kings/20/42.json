@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-kings 20:42",
+  "book": "1-kings",
+  "lang": "ky",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נפשך",
+      "rationale": "נפש — дем алуучу жандык, жаны-күч; 'жан' жакын, 'жан (руханий)' эмес."
+    },
+    {
+      "kind": "crux",
+      "subject": "איש חרמי",
+      "rationale": "'Мен жок кылууга буюрган адам' — חרם толук жок кылууга арналган; Бен-Хадад жөнүндө."
+    },
+    {
+      "kind": "addition",
+      "subject": "ошондуктан",
+      "rationale": "יען натыйжаны билдирет, кыргызча байламта кошулду."
+    }
+  ],
+  "translation": "Ага мындай деди: «Мындай дейт Яхве: Сен ⟨את⟩ Мен жок кылууга буюрган адамды колуңдан коё бердиң, ошондуктан сенин жаның анын жанынын ордуна, сенин элиң анын элинин ордуна болот.»",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "52dcaee654f511a8f2f1b6f18da77b8427784ef7f9be69612fadaea615fccfb2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-kings\/20\/41-43.1791208472590.json",
+    "code": "641241cf-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "деди"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ага"
+    },
+    {
+      "surface": "כה",
+      "gloss": "мындай"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "дейт"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "יען",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "שלחת",
+      "gloss": "коё бердиң"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "адамды"
+    },
+    {
+      "surface": "איש",
+      "gloss": "адамды"
+    },
+    {
+      "surface": "חרמי",
+      "gloss": "Мен жок кылууга буюрган"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "колуңдан"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "болот"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "жаның"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ордуна"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "жанынын"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "элиң"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ордуна"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "элинин"
+    }
+  ],
+  "timestamp": "2026-10-05T13:54:32.591044364Z",
+  "model": "glm-5.3"
+}

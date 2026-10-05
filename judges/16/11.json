@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 16:11",
+  "book": "judges",
+  "lang": "ky",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "rationale": "киргизүүчү אשר кыргызча относителдик конструкцияга сиңип кетти, өзүнчө сөз жок"
+    },
+    {
+      "kind": "substitution",
+      "subject": "алсызданамын",
+      "rationale": "וחליתי 'ооруп калам, басылам' — кыргызча 'алсызданамын' жакын маани берет"
+    }
+  ],
+  "translation": "Ал ага айтты: Эгерде мени чын эле алар менен иш жасалбаган жаңы аркандар менен байлашса, мен алсызданамын жана адамдардын бириндей боломун.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "525834cf02865e18be57c6717c69ff4defe0d848f9ed93ab6b14b43c220f0499",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/judges\/16\/9-12.1791206490062.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ага"
+    },
+    {
+      "surface": "אם",
+      "gloss": "эгерде"
+    },
+    {
+      "surface": "אסור",
+      "gloss": "чын эле"
+    },
+    {
+      "surface": "יאסרוני",
+      "gloss": "мени байлашса"
+    },
+    {
+      "surface": "בעבתים",
+      "gloss": "аркандар"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "жаңы"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "לא",
+      "gloss": "эмес"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "иш жасалбаган"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "алар менен"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "иш"
+    },
+    {
+      "surface": "וחליתי",
+      "gloss": "алсызданамын"
+    },
+    {
+      "surface": "והייתי",
+      "gloss": "боломун"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "бириндей"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "адамдардын"
+    }
+  ],
+  "timestamp": "2026-10-05T13:21:30.063441653Z",
+  "model": "glm-5.3"
+}

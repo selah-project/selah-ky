@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 1:1",
+  "book": "leviticus",
+  "lang": "ky",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨Ал⟩",
+      "rationale": "еврейче субъект алдын ала айтылбаган, кыргызча сүйлөм башына атооч керек"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Жолугушуу чатыры",
+      "rationale": "אהל מועד букв. «белгиленген убакыттын чатыры»; салттуу «жыйын чатыры» да айтылат"
+    }
+  ],
+  "translation": "Жана ⟨Ал⟩ Мошени чакырды, жана Яхве ага Жолугушуу чатырынан сүйлөдү, айтып:",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "271e943134384cca431a51033812d7f5c4fec488358c7486b921252955382514",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/1\/1-4.1791202834775.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "чакырды"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…га"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Мошени"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "жана сүйлөдү"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ага"
+    },
+    {
+      "surface": "מאהל",
+      "gloss": "чатырынан"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Жолугушуу"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "айтып"
+    }
+  ],
+  "timestamp": "2026-10-05T12:20:34.776027456Z",
+  "model": "glm-5.3"
+}

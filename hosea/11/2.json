@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 11:2",
+  "book": "hosea",
+  "lang": "ky",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "чакырышты",
+      "rationale": "Ким чакырды — еврейче субъекти жок: пайгамбарлар (ASV\/JPS) же Элохим (BSB); кыргызча да ачык калды"
+    },
+    {
+      "kind": "idiom",
+      "subject": "алардын жүзүнөн",
+      "rationale": "מפניהם — букв. 'алардын жүзүнөн', 'алардан качып' деген идиома"
+    }
+  ],
+  "translation": "Аларга чакырышты, ошондуктан алар алардын жүзүнөн качып кетишти: Баалдарга курмандык чабышты жана оюм-жасалма буттарга жыпар түтөтүштү.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "c81d79e57dac57173e550a82528b1d1ea86adb547d7436ec63417f9789559a87",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/hosea\/11\/1-4.1791214031016.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קראו",
+      "gloss": "чакырышты"
+    },
+    {
+      "surface": "להם",
+      "gloss": "аларга"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ошондуктан"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "кетишти"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "алардын жүзүнөн"
+    },
+    {
+      "surface": "לבעלים",
+      "gloss": "Баалдарга"
+    },
+    {
+      "surface": "יזבחו",
+      "gloss": "курмандык чабышты"
+    },
+    {
+      "surface": "ולפסלים",
+      "gloss": "жана оюм-жасалма буттарга"
+    },
+    {
+      "surface": "יקטרון",
+      "gloss": "жыпар түтөтүштү"
+    }
+  ],
+  "timestamp": "2026-10-05T15:27:11.017117092Z",
+  "model": "glm-5.3"
+}

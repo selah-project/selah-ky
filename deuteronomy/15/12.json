@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 15:12",
+  "book": "deuteronomy",
+  "lang": "ky",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "алты жыл \/ жетинчи жыл",
+      "rationale": "Кызмат мөөнөтү жыл менен ченелет — Шемиттанын жылчыл өлчөөсү."
+    },
+    {
+      "kind": "substitution",
+      "subject": "иври",
+      "rationale": "העברי улут аты катары айтылышында сакталды, котормо эмес."
+    }
+  ],
+  "translation": "Эгер агандыктан — иври эркек же иври аял — сага сатылса, ал сага алты жыл кызмат кылсын, жетинчи жылы аны эркин жибер өзүңдөн.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "fbb08bcabab7bc6f9dae348b1c49d1977f430cc1d972dc1d15d1c7f8e82a9bc6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/15\/9-12.1791205013672.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "эгер"
+    },
+    {
+      "surface": "ימכר",
+      "gloss": "сатылса"
+    },
+    {
+      "surface": "לך",
+      "gloss": "сага"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "агандыктан"
+    },
+    {
+      "surface": "העברי",
+      "gloss": "иври эркек"
+    },
+    {
+      "surface": "או",
+      "gloss": "же"
+    },
+    {
+      "surface": "העבריה",
+      "gloss": "иври аял"
+    },
+    {
+      "surface": "ועבדך",
+      "gloss": "жана кызмат кылсын"
+    },
+    {
+      "surface": "שש",
+      "gloss": "алты"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "жыл"
+    },
+    {
+      "surface": "ובשנה",
+      "gloss": "жана жылы"
+    },
+    {
+      "surface": "השביעת",
+      "gloss": "жетинчи"
+    },
+    {
+      "surface": "תשלחנו",
+      "gloss": "аны жибер"
+    },
+    {
+      "surface": "חפשי",
+      "gloss": "эркин"
+    },
+    {
+      "surface": "מעמך",
+      "gloss": "өзүңдөн"
+    }
+  ],
+  "timestamp": "2026-10-05T12:56:53.673383488Z",
+  "model": "glm-5.3"
+}

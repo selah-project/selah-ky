@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 10:26",
+  "book": "numbers",
+  "lang": "ky",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "болду",
+      "rationale": "еврейче этиш жок, кыргызча сүйлөм аяктоо үчүн талап кылынат"
+    },
+    {
+      "kind": "measurement",
+      "subject": "аскер башчысынын аты",
+      "rationale": "уруу аскерлеринин башчыларынын тизмесинин бир бөлүгү"
+    }
+  ],
+  "translation": "Жана Ашер уулдарынын уруусунун аскеринин үстүнөн Пагиэл, Окрандын уулу.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "e80727d228a5d5c4ef2f92960bf6abd9f94533d2bbec6939c5e1d3158f439582",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/numbers\/10\/25-26.1791223630091.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "жана ... үстүнөн"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "аскеринин"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "уруусунун"
+    },
+    {
+      "surface": "בני",
+      "gloss": "уулдарынын"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Ашер"
+    },
+    {
+      "surface": "פגעיאל",
+      "gloss": "Пагиэл"
+    },
+    {
+      "surface": "בן",
+      "gloss": "уулу"
+    },
+    {
+      "surface": "עכרן",
+      "gloss": "Окрандын"
+    }
+  ],
+  "timestamp": "2026-10-05T18:07:10.092280148Z",
+  "model": "glm-5.3"
+}

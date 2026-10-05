@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 38:28",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "שני",
+      "rationale": "'кызыл' — бѳрљнӊ кызыл боёгунан алынган кымбат кызыл түс; 'кыргызча көк жип' деген салтта айтылса да туура эмес."
+    },
+    {
+      "kind": "addition",
+      "subject": "бирөө",
+      "rationale": "Еврейче 'кол берди' — ээси аталбаган, кыргызча субъекти кошуу зарыл."
+    }
+  ],
+  "translation": "Жана төрөт убагында бирөө колун сунду, жана төрөтчү алып, анын колуна кызыл жип байлады, айтып: Бул биринчи чыкты.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "9f8855b193fdbbab680198e55c770e2862880b339aa9207e467660fedd14adcc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/38\/25-28.1791201525699.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "жана болду"
+    },
+    {
+      "surface": "בלדתה",
+      "gloss": "төрөт убагында"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "жана сунду"
+    },
+    {
+      "surface": "יד",
+      "gloss": "кол"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "жана алып"
+    },
+    {
+      "surface": "המילדת",
+      "gloss": "төрөтчү"
+    },
+    {
+      "surface": "ותקשר",
+      "gloss": "жана байлады"
+    },
+    {
+      "surface": "על",
+      "gloss": "-га"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "анын колуна"
+    },
+    {
+      "surface": "שני",
+      "gloss": "кызыл жип"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "айтып"
+    },
+    {
+      "surface": "זה",
+      "gloss": "бул"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "чыкты"
+    },
+    {
+      "surface": "ראשנה",
+      "gloss": "биринчи"
+    }
+  ],
+  "timestamp": "2026-10-05T11:58:45.700893904Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 103:22",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 103,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жаным",
+      "rationale": "נפש — тамак\/дем\/жан-жүрөк; 'жаным' жакындашы, бирок нефеш 'тирүүлүк күчү' деген сөз"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Жаным, Яхвени баркта",
+      "rationale": "Псаломдун башындагы өзүнө чакыруу кайра келет — риторикалык жыйынтык"
+    },
+    {
+      "kind": "you",
+      "subject": "жаным",
+      "rationale": "Өз жанына direct address — псалмистдин өзүнө"
+    }
+  ],
+  "translation": "Яхвени барктагыла, анын бүт иштери, анын өкүмүнүн бардык жерлеринде! Жаным, ⟨את⟩ Яхвени баркта!",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "d6cd3bcbfd8277dd61cc4f14b7fdfeaf34c7c0d62141f66f7ad5a10028332049",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/103\/21-22.1791216942899.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "барктагыла"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвени"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүт"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "иштери"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "бардык"
+    },
+    {
+      "surface": "מקמות",
+      "gloss": "жерлеринде"
+    },
+    {
+      "surface": "ממשלתו",
+      "gloss": "анын өкүмүнүн"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "баркта"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "жаным"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яхвени"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвени"
+    }
+  ],
+  "timestamp": "2026-10-05T16:15:42.899851004Z",
+  "model": "glm-5.3"
+}

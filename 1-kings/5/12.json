@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 5:12",
+  "book": "1-kings",
+  "lang": "ky",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "үч миң \/ беш жана миң",
+      "rationale": "Аят саналуучу машалдарды жана ырларды эсептейт"
+    },
+    {
+      "kind": "substitution",
+      "subject": "машал",
+      "rationale": "משל 'накыл-масал, орокдоу сөз' — кыргызча так бир сөз жок, еврейча форма сакталды"
+    }
+  ],
+  "translation": "Жана ал үч миң машал айтты, жана анын ырлары беш миң ⟨жана⟩ миң болду.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "fb731ebbbcb892f54cbdc3864d7bf9195565a1dc0c83ffa97c9c18284d178352",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-kings\/5\/9-12.1791208074773.json",
+    "code": "641241cf-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "үч"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "миң"
+    },
+    {
+      "surface": "משל",
+      "gloss": "машал"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "болду"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "анын ырлары"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "беш"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "жана миң"
+    }
+  ],
+  "timestamp": "2026-10-05T13:47:54.774952631Z",
+  "model": "glm-5.3"
+}

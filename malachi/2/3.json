@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "malachi 2:3",
+  "book": "malachi",
+  "lang": "ky",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "үрөнүңөрдү",
+      "rationale": "הזרע: «урпагыңар» (тукум) же «үрөн» (эгин) же «чыккыңар» — котормочулор бөлүнөт"
+    },
+    {
+      "kind": "crux",
+      "subject": "ал силерди алып кетет",
+      "rationale": "ונשא אתכם: «ал (заара) силерди алып кетет» же «бирөө силерди таштап кетет» — субъект так эмес"
+    },
+    {
+      "kind": "substitution",
+      "subject": "малдын заарасы",
+      "rationale": "פרש — малдын заарасы\/заңы, ыйык кызматты таптакыр булгоондоону көрсөтөт"
+    }
+  ],
+  "translation": "Бак, Мен силерге <את> үрөнүңөрдү тыйам, жана силердин беттериңерге малдын заарасын — силердин майрамдарыңардын заарасын — чачам, жана ал ⟨את⟩ силерди өзүнө кошо алып кетет.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "dd82bcdabdf8b43f73f4a7e460cc05ae7a0ccce12245284aef255edbfdcdd1c6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/malachi\/2\/1-4.1791215234990.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "бак, Мен"
+    },
+    {
+      "surface": "גער",
+      "gloss": "тыйам"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "силерге"
+    },
+    {
+      "surface": "את",
+      "gloss": "<את>",
+      "marks": "үрөнүңөрдү"
+    },
+    {
+      "surface": "הזרע",
+      "gloss": "үрөнүңөрдү"
+    },
+    {
+      "surface": "וזריתי",
+      "gloss": "жана чачам"
+    },
+    {
+      "surface": "פרש",
+      "gloss": "заара"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстүнө"
+    },
+    {
+      "surface": "פניכם",
+      "gloss": "беттериңерге"
+    },
+    {
+      "surface": "פרש",
+      "gloss": "заарасын"
+    },
+    {
+      "surface": "חגיכם",
+      "gloss": "майрамдарыңардын"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "жана алып кетет"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ силерди"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "өзүнө кошо"
+    }
+  ],
+  "timestamp": "2026-10-05T15:47:14.991358064Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 1:18",
+  "book": "1-kings",
+  "lang": "ky",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ועתה … ועתה",
+      "rationale": "«азыр … ал эми» кайталоосу — Бат-Шеванын өтүнүчүндөгү күчтүү риторикалык ыргак, кыргызча бир топ жумшарак угулат."
+    },
+    {
+      "kind": "addition",
+      "subject": "жатат",
+      "rationale": "Кыргызча азыркы учурдагы этиш жардамчы форма талап кылат, еврейче жок."
+    }
+  ],
+  "translation": "Жана мына, азыр Адонийа падышачылык кылып жатат, ал эми сен, мырзам падыша, муну билбей турасың.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "ba45c827b9501b407f2bc60d1fee5f6ce8a99c334c439c7e60c175509c0ee0d5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-kings\/1\/17-20.1791207933569.json",
+    "code": "641241cf-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "жана азыр"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "мына"
+    },
+    {
+      "surface": "אדניה",
+      "gloss": "Адонийа"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "падышачылык кылып жатат"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "ал эми"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "мырзам"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "падыша"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "билбей турасың"
+    }
+  ],
+  "timestamp": "2026-10-05T13:45:33.570138319Z",
+  "model": "glm-5.3"
+}

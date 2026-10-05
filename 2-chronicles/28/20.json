@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 28:20",
+  "book": "2-chronicles",
+  "lang": "ky",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ויצר לו",
+      "rationale": "«Аны кысып, кыйнады» деген мааниде; айрым котормолор «кууроо салды» деп жумшартышат — бул жерде катуу кысуу мааниси алынды."
+    },
+    {
+      "kind": "alternative",
+      "subject": "עליו",
+      "rationale": "«Ага каршы» (KJV «unto him» эмес): контекст 28:21 менен — Ассирия падышасы жардам бербей, тескерисинче басып алды — «каршы» маанисин тандадык."
+    }
+  ],
+  "translation": "Жана ага каршы Ассирия падышасы Тиглат-Пилнесер келди жана аны кыйнады, бирок аны бекемдеген жок.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "73d22c05fe5e9f0669888074dafbc64fc05d5c2f9558be243587cbc8fb7d1e2f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-chronicles\/28\/17-20.1791223182240.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "келди"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ага каршы"
+    },
+    {
+      "surface": "תלגת",
+      "gloss": "Тиглат"
+    },
+    {
+      "surface": "פלנאסר",
+      "gloss": "Пилнесер"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "падышасы"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ассириянын"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "кыйнады"
+    },
+    {
+      "surface": "לו",
+      "gloss": "аны"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "бирок ... жок"
+    },
+    {
+      "surface": "חזקו",
+      "gloss": "бекемдеди"
+    }
+  ],
+  "timestamp": "2026-10-05T17:59:42.242503306Z",
+  "model": "glm-5.3"
+}

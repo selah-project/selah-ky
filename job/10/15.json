@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 10:15",
+  "book": "job",
+  "lang": "ky",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "цедек",
+      "rationale": "צדקתי — цедек сөзү катары сакталды, «ак пейил» эмес."
+    },
+    {
+      "kind": "idiom",
+      "subject": "баш көтөрүү",
+      "rationale": "לא אשא ראשי — идиома: өзүн уяттан бийик сезүү."
+    }
+  ],
+  "translation": "Эгер мен заалым болсом — ой, мага! Ве эгер цедек болсом — башымды көтөрбөйм; уяттан ток, жана менин азап-кыйынымды көр.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "a0de202703275a85fe4037e236b54e7d84b81d6a985ed72b551acf657feda211",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/job\/10\/13-16.1791218772607.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "эгер"
+    },
+    {
+      "surface": "רשעתי",
+      "gloss": "мен заалым болсом"
+    },
+    {
+      "surface": "אללי",
+      "gloss": "ой"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мага"
+    },
+    {
+      "surface": "וצדקתי",
+      "gloss": "ве эгер цедек болсом"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "көтөрбөйм"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "башымды"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ток"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "уяттан"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "жана көр"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "менин азап-кыйынымды"
+    }
+  ],
+  "timestamp": "2026-10-05T16:46:12.608165901Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 26:14",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "тахаш",
+      "rationale": "תחש — белгисиз айбан: 'дыяң териси', 'түлкү', 'күрөң карышкыр' деген варианттар бар; айтылышы боюнча 'тахаш' сакталды."
+    },
+    {
+      "kind": "substitution",
+      "subject": "кызыл боёлгон",
+      "rationale": "מאדמים тамыры 'кызыл\/кан' дегенди билдирет — 'боёлгон' деген сөз текстке кошулду."
+    }
+  ],
+  "translation": "Жана чатыр үчүн жабуу жаса — кызыл боёлгон кочкор терилеринен, жана үстүнөн тахаш терилеринен жабуу.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "5c167a40d41cfb18674fb26f2a8541d21e464493e32e8c5936416f410d7c7713",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/26\/13-16.1791202421774.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "жана жаса"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "жабуу"
+    },
+    {
+      "surface": "לאהל",
+      "gloss": "чатыр үчүн"
+    },
+    {
+      "surface": "ערת",
+      "gloss": "терилеринен"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "кочкорлор"
+    },
+    {
+      "surface": "מאדмים",
+      "gloss": "кызыл боёлгон"
+    },
+    {
+      "surface": "ומכסה",
+      "gloss": "жана жабуу"
+    },
+    {
+      "surface": "ערת",
+      "gloss": "терилеринен"
+    },
+    {
+      "surface": "תחשים",
+      "gloss": "тахаш"
+    },
+    {
+      "surface": "мלמעלה",
+      "gloss": "үстүнөн"
+    }
+  ],
+  "timestamp": "2026-10-05T12:13:41.775145592Z",
+  "model": "glm-5.3"
+}

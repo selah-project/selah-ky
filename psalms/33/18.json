@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 33:18",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "багытталган",
+      "rationale": "Кыргыз тили этишти талап кылат; еврейче этиш жок — ‘Яхвенин көзү… корккондорго’"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Карагыла",
+      "rationale": "הנה — окурманды көз салууга чакырган байкоо сөз"
+    },
+    {
+      "kind": "you",
+      "subject": "Исрайыл жамаатына",
+      "rationale": "Жырда жалпы жамаатга багытталган көзөмөл сүрөттөлөт"
+    }
+  ],
+  "translation": "Карагыла, Яхвенин көзү Аны корккондорго, Анын хеседине үмүт кылгандарга багытталган.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "807dad4e0ae498344a0a1c7e24ffe96f648a79a9ec0832cee397d0bd538c4880",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/33\/17-20.1791215844553.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "карагыла"
+    },
+    {
+      "surface": "עין",
+      "gloss": "көз"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…карай"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "Аны корккондор"
+    },
+    {
+      "surface": "למיחלים",
+      "gloss": "күткөндөр"
+    },
+    {
+      "surface": "לחסדו",
+      "gloss": "Анын хеседине"
+    }
+  ],
+  "timestamp": "2026-10-05T15:57:24.553981961Z",
+  "model": "glm-5.3"
+}

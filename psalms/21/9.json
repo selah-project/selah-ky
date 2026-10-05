@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 21:9",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "תמצא ... תמצא",
+      "rationale": "Этиш эки жолу кайталанып, кол менен оң колдун параллелизмди бекемдейт; кыргызча да кайталоо сакталды."
+    },
+    {
+      "kind": "substitution",
+      "subject": "душмандарың",
+      "rationale": "אֹיֵב — 'жек көрүүчү, каршы турчу'; 'душман' туура, бирок жек көрүү тамыры басымда эмес."
+    }
+  ],
+  "translation": "Колуң бардык душмандарыңды табат, оң колуң сени жек көргөндөрдү табат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "0e6ed9a1436b8b1ccc27f6c44575d05806433511d717f3dd94efe0a05a8c86ce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/21\/9-12.1791215542650.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תמצא",
+      "gloss": "табат"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "колуң"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "бардык"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "душмандарыңды"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "оң колуң"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "табат"
+    },
+    {
+      "surface": "שנאיך",
+      "gloss": "жек көргөндөрдү"
+    }
+  ],
+  "timestamp": "2026-10-05T15:52:22.650591108Z",
+  "model": "glm-5.3"
+}

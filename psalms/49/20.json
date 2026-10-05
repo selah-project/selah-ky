@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 49:20",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ал",
+      "rationale": "Этиштин ээси кыргызча талап кылат, еврейче жок"
+    },
+    {
+      "kind": "elision",
+      "subject": "עד + נצח",
+      "rationale": "Эки еврей сөзү «түбөлүккө» деген бир кыргыз сөзүнө биригип, эки токенго бөлүштүрүлдү"
+    }
+  ],
+  "translation": "Ал аталарынын муунуна келет, алар түбөлүккө жарыкты көрүшпөйт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "e05fb71515cee11022f7c26bbd2e6428d750500abb376f9135e9707b79a9e2d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/49\/17-20.1791216079805.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "келет"
+    },
+    {
+      "surface": "עד",
+      "gloss": "−га"
+    },
+    {
+      "surface": "דור",
+      "gloss": "муунуна"
+    },
+    {
+      "surface": "אבותיו",
+      "gloss": "аталарынын"
+    },
+    {
+      "surface": "עד",
+      "gloss": "түбөлүккө"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "түбөлүккө"
+    },
+    {
+      "surface": "לא",
+      "gloss": "көрүшпөйт"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "көрүшпөйт"
+    },
+    {
+      "surface": "אור",
+      "gloss": "жарыкты"
+    }
+  ],
+  "timestamp": "2026-10-05T16:01:19.806900458Z",
+  "model": "glm-5.3"
+}

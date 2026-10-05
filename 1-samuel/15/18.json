@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 15:18",
+  "book": "1-samuel",
+  "lang": "ky",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "харам кыл",
+      "rationale": "חרם — 'харамга берүү', толук жок кылууга арналган тыюу; кыргызча бир сөз жок, еврейче тамыр сакталды."
+    },
+    {
+      "kind": "you",
+      "subject": "Шаулга",
+      "rationale": "Яхвенин буйругу Шаулга багытталган."
+    }
+  ],
+  "translation": "Жана Яхве сени жол менен жөнөттү жана айтты: Бар жана күнөөкөрлөрдү ⟨את⟩, Амалекти харам кыл, жана алар менен согуш, аларды ⟨את⟩ жок кылганча.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "2f9cf17a09c57d8f1ec8336cb077ff08fa7e0545d3592f759cedaad9bc3e51c8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-samuel\/15\/17-20.1791206897229.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלחך",
+      "gloss": "Жана ... сени жөнөттү"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "жол менен"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "жана айтты"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Бар"
+    },
+    {
+      "surface": "והחרמתה",
+      "gloss": "жана ... харам кыл"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "күнөөкөрлөрдү"
+    },
+    {
+      "surface": "החטאים",
+      "gloss": "күнөөкөрлөрдү"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Амалекти"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Амалекти"
+    },
+    {
+      "surface": "ונלחמת",
+      "gloss": "жана ... согуш"
+    },
+    {
+      "surface": "בו",
+      "gloss": "алар менен"
+    },
+    {
+      "surface": "עד",
+      "gloss": "чикке чейин"
+    },
+    {
+      "surface": "כלותם",
+      "gloss": "аларды жок кылганча"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "аларды"
+    }
+  ],
+  "timestamp": "2026-10-05T13:28:17.230463691Z",
+  "model": "glm-5.3"
+}

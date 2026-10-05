@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 3:20",
+  "book": "jeremiah",
+  "lang": "ky",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жолдош",
+      "rationale": "רע «жакын дос, жолдош» деген сөз, так мааниси «жакын адамы»"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בגדה\/בגדתם",
+      "rationale": "«чыккынчылык кылуу» этиши эки жолу кайталанат, салыштыруунун эки канатын тең ээлейт"
+    },
+    {
+      "kind": "you",
+      "subject": "Йисраэлдин үйү",
+      "rationale": "Яхве үй-бүлөсүнө — Йисраэлдин үйүнө түз кайрылат"
+    }
+  ],
+  "translation": "Чын эле, аял өз жолдошунан качып кеткендей, ошондой эле силер Менменен чыккынчылык кылдыңар, Йисраэлдин үйү, — Яхвенин сөзү.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "5c427bc1f6f682bdf230c43a668a917df50c8c75f83dbf7c3254a043636f3569",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/jeremiah\/3\/17-20.1791210788126.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "Чын эле"
+    },
+    {
+      "surface": "בגדה",
+      "gloss": "качып кеткендей"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "аял"
+    },
+    {
+      "surface": "מרעה",
+      "gloss": "өз жолдошунан"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ошондой эле"
+    },
+    {
+      "surface": "בגדתם",
+      "gloss": "чыккынчылык кылдыңар"
+    },
+    {
+      "surface": "בי",
+      "gloss": "Менменен"
+    },
+    {
+      "surface": "בית",
+      "gloss": "үйү"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэлдин"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "сөзү"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    }
+  ],
+  "timestamp": "2026-10-05T14:33:08.128236629Z",
+  "model": "glm-5.3"
+}

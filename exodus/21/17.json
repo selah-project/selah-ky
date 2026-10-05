@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 21:17",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ким",
+      "rationale": "Еврейче participial жөнөкөй бүтүмдү «ким… — » формасына келтирүү үчүн кошулду"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מות יומת",
+      "rationale": "Инфинитивдин абсолюттук кайрылуусу — «өлүм менен өлөт» — бүтүндөй күчөтүү, кыргызча эки эсе кайталоо менен берилди"
+    }
+  ],
+  "translation": "Жана ⟨ким⟩ атасын же энесин каргаган — өлүм менен өлөт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "d5352c7f5f844fac632059f2264444e8979e24fa55031a1f48b238c59e18606d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/21\/17-20.1791202332715.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומקלל",
+      "gloss": "жана каргаган"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "атасын"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "же энесин"
+    },
+    {
+      "surface": "מות",
+      "gloss": "өлүм"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "өлөт"
+    }
+  ],
+  "timestamp": "2026-10-05T12:12:12.716101819Z",
+  "model": "glm-5.3"
+}

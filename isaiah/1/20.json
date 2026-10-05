@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 1:20",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "תאכלו \/ תאכלו",
+      "rationale": "19-аятта «жейсизер» (жердин жакшылыгын), 20-аятта эң «жегенсизер» (кылыч менен) — бир эки тамырдын терс айлануусу"
+    },
+    {
+      "kind": "addition",
+      "subject": "менен",
+      "gloss": "",
+      "rationale": "כי корпусу кыргызча «менен» предлогин талап кылат"
+    }
+  ],
+  "translation": "Жана эгер баш тартсаңар жана баш көтөрсөңөр, кылыч менен жегенсизер; анткени Яхвенин оозу сүйлөдү.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "e685519ac0c74cb91c2dc0fb34c0d1389f19735189155267a5efbfca93e0c078",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/1\/17-20.1791209364092.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Жана эгер"
+    },
+    {
+      "surface": "תמאנו",
+      "gloss": "баш тартсаңар"
+    },
+    {
+      "surface": "ומריתם",
+      "gloss": "баш көтөрсөңөр"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "кылыч"
+    },
+    {
+      "surface": "תאכלу",
+      "gloss": "жегенсизер"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "פי",
+      "gloss": "оозу"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сүйлөдү"
+    }
+  ],
+  "timestamp": "2026-10-05T14:09:24.094091013Z",
+  "model": "glm-5.3"
+}

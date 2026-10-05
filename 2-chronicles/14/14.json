@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 14:14",
+  "book": "2-chronicles",
+  "lang": "ky",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "וישבו \/ וישבו",
+      "rationale": "Два одинаковых по написанию глагола с разными корнями: שבה 'угнать в плен' и שוב 'вернуться' — игра потеряна в кыргызском."
+    },
+    {
+      "kind": "substitution",
+      "subject": "чатырларын",
+      "rationale": "אהלי מקנה буквально 'шатры скота' — стойбища скотоводов; 'малдын чатырлары' сохраняет образ."
+    }
+  ],
+  "translation": "Жана малдын чатырларын да урушту, жана өтө көп койлорду жана төөлөрдү айдап алып кетишти, жана Йерушалайимге кайтышты.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "3f1afd4a54ecd5058cc6dd42e9a8d9be0245ebea3017a69f4d62f31392134224",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-chronicles\/14\/13-14.1791222863157.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "жана ... да"
+    },
+    {
+      "surface": "אהלי",
+      "gloss": "чатырларын"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "малдын"
+    },
+    {
+      "surface": "הכו",
+      "gloss": "урушту"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "айдап алып кетишти"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "койлорду"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "өтө көп"
+    },
+    {
+      "surface": "וגמלים",
+      "gloss": "жана төөлөрдү"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "кайтышты"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Йерушалайимге"
+    }
+  ],
+  "timestamp": "2026-10-05T17:54:23.158649447Z",
+  "model": "glm-5.3"
+}

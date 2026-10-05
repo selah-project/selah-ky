@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 107:10",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "өлүм көлөкөсү",
+      "rationale": "צלמות букв. 'өлүмдүн көлөкөсү' — күчтүү семтикалык сүрөт, кыргызча сакталды"
+    },
+    {
+      "kind": "addition",
+      "subject": "камыларда",
+      "rationale": "עני וברזел 'мүшкүл жана темир' — 'темир' шыкталган эркин табышма, тактык үчүн кошулду"
+    }
+  ],
+  "translation": "Караңгылыкта жана өлүм көлөкөсүндө отургандар, мүшкүл жана темир камыларда байланган туткундар.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "fa2b43ed24c66df6cd26b57e8a2bfa3111682000e5d407cf23a768b653f78263",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/107\/9-12.1791217082420.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישבי",
+      "gloss": "отургандар"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "караңгылык"
+    },
+    {
+      "surface": "וצלמות",
+      "gloss": "жана өлүм көлөкөсү"
+    },
+    {
+      "surface": "אסירי",
+      "gloss": "туткундар"
+    },
+    {
+      "surface": "עני",
+      "gloss": "мүшкүл"
+    },
+    {
+      "surface": "וברзל",
+      "gloss": "жана темир"
+    }
+  ],
+  "timestamp": "2026-10-05T16:18:02.422253881Z",
+  "model": "glm-5.3"
+}

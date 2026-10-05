@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 93:3",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 93,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נשאו נשאו ישאו",
+      "rationale": "«Көтөрүү» этиши үч жолу кайталанып, дарыялардын күчөп бараткан үнүн сүрөттөйт — үчилтиктин ыргагы"
+    },
+    {
+      "kind": "substitution",
+      "subject": "толкундарын",
+      "rationale": "דכים «жээлдин согуусу, күбүлгөн аккан суу» — сейрек сөз, сөзмө-сөз сүрөт кыргызча жөн гана «толкун» болду"
+    }
+  ],
+  "translation": "Дарыялар көтөрүлдү, Яхве, дарыялар өздөрүнүн үнүн көтөрүштү, дарыялар өздөрүнүн толкундарын көтөрүшөт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "831a0ae960a4e0f13d21c2fd8125f15c5390ff0b98d3dcc9db00ad1b9e5d9efa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/93\/1-4.1791216915357.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נשאו",
+      "gloss": "көтөрүлдү"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "дарыялар"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "көтөрүштү"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "дарыялар"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "өздөрүнүн үнүн"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "көтөрүшөт"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "дарыялар"
+    },
+    {
+      "surface": "דכים",
+      "gloss": "толкундарын"
+    }
+  ],
+  "timestamp": "2026-10-05T16:15:15.358638975Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 12:16",
+  "book": "deuteronomy",
+  "lang": "ky",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "төккүлө",
+      "rationale": "Hebrew verb is singular תשפכנו addressing 'thou'; kyrgyz imperative covers both, plural carried by context."
+    },
+    {
+      "kind": "measurement",
+      "subject": "кан",
+      "rationale": "Cultic regulation of blood — a boundary-defining rule, poured out like water, not consumed."
+    }
+  ],
+  "translation": "Тек канды жегүлө — аны жер үстүнө суу сыяктуу төккүлө.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "63070f37d0edbf4890301f1e721a93f6696bac27720cdf2dd5d7fd6e675a8542",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/12\/13-16.1791204996495.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "тек"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "канды"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жегүлө"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "жегүлө"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстүнө"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "жер"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "төккүлө"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "суу сыяктуу"
+    }
+  ],
+  "timestamp": "2026-10-05T12:56:36.496418883Z",
+  "model": "glm-5.3"
+}

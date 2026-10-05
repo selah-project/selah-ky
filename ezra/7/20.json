@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezra 7:20",
+  "book": "ezra",
+  "lang": "ky",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "нерсе",
+      "rationale": "relative די requires a nominal head, supplied in brackets"
+    },
+    {
+      "kind": "you",
+      "subject": "Эзра",
+      "rationale": "decree addresses Ezra directly with imperatives төлө\/тапшыр"
+    }
+  ],
+  "translation": "Жана силердин Элаңдын үйүнө керектигинен калганына, төлөшүң керек болгонуна, падышанын казынасынан төлө.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "963eaf0fd1fa088118e579cd4978cde17196d3d2fb590b6ad73a3343c64d4f44",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ezra\/7\/17-20.1791221196809.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושאר",
+      "gloss": "калганына"
+    },
+    {
+      "surface": "חשחות",
+      "gloss": "керектигинен"
+    },
+    {
+      "surface": "בית",
+      "gloss": "үйүнө"
+    },
+    {
+      "surface": "אלהך",
+      "gloss": "Элаңдын"
+    },
+    {
+      "surface": "די",
+      "gloss": "〈нерсе〉"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "керек болгонуна"
+    },
+    {
+      "surface": "לך",
+      "gloss": "сага"
+    },
+    {
+      "surface": "למנתן",
+      "gloss": "төлөшүң"
+    },
+    {
+      "surface": "תנתן",
+      "gloss": "төлө"
+    },
+    {
+      "surface": "מן",
+      "gloss": "−дан"
+    },
+    {
+      "surface": "בית",
+      "gloss": "үйү"
+    },
+    {
+      "surface": "גנזי",
+      "gloss": "казынасынын"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "падышанын"
+    }
+  ],
+  "timestamp": "2026-10-05T17:26:36.811518963Z",
+  "model": "glm-5.3"
+}

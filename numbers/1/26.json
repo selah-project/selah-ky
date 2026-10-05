@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 1:26",
+  "book": "numbers",
+  "lang": "ky",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "эсеп алуу",
+      "rationale": "Аят эл каттоо формуласын кайталайт: жаш чеги (жыйырма) жана аскерге жарамдуулук."
+    },
+    {
+      "kind": "elision",
+      "subject": "мבן עשרים שנה",
+      "rationale": "Буквально «уулу жыйырма жылдын» — кыргызча «жыйырма жаштан» деп жөнөкөйлөштүрүлдү."
+    }
+  ],
+  "translation": "Йегуданын уулдары — алардын тукумдары, үй-бүлөлөрү боюнча, аталарынын үйү боюнча, ысымдардын саны боюнча, жыйырма жаштан жогору, аскерге чыгуучу бардыгы:",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "a6876181f567b504e7464683e229e2551bdb6adac7a7ecd86af2d35764a1b733",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/numbers\/1\/26-27.1791223655733.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "уулдары"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Йегуданын"
+    },
+    {
+      "surface": "תולדתם",
+      "gloss": "тукумдары"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "үй-бүлөлөрү боюнча"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "үйү боюнча"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "аталарынын"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "саны боюнча"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "ысымдардын"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "жаштан"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "жыйырма"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "жаш"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "жогору"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бардыгы"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "чыгуучу"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "аскерге"
+    }
+  ],
+  "timestamp": "2026-10-05T18:07:35.734682954Z",
+  "model": "glm-5.3"
+}

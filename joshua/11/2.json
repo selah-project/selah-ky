@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 11:2",
+  "book": "joshua",
+  "lang": "ky",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ובנפות דור",
+      "rationale": "'Naphoth-dor' taken as place-name 'heights\/regions of Dor' vs single proper name"
+    },
+    {
+      "kind": "substitution",
+      "subject": "деңиз тарапка",
+      "rationale": "מים 'from the sea' = westward, direction idiom"
+    }
+  ],
+  "translation": "жана түндүктөгү падышаларга — тоодо жана Араваада, Киннероттун түштүгүндө, жана Шепелада, жана Дордун Нафотторуна, деңиз тарапка.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "2bb57afbbfa1abd2ac78c0906fb572c214e6e9d1231cf9a306e5b478523f860c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/joshua\/11\/1-4.1791205789913.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "жана …га"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "падышаларга"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…деги"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "түндүктө"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "тоодо"
+    },
+    {
+      "surface": "ובערבה",
+      "gloss": "жана Араваада"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "түштүгүндө"
+    },
+    {
+      "surface": "כנרות",
+      "gloss": "Киннероттун"
+    },
+    {
+      "surface": "ובשפלה",
+      "gloss": "жана Шепелада"
+    },
+    {
+      "surface": "ובנפות",
+      "gloss": "жана Нафотторунда"
+    },
+    {
+      "surface": "דור",
+      "gloss": "Дордун"
+    },
+    {
+      "surface": "מים",
+      "gloss": "деңиз тарапка"
+    }
+  ],
+  "timestamp": "2026-10-05T13:09:49.914406230Z",
+  "model": "glm-5.3"
+}

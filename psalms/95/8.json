@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 95:8",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 95,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מריבה · מסה",
+      "rationale": "Аттардын өздөрү «талаш» (Мрива) жана «сыноо» (Масса) деген маанини алып жүрөт — Чыгуу 17:7 жана Мыйзамды кайталоо 33:8 менен байланыш."
+    },
+    {
+      "kind": "you",
+      "subject": "жүрөктөрүңөрдү",
+      "rationale": "Элге түз кайрылуу — тыюу императиви."
+    }
+  ],
+  "translation": "Жүрөктөрүңөрдү Мривадагыдай, чөлдөгү Массанын күнүндөгыдөй катуу кылбагыла.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "7e4e8c696a23aa8bfda026475d7bda369010b4169091b2759a77fb307b10f30f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/95\/5-8.1791216918118.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "жок"
+    },
+    {
+      "surface": "תקשו",
+      "gloss": "катуу кылбагыла"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "Жүрөктөрүңөрдү"
+    },
+    {
+      "surface": "כמריבה",
+      "gloss": "Мривадагыдай"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "күнүндөгйдөй"
+    },
+    {
+      "surface": "מסה",
+      "gloss": "Массанын"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "чөлдөгү"
+    }
+  ],
+  "timestamp": "2026-10-05T16:15:18.119586429Z",
+  "model": "glm-5.3"
+}

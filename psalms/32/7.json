@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 32:7",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "צר \/ תצרני",
+      "rationale": "парономазия: цар «теснота» и тицрени «Ты хранишь меня» — один согласантный остов, противоположные смыслы"
+    },
+    {
+      "kind": "secret",
+      "subject": "סתר",
+      "rationale": "«жашыруун жай» — Яхве как укрытие, скрытность как защита"
+    },
+    {
+      "kind": "you",
+      "subject": "Яхвеге",
+      "rationale": "прямое обращение поэта к Яхве"
+    }
+  ],
+  "translation": "Сен мага жашыруун жайсың, кысынчылыктан мени сактайсың, куткаруу ырлары менен мени курчап аласың. Села.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "929057b53e058c483a4deb1586a4e22673d6879e0027ed784a7b0d1bb6aaec36",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/32\/5-8.1791215904197.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Сен"
+    },
+    {
+      "surface": "סתר",
+      "gloss": "жашыруун жай"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мага"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "кысынчылыктан"
+    },
+    {
+      "surface": "תצרני",
+      "gloss": "мени сактайсың"
+    },
+    {
+      "surface": "רני",
+      "gloss": "ырлары"
+    },
+    {
+      "surface": "פלט",
+      "gloss": "куткаруунун"
+    },
+    {
+      "surface": "תסובבני",
+      "gloss": "мени курчап аласың"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Села"
+    }
+  ],
+  "timestamp": "2026-10-05T15:58:24.198176935Z",
+  "model": "glm-5.3"
+}

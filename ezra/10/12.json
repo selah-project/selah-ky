@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezra 10:12",
+  "book": "ezra",
+  "lang": "ky",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "тиешелүү",
+      "rationale": "לעשות 'аткаруу үчүн' — кыргызча 'тиешелүү' кошулду, инфинитивдик структура талап кылды."
+    },
+    {
+      "kind": "you",
+      "subject": "Эзрага",
+      "rationale": "Эл Эзрага бир үндөн жооп берет — түз кайрылуу."
+    }
+  ],
+  "translation": "Жана бүт жыйылган эл жооп берип, өтө катуу үн менен айтты: Ошондой — сөзүң боюнча бизге аткарууга тиешелүү.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "9f9f29d41547f27acca2cbb80ea88b76eef33363cefd452f4051d3d6e31f1b94",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ezra\/10\/9-12.1791221178599.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "жооп берип"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүт"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "жыйылган эл"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "жана айтты"
+    },
+    {
+      "surface": "קול",
+      "gloss": "үн менен"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "өтө катуу"
+    },
+    {
+      "surface": "כן",
+      "gloss": "Ошондой"
+    },
+    {
+      "surface": "כדבריך",
+      "gloss": "сөзүң боюнча"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "бизге"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "аткарууга тиешелүү"
+    }
+  ],
+  "timestamp": "2026-10-05T17:26:18.600550038Z",
+  "model": "glm-5.3"
+}

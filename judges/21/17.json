@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "judges 21:17",
+  "book": "judges",
+  "lang": "ky",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ירשת פליטה",
+      "rationale": "Качкандардын мурасы — кыргызча 'качып калгандарга мурас' деп берилди; байыркы бир байланыштуу туюнтма."
+    },
+    {
+      "kind": "addition",
+      "subject": "болсун \/ керек",
+      "rationale": "Еврей тилинде этиш жок — номиналдык сүйлөм, кыргызча модалдык этиш кошулду."
+    }
+  ],
+  "translation": "Жана алар айтышты: Качып калгандарга мурас Бинйаминге тиешелүү болсун, жана Йисраэлден бир урук өчүрүлбөшү керек.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "dcd86981ad568432f940ddcfb02967ea3567b438c27adc4dd0ad9fe69eb48c16",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/judges\/21\/17-20.1791206538363.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "жана алар айтышты"
+    },
+    {
+      "surface": "ירשת",
+      "gloss": "мурас"
+    },
+    {
+      "surface": "פליטה",
+      "gloss": "качып калгандар"
+    },
+    {
+      "surface": "לבנימן",
+      "gloss": "Бинйаминге"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "жана эмес"
+    },
+    {
+      "surface": "ימחה",
+      "gloss": "өчүрүлбөшү керек"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "бир урук"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "Йисраэлден"
+    }
+  ],
+  "timestamp": "2026-10-05T13:22:18.363959335Z",
+  "model": "glm-5.3"
+}

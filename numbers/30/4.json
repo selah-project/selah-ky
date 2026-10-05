@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 30:4",
+  "book": "numbers",
+  "lang": "ky",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "жатып",
+      "rationale": "בבית אביהא «атасынын үйүндө» дегенди кыргызча сүйлөмдө жыйнактуу кылуу үчүн «жатып» кошулду"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תדר\/נדר · ואסרה\/אסר",
+      "rationale": "3-аяттагыдай эле этиш-зат кайталоосу; кыргызча окшош структура менен берилди"
+    }
+  ],
+  "translation": "Аял өзү жаш кезинде атасынын үйүндө жатып, Яхвеге ант убада берсе же байлоо-байланыш тартса,",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "4f45dac93f39300938963c42701e97ecf03234ff69b3111d23558a7b8f4eba09",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/numbers\/30\/1-4.1791204483511.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואשה",
+      "gloss": "аял"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…са"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "ант убада берсе"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "ант убада"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхвеге"
+    },
+    {
+      "surface": "ואסרה",
+      "gloss": "тартса"
+    },
+    {
+      "surface": "אסר",
+      "gloss": "байлоо-байланыш"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "үйүндө"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "атасынын"
+    },
+    {
+      "surface": "בנעריה",
+      "gloss": "жаш кезинде"
+    }
+  ],
+  "timestamp": "2026-10-05T12:48:03.512349221Z",
+  "model": "glm-5.3"
+}

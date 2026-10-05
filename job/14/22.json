@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 14:22",
+  "book": "job",
+  "lang": "ky",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жаны",
+      "rationale": "נפש 'жан' эмес, 'дем алуучу жансыз\/жан күч' — тамагы, деми, жашоо күчү дегенге жакын."
+    },
+    {
+      "kind": "alternative",
+      "subject": "עליו",
+      "rationale": "'анын үстүндө' эмес, 'анын үчүн' деп окууга болот — денеси жаны үчүн, жаны денеси үчүн ооруйт (JPS окшош)."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עליו ... עליו",
+      "rationale": "Эки жолу кайталанган עליו — дене жана жан бир эле өлчөмдө ооруганын баланстап турат."
+    }
+  ],
+  "translation": "Бирок анын денеси анын үстүндө ооруйт, жана анын жаны анын үстүндө кайгырат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "cf682905fee3686303fa0274f3e2ee71c180ed8eb1cabeb3a66987efd156636f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/job\/14\/21-22.1791218853469.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "бирок"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "анын денеси"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "анын үстүндө"
+    },
+    {
+      "surface": "יכאב",
+      "gloss": "ооруйт"
+    },
+    {
+      "surface": "ונפשו",
+      "gloss": "жана анын жаны"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "анын үстүндө"
+    },
+    {
+      "surface": "תאבל",
+      "gloss": "кайгырат"
+    }
+  ],
+  "timestamp": "2026-10-05T16:47:33.470664304Z",
+  "model": "glm-5.3"
+}

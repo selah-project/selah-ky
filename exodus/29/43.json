@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "exodus 29:43",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "вנקדש субъекти",
+      "rationale": "Еврей текстте субъект жок: «ал (жер\/чатыр) ыйыкталат» — котормолор «чатыр», «место», «altar» деп болжошот."
+    },
+    {
+      "kind": "addition",
+      "subject": "ал жер",
+      "rationale": "Субъект көрсөтүлгөн эмес, ыйыкталуучу нерсе ⟨ал жер⟩ деп кошулду."
+    }
+  ],
+  "translation": "Жана ал жерде Мен Йисраэл уулдары менен жолугушам, жана ⟨ал жер⟩ Менин даанкерлигим менен ыйыкталат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "581974f03a5bb322fca2c14ab7e3b25378a06caab1a08b04c9f087207db45f43",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/29\/41-44.1791202514104.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונעדתי",
+      "gloss": "жолугушам"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ал жерде"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "уулдары менен"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэл"
+    },
+    {
+      "surface": "ונקדש",
+      "gloss": "ыйыкталат"
+    },
+    {
+      "surface": "בכבדי",
+      "gloss": "Менин даанкерлигим менен"
+    }
+  ],
+  "timestamp": "2026-10-05T12:15:14.105158801Z",
+  "model": "glm-5.3"
+}

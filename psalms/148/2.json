@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 148:2",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 148,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "периште",
+      "rationale": "מלאך түрдүүчө 'элчи, кабарчы' деген сөз; 'периште' кыргыздагы салттуу түшүнүк"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הללוהו х2",
+      "rationale": "Параллелдик кайталоо: периштелер — аскерлер деген эки сап бир эле буйрук менен ачылат"
+    }
+  ],
+  "translation": "Аны мактаңдар, ⟨бардык⟩ анын периштелери, Аны мактаңдар, анын бардык аскерлери!",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "b7de9ca12aa90e11fddb0f03bf01ddf6fc7ac854967742600f4f57db821fb128",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/148\/1-4.1791217670883.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Аны мактаңдар"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бардык"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "анын периштелери"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "Аны мактаңдар"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бардык"
+    },
+    {
+      "surface": "צבאו",
+      "gloss": "анын аскерлери"
+    }
+  ],
+  "timestamp": "2026-10-05T16:27:50.885725558Z",
+  "model": "glm-5.3"
+}

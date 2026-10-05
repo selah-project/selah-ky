@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 28:7",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ошондуктан",
+      "rationale": "Причина мааниси текстте жок, бирок ыр саптарынын байланышы үчүн кошулду"
+    },
+    {
+      "kind": "substitution",
+      "subject": "алгыш айтамын",
+      "rationale": "אהודנו (юд_root) — «таныр, сыйын, ыраазычылык билдир», кыргызча узак берилиш керек болду"
+    }
+  ],
+  "translation": "Яхве — менин күч-кубатым жана калканым; ага менин жүрөгүм таянды, жана мен жардам алдым, ошондуктан менин жүрөгүм кубанды, жана менин ырым менен ага алгыш айтамын.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "e50bcc723ffbdcf5b2df4dfc62b445fbddf2ba80711639d7f20faa01ac20a13b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/28\/5-8.1791215709521.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "күч-кубатым"
+    },
+    {
+      "surface": "ומגני",
+      "gloss": "жана калканым"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ага"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "таянды"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "жүрөгүм"
+    },
+    {
+      "surface": "ונעזרתי",
+      "gloss": "жана жардам алдым"
+    },
+    {
+      "surface": "ויעלז",
+      "gloss": "жана кубанды"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "жүрөгүм"
+    },
+    {
+      "surface": "ומשירי",
+      "gloss": "жана ырым менен"
+    },
+    {
+      "surface": "אהודנו",
+      "gloss": "алгыш айтамын"
+    }
+  ],
+  "timestamp": "2026-10-05T15:55:09.522607843Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "zechariah 5:8",
+  "book": "zechariah",
+  "lang": "ky",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жамандык",
+      "rationale": "הרשעה — 'жамандык\/зулумдук' деген абстракт түшүнүк, бирок образда аял катары көрсөтүлөт."
+    },
+    {
+      "kind": "addition",
+      "subject": "—",
+      "rationale": "«Бул — жамандык» жалаңчысы еврейде жок, кыргызча талап кылат."
+    }
+  ],
+  "translation": "Жана ал айтты: Бул — жамандык. Жана ал аны эфанын ортосуна ыргытты, жана коргошун ташты анын оозуна ыргытты.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "f30b90cea97e6cd839f3d93217996b6213405041827c6678df8d97a3d87852f9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/zechariah\/5\/5-8.1791214998298.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "бул"
+    },
+    {
+      "surface": "הרשעה",
+      "gloss": "жамандык"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "ыргытты"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "аны"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "תוך",
+      "gloss": "ортосуна"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "эфанын"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "ыргытты"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "коргошун ташты"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "таш"
+    },
+    {
+      "surface": "העפרת",
+      "gloss": "коргошун"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "פיה",
+      "gloss": "оозуна"
+    }
+  ],
+  "timestamp": "2026-10-05T15:43:18.299615862Z",
+  "model": "glm-5.3"
+}

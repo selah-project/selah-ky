@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 81:11",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 81,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨мен — … — мын⟩",
+      "rationale": "Ивритте «мен Яхве» деген жөнөкөй айтылыш; кыргызча атоочтук маани бекемделди"
+    },
+    {
+      "kind": "invitation",
+      "subject": "оозуңду кең ач",
+      "rationale": "Кудай элди өз берекесине чакырат: буйрук жана убада бирге"
+    }
+  ],
+  "translation": "Мен — Яхве, сенин Элохимиң, сени Мицрайим жеринен алып чыкканым; оозуңду кең ач, мен аны толтурамын.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "0d5013afb3c56e3e804712f67a3c7150e9baa1b68a5db1d173e15345afe54ae4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/81\/9-12.1791216638186.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Мен"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "сенин Элохимиң"
+    },
+    {
+      "surface": "המעלך",
+      "gloss": "алып чыкканым"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "жеринен"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицрайим"
+    },
+    {
+      "surface": "הרחב",
+      "gloss": "кең ач"
+    },
+    {
+      "surface": "пיך",
+      "gloss": "оозуңду"
+    },
+    {
+      "surface": "ואמלאהו",
+      "gloss": "мен аны толтурамын"
+    }
+  ],
+  "timestamp": "2026-10-05T16:10:38.187925249Z",
+  "model": "glm-5.3"
+}

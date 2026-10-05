@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 19:11",
+  "book": "joshua",
+  "lang": "ky",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "деңиз тарапка",
+      "rationale": "לימה — деңизге, бул жерде «батыш тарапка» деген географиялык мааниде"
+    },
+    {
+      "kind": "idiom",
+      "subject": "על פני",
+      "rationale": "Буквально «йокнеамдын бетине каршы» — «алдында, каршысында» деген идиома"
+    }
+  ],
+  "translation": "Жана алардын чеги деңиз тарапка көтөрүлөт, Маралага чейин, Даббешетке жетет, жана Йокнеамдын алдындагы нукка жетет.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "791896c9415b6e8328215e6aa0ba4ddf6e4a0416187dbaa27016623074eed981",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/joshua\/19\/9-12.1791205863550.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועלה",
+      "gloss": "көтөрүлөт"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "алардын чеги"
+    },
+    {
+      "surface": "לימה",
+      "gloss": "деңиз тарапка"
+    },
+    {
+      "surface": "ומרעלה",
+      "gloss": "Маралага"
+    },
+    {
+      "surface": "ופגע",
+      "gloss": "жетет"
+    },
+    {
+      "surface": "בדבשת",
+      "gloss": "Даббешетке"
+    },
+    {
+      "surface": "ופגע",
+      "gloss": "жетет"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ка"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "нукка"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…н"
+    },
+    {
+      "surface": "על",
+      "gloss": "алдындагы"
+    },
+    {
+      "surface": "פני",
+      "gloss": "алдында"
+    },
+    {
+      "surface": "יקנעם",
+      "gloss": "Йокнеамдын"
+    }
+  ],
+  "timestamp": "2026-10-05T13:11:03.551887771Z",
+  "model": "glm-5.3"
+}

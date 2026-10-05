@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 26:9",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жан",
+      "rationale": "נפש — дем\/жан-күч, «канжан» дегенrecognized мааниде эмес"
+    },
+    {
+      "kind": "substitution",
+      "subject": "цедек",
+      "rationale": "צדק сөзү кармалды; «адилеттик» гана деп которулган жок"
+    }
+  ],
+  "translation": "Жаным түнү ичинде Сени самады, ошондой эле рухум ичимде Сени таң аткыча издейт; анткени өкүмдөрүң жерге жеткенде, жер жүзүнүн жашоочулары цедекти үйрөнүшөт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "a14b06877433460a4320fc95698fa73184884731067ef8a94427cd9b85c1d7ef",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/26\/9-12.1791209773680.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "жаным"
+    },
+    {
+      "surface": "אויתיך",
+      "gloss": "Сени самады"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "түнү ичинде"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ошондой эле"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "рухум"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "ичимде"
+    },
+    {
+      "surface": "אשחרך",
+      "gloss": "Сени таң аткыча издейт"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "...ганда"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "өкүмдөрүң"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "жерге"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "цедекти"
+    },
+    {
+      "surface": "למדו",
+      "gloss": "үйрөнүшөт"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "жашоочулары"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "жер жүзүнүн"
+    }
+  ],
+  "timestamp": "2026-10-05T14:16:13.680830567Z",
+  "model": "glm-5.3"
+}

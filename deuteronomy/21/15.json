@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 21:15",
+  "book": "deuteronomy",
+  "lang": "ky",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "болсо",
+      "rationale": "כי ... והיה шарттуу конструкциясын кыргызча «эгерде ... болсо» менен аяктоо үчүн этиш кошулду."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אהובה\/שנואה",
+      "rationale": "Сүйүктүү\/жек көрүлгөн карама-каршылыгы үч жолу кайталанат — 21:17 ге чейин созулат."
+    }
+  ],
+  "translation": "Эгерде бир кишинин эки аялы болсо — бири сүйүктүү, бири жек көрүлгөн, жана алар ага уулдар төрөсө — сүйүктүү да, жек көрүлгөн да, жана жек көрүлгөндүн уулу биринчи төрөлгөн болсо",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "2a32c3936654e6efe2a2ca34729192468634b9d0c6e697075eb4efbd5720e432",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/21\/13-16.1791205128339.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Эгерде"
+    },
+    {
+      "surface": "תהיין",
+      "gloss": "болсо"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "бир кишинин"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "эки"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "аялы"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "бири"
+    },
+    {
+      "surface": "אהובה",
+      "gloss": "сүйүктүү"
+    },
+    {
+      "surface": "והאחת",
+      "gloss": "бири"
+    },
+    {
+      "surface": "שנואה",
+      "gloss": "жек көрүлгөн"
+    },
+    {
+      "surface": "וילדו",
+      "gloss": "төрөсө"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ага"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "уулдар"
+    },
+    {
+      "surface": "האהובה",
+      "gloss": "сүйүктүү"
+    },
+    {
+      "surface": "והשנואה",
+      "gloss": "жек көрүлгөн"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "жана болсо"
+    },
+    {
+      "surface": "הבן",
+      "gloss": "уулу"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "биринчи төрөлгөн"
+    },
+    {
+      "surface": "לשניאה",
+      "gloss": "жек көрүлгөндүн"
+    }
+  ],
+  "timestamp": "2026-10-05T12:58:48.340554530Z",
+  "model": "glm-5.3"
+}

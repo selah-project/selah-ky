@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 145:7",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 145,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "יביעו — «булактай агызып айтышат»",
+      "rationale": "Булактын куюлуп агышы деген сүрөт; кыргызча «көп айтышат» деп жумшартылды."
+    },
+    {
+      "kind": "substitution",
+      "subject": "צדקה — «цедек»",
+      "rationale": "D2 боюнча цедек сөзү өзүндө сакталды; «адилеттик» гана деп которулбады."
+    }
+  ],
+  "translation": "Улуу жакшылыгыңдын эстелишин көп айтышат, жана цедегиңди ырдап мактайтышат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "1ce9fb7713a569611832b0bfd059986175d9130555ba7a95327d9849b4ac1014",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/145\/6-7.1791224518967.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "эстелишин"
+    },
+    {
+      "surface": "רב",
+      "gloss": "улуу"
+    },
+    {
+      "surface": "טובך",
+      "gloss": "жакшылыгыңдын"
+    },
+    {
+      "surface": "יביעו",
+      "gloss": "көп айтышат"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "жана цедегиңди"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "ырдап мактайтышат"
+    }
+  ],
+  "timestamp": "2026-10-05T18:21:58.967966484Z",
+  "model": "glm-5.3"
+}

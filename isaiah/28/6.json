@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 28:6",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בראה\/שערה",
+      "rationale": "сызыктуу текст боюнча «көрүүдө» (בָּרֹאֶה) жана «өкүмдө» (פְּלִילִיָּה) — кээ бир котормолор «дарбазада» деп окуп, 8-аят менен байланыштырат."
+    },
+    {
+      "kind": "substitution",
+      "subject": "рух",
+      "rationale": "רוח — «шамал\/дем\/Рух» бир сөз; бул жерде өкүмдүн руху."
+    }
+  ],
+  "translation": "жана өкүм отурганга өкүмдүн руху, согушту дарбазага төнөргөндөргө күч-кудурет үчүн.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "d009954a72b2c994961dde176f4f309a37b9330fd8a4345c3882541b99b39e2f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/28\/5-8.1791209843146.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולרוח",
+      "gloss": "жана руху"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "өкүмдүн"
+    },
+    {
+      "surface": "ליושב",
+      "gloss": "отурганга"
+    },
+    {
+      "surface": "על",
+      "gloss": "—"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "өкүм"
+    },
+    {
+      "surface": "ולגבורה",
+      "gloss": "жана күч-кудурет"
+    },
+    {
+      "surface": "משיבי",
+      "gloss": "төнөргөндөргө"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "согушту"
+    },
+    {
+      "surface": "שערה",
+      "gloss": "дарбазага"
+    }
+  ],
+  "timestamp": "2026-10-05T14:17:23.147602388Z",
+  "model": "glm-5.3"
+}

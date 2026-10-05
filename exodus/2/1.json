@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 2:1",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "аялдыкка алды",
+      "rationale": "Иврит жөн гана «алды» дейт; кыргыз тилинде түшүнүктүү болушу үчүн кошулду"
+    }
+  ],
+  "translation": "Леви уйунан бир киши барды жана Левинин кызын ⟨алып⟩ ⟨את⟩ аялдыкка алды.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "3160c3055f4b7fb737ec7f8b18e13aa9f9bc6f3d0c28f2342f9ad43ea18ef5ad",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/2\/1-4.1791201860260.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "барды"
+    },
+    {
+      "surface": "איש",
+      "gloss": "киши"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "уйунан"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Леви"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "алды"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Левинин кызын"
+    },
+    {
+      "surface": "בת",
+      "gloss": "кызын"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Леви"
+    }
+  ],
+  "timestamp": "2026-10-05T12:04:20.261459541Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 22:16",
+  "book": "1-samuel",
+  "lang": "ky",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מות תמות",
+      "rationale": "Инфинитив абсолюттун кайталоосу — «албетте өлөсүн» күчөтмө маани; кыргызча «өлүүгө өлөсүң» деп сакталды."
+    },
+    {
+      "kind": "you",
+      "subject": "Ахимелекке",
+      "rationale": "Падышанын өлүм өкүмү түз кайрылуу."
+    }
+  ],
+  "translation": "Жана падыша айтты: Өлүүгө өлөсүң, Ахимелек, сен жана атаныңдын бүт үйү.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "fd62a7b52c9047b14fe1ac45fa93f9b807c18850d3097395a99c3952491bd8a1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-samuel\/22\/13-16.1791207135418.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "жана айтты"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "падыша"
+    },
+    {
+      "surface": "מות",
+      "gloss": "өлүүгө"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "өлөсүң"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Ахимелек"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "сен"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "жана бүт"
+    },
+    {
+      "surface": "בית",
+      "gloss": "үйү"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "атаныңдын"
+    }
+  ],
+  "timestamp": "2026-10-05T13:32:15.420146508Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 1:13",
+  "book": "job",
+  "lang": "ky",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жүзүм арак",
+      "rationale": "יין — көбүнчө жүзүмдөн ачытылган арак, кыргызча бир сөзгө сыйбайт"
+    },
+    {
+      "kind": "addition",
+      "subject": "жатышты",
+      "rationale": "Кыргыз тили этиштик узак убакытты талап кылат, еврейче particip аны көтөрбөйт"
+    }
+  ],
+  "translation": "Күн болгондо, анын уулдары менен кыздары тун уулу агасынын үйүндө тамак жеп, жүзүм арак ичип жатышты.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "5792733491401a8b892c2b081b16eaf63c696502a0b7be2de2220a56401cd112",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/job\/1\/13-16.1791218569622.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "болгондо"
+    },
+    {
+      "surface": "היום",
+      "gloss": "күн"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "анын уулдары"
+    },
+    {
+      "surface": "ובנתיו",
+      "gloss": "кыздары"
+    },
+    {
+      "surface": "אכלים",
+      "gloss": "тамак жеп"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "ичип"
+    },
+    {
+      "surface": "יין",
+      "gloss": "жүзүм арак"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "үйүндө"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "агасынын"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "тун"
+    }
+  ],
+  "timestamp": "2026-10-05T16:42:49.623446057Z",
+  "model": "glm-5.3"
+}

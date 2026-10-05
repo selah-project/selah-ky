@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 9:7",
+  "book": "job",
+  "lang": "ky",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "мөөр менен жабат",
+      "rationale": "חתם — 'мөөрлөө, жабуу'; көп котормолор 'sealeth up' дейт, биз дословноп приближаем"
+    }
+  ],
+  "translation": "Күнгө айткан — ал жаркырабайт, жана жылдыздарды мөөр менен жабат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "ca3eccba68a76e3c898c1c7571bfcbab2735a7f465e54077a3c5e92815dcea80",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/job\/9\/5-8.1791218711518.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "האмר",
+      "gloss": "айткан"
+    },
+    {
+      "surface": "לחרס",
+      "gloss": "күнгө"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "жана… бекер"
+    },
+    {
+      "surface": "יזרח",
+      "gloss": "жаркырабайт"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "жана"
+    },
+    {
+      "surface": "כוכבים",
+      "gloss": "жылдыздарды"
+    },
+    {
+      "surface": "יחתם",
+      "gloss": "мөөр менен жабат"
+    }
+  ],
+  "timestamp": "2026-10-05T16:45:11.519431241Z",
+  "model": "glm-5.3"
+}

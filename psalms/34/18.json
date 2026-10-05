@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 34:18",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Алар",
+      "rationale": "Hebrewде этиштин жекече-көптүк формасы ээни көрсөтөт; «алар» ат атооч кошулду"
+    }
+  ],
+  "translation": "Алар кыйкырышты, жана Яхве угуп, аларды бүт кыйынчылыктарынан куткарып алды.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "deacfc4a563e0f4dbb1bc795bbc0156b1a79fc87098c7cd4335ebe683ef5b97d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/34\/17-20.1791215813667.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צעקו",
+      "gloss": "кыйкырышты"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "жана Яхве"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "угуп"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "бүт ... дан"
+    },
+    {
+      "surface": "צרותם",
+      "gloss": "кыйынчылыктарынан"
+    },
+    {
+      "surface": "הצילם",
+      "gloss": "куткарып алды"
+    }
+  ],
+  "timestamp": "2026-10-05T15:56:53.668573718Z",
+  "model": "glm-5.3"
+}

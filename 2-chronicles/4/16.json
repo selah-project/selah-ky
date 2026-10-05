@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 4:16",
+  "book": "2-chronicles",
+  "lang": "ky",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "анын атасы",
+      "rationale": "אָבִיו: JPS «уста-чебер» деп окуп жатат; текстте буквальноено «анын атасы» — Хурам Шулаймандын атасы эмес, чебердин наамы."
+    },
+    {
+      "kind": "substitution",
+      "subject": "чаначтар",
+      "rationale": "מִזְלָגוֹת — эт сактаган сабоо-чанач; форма такталышы керек."
+    }
+  ],
+  "translation": "Жана ⟨את⟩ казандарды, жана ⟨את⟩ күректерди, жана ⟨את⟩ чаначтарды жана ⟨את⟩ алардын бүт идиштерин Хурам — анын атасы — Шулайман падышага Яхвенин үйү үчүн жылтылдаган жезден жасады.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "2723865abed1ce2cc8f9d3c4705274dfdcb6f38f134fd8a0e66c9ae8b7dfd864",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-chronicles\/4\/13-16.1791222633389.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "казандар"
+    },
+    {
+      "surface": "הסירות",
+      "gloss": "казандар"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "күректер"
+    },
+    {
+      "surface": "היעים",
+      "gloss": "күректер"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "чаначтар"
+    },
+    {
+      "surface": "המזלгות",
+      "gloss": "чаначтар"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "бүт"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүт"
+    },
+    {
+      "surface": "כליהם",
+      "gloss": "идиштерин"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "жасады"
+    },
+    {
+      "surface": "חורם",
+      "gloss": "Хурам"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "анын атасы"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "падышага"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шулайман"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "үйү үчүн"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "жез"
+    },
+    {
+      "surface": "מרוק",
+      "gloss": "жылтылдаган"
+    }
+  ],
+  "timestamp": "2026-10-05T17:50:33.391201368Z",
+  "model": "glm-5.3"
+}

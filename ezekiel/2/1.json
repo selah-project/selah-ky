@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 2:1",
+  "book": "ezekiel",
+  "lang": "ky",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "жана Мен",
+      "rationale": "еврейче этиштин жактык формасы кыргызча жак атоочту талап кылат"
+    },
+    {
+      "kind": "you",
+      "subject": "Адам уулу",
+      "rationale": "Элохим Ezekielге түз кайрылуу — бул чакыруу-буйрук"
+    }
+  ],
+  "translation": "Жана ал мага айтты: Адам уулу, буттарыңдын үстүнө тур, жана Мен ⟨את⟩ сага сүйлөйүн.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "2fa70f0dc9bac73f5fd46b045468bb0a495b2f46e4d916cb021c47c406292974",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ezekiel\/2\/1-4.1791212086986.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "жана ал айтты"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "мага"
+    },
+    {
+      "surface": "בן",
+      "gloss": "уулу"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "адам"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "тур"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстүнө"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "буттарыңдын"
+    },
+    {
+      "surface": "ואדבר",
+      "gloss": "жана Мен сүйлөйүн"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "сага"
+    }
+  ],
+  "timestamp": "2026-10-05T14:54:46.986619333Z",
+  "model": "glm-5.3"
+}

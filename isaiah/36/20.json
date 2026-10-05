@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 36:20",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כי",
+      "rationale": "'анткени Яхве куткарат' же 'Яхве кантип куткармак?' — суроо же далил катары эки окуу бар."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מידי x2",
+      "rationale": "'Менин колумдан' эки жолу кайталанат — Раб-Шакенин кордоосу structs."
+    }
+  ],
+  "translation": "Бул жерлердин бүт кудайларынын ичинен кимиси ⟨את⟩ өз жерин менин колумдан куткарган — Яхве ⟨את⟩ Йерушалайимди менин колумдан куткармак беле?",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "8881f14b30031a125d43260bb96bd7300760a5d2775bf4b6cd091b70ec8f92c3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/36\/17-20.1791210061175.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "кимиси"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "бүт"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "кудайларынын"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "жерлердин"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "бул"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "алар"
+    },
+    {
+      "surface": "הצילו",
+      "gloss": "куткарган"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "өз жерин"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "өз жерин"
+    },
+    {
+      "surface": "миди",
+      "gloss": ""
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "куткармак"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Йерушалайимди"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Йерушалайимди"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "менин колумдан"
+    }
+  ],
+  "timestamp": "2026-10-05T14:21:01.176658419Z",
+  "model": "glm-5.3"
+}

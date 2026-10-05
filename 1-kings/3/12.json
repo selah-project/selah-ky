@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 3:12",
+  "book": "1-kings",
+  "lang": "ky",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הנה ×2",
+      "rationale": "«карачы» эки жолу катар келет — күбөлөндүрүүчү бекем кайрылуу"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כמוך ×2",
+      "rationale": "«сендей» эки жолу — мурда да, кийин да — хиазм сымал рамка"
+    },
+    {
+      "kind": "you",
+      "subject": "Шеломого",
+      "rationale": "Элохимдин Шеломого түз убадасы"
+    }
+  ],
+  "translation": "Карачы, сөздөрүң боюнча жасадым; карачы, сага акылман жана түшүнүктүү жүрөк бердим — сендей мурда болгон жок, сенден кийин да сендей турбайт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "716fdfe4e3a8de23d4c6fd9c1c7c6d5c404b41564ce30d72666eaea24064779e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-kings\/3\/9-12.1791208016715.json",
+    "code": "641241cf-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "карачы"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "жасадым"
+    },
+    {
+      "surface": "כדבריך",
+      "gloss": "сөздөрүң боюнча"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "карачы"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "бердим"
+    },
+    {
+      "surface": "לך",
+      "gloss": "сага"
+    },
+    {
+      "surface": "לב",
+      "gloss": "жүрөк"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "акылман"
+    },
+    {
+      "surface": "ונבון",
+      "gloss": "жана түшүнүктүү"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "сендей"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "היה",
+      "gloss": "болгон"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "сенден мурда"
+    },
+    {
+      "surface": "ואחריך",
+      "gloss": "жана сенден кийин"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "турбайт"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "сендей"
+    }
+  ],
+  "timestamp": "2026-10-05T13:46:56.716858702Z",
+  "model": "glm-5.3"
+}

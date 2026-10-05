@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 89:3",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יבנה",
+      "rationale": "«курул\/куралат» — ким курары так эмес: хесед өзү бүтүнчө пассивде куралатбы, же Яхве курабы."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨аларда⟩",
+      "rationale": "בהם «алардын ичинде» — «асмандарда» менен бирге күчөтүүчү кайрадан айтуу; кыргызча текстке жайгаштырылды."
+    }
+  ],
+  "translation": "Анткени мен айттым: «Түбөлүккө хесед куралат, асмандарда Сенин ишенимдүүлүгүң бекемделет».",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "00677826807f8ef4eb285ebc5735edd95335c06db53b37ecefb1a35daed13445",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/89\/1-4.1791216796422.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "мен айттым"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "түбөлүккө"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "хесед"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "куралат"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "асмандарда"
+    },
+    {
+      "surface": "תכן",
+      "gloss": "бекемделет"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "ишенимдүүлүгүң"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "⟨аларда⟩"
+    }
+  ],
+  "timestamp": "2026-10-05T16:13:16.423386688Z",
+  "model": "glm-5.3"
+}

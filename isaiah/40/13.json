@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 40:13",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ал",
+      "rationale": "Ивритте айтылган жок, жөнөкөйлүк үчүн кошулду"
+    },
+    {
+      "kind": "crux",
+      "subject": "תכן",
+      "rationale": "'Өлчөп чыккан' (JPS) менен 'багыттап берүүчү' (KJV 'directed') ортосунда талаш"
+    },
+    {
+      "kind": "you",
+      "subject": "окурманга",
+      "rationale": "Риторикалык суроо — жообу жок, күтүлбөгөн суроо"
+    }
+  ],
+  "translation": "Ким ⟨את⟩ Яхвенин рухун өлчөп чыккан, жана ким ⟨ал⟩ Анын кеңешчиси болуп Аны билдирген?",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "3fc8a823deaa516ab678914f33ce538d2f1607201e1a99423619026b04dad2a1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/40\/13-16.1791210145312.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ким"
+    },
+    {
+      "surface": "תכן",
+      "gloss": "өлчөп чыккан"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яхвенин рухун"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "рухун"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "жана ким"
+    },
+    {
+      "surface": "עצתו",
+      "gloss": "Анын кеңешчиси"
+    },
+    {
+      "surface": "יודיענו",
+      "gloss": "Аны билдирген"
+    }
+  ],
+  "timestamp": "2026-10-05T14:22:25.312960710Z",
+  "model": "glm-5.3"
+}

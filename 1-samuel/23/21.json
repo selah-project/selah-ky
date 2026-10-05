@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 23:21",
+  "book": "1-samuel",
+  "lang": "ky",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ברוכים אתם ליהוה",
+      "rationale": "чечеңдүү эмес форма: «Яхвеге алкыштуу» — кыргызча «Яхве тарабынан алкыштуу» деп ⟨тарабынан⟩ кошулду"
+    },
+    {
+      "kind": "substitution",
+      "subject": "боор ооруттуңар",
+      "rationale": "חמלתם — боор ооруу \/ аяш; кээ бир которуулар «каяш кылдыңар» деп алат"
+    }
+  ],
+  "translation": "Жана Шаул айтты: Силер Яхве ⟨тарабынан⟩ алкыштуусуңар, анткени мага боор ооруттуңар.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "c0ed6fcac6cc2e16d43ce6e198d650ed6fd7955df1ee1f8b15fb8c3c19e47b4d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-samuel\/23\/21-24.1791207151530.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "жана айтты"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "ברוכים",
+      "gloss": "алкыштуусуңар"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "силер"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхвеге"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "חמלתם",
+      "gloss": "боор ооруттуңар"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "мага"
+    }
+  ],
+  "timestamp": "2026-10-05T13:32:31.531428786Z",
+  "model": "glm-5.3"
+}

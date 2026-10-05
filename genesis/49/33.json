@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 49:33",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "rationale": "Кыргызча жөнөкөй илтифак '-га\/-ге' мүчөсү менен берилди, өзүнчө сөз катары жок"
+    },
+    {
+      "kind": "idiom",
+      "subject": "ויגוע",
+      "rationale": "Буквалдык 'демин чыгарды' — өлдү деген эвфемизм"
+    },
+    {
+      "kind": "idiom",
+      "subject": "ויאסף אל עמיו",
+      "rationale": "'Өз элине чогулду' — өлгөндүн ата-бабаларына кошулуусун билдирген туруктуу идиома"
+    }
+  ],
+  "translation": "Яаков ⟨את⟩ уулдарына буйругун бүтүрүп, буттарын төшөккө чогултту, демин чыгарды жана өз элине кошулду.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "0783602e0e28a75050c9216e4d55c54aea81a80cc2bb3bc6fe006d4b8b929fcd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/49\/33-33.1791201784007.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "бүтүрүп"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаков"
+    },
+    {
+      "surface": "לצות",
+      "gloss": "буйругун буйроого"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "уулдарын"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "уулдарына"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "чогултту"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "буттарын"
+    },
+    {
+      "surface": "אל",
+      "gloss": "－"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "төшөккө"
+    },
+    {
+      "surface": "ויגוע",
+      "gloss": "демин чыгарды"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "кошулду"
+    },
+    {
+      "surface": "אל",
+      "gloss": "－"
+    },
+    {
+      "surface": "עמיו",
+      "gloss": "өз элине"
+    }
+  ],
+  "timestamp": "2026-10-05T12:03:04.007757845Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 9:12",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "—",
+      "rationale": "еврейче атоочтук сүйлөмдө «бул» дегенден кийин эгедик «бар» жок, кыргызча байланыш талап кылат"
+    },
+    {
+      "kind": "substitution",
+      "subject": "жан ээси",
+      "rationale": "נפש חיה — дем алуучу жандык"
+    },
+    {
+      "kind": "measurement",
+      "subject": "түбөлүк муундар",
+      "rationale": "келишим убакыт чеги менен өлчөнөт — לדרת עולם"
+    }
+  ],
+  "translation": "Жана Элохим айтты: Бул — Мен Өзүм менен силердин ортоңузда жана силер менен бирге болгон ар бир жаныбар жан ээсинин ортосунда берип жаткан келишимдин белгиси, түбөлүк муундар үчүн.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "fb44e1092d1fb740f0e2f3310daf8425a79afdba70c5fbdf1ff70fd622b8241d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/9\/9-12.1791200849169.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Жана айтты"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "Бул"
+    },
+    {
+      "surface": "אות",
+      "gloss": "белгиси"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "келишимдин"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ал"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Мен"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "берип жаткан"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "Өзүм менен"
+    },
+    {
+      "surface": "וביניכם",
+      "gloss": "силердин ортоңузда"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "жана ортосунда"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ар бир"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "жан"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "жаныбар"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ал"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "לדרת",
+      "gloss": "муундар үчүн"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "түбөлүк"
+    }
+  ],
+  "timestamp": "2026-10-05T11:47:29.170447752Z",
+  "model": "glm-5.3"
+}

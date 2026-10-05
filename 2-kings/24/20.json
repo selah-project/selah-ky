@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 24:20",
+  "book": "2-kings",
+  "lang": "ky",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "каар",
+      "rationale": "'Аф' такыр 'мурун' деген сөз — каар мурундан көрүнөт деген иврит туюнтмасы"
+    },
+    {
+      "kind": "elision",
+      "subject": "מעל",
+      "gloss": "Кошулду: 'жүзүнөн' — 'м_Tool үстүнөн' деген предлог кыргызча 'жүзүнөн' ичинде камтылды"
+    }
+  ],
+  "translation": "Себеби Яхвенин каары Йерушалайимге жана Йехудага жүздө, ⟨את⟩ аларды Өз жүзүнөн кууп таштаганга чейин болгон; жана Цидкия Вавилон падышасына каршы көтөрүлдү.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "9f82d92d5ea9cf66f9541c3c4d8fbe100e2a2d7e75ae80c3ebcf3db8231733ed",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-kings\/24\/17-20.1791209319144.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Себеби"
+    },
+    {
+      "surface": "על",
+      "gloss": "жүздө"
+    },
+    {
+      "surface": "אף",
+      "gloss": "каары"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "болгон"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Йерушалайимге"
+    },
+    {
+      "surface": "וביהודה",
+      "gloss": "жана Йехудага"
+    },
+    {
+      "surface": "עד",
+      "gloss": "чейин"
+    },
+    {
+      "surface": "השלכו",
+      "gloss": "кууп таштаганга"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ аларды",
+      "marks": "аларды"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "↓↓"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "Өз жүзүнөн"
+    },
+    {
+      "surface": "וימרד",
+      "gloss": "көтөрүлдү"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Цидкия"
+    },
+    {
+      "surface": "במלך",
+      "gloss": "падышасына"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Вавилон"
+    }
+  ],
+  "timestamp": "2026-10-05T14:08:39.145334162Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "amos 5:6",
+  "book": "amos",
+  "lang": "ky",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יצלח",
+      "rationale": "«Алгыга алып келет» (צלח) же от «жанып чыгат»: Яхве субъекти катары (KJV, JPS) же от өзү катары (YLT); мен от жанып чыгып бараткан сүрөттү тандадым"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ал⟩",
+      "rationale": "Ивритте этиштин субъектиси ачык айтылбайт; кыргызча сүйлөм үчүн ⟨ал⟩ кошулду"
+    }
+  ],
+  "translation": "⟨את⟩ Яхвени издегиле жана жашагыла, болбосо ⟨ал⟩ от кудум Йосептин үйүндө каптап, Бейт-Элди жутат жана аны өчүрүүчү болбойт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "a3dadaa79f848264ca776d04166e3d095f17a8f13d5506d25479051f0f5c1940",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/amos\/5\/5-8.1791214331225.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דרשו",
+      "gloss": "издегиле"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яхвени"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвени"
+    },
+    {
+      "surface": "וחיו",
+      "gloss": "жана жашагыла"
+    },
+    {
+      "surface": "פן",
+      "gloss": "болбосо"
+    },
+    {
+      "surface": "יצלח",
+      "gloss": "каптап"
+    },
+    {
+      "surface": "כאש",
+      "gloss": "от кудум"
+    },
+    {
+      "surface": "בית",
+      "gloss": "үйүндө"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосептин"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "жана жутат"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "жана жок"
+    },
+    {
+      "surface": "מכבה",
+      "gloss": "өчүрүүчү"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "Бейт"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Элди"
+    }
+  ],
+  "timestamp": "2026-10-05T15:32:11.226580146Z",
+  "model": "glm-5.3"
+}

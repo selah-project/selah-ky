@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 16:14",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Беэр-Лахай-Рои",
+      "rationale": "Аттын мааниси ичинде берилди: באר — «булак», לחי — «жашоочу», ראי — «көрүүчү» (13-аяттагы Эл-Рои менен байланышты)."
+    },
+    {
+      "kind": "addition",
+      "subject": "ал",
+      "rationale": "הנה — «кара!» деген көрсөтмө үн атооч; табигый кыргызча үчүн «ал» катары берилди."
+    }
+  ],
+  "translation": "Ошондуктан булак «Көргөн Жашоочунун булагы» — Беэр-Лахай-Рои деп аталды; ал Кадеш менен Береддин ортосунда.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "5269a0ad2441ac4d32d9e6c91b754361a547f1504ddfe81ed4e405b14717fcf2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/16\/13-16.1791200991577.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ошондуктан"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ошентип"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "аталды"
+    },
+    {
+      "surface": "לבאר",
+      "gloss": "булак"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Беэр"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "Лахай"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "Рои"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ал"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ортосунда"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Кадеш"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "жана"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "Береддин"
+    }
+  ],
+  "timestamp": "2026-10-05T11:49:51.578294935Z",
+  "model": "glm-5.3"
+}

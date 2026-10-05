@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 8:3",
+  "book": "leviticus",
+  "lang": "ky",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Жолугушуу чатыры",
+      "rationale": "אֹהֶל מוֹעֵד — 'белгилүү убакта жолугушуу чатыры'; 'жыйын чатыры' деген салттуу которуудан айырмаланып, букввалдык мааниси сакталды"
+    }
+  ],
+  "translation": "Жана ⟨את⟩ бүт жыйынды Жолугушуу чатырынын эшигине чогулт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "359e61bd7e59f02f881d920ce9d384266db146429ce2f0bede128791870f4375",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/8\/1-4.1791202933217.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "жана ⟨את⟩",
+      "marks": "бүт жыйынды"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүт"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "жыйынды"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "чогулт"
+    },
+    {
+      "surface": "אל",
+      "gloss": "эшигине"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "эшигине"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "чатырынын"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Жолугушуу"
+    }
+  ],
+  "timestamp": "2026-10-05T12:22:13.218798516Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 3:4",
+  "book": "song-of-songs",
+  "lang": "ky",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "койбодум",
+      "rationale": "ארפנו — 'жиберин жумшарттым, мүртөктөдүм'; 'койбодум' эрктүү кармоо сүрөтүн берет"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עד ... עד",
+      "rationale": "эки 'ганча' кайталоосу кармоо менен алып барууну бириктирет — ритмдик кармагыч"
+    }
+  ],
+  "translation": "Алардан аз эле өтөрүм менен ⟨את⟩ жаным сүйгөндү таптым; аны кармадым жана койбодум, энеүйдүн үйүнө, мени бойго бүтүргөндүн бөлмөсүнө киргенче.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "28b12a73fd5bfd486d8a9d2d94fc38500a8728a64f568cb32b0096d2ac727c5e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/song-of-songs\/3\/1-4.1791219583632.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "аз эле"
+    },
+    {
+      "surface": "שעברתי",
+      "gloss": "өтөрүм менен"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "алардан"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-ганча"
+    },
+    {
+      "surface": "שמצאתי",
+      "gloss": "таптым"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "жаным сүйгөндү"
+    },
+    {
+      "surface": "שאהבה",
+      "gloss": "сүйгөндү"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "жаным"
+    },
+    {
+      "surface": "אחזתיו",
+      "gloss": "аны кармадым"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "жана"
+    },
+    {
+      "surface": "ארפנו",
+      "gloss": "койбодум"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-ганча"
+    },
+    {
+      "surface": "שהביאתיו",
+      "gloss": "алып барганымча"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ге"
+    },
+    {
+      "surface": "בית",
+      "gloss": "үйүнө"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "энеүйдүн"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "жана"
+    },
+    {
+      "surface": "חדר",
+      "gloss": "бөлмөсүнө"
+    },
+    {
+      "surface": "הורתי",
+      "gloss": "мени бойго бүтүргөндүн"
+    }
+  ],
+  "timestamp": "2026-10-05T16:59:43.633609202Z",
+  "model": "glm-5.3"
+}

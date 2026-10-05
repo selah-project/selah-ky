@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 1:5",
+  "book": "song-of-songs",
+  "lang": "ky",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "чатышындай",
+      "rationale": "יריעות — чымылдык\/илинген түндүк; 'чатыр' деген жакын сөз менен берилди"
+    },
+    {
+      "kind": "addition",
+      "subject": "бирок",
+      "rationale": "еврей текстинде 'вав' байламтасыз каршылык мааниси⟨бирок⟩ менен берилди"
+    },
+    {
+      "kind": "crux",
+      "subject": "Шломоо",
+      "rationale": "שלמה — падыша Шломоонун аты же 'тынчтык' деген жалпы сөз экени боюнча талаш бар"
+    }
+  ],
+  "translation": "Кара торулукмүн мен, бирок сулуумун, Йерушалайимдин кыздары, Кедардын чатышындай, Шломоонун чатышындай.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "ff01a4dd9d7ec2d7f1048913ac57122e870c2f44c8a5605eb99689e6cac96806",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/song-of-songs\/1\/5-8.1791219579345.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שחורה",
+      "gloss": "кара торулукмүн"
+    },
+    {
+      "surface": "אני",
+      "gloss": "мен"
+    },
+    {
+      "surface": "ונאוה",
+      "gloss": "бирок сулуумун"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "кыздары"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Йерушалайимдин"
+    },
+    {
+      "surface": "כאהלי",
+      "gloss": "чатышындай"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "Кедардын"
+    },
+    {
+      "surface": "כיריעות",
+      "gloss": "чатышындай"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шломоонун"
+    }
+  ],
+  "timestamp": "2026-10-05T16:59:39.346226697Z",
+  "model": "glm-5.3"
+}

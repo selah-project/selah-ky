@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 26:35",
+  "book": "leviticus",
+  "lang": "ky",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "эс алат",
+      "rationale": "שבת 'to cease from labor' — Шаббат тамыры сакталып калды, бирок этиш формасы керек болду"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שבת \/ שבת \/ שבתותיכם",
+      "rationale": "root שבת repeated four times in one verse; kyrgyz only carries it in 'Шаббаттарыңарда'"
+    }
+  ],
+  "translation": "Ээн калган күндөрдүн баарында жер эс алат — ⟨את⟩ анткени силер анын үстүндө жашаган маалда ал силердин Шаббаттарыңарда эс алган эмес.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "1a60109d385c2524203e8f8993a72028f14591c3e3cdd3df314f22158dba0f2a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/26\/33-36.1791203488399.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "баарында"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "күндөрдүн"
+    },
+    {
+      "surface": "השמה",
+      "gloss": "ээн калган"
+    },
+    {
+      "surface": "תשבת",
+      "gloss": "эс алат"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "анткени ... эс алган эмес (ача берилген сүйлөм)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "לא",
+      "gloss": "эмес"
+    },
+    {
+      "surface": "שבתה",
+      "gloss": "эс алган"
+    },
+    {
+      "surface": "בשבתתיכם",
+      "gloss": "силердин Шаббаттарыңарда"
+    },
+    {
+      "surface": "בשבתכם",
+      "gloss": "жашаган маалда"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "анын үстүндө"
+    }
+  ],
+  "timestamp": "2026-10-05T12:31:28.400769664Z",
+  "model": "glm-5.3"
+}

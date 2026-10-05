@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezra 7:12",
+  "book": "ezra",
+  "lang": "ky",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "גמיר וכענת",
+      "rationale": "бул формуланы 'камтылгандыр жана мындайча' деп окушат; KJV 'perfect peace' деп бөлүп койгон — 'тынчтык' сөзү тексте жок"
+    },
+    {
+      "kind": "substitution",
+      "subject": "аскан",
+      "gloss": "түзөтүлдү: асман"
+    },
+    {
+      "kind": "addition",
+      "subject": "кат башталышы",
+      "rationale": "бул перс каттын расмий башталыш формуласы; кыргызча ачуучу сөз кошулган жок, тексттегидей калды"
+    }
+  ],
+  "translation": "Артахшаста, падышалардын падышасы, Эзра ырайкына — асман Элахынын дат-мыйзамынын кемчилдиксиз жазуучусуна ⟨менен⟩ — жана мындайча.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "bf6b3023363d6023ee68fb5b385ae3967faa4c90e2c6faf4aafa857302e022ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ezra\/7\/9-12.1791221049057.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ארתחשסתא",
+      "gloss": "Артахшаста"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "падышалардын"
+    },
+    {
+      "surface": "מלכיא",
+      "gloss": "падышасы"
+    },
+    {
+      "surface": "לעזרא",
+      "gloss": "Эзра"
+    },
+    {
+      "surface": "כהנא",
+      "gloss": "ырайкына"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "жазуучусу"
+    },
+    {
+      "surface": "דתא",
+      "gloss": "дат-мыйзамынын"
+    },
+    {
+      "surface": "די",
+      "gloss": "⟨ал⟩"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Элахынын"
+    },
+    {
+      "surface": "שמיא",
+      "gloss": "аскан"
+    },
+    {
+      "surface": "גמיר",
+      "gloss": "кемчилдиксиз"
+    },
+    {
+      "surface": "וכענת",
+      "gloss": "жана мындайча"
+    }
+  ],
+  "timestamp": "2026-10-05T17:24:09.059043266Z",
+  "model": "glm-5.3"
+}

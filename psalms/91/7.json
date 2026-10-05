@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 91:7",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 91,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "миңе · он миңе",
+      "rationale": "Сандардын карама-каршылыгы — миң жана он миң"
+    },
+    {
+      "kind": "substitution",
+      "subject": "алардын жамандыгы",
+      "rationale": "Ивриттин «ал» дегени жакындабайт дейт; субъект белгисиз, кыргызча ачык кылуу үчүн кошулду"
+    }
+  ],
+  "translation": "Миңе ⟨сайын⟩ капталыңда кулаясын, он миңе оң колуңда — алардын жамандыгы сага жакындабайт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "82c889abb6220a00396e68e83043cf48610b5411a0092f94e088d667499849bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/91\/5-8.1791216905883.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יפל",
+      "gloss": "кулаясын"
+    },
+    {
+      "surface": "מצדך",
+      "gloss": "капталыңда"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "миңе"
+    },
+    {
+      "surface": "ורבבה",
+      "gloss": "он миңе"
+    },
+    {
+      "surface": "מימינך",
+      "gloss": "оң колуңда"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "сага"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жакындабайт"
+    },
+    {
+      "surface": "יגש",
+      "gloss": "жакындоо"
+    }
+  ],
+  "timestamp": "2026-10-05T16:15:05.884077986Z",
+  "model": "glm-5.3"
+}

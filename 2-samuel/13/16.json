@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 13:16",
+  "book": "2-samuel",
+  "lang": "ky",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אל אודות",
+      "rationale": "'жок, бул жамандык жөнүндө эмес' — кыйын синтаксис: KJV 'no cause', JPS 'not so', YLT 'because of the circumstances' ар кандай чечмеленет"
+    },
+    {
+      "kind": "addition",
+      "subject": "асилке",
+      "rationale": "אל — тыюу үн аты, кыргызча 'асилке' деп берилди"
+    }
+  ],
+  "translation": "Ага айтты: Асилке, бул чоң жамандыктан кийин — мени кууп жиберүүң мурунку жамандыктан да оор. Бирок ал аны угууга макул болгон жок.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "2496d8f639a5dc886c2bcfbe91c6ec9c8e5c1283ac95f9f8883eda7ab9970723",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-samuel\/13\/13-16.1791207555642.json",
+    "code": "641241cf-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ага"
+    },
+    {
+      "surface": "אל",
+      "gloss": "асилке"
+    },
+    {
+      "surface": "אודות",
+      "gloss": "жөнүндө эмес"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "жамандыктын"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "чоң"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "бул"
+    },
+    {
+      "surface": "מאחרת",
+      "gloss": "мурункудан"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "эмне"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "жасагандан"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "мага"
+    },
+    {
+      "surface": "לשלחני",
+      "gloss": "мени кууп жиберүүң"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "бирок... эмес"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "макул болгон жок"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "угууга"
+    },
+    {
+      "surface": "לה",
+      "gloss": "аны"
+    }
+  ],
+  "timestamp": "2026-10-05T13:39:15.643590860Z",
+  "model": "glm-5.3"
+}

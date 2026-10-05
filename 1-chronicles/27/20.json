@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 27:20",
+  "book": "1-chronicles",
+  "lang": "ky",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "үстүнөн",
+      "rationale": "Башкаруучу этиши текстте жок, тизменин мурунку аяттарынан келет"
+    },
+    {
+      "kind": "substitution",
+      "subject": "уруусу",
+      "rationale": "שבט букв. таякча, скипетр — бул жерде уруу деген мааниде"
+    },
+    {
+      "kind": "measurement",
+      "subject": "уруу башчыларынын тизмеси",
+      "rationale": "Аттар саналган тизме — Менашшенин жарым уруусу дагы эсепке алынат"
+    }
+  ],
+  "translation": "Эфраимдин уулдарынын үстүнөн Хошеа, Азазйганын уулу; Менашше уруусунун жарымынын үстүнөн Йоэл, Педайганын уулу.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "9685c283049b8007409740e2d476aa15e75dce27ebe43c6e308cb3092a3f408f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-chronicles\/27\/17-20.1791222430373.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "уулдарынын"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Эфраимдин"
+    },
+    {
+      "surface": "הושע",
+      "gloss": "Хошеа"
+    },
+    {
+      "surface": "בן",
+      "gloss": "уулу"
+    },
+    {
+      "surface": "עזזיהו",
+      "gloss": "Азазйганын"
+    },
+    {
+      "surface": "לחצי",
+      "gloss": "жарымынын"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "уруусунун"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Менашше"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "Йоэл"
+    },
+    {
+      "surface": "בן",
+      "gloss": "уулу"
+    },
+    {
+      "surface": "פדיהו",
+      "gloss": "Педайганын"
+    }
+  ],
+  "timestamp": "2026-10-05T17:47:10.374308860Z",
+  "model": "glm-5.3"
+}

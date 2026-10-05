@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "daniel 6:7",
+  "book": "daniel",
+  "lang": "ky",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "түбөлүккө жаша",
+      "rationale": "Падышага салам — арамейче\thай лехалмин\t«түбөлүккө жаша» деген салтанаттуу тилеке"
+    },
+    {
+      "kind": "you",
+      "subject": "Дарйавешке",
+      "rationale": "Каршылаштар падышага түз кайрылышат — сөз аракети падышаны алдап алууга багытталган"
+    },
+    {
+      "kind": "substitution",
+      "subject": "чоюлкайлап келишип",
+      "rationale": "hаргашу\t— «ызы-чуу менен чогуулуу»; KJV «assembled» деген тынч сөз түрүндө жумшартат"
+    }
+  ],
+  "translation": "Ошондо бул сархтар жана ахашдарпантар падышанын алдына чогуу келишип, ага мындай дешти: «Дарйавеш падыша, түбөлүккө жаша!»",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "9e3173850f06657441f0037510d87059bdc210fb6d2033ed1e6a7d4b734a516b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/daniel\/6\/5-8.1791220718828.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אדין",
+      "gloss": "Ошондо"
+    },
+    {
+      "surface": "סרכיא",
+      "gloss": "сархтар"
+    },
+    {
+      "surface": "ואחשדרפניא",
+      "gloss": "жана ахашдарпантар"
+    },
+    {
+      "surface": "אלן",
+      "gloss": "бул"
+    },
+    {
+      "surface": "הרגשו",
+      "gloss": "чоюлкайлап чогуу келишип"
+    },
+    {
+      "surface": "על",
+      "gloss": "алдына"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "падышанын"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "мындай"
+    },
+    {
+      "surface": "אמרין",
+      "gloss": "дешти"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ага"
+    },
+    {
+      "surface": "דריוש",
+      "gloss": "«Дарйавеш"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "падыша,"
+    },
+    {
+      "surface": "לעלמין",
+      "gloss": "түбөлүккө"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "жаша!»"
+    }
+  ],
+  "timestamp": "2026-10-05T17:18:38.829547307Z",
+  "model": "glm-5.3"
+}

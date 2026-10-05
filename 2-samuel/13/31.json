@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "2-samuel 13:31",
+  "book": "2-samuel",
+  "lang": "ky",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ויקרע \/ קרעי",
+      "rationale": "падыша 'жыртты' — кулдар 'жыртылган' деген тамыр кайталануусу, үзөңгүлөшүү көрүнүшү."
+    },
+    {
+      "kind": "addition",
+      "subject": "турушту",
+      "rationale": "נצבим — 'туруучулар' деген причастие, кыргызча этиш керек болду."
+    }
+  ],
+  "translation": "Ошондо падыша турду да, ⟨את⟩ кийимдерин жыртып, жерге жатты; анын бардык кулдары жыртылган кийимдер менен тургулап турушту.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "0180d278aa5560e49091255afe70bfa8a6196177308f6a8f533637146dd26da2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-samuel\/13\/29-32.1791207615018.json",
+    "code": "641241cf-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "турду"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "падыша"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "жыртып"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "кийимдерин"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "кийимдерин"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "жатты"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "жерге"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "бардык"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "кулдары"
+    },
+    {
+      "surface": "נצבים",
+      "gloss": "тургулап"
+    },
+    {
+      "surface": "קרעי",
+      "gloss": "жыртылган"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "кийимдер"
+    }
+  ],
+  "timestamp": "2026-10-05T13:40:15.019604723Z",
+  "model": "glm-5.3"
+}

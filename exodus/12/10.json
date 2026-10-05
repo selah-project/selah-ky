@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 12:10",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "болсо",
+      "rationale": "Кыргызча шарттуу байламча кошулду, еврейчеде жок"
+    },
+    {
+      "kind": "measurement",
+      "subject": "עד בקר",
+      "rationale": "Вакыт чени — таңга чейин — эки жолу кайталанат"
+    }
+  ],
+  "translation": "Жана андан таңга чейин эч нерсе калтырбагыла; андан таңга чейин калганы болсо, отто өрттөгүлө.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "03c8e6ad77d0ee0aeb033797fb4e62a140a8c314bc101fddcd8e6bd5172c51fd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/12\/9-12.1791202055151.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "жана жок"
+    },
+    {
+      "surface": "תותירо",
+      "gloss": "калтырбагыла"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "андан"
+    },
+    {
+      "surface": "עד",
+      "gloss": "чейин"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "таң"
+    },
+    {
+      "surface": "והנתר",
+      "gloss": "жана калганы"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "андан"
+    },
+    {
+      "surface": "עד",
+      "gloss": "чейин"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "таң"
+    },
+    {
+      "surface": "באש",
+      "gloss": "отто"
+    },
+    {
+      "surface": "תשרפו",
+      "gloss": "өрттөгүлө"
+    }
+  ],
+  "timestamp": "2026-10-05T12:07:35.152900681Z",
+  "model": "glm-5.3"
+}

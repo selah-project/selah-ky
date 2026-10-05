@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "judges 20:9",
+  "book": "judges",
+  "lang": "ky",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "rationale": "RelativeTo kyrgyzcha атайын сөз жок, тыныш белги көтөрөт"
+    },
+    {
+      "kind": "addition",
+      "subject": "чыгабыз",
+      "rationale": "גורל 'жребий' буюк этишти талап кылат, ивритте этиш жок"
+    },
+    {
+      "kind": "measurement",
+      "subject": "жребий",
+      "rationale": "Жооптуулукту бөлүштүрүүчү жребий — санап бөлүү мотиви"
+    }
+  ],
+  "translation": "Азыр бул — Гивага жасай турган ишибиз: ага каршы жребий боюнча ⟨чыгабыз⟩.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "6c1a795b529e3e436f5e36a25338aa75eba2d54555e628d73a06ffb475692365",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/judges\/20\/9-12.1791206511328.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "азыр"
+    },
+    {
+      "surface": "זה",
+      "gloss": "бул"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "иш"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "жасайбыз"
+    },
+    {
+      "surface": "לגבעה",
+      "gloss": "Гивага"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ага каршы"
+    },
+    {
+      "surface": "בגורל",
+      "gloss": "жребий боюнча"
+    }
+  ],
+  "timestamp": "2026-10-05T13:21:51.328711923Z",
+  "model": "glm-5.3"
+}

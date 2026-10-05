@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 28:30",
+  "book": "deuteronomy",
+  "lang": "ky",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ישגלנה",
+      "rationale": "שגל — ырайымсыз ачык этиш: «аны менен жатат» (JPS) же «зордук кылат» (BSB); бул сөз Танахта дагы эки жерде гана кездешет."
+    },
+    {
+      "kind": "substitution",
+      "subject": "колдоносуң",
+      "rationale": "חלל лити \"баштоо\/ылайыктоо\" дегенди билдирет — багыңдын жемишин биринчи жолу колдонуу."
+    }
+  ],
+  "translation": "Аялды сөйлөшүп коёсуң, бирок башка эркек аны менен жатат; үй тургузасың, бирок анда жашайсың да жок; жүзүм багын отургузасың, бирок аны колдоносуң да жок.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "d51b85027f55652c394a5760917aaf627d345cd88db741e89df476a11f2b1a2f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/28\/29-32.1791205376435.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשה",
+      "gloss": "аялды"
+    },
+    {
+      "surface": "תארש",
+      "gloss": "сөйлөшүп коёсуң"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "бирок эркек"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "башка"
+    },
+    {
+      "surface": "ישגלנה",
+      "gloss": "аны менен жатат"
+    },
+    {
+      "surface": "בית",
+      "gloss": "үй"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "тургузасың"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "бирок эмес"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "жашайсың"
+    },
+    {
+      "surface": "בו",
+      "gloss": "анда"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "жүзүм багын"
+    },
+    {
+      "surface": "תטע",
+      "gloss": "отургузасың"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "бирок эмес"
+    },
+    {
+      "surface": "תחללנו",
+      "gloss": "аны колдоносуң"
+    }
+  ],
+  "timestamp": "2026-10-05T13:02:56.436575151Z",
+  "model": "glm-5.3"
+}

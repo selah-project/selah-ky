@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 40:13",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ומשחת ... וקדשת ... וכהן",
+      "rationale": "Үч этиштин ыргагы — майлоо, ыйыктоо, кызмат кылуу — үч катар санап айтылат, кыргызча да ыргак сакталды"
+    },
+    {
+      "kind": "substitution",
+      "subject": "майла",
+      "rationale": "משח — май сүртүү деген сүрөт, ошондуктан Машиах («майланган») сөзү ошол тамырдан"
+    }
+  ],
+  "translation": "Жана ⟨את⟩ Ахаронду ⟨את⟩ ыйык кийимдерине кийгиз, аны майла жана аны ыйыкта, ал Мага ыйык кызмат кылсын.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "93e8ca27f7a020a821be726069d73ddf2bb37ea320b1e10138f4ef022d24314c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/40\/13-16.1791202792020.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והלבשת",
+      "gloss": "кийгиз"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ахаронду"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Ахаронду"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ыйык кийимдерине"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "кийимдерине"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ыйык"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "майла"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "аны"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "ыйыкта"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "аны"
+    },
+    {
+      "surface": "וכהן",
+      "gloss": "ыйык кызмат кылсын"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Мага"
+    }
+  ],
+  "timestamp": "2026-10-05T12:19:52.020828444Z",
+  "model": "glm-5.3"
+}

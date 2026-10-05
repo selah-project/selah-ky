@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezra 4:1",
+  "book": "ezra",
+  "lang": "ky",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "душмандары",
+      "rationale": "צר түптүү сөз 'тар, кысым' деген сүрөт; кыргызча 'душман' ролдук маани берет"
+    },
+    {
+      "kind": "elision",
+      "subject": "כי",
+      "rationale": "байланыштыргыч 'анткени' которууда көтөрүлбөй калды"
+    }
+  ],
+  "translation": "Жана Йаһуданын жана Бинъяминдин душмандары угушту: сүргүндөгү уулдар Яхвеге, Йисраэлдин Элохимине хейкал курушат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "62693c2ea865f18dd26d3eda9f2a50bd1940eb48f83da1c0dbb624023ce16589",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ezra\/4\/1-4.1791221113049.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "угушту"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "душмандары"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Йаһуданын"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "Бинъяминдин"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "בני",
+      "gloss": "уулдары"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "сүргүндөгү"
+    },
+    {
+      "surface": "בונים",
+      "gloss": "курушат"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "хейкал"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхвеге"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Элохиминин"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэлдин"
+    }
+  ],
+  "timestamp": "2026-10-05T17:25:13.050132761Z",
+  "model": "glm-5.3"
+}

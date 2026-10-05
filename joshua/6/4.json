@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 6:4",
+  "book": "joshua",
+  "lang": "ky",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "жети \/ жети жолу \/ жетинчи күн",
+      "rationale": "«Жети» үч жолу кайталанат — сандардын ыйык түзүлүшү."
+    },
+    {
+      "kind": "crux",
+      "subject": "היובלים",
+      "rationale": "«Йовел шофарлары» — мөңгөчө мүйүз (KJV «rams' horns») же йовел майрамынын шофары (YLТ); биз буквасын сактадык."
+    },
+    {
+      "kind": "substitution",
+      "subject": "כהן",
+      "rationale": "«Ыйык кызмат кылуучу» — Танах регистриндеги форма; «священник» орус сөзү."
+    }
+  ],
+  "translation": "Жети ыйык кызмат кылуучу жети йовел шофарларын келсеп алдын көтөрүшөт; жетинчи күндө силер ⟨את⟩ шаарды жети жолу айланасыңар, жана ыйык кызмат кылуучулар шофарларды какышат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "be71cc7ae851ab512c4d6208c291dcb6079c0db26b396ef784b36f0d9c454956",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/joshua\/6\/1-4.1791205607634.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושבעה",
+      "gloss": "Жети"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "ыйык кызмат кылуучу"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "көтөрүшөт"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "жети"
+    },
+    {
+      "surface": "שופרות",
+      "gloss": "шофарларын"
+    },
+    {
+      "surface": "היובלים",
+      "gloss": "йовел"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "алдын"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "келсеп"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "күндө"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "жетинчи"
+    },
+    {
+      "surface": "תסבו",
+      "gloss": "айланасыңар"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "шаарды"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "шаарды"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "жети"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "жолу"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "жана ыйык кызмат кылуучулар"
+    },
+    {
+      "surface": "יתקעו",
+      "gloss": "какышат"
+    },
+    {
+      "surface": "בשופרות",
+      "gloss": "шофарларды"
+    }
+  ],
+  "timestamp": "2026-10-05T13:06:47.635241054Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 7:9",
+  "book": "numbers",
+  "lang": "ky",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "алар аны",
+      "rationale": "Ивритте «алар көтөрүшөт» дегенде объект айтылбайт; аны катыштыруу үчүн кошулду"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ыйык нерселер",
+      "rationale": "הקדש — «ыйыктык\/ыйык нерсе» деген жалпы зат; «тыйгын акча» эмес"
+    }
+  ],
+  "translation": "Ал эми Кехаттын уулдарына ал эч нерсе берген жок, анткени ыйык нерселердин кызматы аларга тиешелүү: алар аны ийиндеринде көтөрүшөт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "30ef2d20b1da3bda106efe57b5f5e8619ab8d812d6ba8a25e92f7871c2db93c0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/numbers\/7\/9-12.1791203682749.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "ал эми...уулдарына"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Кехаттын"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "берген"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "кызматы"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ыйык нерселердин"
+    },
+    {
+      "surface": "עלהם",
+      "gloss": "аларга"
+    },
+    {
+      "surface": "בכתף",
+      "gloss": "ийиндеринде"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "көтөрүшөт"
+    }
+  ],
+  "timestamp": "2026-10-05T12:34:42.749842915Z",
+  "model": "glm-5.3"
+}

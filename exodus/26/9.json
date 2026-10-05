@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 26:9",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "беш жана алты парда",
+      "rationale": "Пардалардын саны — саналган өлчөө структурасы."
+    },
+    {
+      "kind": "substitution",
+      "subject": "парда",
+      "rationale": "יריעה — калкылган\/титиреген асылма; кыргызча 'парда' сүрөттүн бир бөлүгүн гана берет."
+    }
+  ],
+  "translation": "Жана сен ⟨את⟩ беш парданы өзүнчө жана ⟨את⟩ алты парданы өзүнчө бириктиресиң, жана ⟨את⟩ алтынчы парданы чатырдын алдыңкы бетине каршы бүктөп коюрсун.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "c80ce229d4e1a8e74b8b138ebabeac435779e4bd19481db70400f827c66d0cc9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/26\/9-12.1791202410803.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וחברת",
+      "gloss": "жана бириктиресиң"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "беш парда"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "беш"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "парда"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "өзүнчө"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "жана ⟨את⟩",
+      "marks": "алты парда"
+    },
+    {
+      "surface": "שש",
+      "gloss": "алты"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "парда"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "өзүнчө"
+    },
+    {
+      "surface": "וכפלת",
+      "gloss": "жана бүктөп коюрсун"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "алтынчы парда"
+    },
+    {
+      "surface": "היריעה",
+      "gloss": "парда"
+    },
+    {
+      "surface": "הששית",
+      "gloss": "алтынчы"
+    },
+    {
+      "surface": "אל",
+      "gloss": "каршы"
+    },
+    {
+      "surface": "מול",
+      "gloss": "алдыңкы"
+    },
+    {
+      "surface": "פני",
+      "gloss": "бетине"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "чатырдын"
+    }
+  ],
+  "timestamp": "2026-10-05T12:13:30.803949780Z",
+  "model": "glm-5.3"
+}

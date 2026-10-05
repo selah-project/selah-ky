@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 14:7",
+  "book": "hosea",
+  "lang": "ky",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ילכו",
+      "rationale": "Буквально «барышат» — көчөттөрдүн тарап, өсүп баруусу; кыргызча «тарайт» деп берилди"
+    },
+    {
+      "kind": "addition",
+      "subject": "болот",
+      "rationale": "Кыргыз тили купуланы талап кылат, ивритте ויהי эквивалент"
+    }
+  ],
+  "translation": "Анын көчөттөрү тарайт, анын урматы зайтундай болот, анын жыты Ливандыктай.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "33a70dbb1802f770e32d7c3d826afaea8dc33bfe9a56dc0f61b012e18af35e66",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/hosea\/14\/5-8.1791214007515.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ילכו",
+      "gloss": "тарайт"
+    },
+    {
+      "surface": "ינקותיו",
+      "gloss": "анын көчөттөрү"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "болот"
+    },
+    {
+      "surface": "כזית",
+      "gloss": "зайтундай"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "анын урматы"
+    },
+    {
+      "surface": "וריח",
+      "gloss": "анын жыты"
+    },
+    {
+      "surface": "לו",
+      "gloss": "анын"
+    },
+    {
+      "surface": "כלבנון",
+      "gloss": "Ливандыктай"
+    }
+  ],
+  "timestamp": "2026-10-05T15:26:47.515878949Z",
+  "model": "glm-5.3"
+}

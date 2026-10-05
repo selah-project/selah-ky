@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 3:9",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "таандык",
+      "rationale": "Ивритте энчилүү ат атооч жок; «Яхвеге» деген мамилени «таандык» сөзү көтөрөт"
+    },
+    {
+      "kind": "elision",
+      "subject": "סלה",
+      "rationale": "Селах — музыкалык белги, которулбайт, транслитерацияланат"
+    }
+  ],
+  "translation": "Куткаруу Яхвеге таандык; Сенин батияң Сенин элиңдин үстүндө. Селах.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "1e5256742b8da765fc6a8e55eeb049274ecfd9ef0927008167d0942e4b06c099",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/3\/9-9.1791215223790.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхвеге"
+    },
+    {
+      "surface": "הישועה",
+      "gloss": "куткаруу"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстүндө"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "элиңдин"
+    },
+    {
+      "surface": "ברכתך",
+      "gloss": "батияң"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Селах"
+    }
+  ],
+  "timestamp": "2026-10-05T15:47:03.790491854Z",
+  "model": "glm-5.3"
+}

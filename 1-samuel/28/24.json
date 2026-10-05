@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 28:24",
+  "book": "1-samuel",
+  "lang": "ky",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "מרבק",
+      "rationale": "«малканa\/тор багуучу жай» — Танахта жалгыз жерде кездешет"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ачытмаган нан",
+      "rationale": "מצות — ачыткысыз жасалган майда нандар, кыргызча жөнөкөйлөштүрүлдү"
+    }
+  ],
+  "translation": "Аялдын үйдө багылган торпогу бар эле, ал шашылып аны союп, ун алып, камыр жууруп, аны ачытмаган нан кылып бышырды.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "e5a2cc75600b19ff486a0f12983903878d85de0fc9edf0bdedf3b1d9da4a1729",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-samuel\/28\/21-24.1791207259863.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולאשה",
+      "gloss": "аялдын"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "торпогу"
+    },
+    {
+      "surface": "מרבק",
+      "gloss": "багылган"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "үйдө"
+    },
+    {
+      "surface": "ותמהר",
+      "gloss": "шашылып"
+    },
+    {
+      "surface": "ותזבחהו",
+      "gloss": "аны союп"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "алып"
+    },
+    {
+      "surface": "קמח",
+      "gloss": "ун"
+    },
+    {
+      "surface": "ותלש",
+      "gloss": "камыр жууруп"
+    },
+    {
+      "surface": "ותפהו",
+      "gloss": "аны бышырды"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "ачытмаган нан"
+    }
+  ],
+  "timestamp": "2026-10-05T13:34:19.864631543Z",
+  "model": "glm-5.3"
+}

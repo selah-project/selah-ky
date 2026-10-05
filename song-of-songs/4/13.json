@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "song-of-songs 4:13",
+  "book": "song-of-songs",
+  "lang": "ky",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כפרים",
+      "rationale": "хна (JPS\/ASV) же камфора (KJV 'camphire') же кыпарис (YLT) — байыркы котормолор бөлүнөт"
+    },
+    {
+      "kind": "elision",
+      "subject": "שלחיך",
+      "rationale": "касса байланышы ивритте жок, кыргызча тынчтык белгиси менен берилди"
+    }
+  ],
+  "translation": "Сенин бутактарың — анар бакчасы, сонун мөмөлөр менен, хна, нард менен.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "37696ba28cc011a4939318da0158a8162721cba5725f694e247664598be6e9d2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/song-of-songs\/4\/13-16.1791219553861.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שלחיך",
+      "gloss": "бутактарың"
+    },
+    {
+      "surface": "פרדס",
+      "gloss": "бакча"
+    },
+    {
+      "surface": "רמונים",
+      "gloss": "анар"
+    },
+    {
+      "surface": "עם",
+      "gloss": "менен"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "мөмө"
+    },
+    {
+      "surface": "מגדים",
+      "gloss": "сонун"
+    },
+    {
+      "surface": "כפרים",
+      "gloss": "хна"
+    },
+    {
+      "surface": "עם",
+      "gloss": "менен"
+    },
+    {
+      "surface": "נרדים",
+      "gloss": "нард"
+    }
+  ],
+  "timestamp": "2026-10-05T16:59:13.861821662Z",
+  "model": "glm-5.3"
+}

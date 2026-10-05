@@ -1,0 +1,130 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 5:2",
+  "book": "song-of-songs",
+  "lang": "ky",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "бирок",
+      "rationale": "ивритте каршылык байламтасы жок, «мен уйктап жатам, жүрөгүм ойгонуп турат» деген коюлду"
+    },
+    {
+      "kind": "substitution",
+      "subject": "камкөрүм",
+      "rationale": "תמתי «толук, так, кемчиликсиз» деген сөз, «камкөр» деп берилди"
+    },
+    {
+      "kind": "substitution",
+      "subject": "чачтарым",
+      "rationale": "קוצותי — баштын алдыңкы чач чачыктары (челдери)"
+    },
+    {
+      "kind": "hapax",
+      "subject": "רסיסי",
+      "rationale": "тамчы маанисиндеги сейрек сөз, деструкция маанисинен келген"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Мага ач",
+      "rationale": "сүйгөн кызды эшикти ачууга чакыруу"
+    },
+    {
+      "kind": "you",
+      "subject": "эжекем, сүйгөнүм, көгүчкөнүм",
+      "rationale": "сүйгөн тарабынан кызга тикелей кайрылуу"
+    }
+  ],
+  "translation": "Мен уйктап жатам, бирок жүрөгүм ойгонуп турат. Сүйгөнүмдүн үнү каккылдайт: Мага ач, эжекем, сүйгөнүм, көгүчкөнүм, камкөрүм, анткени башым шүүдүргө толгон, чачтарым түн тамчылары менен нымдалган.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "d8d40c009e5457df1ebe90af2696de6b1a7f528fdc7c0a794f98a78871631ef1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/song-of-songs\/5\/2-3.1791224591961.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Мен"
+    },
+    {
+      "surface": "ישנה",
+      "gloss": "уйктап жатам"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "бирок жүрөгүм"
+    },
+    {
+      "surface": "ער",
+      "gloss": "ойгонуп турат"
+    },
+    {
+      "surface": "קול",
+      "gloss": "үнү"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "сүйгөнүмдүн"
+    },
+    {
+      "surface": "דופק",
+      "gloss": "каккылдайт"
+    },
+    {
+      "surface": "פתחי",
+      "gloss": "ач"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мага"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "эжекем"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "сүйгөнүм"
+    },
+    {
+      "surface": "יונתי",
+      "gloss": "көгүчкөнүм"
+    },
+    {
+      "surface": "תמתי",
+      "gloss": "камкөрүм"
+    },
+    {
+      "surface": "שראשי",
+      "gloss": "анткени башым"
+    },
+    {
+      "surface": "נמלא",
+      "gloss": "толгон"
+    },
+    {
+      "surface": "טל",
+      "gloss": "шүүдүргө"
+    },
+    {
+      "surface": "קוצותי",
+      "gloss": "чачтарым"
+    },
+    {
+      "surface": "רסיסי",
+      "gloss": "тамчылары менен нымдалган"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "түн"
+    }
+  ],
+  "timestamp": "2026-10-05T18:23:11.962121971Z",
+  "model": "glm-5.3"
+}

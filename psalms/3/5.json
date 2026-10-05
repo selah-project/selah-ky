@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 3:5",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "קולי אל",
+      "rationale": "«үнүм менен» — еврейче «менин үнүм Яхвеге» деген конструкция, ээлик падеж болбогондуктан «менен» кошулду"
+    },
+    {
+      "kind": "elision",
+      "subject": "סלה",
+      "rationale": "Селах — музыкалык пауза белгиси, которулбайт, транслитерацияланат"
+    },
+    {
+      "kind": "you",
+      "subject": "Яхвеге",
+      "rationale": "Жалбаруу Яхвеге багытталган"
+    }
+  ],
+  "translation": "Үнүм менен Яхвеге кыйкырамын, жана Ал мени ыйыгы тоосунан жооп берди. Селах.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "a43733b68e64b37b82cce4fb8d247cd92049b1681b3861b9c48a700223ad8bb1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/3\/5-8.1791215319212.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "үнүм"
+    },
+    {
+      "surface": "אל",
+      "gloss": "менен"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвеге"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "кыйкырамын"
+    },
+    {
+      "surface": "ויענני",
+      "gloss": "жана ал мени жооп берди"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "тоосунан"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "ыйыгы"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Селах"
+    }
+  ],
+  "timestamp": "2026-10-05T15:48:39.213179677Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 15:2",
+  "book": "1-samuel",
+  "lang": "ky",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "פקדתי — «текшердим»",
+      "rationale": "פקד эки тескери мааниде: «эске алдым\/көрдүм» жана «жазаладым» — котормолор «remember» жана «punish» деп бөлүнөт."
+    },
+    {
+      "kind": "substitution",
+      "subject": "שם לו בדרך",
+      "rationale": "Кыргызча «жолдо ага тузак курду» деген салыштырмалуу эркин берилиш керек болчу; бул жерде так «жолдо ага коюлганды» деп берилди."
+    }
+  ],
+  "translation": "Так дейт Яхве Цебаот: Мен ⟨את⟩ Амалек Йисраэлге кылганын текшердим — Мицрайимден өйдөлаганында жолдо ага коюлганды.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "515699c93f8316b01d7fa1de08c0bf88d896bf97bc4beb0b107cae6327e558f5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-samuel\/15\/1-4.1791206926953.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "так"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "дейт"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цебаот"
+    },
+    {
+      "surface": "פקדתי",
+      "gloss": "мен текшердим"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Амалек Йисраэлге кылганын"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…ны"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "кылган"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Амалек"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Йисраэлге"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…ны"
+    },
+    {
+      "surface": "שם",
+      "gloss": "койгон"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ага"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "жолдо"
+    },
+    {
+      "surface": "בעלתו",
+      "gloss": "өйдөлаганында"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Мицрайимден"
+    }
+  ],
+  "timestamp": "2026-10-05T13:28:46.953989750Z",
+  "model": "glm-5.3"
+}

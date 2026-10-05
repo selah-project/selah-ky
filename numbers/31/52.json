@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "numbers 31:52",
+  "book": "numbers",
+  "lang": "ky",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "16750 шекел",
+      "rationale": "Тартуунун так өлчөмү: он алты миң жети жүз элүү беш шекел"
+    },
+    {
+      "kind": "elision",
+      "subject": "מאת · ומאת",
+      "rationale": "את_preposition + מин «...дан» формалары; ⟨את⟩ белгиси сакталды"
+    }
+  ],
+  "translation": "Жана Яхвеге көтөрүлгөн тартуунун бардык алтыны — ⟨את⟩дан миңдердин башчылары жана ⟨את⟩дан жүздөрдүн башчылары — он алты миң жети жүз жана элүү беш шекел болду.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "f120b510b8b93621728eedec0fa6e379e813f4966449b92a71f336fa330bf3d7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/numbers\/31\/49-52.1791204466570.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "болду"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бардык"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "алтыны"
+    },
+    {
+      "surface": "התרומה",
+      "gloss": "тартуунун"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "алар"
+    },
+    {
+      "surface": "הרימו",
+      "gloss": "көтөрүлгөн"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхвеге"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "алты"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "он"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "миң"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "жети"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "жүз"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "жана элүү беш"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "шекел"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩дан",
+      "marks": "миңдердин башчылары"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "башчылары"
+    },
+    {
+      "surface": "האלפים",
+      "gloss": "миңдердин"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "жана ⟨את⟩дан",
+      "marks": "жүздөрдүн башчылары"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "башчылары"
+    },
+    {
+      "surface": "המאות",
+      "gloss": "жүздөрдүн"
+    }
+  ],
+  "timestamp": "2026-10-05T12:47:46.571681002Z",
+  "model": "glm-5.3"
+}

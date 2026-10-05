@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 7:38",
+  "book": "leviticus",
+  "lang": "ky",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "rationale": " Салттык эмес котормо үчүн 'алар' байламдасы катары берилген 'качан' менен алмаштырылган"
+    },
+    {
+      "kind": "substitution",
+      "subject": "קרבן",
+      "rationale": "'Жакындатылган нерссе' — курмандык деп берилген, бул салттуу ыкма"
+    }
+  ],
+  "translation": "Яхве Синай тоосунда Мошенин ⟨את⟩ күнөөдөн тазалоо мыйзамын буюрдук... качан Йисраэл уулдарына ⟨את⟩ чөлдө Синайда Яхвеге өз курмандыктарын ⟨את⟩ алып келүүнү буюрган күнү.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "27c0e782f3e5810d8f2238974b0852f656416c3ad9b561b22bdb14ef52b1f99a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/7\/37-38.1791202833167.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "качан"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "буюрдук... түшүп калган сөз",
+      "marks": "previous clause referent"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Моше"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "тоосунда"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Синай"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "күнү"
+    },
+    {
+      "surface": "צותו",
+      "gloss": "буюрган"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Йисраэл уулдары"
+    },
+    {
+      "surface": "בני",
+      "gloss": "уулдарына"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэл"
+    },
+    {
+      "surface": "להקריב",
+      "gloss": "алып келүүнү"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "курмандыктарын"
+    },
+    {
+      "surface": "קרבניהם",
+      "gloss": "курмандыктарын"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхвеге"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "чөлдө"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Синай"
+    }
+  ],
+  "timestamp": "2026-10-05T12:20:33.167936727Z",
+  "model": "glm-5.3"
+}

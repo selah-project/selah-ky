@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "isaiah 40:27",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "К Яакову \/ Йисраэлу",
+      "rationale": "Прямое обращение с вопросом к народу по двум именам"
+    },
+    {
+      "kind": "crux",
+      "subject": "יעבור",
+      "rationale": "'Прошло мимо \/ проигнорировано' — одни переводят 'мой суд исчез от Бога', другие 'Бог проходит мимо моего дела'"
+    },
+    {
+      "kind": "invitation",
+      "subject": "эмне үчүн",
+      "rationale": "Риторический вопрос, вовлекающий слушателя"
+    }
+  ],
+  "translation": "Эмне үчүн айтасың, Яаков, жана сүйлөйсүң, Йисраэл: «Менин жолум Яхведен жашырылган, менин өкүмүм Элохимден өтүп кетти»?",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "ce1ac4894367bc1d6d108d17785aeb26d28f58f4c9f91cf55a257efd42634b1d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/40\/26-27.1791224129230.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "эмне үчүн"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "айтасың"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаков"
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "жана сүйлөйсүң"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэл"
+    },
+    {
+      "surface": "נסתרה",
+      "gloss": "жашырылган"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "жолум"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "Яхведен"
+    },
+    {
+      "surface": "ומאלהי",
+      "gloss": "Элохимден"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "өкүмүм"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "өтүп кетти"
+    }
+  ],
+  "timestamp": "2026-10-05T18:15:29.231616269Z",
+  "model": "glm-5.3"
+}

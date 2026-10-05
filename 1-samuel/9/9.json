@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 9:9",
+  "book": "1-samuel",
+  "lang": "ky",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "көрүүчү",
+      "rationale": "הראה — «көрүүчү», көрүү жөндөмдүүлүгү боюнча аталыш; «пайгамбар» деген кийинки аталыш менен айырмаланып турат"
+    },
+    {
+      "kind": "substitution",
+      "subject": "adam",
+      "gloss_gap": true,
+      "rationale": "האיש — «adam» деген сөз кыргызча «киши» деп берилди, адамдын жалпы аталышы"
+    }
+  ],
+  "translation": "Мурда Йисраэлде Элохимден сурап бараткан adam мындай дечү: «Барып, көрүүчүгө баралы», анткени бүгүн пайгамбар деп аталганга мурда көрүүчү деп аталчу.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "726618519fc0d1fa85f8e84a1328ca3c79d8fc170346a081a5076b45010040cc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-samuel\/9\/9-12.1791206731989.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לפנים",
+      "gloss": "мурда"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Йисраэлде"
+    },
+    {
+      "surface": "כה",
+      "gloss": "мындай"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "дечү"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "adam"
+    },
+    {
+      "surface": "בלכתו",
+      "gloss": "баратканда"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "сурап"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохимден"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "барып"
+    },
+    {
+      "surface": "ונלכה",
+      "gloss": "баралы"
+    },
+    {
+      "surface": "עד",
+      "gloss": "чейин"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "көрүүчүгө"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "לנביא",
+      "gloss": "пайгамбар"
+    },
+    {
+      "surface": "היום",
+      "gloss": "бүгүн"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "деп аталганга"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "мурда"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "көрүүчү"
+    }
+  ],
+  "timestamp": "2026-10-05T13:25:31.990392244Z",
+  "model": "glm-5.3"
+}

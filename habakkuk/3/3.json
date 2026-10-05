@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "habakkuk 3:3",
+  "book": "habakkuk",
+  "lang": "ky",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "סלה",
+      "rationale": "Музыкалык белги, котормо жок — транслитерация 'села' гана."
+    },
+    {
+      "kind": "alternative",
+      "subject": "מתימן",
+      "rationale": "'Тейман' ысым катары алынды; альтернатива — 'түштүктөн', анткени тамыр 'түштүк' дегенди да билдирет."
+    }
+  ],
+  "translation": "Элоах Тейманнан келет, ыйыгы Парар тоосунан — села. Асмандар Анын урматы менен капталган, жер Анын макталы менен толгон.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "3ace61044838b1df432595ac423b3503c7557acbde4d3fd4dd10e2c4c84f31bd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/habakkuk\/3\/1-4.1791214801134.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלוה",
+      "gloss": "Элоах"
+    },
+    {
+      "surface": "מתימן",
+      "gloss": "Тейманнан"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "келет"
+    },
+    {
+      "surface": "וקדוש",
+      "gloss": "ыйыгы"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "тоосунан"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "Парар"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "села"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "капталган"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "асмандар"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "Анын урматы менен"
+    },
+    {
+      "surface": "ותהלתו",
+      "gloss": "Анын макталы менен"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "толгон"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "жер"
+    }
+  ],
+  "timestamp": "2026-10-05T15:40:01.135299714Z",
+  "model": "glm-5.3"
+}

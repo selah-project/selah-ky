@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 26:4",
+  "book": "2-chronicles",
+  "lang": "ky",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "йашар беэйней",
+      "rationale": "'көздөрүндө түз' — 'көзүнө туура' деген еврей идиомасы, сөзмө-сөз сакталды"
+    },
+    {
+      "kind": "substitution",
+      "subject": "йашар",
+      "rationale": "'түз\/тура' деген геометриялык сөз — 'туура' деп берилди"
+    }
+  ],
+  "translation": "Жана ал Яхвенин көзүнө туура болгондо кылды, атасы Аматсыяху кылган нерселердин баарына ылайык.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "7d9a2d034a03135cab36b77fa342f1a2f32669433a2edb137ef85edcdcc7d896",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-chronicles\/26\/1-4.1791223138090.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "кылды"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "туура"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "көзүнө"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "баарына ылайык"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "нераселердин"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "кылган"
+    },
+    {
+      "surface": "אמציהו",
+      "gloss": "Аматсыяху"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "атасы"
+    }
+  ],
+  "timestamp": "2026-10-05T17:58:58.091768902Z",
+  "model": "glm-5.3"
+}

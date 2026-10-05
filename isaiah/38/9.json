@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 38:9",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "айыгып",
+      "rationale": "вфирилган түшүнүк: дагы дагы жаза албайм, 'жана жашаганда' оорусунан кийинки жашоону билдирет"
+    },
+    {
+      "kind": "measurement",
+      "subject": "жазуусу",
+      "rationale": "аят башы жазылып жаткан жазууну (миктав) атап көрсөтөт — бул 9–20 аяттардын башаты"
+    }
+  ],
+  "translation": "Хизкийанын, Йехуданын падышасынын жазуусу — ал ооруганда жана оорусунан айыгып жашаганда.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "393e3593fef042dabaa66e7aee36224055d85f1a4cf129efeac267d2a01dd5cd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/38\/9-12.1791210022624.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מכתב",
+      "gloss": "жазуусу"
+    },
+    {
+      "surface": "לחזקיהו",
+      "gloss": "Хизкийанын"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "падышасы"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Йехуданын"
+    },
+    {
+      "surface": "בחלתו",
+      "gloss": "ооруганда"
+    },
+    {
+      "surface": "ויחי",
+      "gloss": "жана жашаганда"
+    },
+    {
+      "surface": "מחליו",
+      "gloss": "оорусунан"
+    }
+  ],
+  "timestamp": "2026-10-05T14:20:22.625281078Z",
+  "model": "glm-5.3"
+}

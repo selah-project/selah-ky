@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 26:10",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "алардын",
+      "rationale": "אשר сыяктуу — салыштырма атооч алдындағы «кимдин» мааниси кыргызча толук сүйлөм үчүн кошулду"
+    },
+    {
+      "kind": "crux",
+      "subject": "жаман ой",
+      "rationale": "זמה: «жаман ой\/план» (KJV mischief) же «аярлык» (JPS craftiness)"
+    }
+  ],
+  "translation": "Колдорунда жаман ой, оң колдору сатылган акыга толу.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "bb64095c8d6961ad7310034e5f26fb81b670e2336cb45357b400f2954aafad46",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/26\/10-11.1791224423448.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "алардын"
+    },
+    {
+      "surface": "בידיהם",
+      "gloss": "колдорунда"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "жаман ой"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "жана оң колдору"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "толу"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "сатылган акы"
+    }
+  ],
+  "timestamp": "2026-10-05T18:20:23.449110194Z",
+  "model": "glm-5.3"
+}

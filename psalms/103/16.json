@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 103:16",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 103,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "рух",
+      "rationale": "רוח — D2 боюнча ар дайым «рух»; бул жерде шамал мааниси да бар, бирок бир сөз кармалды."
+    },
+    {
+      "kind": "alternative",
+      "subject": "шамал",
+      "rationale": "Контекст (чөп, гүл) боюнча «шамал өтөт» да болот, бирок тил эрежеси бир сөзду талап кылат."
+    }
+  ],
+  "translation": "Анткени анын үстүнөн рух өтөт, жана ал жок болот — жана анын орду аны андан ары тааныбайт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "8fb404682e6fcceec1c0c687951955156f6b0ffe4ebcd9cec163f0f254815c13",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/103\/13-16.1791216978673.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "рух"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "өтөт"
+    },
+    {
+      "surface": "בו",
+      "gloss": "анын үстүнөн"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "ал жок болот"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "жана … эмес"
+    },
+    {
+      "surface": "יכירנו",
+      "gloss": "таныбайт"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "андан ары"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "анын орду"
+    }
+  ],
+  "timestamp": "2026-10-05T16:16:18.674603720Z",
+  "model": "glm-5.3"
+}

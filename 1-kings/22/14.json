@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 22:14",
+  "book": "1-kings",
+  "lang": "ky",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "חי יהוה",
+      "rationale": "Ант формуласы «Яхве тирүү» — кыргызча ант катары сакталды."
+    },
+    {
+      "kind": "addition",
+      "subject": "ошону",
+      "rationale": "אתו ээлик белгиси кыргызча кайчылашма «ошону» менен берилди."
+    }
+  ],
+  "translation": "Жана Микајахуљ айтты: Яхве тирүү! Яхве мага эмне айтса, ⟨את⟩ ошону мен айтамын.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "d3005b2bc7e66d7c92f000b4df28965400d64da230cf025e9b1f6ba649d2a91e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-kings\/22\/13-16.1791208602705.json",
+    "code": "641241cf-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "жана айтты"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "Микајахуљ"
+    },
+    {
+      "surface": "חי",
+      "gloss": "тирүү"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чын эле"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ашер Яхве айткан нерсе"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "эмне"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "айтса"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "мага"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ошону"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "айтамын"
+    }
+  ],
+  "timestamp": "2026-10-05T13:56:42.706010033Z",
+  "model": "glm-5.3"
+}

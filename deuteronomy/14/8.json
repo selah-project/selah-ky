@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 14:8",
+  "book": "deuteronomy",
+  "lang": "ky",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "таза эмес",
+      "rationale": "טמא — «булганган, тыйылган» маанисинде"
+    },
+    {
+      "kind": "you",
+      "subject": "Йисраэлге",
+      "rationale": "Чочко тууралуу тыйуу тікелей Йисраэлге айтылат"
+    }
+  ],
+  "translation": "Жана ⟨את⟩ чочкону — анткени ал туягын ажыратат, бирок кайра чайналган тамакты кайтарбайт — ал силерге таза эмес; этинен жейсиңерби? жок, этинен жей албайсыңар, жана өлүгүнө тийбеңер.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "97825781facfb1fcb05fbe0c2a2ebb9533495643192486c6f4346725f79557e6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/14\/5-8.1791205043401.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "чочкону"
+    },
+    {
+      "surface": "החזיר",
+      "gloss": "чочко"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "ажыратат"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "туяк"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ал"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "бирок жок"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "кайра чайналган тамак"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "таза эмес"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ал"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "силерге"
+    },
+    {
+      "surface": "מבשרם",
+      "gloss": "этинен"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "жейсиңер"
+    },
+    {
+      "surface": "ובנבלתם",
+      "gloss": "жана өлүгүнө"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "тийбеңер"
+    }
+  ],
+  "timestamp": "2026-10-05T12:57:23.402771484Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 13:19",
+  "book": "job",
+  "lang": "ky",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "азыр",
+      "rationale": "עתה 'азыр': шарттык окуу 'унчукпасам өлөмүн' (KJV, Geneva) же анык азыркы 'унчукпай өлөмүн' (YLT)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "жан тартамын",
+      "rationale": "ואגוע 'дем чыгарам' — 'жан тартамын' деген кыргызча идиома"
+    }
+  ],
+  "translation": "Ким ал мага каршы талаша алат? анткени азыр мен унчукпай, жан тартамын.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "af8155e1ebacaefae083116b7972d514a09ef593f1a17cd829fbf19eda2cc4e8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/job\/13\/17-20.1791218803568.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ким"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ал"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "талаша алат"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "мага каршы"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "азыр"
+    },
+    {
+      "surface": "אחריש",
+      "gloss": "унчукпай"
+    },
+    {
+      "surface": "ואגוע",
+      "gloss": "жан тартамын"
+    }
+  ],
+  "timestamp": "2026-10-05T16:46:43.569746331Z",
+  "model": "glm-5.3"
+}

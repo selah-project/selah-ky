@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 36:19",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "איה x2",
+      "rationale": "'Каякта?' суроо эки жолу кайталанат — масылдатуу ритми."
+    },
+    {
+      "kind": "crux",
+      "subject": "וכי",
+      "rationale": "'жана эмне... беле?' же 'кантип алар... куткарышкан?' — суроо же табышмак катары окулат."
+    }
+  ],
+  "translation": "Каякта Хаматтын жана Арпаддын кудайлары? Каякта Сепарвайимдин кудайлары? Алар Шомронду ⟨את⟩ менин колумдан куткарган беле?",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "8881f14b30031a125d43260bb96bd7300760a5d2775bf4b6cd091b70ec8f92c3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/36\/17-20.1791210061175.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "איה",
+      "gloss": "каякта"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "кудайлары"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Хаматтын"
+    },
+    {
+      "surface": "וארפד",
+      "gloss": "жана Арпаддын"
+    },
+    {
+      "surface": "איה",
+      "gloss": "каякта"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "кудайлары"
+    },
+    {
+      "surface": "ספרוים",
+      "gloss": "Сепарвайимдин"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "жана эмне"
+    },
+    {
+      "surface": "הצילו",
+      "gloss": "куткарган беле"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Шомронду"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Шомронду"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "менин колумдан"
+    }
+  ],
+  "timestamp": "2026-10-05T14:21:01.176495676Z",
+  "model": "glm-5.3"
+}

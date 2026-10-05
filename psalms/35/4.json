@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 35:4",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жаным",
+      "rationale": "«жанымды издегендер» — נפש бул жерде «жашоо\/жан» маанисинде; «жаныма коруксал тилегендер» да мүмкүн."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יבשו\/ויחפרו",
+      "rationale": "Эки «уял» этиштин параллелдүү кайра келиши — еврей ыр түзүлүшүнүн өзөгү."
+    }
+  ],
+  "translation": "Уялышсын жана шылдыңдалышсын жанымды издегендер; артка чегинишсин жана маскара болушсун менин жамандыгымды ойлогондор.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "9e54e0c61676270b7f5d6b5458d264a714ab9888762ce540cc682511ab34a194",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/35\/1-4.1791215878475.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "уялышсын"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "шылдыңдалышсын"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "издегендер"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "жанымды"
+    },
+    {
+      "surface": "יסגו",
+      "gloss": "чегинишсин"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "артка"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "маскара болушсун"
+    },
+    {
+      "surface": "חשבי",
+      "gloss": "ойлогондор"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "менин жамандыгымды"
+    }
+  ],
+  "timestamp": "2026-10-05T15:57:58.476738917Z",
+  "model": "glm-5.3"
+}

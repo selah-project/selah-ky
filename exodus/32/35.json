@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 32:35",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "мүйүздүү бузуу",
+      "rationale": "העגל — «бузуу (мушук)»: жаш өгүз, кыргызча сөзмө-сөз сүрөт берүү үчүн."
+    },
+    {
+      "kind": "crux",
+      "subject": "על אשר",
+      "rationale": "«анткени алар жасашкан» же «алар жасаганы үчүн» — жаза бузууну жасоонун өзү үчүн же Ахарон жасаганы үчүн берилген."
+    }
+  ],
+  "translation": "Жана Яхве элди сабады, анткени алар Ахарон жасаган мүйүздүү бузууну жасашкан.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "5dd0d8af5437b86c6b201ab3e74e916ee98ad021afa9f31210a1f62723d2a299",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/32\/33-35.1791202554370.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויגף",
+      "gloss": "Жана ... сабады"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "элди"
+    },
+    {
+      "surface": "העם",
+      "gloss": "эл"
+    },
+    {
+      "surface": "על",
+      "gloss": "анткени ... үчүн"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "...ну"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "жасашкан"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "мүйүздүү бузууну"
+    },
+    {
+      "surface": "העגל",
+      "gloss": "мүйүздүү бузуу"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "...ну"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "жасаган"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Ахарон"
+    }
+  ],
+  "timestamp": "2026-10-05T12:15:54.371353825Z",
+  "model": "glm-5.3"
+}

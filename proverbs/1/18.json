@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 1:18",
+  "book": "proverbs",
+  "lang": "ky",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "өз",
+      "rationale": "Ивритте «өз» деген жок — «алардын каны», «алардын жаны»; кыргызча тактык үчүн кошулду"
+    },
+    {
+      "kind": "irony",
+      "subject": "blood\/lives",
+      "rationale": "Башкалардын канын төккүсү келгендер өз канын, өз жанын куят — текст каармандарды айтат"
+    }
+  ],
+  "translation": "Жана алар ⟨өз⟩ кандарын күтүп жатышат, ⟨өз⟩ жандарын жашырышат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "0e6153acecaa17d94848af4fce10916f8da89ec58f02b98bb040025c45b26ca1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/1\/17-20.1791217714863.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "жана алар"
+    },
+    {
+      "surface": "לדמם",
+      "gloss": "кандарын"
+    },
+    {
+      "surface": "יארבו",
+      "gloss": "күтүп жатышат"
+    },
+    {
+      "surface": "יצפנו",
+      "gloss": "жашырышат"
+    },
+    {
+      "surface": "לנפשתם",
+      "gloss": "жандарын"
+    }
+  ],
+  "timestamp": "2026-10-05T16:28:34.864480508Z",
+  "model": "glm-5.3"
+}

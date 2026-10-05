@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 34:5",
+  "book": "2-chronicles",
+  "lang": "ky",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "сөөктөр",
+      "rationale": "עצמות — сөөк, бул жерде өлгөн ыйкчылардын калдыгы; кыйыр мааниде «заты» да болот"
+    }
+  ],
+  "translation": "Жана ыйкчылардын сөөктөрүн алардын курмандык чартеринин үстүнө өрттөдү, жана Яхуда ⟨את⟩ менен ⟨את⟩ Йерушалайимди тазалады.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "261d8261f136a4af713a37ab7c9e3b06b2f33404cf8f0dfb9dc10eed59bd6fcd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-chronicles\/34\/5-8.1791223472873.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועצמות",
+      "gloss": "жана ... сөөктөрүн"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "ыйкчылардын"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "өрттөдү"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстүнө"
+    },
+    {
+      "surface": "מזבחותים",
+      "gloss": "алардын курмандык чартеринин"
+    },
+    {
+      "surface": "ויטהר",
+      "gloss": "жана ... тазалады"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яхуда"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Яхуда"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "менен ⟨את⟩",
+      "marks": "Йерушалайим"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Йерушалайимди"
+    }
+  ],
+  "timestamp": "2026-10-05T18:04:32.874467301Z",
+  "model": "glm-5.3"
+}

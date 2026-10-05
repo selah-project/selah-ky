@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 10:14",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "таянады",
+      "rationale": "עליך יעזב חלכה: 'бечара Сага өзүн тапшырат' же 'Сага таянады' — 'калтыруу' этишинин мааниси талаштуу"
+    },
+    {
+      "kind": "substitution",
+      "subject": "зордук-зыйнат",
+      "rationale": "כעס — 'ачуу, ызаа'; кыргызча 'зордук-зыйнат' контекстке ылайыкталды"
+    }
+  ],
+  "translation": "Сен ⟨аны⟩ көрдүң, анткени Сен эмгекти жана зордук-зыйнатты көрөсүң, Өз колуң менен кайтаруу үчүн; бечара Сага таянады; жетимге Сен жардамчы болдуң.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "549ce693d1e1b1e50f58625af352304a3c696adc998471ab71676bd3970e9b23",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/10\/13-16.1791215460123.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ראתה",
+      "gloss": "көрдүң"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Сен"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "эмгекти"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "жана зордук-зыйнатты"
+    },
+    {
+      "surface": "תביט",
+      "gloss": "көрөсүң"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "кайтаруу үчүн"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "Өз колуң менен"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "Сага"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "таянады"
+    },
+    {
+      "surface": "חלכה",
+      "gloss": "бечара"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "жетимге"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Сен"
+    },
+    {
+      "surface": "היית",
+      "gloss": "болдуң"
+    },
+    {
+      "surface": "עוזר",
+      "gloss": "жардамчы"
+    }
+  ],
+  "timestamp": "2026-10-05T15:51:00.124511242Z",
+  "model": "glm-5.3"
+}

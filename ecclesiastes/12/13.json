@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 12:13",
+  "book": "ecclesiastes",
+  "lang": "ky",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כל האדם",
+      "rationale": "'бүт адамзаттык милдет' (KJV\/Geneva 'whole duty') менен 'бүт адам' (JPS\/YLT 'the whole of man') деген варианттар; жөнөкөй түз маани — 'бүт адам'."
+    },
+    {
+      "kind": "addition",
+      "subject": "—",
+      "rationale": "Копула жок, кыргызча дефис менен берилди."
+    },
+    {
+      "kind": "invitation",
+      "subject": "окурманга",
+      "rationale": "Китептин жыйынтык чакырыгы: угузуу жана буйрук формалары менен айтылат."
+    }
+  ],
+  "translation": "Сөздүн акыры: баары угулду — Элохимден корк жана ⟨את⟩ Анын буйруктарын сакта, анткени бул — бүт адам.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "f54211c6719b6fd9a8034a900125db913846010ef32518f189808d8dc58e8d62",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ecclesiastes\/12\/13-14.1791220172441.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "סוף",
+      "gloss": "акыры"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сөздүн"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "баары"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "угулду"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Элохим"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "корк"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "жана ⟨את⟩",
+      "marks": "Анын буйруктарын"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "Анын буйруктарын"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "сакта"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "זה",
+      "gloss": "бул"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүт"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "адам"
+    }
+  ],
+  "timestamp": "2026-10-05T17:09:32.442298386Z",
+  "model": "glm-5.3"
+}

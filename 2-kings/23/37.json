@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "2-kings 23:37",
+  "book": "2-kings",
+  "lang": "ky",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "בעיני יהוה",
+      "rationale": "«Яхвенин көздөрүндө» — еврей идиомасы, кыргызча «Яхвенин алдында \/ көзүнө» деп берилди, сөзмө-сөз сакталды."
+    },
+    {
+      "kind": "addition",
+      "subject": "ал",
+      "rationale": "Этиштин ээси — Жехоаким (23:36) — еврей текстинде жок, кыргыз тили талап кылат."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ата-бабалары",
+      "rationale": "אבתיו сөзмө-сөз «анын аталары» — кыргызча «ата-бабалары» табигыйраак."
+    }
+  ],
+  "translation": "Жана ал Яхвенин көздөрүнө жамандык кылды, ата-бабалары кылган нерселердин баарына ылайык.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "bf003afed89d921dbb8d9b124e77e6481322767b589ff9e0bd6a5fecf12dd32b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-kings\/23\/37-37.1791209265515.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "жана ал кылды"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "жамандык"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "көздөрүндө"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "баарына ылайык"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "эмне"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "кылган"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "ата-бабалары"
+    }
+  ],
+  "timestamp": "2026-10-05T14:07:45.515751722Z",
+  "model": "glm-5.3"
+}

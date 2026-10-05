@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 16:1",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "מכתם",
+      "rationale": "Миктам — белгисиз аты бар ыр түрү; котормо эмес, айтылышы боюнча сакталды."
+    },
+    {
+      "kind": "you",
+      "subject": "Давид",
+      "rationale": "Аят Элге түз кайрылуу менен башталат: «Мени сактагын»."
+    }
+  ],
+  "translation": "Миктам, Давидге тиешелүү. Мени сактагын, Эл, анткени Сага паналадым.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "dac7418744feaab5a3e0868637f42acc9b8efebf12029a003f62e88da584ce76",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/16\/1-4.1791215451751.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מכתם",
+      "gloss": "Миктам"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давидге тиешелүү"
+    },
+    {
+      "surface": "שמרני",
+      "gloss": "Мени сактагын"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эл"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "паналадым"
+    },
+    {
+      "surface": "בך",
+      "gloss": "Сага"
+    }
+  ],
+  "timestamp": "2026-10-05T15:50:51.752315778Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 19:11",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Алар",
+      "rationale": "Ивритте атооч жок — алдыңкы аяттагы өкүмдөргө тиешелүү «алар» кошулду."
+    },
+    {
+      "kind": "hapax",
+      "subject": "צופים",
+      "rationale": "«Уяңдагы бал» деген сейрек сөз, титулдаш түрү кездешет."
+    }
+  ],
+  "translation": "Алар алтындан, көп таза алтындан да каалоого татыктуу; балдан жана уяңдан тамган балдан да таттуу.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "e3d8b64492fb67098dda35d7fd6715c9c7d301a740cbcebad64c390821f8f3e6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/19\/9-12.1791215552080.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנחמדים",
+      "gloss": "каалоого татыктуу"
+    },
+    {
+      "surface": "מזהב",
+      "gloss": "алтындан"
+    },
+    {
+      "surface": "ומפז",
+      "gloss": "таза алтындан"
+    },
+    {
+      "surface": "רב",
+      "gloss": "көп"
+    },
+    {
+      "surface": "ומתוקים",
+      "gloss": "таттуу"
+    },
+    {
+      "surface": "מדבש",
+      "gloss": "балдан"
+    },
+    {
+      "surface": "ונפת",
+      "gloss": "тамган балдан"
+    },
+    {
+      "surface": "צופים",
+      "gloss": "уяңдан"
+    }
+  ],
+  "timestamp": "2026-10-05T15:52:32.081769880Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 5:2",
+  "book": "hosea",
+  "lang": "ky",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "тарбия-жаза",
+      "rationale": "מוסר: 'тарбия\/жаза' (KJV 'rebuker', ASV) же 'кайыш\/байлам' деген мааниде 'факыйа' (YLT 'fetter', башка тамыр στερητικός окшуум); JPS 'Мен алардын баарынан четке кагылдым' деп окуйт."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שטים \/ שחטה",
+      "rationale": "шет\/шахат үндөштүгү — 'терс жол' жана 'союу' тамырларынын айкашы кыргызча жоголуп калат."
+    },
+    {
+      "kind": "substitution",
+      "subject": "терс жол баруучулар",
+      "rationale": "שטים туура жолдон тайгандар — 'козголоңчулар' (KJV 'revolters') да болот."
+    }
+  ],
+  "translation": "Жана союуго — терс жол баруучулар тереңдеп кетишти, жана Мен алардын баарына тарбия-жаза болмокмун.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "2b589ec0ff0ad2b7d454acc93bb2d7849a3a3082992abda93e1321280943c471",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/hosea\/5\/1-4.1791213922946.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושחטה",
+      "gloss": "жана союу"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "терс жол баруучулар"
+    },
+    {
+      "surface": "העמיקו",
+      "gloss": "тереңдеп кетишти"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "жана Мен"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "тарбия-жаза"
+    },
+    {
+      "surface": "לכלם",
+      "gloss": "алардын баарына"
+    }
+  ],
+  "timestamp": "2026-10-05T15:25:22.947539083Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 8:4",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "бармактарыңдын иштерин",
+      "rationale": "מעשי אצבעתיך — «бармактарыңдын эмгектери», ээлик байланышы мүчө менен берилди"
+    },
+    {
+      "kind": "alternative",
+      "subject": "көрөмүн",
+      "rationale": "אראה Cohortative «көрөйүн» да болушу мүмкүн (Geneva: When I beholde); жөнөкөй келер чак тандалды"
+    }
+  ],
+  "translation": "Себеби мен Сенин асмандарыңды көрөмүн — Сенин бармактарыңдын иштерин; айды жана жылдыздарды, аларды Сен бекем тургуздуң.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "6a6c2f52fd99c85af060df0d891eca0772a9f08a156742440f7d3fb3d35f6a97",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/8\/1-4.1791215356801.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Себеби"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "көрөмүн"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "асмандарыңды"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "иштерин"
+    },
+    {
+      "surface": "אצבעתיך",
+      "gloss": "бармактарыңдын"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "айды"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "жана жылдыздарды"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "аларды"
+    },
+    {
+      "surface": "כוננתה",
+      "gloss": "бекем тургуздуң"
+    }
+  ],
+  "timestamp": "2026-10-05T15:49:16.803106208Z",
+  "model": "glm-5.3"
+}

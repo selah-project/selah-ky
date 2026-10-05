@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 1:1",
+  "book": "ecclesiastes",
+  "lang": "ky",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Коҳелет",
+      "rationale": "קֹהֶלֶת — «чогултуучу» деген ысым, титул катары еврейче айтылышында сакталды"
+    }
+  ],
+  "translation": "Коҳелеттин сөздөрү — Давиддин уулу, Йерушалайимдеги падыша.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "afe5a10b8e4d5804652009388f716bf5e3c9dd731419a59f6bb831e8b5edcc8c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ecclesiastes\/1\/1-4.1791219986466.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "сөздөрү"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Коҳелеттин"
+    },
+    {
+      "surface": "בן",
+      "gloss": "уулу"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давиддин"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "падыша"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Йерушалайимдеги"
+    }
+  ],
+  "timestamp": "2026-10-05T17:06:26.466770540Z",
+  "model": "glm-5.3"
+}

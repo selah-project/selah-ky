@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 1:5",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "סרה",
+      "rationale": "«баш тартуу» (апостазия) же «терс жолго тайуу» — YLT «кошулуп жатасыңар» деп чечмелейт, KJV «кароо» деп."
+    },
+    {
+      "kind": "you",
+      "subject": "сиздер",
+      "rationale": "Israelге түз кайрылуу — сот сөзүнүн башы."
+    },
+    {
+      "kind": "substitution",
+      "subject": "לחלי",
+      "rationale": "«ооруу кармады» — лексика еврейче «оору, апат» деген сөздүн маанисин ачат."
+    }
+  ],
+  "translation": "Дагы эмне үчүн сиздер урулгулайсыңар? Дагы баш тартууга кошулуп жатасыңар. Бүт баш ооруу кармады, жана бүт жүрөк ыздап ооруйт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "818241d23022fe02b67d7d043b9190ccc1e32e753c10d71bf5b6f521c7bc6dd2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/1\/5-8.1791209340718.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "үчүн"
+    },
+    {
+      "surface": "מה",
+      "gloss": "эмне"
+    },
+    {
+      "surface": "תכו",
+      "gloss": "урулгулайсыңар"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "дагы"
+    },
+    {
+      "surface": "תוסיפו",
+      "gloss": "кошулуп жатасыңар"
+    },
+    {
+      "surface": "סרה",
+      "gloss": "баш тартууга"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүт"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "баш"
+    },
+    {
+      "surface": "לחלי",
+      "gloss": "ооруу кармады"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "жана бүт"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "жүрөк"
+    },
+    {
+      "surface": "דוי",
+      "gloss": "ыздап ооруйт"
+    }
+  ],
+  "timestamp": "2026-10-05T14:09:00.719498403Z",
+  "model": "glm-5.3"
+}

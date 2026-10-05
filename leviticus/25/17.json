@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 25:17",
+  "book": "leviticus",
+  "lang": "ky",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "эч кимисиңер",
+      "rationale": "Иврит תונו жөнөкөй 2-жамаат формасында; кыргызча «жамаат ичинен ар бир адам» мааниси ачыкталды"
+    },
+    {
+      "kind": "substitution",
+      "subject": "жакын",
+      "rationale": "עמית — «жакын, өз эли менен теңдеш адам»; көпчүлүк котормолор «бири-бирин» деп алат"
+    },
+    {
+      "kind": "you",
+      "subject": "Йисраэл эли",
+      "rationale": "Аят Яхвенин элине түз кайрылуу — буйрук жана коркуу чакырыгы"
+    }
+  ],
+  "translation": "Жана эч кимисиңер ⟨את⟩ өз жакыныңарды зордобогула, жана Өз Элохимиңден коркогула, анткени Мен — Яхве, Элохимиңер.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "a431c7e21a0c3391dca146a9d882b362a1230afbf440704e41c90fb4c5af69f8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/25\/17-20.1791203433999.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "жана... жок"
+    },
+    {
+      "surface": "תונו",
+      "gloss": "зордогула"
+    },
+    {
+      "surface": "איש",
+      "gloss": "эч кимисиңер"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "өз жакыныңарды"
+    },
+    {
+      "surface": "עמיתו",
+      "gloss": "өз жакыныңарды"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "жана коркогула"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "Өз Элохимиңден"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Мен"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Элохимиңер"
+    }
+  ],
+  "timestamp": "2026-10-05T12:30:34.000070695Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 26:9",
+  "book": "leviticus",
+  "lang": "ky",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Мен",
+      "rationale": "Еврейче этиштин жак мүчөсүнө камтылган, кыргызча айрым ат атооч талап кылат"
+    },
+    {
+      "kind": "elision",
+      "subject": "אתכם (акыркысы)",
+      "rationale": "Бул жерде את H854 предлог — «менен», ⟨את⟩ белгиси эмес"
+    }
+  ],
+  "translation": "Мен силерге бурулам, силерди мөңгүлүү кылам, силерди көбөйтөм жана Өз келишимимди силер ⟨את⟩ менен орнотом.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "ca5cb799880e3020fe7e5e6cfd22135baf1e22751de7a52fe3de4b29c7d313db",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/26\/9-12.1791203449621.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ופניתי",
+      "gloss": "бурулам"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "силерге"
+    },
+    {
+      "surface": "והפריתי",
+      "gloss": "мөңгүлүү кылам"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ силерди"
+    },
+    {
+      "surface": "והרביתי",
+      "gloss": "көбөйтөм"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ силерди"
+    },
+    {
+      "surface": "והקימתי",
+      "gloss": "орнотом"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "келишимимди"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "келишимимди"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ менен"
+    }
+  ],
+  "timestamp": "2026-10-05T12:30:49.621948839Z",
+  "model": "glm-5.3"
+}

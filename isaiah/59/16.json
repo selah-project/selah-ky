@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 59:16",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 59,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨Ал⟩",
+      "rationale": "Кыргызча этиштин субъектиси керек, еврейче жок."
+    },
+    {
+      "kind": "substitution",
+      "subject": "кол",
+      "rationale": "זרוע «кол» — күчтүн символу, «билек» эмес «кол» деп алынды."
+    },
+    {
+      "kind": "crux",
+      "subject": "арачалап турган",
+      "rationale": "מפגיע — «кайрылган\/тышкы күчкө тийген»; «аралашуучу», «дууба кылган» деген варианттар бар."
+    },
+    {
+      "kind": "substitution",
+      "subject": "цедек",
+      "rationale": "צדקתו аталыш боюнча «цедек» деп сакталды (D2)."
+    }
+  ],
+  "translation": "Жана ⟨Ал⟩ эч бир адам жок экенин көрдү жана арачалап турган жок экенине таң калды; ошондуктан Анын өз колу Ага жардам берди, жана Анын цедеги — Аны кармап турду.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "206f249565ec8a57458fe3fb49d77446b3cf1344ccab4ab18c4bb7298c24f998",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/59\/13-16.1791210546477.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "жана көрдү"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "אין",
+      "gloss": "жок"
+    },
+    {
+      "surface": "איש",
+      "gloss": "адам"
+    },
+    {
+      "surface": "וישתומם",
+      "gloss": "жана таң калды"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "אין",
+      "gloss": "жок"
+    },
+    {
+      "surface": "מפגיע",
+      "gloss": "арачалап турган"
+    },
+    {
+      "surface": "ותושע",
+      "gloss": "жана жардам берди"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Ага"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "Анын колу"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "жана Анын цедеги"
+    },
+    {
+      "surface": "היא",
+      "gloss": "—"
+    },
+    {
+      "surface": "סמכתהו",
+      "gloss": "Аны кармап турду"
+    }
+  ],
+  "timestamp": "2026-10-05T14:29:06.478527639Z",
+  "model": "glm-5.3"
+}

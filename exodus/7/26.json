@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 7:26",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Параонго",
+      "rationale": "Буйрук Параонго түз кайрылуу менен айтылат"
+    },
+    {
+      "kind": "substitution",
+      "subject": "сыйынсын",
+      "rationale": "ועבדנӣ — кызмат кылуу, сыйынуу маанисинде; кыргызча бир сөз менен берилди"
+    }
+  ],
+  "translation": "Жана Яхве Мошеге айтты: Параонго бар жана ага айт: «Мындай дейт Яхве: ⟨את⟩ элимди жибер, алар мага сыйынсын».",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "847c5810df541a81d97261880f398d395ae14ced2fff856c538f5e4132ee9b14",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/7\/25-28.1791201992048.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Жана ... айтты"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Мошеге"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "בא",
+      "gloss": "бар"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Параонго"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Параон"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "жана айт"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ага"
+    },
+    {
+      "surface": "כה",
+      "gloss": "мындай"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "дейт"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "жибер"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "элимди"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "элимди"
+    },
+    {
+      "surface": "ויעבדני",
+      "gloss": "алар мага сыйынсын"
+    }
+  ],
+  "timestamp": "2026-10-05T12:06:32.049502675Z",
+  "model": "glm-5.3"
+}

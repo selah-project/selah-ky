@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 51:17",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Адонайга",
+      "rationale": "Давиддин Адонайге тикелей догуругу — эриндерди ачууну сурануу."
+    },
+    {
+      "kind": "addition",
+      "subject": "-саң",
+      "rationale": "Ивритте буйрук формада (תפתח), кыргызча шарттуу -саң мүчөсү кошулду."
+    }
+  ],
+  "translation": "Адонай, эриндеримди ачсаң, оозум Сенин мактооңду билдирет.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "01a448002bf81ede559e3a8e2da5a496bb26d9544bf329aa8a6254a3171b2918",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/51\/17-20.1791216173317.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "эриндеримди"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "ачсаң"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "жана оозум"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "билдирет"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "Сенин мактооңду"
+    }
+  ],
+  "timestamp": "2026-10-05T16:02:53.317493003Z",
+  "model": "glm-5.3"
+}

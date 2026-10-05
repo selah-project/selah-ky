@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 7:14",
+  "book": "deuteronomy",
+  "lang": "ky",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "тукумсуз",
+      "rationale": "עקר\/עקרה — 'түпкүрү үзүлгөн' сүрөттөө; кыргызча 'тукумсуз' сөзү форманы жоготот"
+    },
+    {
+      "kind": "addition",
+      "subject": "эркек да, аял да",
+      "rationale": "еврейче жөн гана эки сөз: עקר ועקרה; кыргызча тизмекти тактоо үчүн 'да' кошулду"
+    }
+  ],
+  "translation": "Бардык элдерден артык баталанасың; сенде тукумсуз эркек да, тукумсуз аял да, малдарыңдын ичинде да болбойт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "44eef7ea7cde91d9cc2426dccee8e8fb8792a0e067dd5db884dfd61cb4335a84",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/7\/13-16.1791204857728.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "баталанасың"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "болосун"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "бардык элдерден"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "элдерден"
+    },
+    {
+      "surface": "לא",
+      "gloss": "болбойт"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "болбойт"
+    },
+    {
+      "surface": "בך",
+      "gloss": "сенде"
+    },
+    {
+      "surface": "עקר",
+      "gloss": "тукумсуз эркек"
+    },
+    {
+      "surface": "ועקרה",
+      "gloss": "тукумсуз аял"
+    },
+    {
+      "surface": "ובבהמתך",
+      "gloss": "малдарыңдын ичинде"
+    }
+  ],
+  "timestamp": "2026-10-05T12:54:17.729373983Z",
+  "model": "glm-5.3"
+}

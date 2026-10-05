@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 8:8",
+  "book": "1-chronicles",
+  "lang": "ky",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אתם",
+      "rationale": "Этиштин объектиси — аялдарыбы (KJV, JPS) же мурунку муундарбы — эки окуу бар."
+    },
+    {
+      "kind": "elision",
+      "subject": "мин",
+      "gloss": "даражасыз предлог, «...дан кийин» түрүндө бириктирилди."
+    }
+  ],
+  "translation": "Жана Шахарейм Моаб талаасында ⟨את⟩ аларды — Хушимди жана ⟨את⟩ Баараны, аялын — таштап жибергенден кийин балалуу болду.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "e76b22e0627a4ad16b6ffa23e9907de17a283bef0d312cbb6d88aec91c7162b9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-chronicles\/8\/5-8.1791221915920.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושחרים",
+      "gloss": "жана Шахарейм"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "балалуу болду"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "таласында"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моаб"
+    },
+    {
+      "surface": "מן",
+      "gloss": "...дан кийин"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "таштап жибергенден"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ аларды",
+      "marks": "Хушимди жана Баараны"
+    },
+    {
+      "surface": "חושים",
+      "gloss": "Хушимди"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "жана ⟨את⟩",
+      "marks": "Баараны"
+    },
+    {
+      "surface": "בערא",
+      "gloss": "Баараны"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "аялын"
+    }
+  ],
+  "timestamp": "2026-10-05T17:38:35.921576121Z",
+  "model": "glm-5.3"
+}

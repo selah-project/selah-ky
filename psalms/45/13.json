@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 45:13",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "жүзүңдү жалынышат",
+      "rationale": "Иврейче פניך יחלו — 'жүзүңдү жасалашат' (Piel 'жалынуу, ыраазы кылуу' маанисинде)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "минха",
+      "rationale": "מנחה көнүп калган 'белек' деп берилбейт — минха атайын сакталат"
+    }
+  ],
+  "translation": "И Цордун кызы минха ⟨менен⟩ ⟨ал жерде⟩; элдин байлары жүзүңдү жалынышат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "93c3c4f42fc18c2bacbe957f23f284e141d83dbd9849018b792aac39529388e5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/45\/13-16.1791216102919.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובת",
+      "gloss": "И Цордун кызы"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Цор"
+    },
+    {
+      "surface": "במנחה",
+      "gloss": "минха ⟨менен⟩"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "жүзүңдү"
+    },
+    {
+      "surface": "יחלו",
+      "gloss": "жалынышат"
+    },
+    {
+      "surface": "עשירי",
+      "gloss": "байлары"
+    },
+    {
+      "surface": "עם",
+      "gloss": "элдин"
+    }
+  ],
+  "timestamp": "2026-10-05T16:01:42.920262796Z",
+  "model": "glm-5.3"
+}

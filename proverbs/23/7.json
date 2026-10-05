@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 23:7",
+  "book": "proverbs",
+  "lang": "ky",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שער",
+      "rationale": "'Эсептөөчү\/өлчөөчү' (дарбаза көрүүчү, баа берүүчү) — KJV 'ойлойт' деп жумшарткан; JPS 'эсептеди' дейт."
+    },
+    {
+      "kind": "substitution",
+      "subject": "негизи",
+      "rationale": "נפש 'жан\/дем-алым' — 'жан-жүрөк' деп берилди; кыргызча 'жанында' өтө кыска болот."
+    },
+    {
+      "kind": "you",
+      "subject": "окурманга",
+      "rationale": "«Жеп кой, ичип кой» — башка адамдын окурманга кайрылуусу."
+    }
+  ],
+  "translation": "Анткени жан-жүрөгүндө өлчөп-эсептегендей ошондой: «Жеп кой, ичип кой», — дейт саған, бирок анын жүрөгү саған менен эмес.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "3a19efeb16716e587f5348d891244f4e882322d6bd267df8a6fe000130f503c8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/23\/5-8.1791218310092.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "сыяктуу"
+    },
+    {
+      "surface": "שער",
+      "gloss": "өлчөп-эсептеген"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "жан-жүрөгүндө"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ошондой"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ал"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "жеп кой"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "ичип кой"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "дейт"
+    },
+    {
+      "surface": "לך",
+      "gloss": "саған"
+    },
+    {
+      "surface": "ולבו",
+      "gloss": "жүрөгү"
+    },
+    {
+      "surface": "בל",
+      "gloss": "эмес"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "саған менен"
+    }
+  ],
+  "timestamp": "2026-10-05T16:38:30.093509130Z",
+  "model": "glm-5.3"
+}

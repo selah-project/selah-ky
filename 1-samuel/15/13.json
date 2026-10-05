@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 15:13",
+  "book": "1-samuel",
+  "lang": "ky",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ברוך אתה ליהוה",
+      "rationale": "букв. «благословен ты для Яхве» — приветственная формула, кыргызча «Яхвенин алкышы сенике»"
+    },
+    {
+      "kind": "substitution",
+      "subject": "הקימתי",
+      "rationale": "букв. «тургуздум» (сөздү тургузуу), «аткардым» катары берилди"
+    }
+  ],
+  "translation": "Шемуел Шаулга келди, жана Шаул ага айтты: Яхвенин алкышы сенике, мен Яхвенин ⟨את⟩ сөзүн аткардым.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "64f6b23e9e4bda68d58523a183acf2dba524eb37cf629dbcd8bf09d9d85e35ac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-samuel\/15\/13-16.1791206915491.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "келди"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Шемуел"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…га"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "жана айтты"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ага"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "алкыштуу"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "сен"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхвенин"
+    },
+    {
+      "surface": "הקימתי",
+      "gloss": "аткардым"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сөзүн"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сөзүн"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    }
+  ],
+  "timestamp": "2026-10-05T13:28:35.492287961Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 44:5",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נחש ינחש",
+      "rationale": "Инфинитив абсолют: «жоруган жоруйт» — эки тамыр сөз бир этиштин күчүн эки эселенет, кыргызча бул ыргак жоголот."
+    },
+    {
+      "kind": "crux",
+      "subject": "сыйкырлап жоруган",
+      "rationale": "נחש — «сыйкыр менен түш жоруу»: ким жоруйт — Йосуп жана идишпи, же идиш өзүпі, котормолорду айырмаланат."
+    },
+    {
+      "kind": "substitution",
+      "subject": "жасаган нерсенде",
+      "rationale": "Буквально «жасаганыңарда жамандык кылдыңар» — еврейче «нерсе» сөзү жок."
+    }
+  ],
+  "translation": "Бул эмеспи — мырзам аны менен ичкен, жана ал аны менен сыйкырлап жоруган? Силер жасаган нерсенде жамандык кылдыңар.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "1d3707164a78e164cdcb522a49abb977a8e9d87473a42276601baedb5b3f8238",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/44\/5-8.1791201668675.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "эмеспи"
+    },
+    {
+      "surface": "זה",
+      "gloss": "бул"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "-ган"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "ичкен"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "мырзам"
+    },
+    {
+      "surface": "בו",
+      "gloss": "аны менен"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "жана ал"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "сыйкырлап"
+    },
+    {
+      "surface": "ינחש",
+      "gloss": "жоруган"
+    },
+    {
+      "surface": "בו",
+      "gloss": "аны менен"
+    },
+    {
+      "surface": "הרעתם",
+      "gloss": "жамандык кылдыңар"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "-ган"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "жасаган"
+    }
+  ],
+  "timestamp": "2026-10-05T12:01:08.676286315Z",
+  "model": "glm-5.3"
+}

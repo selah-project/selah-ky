@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 25:6",
+  "book": "leviticus",
+  "lang": "ky",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Шаббат",
+      "rationale": "שבת הארץ — 'жердин Шаббаты' туура эле, 'жердин эс алуусу' эмес: бул — Шаббаттагы эреже жерде да кармалат"
+    }
+  ],
+  "translation": "Жана жердин Шаббаты силерге азык болсун — сага, жана кулуңа, жана күңүңө, жана жалданган жумушчуңа, жана өзүң менен жашаган чет элдик конуштууларга.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "a41bade2eac609d4621619da794c6d8244eac84883d27511db8ea86e6074f80d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/25\/5-8.1791203415518.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "Жана ... болсун"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Шаббаты"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "жердин"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "силерге"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "азык"
+    },
+    {
+      "surface": "לך",
+      "gloss": "сага"
+    },
+    {
+      "surface": "ולעבדך",
+      "gloss": "жана кулуңа"
+    },
+    {
+      "surface": "ולאמתך",
+      "gloss": "жана күңүңө"
+    },
+    {
+      "surface": "ולשכירך",
+      "gloss": "жана жалданган жумушчуңа"
+    },
+    {
+      "surface": "ולתושבך",
+      "gloss": "жана конуштууңа"
+    },
+    {
+      "surface": "הגרים",
+      "gloss": "чет элдик"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "өзүң менен жашаган"
+    }
+  ],
+  "timestamp": "2026-10-05T12:30:15.519542452Z",
+  "model": "glm-5.3"
+}

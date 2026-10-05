@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 13:14",
+  "book": "deuteronomy",
+  "lang": "ky",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Беливал",
+      "rationale": "בלי־עעל «пайдасыздык, жарамсыздык» деген мааниде, бирок укта «Беливалдын уулдары» деген аталыш катары алынды"
+    },
+    {
+      "kind": "invitation",
+      "subject": "нелер айтылган сөз",
+      "rationale": "башка кудайларга кызмат кылууга чакырган сөз тыңдоочу тарабынан келтирилет"
+    }
+  ],
+  "translation": "Белгаланган адамдар — Беливалдын уулдары — сенин ичиңден чыгышты жана өз шаарынын ⟨את⟩ жашоочуларын адаштырышты: «Жүрөлү, башка кудайларга кызмат кылалы — силер билбеген», — деп.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "f51798331ee278a88edde45e931926f4adf0edee431de72737fc5c6fa41c10aa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/13\/14-15.1791223786038.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יצאו",
+      "gloss": "чыгышты"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "адамдар"
+    },
+    {
+      "surface": "בני",
+      "gloss": "уулдары"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "Беливал"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "сенин ичиңден"
+    },
+    {
+      "surface": "וידיחו",
+      "gloss": "жана адаштырышты"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "өз шаарынын жашоочуларын"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "жашоочуларын"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "өз шаарынын"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "деп"
+    },
+    {
+      "surface": "נלכה",
+      "gloss": "жүрөлү"
+    },
+    {
+      "surface": "ונעבדה",
+      "gloss": "кызмат кылалы"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "кудайларга"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "башка"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "לא",
+      "gloss": "билбеген"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "силер"
+    }
+  ],
+  "timestamp": "2026-10-05T18:09:46.039038166Z",
+  "model": "glm-5.3"
+}

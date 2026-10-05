@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 25:2",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "rationale": "сыйынуу формасындагы «ал» танбоосу кыргызча этиштин болочок-буйрук формасы менен берилди, өзүнчө сөз катары жок"
+    }
+  ],
+  "translation": "Элохимим, Сага таяндым, уят болбойюн, душмандарым мени шаттанбасын.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "56d834fc48cd39fa425568609f45759f0e111a0509b1b30db4b1353c12ed8308",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/25\/1-4.1791215685630.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Элохимим"
+    },
+    {
+      "surface": "בך",
+      "gloss": "Сага"
+    },
+    {
+      "surface": "бטחתי",
+      "gloss": "таяндым"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "утат болбойюн"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "יעлצו",
+      "gloss": "шаттанбасын"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "душмандарыым"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мени"
+    }
+  ],
+  "timestamp": "2026-10-05T15:54:45.630613096Z",
+  "model": "glm-5.3"
+}

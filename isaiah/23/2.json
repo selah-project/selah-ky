@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 23:2",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מלאוך",
+      "rationale": "'алар сени толтура турган' (KJV 'have replenished thee') же 'толтура турган' — жөн айтым же өткөн убакыт деген эки окуу."
+    },
+    {
+      "kind": "invitation",
+      "subject": "үнсүз болгула",
+      "rationale": "арал тургундарына тикелей буйрук."
+    }
+  ],
+  "translation": "Үнсүз болгула, аралдын тургундары; Цдондун соодагерлери, деңизди кечкендер — аларды толтура турган.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "7c36cc3299104b3e8ee553ff4388b6d1cb35ba6d4fa626f754d86fb8d7857ccf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/23\/1-4.1791209822550.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דמו",
+      "gloss": "үнсүз болгула"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "тургундары"
+    },
+    {
+      "surface": "אי",
+      "gloss": "аралдын"
+    },
+    {
+      "surface": "סחר",
+      "gloss": "соодагерлери"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "Цдондун"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "кечкендер"
+    },
+    {
+      "surface": "ים",
+      "gloss": "деңизди"
+    },
+    {
+      "surface": "מלאוך",
+      "gloss": "толтура турган"
+    }
+  ],
+  "timestamp": "2026-10-05T14:17:02.550973970Z",
+  "model": "glm-5.3"
+}

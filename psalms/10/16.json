@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 10:16",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨падыша⟩",
+      "rationale": "Еврейче 'Яхве падыша' — эгелик атоо; кашаа тилекке жараша айкындоо"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עולם ועד",
+      "rationale": "'Түбөлүк жана дагы түбөлүк' — күчөтүү колледи, уландысыз убакыт"
+    }
+  ],
+  "translation": "Яхве ⟨падыша⟩ түбөлүккө жана дагы түбөлүккө; элдер Анын жеринен жок болду.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "549ce693d1e1b1e50f58625af352304a3c696adc998471ab71676bd3970e9b23",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/10\/13-16.1791215460123.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "падыша"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "түбөлүккө"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "жана дагы түбөлүккө"
+    },
+    {
+      "surface": "אבדו",
+      "gloss": "жок болду"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "элдер"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "Анын жеринен"
+    }
+  ],
+  "timestamp": "2026-10-05T15:51:00.124794471Z",
+  "model": "glm-5.3"
+}

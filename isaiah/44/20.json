@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 44:20",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жан",
+      "rationale": "נפש — «дем, жашаа күчү» дегенге жакын, «жан» катары берилди"
+    },
+    {
+      "kind": "idiom",
+      "subject": "оң колумда жалган",
+      "rationale": "Оң кол — кармаган жери: колдогу пут — жалган деген образ"
+    }
+  ],
+  "translation": "Күлдү жейт, алданган жүрөк аны жаздырды, ал ⟨את⟩ өз жанын куткара албайт жана: «Оң колумда жалган эмеспи?» деп айтпайт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "1f81ab062950767623a991c8bf129e2cb5cdfee60cc2fff8c4102f822f16896f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/44\/17-20.1791210302744.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רעה",
+      "gloss": "жейт"
+    },
+    {
+      "surface": "אפר",
+      "gloss": "күлдү"
+    },
+    {
+      "surface": "לב",
+      "gloss": "жүрөк"
+    },
+    {
+      "surface": "הותל",
+      "gloss": "алданган"
+    },
+    {
+      "surface": "הטהו",
+      "gloss": "аны жаздырды"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "жана жок"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "куткара албайт"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "өз жанын"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "өз жанын"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "жана жок"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "айтпайт"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "эмеспи"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "жалган"
+    },
+    {
+      "surface": "בימיני",
+      "gloss": "оң колумда"
+    }
+  ],
+  "timestamp": "2026-10-05T14:25:02.745356125Z",
+  "model": "glm-5.3"
+}

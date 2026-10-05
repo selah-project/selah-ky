@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 49:17",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בניך",
+      "rationale": "«балдарың» (KJB, JPS) же «куруштуучуларың» (YLт, BSB — консонанттарды башкача окуганда); контекст 49:18–20 «балдар»ды колдойт."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בניך\/מהרסיך",
+      "rationale": "куроочу балдар жана бузуучулар каршылыгы — кыргызча контраст сакталды."
+    }
+  ],
+  "translation": "Сениң балдарың тездешет; сениң бузуучуларың жана сениң талкалоочуларың сенден чыгып кетишет.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "731b60d89bade3a78ee1bbb6d6513c52d30c0293282c1249de9b12712026b0fc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/49\/17-20.1791210315372.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מהרו",
+      "gloss": "тездешет"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "балдарың"
+    },
+    {
+      "surface": "מהרסיך",
+      "gloss": "бузуучуларың"
+    },
+    {
+      "surface": "ומחרביך",
+      "gloss": "жана талкалоочуларың"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "сенден"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "чыгып кетишет"
+    }
+  ],
+  "timestamp": "2026-10-05T14:25:15.373504194Z",
+  "model": "glm-5.3"
+}

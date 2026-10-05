@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 14:15",
+  "book": "deuteronomy",
+  "lang": "ky",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "төө куштун кызы",
+      "rationale": "בת היענה — туура котормо 'төө куштун кызы'; 'жапалак' (KJV) интерпретация."
+    },
+    {
+      "kind": "crux",
+      "subject": "התחמס",
+      "rationale": "Каче аныкталбаган куш: KJV 'night hawk', JPS 'night-hawk', BSB 'screech owl'."
+    }
+  ],
+  "translation": "жана ⟨את⟩ төө куштун кызын, жана ⟨את⟩ түн жапалагын, жана ⟨את⟩ чайканы, жана ⟨את⟩ кыргыйды анын түрү боюнча.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "f5d836106688e4b60f37766d428d2e754de45d182a38bd9c71a090c89893bada",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/14\/13-16.1791204963933.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "төө куштун кызын"
+    },
+    {
+      "surface": "בת",
+      "gloss": "кызын"
+    },
+    {
+      "surface": "היענה",
+      "gloss": "төө куштун"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "түн жапалагын"
+    },
+    {
+      "surface": "התחמס",
+      "gloss": "түн жапалагын"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "чайканы"
+    },
+    {
+      "surface": "השחף",
+      "gloss": "чайканы"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "кыргыйды"
+    },
+    {
+      "surface": "הנץ",
+      "gloss": "кыргыйды"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "анын түрү боюнча"
+    }
+  ],
+  "timestamp": "2026-10-05T12:56:03.934642733Z",
+  "model": "glm-5.3"
+}

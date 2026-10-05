@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 22:13",
+  "book": "proverbs",
+  "lang": "ky",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עצל\/ארי",
+      "rationale": "Жалкоонун шылтоосу: аянттардын ортосунда арстан жок — бул ички оозеки тамаша, үрөй катары берилген."
+    },
+    {
+      "kind": "substitution",
+      "subject": "өлтүрүлөм",
+      "rationale": "ארצח — адам өлтүрүү тамыры (каалоо\/ж passив); «өлтүрүлөм» жалпы өлүмдү билдирет, расмий өлтүрүү мааниси башкача турат."
+    }
+  ],
+  "translation": "Жалкоо айтты: «Сыртта арстан бар, аянттардын ортосунда өлтүрүлөм».",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "de8831d75770576f1e06bb16dbb363391bbe0c6b65e0b9c0fc3ef89848958bfd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/22\/13-16.1791218241672.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "жалкоо"
+    },
+    {
+      "surface": "ארי",
+      "gloss": "арстан"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "сыртта"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ортосунда"
+    },
+    {
+      "surface": "רחבות",
+      "gloss": "аянттардын"
+    },
+    {
+      "surface": "ארצח",
+      "gloss": "өлтүрүлөм"
+    }
+  ],
+  "timestamp": "2026-10-05T16:37:21.672663847Z",
+  "model": "glm-5.3"
+}

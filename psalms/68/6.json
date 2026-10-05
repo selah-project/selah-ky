@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 68:6",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 68,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨бул⟩",
+      "rationale": "Жүйө сөзү ивритте жок; атасы\/соту жана Элохим байланышы кыргызча түшүнүктүү болушу үчүн кошулду."
+    },
+    {
+      "kind": "substitution",
+      "subject": "соту",
+      "rationale": "ודין 'сот\/коргоочу' деген так мааниде; 'коргоочу' (BSB) болсо кеңейтилген чечмелөө."
+    }
+  ],
+  "translation": "Жетимдердин атасы жана жесирлердин соту — ⟨бул⟩ Элохим, ыйык жайында.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "d0d34de8574f5ca09af12f3c917fe14629431bc70132e977351d89f717c99169",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/68\/5-8.1791216396221.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אבי",
+      "gloss": "атасы"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "жетимдердин"
+    },
+    {
+      "surface": "ודין",
+      "gloss": "жана соту"
+    },
+    {
+      "surface": "אלמנות",
+      "gloss": "жесирлердин"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "במעון",
+      "gloss": "жайында"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "ыйык"
+    }
+  ],
+  "timestamp": "2026-10-05T16:06:36.222205914Z",
+  "model": "glm-5.3"
+}

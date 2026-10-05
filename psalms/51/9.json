@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 51:9",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "изоп",
+      "rationale": "חטא 'күнөө кылуу' деген тамыр мында ыйыктоо маанисинде — изоп менен тазалоо (Левит 14, Сандар 19 ритуалына шилтеме)"
+    },
+    {
+      "kind": "crux",
+      "subject": "тазала",
+      "rationale": "тамыры חטא 'күнөө' — 'күнөөдөн тазала' же 'тазарт'; көпчүлүк котормолор 'purge\/purify' деп жумшартат"
+    },
+    {
+      "kind": "you",
+      "subject": "Элохимге",
+      "rationale": "Давиддин Элохимге болгон тиленүүсү — императивдер"
+    }
+  ],
+  "translation": "Мени изоп менен тазала — мен таза боломун; мени жуу — мен кардан да аг боломун.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "fcfd381850c8a518c54c2a83a4ce83b479cb0cc31f557f8eedd98cc3183ecb09",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/51\/9-12.1791216175883.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תחטאני",
+      "gloss": "тазала мени"
+    },
+    {
+      "surface": "באזוב",
+      "gloss": "изоп менен"
+    },
+    {
+      "surface": "ואטהר",
+      "gloss": "мен таза боломун"
+    },
+    {
+      "surface": "תכבסני",
+      "gloss": "жуу мени"
+    },
+    {
+      "surface": "ומשלג",
+      "gloss": "кардан да"
+    },
+    {
+      "surface": "אלבין",
+      "gloss": "аг боломун"
+    }
+  ],
+  "timestamp": "2026-10-05T16:02:55.884329111Z",
+  "model": "glm-5.3"
+}

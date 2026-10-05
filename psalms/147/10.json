@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 147:10",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 147,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "גבורה",
+      "rationale": "«күч-кайрат» сөзү кыргызча «күч» деп берилди"
+    }
+  ],
+  "translation": "Аттын күчүндө жактырбайт, адамдын сандарында ыраазы болбойт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "2e9f803065a108849f0e10ecd8bdcca073963c32aaa21cb0542e9d4cfd08cb3b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/147\/9-12.1791217638481.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "בגבורת",
+      "gloss": "күчүндө"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "аттын"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "жактырбайт"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "בשוקי",
+      "gloss": "сандарында"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "адамдын"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "ыраазы болбойт"
+    }
+  ],
+  "timestamp": "2026-10-05T16:27:18.482580606Z",
+  "model": "glm-5.3"
+}

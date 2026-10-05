@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 26:8",
+  "book": "1-samuel",
+  "lang": "ky",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "סגר",
+      "rationale": "сөз 'жабуу, камоого алуу' деген — 'тапшырды' эркин, лекин маани берилет."
+    },
+    {
+      "kind": "crux",
+      "subject": "אשנה",
+      "rationale": "'кайра кайтармайын' — тамыр שנה 'кайтоо, эки эселеө' деген: 'экинчи жолу урбаймын' (KJV) же 'кайра айтпаймын' (YLT)."
+    },
+    {
+      "kind": "addition",
+      "subject": "мени … өлтүрүүгө",
+      "rationale": "Ивритте этиш жөнөкөй өтүнүч формасында, кыргызча 'мени … жебе' кошулду."
+    }
+  ],
+  "translation": "Абишай Давидге айтты: Элохим бүгүн ⟨את⟩ душманыңды колуңа тапшырды; азыр эмесе, мени аны найза менен жерге бир жолу чаап өлтүрүүгө жебе, ага экинчи жолу урбаймын.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "50b2f3fb6c10c9d126639d55cc08732b18048ed4efe435e2363aa4a7df43e983",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-samuel\/26\/7-8.1791223859342.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "אבישי",
+      "gloss": "Абишай"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…га"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давидге"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "тапшырды"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "היום",
+      "gloss": "бүгүн"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "душманыңды"
+    },
+    {
+      "surface": "אויבך",
+      "gloss": "душманыңды"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "колуңа"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "азыр эмесе"
+    },
+    {
+      "surface": "אכנו",
+      "gloss": "мени … чаап өлтүрүүгө"
+    },
+    {
+      "surface": "נא",
+      "gloss": "…жебе"
+    },
+    {
+      "surface": "בחנית",
+      "gloss": "найза менен"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "жерге"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "жолу"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "бир"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "жана … эмес"
+    },
+    {
+      "surface": "אשנה",
+      "gloss": "урбаймын"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ага"
+    }
+  ],
+  "timestamp": "2026-10-05T18:10:59.343887487Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 18:45",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "לשמע\/ישמעו",
+      "rationale": "шамыр тамыры эки жолу кайталанат: «угуу — угушат», кыргызча жоголот"
+    },
+    {
+      "kind": "crux",
+      "subject": "יכחשו",
+      "rationale": "«жалган сүйлөшөт\/мойун сунган болушат» (KJV «баш ийишет», JPS «соолуп кетишет»)"
+    }
+  ],
+  "translation": "Кулак угуу менен алар мага угушат; бөтөн элдин уулдары мага жалган убада беришет.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "f7495c9dfa5ca669c5420c06779e3b361b73b433562b9edda20145fa1f5aea17",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/18\/45-48.1791215567992.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "угуу"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "кулак"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "угушат"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мага"
+    },
+    {
+      "surface": "בני",
+      "gloss": "уулдары"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "бөтөн элдин"
+    },
+    {
+      "surface": "יכחשו",
+      "gloss": "жалган убада беришет"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мага"
+    }
+  ],
+  "timestamp": "2026-10-05T15:52:47.992805718Z",
+  "model": "glm-5.3"
+}

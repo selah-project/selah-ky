@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 46:10",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "кенаандык аял",
+      "rationale": "Байыркы тилге коошто кыргызча «аял» сөзү кошулду; הכנענית букв. «кенаандык аял» деген аталыш."
+    },
+    {
+      "kind": "measurement",
+      "subject": "name list",
+      "rationale": "Шимондун уулдарынын тизмеси."
+    }
+  ],
+  "translation": "Жана Шимондун уулдары: Йемуэл, Ямин, Охад, Яхин, Цохар жана кенаандык аялдын уулу Шаул.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "b8ad68d471919e34fb12ef81943c718af819bc9ffcd759b4704d33250955c465",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/46\/9-12.1791201701445.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Жана …дин уулдары"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Шимон"
+    },
+    {
+      "surface": "ימואל",
+      "gloss": "Йемуэл"
+    },
+    {
+      "surface": "וימין",
+      "gloss": "жана Ямин"
+    },
+    {
+      "surface": "ואהד",
+      "gloss": "Охад"
+    },
+    {
+      "surface": "ויכין",
+      "gloss": "Яхин"
+    },
+    {
+      "surface": "וצחר",
+      "gloss": "Цохар"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "жана Шаул"
+    },
+    {
+      "surface": "בן",
+      "gloss": "уулу"
+    },
+    {
+      "surface": "הכנענית",
+      "gloss": "кенаандык аялдын"
+    }
+  ],
+  "timestamp": "2026-10-05T12:01:41.446463643Z",
+  "model": "glm-5.3"
+}

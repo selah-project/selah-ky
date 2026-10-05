@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 148:1",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 148,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הללו\/הללוהו",
+      "rationale": "Эттиликтин үч жолу кайталанышы — ырдагы ритмдик кайрылуу, кыргызча да үч кайрылуу сакталды"
+    },
+    {
+      "kind": "invitation",
+      "subject": "мактаңдар",
+      "rationale": "Асманларга бурулган буйрук-чакырык"
+    },
+    {
+      "kind": "elision",
+      "subject": "את",
+      "rationale": "Түз объект белгиси ⟨את⟩ катары берилди, кыргызча аныкталышы жок"
+    }
+  ],
+  "translation": "Яхды мактаңдар, ⟨את⟩ Яхвени асманлардан мактаңдар, Аны бийиктиктерде мактаңдар!",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "b7de9ca12aa90e11fddb0f03bf01ddf6fc7ac854967742600f4f57db821fb128",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/148\/1-4.1791217670883.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "мактаңдар"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ях"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "мактаңдар"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яхве"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвени"
+    },
+    {
+      "surface": "מן",
+      "gloss": "…дан"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "асман"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "Аны мактаңдар"
+    },
+    {
+      "surface": "במרומים",
+      "gloss": "бийиктиктерде"
+    }
+  ],
+  "timestamp": "2026-10-05T16:27:50.885243404Z",
+  "model": "glm-5.3"
+}

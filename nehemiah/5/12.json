@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "nehemiah 5:12",
+  "book": "nehemiah",
+  "lang": "ky",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "аларга",
+      "rationale": "Kyrgyz requires the indirect object of the oath; Hebrew carries it in the verb suffix"
+    },
+    {
+      "kind": "crux",
+      "subject": "ואשביעם",
+      "rationale": "'I made them (the nobles) swear' — the suffix refers to the nobles, not the priests just named"
+    }
+  ],
+  "translation": "Жана алар айтышты: Кайрып беребиз, алардан эч нерсе талап кылбайбыз, сен айткандай кылабыз. Жана мен ⟨את⟩ ыйык кызмат кылуучуларды чакырдым жана аларга ушул сөз боюнча кылууга ант бердим.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "cdfe77fa6482759403c9d36940b487a5e20f21a33153cce94b14dadac3e25e41",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/nehemiah\/5\/9-12.1791221385364.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Жана алар айтышты"
+    },
+    {
+      "surface": "נשיב",
+      "gloss": "Кайрып беребиз"
+    },
+    {
+      "surface": "ומהם",
+      "gloss": "алардан"
+    },
+    {
+      "surface": "לא",
+      "gloss": "эч"
+    },
+    {
+      "surface": "נבקש",
+      "gloss": "талап кылбайбыз"
+    },
+    {
+      "surface": "כן",
+      "gloss": "сылай"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "кылабыз"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "айткандай"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "сен"
+    },
+    {
+      "surface": "אומר",
+      "gloss": "айтасың"
+    },
+    {
+      "surface": "ואקרא",
+      "gloss": "Жана мен чакырдым"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ыйык кызмат кылуучуларды"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ыйык кызмат кылуучуларды"
+    },
+    {
+      "surface": "ואשביעם",
+      "gloss": "ант бердим"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "кылууга"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "ушул сөз боюнча"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ушул"
+    }
+  ],
+  "timestamp": "2026-10-05T17:29:45.366012Z",
+  "model": "glm-5.3"
+}

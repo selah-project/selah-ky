@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 13:16",
+  "book": "joshua",
+  "lang": "ky",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "чейинки",
+      "rationale": "על מידבא «Медеба үстүндө» — чек ара тизмесинде «Медебага чейинки» катары ачылды"
+    },
+    {
+      "kind": "elision",
+      "subject": "שפת",
+      "rationale": "«эрүүн» букв. «эрин\/жээк» — על менен бирге «жээгинде» дегенде сиңдирилди"
+    }
+  ],
+  "translation": "Алардын чеги Ароерден башталды — ал Арнон дарыясынын жээгинде, жана дарыянын ортосундагы шаар, жана Медебага чейинки бүт түздүк.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "583b5401a9c4cbe0b3c59fa033f93987e7e3b1fb503a51cef30caf18c6a2bcc3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/joshua\/13\/13-16.1791205754007.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "болду"
+    },
+    {
+      "surface": "להם",
+      "gloss": "алардын"
+    },
+    {
+      "surface": "הגבול",
+      "gloss": "чеги"
+    },
+    {
+      "surface": "מערוער",
+      "gloss": "Ароерден"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ал"
+    },
+    {
+      "surface": "על",
+      "gloss": "жээгинде"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "-"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "дарыясынын"
+    },
+    {
+      "surface": "ארנון",
+      "gloss": "Арнон"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "жана шаар"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "-"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ортосундагы"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "дарыянын"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "жана бүт"
+    },
+    {
+      "surface": "המישר",
+      "gloss": "түздүк"
+    },
+    {
+      "surface": "על",
+      "gloss": "-"
+    },
+    {
+      "surface": "מידבא",
+      "gloss": "Медебага чейинки"
+    }
+  ],
+  "timestamp": "2026-10-05T13:09:14.008478927Z",
+  "model": "glm-5.3"
+}

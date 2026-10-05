@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "song-of-songs 1:14",
+  "book": "song-of-songs",
+  "lang": "ky",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הכפר",
+      "rationale": "Кофер — хина өсүмдүгү (Lawsonia inermis); «кипарис» же «камфора» деген котормолор эски катаны улантыт."
+    },
+    {
+      "kind": "elision",
+      "subject": "эмес",
+      "rationale": "Ивритте «меним» деген этиш жок — «сүйүктүүм мага хина шогуму» деген жараштыруу түз эле айтылат."
+    }
+  ],
+  "translation": "Менин сүйүктүүм мага хина гүлдөрүнүн шогуму, Эйн-Геди багларында.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "9e8762d59c11bcdb347d26e37e216cfc0c541d1296a4218024edb7d4605d4bfa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/song-of-songs\/1\/13-16.1791219513867.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשכל",
+      "gloss": "шогуму"
+    },
+    {
+      "surface": "הכפר",
+      "gloss": "хинанын"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "менин сүйүктүүм"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мага"
+    },
+    {
+      "surface": "בכרמי",
+      "gloss": "багларында"
+    },
+    {
+      "surface": "עין",
+      "gloss": "Эйн"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "Геди"
+    }
+  ],
+  "timestamp": "2026-10-05T16:58:33.868517854Z",
+  "model": "glm-5.3"
+}

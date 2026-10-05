@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 6:7",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "כי",
+      "rationale": "«билесиңер» дегенден кийинги байламта кыргызча кошулма менен берилди"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨Ошону⟩",
+      "rationale": "сын-ataikтун (המוציא) жүктөлүшүн ачык көрсөтүү үчүн кошулду"
+    },
+    {
+      "kind": "you",
+      "subject": "Йисраэл уулдарына",
+      "rationale": "келишим убадасы — тикелей кайрылуунун уландысы"
+    }
+  ],
+  "translation": "Жана ⟨את⟩ силерди Өзүмө эл кылып аламын, жана силерге Элохим боломун, жана билесиңер: Мен — Яхве, силердин Элохимиңер, силерди Мицрайимдин оор жүктөрүнүн астынан алып чыгып жаткан ⟨Ошону⟩.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "e643691a3fb37a174e8c78fa13005d7f198c440df738276389c145defd08cd87",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/6\/5-8.1791201967332.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולקחתי",
+      "gloss": "жана аламын"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "силерди"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Өзүмө"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "эл"
+    },
+    {
+      "surface": "והייתי",
+      "gloss": "жана боломун"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "силерге"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "жана билесиңер"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Мен"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Элохимиңер"
+    },
+    {
+      "surface": "המוציא",
+      "gloss": "алып чыгып жаткан"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "силерди"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "астынан"
+    },
+    {
+      "surface": "סבלות",
+      "gloss": "оор жүктөр"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицрайимдин"
+    }
+  ],
+  "timestamp": "2026-10-05T12:06:07.333512931Z",
+  "model": "glm-5.3"
+}

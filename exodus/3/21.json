@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 3:21",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ырайым",
+      "rationale": "חן — ырайым \/ боорукерлик \/ жагымдуулук; бир сөз, кеңири маани"
+    },
+    {
+      "kind": "addition",
+      "subject": "Мен",
+      "rationale": "Ивритте этиш жекече формада, «Мен» ачык жазылады"
+    },
+    {
+      "kind": "you",
+      "subject": "Исрайыл элине (Моше аркылуу)",
+      "rationale": "Яхве сөзү түз элге багытталат: «барсаңар, бош барбайсыңар»"
+    }
+  ],
+  "translation": "Жана Мен бул элдин ⟨את⟩ ырайымын Мицрайим элинин көзүнө берем; жана болот: качан барсаңар, бош барбайсыңар.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "756e820c391c09522ada565f4c107fca40c31b7e511203abd2cfcbcb674970f4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/3\/21-22.1791201883066.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "Жана Мен... берем"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ырайымын"
+    },
+    {
+      "surface": "חן",
+      "gloss": "ырайым"
+    },
+    {
+      "surface": "העם",
+      "gloss": "эл"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "бул"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "көзүнө"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицрайим"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "жана болот"
+    },
+    {
+      "surface": "כי",
+      "gloss": "качан"
+    },
+    {
+      "surface": "תלכון",
+      "gloss": "барсаңар"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "барасыңар"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "бош"
+    }
+  ],
+  "timestamp": "2026-10-05T12:04:43.067551174Z",
+  "model": "glm-5.3"
+}

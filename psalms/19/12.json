@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 19:12",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨сенин⟩",
+      "rationale": "עבדך мүчөсүндө «сенин» камтылган, кыргызча айкын көрсөтүлдү."
+    },
+    {
+      "kind": "crux",
+      "subject": "עקב",
+      "rationale": "Литералдык «экинин соңу»; бул жерде «сооп» (кайрым) же «акыбет» маанисинде."
+    }
+  ],
+  "translation": "Ошондой эле алар аркылуу ⟨сенин⟩ кулуң сактайт; аларды сактоодо сооп зор.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "e3d8b64492fb67098dda35d7fd6715c9c7d301a740cbcebad64c390821f8f3e6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/19\/9-12.1791215552080.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ошондой эле"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "кулуң"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "сактайт"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "алар аркылуу"
+    },
+    {
+      "surface": "בשמרם",
+      "gloss": "сактоодо"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "сооп"
+    },
+    {
+      "surface": "רב",
+      "gloss": "зор"
+    }
+  ],
+  "timestamp": "2026-10-05T15:52:32.081905523Z",
+  "model": "glm-5.3"
+}

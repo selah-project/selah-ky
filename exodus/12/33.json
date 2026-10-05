@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 12:33",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "эли",
+      "rationale": "מצרים эл катары иш-аракет кылгандыктан «эли» сөзү кошулду"
+    },
+    {
+      "kind": "substitution",
+      "subject": "өлүп баратабыз",
+      "rationale": "מתים — «өлгөндөрбүз»; кыргызча азыркы чакта коюлду"
+    }
+  ],
+  "translation": "Жана Мицрайим эли ⟨את⟩ элди ылдам жөнөтүү үчүн күчөтүп бастырды, анткени алар айтты: баарыбыз өлүп баратабыз.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "dee89cab50acc11b6e2a9a7235c4cad3cc5547e49e720e6db3e5656404e824fe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/12\/33-36.1791202096388.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותחזק",
+      "gloss": "күчөтүп бастырды"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицрайим эли"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨את⟩…үстүнөн"
+    },
+    {
+      "surface": "העם",
+      "gloss": "элди"
+    },
+    {
+      "surface": "למהר",
+      "gloss": "ылдам"
+    },
+    {
+      "surface": "לשלחם",
+      "gloss": "жөнөтүү үчүн"
+    },
+    {
+      "surface": "מן",
+      "gloss": "…дан"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "жер"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "алар айтты"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "баарыбыз"
+    },
+    {
+      "surface": "מתים",
+      "gloss": "өлүп баратабыз"
+    }
+  ],
+  "timestamp": "2026-10-05T12:08:16.388610699Z",
+  "model": "glm-5.3"
+}

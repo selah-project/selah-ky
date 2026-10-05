@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 24:5",
+  "book": "joshua",
+  "lang": "ky",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "сокку урдум",
+      "rationale": "ואגף — 'сүзүү, жазалоо' деген сөз; кыргызча 'сокку урдум' деген жакын сүрөт"
+    },
+    {
+      "kind": "you",
+      "subject": "Израилге",
+      "rationale": "Яхве бүт аят бою Исраил элине 'силер' деп кайрылып сүйлөйт"
+    }
+  ],
+  "translation": "Жана Мен ⟨את⟩ Мошени жана ⟨את⟩ Ахаронди жөнөттүм, жана Мицрайимди ⟨את⟩ анын ортосунда кылганыма ылайык сокку урдум, жана андан кийин силерди чыгарып алдым.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "cffd34a95ac2e4f8908f22c7ec63b5b4240f72d2697b5198d9be01b35a11d94e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/joshua\/24\/5-8.1791206026343.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואשלח",
+      "gloss": "жөнөттүм"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Мошени"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Мошени"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Ахаронди"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Ахаронди"
+    },
+    {
+      "surface": "ואגף",
+      "gloss": "сокку урдум"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Мицрайимди"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицрайимди"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "кылганыма ылайык"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "кылганыма ылайык"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "анын ортосунда"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "андан кийин"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "чыгарып алдым"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "силерди"
+    }
+  ],
+  "timestamp": "2026-10-05T13:13:46.344657373Z",
+  "model": "glm-5.3"
+}

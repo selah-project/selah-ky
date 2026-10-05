@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 25:7",
+  "book": "leviticus",
+  "lang": "ky",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жаныбарлар",
+      "rationale": "חיה — 'жаныбар' (жапайы); KJV 'beast' деп мал менен чаташтырат"
+    }
+  ],
+  "translation": "Жана боюнда жүргөн малыңа жана жериңдеги жаныбарларга — анын бүт түшүмү жегенге болот.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "a41bade2eac609d4621619da794c6d8244eac84883d27511db8ea86e6074f80d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/25\/5-8.1791203415518.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולבהמתך",
+      "gloss": "Жана малыңа"
+    },
+    {
+      "surface": "ולחיה",
+      "gloss": "жана жаныбарларга"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "жериңдеги"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "жериңде"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "болот"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүт"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "түшүмү"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "жегенге"
+    }
+  ],
+  "timestamp": "2026-10-05T12:30:15.519713717Z",
+  "model": "glm-5.3"
+}

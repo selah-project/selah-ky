@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 108:1",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 108,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "насам",
+      "rationale": "Баш сап — мазмурдун аталышы: «Ыр, Давидке арналган мазмур»."
+    }
+  ],
+  "translation": "Ыр — Давидтин мазмуру.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "42ad265799632db511bca983ab277661ef5a1b1280eb3e5b9c3c3bd7be8ed171",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/108\/1-4.1791217195316.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Ыр"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "мазмур"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давидке"
+    }
+  ],
+  "timestamp": "2026-10-05T16:19:55.320576698Z",
+  "model": "glm-5.3"
+}

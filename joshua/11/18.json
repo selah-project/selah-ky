@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 11:18",
+  "book": "joshua",
+  "lang": "ky",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жүргүздү",
+      "rationale": "עשה «жасады» — кыргызча «согуш жүргүздү» деген коллизия талап кылат."
+    }
+  ],
+  "translation": "Көп күндөр бою Йеошуа ⟨את⟩ бүткүл ушул падышалар менен согуш жүргүздү.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "a0304fa8d4edd730bc5cbece05d2517bb7f9a4c4a7586d0ad076c9cb402b7565",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/joshua\/11\/17-20.1791205797867.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ימים",
+      "gloss": "күндөр"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "көп"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "жүргүздү"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Йеошуа"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "бүткүл ушул падышалар"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүткүл"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "падышалар"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ушул"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "согуш"
+    }
+  ],
+  "timestamp": "2026-10-05T13:09:57.868694639Z",
+  "model": "glm-5.3"
+}

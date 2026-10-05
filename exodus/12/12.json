@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 12:12",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "тунчу",
+      "rationale": "בכור — «тун» (биринчи туулган), кыргызча бир сөз менен"
+    },
+    {
+      "kind": "addition",
+      "subject": "Мен — Яхве",
+      "rationale": "Еврейче этишсиз аныктама, кыргызчада дефис менен ачыкталды"
+    },
+    {
+      "kind": "crux",
+      "subject": "בכל אלהי מצרים",
+      "rationale": "Кудайларга өкүм — башка элдердин кудайлары (Алексохим кичине тамга менен), Яхвенин атаандаштары"
+    }
+  ],
+  "translation": "Мен ошол түндө Мицрайим жери боюнча өтөм, Мицрайим жериндеги ар бир тунчуну — адамдан баштап малга чейин — чабам, жана Мицрайимдин бардык кудайларына өкүмдөрдү аткарам: Мен — Яхве.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "03c8e6ad77d0ee0aeb033797fb4e62a140a8c314bc101fddcd8e6bd5172c51fd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/12\/9-12.1791202055151.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועברתי",
+      "gloss": "жана өтөм"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "жери боюнча"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицрайим"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "түндө"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ошол"
+    },
+    {
+      "surface": "והכיתי",
+      "gloss": "жана чабам"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ар бир"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "тунчу"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "жериндеги"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицрайим"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "адамдан"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "баштап... чейин"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "мал"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "жана бардык"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "кудайларына"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицрайимдин"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "аткарам"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "өкүмдөрдү"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Мен"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-10-05T12:07:35.153364814Z",
+  "model": "glm-5.3"
+}

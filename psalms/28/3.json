@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 28:3",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "бирок",
+      "rationale": "Еврейче «жүрөктөрүндө жамандык» деген карама-каршылыкты кыргызча «бирок» байлагы ачык көрсөтөт."
+    },
+    {
+      "kind": "substitution",
+      "subject": "арамзалар",
+      "rationale": "רשעים — «заңкер, мыйзамсыз адамдар»; «арамза» ролдук аталыш катары берилди."
+    }
+  ],
+  "translation": "Мени арамзалар менен жана жамандык кылуучулар менен чогуу сүйрөбө — алар өздөрүнүн жакындарына тынчтык айтышат, бирок жүрөктөрүндө жамандык бар.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "eb3f4f252bb359ff9fdb16a2681476aec7732d081f81c05ff2e41348fc5a2108",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/28\/1-4.1791215779029.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "תמשכני",
+      "gloss": "сүйрөбө мени"
+    },
+    {
+      "surface": "עם",
+      "gloss": "менен"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "арамзалар"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "жана менен"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "кылуучулар"
+    },
+    {
+      "surface": "און",
+      "gloss": "жамандыктын"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "айтуучулар"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "тынчтыкты"
+    },
+    {
+      "surface": "עם",
+      "gloss": "менен"
+    },
+    {
+      "surface": "רעיהם",
+      "gloss": "жакындарына"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "жана жамандык"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "жүрөктөрүндө"
+    }
+  ],
+  "timestamp": "2026-10-05T15:56:19.030434359Z",
+  "model": "glm-5.3"
+}

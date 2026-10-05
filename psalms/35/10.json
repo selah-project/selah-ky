@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 35:10",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨Сен⟩",
+      "rationale": "причастие «куткарган» кыргызча субъектиди талап кылат; еврейче текстте жок"
+    },
+    {
+      "kind": "you",
+      "subject": "Яхвеге",
+      "rationale": "сөөктөр Яхвени түз кирешет: «Яхве, Сага окшогон ким бар?»"
+    }
+  ],
+  "translation": "Сөөктөрүмдүн баары айтат: Яхве, Сага окшогон ким бар — ⟨Сен⟩ жардамсызды анынан күчтүүдөн, жардамсызды жана жакырды аны тоногондон куткарган?",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "088f89f98256a3dcaf5591a239c92a161ee60ee0a7f64da7ce0697f7d344267d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/35\/9-12.1791215818733.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "баары"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "сөөктөримдин"
+    },
+    {
+      "surface": "תאמרנה",
+      "gloss": "айтат"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ким"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "Сага окшогон"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "куткарган"
+    },
+    {
+      "surface": "עני",
+      "gloss": "жардамсызды"
+    },
+    {
+      "surface": "מחזק",
+      "gloss": "күчтүүдөн"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "анынан"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "жана жардамсызды"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "жакырды"
+    },
+    {
+      "surface": "מגזלו",
+      "gloss": "аны тоногондон"
+    }
+  ],
+  "timestamp": "2026-10-05T15:56:58.734257580Z",
+  "model": "glm-5.3"
+}

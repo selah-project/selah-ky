@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 30:11",
+  "book": "job",
+  "lang": "ky",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ал⟩",
+      "rationale": "Ишти аткаруучу (Элохим) текстте аты аталбаган; кыргызча сүйлөм талап кылат"
+    },
+    {
+      "kind": "crux",
+      "subject": "יתרו",
+      "rationale": "'жип\/жемелөөчү жип' же 'жебе жаясы' (KJV 'cord', BSB 'bow') — адамды кармаган жип мааниси тандалды"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ויענני",
+      "rationale": "'мени жажды' — басынтуучу тарап Элохим болсо да, башка окумо: душмандар 'мени жакыртты'"
+    }
+  ],
+  "translation": "Анткени ⟨ал⟩ жибимди бошотту мени жажды, жана ооздукту менин алдымда чечишти.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "57d5de49dde4a81945093c5003ad912d9acd590ef6fdf31bbc3eb5d5ddab5d1f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/job\/30\/9-12.1791219203932.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "жибимди"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "бошотту"
+    },
+    {
+      "surface": "ויענני",
+      "gloss": "мени жажды"
+    },
+    {
+      "surface": "ורסן",
+      "gloss": "жана ооздукту"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "менин алдымда"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "чечишти"
+    }
+  ],
+  "timestamp": "2026-10-05T16:53:23.933199961Z",
+  "model": "glm-5.3"
+}

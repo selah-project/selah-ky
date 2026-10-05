@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 49:12",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "קרבם",
+      "rationale": "«ички ою» (KJV, JPS) же BSB «кabraштары» — qerav сөзү «ички» жана «кабыр» экөөнө да жорулган"
+    },
+    {
+      "kind": "addition",
+      "subject": "турат",
+      "rationale": "Еврейде этиш жок; кыргызча атооч сүйлөмдү байлоо үчүн кошулду"
+    },
+    {
+      "kind": "measurement",
+      "subject": "муундан муунга",
+      "rationale": "муундарды санап өтүү — түбөлүктүүлүккө убакыт чени"
+    }
+  ],
+  "translation": "Ички оюнда: үйлөрү түбөлүккө турат, жайлашкан жерлери муундан муунга; алар жерлердин үстүнө өз аттарын аташты.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "07a09197444b8ba553ea899406abd9453ff4ed45de683c7988dfd30e845fe201",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/49\/9-12.1791216070233.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קרבם",
+      "gloss": "ичкилери"
+    },
+    {
+      "surface": "בתימו",
+      "gloss": "үйлөрү"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "түбөлүккө"
+    },
+    {
+      "surface": "משכנתם",
+      "gloss": "жайлашкан жерлери"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "муундан"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "муунга"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "аташты"
+    },
+    {
+      "surface": "בשמותם",
+      "gloss": "өз аттарын"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "үстүнө"
+    },
+    {
+      "surface": "אדמות",
+      "gloss": "жерлердин"
+    }
+  ],
+  "timestamp": "2026-10-05T16:01:10.234503416Z",
+  "model": "glm-5.3"
+}

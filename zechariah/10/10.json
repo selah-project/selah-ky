@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zechariah 10:10",
+  "book": "zechariah",
+  "lang": "ky",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨орун⟩",
+      "rationale": "Ивритте «орун» сөзү жок: ולא ימצא להם — «аларга табылбайт»; кыргыз тилине «орун» кошулду"
+    },
+    {
+      "kind": "measurement",
+      "subject": "жер аттары",
+      "rationale": "Мицрайим, Ашшур, Гилад, Ливан — кайтып келүүнүн географиясы тизмелеп берилген"
+    }
+  ],
+  "translation": "Мен аларды Мицрайим жеринен кайтарып келем, Ашшурдан жыйнаймын, жана аларды Гилад жерине жана Ливанга алып келем, жана аларга ⟨орун⟩ табылбай калат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "0c72e884c6151fcf4478a0c4be256f1d359d0cf03acef6ee95a1265cd650e7cb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/zechariah\/10\/9-12.1791215106789.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והשיבותים",
+      "gloss": "кайтарып келем"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "жеринен"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицрайим"
+    },
+    {
+      "surface": "ומאשור",
+      "gloss": "Ашшурдан"
+    },
+    {
+      "surface": "אקבצם",
+      "gloss": "жыйнаймын"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "жана... жерине"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "жери"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Гилад"
+    },
+    {
+      "surface": "ולבנון",
+      "gloss": "жана Ливанга"
+    },
+    {
+      "surface": "אביאם",
+      "gloss": "алып келем"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "жана... эмес"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "табылбайт"
+    },
+    {
+      "surface": "להם",
+      "gloss": "аларга"
+    }
+  ],
+  "timestamp": "2026-10-05T15:45:06.790447595Z",
+  "model": "glm-5.3"
+}

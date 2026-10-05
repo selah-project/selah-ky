@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jonah 1:16",
+  "book": "jonah",
+  "lang": "ky",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ал",
+      "rationale": "Кыргыз тили субъекти талап кылат; еврейче текстте жок"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "וייראו … יראה",
+      "rationale": "Тамырдын кайталанышы: этиш менен зат аты бир эле ירא тамырынан — «коркушту чоң коркуу менен»"
+    }
+  ],
+  "translation": "Жана ⟨ал⟩ адамдар чоң коркуу менен ⟨את⟩ Яхведен коркушту, жана Яхвеге курмандык чабышты жана убадаларды убада кылышты.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "5887181c9ba068dbd73707c2d896015fd0656e37eb600b83ea49915f9b08db6a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/jonah\/1\/16-16.1791224361574.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "коркушту"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "адамдар"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "коркуу"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "чоң"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яхведен"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхведен"
+    },
+    {
+      "surface": "ויזבחו",
+      "gloss": "жана курмандык чабышты"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "курмандык"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхвеге"
+    },
+    {
+      "surface": "וידרו",
+      "gloss": "жана убада кылышты"
+    },
+    {
+      "surface": "נדרים",
+      "gloss": "убадаларды"
+    }
+  ],
+  "timestamp": "2026-10-05T18:19:21.574917261Z",
+  "model": "glm-5.3"
+}

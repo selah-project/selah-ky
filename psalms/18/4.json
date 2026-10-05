@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 18:4",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "מהלל",
+      "rationale": "JPS боюнча «Макталган, деп кыйкырам, Яхве» — пассивдүү причастие сүйлөмдүн башында турган окуу; бул жерде аныктооч катары алынды."
+    },
+    {
+      "kind": "invitation",
+      "subject": "verse 4",
+      "rationale": "Давид Яхвени чакыруу менен ырды баштайт — сөзү Менен сүйлөшүү чакырыгы."
+    }
+  ],
+  "translation": "Макталган Яхвени чакырам, жана душмандарымдан куткарылам.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "e28fc1822d7d84c5e1db7c55d6117fb6d3de7064cbc4450b793b609df53c8ce2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/18\/1-4.1791215536502.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מהלל",
+      "gloss": "Макталган"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "чакырам"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвени"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "жана …дан"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "душмандарымдан"
+    },
+    {
+      "surface": "אושע",
+      "gloss": "куткарылам"
+    }
+  ],
+  "timestamp": "2026-10-05T15:52:16.504076144Z",
+  "model": "glm-5.3"
+}

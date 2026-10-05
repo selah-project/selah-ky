@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 74:3",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 74,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "кадамдарыңды көтөр",
+      "rationale": "הרימה פעמיך — «кадам ташта» же «баскычтарды көтөр» (ыйык жайга кайрылып кел), KJV менен JPS эки жолу чечмелешет"
+    },
+    {
+      "kind": "you",
+      "subject": "Элохимге",
+      "rationale": "атаалыш — буйрук менен чакыруу"
+    }
+  ],
+  "translation": "Кадамдарыңды түбөлүктүү урандыларга көтөр: душман ыйык жерде жасаган бардык жамандыкты.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "064e49d03dbdcc4cffb63d4566098b25fe5a5867a68e7e0fa3d7ad05241f9919",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/74\/1-4.1791216574790.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הרימה",
+      "gloss": "көтөр"
+    },
+    {
+      "surface": "פעמיך",
+      "gloss": "кадамдарыңды"
+    },
+    {
+      "surface": "למשאות",
+      "gloss": "урандыларга"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "түбөлүктүү"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бардык"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "жамандыкты"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "душман"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "ыйык жерде"
+    }
+  ],
+  "timestamp": "2026-10-05T16:09:34.791781834Z",
+  "model": "glm-5.3"
+}

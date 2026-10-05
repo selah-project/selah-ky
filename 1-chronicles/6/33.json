@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 6:33",
+  "book": "1-chronicles",
+  "lang": "ky",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "тиешелүү",
+      "rationale": "ивритте жокко чыгарылган байланыш сөз кыргызча талап кылынат"
+    },
+    {
+      "kind": "substitution",
+      "subject": "дайындалышкан",
+      "rationale": "נתונים — букв. 'берилген'; кызматка коюлган маанисинде"
+    }
+  ],
+  "translation": "Алардын бир туугандары — левичилер — Мишканга, Элохимдин үйүнө тиешелүү бардык кызматка дайындалышкан.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "b52b6a786a3f34ea000c23ae0f1da9f2f610c4aa0ed0cd01476b7ae3e0bdce79",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-chronicles\/6\/33-36.1791221884060.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואחיהם",
+      "gloss": "алардын бир туугандары"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "левичилер"
+    },
+    {
+      "surface": "נתונים",
+      "gloss": "дайындалышкан"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "бардык"
+    },
+    {
+      "surface": "עבודת",
+      "gloss": "кызматка"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "Мишканга"
+    },
+    {
+      "surface": "בית",
+      "gloss": "үйүнө"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Элохимдин"
+    }
+  ],
+  "timestamp": "2026-10-05T17:38:04.061103742Z",
+  "model": "glm-5.3"
+}

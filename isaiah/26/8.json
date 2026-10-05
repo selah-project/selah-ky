@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 26:8",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жан",
+      "rationale": "נפש — дем алуучу жандык, жашоо күчү; 'жан' жакын, бирок 'кан-жан' мааниси эмес"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨биздин⟩",
+      "rationale": "Ивритте ээлик атооч жок, кыргызча түшүнүү үчүн кошулду"
+    },
+    {
+      "kind": "crux",
+      "subject": "אף",
+      "rationale": "'Ооба' же 'чын эле' — кошумча бекемдөө; айрым котормолор 'да, ошол жолдо' деп байлашат"
+    }
+  ],
+  "translation": "Ооба, Яхве, Сенин өкүмдөрүңдүн жолунда Биз Сени күттүк; Сенин ысымыңа жана Сенин эскерүүңө ⟨биздин⟩ жандын ынактыгы.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "d1ef6926f558f51e24b611fa45d07870c31998d6edb839c3bffd74b931a826e1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/26\/8-8.1791223991456.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Ооба"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "жолунда"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "өкүмдөрүңдүн"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "קוינוך",
+      "gloss": "Сени күттүк"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "ысымыңа"
+    },
+    {
+      "surface": "ולזכרך",
+      "gloss": "жана эскерүүңө"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "ынактыгы"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "жан"
+    }
+  ],
+  "timestamp": "2026-10-05T18:13:11.457282421Z",
+  "model": "glm-5.3"
+}

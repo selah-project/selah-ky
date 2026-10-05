@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 36:12",
+  "book": "job",
+  "lang": "ky",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בשלח",
+      "rationale": "'ок-жебе' (сөөмөй) же 'кылыч менен' — KJV\/ASV 'by the sword', YLT 'by the dart'; лексика жебени билдирет."
+    },
+    {
+      "kind": "crux",
+      "subject": "כבלי",
+      "rationale": "בלי 'сыз' деп окулса — 'билимсиз'; כבלי 'тогуңдар' деп окулса — 'билимдин боготу менен' дагы бир вариант."
+    }
+  ],
+  "translation": "Ал эми угушпаса, ок-жебе менен өтүп кетишет жана билимсиз жан тапшырышат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "49a09f21a4b4d4c6e5f24796a2c21b82c7bbada85bd18360ae376fb3088aeafe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/job\/36\/9-12.1791219347538.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ал эми эгерде"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "угушпаса"
+    },
+    {
+      "surface": "בשלח",
+      "gloss": "ок-жебе менен"
+    },
+    {
+      "surface": "יעברו",
+      "gloss": "өтүп кетишет"
+    },
+    {
+      "surface": "ויגועו",
+      "gloss": "жан тапшырышат"
+    },
+    {
+      "surface": "כבלי",
+      "gloss": "билимсиз"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "билим"
+    }
+  ],
+  "timestamp": "2026-10-05T16:55:47.539442637Z",
+  "model": "glm-5.3"
+}

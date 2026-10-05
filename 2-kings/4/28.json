@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 4:28",
+  "book": "2-kings",
+  "lang": "ky",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "беле",
+      "rationale": "ивритте суроо жөнөкөй тартип менен берилет, кыргызча „беле“ суроо сөзү кошулду"
+    },
+    {
+      "kind": "you",
+      "subject": "Элишага",
+      "rationale": "аял Элохим кимсисине түз кайрылат — „мырзам“ деп"
+    }
+  ],
+  "translation": "Ал айтты: Мен мырзамдан ⟨את⟩ уул сурап бекеммин? Мен: „Мени алдаба“ — деп айтпадым беле?",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "13cf0e66206493277a93fa565b96abb369df5f747afdca86ec6ef77d6dc3b584",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-kings\/4\/25-28.1791208745211.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "השאלתי",
+      "gloss": "сурап бекеммин"
+    },
+    {
+      "surface": "בן",
+      "gloss": "уул"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "уул"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "мырзамдан"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "беле"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "айтпадым"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгүл"
+    },
+    {
+      "surface": "תשלה",
+      "gloss": "алдаба"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ мени"
+    }
+  ],
+  "timestamp": "2026-10-05T13:59:05.212736144Z",
+  "model": "glm-5.3"
+}

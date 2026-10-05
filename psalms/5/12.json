@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 5:12",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "сыйынгандар",
+      "rationale": "חסה — 'баш калкалоого качуу'; 'ишенгендер' эмес, коргоо издегендер"
+    },
+    {
+      "kind": "idiom",
+      "subject": "жаап кал",
+      "rationale": "סכך — чатыр менен жабоо образы; 'коргоо' деген жалпы котормо эмес"
+    }
+  ],
+  "translation": "Жана Сага сыйынгандардын баары кубансын, түбөлүккө ырдап турсун; Сен аларды жаап кал, жана Сенин ысымыңды сүйгөндөр Сенден ырахат алсын.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "2ac9312f959b215aba426f7f5f1ae5c226a181a8bd26f24b424fd4ddd39310cd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/5\/9-12.1791215262795.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "кубансын"
+    },
+    {
+      "surface": "כל",
+      "gloss": "баары"
+    },
+    {
+      "surface": "חוסי",
+      "gloss": "сыйынгандардын"
+    },
+    {
+      "surface": "בך",
+      "gloss": "Сага"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "түбөлүккө"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "ырдап турсун"
+    },
+    {
+      "surface": "ותסך",
+      "gloss": "жаап кал"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "аларды"
+    },
+    {
+      "surface": "ויעלצו",
+      "gloss": "ырахат алсын"
+    },
+    {
+      "surface": "בך",
+      "gloss": "Сенден"
+    },
+    {
+      "surface": "אהבי",
+      "gloss": "сүйгөндөр"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ысымыңды"
+    }
+  ],
+  "timestamp": "2026-10-05T15:47:42.796813319Z",
+  "model": "glm-5.3"
+}

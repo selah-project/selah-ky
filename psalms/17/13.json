@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 17:13",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חרבך",
+      "rationale": "'Сенин кылычың' — кимди таандык кылат: жаман адам Яхвенин куралыбы (KJV), же жаман Яхвенин кылычы менен жок кылынабы (ASV\/JPS)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "жан",
+      "rationale": "נפש — 'дем алуучу жандык, жашоо күчү'; 'жан' жакын, бирок кеңири мааниси бир аз тарыйт"
+    }
+  ],
+  "translation": "Тур, Яхве, анын жүзүнө туш бол, аны тизелентип бүктүр; жаныма жамандын колунан кутулуу бери, ⟨ал⟩ Сенин кылычың менен ⟨жок кылынат⟩.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "16a4bad9a59e51584fd3aecb9b76a34c45d370cd0cc2e263983226aafc0d1ea0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/17\/13-15.1791215425795.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Тур"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "туш бол"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "анын жүзүнө"
+    },
+    {
+      "surface": "הכריעהו",
+      "gloss": "тизелентип бүктүр"
+    },
+    {
+      "surface": "פלטה",
+      "gloss": "кутултуу бер"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "жаным"
+    },
+    {
+      "surface": "מרשע",
+      "gloss": "жаман"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "Сенин кылычың менен"
+    }
+  ],
+  "timestamp": "2026-10-05T15:50:25.796018413Z",
+  "model": "glm-5.3"
+}

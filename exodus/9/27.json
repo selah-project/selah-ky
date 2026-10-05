@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 9:27",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ал эми",
+      "rationale": "Кармама байланыш үчүн кошулду, ивритте жок"
+    },
+    {
+      "kind": "substitution",
+      "subject": "адил",
+      "rationale": "הצדיק — «ыйык-туура» деген ат атооч; цедек тамыры кыргызча бир сөзгө батпайт"
+    },
+    {
+      "kind": "you",
+      "subject": "Моше жана Ахаронго",
+      "rationale": "Фараон аларды тикелей кайрылып сүйлөйт"
+    }
+  ],
+  "translation": "Фараон жөнөттү жана Мошени жана Ахаронду чакырды жана аларга айтты: Бул жолу мен күнөө кылдым; Яхве адил, ал эми мен жана элим жаман адамдар.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "f0fd91f591daba36856b29d55fa0d01fde5ca796991fd4c3af606c32573aba47",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/9\/26-27.1791223579302.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "жөнөттү"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Фараон"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "чакырды"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Мошени"
+    },
+    {
+      "surface": "ולאהרן",
+      "gloss": "жана Ахаронду"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "аларга"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "күнөө кылдым"
+    },
+    {
+      "surface": "הפעם",
+      "gloss": "бул жолу"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "הצדיק",
+      "gloss": "адил"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "мен"
+    },
+    {
+      "surface": "ועמי",
+      "gloss": "жана элим"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "жаман адамдар"
+    }
+  ],
+  "timestamp": "2026-10-05T18:06:19.302998883Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 7:4",
+  "book": "1-kings",
+  "lang": "ky",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מחזה אל מחזה",
+      "rationale": "Э birдей сөздүн кайталанышы — «терезе терезеге каршы» — кыргызча да кайталоо менен берилди."
+    },
+    {
+      "kind": "crux",
+      "subject": "ושקפים",
+      "rationale": "KJV «windows», JPS «beams»: терезелерби же керегелерби деген талаш бар."
+    }
+  ],
+  "translation": "Жана терезелер үч катар, жана терезе терезеге каршы, үч жолу.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "563dc9235ca9f0421671d060b5619d4f33abf1e62d946c3778088d508944fba3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-kings\/7\/1-4.1791208121152.json",
+    "code": "641241cf-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושקפим",
+      "gloss": "жана терезелер"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "үч"
+    },
+    {
+      "surface": "טורים",
+      "gloss": "катар"
+    },
+    {
+      "surface": "ומחזה",
+      "gloss": "жана терезе"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кары"
+    },
+    {
+      "surface": "מחזה",
+      "gloss": "терезеге"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "үч"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "жолу"
+    }
+  ],
+  "timestamp": "2026-10-05T13:48:41.153181555Z",
+  "model": "glm-5.3"
+}

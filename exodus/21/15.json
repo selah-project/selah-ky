@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 21:15",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מות יומת",
+      "rationale": "Этүүчүнү кайталоо — «өлүм менен өлтүрүлсүн» — буйруктун толук формасы, бүт Мийзам китебинде кайталанат"
+    },
+    {
+      "kind": "addition",
+      "subject": "адам",
+      "rationale": "Ивритте «урган» деген причастие гана бар, кыргыз тили субъектти талап кылат"
+    }
+  ],
+  "translation": "Атасын же энесин урган адам өлүм менен өлтүрүлсүн.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "89af2630d59f9915551a559bf157141f40ff3b9b6406428248f965bc49e9498b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/21\/13-16.1791202293096.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומכה",
+      "gloss": "урган"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "атасын"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "же энесин"
+    },
+    {
+      "surface": "מות",
+      "gloss": "өлүм"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "өлтүрүлсүн"
+    }
+  ],
+  "timestamp": "2026-10-05T12:11:33.097130292Z",
+  "model": "glm-5.3"
+}

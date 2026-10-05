@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 105:1",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "ымыркай окурман",
+      "rationale": "Жалпы элге багытталган төрт буйрук: шүгүр айтуу, чакыруу, билдирүү."
+    },
+    {
+      "kind": "alternative",
+      "subject": "иштерин",
+      "rationale": "עלילותיו — «Анын иш-аракеттери \/ эр жүрөктүү иштери»; жөн гана «иштери» деп алынды."
+    }
+  ],
+  "translation": "Яхвеге шүгүркүлүк айтыгыз, Анын ысымы менен чакырыгыз, элдердин арасында Анын иштерин билдириңиз.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "479a558f69a2717c6e0fa80ca306f14c443e691993689c0e8f6caefdabacf49b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/105\/1-4.1791217104453.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "шүгүркүлүк айтыгыз"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхвеге"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "чакырыгыз"
+    },
+    {
+      "surface": "בשמו",
+      "gloss": "Анын ысымы менен"
+    },
+    {
+      "surface": "הודיעו",
+      "gloss": "билдириңиз"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "элдердин арасында"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "Анын иштерин"
+    }
+  ],
+  "timestamp": "2026-10-05T16:18:24.456298306Z",
+  "model": "glm-5.3"
+}

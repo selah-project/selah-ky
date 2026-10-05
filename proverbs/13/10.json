@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 13:10",
+  "book": "proverbs",
+  "lang": "ky",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨болсо⟩",
+      "rationale": "Еврейче текстте «менен» предлогу бар, кыргызча тизмек «болсо» кошулмасын талап кылат."
+    },
+    {
+      "kind": "crux",
+      "subject": "יתן מצה",
+      "rationale": "«Талаш берет» же «талаш туудурат» — нэтан (берүү) этиши туура эмес түшүнүлүп калышы мүмкін."
+    }
+  ],
+  "translation": "Тек гана текебердүүлүктөн талаш чыгат, ал эми ⟨את⟩ кеңешкендер менен ⟨болсо⟩ даналык.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "ac9f940229486522cf378e10e3e527be06efb7506be619db6b1d76bd3f0008f1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/13\/9-12.1791217964369.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "тек гана"
+    },
+    {
+      "surface": "בזדון",
+      "gloss": "текебердүүлүктөн"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "чыгат"
+    },
+    {
+      "surface": "מצה",
+      "gloss": "талаш"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "кеңешкендер"
+    },
+    {
+      "surface": "נועצים",
+      "gloss": "кеңешкендер"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "даналык"
+    }
+  ],
+  "timestamp": "2026-10-05T16:32:44.370522429Z",
+  "model": "glm-5.3"
+}

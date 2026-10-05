@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 50:3",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жейт",
+      "rationale": "תאכל 'жеп коёт' — оттун жутуп жок кылышы, кыргызча 'чайкайт\/жутат' да болот."
+    },
+    {
+      "kind": "crux",
+      "subject": "нשערה",
+      "rationale": "'даан болуу' же 'коркуудан калтыроо' — эки окулуш бар."
+    }
+  ],
+  "translation": "Биздин Элохим келет жана унчукпай калбайт; Анын алдында от жейт, жана Анын тегереги onde даан гүйлөйт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "5b333b4986641e72bb7a769ca2765e7ff3ef82c51e3d22486fb9a306a4389c0a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/50\/1-4.1791216126300.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יבא",
+      "gloss": "келет"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Биздин Элохим"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "жана болбойт"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": "унчукпай калбайт"
+    },
+    {
+      "surface": "אש",
+      "gloss": "от"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "Анын алдында"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "жейт"
+    },
+    {
+      "surface": "וסביביו",
+      "gloss": "жана Анын тегереги"
+    },
+    {
+      "surface": "נשערה",
+      "gloss": "даан гүйлөйт"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "күчтүү"
+    }
+  ],
+  "timestamp": "2026-10-05T16:02:06.301057596Z",
+  "model": "glm-5.3"
+}

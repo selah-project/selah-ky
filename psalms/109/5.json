@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 109:5",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 109,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "טובה\/רעה · אהבה\/שנאה",
+      "rationale": "Жакшылык–жамандык, махабат–жек көрүү карама-каршылыгы эки жолу кайталанат; Chiastic-like parallelism."
+    },
+    {
+      "kind": "alternative",
+      "subject": "коюшту",
+      "rationale": "וישימו — 'төлөп беришти' (KJV 'rewarded') эмес, букмал 'коюшту' (JPS да ошондой)."
+    }
+  ],
+  "translation": "Жана алар мага жакшылыктын ордуна жамандык, махабатымдын ордуна жек көрүү коюшту.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "6f19dae491a01475922e5575bbc1bde79c2b2eed86026de955e8e7f91e9ab34a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/109\/5-8.1791217187314.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "коюшту"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "мага"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "жамандык"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ордуна"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "жакшылыктын"
+    },
+    {
+      "surface": "ושנאה",
+      "gloss": "жек көрүү"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ордуна"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "махабатимдын"
+    }
+  ],
+  "timestamp": "2026-10-05T16:19:47.315481449Z",
+  "model": "glm-5.3"
+}

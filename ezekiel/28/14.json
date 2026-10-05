@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 28:14",
+  "book": "ezekiel",
+  "lang": "ky",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "мамашаҳ",
+      "rationale": "ממשח: KJV 'anointed' (майланган) менен JPS 'far-covering' (алыска жайылган) — канаттарын жайгандыгын билдирет"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨болдуң⟩",
+      "rationale": "Еврей текстинде этиш жок; кыргызча байланыш үчүн кошулду"
+    }
+  ],
+  "translation": "⟨את⟩ жайылган канаттуу, жабуучу керуб — Мен сени Элохимдин ыйык тоосуна койдум; от таштардын ортосунда жүрдүң.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "3bdb94befb7c20cc85338422fabd138e8a499168cb408152f90dfc397aad329c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ezekiel\/28\/13-16.1791213052569.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "жабуучу керуб"
+    },
+    {
+      "surface": "כרוב",
+      "gloss": "керуб"
+    },
+    {
+      "surface": "ממשח",
+      "gloss": "жайылган канаттуу"
+    },
+    {
+      "surface": "הסוכך",
+      "gloss": "жабуучу"
+    },
+    {
+      "surface": "ונתתיך",
+      "gloss": "койдум"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "тоосуна"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ыйык"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохимдин"
+    },
+    {
+      "surface": "היית",
+      "gloss": "⟨болдуң⟩"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ортосунда"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "таштарынын"
+    },
+    {
+      "surface": "אש",
+      "gloss": "от"
+    },
+    {
+      "surface": "התהלכת",
+      "gloss": "жүрдүң"
+    }
+  ],
+  "timestamp": "2026-10-05T15:10:52.570018435Z",
+  "model": "glm-5.3"
+}

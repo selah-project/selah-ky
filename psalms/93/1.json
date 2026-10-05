@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 93:1",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 93,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "לבש לבש",
+      "rationale": "Этиш эки жолу кайталанат — кийинүүнүн күчөтүлүшү, кыргызча бир гана этиш менен берилди"
+    },
+    {
+      "kind": "addition",
+      "subject": "белине кур",
+      "rationale": "התאזר «өзүн кур менен байлоо» — кыргызча курчанууну ачыш үчүн кошулду"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אף",
+      "rationale": "«Ошондуктан» — ף א «да, ошондой эле» деген кошулма; себеп-натыйжа мааниси контексттен"
+    }
+  ],
+  "translation": "Яхве падышачылык кылды, бийиктиктин кийимин кийди, Яхве күч-күбатты кийип белине кур курчанды; ошондуктан дүйнө бекем турат, эч тайгак жок.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "831a0ae960a4e0f13d21c2fd8125f15c5390ff0b98d3dcc9db00ad1b9e5d9efa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/93\/1-4.1791216915357.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "падышачылык кылды"
+    },
+    {
+      "surface": "גאות",
+      "gloss": "бийиктик"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "кийинди"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "кийди"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "עז",
+      "gloss": "күч-күбат"
+    },
+    {
+      "surface": "התאזר",
+      "gloss": "белін курчанды"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ошондуктан"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "бекем турат"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "дүйнө"
+    },
+    {
+      "surface": "בל",
+      "gloss": "эч"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "тайгак жок"
+    }
+  ],
+  "timestamp": "2026-10-05T16:15:15.358337516Z",
+  "model": "glm-5.3"
+}

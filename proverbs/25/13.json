@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 25:13",
+  "book": "proverbs",
+  "lang": "ky",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жан",
+      "rationale": "נפש — дем\/тамак\/жашоо күчү, «жан» кеңири кабыл алынган"
+    },
+    {
+      "kind": "crux",
+      "subject": "כצנת",
+      "rationale": "«кардын суугу» же «кар идиштин» (YLТ); суук көрүнүшү тандалды"
+    },
+    {
+      "kind": "alternative",
+      "subject": "жаңыртат",
+      "rationale": "ישיב «кайтарат» деген да болот — жан «кайтып келет»"
+    }
+  ],
+  "translation": "Орок күнү кардын суугу сыяктуу — аны жиберген адамга ишенчүү элчи, жана ал өз кожоюндарынын жанын жаңыртат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "c8e93595ea61d5213bf857961d4115903817189a3586cae21d5ad24e37db7480",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/25\/13-16.1791218338105.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כצנת",
+      "gloss": "сыяктуу суук"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "кар"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "күнү"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "орок"
+    },
+    {
+      "surface": "ציר",
+      "gloss": "элчи"
+    },
+    {
+      "surface": "נאמן",
+      "gloss": "ишенчүү"
+    },
+    {
+      "surface": "לשלחיו",
+      "gloss": "аны жиберген адамга"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "жанын"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "өз кожоюндарынын"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "жаңыртат"
+    }
+  ],
+  "timestamp": "2026-10-05T16:38:58.105936485Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-kings 1:29",
+  "book": "1-kings",
+  "lang": "ky",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "חי יהוה",
+      "rationale": "ант формуласы «Яхве тирүү» — кыргызча «Яхве тирүү болсо» деген шарттуу ант"
+    },
+    {
+      "kind": "substitution",
+      "subject": "жан",
+      "rationale": "נפש — жүрөк-алакты эмес, дем алуучу жандуулук, «жан-дене» маанисинде"
+    }
+  ],
+  "translation": "Падыша ант берип айтты: Бардык кыйынчылыктан ⟨את⟩ жанымды куткарган Яхве тирүү!",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "b585ae4433d9ea7473aa7b783bf37342077aca4b20b52b5dd5cf55826aa497a0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-kings\/1\/29-32.1791207989859.json",
+    "code": "641241cf-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישבע",
+      "gloss": "ант берип"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "падыша"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "חי",
+      "gloss": "тирүү"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ал"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "куткарган"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "жанымды"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "жанымды"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "бардык"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "кыйынчылыктан"
+    }
+  ],
+  "timestamp": "2026-10-05T13:46:29.859920331Z",
+  "model": "glm-5.3"
+}

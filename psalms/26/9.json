@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 26:9",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жаныбарымды",
+      "rationale": "נפש — дем алуучу жандык, көңүл\/жан күчү; «жан» деген дайыма туура эмес"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אנשי דמים",
+      "rationale": "«кан адамдары» — кандык сөз айкашы, кыргызча «кан төккөн адамдар» менен берилди"
+    }
+  ],
+  "translation": "Жаныбарымды күнөөкөрлөр менен кошпо, жана жашоомду кан төккөн адамдар менен кошпо.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "8abf0f1c75d1ad7f331abc0dd0de1a9916fb9243d0c731aa7052472fa2c06bb6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/26\/9-12.1791215655393.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "жок"
+    },
+    {
+      "surface": "תאсף",
+      "gloss": "кошпо"
+    },
+    {
+      "surface": "עם",
+      "gloss": "менен"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "күнөөкөрлөр"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "жаныбарымды"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "жана менен"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "адамдары"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "кан төккөн"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "жашоомду"
+    }
+  ],
+  "timestamp": "2026-10-05T15:54:15.394206172Z",
+  "model": "glm-5.3"
+}

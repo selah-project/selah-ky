@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 21:5",
+  "book": "1-samuel",
+  "lang": "ky",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "кадыр-барктуу эмес",
+      "rationale": "חל — ыйык эмес, кадыр-барктуу эмес деген мааниде, «жөнөкөй» деген сөз дагы мүмкүн"
+    },
+    {
+      "kind": "crux",
+      "subject": "כי אם",
+      "rationale": "«бирок» же «тек гана» — ыйык нан гана бар деген чектөө мааниси"
+    }
+  ],
+  "translation": "Жана ыйык кызмат кылуучу ⟨את⟩ Давидке жооп берип айтты: Колумдун астында кадыр-барктуу эмес нан жок, бирок ыйык нан бар, эгерде жигиттер аялдан сактанган болсо.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "ac874d98521f4f5c62fff1cc74f08e3de253099503cfacbe6efa48a6c66e1057",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-samuel\/21\/5-8.1791207170183.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "жооп берип"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ыйык кызмат кылуучу"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Давид"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "אין",
+      "gloss": "жок"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "нан"
+    },
+    {
+      "surface": "חל",
+      "gloss": "кадыр-барктуу эмес"
+    },
+    {
+      "surface": "אל",
+      "gloss": "астында"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "астында"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "колумдун"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бирок"
+    },
+    {
+      "surface": "אם",
+      "gloss": "эгерде"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "нан"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ыйык"
+    },
+    {
+      "surface": "יש",
+      "gloss": "бар"
+    },
+    {
+      "surface": "אם",
+      "gloss": "эгерде"
+    },
+    {
+      "surface": "נשמרו",
+      "gloss": "сактанган болсо"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "жигиттер"
+    },
+    {
+      "surface": "אך",
+      "gloss": "тек"
+    },
+    {
+      "surface": "מאשה",
+      "gloss": "аялдан"
+    }
+  ],
+  "timestamp": "2026-10-05T13:32:50.184646344Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-samuel 14:32",
+  "book": "1-samuel",
+  "lang": "ky",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ויעש אל שלל",
+      "rationale": "сөзмө-сөз 'олжого жасады' — 'олжого ашты' деген майдаң идиома"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ובני בקר",
+      "rationale": "'ирдин уулдары' — 'туарлар' (мүчөдөгү байланыштык конструкция)"
+    }
+  ],
+  "translation": "Жана эл олжого ашты, койлорду, өгүздөрдү жана туарларды алды да, жерге сойду, жана эл кан менен кошо жеди.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "531e3f0b0ef3d61561db3690af04afd544bf66c3034f5fc00ff520c4d56de94c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-samuel\/14\/29-32.1791206863295.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ашты"
+    },
+    {
+      "surface": "העם",
+      "gloss": "эл"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "שלל",
+      "gloss": "олжого"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "алды"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "койлорду"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "өгүздөрдү"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "туарларды"
+    },
+    {
+      "surface": "בקר",
+      "gloss": ""
+    },
+    {
+      "surface": "וישחטו",
+      "gloss": "сойду"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "жерге"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "жеди"
+    },
+    {
+      "surface": "העם",
+      "gloss": "эл"
+    },
+    {
+      "surface": "על",
+      "gloss": "менен кошо"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "кан"
+    }
+  ],
+  "timestamp": "2026-10-05T13:27:43.296400829Z",
+  "model": "glm-5.3"
+}

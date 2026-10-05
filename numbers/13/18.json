@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 13:18",
+  "book": "numbers",
+  "lang": "ky",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "-бы\/-бе суроо мүчөсү",
+      "rationale": "еврейче жөн гана 'күчтүү... алсыз... аз... же көп' — кыргызча суроо мүчөсүн талап кылат"
+    },
+    {
+      "kind": "measurement",
+      "subject": "элдин саны менен күчү",
+      "rationale": "санап-баалоо суроолору: азбы-көпбү, күчтүүбү-алсызбы"
+    },
+    {
+      "kind": "invitation",
+      "subject": "көрүңөр",
+      "rationale": "императив — чалгынчыларды кызматка чакыруу"
+    }
+  ],
+  "translation": "Жана жерди көрүңөр: ал кандай? Жана анда жашаган элди ⟨את⟩ — алар күчтүүбү, алсызбы? Алар азбы, көпбү?",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "30ab6c9a7dd55b2db2a8c57b29d521e3abe42f41490e7df53b4f0a34c3d282ef",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/numbers\/13\/17-20.1791203892750.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וראיתם",
+      "gloss": "жана көрүңөр"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "жерди"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "жерди"
+    },
+    {
+      "surface": "מה",
+      "gloss": "кандай"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ал"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "элди"
+    },
+    {
+      "surface": "העם",
+      "gloss": "элди"
+    },
+    {
+      "surface": "הישב",
+      "gloss": "анда жашаган"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "анда"
+    },
+    {
+      "surface": "החזק",
+      "gloss": "күчтүүбү"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ал"
+    },
+    {
+      "surface": "הרפה",
+      "gloss": "алсызбы"
+    },
+    {
+      "surface": "המעט",
+      "gloss": "азбы"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ал"
+    },
+    {
+      "surface": "אם",
+      "gloss": "же"
+    },
+    {
+      "surface": "רב",
+      "gloss": "көпбү"
+    }
+  ],
+  "timestamp": "2026-10-05T12:38:12.751764951Z",
+  "model": "glm-5.3"
+}

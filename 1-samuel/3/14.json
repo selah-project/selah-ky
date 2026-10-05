@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 3:14",
+  "book": "1-samuel",
+  "lang": "ky",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אם",
+      "rationale": "ант формуласынын шарттуу «эгер» деген сөзү кыргызча сүйлөмдө табигый болбогондуктан түшүрүлдү."
+    },
+    {
+      "kind": "substitution",
+      "subject": "минха",
+      "rationale": "מנחה — буудай курмандыгы; атайын сөз катары «минха» деп сакталды."
+    }
+  ],
+  "translation": "Ошондуктан Мен Элинин үйүнө ант бердим: Элинин үйүнүн күнөөсү курмандык жана минха менен түбөлүккө чейин кечирилбейт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "6be9d30d54d0c5465046f4359c8277051c27800fa5fa082cc075ef720b31d282",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-samuel\/3\/13-16.1791206645773.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולכן",
+      "gloss": "ошондуктан"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "ант бердим"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "үйүнө"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Элинин"
+    },
+    {
+      "surface": "אם",
+      "gloss": "эгер"
+    },
+    {
+      "surface": "יתכפר",
+      "gloss": "кечирилат"
+    },
+    {
+      "surface": "עון",
+      "gloss": "күнөөсү"
+    },
+    {
+      "surface": "בית",
+      "gloss": "үйүнүн"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Элинин"
+    },
+    {
+      "surface": "בזבח",
+      "gloss": "курмандык менен"
+    },
+    {
+      "surface": "ובמנחה",
+      "gloss": "жана минха менен"
+    },
+    {
+      "surface": "עד",
+      "gloss": "чейин"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "түбөлүк"
+    }
+  ],
+  "timestamp": "2026-10-05T13:24:05.773987957Z",
+  "model": "glm-5.3"
+}

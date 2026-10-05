@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-chronicles 25:28",
+  "book": "2-chronicles",
+  "lang": "ky",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "аны",
+      "rationale": "Ивритте שא объекти мүчө менен берилген, кыргызча так көрсөтүүчү талап кылынат"
+    },
+    {
+      "kind": "alternative",
+      "subject": "шаар",
+      "rationale": "Geneva\/KJV «Judah» шаары деп берет; ивриттеги בעיר יהודה «Йаһуданын шаары» — кээ бирлер бул Йаһуданын борбору Йерушалайим деп түшүнөт"
+    }
+  ],
+  "translation": "Аны аттарга мингизип көтөрүштү, жана аны аталарынын жанына Йаһуданын шаарына коюшту.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "8582e25d86c4b5b50b6f8e55199932fa5956752e0d5b04ec040d12e37602209a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-chronicles\/25\/28-28.1791224662770.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישאהו",
+      "gloss": "көтөрүштү"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстүнө"
+    },
+    {
+      "surface": "הסוסים",
+      "gloss": "аттарга"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "жана ... коюшту"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "аны"
+    },
+    {
+      "surface": "עם",
+      "gloss": "жанына"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "аталарынын"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "шаарына"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Йаһуданын"
+    }
+  ],
+  "timestamp": "2026-10-05T18:24:22.770725722Z",
+  "model": "glm-5.3"
+}

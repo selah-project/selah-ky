@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 23:6",
+  "book": "jeremiah",
+  "lang": "ky",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "rationale": "«ал» — кыргызча «атошот» этиши байланышты көтөргөнүнөн түшүрүлдү."
+    },
+    {
+      "kind": "substitution",
+      "subject": "צדקנו",
+      "rationale": "Яхвенин ысымдык формасы — «Цидкену» (биздин цедек) деп айтылышында сакталды, котормо эмес."
+    },
+    {
+      "kind": "measurement",
+      "subject": "ысым",
+      "rationale": "Бул аят жаңы падышанын ысымын атайт — ысымдык өлчөө\/белгилөө."
+    }
+  ],
+  "translation": "Анын күндөрүндө Йаһуда куткарылат, жана Йисраэл коопсуз жашайт; жана анын ысымы ушул — аны атошот: Яхве Цидкену, биздин цедегибиз.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "1e60cac891bf77fb20372154fcb642d05eb6a27881f66a2d50131bfb83ec1fe6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/jeremiah\/23\/5-8.1791211259234.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בימיו",
+      "gloss": "Анын күндөрүндө"
+    },
+    {
+      "surface": "תושע",
+      "gloss": "куткарылат"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Йаһуда"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "жана Йисраэл"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "жашайт"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "коопсуз"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "жана ушул"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ысымы"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "атошот"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "צדקנו",
+      "gloss": "Цидкену"
+    }
+  ],
+  "timestamp": "2026-10-05T14:40:59.235940009Z",
+  "model": "glm-5.3"
+}

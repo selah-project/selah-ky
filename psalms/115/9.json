@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 115:9",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 115,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Йисраэлге",
+      "rationale": "Тикелей кайрылуу — бүт Йисраэл эли серептүүчү деп чакырылат."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "алардын жардамы жана калканы",
+      "rationale": "Бул сап 9–11-аяттарда үч жолу кайталанат — ырдагы рефрен, кыргызча да так кайталанган."
+    }
+  ],
+  "translation": "Йисраэл, Яхвеге таян; алардын жардамы жана калканы — Ал ⟨ОЗү⟩.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "8c8b486acabcd6c65fbb9711d225a56314fbaa84265560a66c475cee8e99090a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/115\/9-12.1791217263344.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэл"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "таян"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Яхвеге"
+    },
+    {
+      "surface": "עזרם",
+      "gloss": "жардамы"
+    },
+    {
+      "surface": "ומגנם",
+      "gloss": "жана калканы"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Ал"
+    }
+  ],
+  "timestamp": "2026-10-05T16:21:03.345430786Z",
+  "model": "glm-5.3"
+}

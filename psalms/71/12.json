@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 71:12",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 71,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "кел",
+      "rationale": "חישה этиш «шашыл» деген мааниде; кыргызча этиш талап кылат"
+    },
+    {
+      "kind": "you",
+      "subject": "Элохимге",
+      "rationale": "тике кирүү — жалгыз адам Кудайды чакырат"
+    }
+  ],
+  "translation": "Элохим, менден алыс болбо, Элохимум, жардамыма тез кел.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "0a567c5678e44f387d883d9244ab60c27e0aa82207404392feee9e08fb9363d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/71\/9-12.1791216410435.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "алыс болбо"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "менден"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Элохимум"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "жардамыма"
+    },
+    {
+      "surface": "חישה",
+      "gloss": "тез кел"
+    }
+  ],
+  "timestamp": "2026-10-05T16:06:50.436799741Z",
+  "model": "glm-5.3"
+}

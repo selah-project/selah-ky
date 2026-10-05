@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 30:13",
+  "book": "1-samuel",
+  "lang": "ky",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "египетский юноша",
+      "rationale": "Давид түз байланышып сураш берет — «Сен кимдикисің, кайдан келдиң?»"
+    },
+    {
+      "kind": "substitution",
+      "subject": "кожоюнум",
+      "rationale": "אדני бул жерде адам жөнүндө — «кожоюнум», Адонай эмес (D1)"
+    },
+    {
+      "kind": "addition",
+      "subject": "бери",
+      "rationale": "היום שלשה «үч күн» — кыргызча «үч күндөн бери» ылайыктуу, «бери» кошулду"
+    }
+  ],
+  "translation": "Давид ага айтты: Сен кимдикисің, жана мындан кайдан келдиң? Ал айтты: Мен Мицрайимдик жаш жигитмин, бир амалекиттик адамдын кулумун; кожоюнум мени таштап кетти, анткени мен үч күндөн бери ооруп жатам.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "f73069f458c3c8329b7fb56c6e0b6994870cdd8633f6e2ed9eec8c5d7fa54ce4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-samuel\/30\/13-16.1791207274119.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ага"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "למי",
+      "gloss": "кимдикисің"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "сен"
+    },
+    {
+      "surface": "ואי",
+      "gloss": "жана кайдан"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "мындан"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "сен"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "נער",
+      "gloss": "жаш жигит"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "Мицрайимдик"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "мен"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "кулумун"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "бир адамдын"
+    },
+    {
+      "surface": "עמלקי",
+      "gloss": "амалекиттик"
+    },
+    {
+      "surface": "ויעזבני",
+      "gloss": "таштап кетти"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "кожоюнум"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "חליתי",
+      "gloss": "ооруп жатам"
+    },
+    {
+      "surface": "היום",
+      "gloss": "күн"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "үч"
+    }
+  ],
+  "timestamp": "2026-10-05T13:34:34.119695084Z",
+  "model": "glm-5.3"
+}

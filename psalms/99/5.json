@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 99:5",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 99,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "verse",
+      "rationale": "Көппөлүк буйрук формалары (бийик кылгыла, табынгыла) окурманды чакырат."
+    },
+    {
+      "kind": "you",
+      "subject": " Израилге",
+      "rationale": "Ырдаган жамаат сөз кылат — Яхвени мактагыла деп чакырылат."
+    },
+    {
+      "kind": "addition",
+      "subject": "буттарынын",
+      "rationale": "Ивритте להדם жана רגליв биригип «Анын буттарынын отургучу» деген кармалып турган түзүлүштү берет."
+    }
+  ],
+  "translation": "Яхвени, биздин Элохимибизди бийик кылгыла жана Анын буттарынын отургучуна табынгыла — ыйык Ал.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "9c29dcd4b95be0f2df3d95f849a38c88835405d3fc8b3bf7d39bf94943a5617a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/99\/5-8.1791217027630.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רוממו",
+      "gloss": "бийик кылгыла"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвени"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "биздин Элохимибизди"
+    },
+    {
+      "surface": "והשתחוו",
+      "gloss": "жана табынгыла"
+    },
+    {
+      "surface": "להדם",
+      "gloss": "отургучуна"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "Анын буттарынын"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "ыйык"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Ал"
+    }
+  ],
+  "timestamp": "2026-10-05T16:17:07.631212324Z",
+  "model": "glm-5.3"
+}

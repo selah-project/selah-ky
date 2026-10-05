@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 39:6",
+  "book": "ezekiel",
+  "lang": "ky",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨анткени⟩",
+      "rationale": "Ивриттин «ки» түз байланышы кыргызча «Мен — Яхве» деген атооч менен берилди."
+    },
+    {
+      "kind": "substitution",
+      "subject": "аркылыктар",
+      "rationale": "האיים буквально «аралдар\/жээктер» — алыскы элдер жашаган жээктер."
+    }
+  ],
+  "translation": "Жана Мен Магогго от жиберем, жана аркылыктарда коопсуз жашагандарга, жана алар билишет: Мен — Яхве.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "772630f52476ff9fa725625d5c7816880788f4446f00e25fe9c72bc5534c4074",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ezekiel\/39\/5-8.1791213367314.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "жиберем"
+    },
+    {
+      "surface": "אש",
+      "gloss": "от"
+    },
+    {
+      "surface": "вמגוג",
+      "gloss": "Магогго"
+    },
+    {
+      "surface": "ובישבי",
+      "gloss": "жашагандарга"
+    },
+    {
+      "surface": "האיים",
+      "gloss": "аркылыктарда"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "коопсуз"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "билишет"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨анткени⟩"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Мен"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-10-05T15:16:07.315112288Z",
+  "model": "glm-5.3"
+}

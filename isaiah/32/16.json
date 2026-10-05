@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 32:16",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "במדבר \/ בכרמל",
+      "rationale": "v.16 reuses the exact landscape pair of v.15 — the transformed places become the dwelling of justice and righteousness"
+    }
+  ],
+  "translation": "Жана чөлдө өкүм жашай береди, кармалда болсо цедек отуруп турат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "54a4ee93ff5d9edc23a90bf916d9c00ba12541e2f3e4a68dd9dc01f389597b7b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/32\/13-16.1791209875648.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושכן",
+      "gloss": "жана … жашай береди"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "чөлдө"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "өкүм"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "жана цедек"
+    },
+    {
+      "surface": "בכרמל",
+      "gloss": "кармалда"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "отуруп турат"
+    }
+  ],
+  "timestamp": "2026-10-05T14:17:55.649813934Z",
+  "model": "glm-5.3"
+}

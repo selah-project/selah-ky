@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 111:6",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 111,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "колунун",
+      "rationale": "Hebrew has 'the power of his works'; 'hand' supplied from v.7 context — none actually; removed"
+    }
+  ],
+  "translation": "Өзүнүн колунун күч-кудуретин Өзүнүн элине билдирди — элдердин мурасын аларга берүү үчүн.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "6ac6105171b3cc244d57c5875fc5bb9ca82c2c5f9d24bd5aea6be085fb81f9ce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/111\/5-8.1791217195034.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כח",
+      "gloss": "күч-кудуретин"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "Өзүнүн иштеринин"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "билдирди"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "Өзүнүн элине"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "берүү үчүн"
+    },
+    {
+      "surface": "להם",
+      "gloss": "аларга"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "мурасын"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "элдердин"
+    }
+  ],
+  "timestamp": "2026-10-05T16:19:55.040887375Z",
+  "model": "glm-5.3"
+}

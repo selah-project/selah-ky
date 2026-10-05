@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 43:22",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "чарчадың",
+      "rationale": "יגעת בי: «менен чарчадың» (менден жададың) же «мен үчүн чарчаган жоксун» (JPS) — эки окуу бар"
+    }
+  ],
+  "translation": "Жана сен мени чакырган жоксун, Яаков, анткени сен менен чарчадың, Йисраэл.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "8fd549779e895247aa5f3d97d5bb2cc3abcc6be3e33ed596ee28c8bf300a9019",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/43\/21-24.1791210165198.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "жана ... жоксун"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "мени"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "чакырган"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаков"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "יגעת",
+      "gloss": "чарчадың"
+    },
+    {
+      "surface": "בי",
+      "gloss": "менен"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэл"
+    }
+  ],
+  "timestamp": "2026-10-05T14:22:45.199179039Z",
+  "model": "glm-5.3"
+}

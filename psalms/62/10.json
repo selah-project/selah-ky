@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 62:10",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 62,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "таразага салынганда",
+      "rationale": "לעלות 'көтөрүлүүгө': таразада көтөрүлүү (BSB) же бекерликтен жеңил болуу (KJV\/JPS) — эки окуума бар."
+    },
+    {
+      "kind": "addition",
+      "subject": "жеңил",
+      "rationale": "Салыштыруу үчүн 'жеңил' деген сөз кошулду, еврейче текстте ачык айтылбайт."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הבל",
+      "rationale": "Хебел сөзү эки жолу кайталанып, строфтун аягында байланыштырат."
+    }
+  ],
+  "translation": "Чындыгында, адам балдары — бекер нерсе, эркек балдары — жалган; таразага салынганда, алар бекерликтен бирге ⟨жеңил⟩.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "0a379c45e89b57afba656b2e3fe66866950528260cc037bfb6ce8e6748a6f84b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/62\/9-12.1791216318236.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Чындыгында"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "бекер нерсе"
+    },
+    {
+      "surface": "בני",
+      "gloss": "балдары"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "адам"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "жалган"
+    },
+    {
+      "surface": "בני",
+      "gloss": "балдары"
+    },
+    {
+      "surface": "איש",
+      "gloss": "эркек"
+    },
+    {
+      "surface": "במאזנים",
+      "gloss": "таразага"
+    },
+    {
+      "surface": "לעלות",
+      "gloss": "салынганда"
+    },
+    {
+      "surface": "המה",
+      "gloss": "алар"
+    },
+    {
+      "surface": "מהבל",
+      "gloss": "бекерликтен"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "бирге"
+    }
+  ],
+  "timestamp": "2026-10-05T16:05:18.237530333Z",
+  "model": "glm-5.3"
+}

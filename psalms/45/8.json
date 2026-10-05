@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 45:8",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "падышага",
+      "rationale": "Аят падышага түз кайрылуу менен сүйлөйт."
+    },
+    {
+      "kind": "crux",
+      "subject": "אלהים...אלהיך",
+      "rationale": "'Элохим, сенин Элохимиң' — падышага айтылган вокатив же 'Элохим — сенин Элохимиң'; эки окуу бар."
+    }
+  ],
+  "translation": "Сен цедекти сүйдүң жана бузукулукту жек көрдүң; ошондуктан Элохим, сенин Элохимиң сени кубаныч майы менен майлады, сенин шериктериңден өткө.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "629bded34f53d67fc575652ae2097649e1ec92627abe711e50b62f34c967bf30",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/45\/5-8.1791216138075.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "сен сүйдүң"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "цедекти"
+    },
+    {
+      "surface": "ותשנא",
+      "gloss": "жана жек көрдүң"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "бузукулукту"
+    },
+    {
+      "surface": "על",
+      "gloss": "ошондуктан...себебинен"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ошентип"
+    },
+    {
+      "surface": "משחך",
+      "gloss": "сени майлады"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "сенин Элохимиң"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "май"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "кубаныч"
+    },
+    {
+      "surface": "מחבריך",
+      "gloss": "сенин шериктериңден өткө"
+    }
+  ],
+  "timestamp": "2026-10-05T16:02:18.076338094Z",
+  "model": "glm-5.3"
+}

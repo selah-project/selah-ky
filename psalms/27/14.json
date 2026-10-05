@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 27:14",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ויאמץ",
+      "rationale": "Буйрук «жүрөгүң бекем болсун» (JPS) же үчүнчү жак «ал бекемдейт» (KJV) — тамыр окшош, айтылышы бөлө."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ал⟩",
+      "rationale": "Үчүнчү жак окуунда этиштин субъектиси кыргызча талап кылынат."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קוה אל יהוה ... וקוה אל יהוה",
+      "rationale": "Аяттын башында жана аягында окшош кайрылуу кайталанат — рамка, ырдын чакыруусу."
+    },
+    {
+      "kind": "invitation",
+      "subject": "окурманга\/ыйык кылуучуга",
+      "rationale": "Аят буйрук менен кайрылат: үмүт кыл, күчтүү бол — чакыруу."
+    },
+    {
+      "kind": "you",
+      "subject": "окурманга",
+      "rationale": "Түз кайрылуу: буйрук жана ээлик «жүрөгүңдү»."
+    }
+  ],
+  "translation": "Яхвеге үмүт кыл; күчтүү бол жана ⟨ал⟩ жүрөгүңдү бекемдейт; ооба, Яхвеге үмүт кыл!",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "7279dd61c31884fd87504f0892046dbd010a32df671d465ed354dd2a9719f65c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/27\/13-14.1791215661607.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קוה",
+      "gloss": "үмүт кыл"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Яхвеге"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "күчтүү бол"
+    },
+    {
+      "surface": "ויאמץ",
+      "gloss": "жана бекемдейт"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "жүрөгүңдү"
+    },
+    {
+      "surface": "וקוה",
+      "gloss": "жана үмүт кыл"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Яхвеге"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-10-05T15:54:21.608368275Z",
+  "model": "glm-5.3"
+}

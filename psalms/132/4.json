@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 132:4",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 132,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "Эгер... бербесем",
+      "rationale": "Үчүнчү аяттагы анттын уландысы: шарттуу «эгер» менен айтылган четке кагуу."
+    },
+    {
+      "kind": "substitution",
+      "subject": "уйкусундууроо",
+      "rationale": "תנומה — узун уйкуга эмес, кыска уйкусуздукка жакын «тамшануу уйку» деген мааниде."
+    }
+  ],
+  "translation": "Эгер көздөрүмө уйку бербесем, көз кабактарыма уйкусундууроо бербесем —",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "50160d280066b0494859aabfcbb8bb1f0ae07e90f934b48a4e3f5fdb316ab3d6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/132\/1-4.1791217465828.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Эгер"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "бербесем"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "уйку"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "көздөрүмө"
+    },
+    {
+      "surface": "לעпעפי",
+      "gloss": "көз кабактарыма"
+    },
+    {
+      "surface": "תנומה",
+      "gloss": "уйкусундууроо"
+    }
+  ],
+  "timestamp": "2026-10-05T16:24:25.829918082Z",
+  "model": "glm-5.3"
+}

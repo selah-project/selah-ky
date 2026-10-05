@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 20:14",
+  "book": "leviticus",
+  "lang": "ky",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жаман ой",
+      "rationale": "זִמָּה — 'жаман ой, жаман ниет'; салттуу 'жүрөксүздүк' катары берилген, бул жерде буктурма сөз катары"
+    },
+    {
+      "kind": "addition",
+      "subject": "бул",
+      "rationale": "Еврейче הוּא баягыч, кыргызча 'бул' деген толуктура киргизилди"
+    },
+    {
+      "kind": "you",
+      "subject": "силердин араңарда",
+      "rationale": "Аят Израил жамаатына багытталат — 'силердин араңарда'"
+    }
+  ],
+  "translation": "Жана бир эркек ⟨את⟩ аялды жана ⟨את⟩ анын энесин алса — бул жаман ой; аны жана аларды отто өрттөшсүн, жана силердин араңарда жаман ой болбосун.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "b6761a83c515ecce7d0f69cc64d8839617c8740c874f279242849e96e6bac7f4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/20\/14-15.1791223655258.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "жана бир эркек"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "алса"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "алса"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "аялды"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "аялды"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "жана ⟨את⟩",
+      "marks": "анын энесин"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "анын энесин"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "жаман ой"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "бул"
+    },
+    {
+      "surface": "באש",
+      "gloss": "отто"
+    },
+    {
+      "surface": "ישרפו",
+      "gloss": "өрттөшсүн"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ аны",
+      "marks": "аны"
+    },
+    {
+      "surface": "ואתהן",
+      "gloss": "жана ⟨את⟩ аларды",
+      "marks": "аларды"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "жана болбосун"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "болбосун"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "жаман ой"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "силердин араңарда"
+    }
+  ],
+  "timestamp": "2026-10-05T18:07:35.261811077Z",
+  "model": "glm-5.3"
+}

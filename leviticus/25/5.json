@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 25:5",
+  "book": "leviticus",
+  "lang": "ky",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "сефих",
+      "rationale": "ספיח — өзүнөн өскөн түшүм; котормолор 'артыкча өсүмдүк' же 'тигилбеген эгин' деп бөлүнөт"
+    },
+    {
+      "kind": "crux",
+      "subject": "назириңдин",
+      "rationale": "נזירך — 'бөлүнгөн\/түшүрүлбөгөн бак' же 'назирейлик байлык' деген эки окуу бар"
+    }
+  ],
+  "translation": "⟨את⟩ өзүнөн өскөн түшүмүңдү оруба, жана ⟨את⟩ назириңдин жүзүмдөрүн тербе — жер үчүн Шаббат эс алуу жылы болот.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "a41bade2eac609d4621619da794c6d8244eac84883d27511db8ea86e6074f80d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/25\/5-8.1791203415518.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "өзүнөн өскөн түшүмүңдү"
+    },
+    {
+      "surface": "ספיח",
+      "gloss": "өзүнөн өскөн"
+    },
+    {
+      "surface": "קצירך",
+      "gloss": "түшүмүңдү"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "תקצור",
+      "gloss": "оруба"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "жана ⟨את⟩",
+      "marks": "жүзүмдөрүн"
+    },
+    {
+      "surface": "ענבי",
+      "gloss": "жүзүмдөрүн"
+    },
+    {
+      "surface": "נזירך",
+      "gloss": "назириңдин"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "תבצר",
+      "gloss": "тербе"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "жылы"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "Шаббат эс алуу"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "болот"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "жер үчүн"
+    }
+  ],
+  "timestamp": "2026-10-05T12:30:15.519280386Z",
+  "model": "glm-5.3"
+}

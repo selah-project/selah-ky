@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 58:8",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 58,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "жебесин какканда",
+      "rationale": "ידרך חצו: «жааны какканда» (KJV) же «жебеси түшкөндө» (YLT) — эки окуу бар"
+    },
+    {
+      "kind": "elision",
+      "subject": "למו",
+      "rationale": "бөлүкчө ламму кыргызча өзүнчө берилбейт, макулдаштык ⟨алар⟩ менен көтөрүлдү"
+    }
+  ],
+  "translation": "Алар суу сыяктуу жоголуп, тарап кетсин; ⟨алар⟩ жебесин какканда, жебелер сынып калсын.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "eb817a6b037371ddaaf7bf83a2a4b6b8f71815d55c3ab7cafac572118ebca6f0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/58\/5-8.1791216245973.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ימאסו",
+      "gloss": "жоголуп"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "сыяктуу"
+    },
+    {
+      "surface": "מים",
+      "gloss": "суу"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "тарап кетсин"
+    },
+    {
+      "surface": "למו",
+      "gloss": "⟨алар⟩"
+    },
+    {
+      "surface": "ידרך",
+      "gloss": "какканда"
+    },
+    {
+      "surface": "חצו",
+      "gloss": "жебесин"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "сыяктуу"
+    },
+    {
+      "surface": "יתмללו",
+      "gloss": "сынып калсын"
+    }
+  ],
+  "timestamp": "2026-10-05T16:04:05.974786034Z",
+  "model": "glm-5.3"
+}

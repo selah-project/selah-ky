@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 15:7",
+  "book": "1-chronicles",
+  "lang": "ky",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "жүз отуз",
+      "rationale": "Левилердин үй-бүлөлөрүнүн санын санаган эсеп аят"
+    },
+    {
+      "kind": "addition",
+      "subject": "адам",
+      "rationale": "Еврей текстинде жок, сандын маанисин тактоо үчүн кошулду"
+    }
+  ],
+  "translation": "Гершомдун уулдарынан — башчы Жоел жана анын бир туугандары, жүз отуз адам.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "0859649601e0547d0608963ddcadde0d2f17a7e6bcdef515bcd890fdce7801ac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-chronicles\/15\/5-8.1791222068873.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "уулдарынан"
+    },
+    {
+      "surface": "גרשום",
+      "gloss": "Гершомдун"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "Жоел"
+    },
+    {
+      "surface": "השר",
+      "gloss": "башчы"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "жана анын бир туугандары"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "жүз"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "отуз"
+    }
+  ],
+  "timestamp": "2026-10-05T17:41:08.874966533Z",
+  "model": "glm-5.3"
+}

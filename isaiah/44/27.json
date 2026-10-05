@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "isaiah 44:27",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חרבי\/אוביש",
+      "rationale": "эки кургоо этиши үндөш: «кургап кал» — «кургатамын», жооп айкашуу"
+    },
+    {
+      "kind": "substitution",
+      "subject": "тереңдик",
+      "rationale": "צולה — деңиздин түбү, абарак жер"
+    }
+  ],
+  "translation": "Тереңдикке: «Кургап кал», — жана анын дарыяларын кургатамын деген.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "006ac0daa57af6a0823b38da88c03a5109e91d0f6e8e8c4ec7b1c0bb6e2b73a6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/44\/25-28.1791210246970.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "האמר",
+      "gloss": "айткан"
+    },
+    {
+      "surface": "לצולה",
+      "gloss": "тереңдикке"
+    },
+    {
+      "surface": "חרבי",
+      "gloss": "кургап кал"
+    },
+    {
+      "surface": "ונהרתיך",
+      "gloss": "жана анын дарыяларын"
+    },
+    {
+      "surface": "אוביש",
+      "gloss": "кургатамын"
+    }
+  ],
+  "timestamp": "2026-10-05T14:24:06.971126579Z",
+  "model": "glm-5.3"
+}

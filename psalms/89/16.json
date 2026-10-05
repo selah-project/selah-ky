@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 89:16",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תרועה",
+      "rationale": "'Теруа' — шоокум, кубаныч айкырыгы, согуш үнү: 'кубаныч үнү' (KJV) менен 'шаң-үн' ортосунда талаш"
+    },
+    {
+      "kind": "you",
+      "subject": "Яхвеге",
+      "rationale": "Ырында Яхвеге түз кайрылуу — 'Яхве, ... нурунда'"
+    },
+    {
+      "kind": "addition",
+      "subject": "ал",
+      "rationale": "Кыргызча сүйлөм түзүлүшү үчүн кошулган көрсөтүүчү зат атооч, еврейче жок"
+    }
+  ],
+  "translation": "Бактылуу ⟨ал⟩ эл — теруаны билгендер; Яхве, Сенин жүзүңдүн нурунда алар жүрүшөт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "bd7c909ace50b8d7a0eefd8ecd82daebaa3f2d236bb70cb9c172f5a72315f6d2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/89\/13-16.1791216793861.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Бактылуу"
+    },
+    {
+      "surface": "העם",
+      "gloss": "эл"
+    },
+    {
+      "surface": "יודעי",
+      "gloss": "билгендер"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "теруа ⟨шаң үн⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "באור",
+      "gloss": "нурунда"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "Сенин жүзүңдүн"
+    },
+    {
+      "surface": "יהלכון",
+      "gloss": "жүрүшөт"
+    }
+  ],
+  "timestamp": "2026-10-05T16:13:13.862419506Z",
+  "model": "glm-5.3"
+}

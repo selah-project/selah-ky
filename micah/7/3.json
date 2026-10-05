@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "micah 7:3",
+  "book": "micah",
+  "lang": "ky",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "להיטיב",
+      "rationale": "Кымбат котормолор: «жамандыкты кылыш үчүн эки колу да даяр» (KJV) же «жакшылык эмес, жамандык» (тийишүү мамилеси тескери)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "жан",
+      "rationale": "נפש — жүрөк-тилек, жан күчү; кыргызча жанынын ооругу делип берилди"
+    },
+    {
+      "kind": "crux",
+      "subject": "ויעבתוה",
+      "rationale": "עבת — чырмалтуу\/бузуу: «аны чырмашты» (KJV wrap it up) же «аны бузду» — экөө тең байыркы котормолордо бар"
+    }
+  ],
+  "translation": "Колдор жамандыкка — жакшылык кылууга эмес; башчы сурап турат, сот акы үчүн өкүм чыгарып турат, улуу адам өз жанынын ооругун айтат — баары аны бузушту.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "aeda747bcbbee4ad566421543f64098a054b4cdf79a09e8e622d3e8a0cb4093f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/micah\/7\/2-3.1791224381816.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "…га каршы"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "жамандыкка"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "колдор"
+    },
+    {
+      "surface": "להיטיב",
+      "gloss": "жакшылык кылууга эмес"
+    },
+    {
+      "surface": "השר",
+      "gloss": "башчы"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "сурап турат"
+    },
+    {
+      "surface": "והשפט",
+      "gloss": "жана сот"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "акы үчүн"
+    },
+    {
+      "surface": "והגדול",
+      "gloss": "жана улуу адам"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "айтат"
+    },
+    {
+      "surface": "הות",
+      "gloss": "ооругун"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "өз жанынын"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "өзү"
+    },
+    {
+      "surface": "ויעבтוה",
+      "gloss": "баары аны бузушту"
+    }
+  ],
+  "timestamp": "2026-10-05T18:19:41.817248362Z",
+  "model": "glm-5.3"
+}

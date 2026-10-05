@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "numbers 22:41",
+  "book": "numbers",
+  "lang": "ky",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Бамот-Баал",
+      "rationale": "במות בעל — жердин аты же «Баалдын бийик жерлери» деп которуу керекпи деген талаш бар; JPS жердин аты катары берет."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ал⟩",
+      "rationale": "Ивритте «ал көрдү» дегенде тигил сөзсүз айтылбайт, ээни тактоо үчүн кошулду."
+    },
+    {
+      "kind": "measurement",
+      "subject": "элдин чети",
+      "rationale": "Көрүү чөйрөсү өлчөнүп берилип жатат: элдин көрүнгөн чети гана."
+    }
+  ],
+  "translation": "Эртең менен болгондо, Балак ⟨את⟩ Биламды алып, аны Бамот-Баалга чыгарды, жана ал жактан ⟨ал⟩ элдин четин көрдү.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "ff8913d5341155eec7a7a2efa883e51a7474b8dc65c1a7196415d17e40e1dc70",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/numbers\/22\/41-41.1791204121748.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "болгондо"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "эртең менен"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "алып"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Балак"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Биламды"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Биламды"
+    },
+    {
+      "surface": "ויעלהו",
+      "gloss": "чыгарды"
+    },
+    {
+      "surface": "במות",
+      "gloss": "Бамот"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "Баалга"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "көрдү"
+    },
+    {
+      "surface": "משם",
+      "gloss": "ал жактан"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "четин"
+    },
+    {
+      "surface": "העם",
+      "gloss": "элдин"
+    }
+  ],
+  "timestamp": "2026-10-05T12:42:01.748545904Z",
+  "model": "glm-5.3"
+}

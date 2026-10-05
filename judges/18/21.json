@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "judges 18:21",
+  "book": "judges",
+  "lang": "ky",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הכבודה",
+      "rationale": "'Оор жүк' (KJV: carriage) же 'байлык, мүлк' (JPS: goods) — тамыр кавд 'оорлук, салмак'."
+    },
+    {
+      "kind": "elision",
+      "subject": "לפניהם",
+      "rationale": "'Алардын жүзүнө\/алдына' — кыргызча 'өздөрүнүн алдына' катары берилди."
+    }
+  ],
+  "translation": "Алар бетин буруп жөнөштү, ⟨את⟩ балдарды, ⟨את⟩ малды жана ⟨את⟩ оор жүктөрдү өздөрүнүн алдына коюшту.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "e6942a3e40b0169bc8eba13b2db582dd1f0670b2f9d4de45f9197d133864502e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/judges\/18\/21-24.1791206442993.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויפנו",
+      "gloss": "бетин буруп"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "жөнөштү"
+    },
+    {
+      "surface": "וישימו",
+      "gloss": "коюшту"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "балдарды"
+    },
+    {
+      "surface": "הטף",
+      "gloss": "балдарды"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "жана ⟨את⟩",
+      "marks": "малды"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "малды"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "жана ⟨את⟩",
+      "marks": "оор жүктөрдү"
+    },
+    {
+      "surface": "הכבודה",
+      "gloss": "оор жүктөрдү"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "өздөрүнүн алдына"
+    }
+  ],
+  "timestamp": "2026-10-05T13:20:42.994464664Z",
+  "model": "glm-5.3"
+}

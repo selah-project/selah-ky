@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 125:2",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 125,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨Оз⟩",
+      "rationale": "Еврейче ээлик жалгысы керек болсо, кыргызча «Оз» кошулду"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "סביב ... סביב",
+      "rationale": "«Тегерек» сөзү эки жолу кайталанып, тоолор менен Яхвенин коргоосу теңештирилет"
+    }
+  ],
+  "translation": "Йерушалайим! Тоолор анын тегерегинде, жана Яхве ⟨Оз⟩ элинин тегерегинде — мына ушундан тартып түбөлүккө чейин.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "6ddce91552d2f7f8294385cccee1e865d7d4e4a1a60a3410fc129e939f17cc08",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/125\/1-4.1791217489828.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ירושלם",
+      "gloss": "Йерушалайим"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "Тоолор"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "тегерегинде"
+    },
+    {
+      "surface": "לה",
+      "gloss": "анын"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "жана Яхве"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "тегерегинде"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "элинин"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "мына ушундан тартып"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "чейин"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "түбөлүккө"
+    }
+  ],
+  "timestamp": "2026-10-05T16:24:49.829263479Z",
+  "model": "glm-5.3"
+}

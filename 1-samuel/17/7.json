@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 17:7",
+  "book": "1-samuel",
+  "lang": "ky",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жүк",
+      "rationale": "כמנור — токуучунун станогу (жүк), аскерден эмес, үй эмгегинен алынган салыштыруу."
+    },
+    {
+      "kind": "substitution",
+      "subject": "учу",
+      "rationale": "ולהבת — көчкө 'жалын', бул жерде найзанын учу."
+    },
+    {
+      "kind": "measurement",
+      "subject": "алты жүз шекел темир",
+      "rationale": "Найза учунун салмагы санап берилген."
+    }
+  ],
+  "translation": "Жана анын найзасынын сабы токуучунун жүгүнө окшош, найзасынын учу алты жүз шекел темир, жана калкан көтөрүүчү анын алдында жүрөт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "8866e59e1f1a781d96d653628d7ce65d84c51ed008f113b2c0f4dedf9fecaf51",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-samuel\/17\/5-8.1791206912931.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וחץ",
+      "gloss": "жана сабы"
+    },
+    {
+      "surface": "חניתו",
+      "gloss": "анын найзасынын"
+    },
+    {
+      "surface": "כמנור",
+      "gloss": "жүгүнө окшош"
+    },
+    {
+      "surface": "ארגים",
+      "gloss": "токуучунун"
+    },
+    {
+      "surface": "ולהבת",
+      "gloss": "жана учу"
+    },
+    {
+      "surface": "חניתו",
+      "gloss": "анын найзасынын"
+    },
+    {
+      "surface": "שש",
+      "gloss": "алты"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "жүз"
+    },
+    {
+      "surface": "שקלים",
+      "gloss": "шекел"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "темир"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "жана көтөрүүчү"
+    },
+    {
+      "surface": "הצנה",
+      "gloss": "калкан"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "жүрөт"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "анын алдында"
+    }
+  ],
+  "timestamp": "2026-10-05T13:28:32.932041883Z",
+  "model": "glm-5.3"
+}

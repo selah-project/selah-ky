@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 58:1",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 58,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "rationale": "сызылча болгооч — терс буйрук мүчөсүнө (карманба) сиңип кетти"
+    },
+    {
+      "kind": "invitation",
+      "subject": "кыйкыр, карманба",
+      "rationale": "пайгамбарга бул ачык буйрук менен кайрылуу"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "פשעם \/ חטאתם",
+      "rationale": "эки teased сөз — чыккынчылык жана күнөө — ыр саптын акырында дал келет"
+    }
+  ],
+  "translation": "Тамагың менен кыйкыр, карманба, шоңкордой үнүңдү көтөр, жана элимге чыккынчылыктарын, Яаковтын үйүнө күнөөлөрүн жарыяла.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "426cade05954f05602d2a920fb2716a475569e994549072564b393a2cfc12af5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/58\/1-4.1791210571274.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קרא",
+      "gloss": "кыйкыр"
+    },
+    {
+      "surface": "בגרון",
+      "gloss": "тамагың менен"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "תחשך",
+      "gloss": "карманба"
+    },
+    {
+      "surface": "כשופר",
+      "gloss": "шоңкордой"
+    },
+    {
+      "surface": "הרם",
+      "gloss": "көтөр"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "үнүңдү"
+    },
+    {
+      "surface": "והגד",
+      "gloss": "жана жарыяла"
+    },
+    {
+      "surface": "לעמי",
+      "gloss": "элимге"
+    },
+    {
+      "surface": "פשעם",
+      "gloss": "чыккынчылыктарын"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "үйүнө"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаковтын"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "күнөөлөрүн"
+    }
+  ],
+  "timestamp": "2026-10-05T14:29:31.275401761Z",
+  "model": "glm-5.3"
+}

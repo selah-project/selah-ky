@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 26:14",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מתים\/רפאים",
+      "rationale": "Эки параллелдүү сап — өлгөндөр\/рефайимдер, жашоо\/турмуш: экөө тең 'жок' менен четке кагылат, кыргызча параллелизм сакталды."
+    },
+    {
+      "kind": "substitution",
+      "subject": "рефайимдер",
+      "rationale": "רפאים — өлгөндөрдүн арбактары; 'өлгөндөр' деп кайталоодон качуу үчүн транслитерация кармалды."
+    }
+  ],
+  "translation": "Өлгөндөр жашабайт, рефайимдер турбайт; ошондуктан Сен аларды жазаладың жана аларды жок кылдың, алардын бардык эстелигин жок кылдың.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "d80426e4f83cc4b3a4d76dcde864a4eb8786ca61ec68d98a04f1acafd04189c6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/26\/13-16.1791209787654.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מתים",
+      "gloss": "өлгөндөр"
+    },
+    {
+      "surface": "בל",
+      "gloss": "жок"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "жашабайт"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "рефайимдер"
+    },
+    {
+      "surface": "בל",
+      "gloss": "жок"
+    },
+    {
+      "surface": "יקמו",
+      "gloss": "турбайт"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "ошондуктан"
+    },
+    {
+      "surface": "פקדת",
+      "gloss": "жазаладың"
+    },
+    {
+      "surface": "ותשמידם",
+      "gloss": "жана аларды жок кылдың"
+    },
+    {
+      "surface": "ותאבד",
+      "gloss": "жок кылдың"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бардык"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "эстелигин"
+    },
+    {
+      "surface": "למו",
+      "gloss": "алардын"
+    }
+  ],
+  "timestamp": "2026-10-05T14:16:27.655256024Z",
+  "model": "glm-5.3"
+}

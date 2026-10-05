@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 74:9",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 74,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "⟨את⟩ менен",
+      "rationale": "Бул את (H854) — багыттоо белгиси эмес, «менен» деген предлог; бирок талап боюнча ⟨את⟩ глифа сакталды"
+    },
+    {
+      "kind": "crux",
+      "subject": "белгилерибизди",
+      "rationale": "אותתינו: «биздин белгилербиз» — ыйык кылмыштардын белгилери же аскер желектери деп талашкан"
+    },
+    {
+      "kind": "mystery",
+      "subject": "канча убакыт экенин билүүчү да жок",
+      "rationale": "Жашырылган убакыт — билүүчү жок деген бүдөмүк айтылыш"
+    }
+  ],
+  "translation": "Белгилерибизди көрбөй калдык; дагы пайгамбар жок, жана ⟨את⟩ менен бизде канча убакыт экенин билүүчү да жок.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "d0b0e81afd83bea474f49218cf95856acef3d10f706cd01b96a3c959eafea057",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/74\/9-12.1791216551329.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אותתינו",
+      "gloss": "белгилерибизди"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "ראינו",
+      "gloss": "көрбөй калдык"
+    },
+    {
+      "surface": "אין",
+      "gloss": "жок"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "дагы"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "пайгамбар"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "жана жок"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ менен",
+      "marks": "бизде"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "билүүчү"
+    },
+    {
+      "surface": "עד",
+      "gloss": "канча убакытка"
+    },
+    {
+      "surface": "מה",
+      "gloss": "чейин экен"
+    }
+  ],
+  "timestamp": "2026-10-05T16:09:11.329618631Z",
+  "model": "glm-5.3"
+}

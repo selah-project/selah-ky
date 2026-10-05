@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 33:18",
+  "book": "jeremiah",
+  "lang": "ky",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Менин",
+      "rationale": "Ивритте מלפני — «алдынан»; «Менин» 1-жаңодон кошулду, ээсин тактоо үчүн."
+    },
+    {
+      "kind": "substitution",
+      "subject": "минха",
+      "rationale": "מנחה — минха деп айтылышында сакталды (D2); «уна азык курмандыгы» деген котормо берилбеди."
+    },
+    {
+      "kind": "crux",
+      "subject": "הלוים",
+      "rationale": "KJV «the priests the Levites» — иврит боюнча «леви ыйык кызмат кылуучулары», башка уруулар эмес."
+    }
+  ],
+  "translation": "Жана леви уруусундагы ыйык кызмат кылуучулардан — Менин алдымдан бир эр киши үзүлбөйт: өрттөлүүчү курмандыкты көтөрүүчү, минханы жыттуу кылуучу жана курмандык чалуучу — бардык күндөрдө.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "284f88a7f371f06dd64fc64f1d00f52f8b863f75a2c33843e8fd3ecd74c8ac34",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/jeremiah\/33\/18-19.1791224164817.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולכהנים",
+      "gloss": "жана ыйык кызмат кылуучулардан"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "леви уруусундагы"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "יכרת",
+      "gloss": "үзүлбөйт"
+    },
+    {
+      "surface": "איש",
+      "gloss": "бир эр киши"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "Менин алдымдан"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "көтөрүүчү"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "өрттөлүүчү курмандыкты"
+    },
+    {
+      "surface": "ומקטיר",
+      "gloss": "жыттуу кылуучу"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "минханы"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "жана курмандык чалуучу"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "курмандык"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бардык"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "күндөрдө"
+    }
+  ],
+  "timestamp": "2026-10-05T18:16:04.818048195Z",
+  "model": "glm-5.3"
+}

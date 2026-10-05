@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 10:10",
+  "book": "1-chronicles",
+  "lang": "ky",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "кудайларынын",
+      "rationale": "בית אלהיהם — 'кудайлардын үйү': пелиштилердин кудайлары жөнүндө, ошондуктан 'кудайлар' кичине тамга менен"
+    }
+  ],
+  "translation": "⟨את⟩ Анын куралдарын алардын кудайларынын үйүнө коюшту жана ⟨את⟩ анын баш сөөгүн Дагондун үйүнө бекитишти.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "4af851862c85f72b30c0a31452168cad91a854e5f39a406b705e992f97bdf75f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-chronicles\/10\/9-12.1791221976656.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "коюшту"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "анын куралдарын"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "анын куралдарын"
+    },
+    {
+      "surface": "בית",
+      "gloss": "үйүнө"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "алардын кудайларынын"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "жана ⟨את⟩",
+      "marks": "анын баш сөөгүн"
+    },
+    {
+      "surface": "גלגלתו",
+      "gloss": "анын баш сөөгүн"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "бекитишти"
+    },
+    {
+      "surface": "בית",
+      "gloss": "үйүнө"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "Дагондун"
+    }
+  ],
+  "timestamp": "2026-10-05T17:39:36.657251459Z",
+  "model": "glm-5.3"
+}

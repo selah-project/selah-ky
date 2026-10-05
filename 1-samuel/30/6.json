@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 30:6",
+  "book": "1-samuel",
+  "lang": "ky",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жан",
+      "rationale": "נפש — дем алуучу жандык, кеңири мааниси жан-жалкоолук, жүрөк эмес"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨өзүн⟩",
+      "rationale": "ивритте этиш өтүүчүсүз: «Давид Яхведе бекемдеди»"
+    },
+    {
+      "kind": "idiom",
+      "subject": "таш баркытуу",
+      "rationale": "לסקלו — таш менен өлтүрүү, жөн гана «айтты»: аны таштобоо ниети"
+    }
+  ],
+  "translation": "Давид абдан кысылды, анткени эл аны таш баркытууну айтты, анткени бүт элдин жаны ачуу болду — ар бир адам өз уулдары үчүн жана өз кыздары үчүн; жана Давид өз Элохими Яхведе ⟨өзүн⟩ бекемдеди.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "ed270459ed7f1754fc121e1d14e81c96e542d25e9ba284dda081921ad0358ab3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-samuel\/30\/6-7.1791223860092.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותצר",
+      "gloss": "кысылды"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давидге"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "абдан"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "העם",
+      "gloss": "эл"
+    },
+    {
+      "surface": "לסקלו",
+      "gloss": "аны таш баркытууну"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "מרה",
+      "gloss": "ачуу болду"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "жан"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүт"
+    },
+    {
+      "surface": "העם",
+      "gloss": "элдин"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ар бир адам"
+    },
+    {
+      "surface": "על",
+      "gloss": "үчүн"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "өз уулдары"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "жана үчүн"
+    },
+    {
+      "surface": "בנתיו",
+      "gloss": "өз кыздары"
+    },
+    {
+      "surface": "ויתחזק",
+      "gloss": "бекемдеди"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Яхведе"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "өз Элохиминде"
+    }
+  ],
+  "timestamp": "2026-10-05T18:11:00.093259671Z",
+  "model": "glm-5.3"
+}

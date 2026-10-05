@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 14:2",
+  "book": "1-samuel",
+  "lang": "ky",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "алты жүз киши",
+      "rationale": "Шаул менен калган элдин саны эсептелет."
+    },
+    {
+      "kind": "crux",
+      "subject": "הרמון",
+      "rationale": "«Анар» — дарак же жердин аты (Риммон) болушу мүмкүн; көпчүлүк котормолор дарак катары алышат."
+    },
+    {
+      "kind": "addition",
+      "subject": "эле",
+      "rationale": "Ивритте этиш жок; кыргызча бүтүм үчүн кошулду."
+    }
+  ],
+  "translation": "Шаул болсо Гиванын четинде, Мигрондогу анардын астында отурду; аны менен болгон эл дээрлик алты жүз киши эле.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "f3f239d979def61dfaad2a9f51b974d0d853c812f13eba13dc1898ace168f51e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-samuel\/14\/1-4.1791206843961.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "отурду"
+    },
+    {
+      "surface": "בקצה",
+      "gloss": "четинде"
+    },
+    {
+      "surface": "הגבעה",
+      "gloss": "Гиванын"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "астында"
+    },
+    {
+      "surface": "הרמון",
+      "gloss": "анардын"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "жайгашкан"
+    },
+    {
+      "surface": "במגרון",
+      "gloss": "Мигрондо"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "жана эл"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ал"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "аны менен"
+    },
+    {
+      "surface": "כשש",
+      "gloss": "дээрлик алты"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "жүз"
+    },
+    {
+      "surface": "איש",
+      "gloss": "киши"
+    }
+  ],
+  "timestamp": "2026-10-05T13:27:23.961874805Z",
+  "model": "glm-5.3"
+}

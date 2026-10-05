@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "exodus 12:46",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "керек",
+      "rationale": "ייאכел пассивин кыргызча «жеш керек» деп берүүдө модалдык сөз кошулду"
+    },
+    {
+      "kind": "elision",
+      "subject": "мны הבשר",
+      "rationale": "«Эттин бир бөлүгүн» деген бөлүктүк маани түшүрүлдү"
+    }
+  ],
+  "translation": "Бир үйдө жеш керек; үйдөн этти сыртка чыгарбагыла, сөөктү да сындырбагыла.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "bb8032791660e10bf0f99cce5005c4375d5ae7bec534cb1bc6fd28bbfb17bde0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/12\/45-48.1791202095527.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בבית",
+      "gloss": "үйдө"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бир"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "жеш керек"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "תוציא",
+      "gloss": "чыгарбагыла"
+    },
+    {
+      "surface": "מן",
+      "gloss": "…дан"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "үйдөн"
+    },
+    {
+      "surface": "מן",
+      "gloss": "…дан"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "этти"
+    },
+    {
+      "surface": "חוצה",
+      "gloss": "сыртка"
+    },
+    {
+      "surface": "ועצם",
+      "gloss": "жана сөөктү"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "תשברו",
+      "gloss": "сындырбагыла"
+    },
+    {
+      "surface": "בו",
+      "gloss": "аны"
+    }
+  ],
+  "timestamp": "2026-10-05T12:08:15.527970091Z",
+  "model": "glm-5.3"
+}

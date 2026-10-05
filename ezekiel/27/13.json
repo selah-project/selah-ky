@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezekiel 27:13",
+  "book": "ezekiel",
+  "lang": "ky",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "адам жаны",
+      "rationale": "בנפש אדם — букв. 'адам жаны'; мааниси кул соодасы, 'кулдар' деп алынган эмес, сөз формасы сакталды"
+    },
+    {
+      "kind": "crux",
+      "subject": "מערבך",
+      "rationale": "'сенин соодаңа' (KJV 'thy market') же 'сенин төлөмдөрүңдү' (ASV 'for thy merchandise') — эки окуу бар"
+    },
+    {
+      "kind": "addition",
+      "subject": "болгон",
+      "rationale": "Кыргызча байламча талап кылат, еврейче жок"
+    }
+  ],
+  "translation": "Яван, Тубал жана Мешек — алар сенин соодагерлерің болгон; адам жаны менен жез буюмдарын сенин соодаңа беришти.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "a74ba816e74fcf86058eac3c004d90c71ec54c708785cc705716f4a5eee2ed9d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ezekiel\/27\/13-14.1791224316984.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יון",
+      "gloss": "Яван"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "Тубал"
+    },
+    {
+      "surface": "ומשך",
+      "gloss": "жана Мешек"
+    },
+    {
+      "surface": "המה",
+      "gloss": "алар"
+    },
+    {
+      "surface": "רכליך",
+      "gloss": "сенин соодагерлерің"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "жаны менен"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "адам"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "жана буюмдарын"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "жез"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "беришти"
+    },
+    {
+      "surface": "מערבך",
+      "gloss": "сенин соодаңа"
+    }
+  ],
+  "timestamp": "2026-10-05T18:18:36.984896433Z",
+  "model": "glm-5.3"
+}

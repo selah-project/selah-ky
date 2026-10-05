@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 31:21",
+  "book": "jeremiah",
+  "lang": "ky",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "rationale": "предлог «эле» вместе с «элэ» передан одним словом «бул»"
+    },
+    {
+      "kind": "substitution",
+      "subject": "кызы",
+      "rationale": "бетула — «жап-жаш кыз \/ кыз бойдок»; «кызы» бул маанини көтөрөт"
+    },
+    {
+      "kind": "you",
+      "subject": "Йисраэлдин кызы",
+      "rationale": "обращение к Йисраэлу, олицетворённому как девушка"
+    }
+  ],
+  "translation": "Өзүңө белгилер тикте, өзүңө жол көрсөткүч тирөөчтөрдү коюп ал, жүрөгүңдү жолго багытта — сен барган жолго; кайт, Йисраэлдин кызы, кайт бул шаарларыңа!",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "4f99e194fa803aea8a324e3a572416cafcc4dd6dc14a2a4d0fdae9638130a214",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/jeremiah\/31\/21-24.1791211382675.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הציבי",
+      "gloss": "тикте"
+    },
+    {
+      "surface": "לך",
+      "gloss": "өзүңө"
+    },
+    {
+      "surface": "צינים",
+      "gloss": "белгилер"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "коюп ал"
+    },
+    {
+      "surface": "לך",
+      "gloss": "өзүңө"
+    },
+    {
+      "surface": "תמרורים",
+      "gloss": "жол көрсөткүч тирөөчтөрдү"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "багытта"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "жүрөгүңдү"
+    },
+    {
+      "surface": "למסלה",
+      "gloss": "жолго"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "жолго"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "сен барган"
+    },
+    {
+      "surface": "שובי",
+      "gloss": "кайт"
+    },
+    {
+      "surface": "בתולת",
+      "gloss": "кызы"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэлдин"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "кайт"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "עריך",
+      "gloss": "шаарларыңа"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "бул"
+    }
+  ],
+  "timestamp": "2026-10-05T14:43:02.675676418Z",
+  "model": "glm-5.3"
+}

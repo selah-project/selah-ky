@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 83:11",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 83,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "кыыл",
+      "rationale": "דמן букв. «кыыл\/жер семирткич» — жердин үстүндөгү чириндиге айлануу образы."
+    },
+    {
+      "kind": "alternative",
+      "subject": "Эйн-Дор",
+      "rationale": "Айрым котормолор бул жерди «Эндор» деп жазышат; еврейче айтылышы боюнча «Эйн-Дор» сакталды."
+    }
+  ],
+  "translation": "Эйн-Дордо талкаланды, жер үчүн кыылга айланды.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "4d68588690c2e339ec328024aca5ab55546f99503f443c98eeacd1737939e6bd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/83\/9-12.1791216649214.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נשמדו",
+      "gloss": "талкаланды"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "Эйн-Дордо"
+    },
+    {
+      "surface": "דאר",
+      "gloss": "Эйн-Дор"
+    },
+    {
+      "surface": "היו",
+      "gloss": "айланды"
+    },
+    {
+      "surface": "דמן",
+      "gloss": "кыылга"
+    },
+    {
+      "surface": "לאדמה",
+      "gloss": "жер үчүн"
+    }
+  ],
+  "timestamp": "2026-10-05T16:10:49.215621746Z",
+  "model": "glm-5.3"
+}

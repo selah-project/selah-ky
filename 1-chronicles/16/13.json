@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 16:13",
+  "book": "1-chronicles",
+  "lang": "ky",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Йисраэлдин үрөнү",
+      "rationale": "Обращение-призыв к потомкам Йисраэла и Яакова"
+    },
+    {
+      "kind": "substitution",
+      "subject": "тандалгандары",
+      "rationale": "בחיריו — 'избранные его', сохранён образ выбора"
+    }
+  ],
+  "translation": "Йисраэлдин үрөнү, Анын кулу, Яаковтын уулдары, Анын тандалгандары!",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "85d1b277e38615a449759ddec93424c8c476295bdbe19ff1c4e119ea62a75441",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-chronicles\/16\/13-16.1791222131855.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זרע",
+      "gloss": "үрөнү"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэлдин"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "Анын кулу"
+    },
+    {
+      "surface": "בני",
+      "gloss": "уулдары"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаковтын"
+    },
+    {
+      "surface": "בחיריו",
+      "gloss": "Анын тандалгандары"
+    }
+  ],
+  "timestamp": "2026-10-05T17:42:11.856022274Z",
+  "model": "glm-5.3"
+}

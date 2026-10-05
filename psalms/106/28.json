@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 106:28",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 106,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "байланышты",
+      "rationale": "צמד 'кылыч курго\/байлоо' маанисинде — 'жупташты' да болот"
+    },
+    {
+      "kind": "crux",
+      "subject": "өлгөндөрдүн курмандыктары",
+      "rationale": "זבחי מתים: 'өлгөндөрдүн (кудайларынын) курмандыктары' же 'жансыз нерселерге багышталган курмандыктар'"
+    }
+  ],
+  "translation": "Жана алар Баал-Пеорго байланышты жана өлгөндөрдүн курмандыктарын жешти.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "ebcddbc40528780234288dc2216b9f2920aec30a5bc0107c97cef619d9e666cd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/106\/28-28.1791224473583.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצמדו",
+      "gloss": "байланышты"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "Баал-Пеорго"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "Баал-Пеорго"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "жешти"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "курмандыктарын"
+    },
+    {
+      "surface": "מתים",
+      "gloss": "өлгөндөрдүн"
+    }
+  ],
+  "timestamp": "2026-10-05T18:21:13.583919643Z",
+  "model": "glm-5.3"
+}

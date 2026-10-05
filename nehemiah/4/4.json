@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nehemiah 4:4",
+  "book": "nehemiah",
+  "lang": "ky",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יהודה",
+      "rationale": "Йыгуда уруусу же жеке адам — көпчүлүк котормолор 'Йыгуда эли' деп алат"
+    },
+    {
+      "kind": "elision",
+      "subject": "כשל",
+      "glossless": false,
+      "rationale": "'таптанып, буту-колу бошоду' — физикалык сүрөт, кыргызча 'бошоду' деп кыскартылды"
+    }
+  ],
+  "translation": "Жана Йыгуда: «Көтөрүүчүлөрдүн күчү бошоду, топурак өтө көп, жана биз дубалды курай албайбыз» деди.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "62a2d3e89f42c73f99e6db3cca90eecd1c0fe02ac0a268329b176753b88a73c0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/nehemiah\/4\/1-4.1791221344137.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "деди"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Йыгуда"
+    },
+    {
+      "surface": "כשל",
+      "gloss": "бошоду"
+    },
+    {
+      "surface": "כח",
+      "gloss": "күчү"
+    },
+    {
+      "surface": "הסבל",
+      "gloss": "көтөрүүчүлөрдүн"
+    },
+    {
+      "surface": "והעפר",
+      "gloss": "жана топурак"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "өтө көп"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "жана биз"
+    },
+    {
+      "surface": "לא",
+      "gloss": "эмес"
+    },
+    {
+      "surface": "נוכל",
+      "gloss": "алабыз"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "куруга"
+    },
+    {
+      "surface": "בחומה",
+      "gloss": "дубалды"
+    }
+  ],
+  "timestamp": "2026-10-05T17:29:04.139034011Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 10:17",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Фараон Моше менен Агаронго",
+      "rationale": "Фараон тикелей Моше менен Агаронго кайрылат"
+    },
+    {
+      "kind": "idiom",
+      "subject": "שא חטאתי",
+      "rationale": "букв. «күнөөмдү көтөр» — кечирим сураган идиома"
+    },
+    {
+      "kind": "substitution",
+      "subject": "өлүм",
+      "rationale": "המות кеңири — чегирке алып келген өлүм коркунучу, жекече өлүм эмес"
+    }
+  ],
+  "translation": "Азыр, суранам, менин күнөөмдү ⟨ал⟩ жөн гана бул жолу көтөрүп коюгула, жана Яхве силердин Элохимңерге табынып жалбарыңар, ал менин үстүмөн жөн гана ⟨את⟩ бул өлүмдү алып салсын.”",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "bfcd9e32423b451923970c48b635a06b4d3ef142435fccaa540a5966ae9fa5e3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/10\/17-20.1791202040548.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "азыр"
+    },
+    {
+      "surface": "שא",
+      "gloss": "көтөр"
+    },
+    {
+      "surface": "נא",
+      "gloss": "суранам"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "менин күнөөмдү"
+    },
+    {
+      "surface": "אך",
+      "gloss": "жөн гана"
+    },
+    {
+      "surface": "הפעם",
+      "gloss": "бул жолу"
+    },
+    {
+      "surface": "והעתירו",
+      "gloss": "табынып жалбарыңар"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхвеге"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "силердин Элохимңер"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "алсын"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "менин үстүмөн"
+    },
+    {
+      "surface": "רק",
+      "gloss": "жөн гана"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "бул өлүмдү"
+    },
+    {
+      "surface": "המות",
+      "gloss": "бул өлүмдү"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "бул"
+    }
+  ],
+  "timestamp": "2026-10-05T12:07:20.549652968Z",
+  "model": "glm-5.3"
+}

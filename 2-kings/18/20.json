@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 18:20",
+  "book": "2-kings",
+  "lang": "ky",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אמרת אך דבר שפתים",
+      "rationale": "ким айтып жатканы так эмес: 'сен айтасың: бул эриндердин сөзү гана' (JPS суроосу) же 'сен (мага карабай) айтасың: менин кеңешим жана күчүм бар' (KJV) — экөө тең тексттен чыгат"
+    },
+    {
+      "kind": "you",
+      "subject": "сен",
+      "rationale": "Рабшаке Хизкияуга түз кайрылат: эки жолу 'сен' формасы, акырында 'мага каршы'"
+    }
+  ],
+  "translation": "Сен айтасың: бул тек гана эриндердин сөзү — согуш үчүн кеңеш жана күч. Азыр кимге таянып мага каршы көтөрүлдүң?",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "a317e603b7ceff9ebd3061d44c57cd0e19830940002e27803e38e1c9d12c1a74",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-kings\/18\/17-20.1791209160610.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמרת",
+      "gloss": "сен айтасың"
+    },
+    {
+      "surface": "אך",
+      "gloss": "тек гана"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сөзү"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "эриндердин"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "кеңеш"
+    },
+    {
+      "surface": "וגבורה",
+      "gloss": "жана күч"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "согуш үчүн"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "азыр"
+    },
+    {
+      "surface": "על",
+      "gloss": "…га"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ким"
+    },
+    {
+      "surface": "בטחת",
+      "gloss": "таянып"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…ып"
+    },
+    {
+      "surface": "מרדת",
+      "gloss": "каршы көтөрүлдүң"
+    },
+    {
+      "surface": "בי",
+      "gloss": "мага"
+    }
+  ],
+  "timestamp": "2026-10-05T14:06:00.612011039Z",
+  "model": "glm-5.3"
+}

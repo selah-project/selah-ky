@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 13:19",
+  "book": "2-chronicles",
+  "lang": "ky",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "кыштактар",
+      "rationale": "בנותיה — так мааниси 'анын кыздары'; шаардын айланасындагы кичүү калктуу жерлерди билдирет."
+    },
+    {
+      "kind": "crux",
+      "subject": "Эфрон",
+      "rationale": "עפרון: KJV 'Эфраим' деп окуйт; согласныйлар Эфронду (Иешуа 15:9) көрсөтөт."
+    },
+    {
+      "kind": "elision",
+      "subject": "шаарлар",
+      "rationale": "ערים тизменин алдында жалпы жыйынтык катар турат, кыргызча тизмеден кийин коюлду."
+    }
+  ],
+  "translation": "Абия Яровамдын артынан куугунтады жана анынан ⟨את⟩ Бейт-Элди жана анын кыштактарын, ⟨את⟩ Йешананы жана анын кыштактарын, ⟨את⟩ Эфронду жана анын кыштактарын басып алды.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "f05b0fa9fef9bbce540275551967e13bef28c1794828c512749a257ddce2aff5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-chronicles\/13\/17-20.1791222930524.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירדף",
+      "gloss": "куугунтады"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "Абия"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "артынан"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Яровамдын"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "басып алды"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "анынан"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "шаарлар"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Бейт-Элди"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бейт"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эл"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Йешананы"
+    },
+    {
+      "surface": "בנותיה",
+      "gloss": "анын кыштактарын"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Йешананы"
+    },
+    {
+      "surface": "ישנה",
+      "gloss": "Йешана"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "анын кыштактарын"
+    },
+    {
+      "surface": "בנותיה",
+      "gloss": "анын кыштактарын"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Эфронду"
+    },
+    {
+      "surface": "עפרון",
+      "gloss": "Эфронду"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "жана анын кыштактарын"
+    }
+  ],
+  "timestamp": "2026-10-05T17:55:30.525080377Z",
+  "model": "glm-5.3"
+}

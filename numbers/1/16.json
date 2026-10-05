@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 1:16",
+  "book": "numbers",
+  "lang": "ky",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨члены⟩",
+      "rationale": "Кыргызча кол тамгасыз сүйлөм бүтпөйт, еврейче жок."
+    },
+    {
+      "kind": "crux",
+      "subject": "קריאי העדה",
+      "rationale": "'жыйынга чакырылгандар' же 'жыйындын даңктуулары' (LXX 'ардакталгандар') деген варианттар бар."
+    },
+    {
+      "kind": "measurement",
+      "subject": "миңдер",
+      "rationale": "Йисраэлдин миңдеринин баштары — саноо түзүлүшү."
+    }
+  ],
+  "translation": "Булар — ⟨чакырылган⟩ жыйындын ⟨члены⟩, аталарынын урууларынын башчылары; алар Йисраэлдин миңдеринин баштары.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "b7cded9ddfaf92860216f3a10e403838892aa2248a781cc1fc823dc22b543ce6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/numbers\/1\/13-16.1791203522939.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Булар"
+    },
+    {
+      "surface": "קריאי",
+      "gloss": "⟨чакырылган⟩"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "жыйындын"
+    },
+    {
+      "surface": "נשיאי",
+      "gloss": "башчылары"
+    },
+    {
+      "surface": "מטות",
+      "gloss": "урууларынын"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "аталарынын"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "баштары"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "миңдеринин"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэлдин"
+    },
+    {
+      "surface": "הם",
+      "gloss": "алар"
+    }
+  ],
+  "timestamp": "2026-10-05T12:32:02.940467744Z",
+  "model": "glm-5.3"
+}

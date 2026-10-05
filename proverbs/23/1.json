@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 23:1",
+  "book": "proverbs",
+  "lang": "ky",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "окурманга",
+      "rationale": "Наамат сөзү менен тиешелүү кишиге кайрылуу"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בין תבין",
+      "rationale": "Тамырдын кайталанышы: 'түшүн' деген этиш эки жолу — бул оюн кыргызча жоголот"
+    },
+    {
+      "kind": "substitution",
+      "subject": "башкаруучу",
+      "rationale": "מושל — 'бийлөөчү, башкаруучу'; 'падыша' эмес"
+    }
+  ],
+  "translation": "Эгер башкаруучу менен тамактанууга отурсаң, алдыңдагы нерседен акыл менен түшүнүп ал",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "fb5f96f3352531037f7dc151273f9e0745d6ed9de74f74612e97c20e8b69f806",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/23\/1-4.1791218313972.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "эгер"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "отурсаң"
+    },
+    {
+      "surface": "ללחום",
+      "gloss": "тамактанууга"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "башкаруучу"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "башкаруучу"
+    },
+    {
+      "surface": "בין",
+      "gloss": "акыл менен"
+    },
+    {
+      "surface": "תבין",
+      "gloss": "түшүнүп ал"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "нерсе"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "нерсе"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "алдыңдагы"
+    }
+  ],
+  "timestamp": "2026-10-05T16:38:33.972752763Z",
+  "model": "glm-5.3"
+}

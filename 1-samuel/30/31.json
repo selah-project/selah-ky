@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-samuel 30:31",
+  "book": "1-samuel",
+  "lang": "ky",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "ולאשר",
+      "rationale": "ל的前缀 ‘белек таратуу’ мааниси тизменин мурунку аяттарынан келет, бул жерде ‘...га’ менен берилди."
+    },
+    {
+      "kind": "addition",
+      "subject": "өзү",
+      "rationale": "הוא басымдаштыкча ‘өзү’ деп берилди, Hebrew эмфатикалык."
+    }
+  ],
+  "translation": "Жана Хеврондогулахга, жана Давид өзү жана анын кишилери жүргөн бардык жерлерге.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "93e9fefcb7574bfe6ffeaed468aaa5d7571fbc672d77ad674a938eda20ae322e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-samuel\/30\/29-31.1791207205874.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולאשר",
+      "gloss": "жана ... турган жерге"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "Хеврондогулахга"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "жана бардык"
+    },
+    {
+      "surface": "המקמות",
+      "gloss": "жерлерге"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "га"
+    },
+    {
+      "surface": "התהלך",
+      "gloss": "жүргөн"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ал жерде"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "өзү"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "жана анын кишилери"
+    }
+  ],
+  "timestamp": "2026-10-05T13:33:25.874943441Z",
+  "model": "glm-5.3"
+}

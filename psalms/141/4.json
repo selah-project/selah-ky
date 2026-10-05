@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 141:4",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 141,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "להתעולל עללות",
+      "rationale": "«жаман иштерди кылуу» же «жаман иштер жөнүндө ойлонтуу» — котормочулор эки жолу бөлүшөт"
+    },
+    {
+      "kind": "substitution",
+      "subject": "оокатсыз",
+      "rationale": "און — «жок нерселүүлүк, бекерчилик, жаманчылык»"
+    },
+    {
+      "kind": "elision",
+      "subject": "את",
+      "rationale": "אישים ге багытталган ⟨את⟩ белгиси катары сакталды"
+    }
+  ],
+  "translation": "Жүрөгүмдү жаман сөзгө бурба, жаманчылык иштерин кылуучу, оокатсыз иштердин кылдатчылары менен болгонум үчүн эмес — алардын даамдуу тамактарынан тамактанбаймын.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "d8d5ab5faecd126e6dd5f69cf8d88ebaaed02bba0296454339c2cfc5c4280d5d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/141\/1-4.1791217570763.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "бурба"
+    },
+    {
+      "surface": "תט",
+      "gloss": "жүрөгүмдү бурба"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "жүрөгүмдү"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "сөзгө"
+    },
+    {
+      "surface": "רע",
+      "gloss": "жаман"
+    },
+    {
+      "surface": "להתעולל",
+      "gloss": "кылуучу"
+    },
+    {
+      "surface": "עללות",
+      "gloss": "иштерин"
+    },
+    {
+      "surface": "ברשע",
+      "gloss": "жаманчылык"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "адамдарды"
+    },
+    {
+      "surface": "אישים",
+      "gloss": "адамдар"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "кылдатчылары"
+    },
+    {
+      "surface": "און",
+      "gloss": "оокатсыз иштердин"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "тамактанбаймын"
+    },
+    {
+      "surface": "אלחם",
+      "gloss": "тамактанбаймын"
+    },
+    {
+      "surface": "במנעמיהם",
+      "gloss": "алардын даамдуу тамактарынан"
+    }
+  ],
+  "timestamp": "2026-10-05T16:26:10.765045683Z",
+  "model": "glm-5.3"
+}

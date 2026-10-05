@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 26:30",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "үлгүсү",
+      "rationale": "כמשפטו literally 'according to its judgment\/pattern' — the mishpat here is the divinely shown blueprint"
+    },
+    {
+      "kind": "mystery",
+      "subject": "тоодо көрсөтүлгөн үлгү",
+      "rationale": "The pattern shown to Moses on the mountain is seen by him, not the reader — withheld blueprint"
+    }
+  ],
+  "translation": "Жана ⟨את⟩ Мишканды анын үлгүсү боюнча тургуз — тоодо сага көрсөтүлгөн үлгү боюнча.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "cee55f4ad52656483c7fe027a68e5bfe107cbcee5e091cef579a7fe73ef0e4ed",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/26\/29-32.1791202446621.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והקמת",
+      "gloss": "жана тургуз"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Мишканды"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Мишканды"
+    },
+    {
+      "surface": "כמשפטו",
+      "gloss": "анын үлгүсү боюнча"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "הראית",
+      "gloss": "көрсөтүлгөн"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "тоодо"
+    }
+  ],
+  "timestamp": "2026-10-05T12:14:06.622352735Z",
+  "model": "glm-5.3"
+}

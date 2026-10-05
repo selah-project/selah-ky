@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 100:1",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 100,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "кыйкырыңар",
+      "rationale": "הריעו букв. «кулагы жарылгандай добуш чыгаруу» — катуу кубануу кыйкыгы"
+    },
+    {
+      "kind": "invitation",
+      "subject": "бардык жер",
+      "rationale": "Псалом бүт жерди Яхвеге кыйкырууга чакырат"
+    }
+  ],
+  "translation": "Ырахатташуу псалмы. Бардык жер Яхвеге кыйкырыңар!",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "35d5e1f7dad9795984e0e28cdd4f74ce6799c74303717d8415c0327079276727",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/100\/1-4.1791217001456.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "псалмы"
+    },
+    {
+      "surface": "לתודה",
+      "gloss": "ырахатташуу"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "кыйкырыңар"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхвеге"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бардык"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "жер"
+    }
+  ],
+  "timestamp": "2026-10-05T16:16:41.457117922Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 13:20",
+  "book": "2-kings",
+  "lang": "ky",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жыл келген сайын",
+      "rationale": "בוא שנה 'жыл келгенде' деген туура эле, бирок לашып фельдин адаты (JPS 'used to invade') билдирилет — кайрылуу үзгүлтүксүз кайталанган."
+    },
+    {
+      "kind": "addition",
+      "subject": "жоокер",
+      "rationale": "גדוד 'жоокер тобу\/чабуулчу топ' — 'жоокер' сөзү түшүндүрмө катары кошулду."
+    }
+  ],
+  "translation": "Жана Элиша өлдү, жана аны көмүштү. Жана Моабдын жоокер топтору жыл келген сайын өлкөгө киришчү.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "7b971ddd2d815b805b4e861976855288ac1bb7d4307c42daf7688b8b65960f6c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-kings\/13\/17-20.1791209018391.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "өлдү"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Элиша"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "аны көмүштү"
+    },
+    {
+      "surface": "וגדודי",
+      "gloss": "жоокер топтору"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моабдын"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "киришчү"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "өлкөгө"
+    },
+    {
+      "surface": "בא",
+      "gloss": "келгенде"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "жыл"
+    }
+  ],
+  "timestamp": "2026-10-05T14:03:38.392677882Z",
+  "model": "glm-5.3"
+}

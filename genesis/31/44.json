@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "genesis 31:44",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "келишим кесүү",
+      "rationale": "נכרת ברית 'келишим кесүү' — бөлүктөргө бөлүнгөн малдан өтүү салтынан келет."
+    },
+    {
+      "kind": "substitution",
+      "subject": "күбө",
+      "rationale": "לעд бул жерде 'күбө' деген мааниде, 'убакыт' эмес."
+    },
+    {
+      "kind": "invitation",
+      "subject": "Лабандын Яаковко чакыруусу",
+      "rationale": "'Кел, келишим кесели' — Лабан Яаковду түз сүйлөө менен чакырат."
+    }
+  ],
+  "translation": "Эми кел, мен жана сен келишим кесели, жана ал меники жана сеники ортосунда күбө болсун.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "30e55ac86e47e3c086f661954970e07735a4112b0b11229ecfda550219de274e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/31\/41-44.1791201405581.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "эми"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "кел"
+    },
+    {
+      "surface": "נכרתה",
+      "gloss": "кесели"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "келишим"
+    },
+    {
+      "surface": "אני",
+      "gloss": "мен"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "сен"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "болсун"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "күбө"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "меники ... ортосунда"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "сеники ортосунда"
+    }
+  ],
+  "timestamp": "2026-10-05T11:56:45.582636022Z",
+  "model": "glm-5.3"
+}

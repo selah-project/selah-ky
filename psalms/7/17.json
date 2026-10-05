@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 7:17",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "эмгег",
+      "rationale": "עמל — оордук тарткан эмгек\/азап; жөн гана «жамандык» эмес"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בראשו \/ קדקדו",
+      "rationale": "баш жана чоку — параллелизм, эки сап тең ээнин башына кайтат"
+    }
+  ],
+  "translation": "Анын эмгеги анын башына кайтып келет, жана анын зордугу анын чокусуна түшөт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "7efd8d651ed44c34e14a7d2f59f32fb178b9adaf08e6c355477f672820d439ea",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/7\/17-18.1791215232579.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישוב",
+      "gloss": "кайтып келет"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "анын эмгеги"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "анын башына"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "жана ... үстүнө"
+    },
+    {
+      "surface": "קדקדו",
+      "gloss": "анын чокусуна"
+    },
+    {
+      "surface": "חמסו",
+      "gloss": "анын зордугу"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "түшөт"
+    }
+  ],
+  "timestamp": "2026-10-05T15:47:12.579655007Z",
+  "model": "glm-5.3"
+}

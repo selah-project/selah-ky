@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 6:1",
+  "book": "1-chronicles",
+  "lang": "ky",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨жеге окшош⟩ жок",
+      "rationale": "Тизме түрүндөгү үйлөмдө кыргызча тизмектөө үчүн эч нерсе кошулган жок; 'жеге окшош' деген байланыштыргыч жок"
+    },
+    {
+      "kind": "measurement",
+      "subject": "genealogy",
+      "rationale": "Аттарды тизмелөө — уруулук санак, Левинин уулдарынын аталышы"
+    }
+  ],
+  "translation": "Левинин уулдары: Гершом, Кехат жана Мерари.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "f58c106bd707b7e1e1544f436b6674ac016de478aa40c3e4ee95b3d456778c5d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-chronicles\/6\/1-4.1791221864607.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "уулдары"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Левинин"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "Гершом"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Кехат"
+    },
+    {
+      "surface": "ומררי",
+      "gloss": "жана Мерари"
+    }
+  ],
+  "timestamp": "2026-10-05T17:37:44.607595012Z",
+  "model": "glm-5.3"
+}

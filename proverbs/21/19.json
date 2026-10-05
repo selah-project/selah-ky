@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 21:19",
+  "book": "proverbs",
+  "lang": "ky",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨бул⟩",
+      "rationale": "Салыштыруу түзүлүшүн кыргызча туюу үчүн байламча кошулду"
+    },
+    {
+      "kind": "substitution",
+      "subject": "жашоо",
+      "rationale": "שבת бул жерде ישב 'отур-\/жаша-' этиши, Шаббат эмес"
+    }
+  ],
+  "translation": "Чөл жерде жашоо — тартышуучу жана ачуулануучу аялдан жакшыраак.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "00ec8059659f6647b954235f0a8e886bcb31701761039b161e0ae23e2dde182e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/21\/17-20.1791218226461.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "жакшыраак"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "жашоо"
+    },
+    {
+      "surface": "бארץ",
+      "gloss": "жерде"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "чөл"
+    },
+    {
+      "surface": "מאשת",
+      "gloss": "аялдан"
+    },
+    {
+      "surface": "מדונים",
+      "gloss": "тартышуучу"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "жана ачуулануучу"
+    }
+  ],
+  "timestamp": "2026-10-05T16:37:06.462442517Z",
+  "model": "glm-5.3"
+}

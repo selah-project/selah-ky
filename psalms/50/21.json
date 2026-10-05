@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 50:21",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "буларды",
+      "rationale": "אערכה обьектиси текстте аталбаган; кашаа менен кошулду"
+    },
+    {
+      "kind": "crux",
+      "subject": "אהיה כמוך",
+      "rationale": "'Мен сенге окшош экенмин' — жөнөкөй окшоштук; KJV 'албетте мындай бирөө' деп күчөтөт"
+    },
+    {
+      "kind": "you",
+      "subject": "Яхве булгунчуларга",
+      "rationale": "Элохимдин сөзү түз каргысуу түрүндө айтылат, Псалом 50:16-дагы адресаттар"
+    }
+  ],
+  "translation": "Ушуларды кылдың жана мен үндөбөдүм; Мен өзүңө окшош экенмин деп ойлодуң; сени айыптайым жана ⟨буларды⟩ көзүңдүн алдына тизмектеп коём.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "0a784174c6e3a3f00ade33c338f592b170b8b105e8e0e94a0586570cb2f92cfd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/50\/21-22.1791224455979.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ушуларды"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "кылдың"
+    },
+    {
+      "surface": "והחרשתי",
+      "gloss": "үндөбөдүм"
+    },
+    {
+      "surface": "דמית",
+      "gloss": "ойлодуң"
+    },
+    {
+      "surface": "היות",
+      "gloss": "экенмин"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "Мен"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "өзүңө окшош"
+    },
+    {
+      "surface": "אוכיחך",
+      "gloss": "айыптайым"
+    },
+    {
+      "surface": "ואערכה",
+      "gloss": "тизмектеп коём"
+    },
+    {
+      "surface": "לעיניך",
+      "gloss": "көзүңдүн алдына"
+    }
+  ],
+  "timestamp": "2026-10-05T18:20:55.979682237Z",
+  "model": "glm-5.3"
+}

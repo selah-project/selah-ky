@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 23:17",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "эркектериң",
+      "rationale": "ז׸כוּר — 'эркек жаныбар\/эркек адам' деген сөз, тукумдук мааниде эмес, жыныстык мааниде"
+    },
+    {
+      "kind": "addition",
+      "subject": "…га",
+      "rationale": "кыргыз тили этиштин таасирин көрсөтүү үчүн 'жүзүнө' дегенге жөндөмө талап кылат, פני түз объекти катары турат"
+    },
+    {
+      "kind": "measurement",
+      "subject": "Жылына үч жолу",
+      "rationale": "ажытуу убактысын үч жолу санап көрсөтүү — майрамдык күндөрдүн саны"
+    }
+  ],
+  "translation": "Жылына үч жолу сенин бүт эркектериң Адонай Яхвенин жүзүнө көрүнүшөт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "62b24199962a811747ff5d2728526c7f5b115435ef9b37156accf5b4ede11b2f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/23\/17-20.1791202307356.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שלש",
+      "gloss": "үч"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "жолу"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "жылына"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "көрүнүшөт"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүт"
+    },
+    {
+      "surface": "זכורך",
+      "gloss": "сенин эркектериң"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…га"
+    },
+    {
+      "surface": "פני",
+      "gloss": "жүзүнө"
+    },
+    {
+      "surface": "האדן",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-10-05T12:11:47.357392282Z",
+  "model": "glm-5.3"
+}

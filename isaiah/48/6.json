@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 48:6",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "сакталып келаткан",
+      "rationale": "ונצרות — «сакталган, жашырылган нерселер»; жашыруун мааниси бар"
+    },
+    {
+      "kind": "secret",
+      "subject": "ונצרות",
+      "rationale": "жашырылып сакталган, билинбеген нерселер жөнүндө"
+    },
+    {
+      "kind": "invitation",
+      "subject": "көр",
+      "rationale": "императив менен угуучу көзүн тике чакыруу"
+    }
+  ],
+  "translation": "Сен угдуң, ⟨баарын⟩ көр — жана силер, эмне, жарыялайсыңарбы? Мындан ары сага жаңы нерселерди угузам — сакталып келаткан, сен билбеген нерселерди.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "8b6113ccaf0aac0671ffce9bd14cd038c81859b948a1c859f31ab10162d7ce65",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/48\/5-8.1791210291943.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמעת",
+      "gloss": "сен угдуң"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "көр"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "баарын"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "жана силер"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "эмне, …эмеспи"
+    },
+    {
+      "surface": "תגידו",
+      "gloss": "жарыялайсыңарбы"
+    },
+    {
+      "surface": "השמעתיך",
+      "gloss": "сага угузам"
+    },
+    {
+      "surface": "חדשות",
+      "gloss": "жаңы нерселер"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "мындан ары"
+    },
+    {
+      "surface": "ונצרות",
+      "gloss": "сакталып келаткан"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "жана… эмес"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "сен билген жоксуң"
+    }
+  ],
+  "timestamp": "2026-10-05T14:24:51.944330478Z",
+  "model": "glm-5.3"
+}

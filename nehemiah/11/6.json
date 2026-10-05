@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "nehemiah 11:6",
+  "book": "nehemiah",
+  "lang": "ky",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "468",
+      "rationale": "Перестин уулдарынын саны: төрт жүз алтымыш сегиз"
+    },
+    {
+      "kind": "substitution",
+      "subject": "эр жүрөк",
+      "rationale": "אנשי חיל — 'күч-кубат эркектери': байлык же аскер күчү маанисиндеги חיל"
+    }
+  ],
+  "translation": "Йерушалайимде жашаган Перестин бардык уулдары — төрт жүз алтымыш сегиз эр жүрөк кишилер.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "ae152060207bce69c2edc1599dc73b689f2cdcdf4c1ea875bd658b1ba08bfd11",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/nehemiah\/11\/5-8.1791221580330.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "бардык"
+    },
+    {
+      "surface": "בני",
+      "gloss": "уулдары"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Перестин"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "жашаган"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Йерушалайимде"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "төрт"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "жүз"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "алтымыш"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "жана сегиз"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "кишилер"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "эр жүрөк"
+    }
+  ],
+  "timestamp": "2026-10-05T17:33:00.330920474Z",
+  "model": "glm-5.3"
+}

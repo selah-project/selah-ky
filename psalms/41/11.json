@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 41:11",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "мен",
+      "rationale": "Ивритте «мен аларга кайтарымын үчүн» деген максат мааниси бар; кыргызча «мен аларга кайтарам» деп берилди"
+    }
+  ],
+  "translation": "Сен болсо, Яхве, мага ырайым кыл жана мени тургуз, мен аларга кайтарам.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "fd4a393a7a8fb0e0c383820ad07bde823acd1d499ac584924b4a22bac82110a3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/41\/9-12.1791215965478.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Сен болсо"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "ырайым кыл… мага"
+    },
+    {
+      "surface": "והקימני",
+      "gloss": "мени тургуз"
+    },
+    {
+      "surface": "ואשלמה",
+      "gloss": "кайтарам… мен"
+    },
+    {
+      "surface": "להם",
+      "gloss": "аларга"
+    }
+  ],
+  "timestamp": "2026-10-05T15:59:25.479738296Z",
+  "model": "glm-5.3"
+}

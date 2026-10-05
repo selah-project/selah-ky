@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "habakkuk 3:5",
+  "book": "habakkuk",
+  "lang": "ky",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "рашеп",
+      "rationale": "רשף: 'жарган таш' (KJV), 'чагылган' (ASV\/JPS), ошондой эле байыркы чагылган-кудайдын ысымы болушу мүмкүн"
+    },
+    {
+      "kind": "hapax-adjacent",
+      "subject": "דבר",
+      "rationale": "бул жерде 'чума' маанисинде, жок дегенде күчтүү саламаттык кырсыгы"
+    }
+  ],
+  "translation": "Анын алдында чума жүрөт, жана анын буттарынан жаркылдаган чыккыч чыгат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "a712c69cc2b1238de8ff2dd2316f0d39f63c5a08a610543012cf9f6b69a97904",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/habakkuk\/3\/5-8.1791214831079.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לפניו",
+      "gloss": "анын алдында"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "жүрөт"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "чума"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "жана чыгат"
+    },
+    {
+      "surface": "רשף",
+      "gloss": "жаркылдаган чыккыч"
+    },
+    {
+      "surface": "לרגליו",
+      "gloss": "анын буттарынан"
+    }
+  ],
+  "timestamp": "2026-10-05T15:40:31.080125299Z",
+  "model": "glm-5.3"
+}

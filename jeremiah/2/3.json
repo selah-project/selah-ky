@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 2:3",
+  "book": "jeremiah",
+  "lang": "ky",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨болот⟩",
+      "rationale": "кыргызча этиш үчүн кошулган байлам"
+    },
+    {
+      "kind": "substitution",
+      "subject": "алгачкы үрөн",
+      "rationale": "ראשית — алгачкы жемис, түшүмдүн башталышы"
+    }
+  ],
+  "translation": "Йисраэл — Яхвеге ыйык, Анын түшүмүнүн алгачкы үрөнү; аны жегендердин баары күнөөлүү болот, аларга жамандык келет, — Яхвенин сөзү.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "6af2e5c5a4b11c549c8a82a011af0178168ec588d3cbbfce4139e838fb465c96",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/jeremiah\/2\/1-4.1791210697333.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קדש",
+      "gloss": "ыйык"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэл"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхвеге"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "алгачкы үрөнү"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "түшүмүнүн"
+    },
+    {
+      "surface": "כל",
+      "gloss": "баары"
+    },
+    {
+      "surface": "אכליו",
+      "gloss": "жегендердин"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "күнөөлүү болот"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "жамандык"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "келет"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "аларга"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "сөзү"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    }
+  ],
+  "timestamp": "2026-10-05T14:31:37.334233965Z",
+  "model": "glm-5.3"
+}

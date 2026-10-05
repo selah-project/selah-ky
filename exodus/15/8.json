@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 15:8",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מוח אפיך",
+      "rationale": "\"мурдунун руху\" — каардьщ дем алуусу; бул жерде рух сөзү \"дем, аба агымы\" маанисинде."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נצבו...נד",
+      "rationale": "суулардын тик турган дөбө болуу образы — кыргызча дөбөдөй сакталды."
+    },
+    {
+      "kind": "substitution",
+      "subject": "קפאו",
+      "rationale": "байыркы котормолор \"коңүршүдү\/катты\" дейт; \"катты\" — тоңуу-жууруш образын кармайт."
+    }
+  ],
+  "translation": "Жана сенин мурдуңдун руху менен суулар түйүлдү, агын суулар дөбөдөй тик турду; тереңдиктер деңиздин жүрөгүндө катты.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "0a28424b26f985ab0397e8152d41c52dd31eb817d2d7f8187da1da50f63d980b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/15\/8-8.1791223542900.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וברוח",
+      "gloss": "руху менен"
+    },
+    {
+      "surface": "אפיך",
+      "gloss": "сенин мурдуңдун"
+    },
+    {
+      "surface": "נערמו",
+      "gloss": "түйүлдү"
+    },
+    {
+      "surface": "מים",
+      "gloss": "суулар"
+    },
+    {
+      "surface": "נצבו",
+      "gloss": "тик турду"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "дөбөдөй"
+    },
+    {
+      "surface": "נד",
+      "gloss": "дөбө"
+    },
+    {
+      "surface": "נזלים",
+      "gloss": "агын суулар"
+    },
+    {
+      "surface": "קפאו",
+      "gloss": "катты"
+    },
+    {
+      "surface": "תהמת",
+      "gloss": "тереңдиктер"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "жүрөгүндө"
+    },
+    {
+      "surface": "ים",
+      "gloss": "деңиздин"
+    }
+  ],
+  "timestamp": "2026-10-05T18:05:42.901444873Z",
+  "model": "glm-5.3"
+}

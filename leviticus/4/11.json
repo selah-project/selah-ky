@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 4:11",
+  "book": "leviticus",
+  "lang": "ky",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "боюнча",
+      "rationale": "על мында 'менен бирге, кошо' деген мааниде: 'башы менен буттары менен'"
+    }
+  ],
+  "translation": "жана ⟨את⟩ өгүздүн терисин, ⟨את⟩ анын бүт этин, анын башы менен анын буттарын, ички органдарын жана заңын.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "c21a666fa5d04805f516155a5295173a62db10644e0188ab5b80dc901a05221f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/4\/9-12.1791202857472.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "жана ⟨את⟩",
+      "marks": "терисин"
+    },
+    {
+      "surface": "עור",
+      "gloss": "тери"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "өгүздүн"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "жана ⟨את⟩",
+      "marks": "бүт этин"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүт"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "эти"
+    },
+    {
+      "surface": "על",
+      "gloss": "боюнча"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "башы"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "жана боюнча"
+    },
+    {
+      "surface": "כרעיו",
+      "gloss": "буттары"
+    },
+    {
+      "surface": "וקרבו",
+      "gloss": "ички органдары"
+    },
+    {
+      "surface": "ופרשו",
+      "gloss": "жана заңы"
+    }
+  ],
+  "timestamp": "2026-10-05T12:20:57.473759629Z",
+  "model": "glm-5.3"
+}

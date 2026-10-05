@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 6:13",
+  "book": "deuteronomy",
+  "lang": "ky",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ага",
+      "rationale": "ואתו — את объекти белгиси менен 3-жаңкы мүчө; кыргызда атоочтун ордун ээлик ат алып турат"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תשבע",
+      "rationale": "שבע 'жети' деген тамыр менен байланышкан — 'жети жолу айтуу менен ант этиш', кыргызча жоголгон"
+    }
+  ],
+  "translation": "⟨את⟩ Яхве Элохимиңден коркко, ⟨את⟩ ага кызмат кылгыла жана Анын ысымы менен ант бергиле.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "7594844095c98708fa98b750ee367d9e02bf6867226e3984820ff4410f59c518",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/6\/13-16.1791204775496.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яхве Элохимиңден"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Элохимиңден"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "коркко"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩ ага"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "кызмат кылгыла"
+    },
+    {
+      "surface": "ובשמו",
+      "gloss": "жана Анын ысымы менен"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "ант бергиле"
+    }
+  ],
+  "timestamp": "2026-10-05T12:52:55.498390843Z",
+  "model": "glm-5.3"
+}

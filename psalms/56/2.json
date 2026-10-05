@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 56:2",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 56,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жутмокчу",
+      "rationale": "שאף — «дем алып жутуу, жалтоо»; жырткыч оозун ачып дем алгандай сүрөт."
+    },
+    {
+      "kind": "you",
+      "subject": "Элохимге",
+      "rationale": "Давидтин Элохимге тикелей жалынуусу."
+    },
+    {
+      "kind": "invitation",
+      "subject": "Мага ырайым кыл",
+      "rationale": "Тилек-буйрук формасы менен кайрылуу."
+    }
+  ],
+  "translation": "Мага ырайым кыл, Элохим, анткени өлүмдүү адам мени жутмокчу; күн бою мага каршы согушуп мени кысып турат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "a38d85356925c49aedc5bc6ca629f47794193efb8e83720aad23df69d223b3d6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/56\/1-4.1791216219058.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Мага ырайым кыл"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "שאפני",
+      "gloss": "мени жутмокчу"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "өлүмдүү адам"
+    },
+    {
+      "surface": "כל",
+      "gloss": "күн"
+    },
+    {
+      "surface": "היום",
+      "gloss": "бою"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "согушуп"
+    },
+    {
+      "surface": "ילחצני",
+      "gloss": "мени кысып турат"
+    }
+  ],
+  "timestamp": "2026-10-05T16:03:39.058794445Z",
+  "model": "glm-5.3"
+}

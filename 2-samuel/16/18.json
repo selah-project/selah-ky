@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-samuel 16:18",
+  "book": "2-samuel",
+  "lang": "ky",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אשב",
+      "rationale": "Буквалдык «отурурам» — кызмат кылуу, туруу маанисинде; Хушайдын үчүнчү тараптык тактикасы бүдөмүк сөз менен жасырылган."
+    },
+    {
+      "kind": "secret",
+      "subject": "Хушайдын жообу",
+      "rationale": "Хушай эки жүздүү сүйлөөдө: «Яхве тандаган» деген сөз Авшаломду да, Давидди да элестете алат — мааниси атайын бүдөмүк калтырылган."
+    }
+  ],
+  "translation": "Жана Хушай Авшаломго айтты: Жок, анткени Яхве тандаган, жана бул эл жана Йисраэлдин бардык кишиси — аныки боломун, жана ⟨את⟩ аны менен отурам.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "a5dada841d873b00fd59d8a13bdecf5a536ba3c14fa74285ef6a9dcf02ae47eb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-samuel\/16\/17-20.1791207670679.json",
+    "code": "641241cf-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "жана айтты"
+    },
+    {
+      "surface": "חושי",
+      "gloss": "Хушай"
+    },
+    {
+      "surface": "אל",
+      "gloss": "го"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Авшалом"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "кимди"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "тандаган"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "жана бул эл"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "бул"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "жана бардык"
+    },
+    {
+      "surface": "איש",
+      "gloss": "кишиси"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэлдин"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "боломун"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩ аны менен"
+    },
+    {
+      "surface": "אשב",
+      "gloss": "отурам"
+    }
+  ],
+  "timestamp": "2026-10-05T13:41:10.680296769Z",
+  "model": "glm-5.3"
+}

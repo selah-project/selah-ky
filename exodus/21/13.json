@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 21:13",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨аны⟩",
+      "rationale": "Ивритте тамгасыз объектти кыргыз тилинин түшүм кабыгына байлоо үчүн кошулду"
+    },
+    {
+      "kind": "crux",
+      "subject": "анын колуна",
+      "rationale": "לידו — «анын колуна»: «Элохим колуна берди» (KJV) же «жолуктурду» (JPS) деген варианттар бар"
+    },
+    {
+      "kind": "hapax",
+      "subject": "אנה",
+      "rationale": "Бул аяттагы אנה — Танахта сейрек кездешкен «жолуктуруу» мааниси"
+    }
+  ],
+  "translation": "Ал эми ал куугун салган эмес, бирок Элохим ⟨аны⟩ анын колуна жолуктурган болсо, Мен сага ал качып баруучу жай дайындаймын.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "89af2630d59f9915551a559bf157141f40ff3b9b6406428248f965bc49e9498b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/21\/13-16.1791202293096.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "ал эми"
+    },
+    {
+      "surface": "לא",
+      "gloss": "эмес"
+    },
+    {
+      "surface": "צדה",
+      "gloss": "куугун салды"
+    },
+    {
+      "surface": "והאלהים",
+      "gloss": "бирок Элохим"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "жолуктурду"
+    },
+    {
+      "surface": "לידו",
+      "gloss": "анын колуна"
+    },
+    {
+      "surface": "ושמתי",
+      "gloss": "дайындаймын"
+    },
+    {
+      "surface": "לך",
+      "gloss": "сага"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "жай"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "аны"
+    },
+    {
+      "surface": "ינוס",
+      "gloss": "качып баруучу"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ал жакка"
+    }
+  ],
+  "timestamp": "2026-10-05T12:11:33.096817098Z",
+  "model": "glm-5.3"
+}

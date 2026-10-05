@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 92:7",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 92,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨бул⟩",
+      "rationale": "זאת 'бул' көрсөткүчү — кыргызча 'мынаны' сөзү өзү көрсөткүчтү көтөрөт"
+    }
+  ],
+  "translation": "Надан адам билбейт, акылсыз ⟨бул⟩ түшүнбөйт ⟨את⟩ мынаны.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "7a01b7cac8a0993826577aef2028b6bac8e98634d302f26036a23c7ee9130e3c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/92\/5-8.1791216886797.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "адам"
+    },
+    {
+      "surface": "בער",
+      "gloss": "надан"
+    },
+    {
+      "surface": "לא",
+      "gloss": "билбейт"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "билбейт"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "акылсыз"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түшүнбөйт"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "түшүнбөйт"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "мынаны"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "мынаны"
+    }
+  ],
+  "timestamp": "2026-10-05T16:14:46.798551335Z",
+  "model": "glm-5.3"
+}

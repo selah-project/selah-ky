@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 78:10",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Анын",
+      "rationale": "Иштик мүчөсүнө жашырылган көптүк сан — кыргызча тактык үчүн ачык жазылды."
+    },
+    {
+      "kind": "substitution",
+      "subject": "Тора",
+      "rationale": "תורה «мыйзам» деп берилбейт — D2 боюнча Тора аталык сакталат."
+    }
+  ],
+  "translation": "Алар Элохимдин келишимин сакташкан жок жана Анын Торасында жүүдөн баш тартышты.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "7b4797252d14c233ace718b6cd2f67837c715536e793f14b29097e5fbca2110e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/78\/9-12.1791216575958.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "сакташкан"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "келишимин"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "ובתורתו",
+      "gloss": "Анын Торасында"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "баш тартышты"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "жүүдөн"
+    }
+  ],
+  "timestamp": "2026-10-05T16:09:35.959388536Z",
+  "model": "glm-5.3"
+}

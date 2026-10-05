@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "psalms 18:46",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "יחרгו",
+      "rationale": "חרג — Танахта ушул жерде гана кездешет, «шашкалактап\/корккон бойдон чыгуу»"
+    },
+    {
+      "kind": "crux",
+      "subject": "ממסגרותיהם",
+      "rationale": "«коргондорунан» же «чек араларынан» — өтө аз колдонулган сөз"
+    }
+  ],
+  "translation": "Бөтөн элдин уулдары соолуп кетишет жана өз коргондорунан шашкалактап чыгышат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "f7495c9dfa5ca669c5420c06779e3b361b73b433562b9edda20145fa1f5aea17",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/18\/45-48.1791215567992.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "уулдары"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "бөтөн элдин"
+    },
+    {
+      "surface": "יבלו",
+      "gloss": "соолуп кетишет"
+    },
+    {
+      "surface": "ויחרגו",
+      "gloss": "жана шашкалактап чыгышат"
+    },
+    {
+      "surface": "ממסגרותיהם",
+      "gloss": "өз коргондорунан"
+    }
+  ],
+  "timestamp": "2026-10-05T15:52:47.993014700Z",
+  "model": "glm-5.3"
+}

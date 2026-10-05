@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 2:18",
+  "book": "numbers",
+  "lang": "ky",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ימה",
+      "rationale": "Сөзмө-сөз «деңизге карай»; кыргызча «батыш тарапта» — багыт деңиз аркылуу берилген."
+    },
+    {
+      "kind": "substitution",
+      "subject": "נשיא",
+      "gloss": "",
+      "rationale": "«Башчысы» — сөз «көтөрүлгөн, урматтуу адам» дегенди билдирет."
+    },
+    {
+      "kind": "measurement",
+      "subject": "лагердин жайгашуусу",
+      "rationale": "Аскер лагеринин географиялык тартипи — үчүнчү жагы көрсөтүлүп жатат."
+    }
+  ],
+  "translation": "Эфрайим лагеринин желеги аскерлери менен батыш тарапта болот, жана Эфрайим уулдарынын башчысы — Элишама, Амихуддун уулу.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "a28691f239bb4cbd9aca30297254d5f490871aa5c5c7c992b2b0e4e75f6c0eae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/numbers\/2\/17-20.1791203564003.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דגל",
+      "gloss": "желеги"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "лагеринин"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Эфрайим"
+    },
+    {
+      "surface": "לצבאתם",
+      "gloss": "аскерлери менен"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "батыш тарапта"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "жана башчысы"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "уулдарынын"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Эфрайим"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "Элишама"
+    },
+    {
+      "surface": "בן",
+      "gloss": "уулу"
+    },
+    {
+      "surface": "עמיהוד",
+      "gloss": "Амихуддун"
+    }
+  ],
+  "timestamp": "2026-10-05T12:32:44.004794036Z",
+  "model": "glm-5.3"
+}

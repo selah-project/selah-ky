@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nahum 2:3",
+  "book": "nahum",
+  "lang": "ky",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שב",
+      "rationale": "\"кайтарды\" (ASV\/JPS) же \"чечип алды\/бурду\" (KJV: turned away) — эки окурм бар: калыбына келтирүү же алып коюу."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בקקום\/בקקים",
+      "rationale": "Окшош дабыштуу тамыр кайра-кайра келатат, кыргызча бул үндөштүк жоголот."
+    },
+    {
+      "kind": "crux",
+      "subject": "זמריהם",
+      "rationale": "Сөз \"бутактар\" дегенди билдирет; кээ бир котормолор \"жебелер\" деп ишарат кылышат."
+    }
+  ],
+  "translation": "Анткени Яхве Яаковтун улуулугун ⟨את⟩ кайтарды, Йисраэлдин улуулугундай, анткени аларды бошоткондор бошоткон, алардын бакча бутактарын бузду.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "38c2876ced16c4635f0d33d963cc787fde68183e71cc97c0959f233d7d05e586",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/nahum\/2\/1-4.1791214760493.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "שב",
+      "gloss": "кайтарды"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яаковтун улуулугун"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "улуулугун"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаковтун"
+    },
+    {
+      "surface": "כגאון",
+      "gloss": "улуулугундай"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэлдин"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "בקקום",
+      "gloss": "бошоткондор"
+    },
+    {
+      "surface": "בקקים",
+      "gloss": "бошоткон"
+    },
+    {
+      "surface": "וזמריהם",
+      "gloss": "бакча бутактарын"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "бузду"
+    }
+  ],
+  "timestamp": "2026-10-05T15:39:20.494713952Z",
+  "model": "glm-5.3"
+}

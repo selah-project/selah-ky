@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 38:18",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Шеол",
+      "rationale": "Шеол — жаза ордунда эмес, өлгөндөрдүн дүйнөсү; 'тозок' дешке болбойт."
+    },
+    {
+      "kind": "alternative",
+      "subject": "ישברו",
+      "rationale": "'күтүшпайт' да болот — шөгүлдөп күтүү мааниси."
+    }
+  ],
+  "translation": "Анткени Шеол Сага тааныта албайт, өлүм Сени даңазалай албайт; чуңкурга түшкөндөр Сенин чындыгыңа үмүт кылышпайт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "e42248b4e11e36e1eec30d070329c790124e1c7b6c6fb9559c520eea99a7e4fe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/38\/17-20.1791210022279.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "לא",
+      "gloss": "албайт"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шеол"
+    },
+    {
+      "surface": "תודך",
+      "gloss": "Сага тааныта"
+    },
+    {
+      "surface": "מות",
+      "gloss": "өлүм"
+    },
+    {
+      "surface": "יהללך",
+      "gloss": "Сени даңазалай"
+    },
+    {
+      "surface": "לא",
+      "gloss": "кылышпайт"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "үмүт кылышпайт"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "түшкөндөр"
+    },
+    {
+      "surface": "בור",
+      "gloss": "чуңкурга"
+    },
+    {
+      "surface": "אל",
+      "gloss": "–га"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "чындыгыңа"
+    }
+  ],
+  "timestamp": "2026-10-05T14:20:22.280771087Z",
+  "model": "glm-5.3"
+}

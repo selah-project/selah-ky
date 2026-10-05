@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 23:2",
+  "book": "1-chronicles",
+  "lang": "ky",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "лебилер",
+      "rationale": "הלוים — уруу аталышы, 'Леви урпактары' деп ачылбай, өз аты менен берилди"
+    },
+    {
+      "kind": "addition",
+      "subject": "ал",
+      "rationale": "פועל этиштин субъектиси (Давид) кыргызча сүйлөм үчүн ⟨ал⟩ менен ачылды"
+    }
+  ],
+  "translation": "Жана ал Йисраэлдин ⟨את⟩ бардык төрөлөрүн, ыйык кызмат кылуучуларды жана лебилерди чогултту.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "1d016336ea05e3701619ffcde0a8fd28e75b6d7f40cc20795aeab6bef2a9f4a9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-chronicles\/23\/1-4.1791222351318.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "чогултту"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "бардык төрөлөрүн"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бардык"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "төрөлөрүн"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэлдин"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "ыйык кызмат кылуучуларды"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "лебилерди"
+    }
+  ],
+  "timestamp": "2026-10-05T17:45:51.319364919Z",
+  "model": "glm-5.3"
+}

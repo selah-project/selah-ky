@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 1:15",
+  "book": "2-kings",
+  "lang": "ky",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "менен",
+      "rationale": "אותו жөн гана «аны» — «менен» предлогу контексттен кошулду"
+    },
+    {
+      "kind": "you",
+      "subject": "Элияхуга",
+      "rationale": "Яхвенин периштеси Элияхуга тикелей буйрук берет"
+    }
+  ],
+  "translation": "Жана Яхвенин периштеси Элияхуга сүйлөдү: ⟨аны менен⟩ түш, андан коркпо. Жана ал турду да, ⟨аны менен⟩ падышага түштү.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "17df0a39c627a4c41c0f1d0e0175767370ec63f6f68fec18b69c876f9fdbe145",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-kings\/1\/13-16.1791208697985.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "сүйлөдү"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "периштеси"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ага"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Элияхуга"
+    },
+    {
+      "surface": "רד",
+      "gloss": "түш"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ ⟨аны менен⟩",
+      "marks": "аны менен (башчыны алып)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "жок"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "коркпо"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "андан"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "турду"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "түштү"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ ⟨аны менен⟩",
+      "marks": "аны менен"
+    },
+    {
+      "surface": "אל",
+      "gloss": "падышага"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "падыша"
+    }
+  ],
+  "timestamp": "2026-10-05T13:58:17.987138695Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 97:10",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 97,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Эй",
+      "rationale": "тиркөөчү мүчө — еврейче жок"
+    },
+    {
+      "kind": "substitution",
+      "subject": "жаны",
+      "rationale": "נפש — жаны, дем, жан күчү"
+    }
+  ],
+  "translation": "Эй, Яхвени сүйгөндөр, жамандыкты жек көргүлө; Ал Өзүнүн ыйык кызмат кылуучуларынын жандарын сактайт, аларды жамандардын колунан куткарат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "927b376d02f29de565236965f5d916cc01d82418d9d6cdc0649839662faf4bae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/97\/9-12.1791216947674.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אהבי",
+      "gloss": "сүйгөндөр"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвени"
+    },
+    {
+      "surface": "שנאו",
+      "gloss": "жек көргүлө"
+    },
+    {
+      "surface": "רע",
+      "gloss": "жамандыкты"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "сактайт"
+    },
+    {
+      "surface": "נפשות",
+      "gloss": "жандарын"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "ыйык кызмат кылуучуларынын"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "колунан"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "жамандардын"
+    },
+    {
+      "surface": "יצילם",
+      "gloss": "куткарат"
+    }
+  ],
+  "timestamp": "2026-10-05T16:15:47.675351136Z",
+  "model": "glm-5.3"
+}

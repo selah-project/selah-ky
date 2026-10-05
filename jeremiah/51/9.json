@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 51:9",
+  "book": "jeremiah",
+  "lang": "ky",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "רפאנו",
+      "rationale": "עזבנו толук эмес «биз айыктырмак болдук» деген мааниде айтылган, кыргызча «мак болдук» кошулду"
+    },
+    {
+      "kind": "substitution",
+      "subject": "שחקים",
+      "rationale": "букмалышы «каккан чаң, жука буу» — булут катары берилди"
+    }
+  ],
+  "translation": "Биз Бабилди айыктырмак болдук, бирок ал айыккан жок; аны таштап, ар бир өз жерине кетели, анткени анын өкүмү асманга жетти жана булуттарга чейин көтөрүлдү.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "161af04d7c4e7512a7f0f68f48499a1d9ae3f8edf2c7460ef20f5bdf9e8a7f9e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/jeremiah\/51\/9-12.1791212049141.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רפאנו",
+      "gloss": "айыктырмак болдук"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Бабилди"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Бабил"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "бирок жок"
+    },
+    {
+      "surface": "נרפתה",
+      "gloss": "айыккан жок"
+    },
+    {
+      "surface": "עזבוה",
+      "gloss": "аны таштап"
+    },
+    {
+      "surface": "ונלך",
+      "gloss": "кетели"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ар бир"
+    },
+    {
+      "surface": "לארצו",
+      "gloss": "өз жерине"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "жетти"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-га"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "асман"
+    },
+    {
+      "surface": "משפטה",
+      "gloss": "анын өкүмү"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "көтөрүлдү"
+    },
+    {
+      "surface": "עד",
+      "gloss": "чейин"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "булуттарга"
+    }
+  ],
+  "timestamp": "2026-10-05T14:54:09.141925264Z",
+  "model": "glm-5.3"
+}

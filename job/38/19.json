@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 38:19",
+  "book": "job",
+  "lang": "ky",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "mystery",
+      "subject": "жарыктын жолу",
+      "rationale": "жарык менен караңгылыктын жашыруун жайгашкан жери — ачык билгис теманы түзөт"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אי זה ... אי זה",
+      "rationale": "эки жолу кайталанган 'кайда бул' — параллелдик структура, суроолорду бириктирет"
+    }
+  ],
+  "translation": "Жарык жашаган жол кайда, жана караңгылыктын орду кайда?",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "9e643179b9135a159247403e5a36e60695eb707c42ff6bc14b55482612dc3ab1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/job\/38\/17-20.1791219469911.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אי",
+      "gloss": "кайда"
+    },
+    {
+      "surface": "זה",
+      "gloss": "бул"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "жол"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "жашайт"
+    },
+    {
+      "surface": "אור",
+      "gloss": "жарык"
+    },
+    {
+      "surface": "וחשך",
+      "gloss": "жана караңгылык"
+    },
+    {
+      "surface": "אי",
+      "gloss": "кайда"
+    },
+    {
+      "surface": "זה",
+      "gloss": "бул"
+    },
+    {
+      "surface": "מקמו",
+      "gloss": "анын ордун"
+    }
+  ],
+  "timestamp": "2026-10-05T16:57:49.912848513Z",
+  "model": "glm-5.3"
+}

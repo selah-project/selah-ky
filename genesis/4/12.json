@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 4:12",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨эндеш⟩",
+      "rationale": "לא תסף «кошулбайт» — кыргызча «эндеш … бербейт» түрүндө берилди"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נע ונד",
+      "rationale": "נוע ונד — үндөштүк жана уйкаштык: дал келбеген эки жүрүү сөзү; кыргызча «качкын жана жүдөөчү» деген уйкаштык менен берилди"
+    }
+  ],
+  "translation": "Жерди иштеткениңде, ал ⟨эндеш⟩ өз күчүн сага бербейт; сен жер бетинде качкын жана жүдөөчү болосун.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "36506de47dcff9e45ababa2df96a4f965bde221c54e7f72affcb28c667ebeb99",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/4\/9-12.1791200742099.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "…ганиңде"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "иштетсең"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "жерди"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "жерди"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "эндеш"
+    },
+    {
+      "surface": "תת",
+      "gloss": "бербейт"
+    },
+    {
+      "surface": "כחה",
+      "gloss": "күчүн"
+    },
+    {
+      "surface": "לך",
+      "gloss": "сага"
+    },
+    {
+      "surface": "נע",
+      "gloss": "качкын"
+    },
+    {
+      "surface": "ונד",
+      "gloss": "жана жүдөөчү"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "болосун"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "жер бетинде"
+    }
+  ],
+  "timestamp": "2026-10-05T11:45:42.100450788Z",
+  "model": "glm-5.3"
+}

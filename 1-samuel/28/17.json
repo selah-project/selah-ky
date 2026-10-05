@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 28:17",
+  "book": "1-samuel",
+  "lang": "ky",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לו (ага)",
+      "rationale": "КЖВ «анын үчүн» дейт, ЖПС «Өзү үчүн» — «ага» же «сага» деген варианттар бар; Шемуел Шаулга сүйлөп жатат."
+    },
+    {
+      "kind": "idiom",
+      "subject": "בידי (кол аркылуу)",
+      "rationale": "«Кол аркылуу» — еврейче «менин колумда» идиомасы, «мен аркылуу» деген мааниде."
+    }
+  ],
+  "translation": "Жана Яхве ага менин колум аркылуу сүйлөгөнүндөй кылды, жана Яхве падышачылыкты ⟨את⟩ колуңан жылып алды жана аны жакыныңа, Давидке берди.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "d1ec9e4d85d0d9496eb6be239ed05657996d7383be4652f1e7ad16daf600521f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-samuel\/28\/17-20.1791207282667.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "кылды"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ага"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "...гөндөй"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сүйлөгөнү"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "менин колум аркылуу"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "жана жылып алды"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "падышачылыкты"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "падышачылык"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "колуңан"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "жана берди"
+    },
+    {
+      "surface": "לרעך",
+      "gloss": "жакыныңа"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давидке"
+    }
+  ],
+  "timestamp": "2026-10-05T13:34:42.668626258Z",
+  "model": "glm-5.3"
+}

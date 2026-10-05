@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 91:14",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 91,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Яхвенин сөзү",
+      "rationale": "Яхве 91:14–16 да үчүнчү жактан өзүлөрүнө сүйлөйт"
+    },
+    {
+      "kind": "substitution",
+      "subject": "חשק",
+      "rationale": "хашак — жабышып сүйүү, кармоо; «сүйдү» деп жумшартылды"
+    }
+  ],
+  "translation": "Анткени ал Мени сүйдү, Мен аны куткарамын; Мен аны бийикке коёмун, анткени ал Менин ысымымды билди.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "350e53d9d9d1a37ee4016964f01e5c78257c6a62f78b4d7de4dedb33cf8fdf58",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/91\/13-16.1791216896216.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "בי",
+      "gloss": "Мени"
+    },
+    {
+      "surface": "חשק",
+      "gloss": "сүйдү"
+    },
+    {
+      "surface": "ואפלטהו",
+      "gloss": "куткарамын"
+    },
+    {
+      "surface": "אשגבהו",
+      "gloss": "бийикке коёмун"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "билди"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "ысымымды"
+    }
+  ],
+  "timestamp": "2026-10-05T16:14:56.216788397Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 18:7",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "мен",
+      "rationale": "לי этиштин мүчөсүндө бар, бирок кыргызча өзүнчө «мен» деп алынды"
+    },
+    {
+      "kind": "substitution",
+      "subject": "сарай",
+      "rationale": "היכל — сарай же ийбадаткананын чоң имараты; «ийбадаткана» деген сөз бул жерде храм концепциясын алып келет"
+    }
+  ],
+  "translation": "Кыйынчылыгымда мен Яхвеге чайкап чакырдым жана өз Элохимиме кыйкырдым; ал менин үнүмдү өз сарайынан угду, менин кыйкырыгым Анын жүзүнө кирди, анын кулактарына.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "690139cc98787fbf4f8903546c3df08b7a3e957553e4ec1ba24e7113331b8d8a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/18\/6-7.1791224411132.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בצר",
+      "gloss": "кыйынчылыгымда"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мен"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "чайкап чакырдым"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвеге"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "жана"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Элохимиме"
+    },
+    {
+      "surface": "אשוע",
+      "gloss": "кыйкырдым"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "угду"
+    },
+    {
+      "surface": "מהיכלו",
+      "gloss": "өз сарайынан"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "менин үнүмдү"
+    },
+    {
+      "surface": "ושועתי",
+      "gloss": "менин кыйкырыгым"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "Анын жүзүнө"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "кирди"
+    },
+    {
+      "surface": "באזניו",
+      "gloss": "анын кулактарына"
+    }
+  ],
+  "timestamp": "2026-10-05T18:20:11.132839865Z",
+  "model": "glm-5.3"
+}

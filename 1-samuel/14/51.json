@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "1-samuel 14:51",
+  "book": "1-samuel",
+  "lang": "ky",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "болгон",
+      "rationale": "Еврейче текстте ‘父’ мамилеси ээликтүү конструкцияда берилет, ‘болгон' этиши кошулду"
+    },
+    {
+      "kind": "crux",
+      "subject": "Авиэлдин уулу",
+      "rationale": "Бул аят Нерди Авиэлдин уулу деп берет; 1 Шемуэл 9:1 боюнча Киш да Авиэлдин уулу — Авнер менен Шаул бир топ болгон"
+    },
+    {
+      "kind": "measurement",
+      "subject": "тукум тизмеси",
+      "rationale": "Аят аталардын тизмесин катайт"
+    }
+  ],
+  "translation": "Киш ⟨болгон⟩ Шаулдун атасы, жана Нер ⟨болгон⟩ Авнердин атасы — Авиэлдин уулу.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "3ffed4de3ae8155c73a30ae9b480fd86c68f84ddcd75ad2196c88586413aff8f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-samuel\/14\/49-52.1791206885025.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וקיש",
+      "gloss": "жана Киш"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "атасы"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаулдун"
+    },
+    {
+      "surface": "ונר",
+      "gloss": "жана Нер"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "атасы"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Авнердин"
+    },
+    {
+      "surface": "בן",
+      "gloss": "уулу"
+    },
+    {
+      "surface": "אביאל",
+      "gloss": "Авиэлдин"
+    }
+  ],
+  "timestamp": "2026-10-05T13:28:05.026442298Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,137 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 24:2",
+  "book": "2-samuel",
+  "lang": "ky",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Йоабго",
+      "rationale": "Падышанын аскер башчысы Йоабга түз буйругу."
+    },
+    {
+      "kind": "measurement",
+      "subject": "эсептегиле",
+      "rationale": "Элди санoo буйругу — Дандан Беер-Шевага чейинки географиялык чек менен."
+    },
+    {
+      "kind": "elision",
+      "subject": "אתו",
+      "rationale": "אתו бул жерде H854 «менен» предлоги, H853 эмес, бирок глосса ⟨את⟩ белгисин көтөрөт."
+    }
+  ],
+  "translation": "Падыша айтты аскер башчысы, өзү ⟨את⟩ менен турган Йоабго: Барчы, сүйлөп ⟨бар⟩ Йисраэлдин бардык уруулары боюнча Дандан Беер-Шевага чейин, жана элди эсептегиле, мен билип турмун ⟨את⟩ элдин ⟨את⟩ санын.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "f4111468f13fb10dfd6227c011b60d6c70e7e977581a6a2d23579809c0621d6a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-samuel\/24\/1-4.1791207926204.json",
+    "code": "641241cf-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "падыша"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-га"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Йоабго"
+    },
+    {
+      "surface": "שר",
+      "gloss": "башчысы"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "аскер"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "өзү"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ менен"
+    },
+    {
+      "surface": "שוט",
+      "gloss": "сүйлөп бар"
+    },
+    {
+      "surface": "נא",
+      "gloss": "барчы"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "бардык"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "уруулары"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэлдин"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "Дандан"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "чейин"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Беер"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "-Шевага"
+    },
+    {
+      "surface": "ופקדו",
+      "gloss": "жана эсептегиле"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "элди"
+    },
+    {
+      "surface": "העם",
+      "gloss": "элди"
+    },
+    {
+      "surface": "וידעתי",
+      "gloss": "мен билип турмун"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "элдин санын"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "санын"
+    },
+    {
+      "surface": "העם",
+      "gloss": "элдин"
+    }
+  ],
+  "timestamp": "2026-10-05T13:45:26.205645065Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zephaniah 3:5",
+  "book": "zephaniah",
+  "lang": "ky",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "анын ичинде",
+      "rationale": "בקרבה — 3-жөнөкөй жак мүчөсү бар: «анын» кыргызча такталышы кошулду"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בבקר בבקר",
+      "rationale": "«таң менен, таң менен» — кайталоо, еврей текстинде эки жолу айтылат, сакталды"
+    },
+    {
+      "kind": "substitution",
+      "subject": "עול",
+      "rationale": "еврейче «кыйышпаган\/бурмаланган» сөзү «заара» деп берилди"
+    }
+  ],
+  "translation": "Яхве адил ⟨аňын⟩ ичинде — зааралык кылбайт; таң менен, таң менен өкүмүн жарыкка берет, ал жок болбойт; бирок зааралар уятты билбишет.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "836c4e52db6b467a94d4233a92d202931a39b82f5a57caa2decf493b778251c1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/zephaniah\/3\/5-8.1791214914907.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "адил"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "⟨анын⟩ ичинде"
+    },
+    {
+      "surface": "לא",
+      "gloss": "эмес"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "кылбайт"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "зааралык"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "таң менен"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "таң менен"
+    },
+    {
+      "surface": "משפטו",
+      "gloss": "өкүмүн"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "берет"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "жарыкка"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "נעדר",
+      "gloss": "болбойт"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "бирок... эмес"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "билбишет"
+    },
+    {
+      "surface": "עול",
+      "gloss": "зааралар"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "уятты"
+    }
+  ],
+  "timestamp": "2026-10-05T15:41:54.908166589Z",
+  "model": "glm-5.3"
+}

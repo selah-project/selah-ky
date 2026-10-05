@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 17:1",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Яхвеге",
+      "rationale": "Псалом Яхвени түз кайрылуу менен баштайт: «Ук, Яхве»."
+    },
+    {
+      "kind": "substitution",
+      "subject": "чакырык",
+      "rationale": "רנה — чырдаган, кыйкырган үн; «чакырык» бул сүрөттү жумшартат."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שמעה\/הקשיבה\/האזינה",
+      "rationale": "Үч тамыр — ук-\/кулак тик-\/кулак сал — үч параллел буйрук, үчөө тең «тиңшөө» маанисинде кайталанат."
+    }
+  ],
+  "translation": "Давиддин тилеги. Ук, Яхве, цедекди; чакырыгыма кулак тик; тилек-жалбарышыма кулак сал — ал жалган эриндерден чыккан эмес.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "613f5ebf5e2899eea61296da291e5f5c715f3f5469ce6385da044a8b89f8f99f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/17\/1-4.1791215510279.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "Тилек"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давиддин"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "Ук"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "цедекди"
+    },
+    {
+      "surface": "הקשיבה",
+      "gloss": "кулак тик"
+    },
+    {
+      "surface": "רנתי",
+      "gloss": "чакырыгыма"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "кулак сал"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "тилек-жалбарышыма"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "эмес"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "эриндерден"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "жалган"
+    }
+  ],
+  "timestamp": "2026-10-05T15:51:50.280362885Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "malachi 3:8",
+  "book": "malachi",
+  "lang": "ky",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "קבע",
+      "rationale": "Бул сөз Танахта ушул гана жерде кездешет; 'алдоо\/тартууну жашыруу' деген мааниде; KJV 'rob', башкалары 'deceive' деп беришет."
+    },
+    {
+      "kind": "hapax",
+      "subject": "קבע",
+      "rationale": "Лемма Танахта бир гана жерде (ушул аятта эки формада) кездешет."
+    },
+    {
+      "kind": "measurement",
+      "subject": "המעשר",
+      "rationale": "Он үлүш — ондон бир бөлүк, ченем-өлчөө маанисиндеги сөз."
+    },
+    {
+      "kind": "elision",
+      "subject": "כי",
+      "rationale": "Суроо менен жооптун ортосундагы байлам 'бирок' деп берилди; айрым окумалар 'анткени' деп окушат."
+    }
+  ],
+  "translation": "Адам Элохимди алдайбы? Бирок силер Мени алдап жатасыңар. Ал эми силер: «Сени эмемен алдадык?» — дечүсүңөр. Ондон бөлүнгөндө жана тартуудан.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "b96b8a82ebf79d8d271a93a353d527232c19c2018123ed367eb4c5f3271cec6b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/malachi\/3\/5-8.1791215281153.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "היקבע",
+      "gloss": "алдайбы"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "адам"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохимди"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бирок"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "силер"
+    },
+    {
+      "surface": "קבעים",
+      "gloss": "алдап жатасыңар"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "Мени"
+    },
+    {
+      "surface": "ואמרתם",
+      "gloss": "дечүсүңөр"
+    },
+    {
+      "surface": "במה",
+      "gloss": "эмемен"
+    },
+    {
+      "surface": "קבענוך",
+      "gloss": "алдадык"
+    },
+    {
+      "surface": "המעשר",
+      "gloss": "ондон бөлүнгөндө"
+    },
+    {
+      "surface": "והתרומה",
+      "gloss": "тартуудан"
+    }
+  ],
+  "timestamp": "2026-10-05T15:48:01.155168642Z",
+  "model": "glm-5.3"
+}

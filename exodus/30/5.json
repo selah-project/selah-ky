@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 30:5",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "таянычтар",
+      "rationale": "הבדים — буюмдарды көтөрүүчү таяктар; «таяныч» сөзү бул жерде кадимки көтөрүү таягын билдирет"
+    }
+  ],
+  "translation": "Жана сен ⟨את⟩ таянычтарды акация жыгачынан жасайсың, жана аларды алтын менен каптайсың.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "8b6e00aac884210ceacd4f25a5f108db61ed176ab43c081fe6b915267a3f4691",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/30\/5-8.1791202488046.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "жасайсың"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "таянычтарды"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "таянычтарды"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "жыгачынан"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "акация"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "каптайсың"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "аларды"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "алтын"
+    }
+  ],
+  "timestamp": "2026-10-05T12:14:48.046932395Z",
+  "model": "glm-5.3"
+}

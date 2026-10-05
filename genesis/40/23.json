@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 40:23",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "эстебей калды",
+      "rationale": "זכר — «белгилеп эстеп калуу»; кыргызча ошол эле мааниде берилди, бирок «белги» сөзү жоголду."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "זכר\/שכח",
+      "rationale": "«эстөө» жана «унутуу» — карама-каршы тамырлардын бир сүйлөмдө айкашы, риторикалык ачык контраст."
+    }
+  ],
+  "translation": "Жана ичимдик берүүчүлөрдүн башчысы ⟨את⟩ Йосефти эстебей калды жана аны унутту.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "6f29a32fb94cab91aa1712ead137520fb620ea41ccf0685860fe441300813feb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/40\/21-23.1791201513786.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "жана ... байкуш"
+    },
+    {
+      "surface": "зכר",
+      "gloss": ""
+    },
+    {
+      "surface": "שר",
+      "gloss": "башчысы"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "ичимдик берүүчүлөрдүн"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Йосефти"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосефти"
+    },
+    {
+      "surface": "וישכחהו",
+      "gloss": "жана аны унтту"
+    }
+  ],
+  "timestamp": "2026-10-05T11:58:33.787241163Z",
+  "model": "glm-5.3"
+}

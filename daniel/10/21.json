@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "daniel 10:21",
+  "book": "daniel",
+  "lang": "ky",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ал —",
+      "rationale": "Hebrew apposition 'Mikhael your prince' lacks copula; Kyrgyz requires it"
+    },
+    {
+      "kind": "secret",
+      "subject": "чындык жазуусу",
+      "rationale": "The 'writing of truth' is a sealed heavenly record disclosed only to Daniel"
+    },
+    {
+      "kind": "you",
+      "subject": "Даниелге",
+      "rationale": "The angel speaks directly to Daniel ('I will tell you')"
+    },
+    {
+      "kind": "idiom",
+      "subject": "כי אם",
+      "rationale": "Hebrew 'ki im' = 'except\/but only', rendered with '-ден башка'"
+    }
+  ],
+  "translation": "Бирок мен сага ⟨את⟩ чындык жазуусунда жазылганын билдирем, жана буларга каршы мен менен бирге бекем турган эч kim жок — Михаэлден башка, ал — силердин шеригиң.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "04983feb094f7e365db70439fe7ecf4cacb27b06defbeea0249dd71ed6c81c24",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/daniel\/10\/21-21.1791220865052.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אבל",
+      "gloss": "бирок"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "билдирем"
+    },
+    {
+      "surface": "לך",
+      "gloss": "сага"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "чындык жазуусунда жазылганын"
+    },
+    {
+      "surface": "הרשום",
+      "gloss": "жазылганын"
+    },
+    {
+      "surface": "בכתב",
+      "gloss": "жазуусунда"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "чындык"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "жана жок"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "эч"
+    },
+    {
+      "surface": "מתחזק",
+      "gloss": "бекем турган"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "мен менен бирге"
+    },
+    {
+      "surface": "על",
+      "gloss": "каршы"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "буларга"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "אם",
+      "gloss": "башка"
+    },
+    {
+      "surface": "מיכאל",
+      "gloss": "Михаэлден"
+    },
+    {
+      "surface": "שרכם",
+      "gloss": "силердин шеригиң"
+    }
+  ],
+  "timestamp": "2026-10-05T17:21:05.053637367Z",
+  "model": "glm-5.3"
+}

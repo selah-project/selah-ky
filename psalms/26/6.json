@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 26:6",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Яхвеге",
+      "rationale": "Direct address to YHWH at the end of the verse"
+    }
+  ],
+  "translation": "Тазалыкта коллорумду жууйм, жана Яхве, ⟨את⟩ Сенин курмандык чыгырыңды айлана жүрөм.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "60fce77910616cd9c245ceb15c47eed972a069c102c8eca9d765fa5097c59c2f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/26\/5-8.1791215695934.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ארחץ",
+      "gloss": "жууйм"
+    },
+    {
+      "surface": "בנקיון",
+      "gloss": "тазалыкта"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "коллорумду"
+    },
+    {
+      "surface": "ואסבבה",
+      "gloss": "айлана жүрөм"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "курмандык чыгырыңды"
+    },
+    {
+      "surface": "מזבחך",
+      "gloss": "курмандык чыгырыңды"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-10-05T15:54:55.935059691Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 2:12",
+  "book": "leviticus",
+  "lang": "ky",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "קרבן \/ תקריבו",
+      "rationale": "Үч тамыр тең «жакындатуу» деген тамырдан: тартуу — жакындатылган нерсе; кыргызча бул кайталоо жоголот"
+    },
+    {
+      "kind": "substitution",
+      "subject": "бирок",
+      "rationale": "Ивритте жөн гана ו («жана») турат; тыюуну айкындоо үчүн каршы байламта коюлду"
+    }
+  ],
+  "translation": "Аларды Яхвеге биринчи жемиштерди тартуу катары алып келгиле, бирок жагымдуу жыт үчүн мешепке чыкпасын.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "144bcf371a4a9b6f0310814f2135b7f2aa7b5a2eec824b06de461ab233121cc2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/2\/9-12.1791202813002.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קרבן",
+      "gloss": "тартуу"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "биринчи жемиштер"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "алып келгиле"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "аларды"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхвеге"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "жана … жакка"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "мешеп"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "чыкпасын"
+    },
+    {
+      "surface": "לריח",
+      "gloss": "жыт үчүн"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "жагымдуу"
+    }
+  ],
+  "timestamp": "2026-10-05T12:20:13.004268798Z",
+  "model": "glm-5.3"
+}

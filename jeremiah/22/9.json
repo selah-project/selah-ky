@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 22:9",
+  "book": "jeremiah",
+  "lang": "ky",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "על אשר",
+      "rationale": "Еврейче «анын үстүнө, мына ушунун үчүн» — «анткени» деп берилди."
+    },
+    {
+      "kind": "substitution",
+      "subject": "башка кудайлар",
+      "rationale": "אלהים אחרים — «башка элохимдер»; кичине тамгалуу «кудайлар» башка элдердин кудайлары үчүн"
+    }
+  ],
+  "translation": "Жана алар айтышат: анткени алар ⟨את⟩ Яхве өздөрүнүн Элохиминин келишимин таштап кетишти, башка кудайларга табынышты жана аларга кызмат кылышты.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "68e313fa423846f545e34bf1cd0b4e2cc22250a1989a922465a63d0384f1e1cc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/jeremiah\/22\/9-12.1791211184600.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "Жана алар айтышат"
+    },
+    {
+      "surface": "על",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "таштап кетишти"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "келишим"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "келишим"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "өздөрүнүн Элохими"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "табынышты"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "кудайларга"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "башка"
+    },
+    {
+      "surface": "ויעבדום",
+      "gloss": "жана аларга кызмат кылышты"
+    }
+  ],
+  "timestamp": "2026-10-05T14:39:44.600936477Z",
+  "model": "glm-5.3"
+}

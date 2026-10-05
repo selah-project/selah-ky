@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-kings 9:32",
+  "book": "2-kings",
+  "lang": "ky",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אתי",
+      "rationale": "бул жерде את (H854 «жанында») — объект белгиси H853 эмес; «мен жанында» деген жакындык предлогу, ошондуктан ⟨את⟩ бирге берилди."
+    },
+    {
+      "kind": "substitution",
+      "subject": "чоңсуз",
+      "rationale": "סריס — чоңсуз же сарай кызматкери; жөн гана «офицер» (JPS) деген софтталган котормо жок."
+    },
+    {
+      "kind": "measurement",
+      "subject": "экиден үчөө",
+      "rationale": "сан — болжолдуу эсеп, текст так сан бербейт."
+    }
+  ],
+  "translation": "Ал бетиңди терезеге көтөрүп айтты: Мен ⟨את⟩ жанымыда ким бар, ким? Экиден үчөө чоңсуз, анын жанына карады.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "bf75abbee4593039a19cd7585f636cda7956afd1ebf429bb1088fbc48b903391",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-kings\/9\/29-32.1791208801670.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "көтөрүп"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "бетиңди"
+    },
+    {
+      "surface": "אל",
+      "gloss": "терезеге"
+    },
+    {
+      "surface": "החלון",
+      "gloss": "терезенин"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ким"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ жаныымда"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ким"
+    },
+    {
+      "surface": "וישקיפו",
+      "gloss": "карады"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "анын жанына"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "экиден"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "үчөө"
+    },
+    {
+      "surface": "סריסים",
+      "gloss": "чоңсуз"
+    }
+  ],
+  "timestamp": "2026-10-05T14:00:01.671683643Z",
+  "model": "glm-5.3"
+}

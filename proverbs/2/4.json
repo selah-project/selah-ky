@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 2:4",
+  "book": "proverbs",
+  "lang": "ky",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "аны",
+      "rationale": "Ивритте объект жашырылган; «ны» изилдөөнүн объектисин көрсөтүү үчүн кошулду"
+    },
+    {
+      "kind": "secret",
+      "subject": "מטמונים",
+      "rationale": "Жашырылган (көмүлгөн) казыналар — жашырылган нерселердин образы"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תבקשנה\/תחפשנה",
+      "rationale": "Эки синоним издөө этиши параллелизмде — күмүш\/казына окшоштук сакталды"
+    }
+  ],
+  "translation": "эгер аны күмүштөй издесең жана жашырылган казыналардай издесең,",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "6aba919b2ae6305385c391d93c0fef0b8588fd88c7bd5358683e953ff4cbeb3b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/2\/1-4.1791217807575.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "эгер"
+    },
+    {
+      "surface": "תבקשנה",
+      "gloss": "издесең"
+    },
+    {
+      "surface": "ככסף",
+      "gloss": "күмүштөй"
+    },
+    {
+      "surface": "וכמטמונים",
+      "gloss": "жана жашырылган казыналардай"
+    },
+    {
+      "surface": "תחפשנה",
+      "gloss": "издесең"
+    }
+  ],
+  "timestamp": "2026-10-05T16:30:07.578816863Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 24:22",
+  "book": "proverbs",
+  "lang": "ky",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "mystery",
+      "subject": "ким билээр",
+      "rationale": "экөөнүн ойранын ким билээр — жообу жок, жашырылган суроо"
+    },
+    {
+      "kind": "addition",
+      "subject": "ордунан",
+      "rationale": "יקום 'турат' дегенге кыргызча тактык керек болду"
+    }
+  ],
+  "translation": "Анткени алардын кырсыгы кенет ордунан турат, экөөнүн ойранын ким билээр?",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "edd8b690f09834782e52c185a11528794de93976100281d0a8aed5d997946ad6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/24\/21-24.1791218319439.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "кенет"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "турат"
+    },
+    {
+      "surface": "אידם",
+      "gloss": "алардын кырсыгы"
+    },
+    {
+      "surface": "ופיד",
+      "gloss": "ойраны"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "экөөнүн"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ким"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "билээр"
+    }
+  ],
+  "timestamp": "2026-10-05T16:38:39.440119187Z",
+  "model": "glm-5.3"
+}

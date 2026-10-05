@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 6:16",
+  "book": "1-samuel",
+  "lang": "ky",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "башкаруучулары",
+      "rationale": "סרן — пелиштик шаарлардын башкаруучуларынын аталышы; «князь» же «эмир» эмес, шаар башчысы"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨аны⟩",
+      "rationale": "ивритте «көрүштү» дегенди түз объект басаңдатпайт; кыргызча аныктык үчүн атайын атылыч кошулду"
+    }
+  ],
+  "translation": "Жана Пелиштинин беш башкаруучусу ⟨аны⟩ көрүштү жана ошол күнү Экронго кайтып келишти.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "fa9adcabb47aa46ae65748c1e0a6e9d02cc2345ec9a1461c4de6814f204b57a4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-samuel\/6\/13-16.1791206673120.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וחמשה",
+      "gloss": "беш"
+    },
+    {
+      "surface": "סרני",
+      "gloss": "башкаруучулары"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Пелиштинин"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "көрүштү"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "кайтышты"
+    },
+    {
+      "surface": "עקרון",
+      "gloss": "Экронго"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "күнү"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ошол"
+    }
+  ],
+  "timestamp": "2026-10-05T13:24:33.122555808Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 40:11",
+  "book": "ezekiel",
+  "lang": "ky",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "дарбазанын өлчөмү",
+      "rationale": "Туурасы он чыканак, узундугу он үч чыканак — так өлчөө."
+    },
+    {
+      "kind": "substitution",
+      "subject": "שלוש עשרה",
+      "gloss": "Токен тартиби: 'үч-он' = он үч; кыргызча тартиби тескери."
+    }
+  ],
+  "translation": "Жана ал дарбазанын кире беришинин туурасын ⟨את⟩ өлчөдү — он чыканак; дарбазанын узундугу — он үч чыканак.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "76f5ee42bbef492dccbfc26f2ce9efabf819932a6a42836847267b2fe2080f5a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ezekiel\/40\/9-12.1791213484168.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "жана ал өлчөдү"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "кире беришинин туурасын"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "туурасын"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "кире беришинин"
+    },
+    {
+      "surface": "השער",
+      "gloss": "дарбазанын"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "он"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "чыканак"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "узундугу"
+    },
+    {
+      "surface": "השער",
+      "gloss": "дарбазанын"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "он"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "үч"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "чыканак"
+    }
+  ],
+  "timestamp": "2026-10-05T15:18:04.169647029Z",
+  "model": "glm-5.3"
+}

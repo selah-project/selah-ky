@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezra 1:9",
+  "book": "ezra",
+  "lang": "ky",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "אגרטלי",
+      "rationale": "Агартал (чара) — Танахта бир гана Эзра 1:9–10 жана 8:27 да кездешет, персче сөз."
+    },
+    {
+      "kind": "crux",
+      "subject": "מחלפים",
+      "rationale": "Махалафим: «курчтар» (KJV, JPS) же «башка күмүш идиштер» (BSB) — мааниси так эмес."
+    },
+    {
+      "kind": "measurement",
+      "subject": "инвентарь",
+      "rationale": "Идиштердин санамжысы: 30 + 1000 + 29."
+    }
+  ],
+  "translation": "Жана алардын саны мындай: алтын чаралар отуз, күмүш чаралар миң, курчтар тогуз жана жыйырма.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "003003a3a0c6e0a46b92bf4d4563bcb04cc632ef077ec6a0262f84219e745832",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ezra\/1\/9-11.1791220880745.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "жана алардын"
+    },
+    {
+      "surface": "מספרם",
+      "gloss": "саны мындай"
+    },
+    {
+      "surface": "אגרטלי",
+      "gloss": "чаралар"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "алтын"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "отуз"
+    },
+    {
+      "surface": "אגרטלי",
+      "gloss": "чаралар"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "күмүш"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "миң"
+    },
+    {
+      "surface": "מחלפים",
+      "gloss": "курчтар"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "тогуз"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "жана жыйырма"
+    }
+  ],
+  "timestamp": "2026-10-05T17:21:20.746066764Z",
+  "model": "glm-5.3"
+}

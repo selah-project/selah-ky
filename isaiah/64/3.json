@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 64:3",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 64,
+  "notes": [
+    {
+      "kind": "mystery",
+      "subject": "көз көргөн эмес",
+      "rationale": "жашыруун, угулбаган нерселер — атайын жабык маани"
+    },
+    {
+      "kind": "crux",
+      "subject": "זולתך",
+      "rationale": "'Сенен башка' vs 'Сенден башка эч ким көргөн эмес' — KJV түз эмес тартипте берет"
+    }
+  ],
+  "translation": "Жана байыркы убактан бери алар уккан эмес, кулак түшүрбөгөн; көз көргөн эмес — Сенен башка Элохим бар, Аны күткөн кишиси үчүн иш кылуучу.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "fe4dfc82da3d97c8f4d128d680314a8745bc027acab1784efe46624721794721",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/64\/1-4.1791210535007.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומעולם",
+      "gloss": "Жана байыркы убактан"
+    },
+    {
+      "surface": "לא",
+      "gloss": "эмес"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "уккан"
+    },
+    {
+      "surface": "לא",
+      "gloss": "эмес"
+    },
+    {
+      "surface": "האזינו",
+      "gloss": "кулак түшүрбөгөн"
+    },
+    {
+      "surface": "עין",
+      "gloss": "көз"
+    },
+    {
+      "surface": "לא",
+      "gloss": "эмес"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "көргөн"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "זולתך",
+      "gloss": "Сенен башка"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "иш кылуучу"
+    },
+    {
+      "surface": "למחכה",
+      "gloss": "күткөн кишиси үчүн"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Аны"
+    }
+  ],
+  "timestamp": "2026-10-05T14:28:55.008763663Z",
+  "model": "glm-5.3"
+}

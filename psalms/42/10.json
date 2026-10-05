@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 42:10",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "кара кайгыда",
+      "rationale": "קדר — «күйүүчү\/күңүрт болуу», кайгыдан жүзү караруу сөзү; сөзмө-сөз «күңүрт болуп басам»"
+    },
+    {
+      "kind": "you",
+      "subject": "Элохимге",
+      "rationale": "толгонгон суроо түз Элохимге багытталган"
+    }
+  ],
+  "translation": "Айтам Элохимге, тумчугумга: эмнеге мени унуттуң, эмнеге кара кайгыда басам душмандын кысымында?",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "dd0bffdb5820e29ed6499137322efd3aa7881cb0c2854312e051700e8e3994fb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/42\/9-12.1791216002331.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אומרה",
+      "gloss": "айтам"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "Элохимге"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "тумчугумга"
+    },
+    {
+      "surface": "למה",
+      "gloss": "эмнеге"
+    },
+    {
+      "surface": "שכחתני",
+      "gloss": "менит уннуттуң"
+    },
+    {
+      "surface": "למה",
+      "gloss": "эмнеге"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "кара кайгыда"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "басам"
+    },
+    {
+      "surface": "בלחץ",
+      "gloss": "кысымында"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "душмандын"
+    }
+  ],
+  "timestamp": "2026-10-05T16:00:02.331971951Z",
+  "model": "glm-5.3"
+}

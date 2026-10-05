@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 50:6",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "дегендейиңче",
+      "rationale": "כאשר шарт байламтасы кыргызча «-дай» мүчөсү менен берилди, өзүнчө сөз эмес"
+    }
+  ],
+  "translation": "Парох айтты: «Чык, ⟨את⟩ атангды ант бергендейиңче кой».",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "817d4df067c4f227a9473aec907b44708b2986f3771ef8416bb5c347ff93777b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/50\/5-8.1791201818507.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Парох"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "Чык"
+    },
+    {
+      "surface": "וקבר",
+      "gloss": "кой"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "атангды"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "атангды"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "дегендейиңче"
+    },
+    {
+      "surface": "השביעך",
+      "gloss": "ант бергендей"
+    }
+  ],
+  "timestamp": "2026-10-05T12:03:38.508716699Z",
+  "model": "glm-5.3"
+}

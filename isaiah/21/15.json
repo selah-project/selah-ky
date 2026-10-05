@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 21:15",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חרבות \/ חרב",
+      "rationale": "Бир ээ тамыры эки жолу — «кылычтардан ... кылычтан» деген кайталоо; YLT биринчи форманы «куранчылыктар» деп окуйт."
+    },
+    {
+      "kind": "crux",
+      "subject": "נטושה",
+      "rationale": "Сөөкчүлөр: «далдаланган\/сырылган» (KJV, JPS) менен «таратылган, курчудан чыккан» (сыртка сүрүлгөн) ортосунда бөлүнөт."
+    }
+  ],
+  "translation": "Анткени кылычтардан, далдаланган кылычтан, тартылган жаадан жана согуштун оордугунан алар качты.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "7034096a3a50d196a17900691383f539e0c4b375babff40a04c993096788bec4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/21\/13-16.1791209668757.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "алдынан"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "кылычтардын"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "алар качты"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "алдынан"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "кылыч"
+    },
+    {
+      "surface": "נטושה",
+      "gloss": "далдаланган"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "жана алдынан"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "жаа"
+    },
+    {
+      "surface": "דרוכה",
+      "gloss": "тартылган"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "жана алдынан"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "оордугунан"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "согуштун"
+    }
+  ],
+  "timestamp": "2026-10-05T14:14:28.758734515Z",
+  "model": "glm-5.3"
+}

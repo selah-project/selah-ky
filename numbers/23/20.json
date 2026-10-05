@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 23:20",
+  "book": "numbers",
+  "lang": "ky",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "וברך",
+      "rationale": "Ким алкыштады? KJV «ал (Яхве) алкыштады» дейт, JPS «алкыштаганда» дейт; субъекти ачык жазылган жок"
+    },
+    {
+      "kind": "alternative",
+      "subject": "לקחתי",
+      "rationale": "Сөзмө-сөз «алдым»; «буйрулду» — контексттен келген интерпретация"
+    }
+  ],
+  "translation": "Мына, алкыштоону буйрудум, жана алкыштадым — муну артка кайтара албайм.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "ea3788f67f9d0171360c4368d4d698cafff47776f74eac58fb090edb2e091f00",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/numbers\/23\/17-20.1791204178579.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "мына"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "алкыштоо"
+    },
+    {
+      "surface": "לקחתי",
+      "gloss": "буйрудум"
+    },
+    {
+      "surface": "וברך",
+      "gloss": "жана алкыштадым"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "жана ... эмес"
+    },
+    {
+      "surface": "אשיבנה",
+      "gloss": "артка кайтара албайм"
+    }
+  ],
+  "timestamp": "2026-10-05T12:42:58.580398174Z",
+  "model": "glm-5.3"
+}

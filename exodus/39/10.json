@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 39:10",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אדם פטדה וברקет",
+      "rationale": "Gem names are transliterated (одем, питда, барекет) because their exact identification is uncertain"
+    },
+    {
+      "kind": "crux",
+      "subject": "האחד",
+      "rationale": "'Биринчи' (ordinal) vs 'бир' (cardinal): катардын тартибин көрсөтүп турат"
+    },
+    {
+      "kind": "measurement",
+      "subject": "төрт катар",
+      "rationale": "Баш көкүрөк тактасындагы таштардын катарлары эсептелүүдө"
+    }
+  ],
+  "translation": "Жана ага төрт катар таш толтурулду: биринчи катар — одем, питда жана барекет — бул биринчи катар.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "8a03a8a2f87338ac7f7bed0b3312e9c1182be32b1a1dc28a6ea9b2b7aef1ae9d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/39\/10-11.1791223618097.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימלאו",
+      "gloss": "толтурулду"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ага"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "төрт"
+    },
+    {
+      "surface": "טורי",
+      "gloss": "катар"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "таш"
+    },
+    {
+      "surface": "טור",
+      "gloss": "катар"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "одем"
+    },
+    {
+      "surface": "פטדה",
+      "gloss": "питда"
+    },
+    {
+      "surface": "וברקת",
+      "gloss": "жана барекет"
+    },
+    {
+      "surface": "הטור",
+      "gloss": "катар"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "биринчи"
+    }
+  ],
+  "timestamp": "2026-10-05T18:06:58.098043681Z",
+  "model": "glm-5.3"
+}

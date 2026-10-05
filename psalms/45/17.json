@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 45:17",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "תחת",
+      "rationale": "Утурумдук мааниде — «ордуна», такыра «астында» эмес"
+    },
+    {
+      "kind": "you",
+      "subject": "падышага",
+      "rationale": "Аят падышага — жүзүнө айтылган сөздүн бир бөлүгү"
+    }
+  ],
+  "translation": "Аталарыңдын ордуна уулдарың болор, аларды бүт жер бетине башкаруучулар кылып коюрсуң.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "e4583dcb573e45621006a1ebcc6f61dcb9c4febaf70590d3f7a37fe238abfa71",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/45\/17-18.1791216051043.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "ордуна"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "аталарыңдын"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "болор"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "уулдарың"
+    },
+    {
+      "surface": "תשיתמו",
+      "gloss": "аларды...коюрсуң"
+    },
+    {
+      "surface": "לשרים",
+      "gloss": "башкаруучулар кылып"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "бүт"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "жер бетине"
+    }
+  ],
+  "timestamp": "2026-10-05T16:00:51.043882035Z",
+  "model": "glm-5.3"
+}

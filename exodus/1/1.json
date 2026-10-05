@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 1:1",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "өзү",
+      "rationale": "איש — «адам, эркек»; жерүйлүү санакта жекече «ал өзү» маанисинде берилди"
+    },
+    {
+      "kind": "measurement",
+      "subject": "аттарынын",
+      "rationale": "аттарды санап чыгуу — тизменин башталышы (1:2–5)"
+    }
+  ],
+  "translation": "Булар — Мицрайимге келген Йисраэлдин уулдарынын аттары: Яаков ⟨את⟩ өзү жана анын үй-бүлөсү менен келди.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "b38a24f04bb804665731a3d0914fac7206ba14193922a5f26e45f04c7f21c9a1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/1\/1-4.1791201850181.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Булар"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "аттары"
+    },
+    {
+      "surface": "בני",
+      "gloss": "уулдарынын"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэлдин"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "келген"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "Мицрайимге"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яаков"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаков"
+    },
+    {
+      "surface": "איש",
+      "gloss": "өзү"
+    },
+    {
+      "surface": "וביתו",
+      "gloss": "жана анын үй-бүлөсү"
+    },
+    {
+      "surface": "באו",
+      "gloss": "келди"
+    }
+  ],
+  "timestamp": "2026-10-05T12:04:10.181511452Z",
+  "model": "glm-5.3"
+}

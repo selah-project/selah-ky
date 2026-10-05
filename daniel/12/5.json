@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "daniel 12:5",
+  "book": "daniel",
+  "lang": "ky",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨адам⟩",
+      "rationale": "Ивритте «эки башка» дейт, «адам» сөзү жок"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שנים\/הנה",
+      "rationale": "שנים (эки) жана הנה (бул\/тиги жак) үндөштүгү кыргызчада жоголото"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ээри",
+      "rationale": "לשפат — «эрин», чечмелүү мааниси «эрмен\/жээк», дарыянын чети"
+    }
+  ],
+  "translation": "Жана мен, Даниел, көрдүм — жана мына, эки башка ⟨адам⟩ турат: бири бул жакта дарыянын ээринде, экинчиси тиги жакта дарыянын ээринде.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "184dc1ff311b6e35ff85af2b043d56787177cfe4a10fe7da78e92c599085f70b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/daniel\/12\/5-8.1791220947004.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וראיתי",
+      "gloss": "көрдүм"
+    },
+    {
+      "surface": "אני",
+      "gloss": "мен"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Даниел"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "жана мына"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "эки"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "башка"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "турат"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бири"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "бул жакта"
+    },
+    {
+      "surface": "לשפת",
+      "gloss": "ээринде"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "дарыянын"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "экинчиси"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "тиги жакта"
+    },
+    {
+      "surface": "לשפת",
+      "gloss": "ээринде"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "дарыянын"
+    }
+  ],
+  "timestamp": "2026-10-05T17:22:27.004786495Z",
+  "model": "glm-5.3"
+}

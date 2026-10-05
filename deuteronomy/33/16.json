@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 33:16",
+  "book": "deuteronomy",
+  "lang": "ky",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נזיר",
+      "rationale": "'Назирликтеги' же 'бөлүнгөн' же 'башчы' (JPS 'prince') — Кыргызча 'ага' сөзү түшүнүксүз; варианттар — 'бөлүнгөн' же 'башчы'"
+    },
+    {
+      "kind": "elision",
+      "subject": "נזיר",
+      "rationale": "Баарынан көп окпулуу вариантында 'ага' деп коюлду, анткени маани түшүнүксүз"
+    }
+  ],
+  "translation": "жана жердин жагымдуу нерселери жана анын толуктугу, бадалда жашагандын ыраазылыгы — булар Йосептин башына, ага бир туугандарынын баштын чокусуна келсин.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "8dcf3828bacdceece413e862ac87a1fb0fd0c346a6eb533ae5240373f693a37a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/33\/13-16.1791205416077.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וממגד",
+      "gloss": "жана жагымдуу нерселери"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "жердин"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "жана анын толуктугу"
+    },
+    {
+      "surface": "ורצון",
+      "gloss": "жана ыраазылыгы"
+    },
+    {
+      "surface": "שכני",
+      "gloss": "жашагандын"
+    },
+    {
+      "surface": "סנה",
+      "gloss": "бадалда"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "келсин"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "башына"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосептин"
+    },
+    {
+      "surface": "ולקדקד",
+      "gloss": "жана баштын чокусуна"
+    },
+    {
+      "surface": "נזיר",
+      "gloss": "ага"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "бир туугандарынын"
+    }
+  ],
+  "timestamp": "2026-10-05T13:03:36.078654346Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 37:4",
+  "book": "jeremiah",
+  "lang": "ky",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "анткени",
+      "rationale": "Ивритте жөн гана ולא; кыргызча байланышты аныктоо үчүн кошулду"
+    },
+    {
+      "kind": "substitution",
+      "subject": "туткун үйү",
+      "rationale": "בית הכליא көчүрүлсө «камakoобакко үйү»; «туткун үйү» деген түшүнүктүү форма тандылды"
+    }
+  ],
+  "translation": "Жана Йирмейа элдин ичинде кирип-чыгып жүрдү, анткени алар ⟨את⟩ аны туткун үйүнө салышкан эмес.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "90cd1fd9f263e60f20249b8fa04b94d8874537a741556ceab9eaa12ef9720f69",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/jeremiah\/37\/1-4.1791211611380.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירמיהו",
+      "gloss": "Йирмейа"
+    },
+    {
+      "surface": "בא",
+      "gloss": "кирип"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "чыгып жүрдү"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ичинде"
+    },
+    {
+      "surface": "העם",
+      "gloss": "элдин"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "анткени … эмес"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "салышкан"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ аны"
+    },
+    {
+      "surface": "בית",
+      "gloss": "үйүнө"
+    },
+    {
+      "surface": "הכליא",
+      "gloss": "туткун"
+    }
+  ],
+  "timestamp": "2026-10-05T14:46:51.382071337Z",
+  "model": "glm-5.3"
+}

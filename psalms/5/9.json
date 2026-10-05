@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 5:9",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "цедек",
+      "rationale": "צדקה — 'адилеттик' эмес, тамыр аты менен цедек сакталды"
+    },
+    {
+      "kind": "crux",
+      "subject": "שוררי",
+      "rationale": "'менi жек көргөндөр' (KJV 'enemies') менен JPS 'кууп жаткандар' (שורר — көзөмөлдөөчү деген да окуу) ортосундагы айырма"
+    }
+  ],
+  "translation": "Яхве, мени Өзүңдүн цедегиңде башта, мени жек көргөндөрүм үчүн; Өзүңдүн жолуңду меним алдымда түз кыл.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "2ac9312f959b215aba426f7f5f1ae5c226a181a8bd26f24b424fd4ddd39310cd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/5\/9-12.1791215262795.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "мени башта"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "Өзүңдүн цедегиңде"
+    },
+    {
+      "surface": "למען",
+      "gloss": "үчүн"
+    },
+    {
+      "surface": "שוררי",
+      "gloss": "мени жек көргөндөрүм"
+    },
+    {
+      "surface": "הושר",
+      "gloss": "түз кыл"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "алдымда"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "жолуңду"
+    }
+  ],
+  "timestamp": "2026-10-05T15:47:42.796293727Z",
+  "model": "glm-5.3"
+}

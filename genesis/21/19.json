@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 21:19",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "тери идиш",
+      "rationale": "חמת — териден тигилген шише; «бутылка» деген азыркы түшүнүк берилген жок"
+    },
+    {
+      "kind": "addition",
+      "subject": "менен",
+      "rationale": "Кыргызча «суу менен толтурду» деген курал kabuунду Hebrew кошпогон"
+    }
+  ],
+  "translation": "Элохим ⟨את⟩ анын көздөрүн ачты, ал суу кудугун көрдү, барып тери идишти суу менен толтуруп, балага ичирди.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "a1d7e8693fefbb1d2c931627856edfc5093d96fc422e7ed381e7758abe70641a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/21\/17-20.1791201114414.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויפקח",
+      "gloss": "ачты"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "анын көздөрүн"
+    },
+    {
+      "surface": "עיניה",
+      "gloss": "анын көздөрүн"
+    },
+    {
+      "surface": "ותרא",
+      "gloss": "көрдү"
+    },
+    {
+      "surface": "באר",
+      "gloss": "кудугун"
+    },
+    {
+      "surface": "מים",
+      "gloss": "суу"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "барып"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "толтуруп"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "тери идишти"
+    },
+    {
+      "surface": "החמת",
+      "gloss": "тери идишти"
+    },
+    {
+      "surface": "מים",
+      "gloss": "суу"
+    },
+    {
+      "surface": "ותשק",
+      "gloss": "ичирди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "балага"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "бала"
+    }
+  ],
+  "timestamp": "2026-10-05T11:51:54.416066109Z",
+  "model": "glm-5.3"
+}

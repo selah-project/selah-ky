@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 10:14",
+  "book": "deuteronomy",
+  "lang": "ky",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "таандык",
+      "rationale": "Еврей тилинде \" лайахве \" үчүн этиш жок, кыргызча керек"
+    },
+    {
+      "kind": "idiom",
+      "subject": "асмандардын асманы",
+      "rationale": "Өтө бийик асман деген идиома, эң жогорку асман маанисинде"
+    }
+  ],
+  "translation": "Көр, Яхвеге, сенин Элохимиңе таандык ⟨the⟩ асман жана асмандардын асманы, жер жана анын ичиндеги бүт нерселер.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "32f896c69cffcd09c14dbd825904cfcf2c6fbe5963b6e54df807c7bb4e7242c1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/10\/13-16.1791204853677.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Көр"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхвеге"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "сенин Элохимиңе"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "асман"
+    },
+    {
+      "surface": "ושמי",
+      "gloss": "жана асмандардын"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "асмандары"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "жер"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "жана бүт"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "NERSEЛЕР"
+    },
+    {
+      "surface": "בה",
+      "gloss": "анын ичинде"
+    }
+  ],
+  "timestamp": "2026-10-05T12:54:13.678722892Z",
+  "model": "glm-5.3"
+}

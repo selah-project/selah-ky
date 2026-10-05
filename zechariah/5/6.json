@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 5:6",
+  "book": "zechariah",
+  "lang": "ky",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "көзү",
+      "rationale": "עינם 'алардын көзү': котормолор 'көз карашы\/көрүнүшү\/сыны' деп берет; жөн гана 'көз' деп коюу да мүмкүн."
+    },
+    {
+      "kind": "addition",
+      "subject": "—",
+      "rationale": "Кыргызча «бул — эфа» жалаңычка муктаж; еврейче жалаңсыз."
+    },
+    {
+      "kind": "measurement",
+      "subject": "эфа",
+      "rationale": "Эфа — дан ченемди бирдиги; өлчөө түшүнүгү көрүнүштүн өзөгү."
+    }
+  ],
+  "translation": "Мен айттым: Бул эмне? Ал айтты: Бул — чыгып жаткан эфа. Жана ал айтты: Бул — алардын көзү бүт жерде.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "f30b90cea97e6cd839f3d93217996b6213405041827c6678df8d97a3d87852f9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/zechariah\/5\/5-8.1791214998298.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "айттым"
+    },
+    {
+      "surface": "מה",
+      "gloss": "эмне"
+    },
+    {
+      "surface": "היא",
+      "gloss": "бул"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "бул"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "эфа"
+    },
+    {
+      "surface": "היוצאת",
+      "gloss": "чыгып жаткан"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "бул"
+    },
+    {
+      "surface": "עינם",
+      "gloss": "алардын көзү"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "бүт"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "жерде"
+    }
+  ],
+  "timestamp": "2026-10-05T15:43:18.299267047Z",
+  "model": "glm-5.3"
+}

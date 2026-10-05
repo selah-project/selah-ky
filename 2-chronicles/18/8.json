@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 18:8",
+  "book": "2-chronicles",
+  "lang": "ky",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "hapax-shape",
+      "subject": "סריס",
+      "rationale": "Сөз эвнух да, падышанын ички кызматкерини да билдирет — «сарыс» формасы сакталды."
+    },
+    {
+      "kind": "elision",
+      "subject": "алдыр",
+      "rationale": "מהר этиш «шашыл» — кыргызча буйрук формада «алдыр» деп берилди."
+    }
+  ],
+  "translation": "Йисраэлдин падышасы бир сарыс чакырды да айтты: Тезирээк Микайхуну, Йимланын уулун, алдыр.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "0e31a89b7cd91413293d6c17f6809bf35ddc5b185f21755572f58e9541682a7a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-chronicles\/18\/5-8.1791222973878.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "чакырды"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "падышасы"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэлдин"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ка"
+    },
+    {
+      "surface": "סריס",
+      "gloss": "сарыс"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бир"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "тезирээк"
+    },
+    {
+      "surface": "מיכהו",
+      "gloss": "Микайхуну"
+    },
+    {
+      "surface": "בן",
+      "gloss": "уулу"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "Йимланын"
+    }
+  ],
+  "timestamp": "2026-10-05T17:56:13.879867467Z",
+  "model": "glm-5.3"
+}

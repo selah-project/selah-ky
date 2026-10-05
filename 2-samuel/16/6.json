@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 16:6",
+  "book": "2-samuel",
+  "lang": "ky",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ויסקל באבנים",
+      "rationale": "литография «ташта атылды» — кыргызча «таш ыргытту» деп табигый берилди"
+    },
+    {
+      "kind": "addition",
+      "subject": "эле",
+      "rationale": "ивритте копула жок, кыргызча «анда эле» мааниси үчүн кошулду"
+    }
+  ],
+  "translation": "Жана ал Давидге жана падыша Давиддин бардык кызматчыларына таш ыргытты; бүт эл жана бардык баатырлар анын оң тарабында жана сол тарабында эле.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "e8332458151d5a269c83129044611fd8d23856330c98a48e25b50557fd2ac38d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-samuel\/16\/5-8.1791207686845.json",
+    "code": "641241cf-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויסקל",
+      "gloss": "таш ыргытты"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "таш"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Давид"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "жана ⟨את⟩",
+      "marks": "бардык кызматчылар"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бардык"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "кызматчыларына"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "падыша"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давиддин"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "жана бүт"
+    },
+    {
+      "surface": "העם",
+      "gloss": "эл"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "жана бардык"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "баатырлар"
+    },
+    {
+      "surface": "מימינו",
+      "gloss": "оң тарабында"
+    },
+    {
+      "surface": "ומשמאלו",
+      "gloss": "жана сол тарабында"
+    }
+  ],
+  "timestamp": "2026-10-05T13:41:26.846317476Z",
+  "model": "glm-5.3"
+}

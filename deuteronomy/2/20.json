@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 2:20",
+  "book": "deuteronomy",
+  "lang": "ky",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "זמזמים",
+      "rationale": "Замзуммим деген аталыш Танахта ушул жерде гана кездешет"
+    },
+    {
+      "kind": "crux",
+      "subject": "Рефаимдер",
+      "rationale": "רפאим — 'алптар' же уруунун ысымы Экөө тең окулат; ысым катары кармалды"
+    },
+    {
+      "kind": "secret",
+      "subject": "байыркы элдердин аттары",
+      "rationale": "Байыркы элдер жөнүндөгө билим жашырылган тарыхый кабар катары берилет"
+    }
+  ],
+  "translation": "Ал жер да Рефаимдердин жери деп эсептелет; илгери Рефаимдер ошондо жашаган, бирок Аммондуктар аларды Замзуммимдер деп аташат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "ec778812dd1f6f01b17555aa1361d39238f390a1e25663d5041e95a871bae6fa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/2\/17-20.1791204669595.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "жер"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "Рефаимдердин"
+    },
+    {
+      "surface": "תחשב",
+      "gloss": "эсептелет"
+    },
+    {
+      "surface": "אף",
+      "gloss": "да"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ал"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "Рефаимдер"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "жашаган"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ошондо"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "илгери"
+    },
+    {
+      "surface": "והעמנים",
+      "gloss": "Аммондуктар"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "аташат"
+    },
+    {
+      "surface": "להם",
+      "gloss": "аларды"
+    },
+    {
+      "surface": "זמזמים",
+      "gloss": "Замзуммимдер"
+    }
+  ],
+  "timestamp": "2026-10-05T12:51:09.597036615Z",
+  "model": "glm-5.3"
+}

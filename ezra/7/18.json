@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezra 7:18",
+  "book": "ezra",
+  "lang": "ky",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "нерсе",
+      "rationale": "relative די requires a head noun in Kyrgyz, supplied in brackets"
+    },
+    {
+      "kind": "elision",
+      "subject": "למעבד",
+      "rationale": "infinitive 'to do' folded into 'жасоо'"
+    }
+  ],
+  "translation": "Жана күмүштүн жана алтындын калганынан сага жана бир туугандарыңа жакшы көрүнгөн нерсени жасагыла — силердин Элаңардын каалоосу боюнча жасагыла.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "963eaf0fd1fa088118e579cd4978cde17196d3d2fb590b6ad73a3343c64d4f44",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ezra\/7\/17-20.1791221196809.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומה",
+      "gloss": "жана эмне"
+    },
+    {
+      "surface": "די",
+      "gloss": "〈нерсе〉"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "сага"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "жана"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "бир туугандарыңа"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "жакшы көрүнгөн"
+    },
+    {
+      "surface": "בשאר",
+      "gloss": "калганынан"
+    },
+    {
+      "surface": "כספא",
+      "gloss": "күмүштүн"
+    },
+    {
+      "surface": "ודהבה",
+      "gloss": "алтындын"
+    },
+    {
+      "surface": "למעבד",
+      "gloss": "жасоо"
+    },
+    {
+      "surface": "כרעות",
+      "gloss": "каалоосу боюнча"
+    },
+    {
+      "surface": "אלהכם",
+      "gloss": "Элаңардын"
+    },
+    {
+      "surface": "תעבדון",
+      "gloss": "жасагыла"
+    }
+  ],
+  "timestamp": "2026-10-05T17:26:36.810848922Z",
+  "model": "glm-5.3"
+}

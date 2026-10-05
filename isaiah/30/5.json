@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 30:5",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "הבאיש",
+      "rationale": "Бул форма (башка айтылышы менен) сейрек кездешет; көп котормолор «уят болушту» деп оңдоп окушат."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לעזר \/ להועיל \/ יועילו",
+      "rationale": "זר (жардам) жана יעל (пайда) тамырлары кайталанып, ыр саптын ритмин түзөт — кыргызча бул ыргактылык жоголот."
+    },
+    {
+      "kind": "elision",
+      "subject": "למו",
+      "rationale": "Ырыйынча чакырык мүчөсү; кыргызча «аларга» деп берилди."
+    }
+  ],
+  "translation": "Баары пайдасыз болгон элден уят болушат — алар жардам да эмес, пайда да эмес, тескерисинче уят, дагы кордук.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "f86a79f441d015c3194ba0b934e700b3fb902f89c004290e4fd563b6b813f74a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/30\/5-8.1791209974009.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Баары"
+    },
+    {
+      "surface": "הבאיש",
+      "gloss": "уят болушат"
+    },
+    {
+      "surface": "על",
+      "gloss": "жөнүндө"
+    },
+    {
+      "surface": "עם",
+      "gloss": "эл"
+    },
+    {
+      "surface": "לא",
+      "gloss": "эмес"
+    },
+    {
+      "surface": "יועילו",
+      "gloss": "пайдасыз"
+    },
+    {
+      "surface": "למו",
+      "gloss": "аларга"
+    },
+    {
+      "surface": "לא",
+      "gloss": "эмес"
+    },
+    {
+      "surface": "לעזר",
+      "gloss": "жардам"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "жана эмес"
+    },
+    {
+      "surface": "להועיל",
+      "gloss": "пайда"
+    },
+    {
+      "surface": "כי",
+      "gloss": "тескерисинче"
+    },
+    {
+      "surface": "לבשת",
+      "gloss": "уят"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "дагы"
+    },
+    {
+      "surface": "לחרפה",
+      "gloss": "кордук"
+    }
+  ],
+  "timestamp": "2026-10-05T14:19:34.010244365Z",
+  "model": "glm-5.3"
+}

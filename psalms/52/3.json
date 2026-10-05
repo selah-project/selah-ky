@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 52:3",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 52,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "бар",
+      "rationale": "еврей текстинде этиш жок — кыргыз тили копуланы талап кылат"
+    },
+    {
+      "kind": "substitution",
+      "subject": "хесед",
+      "rationale": "חסד — 'ырайым' эмес, аталыш бойдон сакталды"
+    },
+    {
+      "kind": "you",
+      "subject": "Доегге",
+      "rationale": "эр жүрөк деп тикелей кайрылуу — сөөкмөй Доегге"
+    }
+  ],
+  "translation": "Эмнеге жамандык менен мактанасың, эр жүрөк? Элохимдин хеседи бүт күн ⟨бар⟩.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "f53f127600fa1f91334ca755f7b424bccba594c7ab4464e288652a14083aeb69",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/52\/1-4.1791216251325.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "эмнеге"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "мактанасың"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "жамандык менен"
+    },
+    {
+      "surface": "הגבור",
+      "gloss": "эр жүрөк"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "хесед"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Элохимдин"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүт"
+    },
+    {
+      "surface": "היום",
+      "gloss": "күн"
+    }
+  ],
+  "timestamp": "2026-10-05T16:04:11.326132714Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 23:15",
+  "book": "1-samuel",
+  "lang": "ky",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "болчу",
+      "rationale": "Еврей текстинде этиш жок — «ал эми Давид Зиф чөлүндөгү Хоршада» деген атайын айтылбаган байламча."
+    },
+    {
+      "kind": "substitution",
+      "subject": "жанын",
+      "rationale": "נפש — жан-дене эмес, «дем алуу, жашоо күчү» дегенге жакын."
+    }
+  ],
+  "translation": "Давид Шаул анын ⟨את⟩ жанын издеп чыкканын көрдү, ал эми Давид Зиф чөлүндөгү Хорша токойунда болчу.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "d8ee7a5b5657a48cc84dd20194200d35b734398fcd4464d00879abda6a4218cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-samuel\/23\/13-16.1791207114874.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "көрдү"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…дыгын"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "чыкканын"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "издеп"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "анын жанын"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "жанын"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "ал эми Давид"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "чөлүндө"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "Зиф"
+    },
+    {
+      "surface": "בחרשה",
+      "gloss": "Хорша токойунда"
+    }
+  ],
+  "timestamp": "2026-10-05T13:31:54.875788669Z",
+  "model": "glm-5.3"
+}

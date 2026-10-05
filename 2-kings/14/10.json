@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 14:10",
+  "book": "2-kings",
+  "lang": "ky",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "согуу — согдуң",
+      "rationale": "Еврейче инфинитив абсолют: эташ этиштин өзүн алдында кайталап басымдайт (הכה הכית)"
+    },
+    {
+      "kind": "crux",
+      "subject": "הכבד",
+      "rationale": "«Оор» деген тамыр: «ыраазы бол \/ сыйлан» (KJV «glory») же «капталанып ал» (JPS «be heavy») деген эки окуу бар"
+    },
+    {
+      "kind": "you",
+      "subject": "Амацйага",
+      "rationale": "Йехоаштун насил каты Амацйага багытталат"
+    }
+  ],
+  "translation": "Согуу — сен ⟨את⟩ Эдомду согдуң, жана жүрөгүң сени көтөрдү; урматыңа ыраазы бол да, үйүңдө отур; эмне үчүн жамандыкты козгойсуң — сен жана сен менен Йегуда кулашың үчүн?",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "79f467376183c28b72dd2cf392ec7129f17760c8fe22176f7423bbde43e6a6ad",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-kings\/14\/9-12.1791208962606.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הכה",
+      "gloss": "согуу"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "согдуң"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Эдомду"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Эдомду"
+    },
+    {
+      "surface": "ונשאך",
+      "gloss": "көтөрдү"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "жүрөгүң"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "урматыңа ыраазы бол"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "жана отур"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "үйүңдө"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "эмне үчүн"
+    },
+    {
+      "surface": "תתגרה",
+      "gloss": "козгойсуң"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "жамандыкты"
+    },
+    {
+      "surface": "ונפלתה",
+      "gloss": "кулашың үчүн"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "сен"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "жана Йегуда"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "сен менен"
+    }
+  ],
+  "timestamp": "2026-10-05T14:02:42.607787885Z",
+  "model": "glm-5.3"
+}

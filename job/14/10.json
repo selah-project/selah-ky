@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 14:10",
+  "book": "job",
+  "lang": "ky",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ואיו",
+      "rationale": "Иврит «ал кайда?» — өлгөн адам жок болгон жерди билдирүүчү риторикалык суроо; кыргызча «ал кайда?» деп берилди."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גבר\/אדם",
+      "rationale": "Бир эки сапта «эр азамат» жана «адам» параллелизми — күчтүү адам да, жөнөкөй адам да бирдай өлөт."
+    }
+  ],
+  "translation": "Ал эми эр азамат өлөт жана басылып калат; адам жан берет — ал кайда?",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "f5883ca82d29d0ca4117c77add83c358672af30a499eb265053c30c4111b34ed",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/job\/14\/9-12.1791218828158.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וגבר",
+      "gloss": "ал эми эр азамат"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "өлөт"
+    },
+    {
+      "surface": "ויחלש",
+      "gloss": "басылып калат"
+    },
+    {
+      "surface": "ויגוע",
+      "gloss": "жан берет"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "адам"
+    },
+    {
+      "surface": "ואיו",
+      "gloss": "ал кайда"
+    }
+  ],
+  "timestamp": "2026-10-05T16:47:08.159435097Z",
+  "model": "glm-5.3"
+}

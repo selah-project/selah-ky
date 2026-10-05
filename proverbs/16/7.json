@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 16:7",
+  "book": "proverbs",
+  "lang": "ky",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "элдештирет",
+      "rationale": "שלם — бүтүн кылуу, тынчтык орнотуу мааниси"
+    },
+    {
+      "kind": "addition",
+      "subject": "Анын",
+      "rationale": "ким элдештирээри (Яхве) ачык болушу үчүн кошулду"
+    }
+  ],
+  "translation": "Адамдын жолдору Яхвеге жакканда, ⟨את⟩ анын душмандарын да Анын менен элдештирет.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "3f3f2b6eb85bb179256fc399fbce0e6b8a36fede4dad8df4aeea82b7ea42199b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/16\/5-8.1791218083288.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברצות",
+      "gloss": "жакканда"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвеге"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "жолдору"
+    },
+    {
+      "surface": "איש",
+      "gloss": "адамдын"
+    },
+    {
+      "surface": "גם",
+      "gloss": "да"
+    },
+    {
+      "surface": "אויביו",
+      "gloss": "душмандарын"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "элдештирет"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "анын душмандарын"
+    }
+  ],
+  "timestamp": "2026-10-05T16:34:43.289234579Z",
+  "model": "glm-5.3"
+}

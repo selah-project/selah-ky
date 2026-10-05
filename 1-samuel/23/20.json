@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 23:20",
+  "book": "1-samuel",
+  "lang": "ky",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жан",
+      "rationale": "נפש — «дем алуучу жандык, жашоо күчү», «жан» дегенге жакындаштырылды."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לרדת … רד",
+      "rationale": "Этиштин эки жолу кайталанышы (инфинитив + буйрук) — «түшүүгө — түш» — өтүнүчтүн күчөтүлүшү, кыргызча да сакталды."
+    },
+    {
+      "kind": "you",
+      "subject": "Шаулга",
+      "rationale": "Зифтиктер түздөн-түз падышага «эй падыша, түшкүлө» деп кайрылышат."
+    }
+  ],
+  "translation": "Азыр, эй падыша, жаның каалаган бүт нерссе төмөн түшүүгө — түшкүлө; аны падышанын колуна өткөрүп берүү биздин үлүшкө калат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "de06ce1e93c96e25459a33b314c237251cad6c0ca6a460ad8b56267119b63dbc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-samuel\/23\/17-20.1791207154740.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "азыр"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "бүт"
+    },
+    {
+      "surface": "אות",
+      "gloss": "каалоо"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "жаның"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "эй падыша"
+    },
+    {
+      "surface": "לרדת",
+      "gloss": "төмөн түшүүгө"
+    },
+    {
+      "surface": "רד",
+      "gloss": "түшкүлө"
+    },
+    {
+      "surface": "ולנו",
+      "gloss": "биздин үлүшкө"
+    },
+    {
+      "surface": "הסגירו",
+      "gloss": "өткөрүп берүү"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "колуна"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "падышанын"
+    }
+  ],
+  "timestamp": "2026-10-05T13:32:34.741649301Z",
+  "model": "glm-5.3"
+}

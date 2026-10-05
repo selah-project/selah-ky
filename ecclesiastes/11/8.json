@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 11:8",
+  "book": "ecclesiastes",
+  "lang": "ky",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "хавел",
+      "rationale": "הבל букв. «дем, буу» — «түбөлүксүздүк, боштук»; көп котормолор «түбөлүк» дешет, «хавел» сөзүнүн формасы сакталды"
+    },
+    {
+      "kind": "elision",
+      "subject": "אם",
+      "rationale": "шиарттуу «эгер» кыргызча «да» менен берилди, өзүнчө сөз катары эмес"
+    }
+  ],
+  "translation": "Анткени адам көп жыл жашаса да, баарында кубансун, бирок ⟨את⟩ караңгылык күндөрүн эсте син, анткени алар көп болот — келүүчүнүн баары хавел.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "080f883d4fb00876a0c9c80f446adfb93005ca02fcd78b417e32b6f2714db9ce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ecclesiastes\/11\/5-8.1791220154912.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "אם",
+      "gloss": "да"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "жыл"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "көп"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "жашаса"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "адам"
+    },
+    {
+      "surface": "בכלם",
+      "gloss": "баарында"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "кубансун"
+    },
+    {
+      "surface": "ויזכר",
+      "gloss": "эсте син"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "күндөрүн"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "күндөрүн"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "караңгылык"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "көп"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "болот"
+    },
+    {
+      "surface": "כל",
+      "gloss": "баары"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "келүүчүнүн"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "хавел"
+    }
+  ],
+  "timestamp": "2026-10-05T17:09:14.913838804Z",
+  "model": "glm-5.3"
+}

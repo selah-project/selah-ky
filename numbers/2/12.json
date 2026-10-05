@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 2:12",
+  "book": "numbers",
+  "lang": "ky",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨болот⟩",
+      "rationale": "Verbless nominal clause; Kyrgyz requires a copula"
+    },
+    {
+      "kind": "substitution",
+      "subject": "уруусу",
+      "rationale": "מטה literally 'rod\/staff\/branch', tribe as an extending branch; the concrete picture is lost"
+    }
+  ],
+  "translation": "Жана анын үстүнө лагер тигеендер — Шимон уруусу; жана Шимон уулдарынын башчысы ⟨болот⟩ Цуришаддайдын уулу Шелумиел.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "9d543fe84f25228419aebb86b9aaec13428e6107e5d5765b7715d1c2c697151b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/numbers\/2\/9-12.1791203558661.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והחונם",
+      "gloss": "жана лагер тигеендер"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "анын үстүнө"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "уруусу"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Шимон"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "жана башчысы"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "уулдарынын"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Шимон"
+    },
+    {
+      "surface": "שלמיאל",
+      "gloss": "Шелумиел"
+    },
+    {
+      "surface": "בן",
+      "gloss": "уулу"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "Цури-"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "шаддай"
+    }
+  ],
+  "timestamp": "2026-10-05T12:32:38.663004684Z",
+  "model": "glm-5.3"
+}

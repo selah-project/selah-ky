@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 7:10",
+  "book": "song-of-songs",
+  "lang": "ky",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "דובב",
+      "rationale": "бул тамыр Танахта өтө сейрек; 'акырындык менен кыймылдатат' сөзмө-сөз сүрөтү"
+    },
+    {
+      "kind": "crux",
+      "subject": "ישנים",
+      "rationale": "'уктап жаткандар' же 'картарлар' (LXX 'карлар') — эки окуу бар"
+    },
+    {
+      "kind": "substitution",
+      "subject": "חך",
+      "rationale": "чечең — таңдай\/ооз ичи; 'ооз' кыйла кеңири"
+    }
+  ],
+  "translation": "Жана сенин оозуң weкты шарап сыяктуу — достума акырындык менен түз аккан, уктап жаткандардын эриндерин кыймылдаткан.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "2184022e642cde1860baa9f1e65f0b069d3fd6eddbb4bfcea15fdffc0da6ce1d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/song-of-songs\/7\/9-12.1791219666343.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וחכך",
+      "gloss": "жана сенин оозуң"
+    },
+    {
+      "surface": "כיין",
+      "gloss": "шарап сыяктуу"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "мыкты"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "аккан"
+    },
+    {
+      "surface": "לדודי",
+      "gloss": "достума"
+    },
+    {
+      "surface": "למישרים",
+      "gloss": "акырындык менен түз"
+    },
+    {
+      "surface": "דובב",
+      "gloss": "кыймылдаткан"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "эриндерин"
+    },
+    {
+      "surface": "ישנים",
+      "gloss": "уктап жаткандардын"
+    }
+  ],
+  "timestamp": "2026-10-05T17:01:06.343970093Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 38:10",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "көздөрүндө жаман болду",
+      "rationale": "еврейче идиома 'Яхвенин көзүндө жаман' — жеке баа берүү маанисинде"
+    },
+    {
+      "kind": "substitution",
+      "subject": "нерсе",
+      "rationale": "еврей текстинде 'жасаган' этиш гана бар, 'нерсе' ат атооч катары кошулду"
+    }
+  ],
+  "translation": "Жана Яхвенин көздөрүндө жаман болду ал жасаган нерсе, жана Ал ⟨את⟩ аны да өлтүрдү.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "728ea4c03aec7648d7e71e56510b6ced529350819451d3582a7efaff8d84647d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/38\/9-12.1791201544359.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "жаман болду"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "көздөрүндө"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ал"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "жасаган"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "жана өлтүрдү"
+    },
+    {
+      "surface": "גם",
+      "gloss": "да"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "аны (Онанды)"
+    }
+  ],
+  "timestamp": "2026-10-05T11:59:04.360074257Z",
+  "model": "glm-5.3"
+}

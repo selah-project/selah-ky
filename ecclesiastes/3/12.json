@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 3:12",
+  "book": "ecclesiastes",
+  "lang": "ky",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כי אם",
+      "rationale": "Еврейче «тек гана... башка эч нерсе эмес» деген тиешелүү туюнтма — кыргызча «тек гана» деп берилди"
+    },
+    {
+      "kind": "elision",
+      "subject": "כי ... אם",
+      "rationale": "Эки байланыштыргыч бир кыргызча «тек гана» туюнтмасына бириктирилди"
+    }
+  ],
+  "translation": "Мен билдим: жок жакшысы алардын ичинде — тек гана сүйүнүүгө жана жакшыны кылууга өз өмүрүндө.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "47d838607d9eb90a7ca138616c1dcad25c238feef4e9c96884d8723f20a912a6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ecclesiastes\/3\/9-12.1791219992832.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "мен билдим"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "אין",
+      "gloss": "жок"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "жакшысы"
+    },
+    {
+      "surface": "בם",
+      "gloss": "алардын ичинде"
+    },
+    {
+      "surface": "כי",
+      "gloss": "тек гана"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "לשמוח",
+      "gloss": "сүйүнүүгө"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "жана кылууга"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "жакшыны"
+    },
+    {
+      "surface": "בחייו",
+      "gloss": "өз өмүрүндө"
+    }
+  ],
+  "timestamp": "2026-10-05T17:06:32.834294795Z",
+  "model": "glm-5.3"
+}

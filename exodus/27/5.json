@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 27:5",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "כרכב",
+      "rationale": "Курган\/кырдык — өтө сейрек сөз, 'Mezбахтын' дегенге жакын чек ара; көпчүлүк котормолор 'compass\/ledge' деп берет"
+    },
+    {
+      "kind": "alternative",
+      "subject": "Mezбах",
+      "rationale": "Мейкилдикти сактоо үчүн 'mezбах' еврейча айтылышында калды; ордуна 'курмандык Almaны' колдонууга болот"
+    }
+  ],
+  "translation": "Жана ⟨את⟩ аны кургандын астына, Mezбахтын каркобунун төмөнүрөөк жагына коюп, тор кургандын ортосуна чейин жетип турсун.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "df947e071b77ac67155545963b694c8baeb7a98f702b32906936e463269148dd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/27\/5-8.1791202415743.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "Жана ... коюп"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "аны"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "астына"
+    },
+    {
+      "surface": "כרכב",
+      "gloss": "каркобунун"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "Mezбахтын"
+    },
+    {
+      "surface": "מלמטה",
+      "gloss": "төмөнүрөөк"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "жана ... турсун"
+    },
+    {
+      "surface": "הרשת",
+      "gloss": "тор"
+    },
+    {
+      "surface": "עד",
+      "gloss": "чейин"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "ортосуна"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "Mezбахтын"
+    }
+  ],
+  "timestamp": "2026-10-05T12:13:35.744536440Z",
+  "model": "glm-5.3"
+}

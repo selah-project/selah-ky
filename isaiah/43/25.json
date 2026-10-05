@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 43:25",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "алуучумун",
+      "rationale": "Hebrew participle without copula; Kyrgyz requires a copula form, supplied in brackets"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אנכי אנכי",
+      "rationale": "doubling of 'I, I' for emphasis, kept by repetition"
+    }
+  ],
+  "translation": "Мен, Мен Өзүм ⟨алуучумун⟩ ⟨את⟩ көтөрөт — силөөлөрдү Өзүмдүн атым үчүн өчүрүүчүмүн, күнөөлөрүңдү эслебейм.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "fe49a81054e7a2701d57c200526619b14b534f5ddd80f4a03f24df34ec7d5459",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/43\/25-28.1791210182397.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Мен"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Мен Өзүм"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Өзүм"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "өчүрүүчүмүн"
+    },
+    {
+      "surface": "פשעיך",
+      "gloss": "силөөлөрдү"
+    },
+    {
+      "surface": "למעני",
+      "gloss": "Өзүмдүн атым үчүн"
+    },
+    {
+      "surface": "וחטאתיך",
+      "gloss": "күнөөлөрүңдү"
+    },
+    {
+      "surface": "לא",
+      "gloss": "эслебейм"
+    },
+    {
+      "surface": "אזכר",
+      "gloss": "эслебейм"
+    }
+  ],
+  "timestamp": "2026-10-05T14:23:02.398304193Z",
+  "model": "glm-5.3"
+}

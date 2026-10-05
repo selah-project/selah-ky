@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 15:10",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "рух",
+      "rationale": "רוח — рух\/шамал\/дем: «шамал менен» деген да окуу мүмкүн, бир сөз — бир форма кармалды"
+    }
+  ],
+  "translation": "Сен Өз рухуң менен бедий бердиң — деңиз аларды жаап калды; алар коргошундай улуу сууларга чөктү.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "1ab465ffed77a72d930c0577bbcf47ead1e5b3eb2067358ed9b163c5cdf06dbd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/15\/9-12.1791202078702.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נשפת",
+      "gloss": "бедий бердиң"
+    },
+    {
+      "surface": "ברוחך",
+      "gloss": "Өз рухуң менен"
+    },
+    {
+      "surface": "כסמו",
+      "gloss": "жаап калды"
+    },
+    {
+      "surface": "ים",
+      "gloss": "деңиз"
+    },
+    {
+      "surface": "צללו",
+      "gloss": "чөктү"
+    },
+    {
+      "surface": "כעופרת",
+      "gloss": "коргошундай"
+    },
+    {
+      "surface": "במים",
+      "gloss": "сууларга"
+    },
+    {
+      "surface": "אדירים",
+      "gloss": "улуу"
+    }
+  ],
+  "timestamp": "2026-10-05T12:07:58.703023047Z",
+  "model": "glm-5.3"
+}

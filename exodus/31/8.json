@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 31:8",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "чыраккан",
+      "rationale": "המנורה 'менора' — жети бутактуу чырак кармагыч; 'таза' деген сөз алтын экенин да билдириши мүмкүн."
+    },
+    {
+      "kind": "measurement",
+      "subject": "тизме",
+      "rationale": "Аят 7–8 ыйык жабдыктардын так тизмесин берет."
+    }
+  ],
+  "translation": "жана ⟨את⟩ үстөлдү жана ⟨את⟩ анын идиштерин, жана ⟨את⟩ таза чыракканды жана ⟨את⟩ анын бүт идиштерин, жана ⟨את⟩ жыпар курмандык чатын —",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "ab0aac9159f03ddc7a5f585b187148160817e71b381f5d3c797b694af0b804f3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/31\/5-8.1791202546852.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "жана ⟨את⟩",
+      "marks": "үстөлдү"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "үстөл"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "жана ⟨את⟩",
+      "marks": "анын идиштерин"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "анын идиштери"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "жана ⟨את⟩",
+      "marks": "таза чыракканды"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "чыраккан"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "таза"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "жана ⟨את⟩",
+      "marks": "бүт идиштерин"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүт"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "идиштери"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "жана ⟨את⟩",
+      "marks": "курмандык чатын"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "курмандык чаты"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "жыпар"
+    }
+  ],
+  "timestamp": "2026-10-05T12:15:46.854087323Z",
+  "model": "glm-5.3"
+}

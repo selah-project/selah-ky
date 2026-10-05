@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 34:3",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жан",
+      "rationale": "נפש 'дем алуучу жандык, жан күч' — 'жан' жакын, бирок 'жүрөк' эмес"
+    },
+    {
+      "kind": "idiom",
+      "subject": "жүрөгүнө сөз айтты",
+      "rationale": "על לב — 'жүрөктүн үстүнө сүйлөө' — жуутуп, жүрөгүнө тийгизип сүйлөө идиомасы"
+    }
+  ],
+  "translation": "Жана анын жаны Динага — Яаковтун кызына — жабышты; жана ал ⟨את⟩ кызды сүйдү, жана кыздын жүрөгүнө сөз айтты.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "394e63d6f5812f345cd4a5b436117fb78bb9c97d402da53e1cc85f04f7c0cbfb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/34\/1-4.1791201477657.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותדבק",
+      "gloss": "жабышты"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "жаны"
+    },
+    {
+      "surface": "בדינה",
+      "gloss": "Динага"
+    },
+    {
+      "surface": "בת",
+      "gloss": "кызына"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаковтун"
+    },
+    {
+      "surface": "ויאהב",
+      "gloss": "сүйдү"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "кызды"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "кызды"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "сөз айтты"
+    },
+    {
+      "surface": "על",
+      "gloss": "-га"
+    },
+    {
+      "surface": "לב",
+      "gloss": "жүрөгүнө"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "кыздын"
+    }
+  ],
+  "timestamp": "2026-10-05T11:57:57.658763056Z",
+  "model": "glm-5.3"
+}

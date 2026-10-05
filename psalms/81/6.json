@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 81:6",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 81,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בצאתו",
+      "rationale": "Ким чыккан — Йехосеп (Элохим ал чыкканда буйрук койду) же Элохим Өзү Мицрайим үстүнө чыкты (JPS 'against the land')?"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יהוסף",
+      "rationale": "Йосепке ысымга יה (Ях) кошулуп 'Ях-коштойт' мааниси кыймылдайт; кыргызчада жоголот."
+    }
+  ],
+  "translation": "Аны Йехосепке күбөлүк катары койду, Мицрайим жер үстүнө чыкканда; тилди — билгеним жок — угам.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "94fdca8ca6aaef334c21bd796ac9eda16b9621d837b051e5b878dfb43c889a29",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/81\/5-8.1791216693763.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עדות",
+      "gloss": "күбөлүк"
+    },
+    {
+      "surface": "ביהוסף",
+      "gloss": "Йехосепке"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "койду"
+    },
+    {
+      "surface": "בצאתו",
+      "gloss": "чыкканда"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстүнө"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "жер"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицрайим"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "тилди"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "билгеним"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "угам"
+    }
+  ],
+  "timestamp": "2026-10-05T16:11:33.764109135Z",
+  "model": "glm-5.3"
+}

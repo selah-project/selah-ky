@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 89:44",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "צור",
+      "rationale": "буквально «скала, острие»: «остриё его меча» против «лезвие»; переведено как «наконечник\/остриё»"
+    },
+    {
+      "kind": "substitution",
+      "subject": "турatтырбадың",
+      "rationale": "выпал латинский символ; правильная форма — «туратуурбадың» читать как «не дал ему стоять»"
+    }
+  ],
+  "translation": "Дагы анын кылычынын учун кайтырдың жана аны согушта турatтырбадың.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "53f8ee8a217282c258cbd10cf0f993670adb04c6fd1e20abb763a908477986d6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/89\/41-44.1791216753242.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Дагы"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "кайтырдың"
+    },
+    {
+      "surface": "צור",
+      "gloss": "учун"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "кылычынын"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "жана ... бадың"
+    },
+    {
+      "surface": "הקימתו",
+      "gloss": "турatтыр"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "согушта"
+    }
+  ],
+  "timestamp": "2026-10-05T16:12:33.243706359Z",
+  "model": "glm-5.3"
+}

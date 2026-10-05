@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 88:17",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 88,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עברו … צמתותני",
+      "rationale": "verse 16 и 17 окшош синтаксис менен кайталанат — өтүү жана жок кылуу эки сапта тең эсептелет, чынжыр стили"
+    }
+  ],
+  "translation": "Менин үстүмдөн Сенин каарың өттү, Сенин коркунучтарың мени жок кылды.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "1be54968f6133e8c3960033cebca94d7d6e93c9788be028889b30495c2bafec6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/88\/17-18.1791224469009.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "менин үстүмдөн"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "өттү"
+    },
+    {
+      "surface": "חרוניך",
+      "gloss": "каарың"
+    },
+    {
+      "surface": "בעותיך",
+      "gloss": "коркунучтарың"
+    },
+    {
+      "surface": "צמתותני",
+      "gloss": "мени жок кылды"
+    }
+  ],
+  "timestamp": "2026-10-05T18:21:09.009867789Z",
+  "model": "glm-5.3"
+}

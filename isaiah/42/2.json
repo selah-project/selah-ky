@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 42:2",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "үнүн",
+      "rationale": "ישא этишинин өтмөшү текстте түшүрүлгөн; 1:1 катышынан «үн» кошулду"
+    }
+  ],
+  "translation": "Ал кыйкырбайт, үнүн көтөрбөйт, көчөдө өз үнүн уктурбайт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "cd2ca8d61bfceae2fe30530508ee3017504949d0dda979b6861b7814d17f8126",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/42\/1-4.1791210200752.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "יצעק",
+      "gloss": "кыйкырбайт"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "жана жок"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "көтөрбөйт"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "жана жок"
+    },
+    {
+      "surface": "ישמיע",
+      "gloss": "уктурбайт"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "көчөдө"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "өз үнүн"
+    }
+  ],
+  "timestamp": "2026-10-05T14:23:20.753104008Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 29:11",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Өз",
+      "rationale": "עמゐдеги мүчө («анын эли») кыргызча «Өз эли» деп так болсун деп кошулду."
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "Жылмаактын аягы — Яхвенин «эли» (Йисраэл) элге бет айтылган батанын убадасы."
+    }
+  ],
+  "translation": "Яхве Өз элине күч берет, Яхве ⟨את⟩ Өз элин тынчтык менен баталайт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "72de4c19d358056f472487a268c5baea71f324be6f164b6e97c70f23a6a4f309",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/29\/9-11.1791215670204.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "עז",
+      "gloss": "күч"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "Өз элине"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "берет"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "баталайт"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Өз элин"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "Өз элин"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "тынчтык менен"
+    }
+  ],
+  "timestamp": "2026-10-05T15:54:30.204988465Z",
+  "model": "glm-5.3"
+}

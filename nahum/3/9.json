@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nahum 3:9",
+  "book": "nahum",
+  "lang": "ky",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨анын⟩",
+      "rationale": "Куш — Но-Аммондун күчү; кыргызча өтмөч «анын» текстте жок, бирок атоочсуз түшүнүксүз"
+    },
+    {
+      "kind": "crux",
+      "subject": "чеги жок",
+      "rationale": "«ואין קצה»: «анын чеги жок» (күчтөрү жөнүндө) же «эсепсиз көп» деген эки окуу бар"
+    }
+  ],
+  "translation": "Куш — ⟨анын⟩ күч-кудурети, жана Мицрайим, жана чеги жок; Пут жана Лувим ⟨сенин⟩ жардамыңда болушту.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "b48b1f17ed541b62080927e7e822b6ae7594b3355a1e7e7a664f5da7501b1309",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/nahum\/3\/9-12.1791214645601.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כוש",
+      "gloss": "Куш"
+    },
+    {
+      "surface": "עצמה",
+      "gloss": "күч-кудурет"
+    },
+    {
+      "surface": "ומצרים",
+      "gloss": "жана Мицрайим"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "жана жок"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "чеги"
+    },
+    {
+      "surface": "פוט",
+      "gloss": "Пут"
+    },
+    {
+      "surface": "ולובים",
+      "gloss": "жана Лувим"
+    },
+    {
+      "surface": "היו",
+      "gloss": "болушту"
+    },
+    {
+      "surface": "בעזרתך",
+      "gloss": "жардамыңда"
+    }
+  ],
+  "timestamp": "2026-10-05T15:37:25.602240365Z",
+  "model": "glm-5.3"
+}

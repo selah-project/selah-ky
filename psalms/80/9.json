@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 80:9",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 80,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жүзүм талы",
+      "rationale": "גפנ — жүзүм тал; Элохимдин өзүлөрү (бейнеси) жок, бул Ыйык Китептин өзү айткан салыштыруу"
+    },
+    {
+      "kind": "crux",
+      "subject": "сууруп чыктың",
+      "rationale": "תסיע — «чыгып кет» деген тамыр; көчмөн чатыр казыктарын жулуп алуу сүрөтү; KJB «brought», JPS «pluck up»"
+    }
+  ],
+  "translation": "Жүзүм талин Мицрайимден сууруп чыктың, элдерди кууп чыгардың жана аны отургуздуң.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "f33c1cf4617afbd1aeae9a2c34c1d7521ce9f269390f2ec6ebc6017da2aa271d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/80\/9-12.1791216654830.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גפן",
+      "gloss": "жүзүм талы"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Мицрайимден"
+    },
+    {
+      "surface": "תסיע",
+      "gloss": "сууруп чыктың"
+    },
+    {
+      "surface": "תגרש",
+      "gloss": "кууп чыгардың"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "элдерди"
+    },
+    {
+      "surface": "ותטעה",
+      "gloss": "жана аны отургуздуң"
+    }
+  ],
+  "timestamp": "2026-10-05T16:10:54.831416035Z",
+  "model": "glm-5.3"
+}

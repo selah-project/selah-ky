@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 21:20",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נקם ינקם",
+      "rationale": "«өч алынат» же «жазаланат» — JPS «surely punished», КЖВ «punished»; букв. өч алуу тамыры, ээси ким экени кийинки аятта такталат"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נקם ינקם",
+      "rationale": "Инфинитивдин абсолюттук кайрылуусу: «өч алуу менен өч алынат» — сөзсүз аткарыла турган жаза"
+    }
+  ],
+  "translation": "Жана эгер бир адам ⟨את⟩ кулун же ⟨את⟩ күңүн таяк менен уруп, ал анын колунун астында өлсө — өч алуу менен өч алынат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "d5352c7f5f844fac632059f2264444e8979e24fa55031a1f48b238c59e18606d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/21\/17-20.1791202332715.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "жана эгер"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "уруп"
+    },
+    {
+      "surface": "איש",
+      "gloss": "бир адам"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "кулун"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "кулун"
+    },
+    {
+      "surface": "או",
+      "gloss": "же"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "күңүн"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "күңүн"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "таяк менен"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "жана… өлсө"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "астында"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "колунун"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "өч алуу"
+    },
+    {
+      "surface": "ינקם",
+      "gloss": "өч алынат"
+    }
+  ],
+  "timestamp": "2026-10-05T12:12:12.716679036Z",
+  "model": "glm-5.3"
+}

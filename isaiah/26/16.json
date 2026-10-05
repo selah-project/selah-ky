@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 26:16",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "сыбыраган дуба",
+      "rationale": "לחש сызыктуу түрдө 'сыбыроо' — күбүрөнгөн сөз, жогорку үндүү дуба эмес."
+    },
+    {
+      "kind": "crux",
+      "subject": "издешти",
+      "rationale": "פקדוך 'Сени издешти' же 'Сени эстешти\/көрүштү' — YLT 'missed Thee' деп турат."
+    }
+  ],
+  "translation": "Яхве, кыйынчылыкта алар Сени издешти, сыбыраган дуба төкшүштү; Сенин тарбияң аларга жетти.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "d80426e4f83cc4b3a4d76dcde864a4eb8786ca61ec68d98a04f1acafd04189c6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/26\/13-16.1791209787654.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "кыйынчылыкта"
+    },
+    {
+      "surface": "פקדוך",
+      "gloss": "алар Сени издешти"
+    },
+    {
+      "surface": "צקון",
+      "gloss": "төкшүштү"
+    },
+    {
+      "surface": "לחש",
+      "gloss": "сыбыраган дуба"
+    },
+    {
+      "surface": "מוסרך",
+      "gloss": "Сенин тарбияң"
+    },
+    {
+      "surface": "למו",
+      "gloss": "аларга"
+    }
+  ],
+  "timestamp": "2026-10-05T14:16:27.655547076Z",
+  "model": "glm-5.3"
+}

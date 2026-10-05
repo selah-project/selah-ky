@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 3:6",
+  "book": "proverbs",
+  "lang": "ky",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨сендин⟩",
+      "rationale": "Еврейче ээлик алмаш жок — кыргызча түшүнүктүү болушу үчүн кошулду"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ийкемдүү сандагы этиш",
+      "rationale": "יישר убактысы даанык эмес: «түзөт» (убада) же «түзөтүп жатат» боло алат"
+    }
+  ],
+  "translation": "Бүт жолдоруңда Аны таанып ал, жана Ал ⟨сендин⟩ жолдоруңду түзөйт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "560062527fb27e3860896ed6c66d96e8a9a0dc589c340ce18779c78c1570302d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/3\/5-8.1791217749560.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "бүт…да"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "жолдоруңда"
+    },
+    {
+      "surface": "דעהו",
+      "gloss": "Аны таанып ал"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "жана Ал"
+    },
+    {
+      "surface": "יישר",
+      "gloss": "түзөйт"
+    },
+    {
+      "surface": "ארחתיך",
+      "gloss": "жолдоруңду"
+    }
+  ],
+  "timestamp": "2026-10-05T16:29:09.561018638Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 6:7",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אדם\/האדמה",
+      "rationale": "адам\/жер — бир тамырдын үндөштүгү: адам жерден, жердин үстүнөн өчүрүлөт"
+    },
+    {
+      "kind": "elision",
+      "subject": "מעל פני האדמה",
+      "rationale": "'жердин жүзүнүн үстүнөн' — 'жүзү' кыргызча табигый угулуш үчүн өткөрүлдү"
+    }
+  ],
+  "translation": "Жана Яхве айтты: Мен ⟨את⟩ адамды — аны Мен жаратканмын — жердин үстүнөн, адамдан баштап малга чейин, жылып жүргөнгө чейин жана асман канаттууларына чейин өчүрөйүн, анткени Мен аларды жаратканыма өкүндүм.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "96d5464a5c116d29fecee872abbecee17a49bd8390ddbbee3285e46954280c0f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/6\/5-8.1791200830090.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אמחה",
+      "gloss": "өчүрөйүн"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "адамды"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "адамды"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "аны"
+    },
+    {
+      "surface": "בראתי",
+      "gloss": "жаратканмын"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "үстүнөн"
+    },
+    {
+      "surface": "פני",
+      "gloss": "жүзүнөн"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "жердин"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "адамдан"
+    },
+    {
+      "surface": "עד",
+      "gloss": "чейин"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "малга"
+    },
+    {
+      "surface": "עד",
+      "gloss": "чейин"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "жылып жүргөнгө"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "жана... чейин"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "канаттууларына"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "асман"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "נחמתי",
+      "gloss": "өкүндүм"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "жаратканыма"
+    }
+  ],
+  "timestamp": "2026-10-05T11:47:10.091336081Z",
+  "model": "glm-5.3"
+}

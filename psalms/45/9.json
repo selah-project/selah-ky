@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 45:9",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מני",
+      "rationale": "'Кылдуу аспаптар' (музыкалык кыл) менен 'алардын ичинен' (מִנִּי) деген эки окуу бар; кыл аспаптар — кадырланган окуу."
+    },
+    {
+      "kind": "substitution",
+      "subject": "пил сөөгүнөн жасалган",
+      "rationale": "שן тутунун өзү — 'пил сөөгү'; сарайлардын материалы катары кеңейтилди."
+    }
+  ],
+  "translation": "Мур, алоэ жыгачы, кассия — бүт кийимдериңде; пил сөөгүнөн жасалган сарайлардан кылдуу аспаптар сени шаттандырды.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "15bd46efc475de8ce0b91834e51b08724dc0458c8621ee8945062f58d2a616a8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/45\/9-12.1791216059463.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מר",
+      "gloss": "мур"
+    },
+    {
+      "surface": "ואהלות",
+      "gloss": "алоэ жыгачы"
+    },
+    {
+      "surface": "קציעות",
+      "gloss": "кассия"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүт"
+    },
+    {
+      "surface": "בגדתיך",
+      "gloss": "кийимдериңде"
+    },
+    {
+      "surface": "מן",
+      "gloss": "…дан"
+    },
+    {
+      "surface": "היכלי",
+      "gloss": "сарайлардан"
+    },
+    {
+      "surface": "שן",
+      "gloss": "пил сөөгүнөн жасалган"
+    },
+    {
+      "surface": "מני",
+      "gloss": "кылдуу аспаптар"
+    },
+    {
+      "surface": "שמחוך",
+      "gloss": "сени шаттандырды"
+    }
+  ],
+  "timestamp": "2026-10-05T16:00:59.464041327Z",
+  "model": "glm-5.3"
+}

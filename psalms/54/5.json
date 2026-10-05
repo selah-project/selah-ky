@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 54:5",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 54,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жаны-жүрөгүмдү",
+      "rationale": "נפש — дем алуу, жандуулук, жашоо күчү, «жан» дегенди толук жабат"
+    },
+    {
+      "kind": "elision",
+      "subject": "סלה",
+      "rationale": "Музыкалык токтоо белгиси, транслитерацияланды — котормосу жок"
+    }
+  ],
+  "translation": "Анткени бөтөн адамдар мага каршы турду, жана зордуктуучулар жаны-жүрөгүмдү издеди; алар Элохимди өздөрүнүн алдына койгон жок. Селах.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "c9916c3c9d03ce48d8b67c3e61a67a4962c82a16f37458eb3315ee12d2574cf2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/54\/5-8.1791216207839.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "бөтөн адамдар"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "турду"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "мага каршы"
+    },
+    {
+      "surface": "ועריצים",
+      "gloss": "жана зордуктуучулар"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "издеди"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "жаны-жүрөгүмдү"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "койгон"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохимди"
+    },
+    {
+      "surface": "לנגדם",
+      "gloss": "өздөрүнүн алдына"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Селах"
+    }
+  ],
+  "timestamp": "2026-10-05T16:03:27.839767459Z",
+  "model": "glm-5.3"
+}

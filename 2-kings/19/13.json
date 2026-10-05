@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 19:13",
+  "book": "2-kings",
+  "lang": "ky",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "коду (Сенахирибдин каттан)",
+      "rationale": "Ассирия падышасынын элчилери Хизкияга багыттап, жеңилген элдердин кудайларын тизип сурашкан."
+    },
+    {
+      "kind": "addition",
+      "subject": "?",
+      "rationale": "Кыргызча суроо белгиси кошулду; еврейче сурама мамиле интонация менен берилет."
+    }
+  ],
+  "translation": "Кайда Хаматтын падышасы, жана Арпаддын падышасы, жана Сепарваим шаарынын падышасы, Хена жана Ивва?",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "cfd5c4226dd0b1eed32ed21ef90266ae0942232603bacbd8db7e45d934a36314",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-kings\/19\/13-16.1791209168282.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "איו",
+      "gloss": "кайда"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "падышасы"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Хаматтын"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "жана падышасы"
+    },
+    {
+      "surface": "ארפד",
+      "gloss": "Арпаддын"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "жана падышасы"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "шаарынын"
+    },
+    {
+      "surface": "ספרוים",
+      "gloss": "Сепарваим"
+    },
+    {
+      "surface": "הנע",
+      "gloss": "Хена"
+    },
+    {
+      "surface": "ועוה",
+      "gloss": "жана Ивва"
+    }
+  ],
+  "timestamp": "2026-10-05T14:06:08.283069469Z",
+  "model": "glm-5.3"
+}

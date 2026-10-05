@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 13:4",
+  "book": "judges",
+  "lang": "ky",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "таза эмес",
+      "rationale": "טמא 'диний жагынан булган' — таза\/таза эмес диний категория"
+    },
+    {
+      "kind": "you",
+      "subject": "аялга",
+      "rationale": "периштенин нazaрлүү буйругу Маноахтын аялына багытталган"
+    }
+  ],
+  "translation": "Дагы өзүңдү сакта, экөөбүз: шарап жана күчтүү ичимдик ичпе, жана эч кандай таза эмес нерсени жеме.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "7d426e7f1fd3991cdcac35c60285e776bf96e02eebae00c5c13a1199951556e1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/judges\/13\/1-4.1791206311328.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "дагы"
+    },
+    {
+      "surface": "השמרי",
+      "gloss": "өзүңдү сакта"
+    },
+    {
+      "surface": "נא",
+      "gloss": "экөөбүз"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "жана ичпе"
+    },
+    {
+      "surface": "תשתי",
+      "gloss": "ичпе"
+    },
+    {
+      "surface": "יין",
+      "gloss": "шарап"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "күчтүү ичимдик"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "жана жеме"
+    },
+    {
+      "surface": "תאכלי",
+      "gloss": "жеме"
+    },
+    {
+      "surface": "כל",
+      "gloss": "эч кандай"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "таза эмес нерсени"
+    }
+  ],
+  "timestamp": "2026-10-05T13:18:31.329866638Z",
+  "model": "glm-5.3"
+}

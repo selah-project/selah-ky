@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 9:3",
+  "book": "daniel",
+  "lang": "ky",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "жүзүмдү тарап беришим",
+      "rationale": "עתת פני — идиома «жүзүн бир нерсеге буруу» = тойлонуп белгилуу максатка кайрылуу"
+    },
+    {
+      "kind": "addition",
+      "subject": "кийип, чачып",
+      "rationale": "дубана жана күл — кийим жана жауу маанисинде; кыргызча этиш талап кылат"
+    }
+  ],
+  "translation": "Жана мен ⟨את⟩ жүзүмдү Адонай-Элохимге тарап беришим үчүн – дубана жана күл ичип – сыйынууну жана жалбарууларды издеп жөнөдүм.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "74d62cb22e6b7225db46b483f329d99413e8537809ee9b866c6368f05877ddae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/daniel\/9\/1-4.1791220766237.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "жөнөдүм"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "жүзүмдү"
+    },
+    {
+      "surface": "פני",
+      "gloss": "жүзүмдү"
+    },
+    {
+      "surface": "אל",
+      "gloss": "тарап"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Элохимге"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "издеп жөнөдүм... үчүн"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "сыйынууну"
+    },
+    {
+      "surface": "ותחנונים",
+      "gloss": "жалбарууларды"
+    },
+    {
+      "surface": "בצום",
+      "gloss": "орозо менен"
+    },
+    {
+      "surface": "ושק",
+      "gloss": "дубана кийип"
+    },
+    {
+      "surface": "ואפר",
+      "gloss": "күл чачып"
+    }
+  ],
+  "timestamp": "2026-10-05T17:19:26.238108596Z",
+  "model": "glm-5.3"
+}

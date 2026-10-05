@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 27:20",
+  "book": "deuteronomy",
+  "lang": "ky",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "атасынын жапкычын ачты",
+      "rationale": "גלה כנף — «канатты\/этекти ачуу» — жыныстык катнаштын эвфемизми; кыргызча да эвфемизм менен берилди."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אביו … אביו",
+      "rationale": "«атасынын» эки жолу кайталануусу риторикалык параллеллизмди түзөт."
+    },
+    {
+      "kind": "you",
+      "subject": "бүт эл",
+      "rationale": "Жооп берүүчү бүт элге кайрылуу."
+    }
+  ],
+  "translation": "Каргалсын атасынын аялы менен жаткан киши, анткени ал атасынын жапкычын ачты; жана бүт эл айтсын: Оомийин.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "9415530f7a72b45a02262a2e1cfd5a0046c11f9168239564e3d650b71d08e73c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/27\/17-20.1791205303975.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Каргалсын"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "жаткан"
+    },
+    {
+      "surface": "עם",
+      "gloss": "менен"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "аялы"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "атасынын"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "ачты"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "жапкычын"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "атасынын"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "жана айтсын"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүт"
+    },
+    {
+      "surface": "העם",
+      "gloss": "эл"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Оомийин"
+    }
+  ],
+  "timestamp": "2026-10-05T13:01:43.976668538Z",
+  "model": "glm-5.3"
+}

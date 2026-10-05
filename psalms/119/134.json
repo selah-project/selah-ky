@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 134,
+  "ref": "psalms 119:134",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "куткар",
+      "rationale": "פדה тамыры — 'товокелге берүү, акысын төлөп бошотуу' маанисинде; 'куткар' кыска берилет."
+    },
+    {
+      "kind": "alternative",
+      "subject": "адамдардын",
+      "rationale": "אדם жекече санда, бирок мааниси 'адам зордугу' — көптүк жалпылыкта берилди."
+    }
+  ],
+  "translation": "Адамдардын зордугунан мени куткар, жана мен сенин буйруктарыңды сактайм.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "26b1389558043b6ca67ee29ab6db0dce409fc27acbd42834369226cb999f96de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/119\/133-136.1791217398654.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פדני",
+      "gloss": "мени куткар"
+    },
+    {
+      "surface": "מעשק",
+      "gloss": "зордугунан"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "адамдардын"
+    },
+    {
+      "surface": "ואשמרה",
+      "gloss": "жана мен сактайм"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "буйруктарыңды"
+    }
+  ],
+  "timestamp": "2026-10-05T16:23:18.654789994Z",
+  "model": "glm-5.3"
+}

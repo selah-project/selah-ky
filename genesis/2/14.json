@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 2:14",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Хиддекел",
+      "rationale": "Кийинки салт 'Тигр' деп атайт; еврейче ысым которулбайт"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Пырат",
+      "rationale": "'Евфрат' деген грек-латын форма; еврейче — Пырат"
+    }
+  ],
+  "translation": "Жана үчүнчү дарыянын ысымы — Хиддекел, ал Ашшурдун чыгыш тарабынан агат; жана төртүнчү дарыя — ал Пырат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "14f0223bd1b8e83407ebe79d114a0b4fa0171a216471f3943887d0585327e69a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/2\/13-16.1791200730502.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "жана ысымы"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "дарыянын"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "үчүнчү"
+    },
+    {
+      "surface": "חדקל",
+      "gloss": "Хиддекел"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ал"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "агат"
+    },
+    {
+      "surface": "קדמת",
+      "gloss": "чыгыш тарабынан"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ашшурдун"
+    },
+    {
+      "surface": "והנהר",
+      "gloss": "жана дарыя"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "төртүнчү"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ал"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "Пырат"
+    }
+  ],
+  "timestamp": "2026-10-05T11:45:30.503684602Z",
+  "model": "glm-5.3"
+}

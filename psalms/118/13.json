@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 118:13",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 118,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "דחה\/דחיתני",
+      "rationale": "Дахá\/дехитáни — бир тамырдын кайталанышы: «түртүү» этиш эки жолу үндөш"
+    },
+    {
+      "kind": "addition",
+      "subject": "«аракет кылдың»",
+      "rationale": "עזרני жөнөкөй өткөн чак; кыргызча так маанини берүү үчүн айтылыш кошулду"
+    }
+  ],
+  "translation": "Түртүп мени кулатууга аракет кылдың, бирок Яхве мага жардам берди.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "2aeaca3382c2a5175a83394d03f395865dafa17d1116cce07f895350419817b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/118\/13-16.1791217271510.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דחה",
+      "gloss": "түртүп"
+    },
+    {
+      "surface": "דחיתני",
+      "gloss": "мени кулатууга аракет кылдың"
+    },
+    {
+      "surface": "לנפל",
+      "gloss": "кулатууга"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "бирок Яхве"
+    },
+    {
+      "surface": "עזרני",
+      "gloss": "мага жардам берди"
+    }
+  ],
+  "timestamp": "2026-10-05T16:21:11.511298926Z",
+  "model": "glm-5.3"
+}

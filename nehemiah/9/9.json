@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 9:9",
+  "book": "nehemiah",
+  "lang": "ky",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Камыш деңизи",
+      "rationale": "ים סוף букв. 'камыш деңизи'; салттуу 'Кызыл деңиз' айтылышы еврей текстинде жок"
+    },
+    {
+      "kind": "elision",
+      "subject": "אבתינו",
+      "rationale": "'биздин аталарыбыз' — kyrgyz оою үчүн атоочтук мүчө менен, кайра которулуп жаткан морфология кошулду"
+    }
+  ],
+  "translation": "Жана ⟨את⟩ биздин аталарыбыздын азабын Мицрайимде көрдүң, жана ⟨את⟩ алардын кыйкырыгын Камыш деңизинин үстүнөн уктуң.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "325ef4c828f8ae8fafd90ea34927f1947bac8074a2dafb1e394f72c1cd21fc8e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/nehemiah\/9\/9-12.1791221497267.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "көрдүң"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "биздин аталарыбыздын азабын"
+    },
+    {
+      "surface": "עני",
+      "gloss": "азабын"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "биздин аталарыбыздын"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Мицрайимде"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "жана ⟨את⟩",
+      "marks": "алардын кыйкырыгын"
+    },
+    {
+      "surface": "זעקתם",
+      "gloss": "кыйкырыгын"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "уктуң"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстүнөн"
+    },
+    {
+      "surface": "ים",
+      "gloss": "деңизинин"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Камыш"
+    }
+  ],
+  "timestamp": "2026-10-05T17:31:37.267757092Z",
+  "model": "glm-5.3"
+}

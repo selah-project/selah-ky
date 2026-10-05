@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 7:8",
+  "book": "numbers",
+  "lang": "ky",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "4 араба, 8 уй",
+      "rationale": "Мерари уулдарына бөлүнгөн так сан — Гершондукунан эки эсе көп."
+    },
+    {
+      "kind": "idiom",
+      "subject": "ביד איתמר",
+      "rationale": "«Итамардын колунда» — көзөмөл жана буйрук астында деген еврей惯 туюму, кыргызча да сакталды."
+    }
+  ],
+  "translation": "Жана ⟨את⟩ төрт арабаны жана ⟨את⟩ сегиз уйду Мераринин уулдарына берди, алардын кызматынын оозуна жараша, ыйык кызмат кылуучу Ахарондун уулу Итамардын колунда.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "0f020e2e348987bdef70a7abbb8253a45b96f56840c3b1b57f7cce81ec9c9314",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/numbers\/7\/5-8.1791203659202.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "жана ⟨את⟩",
+      "marks": "төрт арабаны"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "төрт"
+    },
+    {
+      "surface": "העגלת",
+      "gloss": "арабаны"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "жана ⟨את⟩",
+      "marks": "сегиз уйду"
+    },
+    {
+      "surface": "שמנת",
+      "gloss": "сегиз"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "уйду"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "берди"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "уулдарына"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Мераринин"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "оозуна жараша"
+    },
+    {
+      "surface": "עבדתם",
+      "gloss": "алардын кызматынын"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "колунда"
+    },
+    {
+      "surface": "איתמר",
+      "gloss": "Итамардын"
+    },
+    {
+      "surface": "בן",
+      "gloss": "уулу"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Ахарондун"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ыйык кызмат кылуучу"
+    }
+  ],
+  "timestamp": "2026-10-05T12:34:19.204027182Z",
+  "model": "glm-5.3"
+}

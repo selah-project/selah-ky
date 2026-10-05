@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 51:7",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "бар",
+      "rationale": "Еврейче 'Менин Торам жүрөктөрүндө' — этиш жок, кыргызча 'бар' кошулду."
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "Түз кайрылуу: 'Мени уккула… коркпоңуз… тайбоңуз' — Торам жүрөгүндөгү элге."
+    },
+    {
+      "kind": "invitation",
+      "subject": "the reader",
+      "rationale": "'Уккула' — баштапкы чакыруу буйругу, Шема формасындагы кайрылуу."
+    }
+  ],
+  "translation": "Мени уккула, цедекти билгендер, жүрөктөрүндө Менин Торам бар эл: адамдардын кордугунан коркпоңуз, алардын доо айтууларынан тайбоңуз.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "abda104023d8c916a924bde5bfb9f76c034c6a0eee9e8096044c4b2c1d673106",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/51\/6-7.1791224123998.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "уккула"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Мени"
+    },
+    {
+      "surface": "ידעי",
+      "gloss": "билгендер"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "цедекти"
+    },
+    {
+      "surface": "עם",
+      "gloss": "эл"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "Менин Торам"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "жүрөктөрүндө"
+    },
+    {
+      "surface": "אל",
+      "gloss": "жок"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "коркпоңуз"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "кордугунан"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "адамдардын"
+    },
+    {
+      "surface": "ומגדפתם",
+      "gloss": "жана алардын доо айтууларынан"
+    },
+    {
+      "surface": "אל",
+      "gloss": "жок"
+    },
+    {
+      "surface": "תחתו",
+      "gloss": "тайбоңуз"
+    }
+  ],
+  "timestamp": "2026-10-05T18:15:23.999609639Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 78:15",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "тереңдиктердей",
+      "rationale": "תהומות — чексиз тереңдиктеги суу массасы; кыргызча «тереңдиктер» деген сөз менен берилди"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "צורים \/ סלע",
+      "rationale": "78:15–16теги эки асканын аталышы (кургак аска \/ аска-баскыч) кыргызча бир «аска» сөзүнө биригип кетти"
+    }
+  ],
+  "translation": "Чөлдө аскаларды жарып, тереңдиктердей көп суу ичирди.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "72c6c5410ab05fc6c4f97fac561837ad9097507f1b394ff4793951fcaa5d00eb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/78\/13-16.1791216588020.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יבקע",
+      "gloss": "жарып"
+    },
+    {
+      "surface": "צרים",
+      "gloss": "аскаларды"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "чөлдө"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "ичирди"
+    },
+    {
+      "surface": "כתהמות",
+      "gloss": "тереңдиктердей"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "көп"
+    }
+  ],
+  "timestamp": "2026-10-05T16:09:48.021702637Z",
+  "model": "glm-5.3"
+}

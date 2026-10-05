@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 12:5",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אתנו",
+      "rationale": "אֵת 'жаныбызда' деген предлог; ИПС «эриндерибиз биз менен» деп берет, кыргызча «өзүбүздө» деп ачыкталды"
+    },
+    {
+      "kind": "crux",
+      "subject": "אדון",
+      "rationale": "адам жөнүндөгү «кожоюн»; Яхвенин ысымынын ордуна эмес — бул мактанчуулардын сөзү"
+    }
+  ],
+  "translation": "Алар: «Тилибиз менен күч табабыз, эриндерибиз өзүбүздө ⟨את⟩ — бизге кожоюн ким?» — дешти.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "2e8bfb0f9c2067f461a0cddcb065e7801b95f1df499e42d5b5c06c36de471b82",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/12\/5-8.1791215464191.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "алар"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "дешти"
+    },
+    {
+      "surface": "ללשננו",
+      "gloss": "тибиз менен"
+    },
+    {
+      "surface": "נגביר",
+      "gloss": "күч табабыз"
+    },
+    {
+      "surface": "שפתינו",
+      "gloss": "эриндерибиз"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "өзүбүздө"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ким"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "кожоюн"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "бизге"
+    }
+  ],
+  "timestamp": "2026-10-05T15:51:04.191702721Z",
+  "model": "glm-5.3"
+}

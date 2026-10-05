@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 2:4",
+  "book": "1-chronicles",
+  "lang": "ky",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "бешөө",
+      "rationale": "Уулдардын саны — бешөө деп эсептелет."
+    },
+    {
+      "kind": "addition",
+      "subject": "болду",
+      "rationale": "Этишсиз сан айтылышын бүтүрүү үчүн кошулду."
+    }
+  ],
+  "translation": "Жана анын келини Тамар ⟨את⟩ Перетти жана ⟨את⟩ Зерахты төрөдү; Йехуданын бардык уулдары бешөө болду.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "4669b6d31f165157d14575d0b5f7325e02107fc8c78a66a6463b49bfc0aacdda",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-chronicles\/2\/4-4.1791224599131.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותמר",
+      "gloss": "Жана Тамар"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "анын келини"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "төрөдү"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ага"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Перетти"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Перетти"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "жана ⟨את⟩",
+      "marks": "Зерахты"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "Зерахты"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бардык"
+    },
+    {
+      "surface": "בני",
+      "gloss": "уулдары"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Йехуданын"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "бешөө"
+    }
+  ],
+  "timestamp": "2026-10-05T18:23:19.132296443Z",
+  "model": "glm-5.3"
+}

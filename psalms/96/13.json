@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 96:13",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 96,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "כי בא כי בא",
+      "rationale": "Кайрылууну күчөтүү үчүн эки жолу айтылган «анткени ал келет» — кыргызча кайталоо сакталды"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לשפט\/ישפט",
+      "rationale": "Шапат тамырынын кайталанышы: «өкүм кылууга келет — өкүм кылат»"
+    },
+    {
+      "kind": "addition",
+      "subject": "ал",
+      "rationale": "Кыргыз тили этиштин жакчасын талап кылат; еврей текстте жок"
+    }
+  ],
+  "translation": "Яхвенин алдында, анткени ал келет, анткени ал жерди өкүм кылууга келет: ал дүйнөнү цедек менен өкүм кылат, элдерди — Өз ишенимдүүлүгү менен.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "7608e0ee44926bb4a0ac680cae1383f608f02699b88e5e1ea78d579a01d91da7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/96\/13-13.1791216824469.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "алдында"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "בא",
+      "gloss": "келет"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "בא",
+      "gloss": "келет"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "өкүм кылууга"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "жерди"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "өкүм кылат"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "дүйнөнү"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "цедек менен"
+    },
+    {
+      "surface": "ועמים",
+      "gloss": "жана элдерди"
+    },
+    {
+      "surface": "באמונתו",
+      "gloss": "Өз ишенимдүүлүгү менен"
+    }
+  ],
+  "timestamp": "2026-10-05T16:13:44.469953401Z",
+  "model": "glm-5.3"
+}

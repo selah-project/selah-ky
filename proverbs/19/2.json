@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 19:2",
+  "book": "proverbs",
+  "lang": "ky",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жандырмачылык",
+      "rationale": "נפש — «дем алуучу жандык, жаныктык»: жан эмес, тирүүлүк күчү"
+    },
+    {
+      "kind": "substitution",
+      "subject": "максатынан кагылытат",
+      "rationale": "חטא тамыры «максаттан жаңылуу» деген сөз; кыргызча «күнөө кылуу» деген диний мааниден таза каралды"
+    }
+  ],
+  "translation": "Ошондой эле, билимсиз жандырмачылык жакшы эмес, жана буттары асыккан адам максатынан кагылытат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "8a24d07722e6482b14fd21664da9feea6d1a57470864bf4db479696f3fea60f0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/19\/1-4.1791218205674.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ошондой эле"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "билим"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "жандырмачылык"
+    },
+    {
+      "surface": "לא",
+      "gloss": "эмес"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "жакшы"
+    },
+    {
+      "surface": "ואץ",
+      "gloss": "асыккан"
+    },
+    {
+      "surface": "ברגלים",
+      "gloss": "буттары"
+    },
+    {
+      "surface": "חוטא",
+      "gloss": "максатынан кагылытат"
+    }
+  ],
+  "timestamp": "2026-10-05T16:36:45.674910270Z",
+  "model": "glm-5.3"
+}

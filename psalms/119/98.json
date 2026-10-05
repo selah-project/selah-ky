@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 98,
+  "ref": "psalms 119:98",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לעולם היא לי",
+      "rationale": "\"алар меники түбөлүккө\" же эски котормолордогу \"алар дайыма мени менен\" — ламед мүчөсү ээликтин белгиси"
+    },
+    {
+      "kind": "substitution",
+      "subject": "היא",
+      "rationale": "Жалгыз сан ״ал״ — көп сан буйруктарга тиешелүү, кыргызча көп сандуу"
+    }
+  ],
+  "translation": "Душмандарыма караганда Сенин буйруктарың мени акылман кылышат, анткени алар меники түбөлүккө.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "ca75195e5bc9a719cc360d1115e5e3fe88c81cfbdb6c45cd3970420370d65d07",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/119\/97-100.1791217383302.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מאיבי",
+      "gloss": "душмандарыма караганда"
+    },
+    {
+      "surface": "תחכמני",
+      "gloss": "мени акылман кылышат"
+    },
+    {
+      "surface": "מצותך",
+      "gloss": "буйруктарың"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "түбөлүккө"
+    },
+    {
+      "surface": "היא",
+      "gloss": "алар"
+    },
+    {
+      "surface": "לי",
+      "gloss": "меники"
+    }
+  ],
+  "timestamp": "2026-10-05T16:23:03.303232419Z",
+  "model": "glm-5.3"
+}

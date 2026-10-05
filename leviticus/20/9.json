@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 20:9",
+  "book": "leviticus",
+  "lang": "ky",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "дмйו בו",
+      "rationale": " Literally 'his blood is in him' — his death is his own responsibility."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מות יומת",
+      "rationale": " Cognate-infinitive construction 'dying he shall be put to death', an emphatic doubling characteristic of this chapter."
+    }
+  ],
+  "translation": "Себеби ар бир адам — ким ⟨את⟩ атасын жана ⟨את⟩ энесин каргаса — өлүм менен өлтүрүлсүн: атасын жана энесин каргады, анын каны өзүндө.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "a844ce22b4fa34641a2fe568b760467669534102fd89196864f1a58e13bb24e0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/20\/9-12.1791203326975.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Себеби"
+    },
+    {
+      "surface": "איש",
+      "gloss": "адам"
+    },
+    {
+      "surface": "איש",
+      "gloss": "адам"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ким"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "каргаса"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "атасын"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "атасын"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "энесин"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "энесин"
+    },
+    {
+      "surface": "מות",
+      "gloss": "өлүм"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "өлтүрүлсүн"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "атасын"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "жана энесин"
+    },
+    {
+      "surface": "קלל",
+      "gloss": "каргады"
+    },
+    {
+      "surface": "דמיו",
+      "gloss": "анын каны"
+    },
+    {
+      "surface": "בו",
+      "gloss": "өзүндө"
+    }
+  ],
+  "timestamp": "2026-10-05T12:28:46.975853704Z",
+  "model": "glm-5.3"
+}

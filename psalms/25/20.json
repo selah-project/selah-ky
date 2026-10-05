@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 25:20",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жан",
+      "rationale": "נפש булагы — дем алуучу жандуулук, тамак\/жан күчү; «жан» кыргызча жакын, бирок тамырда «дем» бар"
+    },
+    {
+      "kind": "idiom",
+      "subject": "баш паанэ бердим",
+      "rationale": "חסיתי букв. «коргонууга качтым» — Сенин коргоонуңа качып бардым"
+    },
+    {
+      "kind": "you",
+      "subject": "Яхвеге",
+      "rationale": "Аялдануучу псаломдо тике кароо-жүгүнүү (бул аятта Ысым жок, «Сага» жана «Сен»)"
+    }
+  ],
+  "translation": "Жаныбар-жанымды сакта жана мени куткар: мен уялбайын, анткени мен Сага баш паанэ бердим.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "7f9f90a235d7aefad5e181b4f82d8b2797f9cad3b70c5c86c9a8498188664da8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/25\/20-20.1791224407716.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמרה",
+      "gloss": "сакта"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "жанымды"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "жана мени куткар"
+    },
+    {
+      "surface": "אל",
+      "gloss": "мен уялбайын"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "мен уялбайын"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "баш паанэ бердим"
+    },
+    {
+      "surface": "בך",
+      "gloss": "Сага"
+    }
+  ],
+  "timestamp": "2026-10-05T18:20:07.717047220Z",
+  "model": "glm-5.3"
+}

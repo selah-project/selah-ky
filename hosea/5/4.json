@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 5:4",
+  "book": "hosea",
+  "lang": "ky",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "бурбайышат",
+      "rationale": "יִתְּנוּ מַעַלְלֵיהֶם לָשׁוּב букв. 'иштерин кайтууга беришпейт' — иштери аларды кайтууга жол бербейт деген идиома."
+    },
+    {
+      "kind": "substitution",
+      "subject": "рух",
+      "rationale": "רוח бир сөз — Рух, шамал, дем; бул жерде 'зина руху' ички күч катары."
+    }
+  ],
+  "translation": "Алар өз иштерин өз Элохимдерине кайтууга бурбайышат, анткени алардын ичинде зина руху бар, жана Яхвени ⟨את⟩ таанышпайт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "2b589ec0ff0ad2b7d454acc93bb2d7849a3a3082992abda93e1321280943c471",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/hosea\/5\/1-4.1791213922946.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "бурбайышат"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "өз иштерин"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "кайтууга"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ге"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "өз Элохимдерине"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "рух"
+    },
+    {
+      "surface": "זנונים",
+      "gloss": "зина"
+    },
+    {
+      "surface": "בקרבם",
+      "gloss": "алардын ичинде"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Яхвени"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "таанышпайт"
+    }
+  ],
+  "timestamp": "2026-10-05T15:25:22.947884895Z",
+  "model": "glm-5.3"
+}

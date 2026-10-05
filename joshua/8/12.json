@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 8:12",
+  "book": "joshua",
+  "lang": "ky",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "деңиз тарапында",
+      "rationale": "מים кайра «деңиз» — Жер Ортолук деңизди көрсөтүү менен «батыш» дегенди билдирет."
+    },
+    {
+      "kind": "alternative",
+      "subject": "шаардын",
+      "rationale": "ЖБТ бул жерде «Ай» деген сөздү колдонот; еврей текстинде бул аяттын аягында לָעִיר («шаар») деген сөзү бар."
+    }
+  ],
+  "translation": "Ал беш миң адам алды жана ⟨את⟩ аларды шаардын деңиз тарабында (батышында), Бейт-Эл менен Айдын ортосунда чабуулга койду.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "fe875eb6d8cde84fbe23cc9a1ecff7c0a5dd2d2781d25c7507bb159d82e1591e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/joshua\/8\/9-12.1791205664296.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "алды"
+    },
+    {
+      "surface": "כחמשת",
+      "gloss": "беш"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "миң"
+    },
+    {
+      "surface": "איש",
+      "gloss": "адам"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "койду"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ аларды",
+      "marks": "аларды (беш миң адам)"
+    },
+    {
+      "surface": "ארב",
+      "gloss": "чабуулга"
+    },
+    {
+      "surface": "בין",
+      "gloss": "орто"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бейт"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эл"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "менен ортосунда"
+    },
+    {
+      "surface": "העי",
+      "gloss": "Айдын"
+    },
+    {
+      "surface": "מים",
+      "gloss": "деңиз тарабында"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "шаардын"
+    }
+  ],
+  "timestamp": "2026-10-05T13:07:44.297995341Z",
+  "model": "glm-5.3"
+}

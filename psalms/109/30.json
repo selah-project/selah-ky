@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 109:30",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 109,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Аны",
+      "rationale": "אהללנוдогу -נו мүчөсү (Аны) кыргызчада өзүнчө ат атооч катары кайталанды."
+    },
+    {
+      "kind": "substitution",
+      "subject": "даңктаймы",
+      "rationale": "ידה тамыры «таш ыргытуу» дегенден «таанып-даңктоого» өткөн; латын булагынын сүрөтү кыргызча берилбейт."
+    }
+  ],
+  "translation": "Оозум менен Яхвени абдан даңктайм, жана көптөрдүн ичинде Аны мактаймы.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "c42f5d874f9618809df20fc2570b4cb2ddf2e164b7ffbf1999091ddcfb74a7bb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/109\/29-31.1791217212549.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "даңктаймы"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвени"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "абдан"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "оозум менен"
+    },
+    {
+      "surface": "ובתוך",
+      "gloss": "жана ичинде"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "көптөрдүн"
+    },
+    {
+      "surface": "אהללנו",
+      "gloss": "Аны мактаймы"
+    }
+  ],
+  "timestamp": "2026-10-05T16:20:12.549925319Z",
+  "model": "glm-5.3"
+}

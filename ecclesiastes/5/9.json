@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 5:9",
+  "book": "ecclesiastes",
+  "lang": "ky",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "хевел",
+      "rationale": "הבל 'дем, боштук' сөзү хевел деп айтылышында сакталды, 'түкүр' же 'макур' деген котормо ордуна"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כסף…כסף",
+      "rationale": "күмүш…күмүш кайталоосу — жекeme тойбоют деген ойду күчөтөт"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨аларга⟩ ⟨жок⟩",
+      "rationale": "еврейче אוהב белгисиз жекече\/көпчө жана ээлик конструкция кыргызча 'түшүм жок' деген айтымды талап кылат"
+    }
+  ],
+  "translation": "Күмүштү сүйгөн күмүштөн тойбойт, жана байлыкты сүйгөндөр ⟨аларга⟩ түшүм ⟨жок⟩; бул да хевел.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "4632ec4aaa2098b83ecc721b2b13f6a0616dadb8765a466c0c091d42c1aeb6c7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ecclesiastes\/5\/9-12.1791220108622.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "сүйгөн"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "күмүштү"
+    },
+    {
+      "surface": "לא",
+      "gloss": "токойт"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "тойбойт"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "күмүштөн"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "жана"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "сүйгөндөр"
+    },
+    {
+      "surface": "בהמון",
+      "gloss": "байлыкты"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "תבואה",
+      "gloss": "түшүм"
+    },
+    {
+      "surface": "גם",
+      "gloss": "да"
+    },
+    {
+      "surface": "זה",
+      "gloss": "бул"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "хевел"
+    }
+  ],
+  "timestamp": "2026-10-05T17:08:28.623040164Z",
+  "model": "glm-5.3"
+}

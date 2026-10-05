@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 34:14",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨сакта⟩",
+      "rationale": "Экинчи сүйлөмдө этиш кайталанбайт; кыргыз тили талап кылат"
+    },
+    {
+      "kind": "you",
+      "subject": "окурманга",
+      "rationale": "Буйруктар тикелей буюруучуга багытталган"
+    }
+  ],
+  "translation": "Тилиңди жамандыктан сакта, жана эриндериңди алаакы сүйлөөдөн ⟨сакта⟩.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "9340de93813714082aaab1a58bdd9d43402dc62fe41600dabae2cb99405cc1f2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/34\/13-16.1791215839206.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "сакта"
+    },
+    {
+      "surface": "לשונך",
+      "gloss": "тилиңди"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "жамандыктан"
+    },
+    {
+      "surface": "ושפתיך",
+      "gloss": "жана эриндериңди"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "сүйлөөдөн"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "алаакы"
+    }
+  ],
+  "timestamp": "2026-10-05T15:57:19.207693976Z",
+  "model": "glm-5.3"
+}

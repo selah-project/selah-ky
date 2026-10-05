@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 18:39",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "талкалайм",
+      "rationale": "מחץ так сөзү 'каактап майдалоо, кыюу' — катуу уруу"
+    }
+  ],
+  "translation": "Мен аларды талкалайм, алар тургоо алышпайт, алар менин таманымдын астына кулаган.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "5d696772ece5344d3997f451697d7487f39dd57df93537b85e9211124c958274",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/18\/38-39.1791224423413.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמחצם",
+      "gloss": "алкалайм"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "жана эмес"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "алышпайт"
+    },
+    {
+      "surface": "קום",
+      "gloss": "тургоо"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "кулаган"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "астына"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "таманымдын"
+    }
+  ],
+  "timestamp": "2026-10-05T18:20:23.414064394Z",
+  "model": "glm-5.3"
+}

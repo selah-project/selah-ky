@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 10:3",
+  "book": "jeremiah",
+  "lang": "ky",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "— ⟨жалган⟩",
+      "rationale": "Еврейче этиш жок, кыргызча байлам керек"
+    },
+    {
+      "kind": "crux",
+      "subject": "חקות",
+      "rationale": "'Салттар' же 'мыйзамдар' — КЖВ 'customs', YLT 'statutes'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "הבל",
+      "rationale": "'Дем-уулануу\/боштук' — 'жалган' деп берилди, Экклезиасттын хевели"
+    }
+  ],
+  "translation": "Анткени элдердин салттары — ⟨жалган⟩: анткени даракты токойдон кесишкен, жоочулун колдорунун иши, балта менен.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "4423868545f1e7dcc8eb95e1b831d0180720645aa70793560812d7a5c58ba9f7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/jeremiah\/10\/1-4.1791210951313.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Анткени"
+    },
+    {
+      "surface": "חקות",
+      "gloss": "салттары"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "элдердин"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "жалган"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ал⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "даракты"
+    },
+    {
+      "surface": "מיער",
+      "gloss": "токойдон"
+    },
+    {
+      "surface": "כרתו",
+      "gloss": "кесишкен"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "иши"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "колдорунун"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "жоочулун"
+    },
+    {
+      "surface": "במעצד",
+      "gloss": "балта менен"
+    }
+  ],
+  "timestamp": "2026-10-05T14:35:51.314299140Z",
+  "model": "glm-5.3"
+}

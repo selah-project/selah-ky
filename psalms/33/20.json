@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 33:20",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "—",
+      "rationale": "Кыргыз тилиндеги байламча-тиреме; еврейче הוא басымдуу «Ал» деген"
+    },
+    {
+      "kind": "substitution",
+      "subject": "жаныбыз",
+      "rationale": "נפש — жүрөк-тилек, жашоо күчү; бизди толук билдирет"
+    }
+  ],
+  "translation": "Биздин жаныбыз Яхвени күттү; Ал — биздин жардамыбыз жана калканыбыз.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "807dad4e0ae498344a0a1c7e24ffe96f648a79a9ec0832cee397d0bd538c4880",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/33\/17-20.1791215844553.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נפשנו",
+      "gloss": "биздин жаныбыз"
+    },
+    {
+      "surface": "חכתה",
+      "gloss": "күттү"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхвени"
+    },
+    {
+      "surface": "עזרנו",
+      "gloss": "биздин жардамыбыз"
+    },
+    {
+      "surface": "ומגננו",
+      "gloss": "жана калканыбыз"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Ал"
+    }
+  ],
+  "timestamp": "2026-10-05T15:57:24.554277833Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 30:17",
+  "book": "numbers",
+  "lang": "ky",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "rationale": "относительный союз; кыргыз тилинде ат атооч «буюрган» мүчөсү менен берилди, өзүнчө сөз жок"
+    },
+    {
+      "kind": "substitution",
+      "subject": "בין...בין",
+      "rationale": "еврейче «ортосунда» кайталануусу кыргызча «ортосундагы... менен» түзүлүшү менен берилди"
+    },
+    {
+      "kind": "measurement",
+      "subject": "мителер",
+      "rationale": "бул аят мыйзамдардын тизмесин жыйынтыйт — өкүм\/статут жыйынтыгы"
+    }
+  ],
+  "translation": "Мителер — булар Яхвенин Мошеге буюрган ⟨את⟩ мителери: эркектин аялы менен ортосундагы, атанын кызы менен ортосундагы, кыз өспүрүм кезинде, атасынын үйүндө болгонда.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "d2c28a1407bdd6acd22f38088b98fa74b0b3658f95b7c5080fcda49c93d06617",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/numbers\/30\/17-17.1791204421513.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "булар"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "мителер"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "буюрган"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Моше"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Мошеге"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ортосундагы"
+    },
+    {
+      "surface": "איש",
+      "gloss": "эркектин"
+    },
+    {
+      "surface": "לאשתו",
+      "gloss": "аялы менен"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ортосундагы"
+    },
+    {
+      "surface": "אב",
+      "gloss": "атанын"
+    },
+    {
+      "surface": "לבתו",
+      "gloss": "кызы менен"
+    },
+    {
+      "surface": "בנעריה",
+      "gloss": "өспүрүм кезинде"
+    },
+    {
+      "surface": "בית",
+      "gloss": "үйүндө"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "атасынын"
+    }
+  ],
+  "timestamp": "2026-10-05T12:47:01.514518397Z",
+  "model": "glm-5.3"
+}

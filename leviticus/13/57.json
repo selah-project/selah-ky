@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "leviticus 13:57",
+  "book": "leviticus",
+  "lang": "ky",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "өсүп чыккан",
+      "rationale": "פרחת — бүчүр сыяктуу бүтүп чыгуу, гүлдөп жайылуу; көпчүлүк котормолор «жайылуучу» дейт"
+    },
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "rationale": "salыштырмата атооч кыргызча атайын сөз катары чыкпай, «анда жара болгон» түзүлүшүнө сиңди"
+    }
+  ],
+  "translation": "Жана эгер ал кийимде, же жүзөөдө, же аркакта, же териден жасалган ар кандай буюмда дагы көрүнсө — ал өсүп чыккан: отто өрттөйсүң ⟨את⟩ анда жара болгон нерсени.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "bbad8c3a36eb475c0e5c575df21ec0720309a8839c92b754f30bda53f218e7b9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/13\/57-59.1791203099195.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Жана эгер"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "көрүнсө"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "дагы"
+    },
+    {
+      "surface": "בבגד",
+      "gloss": "кийимде"
+    },
+    {
+      "surface": "או",
+      "gloss": "же"
+    },
+    {
+      "surface": "בשתי",
+      "gloss": "жүзөөдө"
+    },
+    {
+      "surface": "או",
+      "gloss": "же"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "аркакта"
+    },
+    {
+      "surface": "או",
+      "gloss": "же"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ар кандай"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "буюмда"
+    },
+    {
+      "surface": "עור",
+      "gloss": "тери"
+    },
+    {
+      "surface": "פרחת",
+      "gloss": "өсүп чыккан"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ал"
+    },
+    {
+      "surface": "באש",
+      "gloss": "отто"
+    },
+    {
+      "surface": "תשרפנו",
+      "gloss": "өрттөйсүң"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "анда жара болгон нерсени"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "בו",
+      "gloss": "анда"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "жара"
+    }
+  ],
+  "timestamp": "2026-10-05T12:24:59.196162427Z",
+  "model": "glm-5.3"
+}

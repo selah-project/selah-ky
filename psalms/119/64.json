@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "psalms 119:64",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "хесед",
+      "rationale": "D2 боюнча хесед сакталды; 'ырайым' гана десек — бир маани жоголот."
+    }
+  ],
+  "translation": "Сенин хеседиң, Яхве, жерди толтурду; мени хуктарыңа үйрөт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "e444bba5aa249d029a8be610aad1dc0f13a0206eda6a5444bf22799cbdfac3a6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/119\/61-64.1791217352612.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חסדך",
+      "gloss": "хеседиң"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "толтурду"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "жерди"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "хуктарыңа"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "мени үйрөт"
+    }
+  ],
+  "timestamp": "2026-10-05T16:22:32.613619036Z",
+  "model": "glm-5.3"
+}

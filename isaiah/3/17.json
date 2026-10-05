@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 3:17",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "פתהן",
+      "rationale": "פת тамырынан «алардын тешиктери \/ ачылган жерлери»: KJV «жашыруун жерлери», YLT «жөнөкөйлүгүн», BSB «маңдайын» — биз буккулбай «алардын ачылуучу жерлерин» дедик."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨алардын⟩",
+      "rationale": "אדני жана ויהוה эки Subject бар, экинчи этиштин объектиси — суффикс, кыргызча ачык жазылды."
+    }
+  ],
+  "translation": "Ошондуктан Адонай Сиондун кыздарынын баш чокусун кырынды кылат, жана Яхве алардын ⟨ашкере жерлерин⟩ жылаңачтайты.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "08761c1d77bb90d66ae3ee5e89da76a7cc74d48af1e64381aed32daadb8e865e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/3\/17-20.1791209416866.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושפח",
+      "gloss": "кырынды кылат"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "קדקד",
+      "gloss": "баш чокусун"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "кыздарынын"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Сиондун"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "жана Яхве"
+    },
+    {
+      "surface": "פתהן",
+      "gloss": "⟨алардын ачылуучу жерлерин⟩"
+    },
+    {
+      "surface": "יערה",
+      "gloss": "жылаңачтайты"
+    }
+  ],
+  "timestamp": "2026-10-05T14:10:16.866676612Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 30:12",
+  "book": "numbers",
+  "lang": "ky",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жаны",
+      "rationale": "נפש — жаны-күч, дем алуучу жандык"
+    },
+    {
+      "kind": "elision",
+      "subject": "анда",
+      "rationale": "«анда» — байланышты кыргызча түзүү үчүн кошулду, еврейче жок"
+    }
+  ],
+  "translation": "жана күйөөсү укса, ага үнсүз калса жана ⟨את⟩ аны тыюу салбаса, анда анын бүт анттары жана жанына байлаган ар бир байлануу турат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "8255ef01ac25b4e46433a6f266d7164c0065eb3497f8bfeecac8c54edac4b553",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/numbers\/30\/9-12.1791204462096.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמע",
+      "gloss": "укса"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "күйөөсү"
+    },
+    {
+      "surface": "והחריש",
+      "gloss": "үнсүз калса"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ага"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "הניא",
+      "gloss": "тыюу салбаса"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "аны"
+    },
+    {
+      "surface": "וקמו",
+      "gloss": "турат"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүт"
+    },
+    {
+      "surface": "נדריה",
+      "gloss": "анттары"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "жана ар бир"
+    },
+    {
+      "surface": "אסר",
+      "gloss": "байлануу"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ал"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "байлаган"
+    },
+    {
+      "surface": "על",
+      "gloss": "ана"
+    },
+    {
+      "surface": "נפשה",
+      "gloss": "жанына"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "турат"
+    }
+  ],
+  "timestamp": "2026-10-05T12:47:42.097931116Z",
+  "model": "glm-5.3"
+}

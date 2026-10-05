@@ -1,0 +1,124 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 34:4",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "экинчи жолу",
+      "rationale": "Ивритте жок, луҳоттун биринчи жолу да болгонун билдирүү үчүн кошулду"
+    },
+    {
+      "kind": "substitution",
+      "subject": "таштакта",
+      "rationale": "לוח — жылмаланган, жылтылдаган такта; таш, жыгач же металл болушу мүмкін"
+    },
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "rationale": "Ивриттин багыттоочу алдыната кыргызча өзүнчө сөзгө ээ эмес — 'тоосуна' мүчөсү көтөрөт"
+    }
+  ],
+  "translation": "Жана ал экинчи жолу таштакталарды биринчилерине окшош бирдей эки таштактаны жасап чыкты, жана Моше эртең менен эрте туруп, Синай тоосуна көтөрүлдү, Яхве ага буйругандай, жана колуна эки таш такта алды.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "535a6883bfbf9f41c6adf7ef90d2b33cf661107d147f20f9fb32eed729b34cae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/34\/4-4.1791223608031.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויפסל",
+      "gloss": "жасап чыкты"
+    },
+    {
+      "surface": "שני",
+      "gloss": "эки"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "таштакталарды"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "таш"
+    },
+    {
+      "surface": "כראשנים",
+      "gloss": "биринчилерине окшош"
+    },
+    {
+      "surface": "וישכם",
+      "gloss": "эрте туруп"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "эртең менен"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "көтөрүлдү"
+    },
+    {
+      "surface": "אל",
+      "gloss": "."
+    },
+    {
+      "surface": "הר",
+      "gloss": "тоосуна"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Синай"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "…дай"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "буйругандай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ага (Мошени көздөйт)"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "алды"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "колуна"
+    },
+    {
+      "surface": "שני",
+      "gloss": "эки"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "такта"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "таш"
+    }
+  ],
+  "timestamp": "2026-10-05T18:06:48.031742094Z",
+  "model": "glm-5.3"
+}

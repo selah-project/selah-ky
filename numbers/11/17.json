@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 11:17",
+  "book": "numbers",
+  "lang": "ky",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "рух",
+      "rationale": "הרוח — бир сөз, үч маани: Рух, шамал, дем; бул жерде Мошенин үстүндөгү Кудайдын руху"
+    },
+    {
+      "kind": "elision",
+      "subject": "מן…ואצלתי",
+      "rationale": "«алып» — ואצלתילитералдуу «бөлүп алуу, ажыратып алуу» деген тамырдан"
+    }
+  ],
+  "translation": "Мен түшөмүн жана ал жерде сени менен сүйлөшөмүн, жана сенин үстүңдө турган рухтан алып, алардын үстүнө коёмун, жана алар ⟨את⟩ менен элдин жүгүн көтөрүшөт, жана сен жалгыз өзүң көтөрбөйсүң.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "f6b5814ac3e3241e8a8dd0db04a7564fb544f5291eaf45198bd62097c2f5a9ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/numbers\/11\/17-20.1791203917933.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירדתי",
+      "gloss": "Мен түшөмүн"
+    },
+    {
+      "surface": "ודברתי",
+      "gloss": "жана сүйлөшөмүн"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "сени менен"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ал жерде"
+    },
+    {
+      "surface": "ואצלתי",
+      "gloss": "жана алып"
+    },
+    {
+      "surface": "מן",
+      "gloss": "…дан"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "рухтан"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…ды"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "сенин үстүңдө турган"
+    },
+    {
+      "surface": "ושמתי",
+      "gloss": "жана коёмун"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "алардын үстүнө"
+    },
+    {
+      "surface": "ונשאו",
+      "gloss": "жана алар көтөрүшөт"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ менен",
+      "marks": "сен"
+    },
+    {
+      "surface": "במשא",
+      "gloss": "жүгүн"
+    },
+    {
+      "surface": "העם",
+      "gloss": "элдин"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "жана …бей"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "көтөрбөйсүң"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "сен"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "жалгыз өзүң"
+    }
+  ],
+  "timestamp": "2026-10-05T12:38:37.933957834Z",
+  "model": "glm-5.3"
+}

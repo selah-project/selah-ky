@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 11:5",
+  "book": "ecclesiastes",
+  "lang": "ky",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הרוח",
+      "rationale": "рух\/шамал: «шамалдын жолу» же «рухтун жолу» — эки окуу мүмкүн; кыргызча бир сөз «рух» эки маанини да камтыйт"
+    },
+    {
+      "kind": "substitution",
+      "subject": "המלאה",
+      "rationale": "букв. «толук аял» — толгон курсак ээси; кыргызча «толгон курсак» деп берилди"
+    }
+  ],
+  "translation": "Рухтун кайсы жол менен барарын, толгон курсактагы сөөктөрдү кантип пайда болорун билбеген сыяктуу, ошондой эле баарын жасаган Элохимдин ⟨את⟩ ишин да билбейсң.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "080f883d4fb00876a0c9c80f446adfb93005ca02fcd78b417e32b6f2714db9ce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ecclesiastes\/11\/5-8.1791220154912.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "сыяктуу"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "билбеген"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "билүүчү"
+    },
+    {
+      "surface": "מה",
+      "gloss": "кайсы"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "жол"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "рухтун"
+    },
+    {
+      "surface": "כעצמים",
+      "gloss": "сөөктөрдү"
+    },
+    {
+      "surface": "בבטן",
+      "gloss": "курсактагы"
+    },
+    {
+      "surface": "המלאה",
+      "gloss": "толгон"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "ошондой эле"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "билбейсң"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ишин"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ишин"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Элохимдин"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ал"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "жасаган"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "баарын"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "баарын"
+    }
+  ],
+  "timestamp": "2026-10-05T17:09:14.912951816Z",
+  "model": "glm-5.3"
+}

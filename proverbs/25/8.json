@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 25:8",
+  "book": "proverbs",
+  "lang": "ky",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לרב",
+      "rationale": "«Талашууга» же «сотко» (BSB: кепилдик боюнча даттануу) деген эки окуу бар."
+    },
+    {
+      "kind": "invitation",
+      "subject": "окурманга",
+      "rationale": "Тыюу формасындагы («чыкпа») түз насыят."
+    }
+  ],
+  "translation": "Досуң менен талашууга тез чыкпа, болбосо аягында эмне кыларсың, досуң ⟨את⟩ сени уят кылганда.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "fa80ee802ce3a57b7385033b6c251fc310badbb7efe80390969b2050f81187ad",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/25\/5-8.1791218351423.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "жок"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "чыкпа"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "талашууга"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "тез"
+    },
+    {
+      "surface": "פן",
+      "gloss": "болбосо"
+    },
+    {
+      "surface": "מה",
+      "gloss": "эмне"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "кыларсың"
+    },
+    {
+      "surface": "באחריתה",
+      "gloss": "аягында"
+    },
+    {
+      "surface": "בהכלים",
+      "gloss": "уят кылганда"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ сени",
+      "marks": "досуң — рэак"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "досуң"
+    }
+  ],
+  "timestamp": "2026-10-05T16:39:11.424616428Z",
+  "model": "glm-5.3"
+}

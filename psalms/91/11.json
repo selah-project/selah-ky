@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 91:11",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 91,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Ал",
+      "rationale": "Ивритте субъекти жок; 'периштелерине буйрук берет' дегенге субъект талап кылынат."
+    },
+    {
+      "kind": "substitution",
+      "subject": "периштелер",
+      "rationale": "מלאכיו 'элчилери' деген да болот; 'периште' кеңири кабыл алынган маани."
+    }
+  ],
+  "translation": "Себеби Ал Өз периштелерине сен жөнүндө буйрук берет — сени бардык жолдордо сактоо үчүн.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "a5a4894d74fc193c3ca0dfa439a04dd5948d5f5feea6dee3f80b1e544db1e7a0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/91\/9-12.1791216842846.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Себеби"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "Өз периштелерине"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "буйрук берет"
+    },
+    {
+      "surface": "לך",
+      "gloss": "сен жөнүндө"
+    },
+    {
+      "surface": "לשמרך",
+      "gloss": "сени сактоо үчүн"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "бардык"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "жолдордо"
+    }
+  ],
+  "timestamp": "2026-10-05T16:14:02.847004426Z",
+  "model": "glm-5.3"
+}

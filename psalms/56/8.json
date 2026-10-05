@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 56:8",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 56,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "על און פלט למו",
+      "rationale": "суроо («жамандык менен кутулушабы?» — KJV) же буйрук дагы («жамандыктан аларды куткар» варианты бар)"
+    },
+    {
+      "kind": "addition",
+      "subject": "суроо белгиси",
+      "rationale": "ивритте суроо белгиси жок; суроо мааниси интонация менен берилген"
+    }
+  ],
+  "translation": "Жамандык менен качып кутулушабы? Ачуң менен элдерди кулат, Элохим.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "ecc13b0c2336edb4420eb17561ef44c6826d10fcfb9e63b65f7c38429f3da8bd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/56\/5-8.1791216225353.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "менен"
+    },
+    {
+      "surface": "און",
+      "gloss": "жамандык"
+    },
+    {
+      "surface": "פלט",
+      "gloss": "качып кутулушабы"
+    },
+    {
+      "surface": "למו",
+      "gloss": "алар"
+    },
+    {
+      "surface": "באף",
+      "gloss": "ачуң менен"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "элдерди"
+    },
+    {
+      "surface": "הורד",
+      "gloss": "кулат"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    }
+  ],
+  "timestamp": "2026-10-05T16:03:45.354160726Z",
+  "model": "glm-5.3"
+}

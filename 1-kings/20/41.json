@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-kings 20:41",
+  "book": "1-kings",
+  "lang": "ky",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "האפר",
+      "rationale": "KJV 'ashes' vs ASV\/JPS 'headband' — көз үстүнөн алынган оромал (байланган жоолук), чаң эмес."
+    },
+    {
+      "kind": "elision",
+      "subject": "אתו",
+      "rationale": "Кыргызча айрым объект маркери жок, ⟨את⟩ гана сакталды."
+    }
+  ],
+  "translation": "Ал шапылдап көзүнөн ⟨את⟩ оромалды алып таштады, жана Йисраэлдин падышасы ⟨את⟩ аны тааныды — пайгамбарлардан экен.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "52dcaee654f511a8f2f1b6f18da77b8427784ef7f9be69612fadaea615fccfb2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-kings\/20\/41-43.1791208472590.json",
+    "code": "641241cf-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימהר",
+      "gloss": "шапылдап"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "алып таштады"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "оромал"
+    },
+    {
+      "surface": "האפר",
+      "gloss": "оромал"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "−дан"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "көзүнөн"
+    },
+    {
+      "surface": "ויכר",
+      "gloss": "тааныды"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ аны",
+      "marks": "аны"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "падышасы"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэлдин"
+    },
+    {
+      "surface": "כי",
+      "gloss": "−гө"
+    },
+    {
+      "surface": "מהנבאים",
+      "gloss": "пайгамбарлардан"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "экен"
+    }
+  ],
+  "timestamp": "2026-10-05T13:54:32.590805068Z",
+  "model": "glm-5.3"
+}

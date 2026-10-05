@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "1-kings 1:52",
+  "book": "1-kings",
+  "lang": "ky",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "לֹא יִפֹּל מִשַּׂעֲרָתוֹ אַרְצָה",
+      "rationale": "«анын бир чачы да жерге түшпөйт» — эч жаракат албайт деген идиома, littera сакталды"
+    },
+    {
+      "kind": "alternative",
+      "subject": "בֶּן חַיִל",
+      "rationale": "«эр жүрөк улан» — «күчтүү\/баалуу адам» деген экинчи окуу да мүмкүн (חיל күч, байлык)"
+    }
+  ],
+  "translation": "Шеломо айтты: «Эгерде ал эр жүрөк адам болсо, анын бир чачы да жерге түшпөйт; ал эми эгерде анын ичинен жамандык табылса — ал өлөт».",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "fe0f6e8b22efe7528923b5ba13af46455edf6be4fc7d7c3abc22c6da205efe2b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-kings\/1\/49-52.1791207973724.json",
+    "code": "641241cf-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шеломо"
+    },
+    {
+      "surface": "אם",
+      "gloss": "эгерде"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "болсо"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "улан"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "эр жүрөк"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "түшпөйт"
+    },
+    {
+      "surface": "משערתו",
+      "gloss": "анын чачы"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "жерге"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ал эми эгерде"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "жамандык"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "табылса"
+    },
+    {
+      "surface": "בו",
+      "gloss": "анын ичинен"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "өлөт"
+    }
+  ],
+  "timestamp": "2026-10-05T13:46:13.725376114Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 31:18",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "rationale": "‘берді’ этиши ‘ал’ багытын өзүндө көтөрөт, орун ээлик жалгоо жетиштүү"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨аны менен⟩",
+      "rationale": "אתו — ‘анын жанында\/менен’ предлог; кыргызча так маанида берилди"
+    }
+  ],
+  "translation": "Яхве Синай тоосунда ⟨аны менен⟩ сүйлөп бүткөндөн кийин Мошеге күбөлүктүн эки таш тактасын — таш такталарды, Элохимдин манжасы менен жазылгандарды берди.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "0f8ad6a11f7c2f987950f19a3404b0a212673d186b2dd5fde73572986c11d585",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/31\/17-18.1791202563260.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "берди"
+    },
+    {
+      "surface": "אל",
+      "gloss": "→"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Мошеге"
+    },
+    {
+      "surface": "ככלתו",
+      "gloss": "бүткөндөн кийин"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "сүйлөөнү"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ аны менен",
+      "marks": "аны"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "тоосунда"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Синай"
+    },
+    {
+      "surface": "שני",
+      "gloss": "эки"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "тактасын"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "күбөлүктүн"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "такталарды"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "таш"
+    },
+    {
+      "surface": "כתבים",
+      "gloss": "жазылган"
+    },
+    {
+      "surface": "באצבע",
+      "gloss": "манжасы менен"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохимдин"
+    }
+  ],
+  "timestamp": "2026-10-05T12:16:03.261937907Z",
+  "model": "glm-5.3"
+}

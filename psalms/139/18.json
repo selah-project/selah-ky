@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 139:18",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 139,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ойгондум, дагы эле Сен мененмин",
+      "rationale": "הֱקִיצֹתִי וְעוֹדִי עִמָּךְ: «ойгондум жана дагы эле Сен мененмин» же, башка окуу боюнча, «алардын аягына жетсем да, дагы эле Сен мененмін» (JPS)"
+    },
+    {
+      "kind": "measurement",
+      "subject": "139:18",
+      "rationale": "Кум менен салыштырып саноо"
+    }
+  ],
+  "translation": "Мен аларды эсептесем — алар кумдан көп; ойгондум, дагы эле Сен мененмин.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "5f1308854f1c29eb210d34e9b38332f8fcb9733b46c0dfa608ccb6c3073ebdf5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/139\/17-20.1791217572404.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אספרם",
+      "gloss": "Мен аларды эсептесем"
+    },
+    {
+      "surface": "מחול",
+      "gloss": "кумдан"
+    },
+    {
+      "surface": "ירבון",
+      "gloss": "көп"
+    },
+    {
+      "surface": "הקיצתי",
+      "gloss": "ойгондум"
+    },
+    {
+      "surface": "ועודי",
+      "gloss": "дагы эле"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "Сен мененмин"
+    }
+  ],
+  "timestamp": "2026-10-05T16:26:12.405038262Z",
+  "model": "glm-5.3"
+}

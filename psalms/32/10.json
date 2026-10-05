@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 32:10",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "адамды",
+      "rationale": "ивритте «анда» деген констрактыта кыргызча «таянган адамды» деген сөз кошулду"
+    },
+    {
+      "kind": "substitution",
+      "subject": "хесед",
+      "rationale": "חסед сөзү айтылышы боюнча сакталды; «ырайым» гана деген котормо тар маани берет"
+    }
+  ],
+  "translation": "Көп азаптар күнөөкөргө болот, ал эми Яхвеге таянган адамды хесед курчап турат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "3f2afa0e392ea3a3152d4f2983eb0bda625507eb2f57410ad6a6574b6c0d5cea",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/32\/9-11.1791215819569.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "көп"
+    },
+    {
+      "surface": "מכאובים",
+      "gloss": "азаптар"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "күнөөкөргө"
+    },
+    {
+      "surface": "והבוטח",
+      "gloss": "таянган"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Яхвеге"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "хесед"
+    },
+    {
+      "surface": "יסובבנו",
+      "gloss": "курчап турат"
+    }
+  ],
+  "timestamp": "2026-10-05T15:56:59.570748581Z",
+  "model": "glm-5.3"
+}

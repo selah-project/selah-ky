@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 71,
+  "ref": "psalms 78:71",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "багуу",
+      "rationale": "לרעעת: кой багуу (KJV, JPS) же башкаруу (YLT) — тамыры רעה эки мааниде да колдонулат"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עלות",
+      "rationale": "«эмчек берүүчү» деген тамыр — Давид төлдөрүн багып жүргөн койчудан эл багуучуга өтөт, сүрөт окшош"
+    }
+  ],
+  "translation": "Төлдөгөн ургаачы койлорду ээрчип жүргөн жеринен ал аны Яаковту — Өз элин — жана Йисраэлди — Өз мурасын — багуу үчүн алып келди.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "25a17ec22a3581843e01c64f78089144b19a6c6669c883c1d7c8d3140f0fea70",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/78\/69-72.1791216625343.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מאחר",
+      "gloss": "артынан"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "төлдөгөн ургаачы койлорду"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "алып келди"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "багуу үчүн"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "Яаковту"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "Өз элин"
+    },
+    {
+      "surface": "ובישראל",
+      "gloss": "жана Йисраэлди"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "Өз мурасын"
+    }
+  ],
+  "timestamp": "2026-10-05T16:10:25.343740704Z",
+  "model": "glm-5.3"
+}

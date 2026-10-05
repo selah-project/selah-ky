@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 38:15",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "сындар",
+      "rationale": "תוכחות — такталоо, насыят айтуу, бетин ачуу; «сын» эң жакын эквивалент"
+    }
+  ],
+  "translation": "Мен укпаган адам сыяктуу болдум, оозунда сындар жок.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "15ecc37329783fe2dd5340cf9baf2798718760c5537513fb17315b6ee0d50b2d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/38\/13-16.1791215982034.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "болдум"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "адам сыяктуу"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ал"
+    },
+    {
+      "surface": "לא",
+      "gloss": "эмес"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "укпаган"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "жок"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "оозунда"
+    },
+    {
+      "surface": "תוכחות",
+      "gloss": "сындар"
+    }
+  ],
+  "timestamp": "2026-10-05T15:59:42.035146308Z",
+  "model": "glm-5.3"
+}

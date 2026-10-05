@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 9:11",
+  "book": "zechariah",
+  "lang": "ky",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "сен",
+      "rationale": "Яхве Цийонго (элге) түз кайрылат: «келишимиңдин каны»."
+    },
+    {
+      "kind": "alternative",
+      "subject": "מבור",
+      "rationale": "«Чуңкур» баягы түрмө-чуңкур (Башталыш 37:20, Иеремия 38:6) — жер алдындагы карматылган орун."
+    },
+    {
+      "kind": "substitution",
+      "subject": "אין מים בו",
+      "rationale": "«анда суу жок» түз болочо, кыргызча «суусуз» ат сүйлөмге айланды."
+    }
+  ],
+  "translation": "Сен да — келишимиңдин каны аркылуу Мен туткундарыңды суусуз чуңкурдан чыгарып жибердим.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "328e896dac3c91815543bee16c2931fb51a08beb9a3eba2c9b8e90d2d2cb3ed7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/zechariah\/9\/9-12.1791215118424.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "да"
+    },
+    {
+      "surface": "את",
+      "gloss": "Сен"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "каны аркылуу"
+    },
+    {
+      "surface": "בריתך",
+      "gloss": "келишимиңдин"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "чыгарып жибердим"
+    },
+    {
+      "surface": "אסיריך",
+      "gloss": "туткундарыңды"
+    },
+    {
+      "surface": "מבור",
+      "gloss": "чуңкурдан"
+    },
+    {
+      "surface": "אין",
+      "gloss": "суусуз"
+    },
+    {
+      "surface": "מים",
+      "gloss": "суу"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟨анда⟩"
+    }
+  ],
+  "timestamp": "2026-10-05T15:45:18.425567750Z",
+  "model": "glm-5.3"
+}

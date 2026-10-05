@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 62:12",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 62,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "כי",
+      "rationale": "'Кубат Элохимдики' деген айтымда ылайыкташтыруу бөлүкчөсү керексиз болуп калды."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "бир жолу \/ эки жолу",
+      "rationale": "Еврейче сан ырагы: бир сөз, эки угуу — күчөтүү ыкмасы."
+    }
+  ],
+  "translation": "Бир жолу сүйлөдү Элохим, эки жолу уккам муну: кубат Элохимдики.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "0a379c45e89b57afba656b2e3fe66866950528260cc037bfb6ce8e6748a6f84b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/62\/9-12.1791216318236.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "Бир жолу"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сүйлөдү"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "эки жолу"
+    },
+    {
+      "surface": "זו",
+      "gloss": "муну"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "уккам"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "עז",
+      "gloss": "кубат"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Элохимдики"
+    }
+  ],
+  "timestamp": "2026-10-05T16:05:18.237832352Z",
+  "model": "glm-5.3"
+}

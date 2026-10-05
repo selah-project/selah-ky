@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 81:10",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 81,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "керек",
+      "rationale": "Ивритте этиштин этиштери жок; кыргызча буйрук мааниси «керек» аркылуу берилди"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "זר\/נכר",
+      "rationale": "Эки синоним «бөтөн» сөзү — paronomasia, кыргызча айырма жоголууда"
+    }
+  ],
+  "translation": "Сенин араларыңда бөтөн Эл болбошу керек, жана бөтөн элдин Элине сыйынбашың керек.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "0d5013afb3c56e3e804712f67a3c7150e9baa1b68a5db1d173e15345afe54ae4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/81\/9-12.1791216638186.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "болот"
+    },
+    {
+      "surface": "בך",
+      "gloss": "сенин араларыңда"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эл"
+    },
+    {
+      "surface": "זר",
+      "gloss": "бөтөн"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "жана жок"
+    },
+    {
+      "surface": "תשתחוה",
+      "gloss": "сыйынбашың керек"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "Элине"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "бөтөн элдин"
+    }
+  ],
+  "timestamp": "2026-10-05T16:10:38.187751749Z",
+  "model": "glm-5.3"
+}

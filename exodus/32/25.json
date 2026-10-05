@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 32:25",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "чечилген",
+      "rationale": "פרע: 'жылаңайлак' (KJV), 'ээрчитилбеген' (YSB), 'боштондукка чечилген' (JPS) — тамыр мааниси 'чечүү, бошотуу'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "פרע…פרעה",
+      "rationale": "Эки жолу 'чечүү' тамыры кайталанат — эл чечилген, анткени Аарон чечкен; кыргызча бул үндөштүк сакталды."
+    }
+  ],
+  "translation": "Моше ⟨את⟩ элди көрдү — анткени ал чечилген эле, анткени Аарон аны каршы чыккандардын ичинде шерменде кылуу үчүн чечип салган.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "204bd0cbcc38ce6bd8cb7c972bd0136afc21dcf57eee0aed76ce0c57c83d7861",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/32\/25-28.1791202616914.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "көрдү"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "элди"
+    },
+    {
+      "surface": "העם",
+      "gloss": "элди"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "פרע",
+      "gloss": "чечилген"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ал"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "чечип салган"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Аарон"
+    },
+    {
+      "surface": "לשמצה",
+      "gloss": "шерменде кылуу үчүн"
+    },
+    {
+      "surface": "בקמיהם",
+      "gloss": "каршы чыккандардын ичинде"
+    }
+  ],
+  "timestamp": "2026-10-05T12:16:56.915027581Z",
+  "model": "glm-5.3"
+}

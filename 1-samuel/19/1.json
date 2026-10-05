@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 19:1",
+  "book": "1-samuel",
+  "lang": "ky",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Шаул → Йонатан жана кызматчылары",
+      "rationale": "Шаулдун өлтүрүү буйругу Йонатанга жана кызматчыларына багытталган сүйлөө."
+    },
+    {
+      "kind": "substitution",
+      "subject": "жактыруучу",
+      "rationale": "חפץ 'ийилип, каалоого жакын болуу' — жүрөктөн чыккан каалоо, кыргызча 'жактыруу' менен берилди."
+    }
+  ],
+  "translation": "Шаул өз уулу Йонатанга жана бардык кызматчыларына Давидди ⟨את⟩ өлтүрүүнү буйруду, ал эми Шаулдун уулу Йонатан Давидди өтө эле жактыруучу.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "8aa75d55e958161244f0b5750fd14d1a199e0a0c6a110c5ab9cfb236f7ad040f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-samuel\/19\/1-4.1791207074304.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "сүйлөдү"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "אל",
+      "gloss": "га"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Йонатан"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "уулу"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "жана …га"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бардык"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "кызматчылары"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "өлтүрүү үчүн"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Давидди"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "ал эми Йонатан"
+    },
+    {
+      "surface": "בן",
+      "gloss": "уулу"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "жактыруучу"
+    },
+    {
+      "surface": "בדוד",
+      "gloss": "Давидди"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "өтө"
+    }
+  ],
+  "timestamp": "2026-10-05T13:31:14.305113524Z",
+  "model": "glm-5.3"
+}

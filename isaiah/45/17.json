@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 45:17",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "менен",
+      "rationale": "בinstrumentалдык мүчө кыргызча «менен» предлоги аркылуу берилди"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נושע\/תשועת",
+      "rationale": "жанаша жаткан «куткарылды» жана «куткаруу» — бир тамырдын кайталанышы, кыргызча да сакталды"
+    }
+  ],
+  "translation": "Йисраэл Яхве менен куткарылды — түбөлүктүү куткаруу! Силер уялбайсыңар жана маскара болбойсуңар, түбөлүктүн түбөлүгүнө чейин.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "14b14985e7217244347027751991e16b06f2ef0b41cfb5c9311d74c8bec6e1d7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/45\/17-20.1791210325993.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэл"
+    },
+    {
+      "surface": "נושע",
+      "gloss": "куткарылды"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Яхве менен"
+    },
+    {
+      "surface": "תשועת",
+      "gloss": "куткаруу"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "түбөлүктүү"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "תבשו",
+      "gloss": "уялбайсыңар"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "жана жок"
+    },
+    {
+      "surface": "תכלמו",
+      "gloss": "маскара болбойсуңар"
+    },
+    {
+      "surface": "עד",
+      "gloss": "чейин"
+    },
+    {
+      "surface": "עולמי",
+      "gloss": "түбөлүктүн"
+    },
+    {
+      "surface": "עד",
+      "gloss": "түбөлүгүнө"
+    }
+  ],
+  "timestamp": "2026-10-05T14:25:25.994582246Z",
+  "model": "glm-5.3"
+}

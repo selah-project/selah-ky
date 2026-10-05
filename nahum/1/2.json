@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nahum 1:2",
+  "book": "nahum",
+  "lang": "ky",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "каарын",
+      "rationale": "«сактайт» этишинин объектиси ивритте аталбайт, тек «каар» тамырынан көрүнүп турат"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נקם ×3",
+      "rationale": "«өч алуу» тамыры үч жолу кайталанат — Яхвенин өч алуучулугунун үч жолку бекемделиши, кыргызча да кайталоо менен берилди"
+    }
+  ],
+  "translation": "Кызганычтуу Эл жана өч алуучу Яхве; Яхве өч алат жана каардын ээси; Яхве Өзүнө тескери болгондордон өч алат жана душмандары үчүн ⟨каарын⟩ сактайт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "2ebbb6931ae5855cb340590379b9f43170167cde96d4d885128229fa5f4b1321",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/nahum\/1\/1-4.1791214694485.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Эл"
+    },
+    {
+      "surface": "קנוא",
+      "gloss": "Кызганычтуу"
+    },
+    {
+      "surface": "ונקם",
+      "gloss": "жана өч алуучу"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "өч алат"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "жана ... ээси"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "каардын"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "өч алат"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "לצריו",
+      "gloss": "Өзүнө тескери болгондордон"
+    },
+    {
+      "surface": "ונוטר",
+      "gloss": "жана сактайт"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Ал"
+    },
+    {
+      "surface": "לאיביו",
+      "gloss": "душмандары үчүн"
+    }
+  ],
+  "timestamp": "2026-10-05T15:38:14.486512402Z",
+  "model": "glm-5.3"
+}

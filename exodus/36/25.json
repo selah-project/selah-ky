@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 36:25",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "бүйүр",
+      "rationale": "צלע literally 'rib' (curved side); rendered 'бүйүр' (side of a structure)"
+    },
+    {
+      "kind": "measurement",
+      "subject": "жыйырма тактай",
+      "rationale": "Count of frame boards for the north side"
+    }
+  ],
+  "translation": "Жана Мишкандын экинчи бүйүрү үчүн, түндүк тарапта, жыйырма тактай жасады.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "5c989036cdd483609883608c8d9a616fcad9bccd7c5e33d0d49ffb73b71bc5af",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/36\/25-28.1791202672288.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולצלע",
+      "gloss": "жана … бүйүрү үчүн"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Мишкандын"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "экинчи"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "тарабында"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "түндүк"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "жасады"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "жыйырма"
+    },
+    {
+      "surface": "קרשים",
+      "gloss": "тактай"
+    }
+  ],
+  "timestamp": "2026-10-05T12:17:52.288665521Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 27:22",
+  "book": "proverbs",
+  "lang": "ky",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "жарманын ортосунда",
+      "rationale": "בתוך הריפות: 'жарманын ичинде' — акылсыз жарма менен кошо түйүлөт, дегенче 'сокунун ичинде' деп да окулат."
+    }
+  ],
+  "translation": "Эгер ⟨את⟩ акылсызды сокуга салып, жарманын ортосунда түйгүлөп урсаң да, анын акылсыздыгы андан кетпейт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "089b685c2516269e15c418bcd57debee709475f2cd6e2e5206c61eaa0805a22f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/27\/21-24.1791218419120.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "эгер"
+    },
+    {
+      "surface": "תכתוש",
+      "gloss": "түйгүлөп урсаң да"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "акылсызды"
+    },
+    {
+      "surface": "האויל",
+      "gloss": "акылсызды"
+    },
+    {
+      "surface": "במכתש",
+      "gloss": "сокуга салып"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ортосунда"
+    },
+    {
+      "surface": "הריפות",
+      "gloss": "жарманын"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "түйгүлөп"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "תסור",
+      "gloss": "кетпейт"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "андан"
+    },
+    {
+      "surface": "אולתו",
+      "gloss": "акылсыздыгы"
+    }
+  ],
+  "timestamp": "2026-10-05T16:40:19.121200556Z",
+  "model": "glm-5.3"
+}

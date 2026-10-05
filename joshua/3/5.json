@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 3:5",
+  "book": "joshua",
+  "lang": "ky",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "мыктылыктарды",
+      "rationale": "נפלאות — «ажайып иштер», «кереметтер»; кыргызча «мыктылык» жакын маани берет"
+    },
+    {
+      "kind": "you",
+      "subject": "элге",
+      "rationale": "Йехошуа бүт Йисраэл элине кайрылат"
+    }
+  ],
+  "translation": "Жана Йехошуа элге айтты: Өзүңөрдү ыйыктаңдар, анткени эртең Яхве силердин аркаңарда мыктылыктарды жасайт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "86a2358d45a1ada112fb21cab48e93067e12010bcb825e11e7f364afb5ba08cb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/joshua\/3\/5-8.1791205557081.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "жана … айтты"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Йехошуа"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ге"
+    },
+    {
+      "surface": "העם",
+      "gloss": "эл"
+    },
+    {
+      "surface": "התקדשו",
+      "gloss": "өзүңөрдү ыйыктаңдар"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "эртең"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "жасайт"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "силердин аркаңарда"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "мыктылыктарды"
+    }
+  ],
+  "timestamp": "2026-10-05T13:05:57.082074156Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 36:8",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "эки миң жылкы",
+      "rationale": "Аскерий күчтү сандар менен өлчөп шылдыңдоо: эки миң жылкы берер элек, бирок минүүчү жок."
+    },
+    {
+      "kind": "crux",
+      "subject": "התערב",
+      "rationale": "Кепилдик бериңиз (KJV «give pledges»), ставка коюңуз (JPS «make a wager») же сүйлөшүп алыңыз — тамыр «алмашуу, күрөө кылышуу» деген мааниде."
+    }
+  ],
+  "translation": "Жана азыр сүйлөшүп ал, суранам, ⟨את⟩ мырзам Ашшур падышасы менен, жана мен сага эки миң жылкы берем, эгер сен өзүңө аларга минүүчүлөрдү коюуга жөндөү болсоң.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "41d676a5ef2f3a0e6b03ec7bfe7ae42995ac5b051b28f26855d4c9caf65334d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/36\/5-8.1791210109300.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Жана азыр"
+    },
+    {
+      "surface": "התערב",
+      "gloss": "сүйлөшүп ал"
+    },
+    {
+      "surface": "נא",
+      "gloss": "суранам"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "мырзам Ашшур падышасы"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "мырзам"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "падышасы"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ашшурдун"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "жана берем"
+    },
+    {
+      "surface": "לך",
+      "gloss": "сага"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "эки миң"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "жылкы"
+    },
+    {
+      "surface": "אם",
+      "gloss": "эгер"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "жөндөү болсоң"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "коюуга"
+    },
+    {
+      "surface": "לך",
+      "gloss": "өзүңө"
+    },
+    {
+      "surface": "רכבים",
+      "gloss": "минүүчүлөрдү"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "аларга"
+    }
+  ],
+  "timestamp": "2026-10-05T14:21:49.301355826Z",
+  "model": "glm-5.3"
+}

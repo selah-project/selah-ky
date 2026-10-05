@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 29:5",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "кара жыгачтарды",
+      "rationale": "Биринчи ארזים ээлик формасыз — кыргызча тактоо үчүн кошулду"
+    }
+  ],
+  "translation": "Яхвенин үнү кара жыгачтарды сындырат, жана Яхве Ливанебен ⟨את⟩ кедрлерин сындырды.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "007ebbf8d910a3c8e7e7d2e2d2e22dba0019bd0f8e94a2bfbc19dc384540295b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/29\/5-8.1791215673161.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "үнү"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "сындырат"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "кедрлерди"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "жана сындырды"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ливанебен кедрлерин"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "кедрлерин"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "Ливанебен"
+    }
+  ],
+  "timestamp": "2026-10-05T15:54:33.162305905Z",
+  "model": "glm-5.3"
+}

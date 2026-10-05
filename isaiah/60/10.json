@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 60:10",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 60,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Мен",
+      "rationale": "еврейче этиштин жак мүчөсү гана, «Мен» ат атооч кошулду"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בקצפי\/וברצוני",
+      "rationale": "каар жана ыраазылык каршы коюлган параллелдүүлүк"
+    }
+  ],
+  "translation": "Жана бөтөн элдин уулдары дубалдарыңды куруп чыгышат, алардын падышалары сага кызмат кылышат, анткени Өз каарымда Мен сени урдум, жана Өз ыраазылыгымда сени боорукердик кылдым.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "e2274909abaf17382b4b98f49589b8ab97b238f8d83b1536cbd2390c671c697e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/60\/9-12.1791210549172.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "жана куруп чыгышат"
+    },
+    {
+      "surface": "בני",
+      "gloss": "уулдары"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "бөтөн элдин"
+    },
+    {
+      "surface": "חמתיך",
+      "gloss": "дубалдарыңды"
+    },
+    {
+      "surface": "ומלכיהם",
+      "gloss": "жана алардын падышалары"
+    },
+    {
+      "surface": "ישרתונך",
+      "gloss": "сага кызмат кылышат"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "בקצפי",
+      "gloss": "Өз каарымда"
+    },
+    {
+      "surface": "הכיתיך",
+      "gloss": "Мен сени урдум"
+    },
+    {
+      "surface": "וברצוני",
+      "gloss": "жана Өз ыраазылыгымда"
+    },
+    {
+      "surface": "רחמתיך",
+      "gloss": "сени боорукердик кылдым"
+    }
+  ],
+  "timestamp": "2026-10-05T14:29:09.172933673Z",
+  "model": "glm-5.3"
+}

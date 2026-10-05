@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 8:13",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Йисраэлге \/ пайгамбардын угуучуларына",
+      "rationale": "Кошулча санда тике кайрылуу: ыйык кылыңар, коркууңар"
+    },
+    {
+      "kind": "elision",
+      "subject": "אתו",
+      "rationale": "Интонологиялык объект белгиси түшүрүлдү, мааниси «Аны» кыргызча этиш менен берилди"
+    }
+  ],
+  "translation": "Яхве Цебаотту ⟨את⟩ ыйык кылыңар; ал — силердин коркууңар, ал — силердин титирегеңер.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "d68edc4e0241c4a532cfc10469ab978202e514b13b9bddf4c3e633ee42a88a78",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/8\/13-16.1791209444396.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яхве Цебаотту"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цебаот"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ыйык кылыңардын объектиси — Аны"
+    },
+    {
+      "surface": "תקדישו",
+      "gloss": "ыйык кылыңар"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ал"
+    },
+    {
+      "surface": "מוראכם",
+      "gloss": "коркууңар"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ал"
+    },
+    {
+      "surface": "מערצכם",
+      "gloss": "титирегеңер"
+    }
+  ],
+  "timestamp": "2026-10-05T14:10:44.397261396Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 2:1",
+  "book": "leviticus",
+  "lang": "ky",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "неже",
+      "rationale": "נפש — «жан\/дем алуучу жандык», кыргызча «жандын руху» менен жумшартылды"
+    },
+    {
+      "kind": "addition",
+      "subject": "болсун",
+      "rationale": "יהיה буйрук маанисинде: «анын курмандыгы сулу ун болот»"
+    },
+    {
+      "kind": "elision",
+      "subject": "כי",
+      "gloss": "шарттык «са» мүчөсү менен берилди, өзүнчө сөз жок"
+    }
+  ],
+  "translation": "Жана бир жандын руху Яхвеге минха курмандыгын алып келсе, анын курмандыгы сулу унунан болсун; жана ага май куюп, ага лаван койсун.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "1ed7f38f8483914aa16183040be31cb682f3b1ec4df0c29cdc017130667c87c2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/2\/1-4.1791202828797.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונפש",
+      "gloss": "жана бир жандын руху"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…са"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "алып келсе"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "курмандык"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "минха"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхвеге"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "сулу ун"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "болсун"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "анын курмандыгы"
+    },
+    {
+      "surface": "ויצק",
+      "gloss": "жана куюп"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ага"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "май"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "жана койсун"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ага"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "лаваң"
+    }
+  ],
+  "timestamp": "2026-10-05T12:20:28.797578016Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 9:10",
+  "book": "2-kings",
+  "lang": "ky",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בחלק",
+      "rationale": "'участок\/талаң' же 'Ызраэл шаарынын аймагы' — KJV 'portion', Wycliffe 'field'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "קבר",
+      "rationale": "Этиш 'койгону жок' — еврейче 'коюучу жок' маанисинде этиш"
+    },
+    {
+      "kind": "addition",
+      "subject": "ал",
+      "rationale": "Субъект кошулду — еврей текстте жок, ким ачканы контексттен көрүнөт"
+    }
+  ],
+  "translation": "Жана ⟨את⟩ Изебелди Ызраэл участогунда иттер жейт, аны койгону жок болот. Жана ⟨ал⟩ эшикти ачып, качып кетти.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "6d5a247054c90c870d6ea2a632a05ef82067d1c9f75167975567efe211bf34b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-kings\/9\/9-12.1791208820622.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "жана ⟨את⟩",
+      "marks": "Изебелди"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Изебелди"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "жейт"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "иттер"
+    },
+    {
+      "surface": "בחלק",
+      "gloss": "участогунда"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Ызраэл"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "жок болот"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "койгону"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "ачып"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "эшикти"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "качып кетти"
+    }
+  ],
+  "timestamp": "2026-10-05T14:00:20.623288730Z",
+  "model": "glm-5.3"
+}

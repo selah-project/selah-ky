@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 18:1",
+  "book": "1-kings",
+  "lang": "ky",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "өттү",
+      "rationale": "ויהי — «болду» деген байланыштык кыргызча этиш менен берилди"
+    },
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "rationale": "Элияхуга барууну билдирген אל предлоги кыргызча багыттоо мүчөсү менен жутулду"
+    },
+    {
+      "kind": "measurement",
+      "subject": "үчүнчү жылы",
+      "rationale": "кургакчылыктын үчүнчү жылы — так эсеп"
+    }
+  ],
+  "translation": "Көп күн өттү, жана Яхвенин сөзү үчүнчү жылы Элияхуга келди, мыны деп: Бар, Ахавга көрүн, жана жаанды жердин бетине берем.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "781c82a8b834ea216c90b635122e729291a135ea44a2d53a3a05042c8dcdc845",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-kings\/18\/1-4.1791208460432.json",
+    "code": "641241cf-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "өттү"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "күн"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "көп"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "жана сөзү"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    },
+    {
+      "surface": "היה",
+      "gloss": "келди"
+    },
+    {
+      "surface": "אל",
+      "gloss": "жөнүндө эмес, —"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Элияхуга"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "жылы"
+    },
+    {
+      "surface": "השלישית",
+      "gloss": "үчүнчү"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "мыны деп"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Бар"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "көрүн"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ахавга"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "жана берем"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "жаанды"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстүнө"
+    },
+    {
+      "surface": "פני",
+      "gloss": "бетине"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "жердин"
+    }
+  ],
+  "timestamp": "2026-10-05T13:54:20.433441609Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 31:14",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מות יומת",
+      "rationale": "Эврей инфинитив-абсолюттук катаалдуулугу: «өлүм менен өлтүрүлөт»"
+    },
+    {
+      "kind": "substitution",
+      "subject": "жан",
+      "rationale": "נפש — «дем алуучу жандык, жашоо күчү», «жан» деген түшүнүктөн кененирээк"
+    }
+  ],
+  "translation": "⟨את⟩ Шаббатты кармагыла, анткени ал силерге ыйык; аны бузгандар өлүм менен өлтүрүлөт, анткени анда иш жасаган ар бир жан өз элинин ичинен кесилип ташталат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "cae0e4c5a202d80ae60ba94edb0f1bb7308add0fdcc87751baae82b411c2623b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/31\/13-16.1791202529766.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "кармагыла"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Шаббатты"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Шаббатты"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ыйык"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ал"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "силерге"
+    },
+    {
+      "surface": "מחלליה",
+      "gloss": "аны бузгандар"
+    },
+    {
+      "surface": "מות",
+      "gloss": "өлүм"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "өлтүрүлөт"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ар бир"
+    },
+    {
+      "surface": "העשה",
+      "gloss": "жасаган"
+    },
+    {
+      "surface": "בה",
+      "gloss": "анда"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "иш"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "кесилип ташталат"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "жан"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ал"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "ичинен"
+    },
+    {
+      "surface": "עמיה",
+      "gloss": "өз элинин"
+    }
+  ],
+  "timestamp": "2026-10-05T12:15:29.768354167Z",
+  "model": "glm-5.3"
+}

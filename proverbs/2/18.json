@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 2:18",
+  "book": "proverbs",
+  "lang": "ky",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "рефимдер",
+      "rationale": "רפאים — өлгөндөрдүн арбактары; көпчүлүк котормолор 'өлгөндөр' деп алат, формасы сакталды"
+    },
+    {
+      "kind": "crux",
+      "subject": "שחה",
+      "rationale": "'ооп турат' (KJV inclineth) же 'батып барат' (JPS\/BSB sinketh down) — эки окшош эмес сүрөт"
+    }
+  ],
+  "translation": "Анткени анын үйү өлүм тарапка ооп турат, анын жолдору рефимдерге.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "e9a0b7110083cd112e2542f5a96157b4409c2b841884b13041db69e657ce1932",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/2\/17-20.1791217763430.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "שחה",
+      "gloss": "ооп турат"
+    },
+    {
+      "surface": "אל",
+      "gloss": "тарапка"
+    },
+    {
+      "surface": "מות",
+      "gloss": "өлүм"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "анын үйү"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "жана … тарапка"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "рефимдерге"
+    },
+    {
+      "surface": "מעגלתיה",
+      "gloss": "анын жолдору"
+    }
+  ],
+  "timestamp": "2026-10-05T16:29:23.431457816Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 89:14",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "бар",
+      "rationale": "Еврей текстте 'бар' жок — 'Сенде билек кудурет менен' деген ээлик конструкция"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יד\/ימין",
+      "rationale": "Кол жана оң кол өзгөчөлөнгөн — эки сөз тең күздүн сүрөтү, кыргызча окшоштук сакталды"
+    }
+  ],
+  "translation": "Сенде ⟨бар⟩ билек, кудурет менен; Сенин колуң күчтүү, Сенин оң колуң бийик.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "bd7c909ace50b8d7a0eefd8ecd82daebaa3f2d236bb70cb9c172f5a72315f6d2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/89\/13-16.1791216793861.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Сенде"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "билек"
+    },
+    {
+      "surface": "עם",
+      "gloss": "менен"
+    },
+    {
+      "surface": "גבורה",
+      "gloss": "кудурет"
+    },
+    {
+      "surface": "תעז",
+      "gloss": "күчтүү"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "Сенин колуң"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "бийик"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "Сенин оң колуң"
+    }
+  ],
+  "timestamp": "2026-10-05T16:13:13.862123075Z",
+  "model": "glm-5.3"
+}

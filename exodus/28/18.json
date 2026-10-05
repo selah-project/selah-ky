@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 28:18",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "нофех",
+      "rationale": "«Зумрут» же «гранат» деп талашкан; транслитерация кармалды"
+    },
+    {
+      "kind": "substitution",
+      "subject": "яхалом",
+      "rationale": "KJV «алмаз», башкалары «оникс» дейт; болжолдуу таш аталышы"
+    }
+  ],
+  "translation": "Экинчи катарда нофех, саппир жана яхалом болсун.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "f43b2ea1e09ec8560e49de6b2f5f7e0d8441bbdb8dff13741f46d3551f83b8a3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/28\/17-20.1791202444161.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והטור",
+      "gloss": "жана ⟨катар⟩"
+    },
+    {
+      "surface": "השני",
+      "gloss": "экинчи"
+    },
+    {
+      "surface": "נפך",
+      "gloss": "нофех"
+    },
+    {
+      "surface": "ספיר",
+      "gloss": "саппир"
+    },
+    {
+      "surface": "ויהלם",
+      "gloss": "жана яхалом"
+    }
+  ],
+  "timestamp": "2026-10-05T12:14:04.161890558Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 17:12",
+  "book": "2-kings",
+  "lang": "ky",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "буркандар",
+      "glosses": "",
+      "rationale": "הגללות — «тоголок түтүктөр», кордоо маанисиндеги «жөнөкөй буркандар»."
+    },
+    {
+      "kind": "elision",
+      "subject": "тыюу сөзү",
+      "rationale": "לא תעשו — кыргызча «кылбагыла» бир этишке бириктирилди, эки еврей сөзү бир форма менен берилди."
+    }
+  ],
+  "translation": "жана буркандарга кызмат кылышты, алар жөнүндө Яхве аларга айткан: «Бул ишти ⟨את⟩ кылбагыла».",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "c86d4329dba805bf3791e200eb64a55825c6f6809780aa2e1ff9896225854787",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-kings\/17\/9-12.1791209087162.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "кызмат кылышты"
+    },
+    {
+      "surface": "הגללים",
+      "gloss": "буркандарга"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "алар жөнүндө"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "айткан"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "להם",
+      "gloss": "аларга"
+    },
+    {
+      "surface": "לא",
+      "gloss": "кылбагыла"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "жасагыла"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ишти"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ишти"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "бул"
+    }
+  ],
+  "timestamp": "2026-10-05T14:04:47.163512209Z",
+  "model": "glm-5.3"
+}

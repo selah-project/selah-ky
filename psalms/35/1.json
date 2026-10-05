@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 35:1",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ריבה\/יריבי · לחם\/לחמי",
+      "rationale": "Этиш менен зат атынын кайталанышы (талаш\/талашкандар, согуш\/согушкандар) — еврей сөз оюну."
+    },
+    {
+      "kind": "you",
+      "subject": "to Яхве",
+      "rationale": "Псалом Яхвеге тикелей кайрылуу менен башталат."
+    }
+  ],
+  "translation": "Давидге. Яхве, ⟨את⟩ менен талашкандарымды талаш; ⟨את⟩ менен согушкандарым менен согуш.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "9e54e0c61676270b7f5d6b5458d264a714ab9888762ce540cc682511ab34a194",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/35\/1-4.1791215878475.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Давидге"
+    },
+    {
+      "surface": "ריבה",
+      "gloss": "талаш"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "менен талашкандарымды"
+    },
+    {
+      "surface": "יריבי",
+      "gloss": "менен талашкандарымды"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "согуш"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "менен согушкандарым менен"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "менен согушкандарым менен"
+    }
+  ],
+  "timestamp": "2026-10-05T15:57:58.476264725Z",
+  "model": "glm-5.3"
+}

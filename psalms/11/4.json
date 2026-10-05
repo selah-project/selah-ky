@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 11:4",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "бар",
+      "rationale": "Еврейче байлама жок; кыргыз тили аны талап кылат"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עיניו\/עפעפיו",
+      "rationale": "көз\/кыпак ыргактуу жуп — параллелизм, кыргызча сакталды"
+    },
+    {
+      "kind": "substitution",
+      "subject": "сарай",
+      "rationale": "היכל чоң имарат (сарай же храм); ыйык сарай тандалды"
+    }
+  ],
+  "translation": "Яхве ⟨бар⟩ Өзүнүн ыйык сарайында, Яхвенин тактысы асманда; Анын көздөрү көрөт, Анын кыпыгы адам уулдарын текшерет.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "0c97b87d61b905d6a398ec0dbe7057cdb995b3425e855fa0386b6f9a89fed5de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/11\/4-4.1791224386254.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "сарайында"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "ыйык"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "асманда"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "тактысы"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "көздөрү"
+    },
+    {
+      "surface": "יחזו",
+      "gloss": "көрөт"
+    },
+    {
+      "surface": "עפעפיו",
+      "gloss": "кыпыгы"
+    },
+    {
+      "surface": "יבחנу",
+      "gloss": "текшерет"
+    },
+    {
+      "surface": "בני",
+      "gloss": "уулдары"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "адам"
+    }
+  ],
+  "timestamp": "2026-10-05T18:19:46.255242132Z",
+  "model": "glm-5.3"
+}

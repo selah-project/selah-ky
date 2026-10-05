@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nehemiah 7:4",
+  "book": "nehemiah",
+  "lang": "ky",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "רחבת ידים",
+      "rationale": "Literally 'broad of hands', an idiom for spacious; hands kept literal to preserve the image."
+    },
+    {
+      "kind": "crux",
+      "subject": "בתים בנוים",
+      "rationale": "'Houses not built' vs 'not yet rebuilt' — the verb is plain 'built', kept as is."
+    }
+  ],
+  "translation": "Шаар колдору кең жана чоң, бирок анын ичинде эл аз, жана курулган үйлөр жок.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "d1c812ef748e4f6ec6eb821ebb5fd7a43f19267fd17ad1657fe24f34eb546e88",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/nehemiah\/7\/1-4.1791221430927.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והעיר",
+      "gloss": "шаар"
+    },
+    {
+      "surface": "רחבת",
+      "gloss": "кең"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "колдору"
+    },
+    {
+      "surface": "וגדולה",
+      "gloss": "жана чоң"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "эл"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "аз"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "анын ичинде"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "жок"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "үйлөр"
+    },
+    {
+      "surface": "בנוים",
+      "gloss": "курулган"
+    }
+  ],
+  "timestamp": "2026-10-05T17:30:30.929151055Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 23:28",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "аарылар",
+      "rationale": "הצרעה — 'кара аары' сөзмө-сөз; кээ бир котормочулар символикалык 'коркутуу' деп да окушат"
+    },
+    {
+      "kind": "substitution",
+      "subject": "кууп чыгат",
+      "rationale": "וגרשה — 'кууп чыгуу, сүрүп таштоо'; аары көп санда кабылаланып берилди"
+    }
+  ],
+  "translation": "Жана ⟨את⟩ аарыларды алдыңа жиберем, алар ⟨את⟩ хивиликтерди, ⟨את⟩ кенаандыктарды жана ⟨את⟩ хеттиктерди алдыңдан кууп чыгат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "09aea98edcf83508f9a87ce90569f2bc5090005b642b125e73dd8042a31f12da",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/23\/25-28.1791202329847.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "жиберем"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "аарыларды"
+    },
+    {
+      "surface": "הצרעה",
+      "gloss": "аарыларды"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "алдыңа"
+    },
+    {
+      "surface": "וגרשה",
+      "gloss": "кууп чыгат"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "хивиликтерди"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "хивиликтерди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "кенаандыктарды"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "кенаандыктарды"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "жана ⟨את⟩",
+      "marks": "хеттиктерди"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "хеттиктерди"
+    },
+    {
+      "surface": "מלפניך",
+      "gloss": "алдыңдан"
+    }
+  ],
+  "timestamp": "2026-10-05T12:12:09.848603272Z",
+  "model": "glm-5.3"
+}

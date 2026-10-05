@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 10:17",
+  "book": "jeremiah",
+  "lang": "ky",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "כנעה",
+      "rationale": "כנעתך — бул сөз Танахта ушул жерде гана кездешет; «чүпүрөк», «орук-буюм» маанисинде."
+    },
+    {
+      "kind": "you",
+      "subject": "курчоодо жашаган сен",
+      "rationale": "Аят Иерусалимге (курчоо астындагы калкка) кайрылуу — экинчи жак.single чакыруу."
+    },
+    {
+      "kind": "crux",
+      "subject": "במצור",
+      "rationale": "«Курчоодо» (ASV, JPS) же «бекем жерде» (Geneva) — турак жай же камалоо экени талаштуу."
+    }
+  ],
+  "translation": "Жерден буюмдарыңды жыйнап ал, курчоонун астында жашаган ⟨сен⟩.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "8fa59c9d6972726d009ace5291eb36e8cf6ca6cbf84c3170850657f111264609",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/jeremiah\/10\/17-20.1791210897008.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אספי",
+      "gloss": "жыйнап ал"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "жерден"
+    },
+    {
+      "surface": "כנעתך",
+      "gloss": "буюмдарыңды"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "жашаган ⟨сен⟩"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "курчоонун астында"
+    }
+  ],
+  "timestamp": "2026-10-05T14:34:57.009362233Z",
+  "model": "glm-5.3"
+}

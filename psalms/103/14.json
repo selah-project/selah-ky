@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 103:14",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 103,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "топурак",
+      "rationale": "עפר — топурак, чаң (D4); «күл» эмес."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨биз⟩",
+      "gloss-note": "",
+      "rationale": "עפר אנחנו букв. «топурак биз» — предикативдүү түзүм, кыргызча эркин айтылды."
+    }
+  ],
+  "translation": "Анткени Ал биздин калыбыбызду билген, эстей турат — анткени биз топурабыз.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "8fb404682e6fcceec1c0c687951955156f6b0ffe4ebcd9cec163f0f254815c13",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/103\/13-16.1791216978673.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Ал"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "билген"
+    },
+    {
+      "surface": "יצרנו",
+      "gloss": "калыбыбызды"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "эстей турат"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "топурак"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "биз"
+    }
+  ],
+  "timestamp": "2026-10-05T16:16:18.674324192Z",
+  "model": "glm-5.3"
+}

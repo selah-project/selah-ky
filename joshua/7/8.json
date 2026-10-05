@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 7:8",
+  "book": "joshua",
+  "lang": "ky",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Яхвеге",
+      "rationale": "Йеошуанун Яхвеге дагы тикелей кайрылуусу."
+    },
+    {
+      "kind": "idiom",
+      "subject": "желкесин буруп",
+      "rationale": "הפך ערף — 'желкесин буруу' = качуу, артка качуу деген еврей идиомасы, кыргызча 'моюн буруу' да ушул эле сүрөт."
+    },
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "rationale": "Байланыштыкча кыргызча причастиялык конструкцияга сиңип кеткен, өзүнчө берилген жок."
+    }
+  ],
+  "translation": "О, Адонай, Йисраэл душмандарынын алдына желкесин бургандан кийин мен эмне дейин?",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "ee52f76982f4ca14decf923c60b7470c33893d994e7b8535316f103fc6ded022",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/joshua\/7\/5-8.1791205724936.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בי",
+      "gloss": "О"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "מה",
+      "gloss": "эмне"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "дейин"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "кийин"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "הפך",
+      "gloss": "бургандан"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэл"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "желкесин"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "алдына"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "душмандарынын"
+    }
+  ],
+  "timestamp": "2026-10-05T13:08:44.938233369Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 33:6",
+  "book": "deuteronomy",
+  "lang": "ky",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "мִסְפָּר",
+      "rationale": "«Сан» — көп (YLТ: «сан болсун») же аз (KJV\/JPS: «аз болбосун») маанисинде; төмөнкү тексттер Реувендин аздыгын билдирет."
+    },
+    {
+      "kind": "substitution",
+      "subject": "мְתָיו",
+      "rationale": "Сөз «чоңдойгон эркектер, эр жеткендер» — «эртери» катары берилди."
+    }
+  ],
+  "translation": "Реувен жашасын жана өлбөсүн, жана анын эртери ⟨саналуу⟩ болбосун.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "6e9d28d9e2b9df79ba496eda83cb10d21e792facdb001352efc1f5328b2411c0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/33\/5-8.1791205453984.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יחי",
+      "gloss": "жашасын"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Реувен"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "жана ... бөлсүн"
+    },
+    {
+      "surface": "ימת",
+      "gloss": "өлбөсүн"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "жана ... болсун"
+    },
+    {
+      "surface": "מתיו",
+      "gloss": "анын эртери"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "саналуу"
+    }
+  ],
+  "timestamp": "2026-10-05T13:04:13.985395381Z",
+  "model": "glm-5.3"
+}

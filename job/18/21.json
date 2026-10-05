@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 18:21",
+  "book": "job",
+  "lang": "ky",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨бул⟩",
+      "rationale": "Кыргыз тили тиркемөлүү этишти талап кылат, еврейче жок"
+    },
+    {
+      "kind": "crux",
+      "subject": "Элди билбегендин",
+      "rationale": "לא ידע אל: көпчүлүк котормолор 'Элди билбеген' (адам Элди билбейт), YLT болсо 'Эл билбеген жер' (Эл аны билген жок) деп окуп жатат"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "משכנות עול",
+      "rationale": "Биламддын үчүнчү сөзүнүн корутундусу: залымдын Мишканы — ыйык Мишкандын карама-каршысы, контраст кыргызчада сакталган"
+    }
+  ],
+  "translation": "Чын эле, булар залымдын Мишкандары, жана бул ⟨бул⟩ — Элди билбегендин жери.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "924f3a2efc525b5d3e5b0f6af4a75bb198b929e33c229cacdd6e36ae489b88f7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/job\/18\/21-21.1791218845505.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "чын эле"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "булар"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "Мишкандары"
+    },
+    {
+      "surface": "עול",
+      "gloss": "залымдын"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "жана бул"
+    },
+    {
+      "surface": "мקום",
+      "gloss": "жери"
+    },
+    {
+      "surface": "לא",
+      "gloss": "билбегендин"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "билбегендин"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Элди"
+    }
+  ],
+  "timestamp": "2026-10-05T16:47:25.505907334Z",
+  "model": "glm-5.3"
+}

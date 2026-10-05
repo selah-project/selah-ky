@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 5:7",
+  "book": "job",
+  "lang": "ky",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בני רשף",
+      "rationale": "'Решефтин уулдары' — Решеф: от\/жанын кудайынын аты; көпчүлүк котормо 'учкундар' деп берет, бирок башталыш маанисе — кудай Rochester ысымы сакталышы мүмкүн."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עמל",
+      "rationale": "5:6 дан түз уланат: азап топурактан өспөйт, бирок адам ага туулат."
+    }
+  ],
+  "translation": "Анткени адам азап үчүн туулат, жана учкундар учуп бийик көтөрүлөт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "cd89e6dfbe519c368bfbd48065e8c136443ef44df7eef1d231aaca536fde33cd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/job\/5\/5-8.1791218683393.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "адам"
+    },
+    {
+      "surface": "לעמל",
+      "gloss": "азап үчүн"
+    },
+    {
+      "surface": "יולד",
+      "gloss": "туулат"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "жана... уулдары"
+    },
+    {
+      "surface": "רשף",
+      "gloss": "учкун"
+    },
+    {
+      "surface": "יגביהו",
+      "gloss": "бийик көтөрүлөт"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "учууга"
+    }
+  ],
+  "timestamp": "2026-10-05T16:44:43.394763700Z",
+  "model": "glm-5.3"
+}

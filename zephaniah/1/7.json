@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "zephaniah 1:7",
+  "book": "zephaniah",
+  "lang": "ky",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "הס",
+      "rationale": "«Үнүңдү бас» — угуучуну түз кайрылуу менен чакырат"
+    },
+    {
+      "kind": "you",
+      "subject": "Ыйык жамаатка",
+      "rationale": "Буйрук формасында түз кайрылуу — Иудай эли"
+    },
+    {
+      "kind": "substitution",
+      "subject": "זבח",
+      "rationale": "Бул жерде курмандык — сот күнүнүн элестүү образы: жазалануучулар «курмандык», чакырылгандар «коноктор»"
+    }
+  ],
+  "translation": "Үнүңдү бас Адонай Яхвенин өңүнүн алдында, анткени Яхвенин күнү жакын, анткени Яхве курмандыкты даярдады, Өз чакырылгандарын ыйыктады.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "1eb731c5e0f0e9912241346514f8cff2b9092818e7dd1f891c3361c51a6bea84",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/zephaniah\/1\/5-8.1791214892453.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הס",
+      "gloss": "үнүңдү бас"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "өңүнүн алдында"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "жакын"
+    },
+    {
+      "surface": "יום",
+      "gloss": "күнү"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "даярдады"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "курмандыкты"
+    },
+    {
+      "surface": "הקדיש",
+      "gloss": "ыйыктады"
+    },
+    {
+      "surface": "קראיו",
+      "gloss": "Өз чакырылгандарын"
+    }
+  ],
+  "timestamp": "2026-10-05T15:41:32.454255791Z",
+  "model": "glm-5.3"
+}

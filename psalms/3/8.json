@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 3:8",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "Тур, Яхве",
+      "rationale": "Буйрук менен Яхвени чакыруу — өтүнүч-жалбаруу"
+    },
+    {
+      "kind": "you",
+      "subject": "Яхвеге",
+      "rationale": "Тикелей Яхвеге багытталган сүйлөм"
+    },
+    {
+      "kind": "substitution",
+      "subject": "жамандыктардын",
+      "rationale": "רשעים — «мыйзамсыз, жаман иш кылгандар»; жамандыктар — жакын маани"
+    }
+  ],
+  "translation": "Тур, Яхве, мени куткар, Элохимим, анткени Сен ⟨את⟩ баардык душмандарымды жаагынан урдуң, жамандыктардын тиштерин сындырдың.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "a43733b68e64b37b82cce4fb8d247cd92049b1681b3861b9c48a700223ad8bb1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/3\/5-8.1791215319212.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "тур"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "мени куткар"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Элохимим"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "урдуң"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "баардык душмандарымды"
+    },
+    {
+      "surface": "כל",
+      "gloss": "баардык"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "душмандарымды"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "жаагынан"
+    },
+    {
+      "surface": "שני",
+      "gloss": "тиштерин"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "жамандыктардын"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "сындырдың"
+    }
+  ],
+  "timestamp": "2026-10-05T15:48:39.213711772Z",
+  "model": "glm-5.3"
+}

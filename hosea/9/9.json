@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "hosea 9:9",
+  "book": "hosea",
+  "lang": "ky",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ал⟩",
+      "rationale": "еврей текстинде этиштин субъектсиз жатат — ким эстейт делинбейт"
+    },
+    {
+      "kind": "substitution",
+      "subject": "жазалайт",
+      "rationale": "יפקוד букв. «келгенде көрүү, текшерүү» — жаза маанисинде кеңейтилген"
+    }
+  ],
+  "translation": "Алар Гивеа күндөрүндөгүдөй терең бузулушту; ⟨ал⟩ алардын айыптарын эстейт, алардын күнөөлөрүн жазалайт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "85733376a4fdef4fc44aeaad025b158a6e5314fc167b8af32e92a544459d0ee6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/hosea\/9\/9-12.1791213968654.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "העמיקו",
+      "gloss": "терең"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "бузулушту"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "…күндөрүндөгүдөй"
+    },
+    {
+      "surface": "הגבעה",
+      "gloss": "Гивеа"
+    },
+    {
+      "surface": "יזכור",
+      "gloss": "эстейт"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "айыптарын"
+    },
+    {
+      "surface": "יפקוד",
+      "gloss": "жазалайт"
+    },
+    {
+      "surface": "חטאותם",
+      "gloss": "күнөөлөрүн"
+    }
+  ],
+  "timestamp": "2026-10-05T15:26:08.655456437Z",
+  "model": "glm-5.3"
+}

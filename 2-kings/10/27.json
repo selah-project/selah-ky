@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-kings 10:27",
+  "book": "2-kings",
+  "lang": "ky",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ויתצו ... ויתצו",
+      "rationale": "эки жолу 'кулашты' — кайталоо риторикасы сакталды"
+    },
+    {
+      "kind": "hapax",
+      "subject": "למחראות",
+      "rationale": "'нуждакана' — бул сөз Танахта ушул жерде гана кездешет"
+    }
+  ],
+  "translation": "Жана алар Баалдын мамычасын ⟨את⟩ кулашты, Баал үйүн ⟨את⟩ кулашты жана аны ушул күнгө чейин нуждакана кылышты.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "dddc40cfce76592b3aeb9a2717cb91b89e8bb8982b57fc23e2a8cce2ef6f0d7d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-kings\/10\/25-28.1791208795086.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתצו",
+      "gloss": "кулашты"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "мамычасын"
+    },
+    {
+      "surface": "מצבת",
+      "gloss": "мамычасын"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Баалдын"
+    },
+    {
+      "surface": "ויתצו",
+      "gloss": "кулашты"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "үйүн"
+    },
+    {
+      "surface": "בית",
+      "gloss": "үйүн"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Баалдын"
+    },
+    {
+      "surface": "ושימהו",
+      "gloss": "кылышты"
+    },
+    {
+      "surface": "למחראות",
+      "gloss": "нуждакана"
+    },
+    {
+      "surface": "עד",
+      "gloss": "чейин"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ушул күнгө"
+    }
+  ],
+  "timestamp": "2026-10-05T13:59:55.087767416Z",
+  "model": "glm-5.3"
+}

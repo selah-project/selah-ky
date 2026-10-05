@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 26:16",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "өлчөмдөр",
+      "rationale": "Тактанын өлчөмдөрү берилип жатат: узундугу он чыканак, туурасы бир жарым чыканак."
+    },
+    {
+      "kind": "addition",
+      "subject": "болсун",
+      "rationale": "Еврей текстте этиш жок — өлчөмдөр жөнөкөй баяндалат; кыргызча ⟨болсун⟩ кошулду."
+    }
+  ],
+  "translation": "Тактанын узундугу он чыканак ⟨болсун⟩, жана бир тактанын туурасы бир чыканак жарым ⟨болсун⟩.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "5c167a40d41cfb18674fb26f2a8541d21e464493e32e8c5936416f410d7c7713",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/26\/13-16.1791202421774.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "он"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "чыканак"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "узундугу"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "тактанын"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "жана бир чыканак"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "жарым"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "чыканактын"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "туурасы"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "тактанын"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "бир"
+    }
+  ],
+  "timestamp": "2026-10-05T12:13:41.775454945Z",
+  "model": "glm-5.3"
+}

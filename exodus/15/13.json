@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 15:13",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "аларды",
+      "rationale": "Кыргыз тилинде этиштин объектиси талап кылынат, еврейче текстте жок"
+    },
+    {
+      "kind": "substitution",
+      "subject": "хесед",
+      "rationale": "חסד сөзү 'ырайым' гана эмес, ынтымак-берилгендик маанисин камтыт"
+    }
+  ],
+  "translation": "Сен Өз хеседиң менен бул элди, сен куткарган элди баштадың; Сен Өз күчүң менен аларды ыйык жайгаңа алып бардың.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "5d5880446f42d199b77501d752a853253a71a0302e165e3d0d32c31637ba0d42",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/15\/13-16.1791202085857.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נחית",
+      "gloss": "Сен баштадың"
+    },
+    {
+      "surface": "בחסדך",
+      "gloss": "Өз хеседиң менен"
+    },
+    {
+      "surface": "עם",
+      "gloss": "элди"
+    },
+    {
+      "surface": "זו",
+      "gloss": "бул"
+    },
+    {
+      "surface": "גאלת",
+      "gloss": "сен куткарган"
+    },
+    {
+      "surface": "נהלת",
+      "gloss": "алып бардың"
+    },
+    {
+      "surface": "בעזך",
+      "gloss": "Өз күчүң менен"
+    },
+    {
+      "surface": "אל",
+      "gloss": "жайгаңа"
+    },
+    {
+      "surface": "נוה",
+      "gloss": "жайгаңа"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "ыйык"
+    }
+  ],
+  "timestamp": "2026-10-05T12:08:05.857632953Z",
+  "model": "glm-5.3"
+}

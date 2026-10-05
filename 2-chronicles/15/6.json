@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 15:6",
+  "book": "2-chronicles",
+  "lang": "ky",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "аларды",
+      "rationale": "Суффикс -ם (алар) кыргызча айрым сөз болуп жазылды"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גוי בגוי ועיר בעיר",
+      "rationale": "Эл\/эл, шаар\/шаар кайталоосу — еврей риторикасы кыргызча да сакталды"
+    }
+  ],
+  "translation": "Жана эл элди, шаар шаарды талкалады, анткени Элохим аларды ар кандай кыйынчылык менен чаңкоткон.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "80a3343f9f00aac97a097218f227622ce7de8e108ab271d069251c8ffdadd1fa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-chronicles\/15\/5-8.1791222906669.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכתתו",
+      "gloss": "талкалады"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "эл"
+    },
+    {
+      "surface": "בגוי",
+      "gloss": "элди"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "шаар"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "шаарды"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "הממם",
+      "gloss": "чаңкоткон"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ар кандай"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "кыйынчылык менен"
+    }
+  ],
+  "timestamp": "2026-10-05T17:55:06.670516555Z",
+  "model": "glm-5.3"
+}

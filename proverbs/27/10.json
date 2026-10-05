@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 27:10",
+  "book": "proverbs",
+  "lang": "ky",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "уулга \/ окурманга",
+      "rationale": "буйрук менен түздөн-түз кайрылуу"
+    },
+    {
+      "kind": "crux",
+      "subject": "אל־תבוא בית אחיך",
+      "rationale": "«бир тууганыңдын үйүнө кирбе» — кейипкердин көз карашынан (ардануу) же акылман кеңештен, котормолор эки жакты тең кармайт"
+    }
+  ],
+  "translation": "Өз досуңду жана атаңдын досун таштаба, жана бир тууганыңдын үйүнө кайгы күнүндө кирбе; жакын жашаган кошуна алыс бир туугандан жакшы.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "13c5d496e96390d6350c47b8e400a714762a86a6712cce9397b41dfd92ea07b2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/27\/9-12.1791218380133.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רעך",
+      "gloss": "өз досуңду"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "жана досун"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "атаңдын"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ба"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "таштаба"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "жана үйүнө"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "бир тууганыңдын"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…бе"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "кирбе"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "күнүндө"
+    },
+    {
+      "surface": "אידך",
+      "gloss": "кайгыңдын"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "жакшы"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "жашаган кошуна"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "жакын"
+    },
+    {
+      "surface": "מאח",
+      "gloss": "бир туугандан"
+    },
+    {
+      "surface": "רחוק",
+      "gloss": "алыс"
+    }
+  ],
+  "timestamp": "2026-10-05T16:39:40.133770630Z",
+  "model": "glm-5.3"
+}

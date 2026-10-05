@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 1:10",
+  "book": "ezra",
+  "lang": "ky",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "כפורי",
+      "rationale": "Кефорим (капкактуу чөйчөк) — Танахта бир гана бул жерде кездешет."
+    },
+    {
+      "kind": "crux",
+      "subject": "משנים",
+      "rationale": "Мишним: «экинчи даражадагы» (KJV, JPS) же «окшош жуптар» (BSB) — так мааниси талаштуу."
+    },
+    {
+      "kind": "measurement",
+      "subject": "инвентарь",
+      "rationale": "Санамжы уланат: 30 + 410 + 1000."
+    }
+  ],
+  "translation": "Алтын чөйчөктөр отуз, күмүш чөйчөктөр экинчи даражада төрт жүз жана он, башка идиштер миң.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "003003a3a0c6e0a46b92bf4d4563bcb04cc632ef077ec6a0262f84219e745832",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ezra\/1\/9-11.1791220880745.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כפורי",
+      "gloss": "чөйчөктөр"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "алтын"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "отуз"
+    },
+    {
+      "surface": "כפורי",
+      "gloss": "чөйчөктөр"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "күмүш"
+    },
+    {
+      "surface": "משנים",
+      "gloss": "экинчи даражада"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "төрт"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "жүз"
+    },
+    {
+      "surface": "ועשרה",
+      "gloss": "жана он"
+    },
+    {
+      "surface": "כלים",
+      "gloss": "идиштер"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "башка"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "миң"
+    }
+  ],
+  "timestamp": "2026-10-05T17:21:20.746349714Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 20:9",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "ונתעודד",
+      "rationale": "Редкая форма от корня עוד — «повторять»; здесь «встать и держаться прямо», буквально «утвердиться повторением»."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כרעו\/נפלу против קמנו\/נתעודד",
+      "rationale": "Антитетикалык параллелизм: алардын кулашы менен биздин турганубуз карама-каршы коюлган."
+    }
+  ],
+  "translation": "Алар тизелүп кулады, ал эми биз турдук жана түз түзөйдүк.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "818e6ed0e344f179ad700476c5a46fa027c8d31a3544aa3c03a89f5a27c8839e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/20\/9-10.1791215522698.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "Алар"
+    },
+    {
+      "surface": "כרעו",
+      "gloss": "тизелүп"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "кулады"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "биз"
+    },
+    {
+      "surface": "קמנו",
+      "gloss": "турдук"
+    },
+    {
+      "surface": "ונתעודד",
+      "gloss": "түз түзөйдүк"
+    }
+  ],
+  "timestamp": "2026-10-05T15:52:02.698859350Z",
+  "model": "glm-5.3"
+}

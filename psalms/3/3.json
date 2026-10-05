@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 3:3",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נפש",
+      "rationale": "לנפשי «жан-дил» катары берилди; нефеш — «дем, жашоо күчү» дегенге жакын"
+    },
+    {
+      "kind": "elision",
+      "subject": "סלה",
+      "rationale": "Селах — музыкалык белги, которулбайт"
+    }
+  ],
+  "translation": "Көптөрү менин жан-дилиме айтышат: «Ага Элохимден куткаруу жок.» Селах.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "84bcaba9278bcefbd3e0198ae8979837af0ff2812b8b05b856813628ec9378ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/3\/1-4.1791215325086.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "Көптөрү"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "айтышат"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "жан-дилиме"
+    },
+    {
+      "surface": "אין",
+      "gloss": "жок"
+    },
+    {
+      "surface": "ישועתה",
+      "gloss": "куткаруу"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Ага"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "Элохимден"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Селах"
+    }
+  ],
+  "timestamp": "2026-10-05T15:48:45.087673034Z",
+  "model": "glm-5.3"
+}

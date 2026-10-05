@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 12:6",
+  "book": "numbers",
+  "lang": "ky",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ал",
+      "rationale": "Этиштин ээси кыргызча талап кылат"
+    },
+    {
+      "kind": "invitation",
+      "subject": "угкула",
+      "rationale": "Ахарон жана Мириямага буралган буйрук сөз"
+    },
+    {
+      "kind": "you",
+      "subject": "Ахарон жана Мириямага",
+      "rationale": "Яхве аларга түз кайрылат"
+    },
+    {
+      "kind": "alternative",
+      "subject": "пайгамбарыңар",
+      "rationale": "Көпчүлүк котормолор 'ар бир пайгамбар' деп окуйт; еврейче жекелик форма 'силердин пайгамбарыңар'"
+    }
+  ],
+  "translation": "Жана ⟨ал⟩ айтты: угкула, сөздөрүмдү; эгер силердин пайгамбарыңар болсо, Яхве ага көрүнүүдө Өзүн таанытат, түштө ага сүйлөйт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "42665a1f311e7f1c50a2f4fe727b73db315f28ad9a6b95959e2b773ca011f25c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/numbers\/12\/5-8.1791203895801.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "угкула"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ачык"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "сөздөрүмдү"
+    },
+    {
+      "surface": "אם",
+      "gloss": "эгер"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "болсо"
+    },
+    {
+      "surface": "נביאכם",
+      "gloss": "пайгамбарыңар"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "במראה",
+      "gloss": "көрүнүүдө"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ага"
+    },
+    {
+      "surface": "אתודע",
+      "gloss": "Өзүн таанытат"
+    },
+    {
+      "surface": "בחלום",
+      "gloss": "түштө"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "сүйлөйт"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ага"
+    }
+  ],
+  "timestamp": "2026-10-05T12:38:15.802509033Z",
+  "model": "glm-5.3"
+}

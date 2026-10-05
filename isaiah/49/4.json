@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 49:4",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "алдында",
+      "rationale": "ивритте את — жөндөм белгиси, кыргызча «менен\/алдында» менен берилди"
+    },
+    {
+      "kind": "crux",
+      "subject": "мשפטי",
+      "rationale": "«менин өкүмүм» (сот чечими) же «менин акыйкатым» (актык талабы) — котормолор бөлүнөт"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ריק\/תהו\/הבל",
+      "rationale": "үч боштук сөзүнүн чогуу келиши — риторикалык кайталоо, кыргызча бүтөрүн жоготот"
+    }
+  ],
+  "translation": "Мен болсо айттым: Бекер чарчадым, текерилтикке жана боштукка күч-кубатымды короттум; бирок менин өкүмүм Яхвенин алдында, менин ишим Элохимдин алдында ⟨את⟩.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "77c08d6c0d0e0e0261511a6d55c60ad4bac9faa61d2da9781731391480350bcd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/49\/3-4.1791224121629.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Мен болсо"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "айттым"
+    },
+    {
+      "surface": "לריק",
+      "gloss": "Бекер"
+    },
+    {
+      "surface": "יגעתי",
+      "gloss": "чарчадым"
+    },
+    {
+      "surface": "לתהו",
+      "gloss": "текeрилтикке"
+    },
+    {
+      "surface": "והבל",
+      "gloss": "жана боштукка"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "күч-кубатамды"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "короттум"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "бирок"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "өкүмүм"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яхве"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ופעלתי",
+      "gloss": "жана ишим"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Элохим"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Элохим"
+    }
+  ],
+  "timestamp": "2026-10-05T18:15:21.630514080Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 123:2",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 123,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "parallelism",
+      "rationale": "Эки окшош сап — кул\/кожоюн, кызматчы аял\/кожойке — үчүнчү сапта Яхвеге багытталат; чечмелөө бүтүндөй сакталды"
+    },
+    {
+      "kind": "substitution",
+      "subject": "кол",
+      "rationale": "יד кол — бул жерде колдун тамак берүү күчү; көз колго «карайт» деген сүрөт кыргызчада сакталды"
+    }
+  ],
+  "translation": "Кара: кулдардын көздөрү кожоюндарынын колуна кандай болсо, кызматчы аялдын көздөрү кожойкесинин колуна кандай болсо, биздин көздөрүбүз да Яхвеге, Элохимибизге ошондой, бизге ырайым кылганга чейин.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "db13bdd8cce5b1ea6e2837496f68ec855fa50430f2b9be4eb2561a013b58a4fe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/123\/2-3.1791224523069.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "кара"
+    },
+    {
+      "surface": "כעיני",
+      "gloss": "…көздөрү окшош"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "кулдардын"
+    },
+    {
+      "surface": "אל",
+      "gloss": "жакка"
+    },
+    {
+      "surface": "יד",
+      "gloss": "кол"
+    },
+    {
+      "surface": "אדוניהם",
+      "gloss": "кожоюндарынын"
+    },
+    {
+      "surface": "כעיני",
+      "gloss": "…көздөрү окшош"
+    },
+    {
+      "surface": "שפחה",
+      "gloss": "кызматчы аялдын"
+    },
+    {
+      "surface": "אל",
+      "gloss": "жакка"
+    },
+    {
+      "surface": "יד",
+      "gloss": "кол"
+    },
+    {
+      "surface": "גברתה",
+      "gloss": "кожойкесинин"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ошондой"
+    },
+    {
+      "surface": "עינינו",
+      "gloss": "биздин көздөрүбүз"
+    },
+    {
+      "surface": "אל",
+      "gloss": "жакка"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвеге"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Элохимибизге"
+    },
+    {
+      "surface": "עד",
+      "gloss": "чейин"
+    },
+    {
+      "surface": "שיחננו",
+      "gloss": "ырайым кылуу"
+    }
+  ],
+  "timestamp": "2026-10-05T18:22:03.069583757Z",
+  "model": "glm-5.3"
+}

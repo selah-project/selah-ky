@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 99:4",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 99,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ועז מלך",
+      "rationale": "'Падышанын күчү' же 'Падыша — күчтүү, ал өкүмдү сүйөт' деген эки окуу бар"
+    },
+    {
+      "kind": "substitution",
+      "subject": "цедекти",
+      "rationale": "צְדָקָה — 'цедек' деп сакталды, 'акыйкаттык' гана эмес"
+    },
+    {
+      "kind": "you",
+      "subject": "Сен",
+      "rationale": "Кайрылуу Яхвеге — 'Сен' эсептелет"
+    }
+  ],
+  "translation": "Жана падышанын күчү өкүмдү сүйөт; Сен түзүмтүктү бекемдедиң, өкүм жана цедекти Яаковто Сен кылдың.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "26528d91dd57b87863a3560a2ea61d7f173173cd0977bfa23dac6782166b6cee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/99\/1-4.1791217002723.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועז",
+      "gloss": "Жана күчү"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "падышанын"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "өкүмдү"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "сүйөт"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Сен"
+    },
+    {
+      "surface": "כוננת",
+      "gloss": "бекемдедиң"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "түзүмтүктү"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "өкүм"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "жана цедекти"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "Яаковто"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Сен"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "кылдың"
+    }
+  ],
+  "timestamp": "2026-10-05T16:16:42.725000527Z",
+  "model": "glm-5.3"
+}

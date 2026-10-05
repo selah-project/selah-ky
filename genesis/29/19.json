@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 29:19",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "шебah",
+      "rationale": "יָשַׁב «отуруш» — «жашагын, меним менен калгын» деп берилди."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨Аны⟩",
+      "rationale": "Кыргызча этиш толук сүйлөм болушу үчүн объект кошулду."
+    }
+  ],
+  "translation": "Лаван айтты: ⟨Аны⟩ сага бергеним башка бир эркекке бергенимден жакшы, меники болуп меним менен жашагын.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "eba67a6f2cf7fef7a58134a2fe9161be3ecdc6bade92f6b6ff970b46f1da86d0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/29\/17-20.1791201270963.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "жана айтты"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Лаван"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "жакшы"
+    },
+    {
+      "surface": "תתי",
+      "gloss": "бергеним"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "сага"
+    },
+    {
+      "surface": "לך",
+      "gloss": "сага"
+    },
+    {
+      "surface": "מתתי",
+      "gloss": "бергенимден"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "башка бир эркекке"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "эркекке"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "башка бир"
+    },
+    {
+      "surface": "שבה",
+      "gloss": "жашагын"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "менин жаныбирдигимде"
+    }
+  ],
+  "timestamp": "2026-10-05T11:54:30.964675407Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jonah 2:8",
+  "book": "jonah",
+  "lang": "ky",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жаным",
+      "rationale": "נפש — «дем алуу\/жашоо күчү»; «эстен тануу» — бошоңдоо сүрөтү"
+    },
+    {
+      "kind": "you",
+      "subject": "Яхвеге",
+      "rationale": "Дуба Яхвеге түз кайрылуу түрүндө айтылат"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "היכל קדשך",
+      "rationale": "5-аяттагы «ыйык сарай» кайталанат — Юнустун үмүтү эки жолу ошол жерге байланат"
+    }
+  ],
+  "translation": "Жаным мени эстен танканда, мен ⟨את⟩ Яхвени эстедим, жана менин дубам Сага, ыйык сарайыңа келди.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "8db7c2e82440410234718a588ea9ab66e213514c3311f2eafedae4ad8e5beceb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/jonah\/2\/5-8.1791214496986.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בהתעטף",
+      "gloss": "эстен танканда"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "мени"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "жаным"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яхвени"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "זכרתי",
+      "gloss": "эстедим"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "келди"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "Сага"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "дубам"
+    },
+    {
+      "surface": "אל",
+      "gloss": "тарапка"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "сарай"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "ыйыгыңдын"
+    }
+  ],
+  "timestamp": "2026-10-05T15:34:56.987912106Z",
+  "model": "glm-5.3"
+}

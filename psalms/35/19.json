@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 35:19",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "יקרצו עין",
+      "rationale": "«көзүн кысуу» — жаман ой билдирүүчү жымың; кыргызча «көз кысуу» деп берилди"
+    },
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "gloss_note": "",
+      "rationale": "жоклоочу «ал» кыргызча этиштин «-башсын\/-спашсын» формасына сиңди"
+    }
+  ],
+  "translation": "Менин жалган душмандарым мени shove кубанбашсын, мени бекер жек көргөндөр көз кыспашсын.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "02a2d0a3cdd460fad39b0196f7b360fb97b7df79ae8328fd55229978a3e3133d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/35\/17-20.1791215851943.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "...башсын"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "кубанбашсын"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мени"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "душмандарым"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "жалган"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "жек көргөндөр"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "бекер"
+    },
+    {
+      "surface": "יקрצו",
+      "gloss": "кыспашсын"
+    },
+    {
+      "surface": "עין",
+      "gloss": "көз"
+    }
+  ],
+  "timestamp": "2026-10-05T15:57:31.943985884Z",
+  "model": "glm-5.3"
+}

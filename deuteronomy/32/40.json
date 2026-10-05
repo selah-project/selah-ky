@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "deuteronomy 32:40",
+  "book": "deuteronomy",
+  "lang": "ky",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ант болсу",
+      "rationale": "כי бул жерде ант формуласынын бөлүгү: кол көтөрүү + «Мен жашайм» — ант берүү иеремиялык үлгү"
+    },
+    {
+      "kind": "measurement",
+      "subject": "түбөлүк",
+      "rationale": "לעолам — чексиз убакыт чени, «жашыруун чекиттен тышкары»"
+    }
+  ],
+  "translation": "Ант болсу, Мен колумду асманга көтөрүп айтамын: Мен түбөлүк жашайм.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "1587efc7bb06a7ec286b79766b3718ac91eb5701e7edb39f3647766155d4c912",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/32\/37-40.1791205399948.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ант болсу"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "көтөрөмүн"
+    },
+    {
+      "surface": "אל",
+      "gloss": "−га"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "асманга"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "колумду"
+    },
+    {
+      "surface": "ואמרתי",
+      "gloss": "жана айтамын"
+    },
+    {
+      "surface": "חי",
+      "gloss": "жашайм"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Мен"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "түбөлүк"
+    }
+  ],
+  "timestamp": "2026-10-05T13:03:19.949314885Z",
+  "model": "glm-5.3"
+}

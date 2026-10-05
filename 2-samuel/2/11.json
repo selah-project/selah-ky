@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 2:11",
+  "book": "2-samuel",
+  "lang": "ky",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "срок царствования",
+      "rationale": "Точный счёт: семь лет и шесть месяцев Давида в Хевроне."
+    },
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "rationale": "Относительное местоимение не имеет отдельного эквивалента в кыргызской придаточной конструкции и передано порядком слов."
+    }
+  ],
+  "translation": "Жана Давидтин Хеврондо Йехуданын үйүнүн үстүнөн падыша болгон күндөрүнүн саны жети жыл жана алты ай болду.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "a9a1b875234bc37b5e04c25ad8f1045c3af158ec9bfc1f121e8b2a194fddb508",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-samuel\/2\/10-11.1791223845988.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Жана… болду"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "саны"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "күндөрүнүн"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "היה",
+      "gloss": "болгон"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давидтин"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "падыша"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "Хеврондо"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстүнөн"
+    },
+    {
+      "surface": "בית",
+      "gloss": "үйүнүн"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Йехуданын"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "жети"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "жыл"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "жана алты"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "ай"
+    }
+  ],
+  "timestamp": "2026-10-05T18:10:45.988867868Z",
+  "model": "glm-5.3"
+}

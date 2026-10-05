@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 1:3",
+  "book": "song-of-songs",
+  "lang": "ky",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "על כן",
+      "rationale": "Эки сөз бир «ошондуктан» деген менен берилди"
+    },
+    {
+      "kind": "crux",
+      "subject": "עלמות",
+      "rationale": "«бийкечтер» \/ «кыздар»: עלמה жаш аял деген, кыздык белгиси сөздө жок"
+    }
+  ],
+  "translation": "Жыты үчүн майларың жакшы, атың төгүлгөн жыпар май; ошондуктан бийкечтер сени сүйөт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "708639b00a5304c6985f489c6d7714dab9c2c2bae967edba93b746438fe76cd3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/song-of-songs\/1\/1-4.1791219532188.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לריח",
+      "gloss": "Жыты үчүн"
+    },
+    {
+      "surface": "שמניך",
+      "gloss": "майларың"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "жакшы"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "жыпар май"
+    },
+    {
+      "surface": "תורק",
+      "gloss": "төгүлгөн"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "атың"
+    },
+    {
+      "surface": "על",
+      "gloss": "ошондуктан"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ошондуктан"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "бийкечтер"
+    },
+    {
+      "surface": "אהבוך",
+      "gloss": "сени сүйөт"
+    }
+  ],
+  "timestamp": "2026-10-05T16:58:52.190157351Z",
+  "model": "glm-5.3"
+}

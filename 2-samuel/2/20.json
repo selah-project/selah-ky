@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 2:20",
+  "book": "2-samuel",
+  "lang": "ky",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "синби",
+      "rationale": "Ивритте суроо белгиси жок — 'сен бул Асаэл' деген түз аталышуу, суроо формасы котормодо кошулду"
+    },
+    {
+      "kind": "you",
+      "subject": "Асаэлге",
+      "rationale": "Авнер кубалап бараткан адамын атап, түз кайрылат"
+    }
+  ],
+  "translation": "Жана Авнер артка карады да айтты: Сен Асаэлсинби? Ал айтты: Мен өзүм.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "c28a566c5fdf074f533b833d279cb854bd01334aa90bec5f11eda3d67e606303",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-samuel\/2\/17-20.1791207371637.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "карады"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Авнер"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "артка"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "האתה",
+      "gloss": "сен"
+    },
+    {
+      "surface": "זה",
+      "gloss": "өзү"
+    },
+    {
+      "surface": "עשהאל",
+      "gloss": "Асаэлсинби"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "мен өзүм"
+    }
+  ],
+  "timestamp": "2026-10-05T13:36:11.638347076Z",
+  "model": "glm-5.3"
+}

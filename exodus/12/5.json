@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 12:5",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "בן שנה",
+      "rationale": "буквально «сын года» — кыргызча «бир жашта» деп берилди, образ жоголду"
+    },
+    {
+      "kind": "substitution",
+      "subject": "שה",
+      "rationale": "«шэ» — кой да, эчки да болот; кыргызча «козу» деп тардалды, אשер жакындарак"
+    }
+  ],
+  "translation": "Козу кемчиликсиз, эркек, бир жашта болсун силерге; козулардан же эчкилерден алгыла.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "31d3c46c1a9004d30ec02c9d2ed1e5d8d5878316f9d497d064ecd750daeea695",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/12\/5-8.1791202061249.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שה",
+      "gloss": "козу"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "кемчиликсиз"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "эркек"
+    },
+    {
+      "surface": "בן",
+      "gloss": "…нын баласы"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "жыл"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "болсун"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "силерге"
+    },
+    {
+      "surface": "מן",
+      "gloss": "…дан"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "козулар"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "же …дан"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "эчкилер"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "алгыла"
+    }
+  ],
+  "timestamp": "2026-10-05T12:07:41.250220428Z",
+  "model": "glm-5.3"
+}

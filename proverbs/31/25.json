@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 31:25",
+  "book": "proverbs",
+  "lang": "ky",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жылмаят",
+      "rationale": "שחק — күлүү\/жылмайуу; «кубанат» деген жалпы котормо сөздүн образын жоготот"
+    },
+    {
+      "kind": "crux",
+      "subject": "акыркы күн",
+      "rationale": "ליום אחרון — «акыркы күндө» же «келечек убакта»; KJV «in time to come»"
+    }
+  ],
+  "translation": "Күч жана урмат-сый — анын кийими, жана ал акыркы күнге жылмаят.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "367a2eb04767da084c3b8bc8175d675cf721c72f9e8345f9af424efdb8f9efd7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/31\/25-28.1791218490376.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עז",
+      "gloss": "күч"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "жана урмат-сый"
+    },
+    {
+      "surface": "לבושה",
+      "gloss": "анын кийими"
+    },
+    {
+      "surface": "ותשחק",
+      "gloss": "жана жылмаят"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "күнге"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "акыркы"
+    }
+  ],
+  "timestamp": "2026-10-05T16:41:30.376751606Z",
+  "model": "glm-5.3"
+}

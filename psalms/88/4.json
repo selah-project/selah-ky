@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 88:4",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 88,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жан",
+      "rationale": "`nefesh` — көкүрөк\/дем\/жашоо күчү, кыргызча `жан` эң жакын эквивалент."
+    },
+    {
+      "kind": "elision",
+      "subject": "Шеол",
+      "rationale": "`тозок` же `кабыр` деп которулбайт — Шеол өлгөндөрдүн дүйнөсү, жаза эмес."
+    }
+  ],
+  "translation": "Анткени менин жаныма жамандыктар болгонча толду, жана менин өмүрүм Шеолго жетти.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "e9be61345a0526ae278b5e0ab0a1d76c8f25951a4be1da4f53fd5cee2af8d07f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/88\/1-4.1791216768676.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Анткени"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "толду"
+    },
+    {
+      "surface": "ברעות",
+      "gloss": "жамандыктар"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "жаныма"
+    },
+    {
+      "surface": "וחיי",
+      "gloss": "жана өмүрүм"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Шеолго"
+    },
+    {
+      "surface": "הגיעו",
+      "gloss": "жетти"
+    }
+  ],
+  "timestamp": "2026-10-05T16:12:48.677039965Z",
+  "model": "glm-5.3"
+}

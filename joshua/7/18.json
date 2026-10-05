@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 7:18",
+  "book": "joshua",
+  "lang": "ky",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ביתו",
+      "rationale": "Буквалдуу «анын үйү», бул жерде түшүнүктүүлүк үчүн «үй-бүлөсү» деп берилди."
+    },
+    {
+      "kind": "addition",
+      "subject": "ал",
+      "rationale": "Кыргызча субъект керек, еврейче жок."
+    }
+  ],
+  "translation": "Жана ал анын үй-бүлөсүн ⟨את⟩ эркектер боюнча жакындатты, жана Акан кармалды — Карминин уулу, Забдинин уулу, Зерахтын уулу, Йгуда уруусунан.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "985cd238b15eec73bfa009ef4a348bbf57fc3a01e901a090866a8aee1818a95d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/joshua\/7\/17-20.1791205714435.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "жана жакындатты"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "анын үй-бүлөсүн"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "анын үй-бүлөсүн"
+    },
+    {
+      "surface": "לגברים",
+      "gloss": "эркектер боюнча"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "жана кармалды"
+    },
+    {
+      "surface": "עכן",
+      "gloss": "Акан"
+    },
+    {
+      "surface": "בן",
+      "gloss": "уулу"
+    },
+    {
+      "surface": "כרמי",
+      "gloss": "Карми"
+    },
+    {
+      "surface": "בן",
+      "gloss": "уулу"
+    },
+    {
+      "surface": "זבדי",
+      "gloss": "Забди"
+    },
+    {
+      "surface": "בן",
+      "gloss": "уулу"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "Зерах"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "уруусунан"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Йгуда"
+    }
+  ],
+  "timestamp": "2026-10-05T13:08:34.436415286Z",
+  "model": "glm-5.3"
+}

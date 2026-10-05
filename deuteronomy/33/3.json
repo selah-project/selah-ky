@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 33:3",
+  "book": "deuteronomy",
+  "lang": "ky",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "חבב",
+      "rationale": "Сүйүү\/бооруна кысуу — Танахта бир гана жерде кездешет, 'кушагына жылуу' деген сүрөт."
+    },
+    {
+      "kind": "crux",
+      "subject": "מדברתיך",
+      "rationale": "Ким айткан сөздөрү: 'сенин сөздөрүң' (Яхвеге карата) же 'алардын сөздөрү' (кийинки аят менен байланыштырып)."
+    },
+    {
+      "kind": "you",
+      "subject": "сенин колуңда",
+      "rationale": "Адатта Яхвеге багытталган тике кайрылуу — 2-аяттагы үчүнчү жак баяндоодон өтүү."
+    }
+  ],
+  "translation": "Дагы ал элдерди сүйдү; анын бүт ыйыктары сенин колуңда, алар сенин бутуңдун этегине жайгашты, ар бири сенин сөздөрүңдү көтөрөт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "8ade7b55421029e6ffd512a3e2714b48715ee75aed1c4b650fcb5ff3fc255d8a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/33\/2-3.1791223793041.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "дагы"
+    },
+    {
+      "surface": "חבב",
+      "gloss": "сүйдү"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "элдерди"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүт"
+    },
+    {
+      "surface": "קדשיו",
+      "gloss": "ыйыктары"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "колуңда"
+    },
+    {
+      "surface": "והם",
+      "gloss": "алар"
+    },
+    {
+      "surface": "תכו",
+      "gloss": "жайгашты"
+    },
+    {
+      "surface": "לרגלך",
+      "gloss": "бутуңдун этегине"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "көтөрөт"
+    },
+    {
+      "surface": "מדברתיך",
+      "gloss": "сөздөрүңдү"
+    }
+  ],
+  "timestamp": "2026-10-05T18:09:53.043159952Z",
+  "model": "glm-5.3"
+}

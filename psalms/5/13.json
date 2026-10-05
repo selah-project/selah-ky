@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 5:13",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "כצנה",
+      "rationale": "бул сөз илгери — «тырмооктуу калкан», кыргызча жөн гана «калкан» делип, сүрөт жоголду"
+    },
+    {
+      "kind": "substitution",
+      "subject": "רצון",
+      "rationale": "«ризачылык» — жактыруу, ыраазы болуу маанисиндеги сөз"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תעטרנו",
+      "rationale": "עטר тамыры «таж кийгизүү» жана «курчап алуу» экөөнө тең тиешелүү; экөө тең бир сөздө"
+    }
+  ],
+  "translation": "Анткени Сен, Яхве, ⟨את⟩ адил адамды баталайсың; ризачылык менен аны калкандай курчап турасың.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "ddadfc070bb11a9fb5fbc5d276f8157956b397d664a9fb3777933473a4c81ad8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/5\/13-13.1791215217683.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Сен"
+    },
+    {
+      "surface": "תברך",
+      "gloss": "баталайсың"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "адил адамды"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "כצנה",
+      "gloss": "калкандай"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "ризачылык"
+    },
+    {
+      "surface": "תעטרנו",
+      "gloss": "курчап турасың"
+    }
+  ],
+  "timestamp": "2026-10-05T15:46:57.683727080Z",
+  "model": "glm-5.3"
+}

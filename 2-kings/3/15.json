@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 3:15",
+  "book": "2-kings",
+  "lang": "ky",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "кезде",
+      "rationale": "вהיה сөзү кыргызча шарт-убакыт байланышын талап кылат, ⟨…⟩ маркер катары берилди"
+    },
+    {
+      "kind": "substitution",
+      "subject": "чертуучу",
+      "rationale": "מנגן — чертип ойноочу (комузчу); аткаруучунун ролу эмес, аспаптын үнү сүрөттөлөт"
+    }
+  ],
+  "translation": "Эми мага чертуучуну алып келгиле. Чертуучу черткен кезде, анын үстүнө Яхвенин колу болду.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "910ad658ef75a0d406b8e50f30418f8bdef3883f4595d69bea365024e87e263e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-kings\/3\/15-16.1791224030835.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "эми"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "алып келгиле"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мага"
+    },
+    {
+      "surface": "מנגן",
+      "gloss": "чертуучуну"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "…кезде"
+    },
+    {
+      "surface": "כנגן",
+      "gloss": "черткен"
+    },
+    {
+      "surface": "המנגן",
+      "gloss": "чертуучу"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "болду"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "анын үстүнө"
+    },
+    {
+      "surface": "יד",
+      "gloss": "колу"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    }
+  ],
+  "timestamp": "2026-10-05T18:13:50.835670900Z",
+  "model": "glm-5.3"
+}

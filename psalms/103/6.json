@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 103:6",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 103,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "эзилгендер",
+      "rationale": "עשוקים — 'басылып, зордук көргөндөр', туура эле."
+    }
+  ],
+  "translation": "Яхве цедекти жасайт жана эзилгендердин баарына өкүмдөрдү.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "76921e225b98ec9ed64292986f687e5ad0aa90daadad06d654cd0993598f9e85",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/103\/5-8.1791216952237.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "жасайт"
+    },
+    {
+      "surface": "צדקות",
+      "gloss": "цедекти"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "жана өкүмдөрдү"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "баарына"
+    },
+    {
+      "surface": "עשוקים",
+      "gloss": "эзилгендердин"
+    }
+  ],
+  "timestamp": "2026-10-05T16:15:52.238632044Z",
+  "model": "glm-5.3"
+}

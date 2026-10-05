@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 4:2",
+  "book": "1-kings",
+  "lang": "ky",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "коэн",
+      "rationale": "הכהר — ыйык кызмат кылуучу; еврейче айтылышы менен сакталды"
+    },
+    {
+      "kind": "idiom",
+      "subject": "אשר לו",
+      "rationale": "Ивритче «алар эмне ага (тиешелүү)» — кыргызча «анын» деп берилди"
+    }
+  ],
+  "translation": "Жана мына булар анын төрөлөрү ⟨эле⟩: Азарияу, Цадоктун уулу, коэн.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "ab78f783e35bff0ad0c28134b9875f340daa485b0f0fa08f818a35ad6726c74a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-kings\/4\/1-4.1791208020840.json",
+    "code": "641241cf-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Жана мына булар"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "төрөлөрү"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨алар⟩"
+    },
+    {
+      "surface": "לו",
+      "gloss": "анын"
+    },
+    {
+      "surface": "עזריהו",
+      "gloss": "Азарияу"
+    },
+    {
+      "surface": "בן",
+      "gloss": "уулу"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Цадоктун"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "коэн"
+    }
+  ],
+  "timestamp": "2026-10-05T13:47:00.840899171Z",
+  "model": "glm-5.3"
+}

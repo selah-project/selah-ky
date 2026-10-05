@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 8:13",
+  "book": "2-samuel",
+  "lang": "ky",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Арам \/ Эдом",
+      "rationale": "Бул аятта Арам жазылган, бирок 1 Жылнаама 18:12 да Эдом дейт — котормочулар бөлүнөт."
+    },
+    {
+      "kind": "idiom",
+      "subject": "ат чыгарды",
+      "rationale": "עשה שם — сөзмө-сөз «шим жасады», кыргызча «ат чыгарды» идиомасы."
+    },
+    {
+      "kind": "measurement",
+      "subject": "он сегиз миң",
+      "rationale": "Согуштун жертүшүнүн саны эсептелет."
+    }
+  ],
+  "translation": "Давид өзүнө ат чыгарды, ⟨את⟩ Арамды Туз өрөөнүндө согуп кайтканда — он сегиз миң.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "2aaccc21eceeb9b75630fb673a1059499f8ac5adfb415142ac5ec3ef5657177f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-samuel\/8\/13-16.1791207443574.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "жасады"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ат"
+    },
+    {
+      "surface": "בשבו",
+      "gloss": "кайтканда"
+    },
+    {
+      "surface": "מהכותו",
+      "gloss": "согуп"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Арамды"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Арамды"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "өрөөнүндө"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "Туз"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "сегиз"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "он"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "миң"
+    }
+  ],
+  "timestamp": "2026-10-05T13:37:23.575204972Z",
+  "model": "glm-5.3"
+}

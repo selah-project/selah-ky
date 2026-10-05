@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 11:5",
+  "book": "jeremiah",
+  "lang": "ky",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "זבת חלב ודבש",
+      "rationale": "«сүт менен бал агып турган жер» — еврей элдик сүрөттөмөсү, молчулуктун белгиси катары берилди."
+    },
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "rationale": "байламта «деп» этиш аткандарда ичине сиңди."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נשבעתי \/ השבועה",
+      "rationale": "«ант берүү» жана «ант» бир тамырдан — еврейча уйкаштык кыргызча билинбейт."
+    }
+  ],
+  "translation": "Аткарсам деп, силерге ант берген ⟨את⟩ антты — аларга сүт менен бал агып турган жер береюн деп ата-бабаларыңарга берген антымды бекитүү үчүн, бүгүнкү күндөгүдөй. Мен жооп бердим жана айттым: Амин, Яхве.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "5264b9579088ec7f38f740d99cc3e2fe25cf798a1582ba31c9d6ffc6ee69347d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/jeremiah\/11\/5-8.1791210975089.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "үчүн"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "бекитүү"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "антты"
+    },
+    {
+      "surface": "השבועה",
+      "gloss": "ант"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "ант бергенмин"
+    },
+    {
+      "surface": "לאבותיכם",
+      "gloss": "ата-бабаларыңарга"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "береюн деп"
+    },
+    {
+      "surface": "להם",
+      "gloss": "аларга"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "жер"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "агып турган"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "сүт"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "жана бал"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "күндөгүдөй"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "бүгүнкү"
+    },
+    {
+      "surface": "ואען",
+      "gloss": "жооп бердим"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "жана айттым"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Амин"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-10-05T14:36:15.089936227Z",
+  "model": "glm-5.3"
+}

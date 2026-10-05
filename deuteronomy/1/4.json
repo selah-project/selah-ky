@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 1:4",
+  "book": "deuteronomy",
+  "lang": "ky",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жеңгенден",
+      "rationale": "הכות —Literal 'сүргөндөн\/чабуудан'; 'жеңүү' алынды"
+    },
+    {
+      "kind": "addition",
+      "subject": "эморluk тамгасы",
+      "rationale": "латын тамгасы кыргыз жазуусуна жат — 'эморлук' болушу керек"
+    }
+  ],
+  "translation": "Хешбондо отурган эморluk падыша Сихонду ⟨את⟩ жана Аштаротто, Эдрейде отурган Башан падышасы Огду ⟨את⟩ жеңгенден кийин.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "a8c2bae1956fabfe82fb80128922c19d592e677d1ef73d14a1a50877c7fea901",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/1\/1-4.1791204678371.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "кийин"
+    },
+    {
+      "surface": "הכתו",
+      "gloss": "жеңгенден"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Сихонду"
+    },
+    {
+      "surface": "סיחן",
+      "gloss": "Сихонду"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "падыша"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "эморluk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…ну"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "отурган"
+    },
+    {
+      "surface": "בחשבון",
+      "gloss": "Хешбондо"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "жана ⟨את⟩",
+      "marks": "Огду"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "Огду"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "падышасы"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Башан"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…ну"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "отурган"
+    },
+    {
+      "surface": "בעשתרת",
+      "gloss": "Аштаротто"
+    },
+    {
+      "surface": "באדרעי",
+      "gloss": "Эдрейде"
+    }
+  ],
+  "timestamp": "2026-10-05T12:51:18.372421113Z",
+  "model": "glm-5.3"
+}

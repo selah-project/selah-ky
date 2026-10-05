@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 123:1",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 123,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "отурган",
+      "rationale": "הישבי — причастие; кыргызча аткоо атооч керек"
+    },
+    {
+      "kind": "elision",
+      "subject": "המעלות",
+      "gloss": "Ырдун аталышы — «өрөөргө чыгуулар» деп берилди"
+    }
+  ],
+  "translation": "Ыр — өрөөргө чыгуулар жөнүндө. Асмандарга Отурган Сага ⟨את⟩ көздөрүмдү көтөрдүм.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "dc17681d7942feadc3e890e9ffe72e07bb398e28650735db0cccbc12a1873510",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/123\/1-4.1791217494594.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Ыр"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "өрөөргө чыгуулар жөнүндө"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "Сага"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "көтөрдүм"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "көздөрүмдү"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "көздөрүмдү"
+    },
+    {
+      "surface": "הישבי",
+      "gloss": "Отурган"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "асман­дарга"
+    }
+  ],
+  "timestamp": "2026-10-05T16:24:54.595011424Z",
+  "model": "glm-5.3"
+}

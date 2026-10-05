@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 1:10",
+  "book": "micah",
+  "lang": "ky",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עפרה \/ עפר",
+      "rationale": "шаардын аты 'Леафра' жана 'чаң' деген сөз бир тамырдан — 'чаң үйүндө чаңга орол' оюн"
+    },
+    {
+      "kind": "crux",
+      "subject": "התפלשתי",
+      "rationale": "биринчи жамаат 'мен оролдум' (ASV) же буйрук сымал 'оролгула' (KJV, JPS) катары окулат"
+    }
+  ],
+  "translation": "Гатта айтпагыла, ыйлабагыла; Бейт-Леафрада, чаң үйүндө, мен чаңга оролдум.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "9ce02155f0e33ba268fedde2089f8bf098254b91ec642424832b75a8400d1fb7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/micah\/1\/9-12.1791214467683.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בגת",
+      "gloss": "Гатта"
+    },
+    {
+      "surface": "אל",
+      "gloss": "айтпа"
+    },
+    {
+      "surface": "תגידו",
+      "gloss": "айтпагыла"
+    },
+    {
+      "surface": "בכו",
+      "gloss": "ыйла"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ыйлаба"
+    },
+    {
+      "surface": "תבכו",
+      "gloss": "ыйлабагыла"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "Бейт- үй"
+    },
+    {
+      "surface": "לעפרה",
+      "gloss": "Леафра"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "чаң"
+    },
+    {
+      "surface": "התפלשתי",
+      "gloss": "мен чаңга оролдум"
+    }
+  ],
+  "timestamp": "2026-10-05T15:34:27.683938841Z",
+  "model": "glm-5.3"
+}

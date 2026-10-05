@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 11:13",
+  "book": "leviticus",
+  "lang": "ky",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "לא יאכלו",
+      "rationale": "Hebrew impersonal 'they shall not be eaten'; Kyrgyz needs 'жешке болбойт'."
+    },
+    {
+      "kind": "crux",
+      "subject": "הנשר",
+      "rationale": "Traditionally 'eagle', modern 'vulture'; kept as transliterated нешер to avoid choosing."
+    },
+    {
+      "kind": "hapax",
+      "subject": "העזניה",
+      "gloss": "азния — bird of prey of uncertain identification, transliterated rather than guessed."
+    }
+  ],
+  "translation": "Жана ⟨את⟩ буларды канаттуулардан жиркиңер: алар жешке болбойт — жиркенүүчү нерселер алар: ⟨את⟩ нешерди, жана ⟨את⟩ перести, жана ⟨את⟩ азнияны.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "d3d0184346def9ce19653054fc240a4e7c449dba372d5bf4ba2acc167f77440e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/11\/13-16.1791202967398.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "буларды"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "буларды"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "жиркиңер"
+    },
+    {
+      "surface": "מן",
+      "gloss": "…дан"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "канаттуулар"
+    },
+    {
+      "surface": "לא",
+      "gloss": "болбойт"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "жешке"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "жиркенүүчү нерселер"
+    },
+    {
+      "surface": "הם",
+      "gloss": "алар"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "нешерди"
+    },
+    {
+      "surface": "הנשר",
+      "gloss": "нешерди"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "жана ⟨את⟩",
+      "marks": "перести"
+    },
+    {
+      "surface": "הפרס",
+      "gloss": "перести"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "жана ⟨את⟩",
+      "marks": "азнияны"
+    },
+    {
+      "surface": "העזניה",
+      "gloss": "азнияны"
+    }
+  ],
+  "timestamp": "2026-10-05T12:22:47.399177079Z",
+  "model": "glm-5.3"
+}

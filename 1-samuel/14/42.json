@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-samuel 14:42",
+  "book": "1-samuel",
+  "lang": "ky",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨жребийлерди⟩",
+      "rationale": "Еврей текстинде жок — этиш «түшүргүлө» гана, жребий контексттен көрүнөт."
+    }
+  ],
+  "translation": "Жана Шаул айтты: «Мен менен уулум Йонатандын ортосунда ⟨жребийлерди⟩ түшүргүлө». Жана Йонатан кармалды.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "745f2edae157a4d613e01392984c861b0081eecd34e2fac454afc55ddfe44954",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-samuel\/14\/41-44.1791206867923.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Жана айтты"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "הפילו",
+      "gloss": "түшүргүлө"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "менин ортомдо"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "жана ортосунда"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Йонатандын"
+    },
+    {
+      "surface": "בני",
+      "gloss": "уулумдун"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "Жана кармалды"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Йонатан"
+    }
+  ],
+  "timestamp": "2026-10-05T13:27:47.924203890Z",
+  "model": "glm-5.3"
+}

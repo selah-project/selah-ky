@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 49:9",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨бул⟩",
+      "rationale": "Еврей тилинде байламча жок; кыргызча сүйлөм талап кылат"
+    },
+    {
+      "kind": "substitution",
+      "subject": "жан",
+      "rationale": "נפש — дем алуучу жандык, жашоо күчү; «жан» кеңири кабыл алынган"
+    }
+  ],
+  "translation": "Жана алардын жанынын куткаруу төлөмү ⟨бул⟩ баалуу, жана ал түбөлүккө токтойт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "07a09197444b8ba553ea899406abd9453ff4ed45de683c7988dfd30e845fe201",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/49\/9-12.1791216070233.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקר",
+      "gloss": "жана баалуу"
+    },
+    {
+      "surface": "פדיון",
+      "gloss": "куткаруу төлөмү"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "алардын жанынын"
+    },
+    {
+      "surface": "וחדל",
+      "gloss": "жана токтойт"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "түбөлүккө"
+    }
+  ],
+  "timestamp": "2026-10-05T16:01:10.234002053Z",
+  "model": "glm-5.3"
+}

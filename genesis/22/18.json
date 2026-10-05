@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 22:18",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "התברכו",
+      "rationale": "«Өздөрүнө бата алышат» (хитпаэл) менен «бата алышат» (нифал сыяктуу) ортосунда байыркы айырма; KJV «be blessed», YLT «blessed themselves»."
+    },
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "rationale": "Байланыштык «анткени» бир сөзгө сиңди."
+    }
+  ],
+  "translation": "Жана үрөнүңдө жердин бардык элдери өздөрүнө бата алышат, анткени сен менин үнүмдү угдуң.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "bf0f61fb73dd978dfa2e28bf0e4f617e3e070e8525920a0b6fcce1d55bd70607",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/22\/17-20.1791201110114.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והתברכו",
+      "gloss": "жана өздөрүнө бата алышат"
+    },
+    {
+      "surface": "бזרעך",
+      "gloss": "үрөнүңдө"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бардык"
+    },
+    {
+      "surface": "גויי",
+      "gloss": "элдери"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "жердин"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "угдуң"
+    },
+    {
+      "surface": "בקלי",
+      "gloss": "менин үнүмдү"
+    }
+  ],
+  "timestamp": "2026-10-05T11:51:50.115144325Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezekiel 42:19",
+  "book": "ezekiel",
+  "lang": "ky",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "батыш",
+      "rationale": "הים латын 'деңиз' — Израилде деңиз батышта болгондуктан 'батыш' багытын билдирет."
+    },
+    {
+      "kind": "measurement",
+      "subject": "беш жүз камыш",
+      "rationale": "Батыш тараптын өлчөөсү — беш жүз өлчөө камышы."
+    }
+  ],
+  "translation": "Батыш тарапка бурулду да өлчөдү — беш жүз камыш, өлчөө камышы менен.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "fa69aa4cfc290ef219dcc6bb46fdca672ab4013daa867e8ec3afe885d5fdd510",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ezekiel\/42\/17-20.1791213483986.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "סבב",
+      "gloss": "бурулду"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ка"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "тарапка"
+    },
+    {
+      "surface": "הים",
+      "gloss": "батыш"
+    },
+    {
+      "surface": "מדד",
+      "gloss": "өлчөдү"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "беш"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "жүз"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "камыш"
+    },
+    {
+      "surface": "בקנה",
+      "gloss": "камышы менен"
+    },
+    {
+      "surface": "המדה",
+      "gloss": "өлчөө"
+    }
+  ],
+  "timestamp": "2026-10-05T15:18:03.987282644Z",
+  "model": "glm-5.3"
+}

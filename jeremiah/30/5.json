@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 30:5",
+  "book": "jeremiah",
+  "lang": "ky",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "чоочуудо жаткан",
+      "rationale": "ивритте פחד жалаң турат, кыргызча сөз айкашы үчүн кошулду"
+    },
+    {
+      "kind": "substitution",
+      "subject": "тынчтык жок",
+      "rationale": "באין שלום — «тынчтык жок», айрым котормолордо «тынчтыктын үнү эмес» деп узартылган"
+    }
+  ],
+  "translation": "Анткени мындай дейт Яхве: калтыроонун үнүн уктук, чоочуудо жаткан коркуу — жана тынчтык жок.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "1ec5461b271904f7c91e3b10b413869960708e3f1848cb908368c97992272ba2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/jeremiah\/30\/5-8.1791211440347.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Анткени"
+    },
+    {
+      "surface": "כה",
+      "gloss": "мындай"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "дейт"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "קול",
+      "gloss": "үнүн"
+    },
+    {
+      "surface": "חרדה",
+      "gloss": "калтыроонун"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "уктук"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "коркуу"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "жана … жок"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "тынчтык"
+    }
+  ],
+  "timestamp": "2026-10-05T14:44:00.347923190Z",
+  "model": "glm-5.3"
+}

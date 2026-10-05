@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 26:1",
+  "book": "2-chronicles",
+  "lang": "ky",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "בן שש עשרה שנה",
+      "rationale": "кыргызча 'он алты жашар' — 'алтытын жана ондон' деген сөзмө-сөз түзүлүш колдонулду"
+    },
+    {
+      "kind": "measurement",
+      "subject": "он алты жаш",
+      "rationale": "падышанын так жашы көрсөтүлгөн"
+    }
+  ],
+  "translation": "Жана Йегуданын бүткүл эли ⟨את⟩ Уззияхуны алды — ал он алты жашар эле — жана ⟨את⟩ аны атасы Аматсыяхунун ордуна падыша кылышты.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "7d9a2d034a03135cab36b77fa342f1a2f32669433a2edb137ef85edcdcc7d896",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-chronicles\/26\/1-4.1791223138090.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "алды"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүткүл"
+    },
+    {
+      "surface": "עם",
+      "gloss": "эли"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Йегуданын"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Уззияхуну"
+    },
+    {
+      "surface": "עזיהו",
+      "gloss": "Уззияхуны"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ал"
+    },
+    {
+      "surface": "בן",
+      "gloss": "жашар"
+    },
+    {
+      "surface": "שש",
+      "gloss": "алты"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "он"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "жаш"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "падыша кылышты"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ аны",
+      "marks": "Уззияхуну"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ординуна"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "атасы"
+    },
+    {
+      "surface": "אמציהו",
+      "gloss": "Аматсыяхунун"
+    }
+  ],
+  "timestamp": "2026-10-05T17:58:58.090835327Z",
+  "model": "glm-5.3"
+}

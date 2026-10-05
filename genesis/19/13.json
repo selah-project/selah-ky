@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 19:13",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "משחתים \/ לשחחתה",
+      "rationale": "шахат тамыры эки жолу кайталанат — бузуучулар бузуу үчүн жөнөтүлдү; кыргызча «буз-» сөзү байланышты."
+    },
+    {
+      "kind": "substitution",
+      "subject": "את פני",
+      "rationale": "бул את — предлог (алдында), aleph-tav белгиси эмес, ДОбъект эмес."
+    }
+  ],
+  "translation": "Анткени биз ⟨את⟩ бул жерди бузабыз, анткени алардын кыйкырыгы Яхвенин ⟨את⟩ алдында чоңоюп кетти, жана Яхве аны бузуу үчүн бизди жөнөттү.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "99189e1901fc68848fd525dfc9b1b98a0af3340c7b9c2f076acf22da63323fc0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/19\/13-16.1791201074201.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "משחתים",
+      "gloss": "бузабыз"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "биз"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "бул жерди"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "жерди"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "бул"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "чоңоюп кетти"
+    },
+    {
+      "surface": "צעקתם",
+      "gloss": "кыйкырыгы"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ алдында"
+    },
+    {
+      "surface": "פני",
+      "gloss": "бетине"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    },
+    {
+      "surface": "וישלחנו",
+      "gloss": "бизди жөнөттү"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "לשחתה",
+      "gloss": "бузуу үчүн"
+    }
+  ],
+  "timestamp": "2026-10-05T11:51:14.201713011Z",
+  "model": "glm-5.3"
+}

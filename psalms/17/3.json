@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 17:3",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "זממותי בל יעבר פי",
+      "rationale": "KJV\/JPS: «мен оозум күнөө кылбасын деп ниет кылдым» (זמתי — «менин ниетим»); YLT: «менин ойлорум оозумдан өтпөйт» (זמתי — «тапкан нерсеси жок» объектиси)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "чоюп тазаладым",
+      "rationale": "צרף — металл эритип тазалоо; сүрөт сакталды."
+    }
+  ],
+  "translation": "Жүрөгүмдү сынадың, түндө текшердиң; мени чоюп тазаладың — эч нерсе тапкан жоксуң; ниеттерим оозумдан өтпөйт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "613f5ebf5e2899eea61296da291e5f5c715f3f5469ce6385da044a8b89f8f99f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/17\/1-4.1791215510279.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בחנת",
+      "gloss": "сынадың"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "жүрөгүмдү"
+    },
+    {
+      "surface": "פקדת",
+      "gloss": "текшердиң"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "түндө"
+    },
+    {
+      "surface": "צרפתני",
+      "gloss": "чоюп тазаладың"
+    },
+    {
+      "surface": "בל",
+      "gloss": "жок"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "тапкан жоксуң"
+    },
+    {
+      "surface": "זמתי",
+      "gloss": "ниеттерим"
+    },
+    {
+      "surface": "בל",
+      "gloss": "жок"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "өтпөйт"
+    },
+    {
+      "surface": "פי",
+      "gloss": "оозумдан"
+    }
+  ],
+  "timestamp": "2026-10-05T15:51:50.280686067Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 16:22",
+  "book": "deuteronomy",
+  "lang": "ky",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "таш мамы",
+      "rationale": "מצבה (мацева) — орнотулган таш мамы; KJV 'образ' деп берет, бирок бул — таш, ошондуктан 'таш мамы'."
+    },
+    {
+      "kind": "addition",
+      "subject": "аны",
+      "rationale": "אשר байламтасы кыргызча 'аны' деп ачылды, Hebrew релятив мүчөсүнүн ордуна ат алып берилди."
+    }
+  ],
+  "translation": "Жана өзүңө таш мамы тургузба — аны Яхве, Элохимің жек көрөт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "8c289cc2d6f1d41a50196a05aff71edce426561e37782e887d67bbf68e4adced",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/16\/21-22.1791205064355.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "жана жок"
+    },
+    {
+      "surface": "תקים",
+      "gloss": "тургузба"
+    },
+    {
+      "surface": "לך",
+      "gloss": "өзүңө"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "таш мамы"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "аны"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "жек көрөт"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Элохимің"
+    }
+  ],
+  "timestamp": "2026-10-05T12:57:44.355933610Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 24:8",
+  "book": "leviticus",
+  "lang": "ky",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ביום השבת ביום הшбат",
+      "rationale": "Эки жолу кайталануу — Шаббат күнү, Шаббат күнү — риторикалык басым, кыргызча сакталды."
+    },
+    {
+      "kind": "addition",
+      "subject": "бойдон",
+      "rationale": "Иврияларында 'ал — түбөлүктүү келишим' деген ээсиз конструкция; кыргызча бышыктооч керек."
+    }
+  ],
+  "translation": "Шаббат күнү, Шаббат күнү ал аны Яхвенин алдында тынымсыз тизип турат — Йисраэл уулдары тарабынан ⟨את⟩ — түбөлүктүү келишим бойдон.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "b34df01f0594b3db31a245b19bb29037ed4169651d801e1f49447b5ebf8e6e19",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/24\/5-8.1791203399822.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "күнү"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Шаббат"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "күнү"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Шаббат"
+    },
+    {
+      "surface": "יערכנו",
+      "gloss": "тизип турат"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "алдында"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "тынымсыз"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "Йисраэл уулдары"
+    },
+    {
+      "surface": "בני",
+      "gloss": "уулдары"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэл"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "келишим"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "түбөлүктүү"
+    }
+  ],
+  "timestamp": "2026-10-05T12:29:59.824012644Z",
+  "model": "glm-5.3"
+}

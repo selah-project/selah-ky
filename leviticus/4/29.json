@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 4:29",
+  "book": "leviticus",
+  "lang": "ky",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "күнөө курмандыгы",
+      "rationale": "חטאת 'күнөө' деген сөз өзү — күнөө да, анын курмандыгы да; кыргызча эки сөз керек болду"
+    }
+  ],
+  "translation": "Жана ⟨את⟩ колун күнөө курмандыгынын башына коёт, жана ⟨את⟩ күнөө курмандыгын өрт курмандыгы союла турган жерде соёт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "1f05f5a6c05331690d58bdfacebbe2c0f90bbf59622d893c37155537fa32ebd9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/4\/29-32.1791202915329.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וסמך",
+      "gloss": "коёт"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "колун"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "колун"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстүнө"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "башына"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "күнөө курмандыгынын"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "соёт"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "күнөө курмандыгын"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "күнөө курмандыгын"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "жерде"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "өрт курмандыгынын"
+    }
+  ],
+  "timestamp": "2026-10-05T12:21:55.330113128Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 17:16",
+  "book": "leviticus",
+  "lang": "ky",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "анда",
+      "rationale": "Шарттын жыйынтыгы кыргызча «анда» байланышы менен ачыкталды."
+    },
+    {
+      "kind": "substitution",
+      "subject": "כרת",
+      "rationale": "«кесилип ташталат» эмес, бул жерде «күнөөнү көтөрүү» — נשא עון кыйла кеңири жаза туюму."
+    }
+  ],
+  "translation": "Жана эгер ал жуубаса жана этин киринтпесе, анда ал өз күнөөсүн көтөрөт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "a730804f036026d31fa4f1ec807632a2a81dd5b2a57f8e21085bc3befa7b01be",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/17\/13-16.1791203207517.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "жана эгер"
+    },
+    {
+      "surface": "לא",
+      "gloss": "…баса"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "жуубаса"
+    },
+    {
+      "surface": "ובשרו",
+      "gloss": "жана этин"
+    },
+    {
+      "surface": "לא",
+      "gloss": "…бесе"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "киринтпесе"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "көтөрөт"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "өз күнөөсүн"
+    }
+  ],
+  "timestamp": "2026-10-05T12:26:47.518581042Z",
+  "model": "glm-5.3"
+}

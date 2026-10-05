@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "deuteronomy 4:38",
+  "book": "deuteronomy",
+  "lang": "ky",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "үчүн",
+      "rationale": "Инфинитивдер (להוריש, להбיאך, לתת) максат маанисин билдирет; кыргызча «үчүн» ачык жазылды."
+    },
+    {
+      "kind": "elision",
+      "subject": "ממך",
+      "rationale": "«Сенecen» деген сөз текстке кирген жок — «senden uluu» деген салыштыруу түрүндө «улуу» ичине сиңди."
+    }
+  ],
+  "translation": "Сенecen улуу жана сенecen күчтүү элдерди сенин алдыңдан кууп чыгуу үчүн, сени алып кирүү үчүн жана ⟨את⟩ алардын жерин мурас катары бүгүнкүдөй сага берүү үчүн.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "b2e57b59b0ef5cbb463a61935c3faec874864af26b53a5a500caaa05380d0425",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/4\/37-38.1791223709276.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "להוריש",
+      "gloss": "kuup çığuu üçün"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "elderdi"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "uluu"
+    },
+    {
+      "surface": "ועצמים",
+      "gloss": "jana küçt üü"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "senden"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "senin aldıŋdan"
+    },
+    {
+      "surface": "להביאך",
+      "gloss": "seni alıp kirüü üçün"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "berüü üçün"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sağa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alardın jerin"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "alardın jerin"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "muras katarı"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "bügünkdöy"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "uşul"
+    }
+  ],
+  "timestamp": "2026-10-05T18:08:29.277821459Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 64:6",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 64,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "жан",
+      "rationale": "Ивритте «жок» деген сүйлөмдө атооч жок; кыргыз тили «жан жок» деп талап кылат"
+    },
+    {
+      "kind": "secret",
+      "subject": "Сен Өз жүзүңду бизден жашырдың",
+      "rationale": "Жашырылган жүз — катуу чыгып кетүү темасы"
+    }
+  ],
+  "translation": "Жана Сенин ысымыңа ⟨את⟩ чакырган, өзүн ойготуп Сага жабышкан жан жок, анткени Сен Өз жүзүңду бизден жашырдың, жана биздин карылыктарыбыздын колу менен бизди эриттиң.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "1c6f02b30f0d3eb0ec598fb5fa82f66cc4d035d7f4c504c36ab9be999cc6a01c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/64\/5-8.1791210578257.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואין",
+      "gloss": "жана … жок"
+    },
+    {
+      "surface": "קורא",
+      "gloss": "чакырган"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "Сенин ысымыңа"
+    },
+    {
+      "surface": "מתעורר",
+      "gloss": "өзүн ойготуп"
+    },
+    {
+      "surface": "להחזיק",
+      "gloss": "жабышкан"
+    },
+    {
+      "surface": "בך",
+      "gloss": "Сага"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "הסתרת",
+      "gloss": "жашырдың"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "жүзүңду"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "бизден"
+    },
+    {
+      "surface": "ותמוגנו",
+      "gloss": "бизди эриттиң"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "колу менен"
+    },
+    {
+      "surface": "עוננו",
+      "gloss": "карылыктарыбыздын"
+    }
+  ],
+  "timestamp": "2026-10-05T14:29:38.258396360Z",
+  "model": "glm-5.3"
+}

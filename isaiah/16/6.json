@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 16:6",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "גאון\/גא\/גאותו\/וגאונו",
+      "rationale": "גאה тамырынын төрт жолу кайталанышы — текеберликтин өзү көөнөрбөс кайра-кайра айтылат"
+    },
+    {
+      "kind": "crux",
+      "subject": "לא כן בדיו",
+      "rationale": "«анын жалганы мындай эмес \/ анын жалаңдары бекер» же «анын күчү мынча эмес» деген варианттар бар"
+    }
+  ],
+  "translation": "Биз Моабдан уктук: ал өтө текебер; анын менсинбегендиги, анын улуулугу жана анын каары — анын жалган сөздөрү мындай эмес.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "c943102781b07f1a3b11ad3ac3a5d786f2ed28dd65a05f7ef13a0d10af7cebc0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/16\/5-8.1791209707694.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמענו",
+      "gloss": "уктук"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "текеберин"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моабдан"
+    },
+    {
+      "surface": "גא",
+      "gloss": "текебер"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "өтө"
+    },
+    {
+      "surface": "גאותו",
+      "gloss": "анын менсинбегендиги"
+    },
+    {
+      "surface": "וגאונו",
+      "gloss": "жана анын улуулугу"
+    },
+    {
+      "surface": "ועברתו",
+      "gloss": "жана анын каары"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "כן",
+      "gloss": "мындай"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "анын жалган сөздөрү"
+    }
+  ],
+  "timestamp": "2026-10-05T14:15:07.694807523Z",
+  "model": "glm-5.3"
+}

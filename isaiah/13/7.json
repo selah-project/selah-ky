@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 13:7",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "адамдын",
+      "rationale": "אנוש 'өлүмдүү' сын атооч; кыргызча такташ үчүн 'адам' сөзү кошулду"
+    },
+    {
+      "kind": "elision",
+      "subject": "על",
+      "rationale": "'ошондуктан' түркүмүнө сиңди"
+    }
+  ],
+  "translation": "Ошондуктан бардык колдор бошоңдойт, жана ар бир өлүмдүү адамдын жүрөгү эрип кетет.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "f6410302172dcf66097e8343d4f9a4b3a9565c4c1b0e3894d06fe10605cb1ce1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/13\/5-8.1791209538422.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "כן",
+      "gloss": "ошондуктан"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бардык"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "колдор"
+    },
+    {
+      "surface": "תרפינה",
+      "gloss": "бошоңдойт"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "жана ар бир"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "жүрөгү"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "өлүмдүү адамдын"
+    },
+    {
+      "surface": "ימס",
+      "gloss": "эрип кетет"
+    }
+  ],
+  "timestamp": "2026-10-05T14:12:18.423804771Z",
+  "model": "glm-5.3"
+}

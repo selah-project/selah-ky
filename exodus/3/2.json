@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 3:2",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "периште",
+      "rationale": "מלאך — «элчи»; Яхвенин элчиси катары «периште»"
+    },
+    {
+      "kind": "addition",
+      "subject": "бирок",
+      "rationale": "каршылыкты кыргызча байланыштыруу үчүн кошулду"
+    },
+    {
+      "kind": "mystery",
+      "subject": "бадал күйбөйт",
+      "rationale": "күйүп турган бирок күйбөгөн бадал — жашырылган, түшүнүксүз көрүнүш"
+    }
+  ],
+  "translation": "Яхвенин периштеси ага оттун жалынында бадалдын ортосунан көрүндү. Ал карады — мына, бадал от менен күйүп жатат, бирок бадал күйүп бүткөн жок.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "c635f4f1e84e7914295bea088596bb7b31b5dd6ecd2d278b0de0f11859a0f5aa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/3\/1-4.1791201866143.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "көрүндү"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "периштеси"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ага"
+    },
+    {
+      "surface": "בלבת",
+      "gloss": "жалынында"
+    },
+    {
+      "surface": "אש",
+      "gloss": "оттун"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "ортосунан"
+    },
+    {
+      "surface": "הסנה",
+      "gloss": "бадалдын"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "карады"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "мына"
+    },
+    {
+      "surface": "הסנה",
+      "gloss": "бадал"
+    },
+    {
+      "surface": "בער",
+      "gloss": "күйүп жатат"
+    },
+    {
+      "surface": "באש",
+      "gloss": "от менен"
+    },
+    {
+      "surface": "והסנה",
+      "gloss": "бадал"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "жок"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "күйүп бүткөн"
+    }
+  ],
+  "timestamp": "2026-10-05T12:04:26.144565745Z",
+  "model": "glm-5.3"
+}

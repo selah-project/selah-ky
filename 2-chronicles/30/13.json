@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 30:13",
+  "book": "2-chronicles",
+  "lang": "ky",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "үчүн",
+      "rationale": "Кыргызча инфинитив максатты ⟨үчүн⟩ менен айтат, еврейче לעשות жалгыз турат"
+    },
+    {
+      "kind": "measurement",
+      "subject": "экинчи ай",
+      "rationale": "Майрамдын убактысы эсепке алынат — экинчи ай, кечиккен Песах"
+    }
+  ],
+  "translation": "Жана Йерушалайимде эл чогулду — экинчи айда ⟨את⟩ Маццот майрамын өткөрүү үчүн — өтө абдан көп жыйын.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "a7d68ae2e6dc94f1513b62ba03d207c1f323d8cf95b64c7d157381ee0a477fe9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-chronicles\/30\/13-16.1791223375625.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאספו",
+      "gloss": "чогулду"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Йерушалайимде"
+    },
+    {
+      "surface": "עם",
+      "gloss": "эл"
+    },
+    {
+      "surface": "רב",
+      "gloss": "көп"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "өткөрүү үчүн"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Маццот майрамын"
+    },
+    {
+      "surface": "חג",
+      "gloss": "майрамын"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "Маццот"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "айында"
+    },
+    {
+      "surface": "השני",
+      "gloss": "экинчи"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "жыйын"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "абдан көп"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "өтө"
+    }
+  ],
+  "timestamp": "2026-10-05T18:02:55.626634125Z",
+  "model": "glm-5.3"
+}

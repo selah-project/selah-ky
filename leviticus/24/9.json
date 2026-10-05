@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 24:9",
+  "book": "leviticus",
+  "lang": "ky",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "от курмандыктары",
+      "rationale": "אשי יהוה көбүнчө «Яхвеге өрттөлүүчү курмандыктар» деп айтылат, бир тамыр — от (אש)"
+    },
+    {
+      "kind": "idiom",
+      "subject": "кийыктардын ыйыгы",
+      "rationale": "קדש קדשים — өтө ыйык деген еврейче күчөтүү идиомасы, кайталоо менен"
+    }
+  ],
+  "translation": "Ал Ахаронго жана анын уулдарына тиешелүү болот, жана алар аны ыйык жерде жешет, анткени ал — Яхвенин от курмандыктарынын ыйыктардын ыйыгы, ага түбөлүктүк жобо бойдон.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "047fa15ed21e9e729c53e9308fb1c673d0f8cf731bc1e88d3858209807430370",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/24\/9-12.1791203400725.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "болот"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Ахаронго"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "жана анын уулдарына"
+    },
+    {
+      "surface": "ואכלהו",
+      "gloss": "жана алар аны жешет"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "жеринде"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ыйык"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ыйык"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "ыйыктардын"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ал"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ага"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "от курмандыктарынан"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    },
+    {
+      "surface": "חק",
+      "gloss": "жобо"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "түбөлүктүк"
+    }
+  ],
+  "timestamp": "2026-10-05T12:30:00.726347634Z",
+  "model": "glm-5.3"
+}

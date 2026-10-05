@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 24:22",
+  "book": "numbers",
+  "lang": "ky",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עד מה",
+      "rationale": "'канча убакка чейин?' суроо же 'канча убакка' байланыштык — JPS суроо катары, KJV байланыш катары."
+    },
+    {
+      "kind": "substitution",
+      "subject": "туткунга алат",
+      "rationale": "שבה — эсирге алуу, зордоп алып кетүү."
+    }
+  ],
+  "translation": "Чындыгында Кайын кырылууга калат — Ашшур сени канча убакка чейин туткунга алат?",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "6553d13de5b839e0649c754f9026d569023e12ed6d522afb4916af770c690a36",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/numbers\/24\/21-24.1791204139694.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "чындыгында"
+    },
+    {
+      "surface": "אם",
+      "gloss": "анткени да"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "болот"
+    },
+    {
+      "surface": "לבער",
+      "gloss": "кырылууга"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Кайын"
+    },
+    {
+      "surface": "עד",
+      "gloss": "чейин"
+    },
+    {
+      "surface": "מה",
+      "gloss": "канча убакка"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ашшур"
+    },
+    {
+      "surface": "תשבך",
+      "gloss": "туткунга алат"
+    }
+  ],
+  "timestamp": "2026-10-05T12:42:19.695006589Z",
+  "model": "glm-5.3"
+}

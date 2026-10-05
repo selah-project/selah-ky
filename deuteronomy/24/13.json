@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 24:13",
+  "book": "deuteronomy",
+  "lang": "ky",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "השב תשיב",
+      "rationale": "Инфинитив абсолют + этиш — «кайтарып кайтар» күчөтүү; кыргызча бир этиш менен берилди"
+    },
+    {
+      "kind": "substitution",
+      "subject": "цедек",
+      "rationale": "צדקה — «адилеттик» эмес, түп байланышта «туураликтүүлүк», Яхвенин алдында эсептелген иш"
+    }
+  ],
+  "translation": "Күн батып кирери менен анын күүлөнгөн буюмун ⟨את⟩ кайтарып бер, ал өз кийиминде жатсын жана сени баталасын; жана ал сен үчүн Яхвенин, сенин Элохиміңдин алдында цедек болот.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "6aaea6d8910b8e00cf423ccccbde75dab512cc0914e1836a2a4df4845ad17941",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/24\/13-16.1791205229985.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "השב",
+      "gloss": "кайтарып бер"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "кайтарып бер"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ага"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "куүлөнгөн буюм"
+    },
+    {
+      "surface": "העבוט",
+      "gloss": "күүлөнгөн буюм"
+    },
+    {
+      "surface": "כבא",
+      "gloss": "кирери менен"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "күн"
+    },
+    {
+      "surface": "ושכב",
+      "gloss": "жана жатсын"
+    },
+    {
+      "surface": "בשלמתו",
+      "gloss": "өз кийиминде"
+    },
+    {
+      "surface": "וברכך",
+      "gloss": "жана сени баталасын"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "жана сен үчүн"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "болот"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "цедек"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "алдында"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "сенин Элохиміңдин"
+    }
+  ],
+  "timestamp": "2026-10-05T13:00:29.986132271Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 7:9",
+  "book": "deuteronomy",
+  "lang": "ky",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨бул⟩",
+      "rationale": "Ивритте «бул» деген эмес, הוא бөлсүз айтылат; кыргызча туюм үчүн кошулду"
+    },
+    {
+      "kind": "measurement",
+      "subject": "миң муунга",
+      "rationale": "לאלף דור — мамилени убакыт менен ченеген сан: миң муун"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שמר … לשמרי",
+      "rationale": "\"сактоо\" тамыры эки жолу кайталанат: Яхве келишимди сактайт, буйрукту кармагандар да сактайт"
+    }
+  ],
+  "translation": "Жана сен билесиң: Яхве, Элохимиң — Ал ⟨бул⟩ Элохим, ишенимдүү Эл, Аны сүйгөндөргө жана Анын буйруктарын миң муунга чейин кармагандарга келишимди жана хеседди сактаган.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "b377460bc6c27090c48d7e29e992180703f669ae29e9aebbc6228e65331ddd42",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/7\/9-12.1791204869946.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידעת",
+      "gloss": "жана сен билесиң"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Элохимиң"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Ал"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "⟨бул⟩ Элохим"
+    },
+    {
+      "surface": "האל",
+      "gloss": "Эл"
+    },
+    {
+      "surface": "הנאמן",
+      "gloss": "ишенимдүү"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "сактаган"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "келишимди"
+    },
+    {
+      "surface": "והחסד",
+      "gloss": "жана хеседди"
+    },
+    {
+      "surface": "לאהביו",
+      "gloss": "Аны сүйгөндөргө"
+    },
+    {
+      "surface": "ולשמרי",
+      "gloss": "жана кармагандарга"
+    },
+    {
+      "surface": "מצותו",
+      "gloss": "Анын буйруктарын"
+    },
+    {
+      "surface": "לאלף",
+      "gloss": "миң"
+    },
+    {
+      "surface": "דור",
+      "gloss": "муунга"
+    }
+  ],
+  "timestamp": "2026-10-05T12:54:29.946910557Z",
+  "model": "glm-5.3"
+}

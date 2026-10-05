@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ecclesiastes 3:21",
+  "book": "ecclesiastes",
+  "lang": "ky",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "рух",
+      "rationale": "מי יודע — «ким билет» же «ким билип калат»: бул суроо Адам менен малдын руху теңеби же адамдыкы жогору бареби деген талаштуу суроо; китептин мааниси талашта"
+    },
+    {
+      "kind": "substitution",
+      "subject": "рух",
+      "rationale": "רוח — «шамал\/дем\/рух» деген бир сөз; бул жерде жан маанисинде, бирок сөз өзү жарылып турган нерсе"
+    },
+    {
+      "kind": "mystery",
+      "subject": "ким билет",
+      "rationale": "Өлгөндөн кийинки жөнүндө билим ачык кармалган — текст өзү жооп бербейт"
+    }
+  ],
+  "translation": "Ким билет — адам балдарынын руху жогору көтөрүлсө да, ал эми малдын руху төмөн жерге түшсө да?",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "806e747af1c504056d8ef70d1de1f634c46268e2beb4b72cae911afe29ab3a04",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ecclesiastes\/3\/21-22.1791219962756.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ким"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "билет"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "руху"
+    },
+    {
+      "surface": "בני",
+      "gloss": "балдарынын"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "адам"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "жогору көтөрүлсө"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ал"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "жогору"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "ал эми руху"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "малдын"
+    },
+    {
+      "surface": "הירדת",
+      "gloss": "төмөн түшсө"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ал"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "төмөн"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "жерге"
+    }
+  ],
+  "timestamp": "2026-10-05T17:06:02.756620144Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 38:5",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "בתים",
+      "rationale": "Буквально «үйлөр»; бул жерде таяктар өтүүчү орундар деген мааниде."
+    },
+    {
+      "kind": "measurement",
+      "subject": "төрт шакек, төрт бурч",
+      "rationale": "Мизбектин өлчөмдүү жабдуулары саналып берилген."
+    }
+  ],
+  "translation": "Жана ал жез тордун төрт бурчуна төрт шакек куйду — таяктар үчүн ⟨орундар⟩.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "12a9bc8583a3bf3c4878ad03268f07e26cea04d1d60ebec1f64fa625719f671e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/38\/5-8.1791202674876.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצק",
+      "gloss": "куйду"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "төрт"
+    },
+    {
+      "surface": "טבעת",
+      "gloss": "шакек"
+    },
+    {
+      "surface": "בארבע",
+      "gloss": "төрт"
+    },
+    {
+      "surface": "הקצות",
+      "gloss": "бурчуна"
+    },
+    {
+      "surface": "למכבר",
+      "gloss": "тордун"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "жез"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "орундар"
+    },
+    {
+      "surface": "לבדים",
+      "gloss": "таяктар үчүн"
+    }
+  ],
+  "timestamp": "2026-10-05T12:17:54.877124900Z",
+  "model": "glm-5.3"
+}

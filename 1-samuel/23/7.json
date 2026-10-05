@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 23:7",
+  "book": "1-samuel",
+  "lang": "ky",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נכר אתו",
+      "rationale": "«аны таанып берди» же «аны колума берди» — көп котормолор «берди» деп алат, лексика «белгилөө\/таануу» дейт"
+    },
+    {
+      "kind": "addition",
+      "subject": "камалып калды",
+      "rationale": "נסגר — «жабылып калды»; кыргызча айкындоо үчүн «камалып» кошулду"
+    }
+  ],
+  "translation": "Давид Кеилага келди деп Шаулга айтылды, ошондо Шаул айтты: Элохим ⟨את⟩ аны мага берди, анткени ал эшиги жана чыргыны бар шаарга кирип, камалып калды.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "f765b91ec771635750517e5b559e3ada8496408aab9c43e04f844148f249c2e3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-samuel\/23\/5-8.1791207095527.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "айтылды"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Шаулга"
+    },
+    {
+      "surface": "כי",
+      "gloss": "деп"
+    },
+    {
+      "surface": "בא",
+      "gloss": "келди"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Кеилага"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "берди"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ аны"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "мага колума"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "נסгר",
+      "gloss": "камалып калды"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "кирип"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "шаарга"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "эшиги"
+    },
+    {
+      "surface": "ובריח",
+      "gloss": "жана чыргыны"
+    }
+  ],
+  "timestamp": "2026-10-05T13:31:35.528913471Z",
+  "model": "glm-5.3"
+}

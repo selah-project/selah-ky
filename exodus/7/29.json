@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 7:29",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "өрмөлөп чыгышат",
+      "rationale": "יעלו жөнөкөй 'чыгышат'; 'өрмөлөө' багалардын жылып чыгуусун тактоо үчүн кошулду"
+    },
+    {
+      "kind": "elision",
+      "subject": "ה (артикль)",
+      "rationale": "הצפרדעים ичиндеги артикль — кыргыз тилинде артикль жок, көтөрүлбөйт"
+    }
+  ],
+  "translation": "Жана сага, жана сенин элиңе, жана бүт кулдарыңа бақалар өрмөлөп чыгышат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "f1719b36a41393d28a3264b66c53ddf136d98ef0fd41258139ff985d29c652cb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/7\/29-29.1791201976867.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובכה",
+      "gloss": "жана сага"
+    },
+    {
+      "surface": "ובעמך",
+      "gloss": "жана сенин элиңе"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "жана бүт"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "кулдарыңа"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "өрмөлөп чыгышат"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "бақалар"
+    }
+  ],
+  "timestamp": "2026-10-05T12:06:16.868264313Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 11:4",
+  "book": "ecclesiastes",
+  "lang": "ky",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "רוח\/זרע",
+      "rationale": "рух (шамал) жана үрөн сөздөрүнүн айкашы — 'зерэ руах' үндөштүгү кыргызчада сакталбай калды"
+    },
+    {
+      "kind": "crux",
+      "subject": "שמר רוח",
+      "rationale": "'шамалды күткөн' же 'рухту сактаган' — көпчүлүк котормолор шамал маанисин тандайт"
+    }
+  ],
+  "translation": "Рухту көзөмөлдөгөн үрөн себбейт, жана булуттарга караган орун албайт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "d138aca0704de1a9db0eef7ca0039ec2e27ef3e5e234cc7b7c29d720e593ddd2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ecclesiastes\/11\/1-4.1791220146186.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "көзөмөлдөгөн"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "рухту"
+    },
+    {
+      "surface": "לא",
+      "gloss": "эмес"
+    },
+    {
+      "surface": "יזרע",
+      "gloss": "үрөн себбейт"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "караган"
+    },
+    {
+      "surface": "בעבים",
+      "gloss": "булуттарга"
+    },
+    {
+      "surface": "לא",
+      "gloss": "эмес"
+    },
+    {
+      "surface": "יקצור",
+      "gloss": "орун албайт"
+    }
+  ],
+  "timestamp": "2026-10-05T17:09:06.187371795Z",
+  "model": "glm-5.3"
+}

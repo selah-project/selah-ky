@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 51:4",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "Мага көңүл буругула ... кулак төшкүлө",
+      "rationale": "Дубал өтүнүч — эл жана уруу чакырылат."
+    },
+    {
+      "kind": "you",
+      "subject": "элим, уруум",
+      "rationale": "Яхвенин тике кайрылуусу Ыйык Келишим элине."
+    },
+    {
+      "kind": "crux",
+      "subject": "ארגיע",
+      "rationale": "Котормочулар бөлүнөт: 'тез\/капысынан жүзөгө ашырам' (JPS) же 'тынч орноттом' (KJV 'make to rest'); тамыр 'тыйталуу, кыймылда болуу' маанисин берет."
+    },
+    {
+      "kind": "elision",
+      "subject": "מאתי ичиндеги את",
+      "rationale": "׀בвили preposition 'минан' менен жуурулган את белгиси ⟨את⟩ түрүндө сакталды."
+    }
+  ],
+  "translation": "Мага көңүл буругула, элим, жана уруум, мага кулак төшкүлө: анткени Тора Менден ⟨את⟩ чыгат, жана Менин өкүмүм элдер үчүн жарык болуп тез орундалат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "675be70d2c4c8aaa0725e5f4bb12a3e6d3ed66f349d95d30edd7c69e1964864e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/51\/1-4.1791210458307.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הקשיבו",
+      "gloss": "көңүл буругула"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Мага"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "элим"
+    },
+    {
+      "surface": "ולאומי",
+      "gloss": "жана уруум"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "мага"
+    },
+    {
+      "surface": "האזינו",
+      "gloss": "кулак төшкүлө"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "Тора"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "Менден ⟨את⟩"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "чыгат"
+    },
+    {
+      "surface": "ומשפטי",
+      "gloss": "жана Менин өкүмүм"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "жарык үчүн"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "элдер"
+    },
+    {
+      "surface": "ארגיע",
+      "gloss": "тез орундалат"
+    }
+  ],
+  "timestamp": "2026-10-05T14:27:38.308824480Z",
+  "model": "glm-5.3"
+}

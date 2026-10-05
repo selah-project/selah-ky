@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 9:5",
+  "book": "job",
+  "lang": "ky",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "rationale": "относительное слово не имеет отдельного кыргызского эквивалента здесь, вошло в конструкцию"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אף",
+      "rationale": "дословно 'ноздря\/нос' — идиома гнева; кыргызча 'каар'"
+    }
+  ],
+  "translation": "Тоолорду жылдырган, жана алар билишпейт, анын каары менен аларды төңкөргөн.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "ca3eccba68a76e3c898c1c7571bfcbab2735a7f465e54077a3c5e92815dcea80",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/job\/9\/5-8.1791218711518.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "המעתיק",
+      "gloss": "жылдырган"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "тоолорду"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "жана… бекер"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "билишпейт"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "הפכם",
+      "gloss": "аларды төңкөргөн"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "анын каары менен"
+    }
+  ],
+  "timestamp": "2026-10-05T16:45:11.519096255Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 50:1",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Эл Элохим Яхве",
+      "rationale": "Үч ысым катар турат: 'кудайлердин Кудайу' (Эл Элохим) же 'Кудуреттүү' деп да которулат."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ממזרח...מבאו",
+      "rationale": "Күндүн чыгышынан киргенине чейин — күндүн жүрүшү боюнча чектелген бүткүл жер."
+    },
+    {
+      "kind": "invitation",
+      "subject": "жерди чакырды",
+      "rationale": "Яхве жерди сотко чакырат — 4-аятка ачылган чакыруу."
+    }
+  ],
+  "translation": "Асафка таандык мазмур. Эл, Элохим, Яхве сүйлөдү жана жерди чакырды, күндүн чыгышынан анын батышына чейин.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "5b333b4986641e72bb7a769ca2765e7ff3ef82c51e3d22486fb9a306a4389c0a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/50\/1-4.1791216126300.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "мазмур"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "Асафка"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эл"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сүйлөдү"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "жана чакырды"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "жерди"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "чыгышынан"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "күндүн"
+    },
+    {
+      "surface": "עד",
+      "gloss": "чейин"
+    },
+    {
+      "surface": "מבאו",
+      "gloss": "анын батышына"
+    }
+  ],
+  "timestamp": "2026-10-05T16:02:06.300745171Z",
+  "model": "glm-5.3"
+}

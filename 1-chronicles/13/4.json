@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 13:4",
+  "book": "1-chronicles",
+  "lang": "ky",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "көздөрүндө туура",
+      "rationale": "בעיני — ивриттин «көз алдында жакшы\/туура» деген идиомасы, кыргызча «көздөрүндө» деп сакталды"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨бул⟩",
+      "rationale": "Кыргызча ээлик байланыш үчүн көрсөтүүчү кошулду, ивритте жок"
+    }
+  ],
+  "translation": "Жана бүт жыйын ошондой кылууга айтты, анткени ⟨бул⟩ сөз бүт элдин көздөрүндө туура эле.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "c2a1b7775a336ba58f5b676ca774ed0a4ce679d730e034fa3289187b95ad6a4e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-chronicles\/13\/1-4.1791222148043.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүт"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "жыйын"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "кылууга"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ошондой"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "туура"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "сөз"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "көздөрүндө"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүт"
+    },
+    {
+      "surface": "העם",
+      "gloss": "элдин"
+    }
+  ],
+  "timestamp": "2026-10-05T17:42:28.045501155Z",
+  "model": "glm-5.3"
+}

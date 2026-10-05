@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 35:3",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "бекемдегиле...чыңдагыла",
+      "rationale": "Эки буйрук — элге (окурманга) багытталган чакырык."
+    },
+    {
+      "kind": "substitution",
+      "subject": "כשלות",
+      "rationale": "'Таянычын жоготкон, тайгаланган' — кадимки котормолордогу 'алсыз' деген жалпылоо, сөз тайгаланууну билдирет."
+    }
+  ],
+  "translation": "Сласкан колдорду бекемдегиле, жана тайгаланып турган тизелерди чыңдагыла.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "5ee87909dddb49cae05685bd3052db40e8e1d4e76ad247954a8e52d4e7d18a19",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/35\/1-4.1791210016241.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חזקו",
+      "gloss": "бекемдегиле"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "колдорду"
+    },
+    {
+      "surface": "רפות",
+      "gloss": "сласкан"
+    },
+    {
+      "surface": "וברכים",
+      "gloss": "жана тизелерди"
+    },
+    {
+      "surface": "כשלות",
+      "gloss": "тайгаланып турган"
+    },
+    {
+      "surface": "אמצו",
+      "gloss": "чыңдагыла"
+    }
+  ],
+  "timestamp": "2026-10-05T14:20:16.242680544Z",
+  "model": "glm-5.3"
+}

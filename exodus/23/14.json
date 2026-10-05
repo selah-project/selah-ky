@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 23:14",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "רגלים",
+      "rationale": "литетаралдуу «буттар» — бут менен баруучу майрамдар; кыргызча «жолу» деген санап өтүү маанисинде берилди, «бут» сүрөтү жоголду"
+    },
+    {
+      "kind": "measurement",
+      "subject": "үч жолу жылына",
+      "rationale": "майрамдардын саны эсептелет"
+    }
+  ],
+  "translation": "Жылына үч жолу мага майрам кыл.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "5093b61dc4fb56e39415ed5f925caafeb762e52504545a564b8db1341b0558f2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/23\/13-16.1791202298847.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שלש",
+      "gloss": "үч"
+    },
+    {
+      "surface": "רגלים",
+      "gloss": "жолу (бут)"
+    },
+    {
+      "surface": "תחג",
+      "gloss": "майрам кыл"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мага"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "жылына"
+    }
+  ],
+  "timestamp": "2026-10-05T12:11:38.847803346Z",
+  "model": "glm-5.3"
+}

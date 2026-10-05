@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 106:29",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 106,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨Аны⟩",
+      "rationale": "Еврейче тексте объекти жок; каардандырылганып — Яхве экени алдынкы аяттан келет"
+    },
+    {
+      "kind": "substitution",
+      "subject": "жут",
+      "rationale": "מגפה — жугуштуу оору же жеңилүү; «жут» экөөнө да жакын"
+    }
+  ],
+  "translation": "Жана өз иштери менен ⟨Аны⟩ каардантышты, жана алардын арасына жут булкуп чыкты.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "9f3419b065176ead4aff283b6c319055849ef011e69e14d1cdca7b6ada534d56",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/106\/29-32.1791217143663.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויכעיסו",
+      "gloss": "каардантышты"
+    },
+    {
+      "surface": "במעלליהם",
+      "gloss": "өз иштери менен"
+    },
+    {
+      "surface": "ותפרץ",
+      "gloss": "булкуп чыкты"
+    },
+    {
+      "surface": "בם",
+      "gloss": "алардын арасына"
+    },
+    {
+      "surface": "מגפה",
+      "gloss": "жут"
+    }
+  ],
+  "timestamp": "2026-10-05T16:19:03.666721092Z",
+  "model": "glm-5.3"
+}

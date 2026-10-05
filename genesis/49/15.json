@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 49:15",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "салык катары эмгек кылуучу",
+      "rationale": "мас — аргасыз эмгек төлөмү; котормолор «салык төлөөчү кул» же «эмгек кылуучу» деп бөлүшөт"
+    },
+    {
+      "kind": "addition",
+      "subject": "экенин",
+      "rationale": "Еврейче «ал эс алууну — жакшы» дейт; кыргызча атооч аяктагысыз туура эмес"
+    }
+  ],
+  "translation": "Жана ал эс алуунун жакшы экенин жана ⟨את⟩ жердин жагымдуу экенин көрдү, жана мойнун жүк көтөрүүгө ийди да, салык катары эмгек кылуучу болду.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "a765db9d8f7e6499de592b4b7d254fb16c3bf7299eb54e08f70cfc5ffd9c672e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/49\/13-16.1791201804640.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "жана ал көрдү"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "эс алуунун"
+    },
+    {
+      "surface": "כי",
+      "gloss": "экенин"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "жакшы"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "жердин"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "жердин"
+    },
+    {
+      "surface": "כי",
+      "gloss": "экенин"
+    },
+    {
+      "surface": "נעמה",
+      "gloss": "жагымдуу"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "жана ийди"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "мойнун"
+    },
+    {
+      "surface": "לסבל",
+      "gloss": "жүк көтөрүүгө"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "жана болду"
+    },
+    {
+      "surface": "למס",
+      "gloss": "салык катары"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "эмгек кылуучу"
+    }
+  ],
+  "timestamp": "2026-10-05T12:03:24.641869889Z",
+  "model": "glm-5.3"
+}

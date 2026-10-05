@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 14:17",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "туткундарынын үйүн",
+      "rationale": "ביתה:literal 'үйүн' — падышанын туткундарды кармоочу үйү, башкача айтканда абак; көп котормолор 'түрмө' деп берет, бирок еврей сөзү — үй."
+    },
+    {
+      "kind": "addition",
+      "subject": "өз",
+      "rationale": "אסיריו ээлик мүчөсүнөндө үчүнчү жакты билдирет, кыргызча 'өз' кошулду."
+    }
+  ],
+  "translation": "Дүйнөнү чөл кылган, анын шаарларын бузган, өз туткундарынын үйүн ачпаган.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "07d7f2a926be1b475476e086dabe93ece17d093ac0b0302637b12a3ba8d3a0ed",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/14\/17-18.1791224000359.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "кылган"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "дүйнөнү"
+    },
+    {
+      "surface": "כמדבר",
+      "gloss": "чөл"
+    },
+    {
+      "surface": "ועריו",
+      "gloss": "жана анын шаарларын"
+    },
+    {
+      "surface": "הרס",
+      "gloss": "бузган"
+    },
+    {
+      "surface": "אסיריו",
+      "gloss": "өз туткундарынын"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ачкан"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "үйүн"
+    }
+  ],
+  "timestamp": "2026-10-05T18:13:20.359788278Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 41:19",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ברוש · תדהר · תאשור",
+      "rationale": "бул дарактардын так бөлүүсү белгисиз: кипарис\/чайыр, эмен\/карагай, кайың\/кипарис деген ар кандай окуулар бар; тидхар жана ташур — айтылышы боюнча калды"
+    },
+    {
+      "kind": "substitution",
+      "subject": "май дарагы",
+      "rationale": "עץ שמן букв. «май дарагы» — зайтун дарагы деп да окулат"
+    }
+  ],
+  "translation": "Чөлдө кедр, акация, мирт жана май дарагын беремин; Арабада кипарис, тидхар жана ташурду чогуу отургузамын.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "e9267529bbd15d38ffd36d17614ba395fa857cec3cddcd1349fa607d2db202ca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/41\/17-20.1791210216411.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אתן",
+      "gloss": "беремин"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "чөлдө"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "кедр"
+    },
+    {
+      "surface": "שטה",
+      "gloss": "акация"
+    },
+    {
+      "surface": "והדס",
+      "gloss": "жана мирт"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "жана дарагы"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "май"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "отургузамын"
+    },
+    {
+      "surface": "בערבה",
+      "gloss": "Арабада"
+    },
+    {
+      "surface": "ברוש",
+      "gloss": "кипарис"
+    },
+    {
+      "surface": "תדהר",
+      "gloss": "тидхар"
+    },
+    {
+      "surface": "ותאשור",
+      "gloss": "жана ташур"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "чогуу"
+    }
+  ],
+  "timestamp": "2026-10-05T14:23:36.412583672Z",
+  "model": "glm-5.3"
+}

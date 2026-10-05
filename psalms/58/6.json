@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 58:6",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 58,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "мечер кубулдаса да",
+      "rationale": "מחכם: «канчалык чебер болсо да» (KJV, ASV) же «эң чебер кубулдоочу» (JPS) деген эки окуу бар"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חובר\/חברים",
+      "rationale": "бир тамырдын кайрылуусу: «байлоочу» жана «байланымдар» — үн жоголууда"
+    }
+  ],
+  "translation": "Кубулдоочулардын үнүн укпаган, кубулдарды канчалык чебер байласа да.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "eb817a6b037371ddaaf7bf83a2a4b6b8f71815d55c3ab7cafac572118ebca6f0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/58\/5-8.1791216245973.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ал"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "укпаган"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "үнүн"
+    },
+    {
+      "surface": "מלחשים",
+      "gloss": "кубулдоочулардын"
+    },
+    {
+      "surface": "חובר",
+      "gloss": "байлоочу"
+    },
+    {
+      "surface": "חברים",
+      "gloss": "кубулдарды"
+    },
+    {
+      "surface": "מחכם",
+      "gloss": "чебер"
+    }
+  ],
+  "timestamp": "2026-10-05T16:04:05.974475913Z",
+  "model": "glm-5.3"
+}

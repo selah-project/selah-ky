@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 7:5",
+  "book": "1-samuel",
+  "lang": "ky",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "жыйнагыла",
+      "rationale": "Шемуелдун Йисраэлге буйругу — чакыруу иретиндеги императив."
+    },
+    {
+      "kind": "you",
+      "subject": "силер үчүн",
+      "rationale": "түз багыттуу сөз — Йисраэл элине айтылат."
+    }
+  ],
+  "translation": "Жана Шемуел айтты: ⟨את⟩ бүт Йисраэлди Мицпага жыйнагыла, жана мен силер үчүн Яхвеге сыйынамын.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "4e4ff7bb999484b2a1d667a340b36987d2b66c72091a0d09ae01dc335a4fc87e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-samuel\/7\/5-8.1791206696032.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Жана айтты"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Шемуел"
+    },
+    {
+      "surface": "קבצו",
+      "gloss": "жыйнагыла"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "бүт Йисраэлди"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүт"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэлди"
+    },
+    {
+      "surface": "המצפתה",
+      "gloss": "Мицпага"
+    },
+    {
+      "surface": "ואתפלל",
+      "gloss": "жана сыйынамын"
+    },
+    {
+      "surface": "בעדכם",
+      "gloss": "силер үчүн"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ге"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвеге"
+    }
+  ],
+  "timestamp": "2026-10-05T13:24:56.033341415Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 21:3",
+  "book": "job",
+  "lang": "ky",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מени көтөргүлө",
+      "rationale": "נשא «көтөрүү» — «чыдоо, төзүү» деген идиома; жалаң «көтөрүү» деп калса жаңылтырат"
+    },
+    {
+      "kind": "you",
+      "subject": "силерге",
+      "rationale": "Түз кайрылуу — досторуна: сүйлөгөндөн кийин шылдыңдоого уруксат берет"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אדבר \/ דברי",
+      "rationale": "Давар тамырынын кайталанышы — «сүйлөйүн... сүйлөөмдөн» — ыргак сакталды"
+    }
+  ],
+  "translation": "Мени көтөргүлө, мен сүйлөйүн, жана сүйлөөмдөн кийин шылдыңдагыла.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "00383db06d87a353184e16c3989535e4efefd019966bf275390595b339761e57",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/job\/21\/1-4.1791219033731.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שאוני",
+      "gloss": "мени көтөргүлө"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "мен"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "сүйлөйүн"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "жана ...дан кийин"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "сүйлөөмдөн"
+    },
+    {
+      "surface": "תלעיג",
+      "gloss": "шылдыңдагыла"
+    }
+  ],
+  "timestamp": "2026-10-05T16:50:33.732503463Z",
+  "model": "glm-5.3"
+}

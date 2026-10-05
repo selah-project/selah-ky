@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezra 8:5",
+  "book": "ezra",
+  "lang": "ky",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "үч жүз эркек",
+      "rationale": "Кайтып келүүчүлөрдүн тизмеси: ар бир үй-бүлө боюнча эркектердин саны катталат."
+    },
+    {
+      "kind": "elision",
+      "subject": "анын аты",
+      "rationale": "Ивритте Шеканиянын уулунун аты айтылбайт, тек «Яхазелдин уулу» деп берилет."
+    }
+  ],
+  "translation": "Шеканиянын уулдарынан — Яхазелдин уулу, жана аны менен үч жүз эркек.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "157d6dbe2b272ce1727058254231cc8607e50fed9fbc1014660ed4da4e897f73",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ezra\/8\/5-8.1791221141055.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מבני",
+      "gloss": "…нын уулдарынан"
+    },
+    {
+      "surface": "שכניה",
+      "gloss": "Шеканиянын"
+    },
+    {
+      "surface": "בן",
+      "gloss": "уулу"
+    },
+    {
+      "surface": "יחזיאל",
+      "gloss": "Яхазелдин"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "жана аны менен"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "үч"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "жүз"
+    },
+    {
+      "surface": "הזכרים",
+      "gloss": "эркек"
+    }
+  ],
+  "timestamp": "2026-10-05T17:25:41.056234719Z",
+  "model": "glm-5.3"
+}

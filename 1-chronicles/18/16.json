@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 18:16",
+  "book": "1-chronicles",
+  "lang": "ky",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ыйык кызмат кылуучулар",
+      "rationale": "כהנים — кохендер, ыйык кызмат кылуучулар; 'священник' (орус сөзү) колдонулбайт"
+    },
+    {
+      "kind": "crux",
+      "subject": "Авимелек",
+      "rationale": "Параллел жерде (2 Шемуэл 8:17) 'Ажимелек, Авиатардын уулу' — аттардын жайылышы боюнча тексттик айырма"
+    }
+  ],
+  "translation": "Жана Ажитубдун уулу Цадок жана Авиатардын уулу Авимелек ыйык кызмат кылуучулар болду, жана Шавша жазуучу болду.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "80245ada4bb3aec48de7134b3e642bff17d9d4f60b32fc7a9037ac4ce0ad0f26",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-chronicles\/18\/13-16.1791222173977.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וצדוק",
+      "gloss": "Цадок"
+    },
+    {
+      "surface": "בן",
+      "gloss": "уулу"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "Ажитубдун"
+    },
+    {
+      "surface": "ואבימלך",
+      "gloss": "Авимелек"
+    },
+    {
+      "surface": "בן",
+      "gloss": "уулу"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Авиатардын"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "ыйык кызмат кылуучулар"
+    },
+    {
+      "surface": "ושושא",
+      "gloss": "Шавша"
+    },
+    {
+      "surface": "סופר",
+      "gloss": "жазуучу"
+    }
+  ],
+  "timestamp": "2026-10-05T17:42:53.979827840Z",
+  "model": "glm-5.3"
+}

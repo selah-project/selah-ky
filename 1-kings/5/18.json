@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 5:18",
+  "book": "1-kings",
+  "lang": "ky",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שטן",
+      "rationale": "Бул жерде статья жок: «каршылык» (саясий душман) же «Шейтон» деген аталыштын пайда болушу — котормочулор талашат; контекст — эч бир душман жок."
+    },
+    {
+      "kind": "substitution",
+      "subject": "пегъа ра",
+      "rationale": "Буквалдык «жаман сокку» — «жаман окуя» катары берилди."
+    }
+  ],
+  "translation": "Азыр Яхве, менин Элохимым, мага ар тараптан тынчтык берди — каршылык жок, жаман окуя жок.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "041116c37deb4770081c8be61a376aec606b1c0cf1b79a87be184d288dffa05b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-kings\/5\/18-19.1791223947477.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Азыр"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "тынчтык берди"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "менин Элохимым"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мага"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "ар тараптан"
+    },
+    {
+      "surface": "אין",
+      "gloss": "жок"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "каршылык"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "жана жок"
+    },
+    {
+      "surface": "פגע",
+      "gloss": "окуя"
+    },
+    {
+      "surface": "רע",
+      "gloss": "жаман"
+    }
+  ],
+  "timestamp": "2026-10-05T18:12:27.478497567Z",
+  "model": "glm-5.3"
+}

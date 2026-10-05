@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 1:2",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "рух",
+      "rationale": "רוח — «рух», «шамал», «дем» бир сөз; бул жерде Элохимдин руху"
+    },
+    {
+      "kind": "crux",
+      "subject": "תהו ובהו",
+      "rationale": "«бош жана ээн» — үн мазмуну жок деген риторикалык жуп, экөө тең аз колдонулган сөздөр"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תהו \/ תהום",
+      "rationale": "тоху менен техом үндөштүгү — кыргызчада «бош» жана «тереңдик» менен жоголот"
+    }
+  ],
+  "translation": "Жер бош жана ээн эди, жана түнкү түнкүлүк тереңдиктин үстүндө эле, жана Элохимдин руху суулардын үстүндө калкып турду.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "74811423b4ef720f67f63379fee8e2797e4ed37fb025781088bc80b89f4e564a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/1\/1-4.1791200743204.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "Жер"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "эди"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "бош"
+    },
+    {
+      "surface": "ובהו",
+      "gloss": "жана ээн"
+    },
+    {
+      "surface": "וחשך",
+      "gloss": "жана түнкү түнкүлүк"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстүндө"
+    },
+    {
+      "surface": "פני",
+      "gloss": "үстү"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "тереңдиктин"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "жана руху"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохимдин"
+    },
+    {
+      "surface": "מרחפת",
+      "gloss": "калкып турду"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстүндө"
+    },
+    {
+      "surface": "פני",
+      "gloss": "үстү"
+    },
+    {
+      "surface": "המים",
+      "gloss": "суулардын"
+    }
+  ],
+  "timestamp": "2026-10-05T11:45:43.205181975Z",
+  "model": "glm-5.3"
+}

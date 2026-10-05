@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 18:4",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אליעזר\/עזרי",
+      "rationale": "Элиэзер аты 'Эл' + 'эзер' (жардам) — ат себебинен келет, кыргызча ат чечмеленип берилди"
+    },
+    {
+      "kind": "elision",
+      "subject": "אמר",
+      "rationale": "В2:4 аятта 'деген' этиши жок — контексттен кошулду"
+    }
+  ],
+  "translation": "Жана экинчисинин аты Элиэзер, анткени: «Атамдын Элохими менин жардамым болду жана мени Фараондун кылычынан алып качырды», деген.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "6b2b63caea2c4cca536ce84d213522d4927cb924df5877fce5d6622f95b2e860",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/18\/1-4.1791202240713.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וְשֵׁם",
+      "gloss": "жана аты"
+    },
+    {
+      "surface": "הָאֶחָד",
+      "gloss": "экинчисинин"
+    },
+    {
+      "surface": "אֱלִיעֶזֶר",
+      "gloss": "Элиэзер"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "אֱלֹהֵי",
+      "gloss": "Элохими"
+    },
+    {
+      "surface": "אָבִי",
+      "gloss": "Атамдын"
+    },
+    {
+      "surface": "בְּעֶזְרִי",
+      "gloss": "менин жардамым"
+    },
+    {
+      "surface": "וַיַּצִּילֵנִי",
+      "gloss": "алып качырды"
+    },
+    {
+      "surface": "מֵחֶרֶב",
+      "gloss": "кылычынан"
+    },
+    {
+      "surface": "פַּרְעֹה",
+      "gloss": "Фараондун"
+    }
+  ],
+  "timestamp": "2026-10-05T12:10:40.714555246Z",
+  "model": "glm-5.3"
+}

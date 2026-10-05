@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 29:26",
+  "book": "proverbs",
+  "lang": "ky",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жүзүн издешет",
+      "rationale": "פני — «жүз»; идиома «жакшылыгын издөө» (КЖВ «favour»), латыл сакталды"
+    },
+    {
+      "kind": "addition",
+      "subject": "ар бир",
+      "rationale": "איש жекече «адам»; кыргызча «ар бир адамдын өкүмү» деген мааниде «ар бир» кошулду"
+    }
+  ],
+  "translation": "Көптөр башкаруучунун жүзүн издешет, бирок ар бир адамдын өкүмү Яхведен.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "3a2e656cba45e3e017d87eef9c34ce121f2c6ff64a8629b56086b6030a6b00dd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/29\/25-27.1791218404075.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "көптөр"
+    },
+    {
+      "surface": "מבקשים",
+      "gloss": "издешет"
+    },
+    {
+      "surface": "פני",
+      "gloss": "жүзүн"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "башкаруучунун"
+    },
+    {
+      "surface": "ומיהוה",
+      "gloss": "бирок Яхведен"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "өкүмү"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ар бир адамдын"
+    }
+  ],
+  "timestamp": "2026-10-05T16:40:04.076369761Z",
+  "model": "glm-5.3"
+}

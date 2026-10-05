@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 2:18",
+  "book": "deuteronomy",
+  "lang": "ky",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Ар",
+      "rationale": "КЖВ 'Ардан өтүү' дейт; ЙЛТ\/ЖПС 'Ар — Моаб чегарасы' деген экинчи окуу бар"
+    }
+  ],
+  "translation": "Бүгүн сен ⟨את⟩ Моаб чегарасынан — ⟨את⟩ Ардын жеринен өтүп баратасың.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "ec778812dd1f6f01b17555aa1361d39238f390a1e25663d5041e95a871bae6fa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/2\/17-20.1791204669595.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "сен"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "өтүп баратасың"
+    },
+    {
+      "surface": "היום",
+      "gloss": "бүгүн"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Моаб чегарасы"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "чегара"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моаб"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ар"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Ар"
+    }
+  ],
+  "timestamp": "2026-10-05T12:51:09.596648545Z",
+  "model": "glm-5.3"
+}

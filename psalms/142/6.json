@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 142:6",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 142,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "менин",
+      "rationale": "еврейче ээлик мүчө — construct — кыргызча атоочтук талап кылат"
+    },
+    {
+      "kind": "you",
+      "subject": "Сага кыйкырдым, Яхве",
+      "rationale": "Яхвеге түз кайрылуу"
+    }
+  ],
+  "translation": "Сага кыйкырдым, Яхве; айттым: Сен ⟨менин⟩ башпанамсын, тирүүлөр жериндеги үлүшүм.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "ae674d83557acf8694250d0bbacfd6bdc9e0175bad776174ee6071f57e9f6862",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/142\/5-8.1791217602443.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זעקתי",
+      "gloss": "кыйкырдым"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "сага"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "айттым"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "сен"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "башпанам"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "үлүшүм"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "жеринде"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "тирүүлөрдүн"
+    }
+  ],
+  "timestamp": "2026-10-05T16:26:42.444229438Z",
+  "model": "glm-5.3"
+}

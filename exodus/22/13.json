@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 22:13",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "бир нерсени",
+      "rationale": "Еврейче ‏בעליו'га тиешелүү объект ачык айтылбаган, кыргызча сүйлөм аны талап кылат"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שלם ישלם",
+      "rationale": "Этимологиялык инфинитив катализми — «толук төлөп берет», бүтүндөй камтыган маани"
+    }
+  ],
+  "translation": "Жана эгер бир киши өз жакынынан ⟨бир нерсени⟩ суранып алса, ал сынып калса же өлсө, анын ээси анын жанында болбогондуктан, ал толук төлөп берет.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "dbfb1c578c3168f2288e95847263f2e33eaea289897796e79e8ac31cea707c06",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/22\/13-16.1791202293021.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "жана эгер"
+    },
+    {
+      "surface": "ישאל",
+      "gloss": "суранып алса"
+    },
+    {
+      "surface": "איש",
+      "gloss": "киши"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "…дан"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "жакынынан"
+    },
+    {
+      "surface": "ונשבר",
+      "gloss": "сынып калса"
+    },
+    {
+      "surface": "או",
+      "gloss": "же"
+    },
+    {
+      "surface": "מת",
+      "gloss": "өлсө"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "ээси"
+    },
+    {
+      "surface": "אין",
+      "gloss": "жок"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "анын жанында"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "толук"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "төлөп берет"
+    }
+  ],
+  "timestamp": "2026-10-05T12:11:33.022271119Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 8:8",
+  "book": "leviticus",
+  "lang": "ky",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "mystery",
+      "subject": "Урим жана Тумим",
+      "rationale": "Танахта алардын кантип иштегени айтылбайт — аталышы гана сакталган"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אורים\/תמים",
+      "rationale": "'Жарыктар' жана 'кемчиликсиздиктер' — аталыштардын мааниси кыргызчада жоголот"
+    }
+  ],
+  "translation": "Жана анын үстүнө ⟨את⟩ хошенди койду, хошенге ⟨את⟩ Уримди жана ⟨את⟩ Тумимди салды.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "e02b00a4c9b325f00ae6669435f8a4535456117be9d008ce12baa69be3e1ce0d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/8\/5-8.1791203025885.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "койду"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "анын үстүнө"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "хошенди"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "хошен"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "салды"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "хошенге"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Уримди"
+    },
+    {
+      "surface": "האורים",
+      "gloss": "Урим"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "жана ⟨את⟩",
+      "marks": "Тумимди"
+    },
+    {
+      "surface": "התמים",
+      "gloss": "Тумим"
+    }
+  ],
+  "timestamp": "2026-10-05T12:23:45.886540411Z",
+  "model": "glm-5.3"
+}

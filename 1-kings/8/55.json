@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "1-kings 8:55",
+  "book": "1-kings",
+  "lang": "ky",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ал",
+      "rationale": "Субъект кыргызча так болушу үчүн кошулду; еврейче этиштин формасында бар."
+    }
+  ],
+  "translation": "Жана ал турду жана ⟨את⟩ Йисраэлдин бүт жыйынын чоң үн менен баталап айтты:",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "663d1146ff5302bced86ddd3163010ad9d5076ef6699b86236ab273e69b782c3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-kings\/8\/53-56.1791208248087.json",
+    "code": "641241cf-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "турду"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "баталап айтты"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Йисраэлдин бүт жыйынын"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүт"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "жыйынын"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэлдин"
+    },
+    {
+      "surface": "קול",
+      "gloss": "үн"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "чоң"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "айтып"
+    }
+  ],
+  "timestamp": "2026-10-05T13:50:48.088507095Z",
+  "model": "glm-5.3"
+}

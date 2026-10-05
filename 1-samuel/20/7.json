@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 20:7",
+  "book": "1-samuel",
+  "lang": "ky",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ал⟩ · ⟨анын тарабынан⟩",
+      "rationale": "кыргыз тили талап кылган атайын көрсөтүүчүлөр"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חרה יחרה",
+      "rationale": "этиштин кайталанышы — өтө ачуланууну билдирет, абсолюттук инфинитив"
+    }
+  ],
+  "translation": "Эгерде ал мындай десе — «Жакшы, кулуңа тынчтык» — ал эми эгер ал өтө ачуланса, анда бил: анткени жамандык аныкталды.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "4446584d1b57181fa989b6a661e6106b821a0b01fac2ccd4844255cf6b5c71d4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-samuel\/20\/7-8.1791223845804.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "эгерде"
+    },
+    {
+      "surface": "כה",
+      "gloss": "мындай"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "десе"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "жакшы"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "тынчтык"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "кулуңа"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ал эми эгер"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "ачуланса"
+    },
+    {
+      "surface": "יחרה",
+      "gloss": "өтө ачуланса"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨ал⟩"
+    },
+    {
+      "surface": "דע",
+      "gloss": "бил"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "כלתה",
+      "gloss": "аныкталды"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "жамандык"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "⟨анын тарабынан⟩"
+    }
+  ],
+  "timestamp": "2026-10-05T18:10:45.804825041Z",
+  "model": "glm-5.3"
+}

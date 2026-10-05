@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 160,
+  "ref": "psalms 119:160",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ראש",
+      "rationale": "'башы\/башталышы' (JPS, Geneva) же 'жыйындысы' (ASV, 'sum') — бөлүнгөн окурмандар"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨бар⟩",
+      "rationale": "этиш жок — атооч айкын болсун үчүн кошулду"
+    }
+  ],
+  "translation": "Сөзүңдүн башы — акыйкат, жана түбөлүккө Сенин цедегиңдин ар бир өкүмү.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "ebceea0ab5e72f3b307cc5c217ad32df22e7a88725dc4c7454dd564e18f12351",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/119\/157-160.1791217403249.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "башы"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "Сөзүңдүн"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "акыйкат"
+    },
+    {
+      "surface": "ולעולם",
+      "gloss": "жана түбөлүккө"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ар бир"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "өкүмү"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "цедегиңдин"
+    }
+  ],
+  "timestamp": "2026-10-05T16:23:23.250292491Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 2:12",
+  "book": "hosea",
+  "lang": "ky",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "эч бир",
+      "rationale": "ואיש לא 'адам... эмес' — кыргызча 'эч бир адам' деп түшүнүктүү кылды."
+    },
+    {
+      "kind": "substitution",
+      "subject": "уяттуулук",
+      "rationale": "נבלתה 'жанылуу, жатырдык' — соттолуучу уяттын сүрөтү, 'жыркыноолук' дагы мүмкүн."
+    }
+  ],
+  "translation": "Жана азыр Мен ⟨את⟩ анын уяттуулугун сүйгөндөрүнүн көз алдында ачып коёмун, жана эч бир адам аны Менин колумдан куткара албайт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "a5b9ecf0a915385564d2ff1a1d95e85d132ef0aabaf0a3ba46b7c5c8bc9857d9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/hosea\/2\/9-12.1791213847753.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "жана азыр"
+    },
+    {
+      "surface": "אגלה",
+      "gloss": "ачып коёмун"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "уяттуулугун"
+    },
+    {
+      "surface": "נבלתה",
+      "gloss": "уяттуулугун"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "көз алдында"
+    },
+    {
+      "surface": "מאהביה",
+      "gloss": "сүйгөндөрүнүн"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "жана эч бир адам"
+    },
+    {
+      "surface": "לא",
+      "gloss": "албайт"
+    },
+    {
+      "surface": "יצילנה",
+      "gloss": "куткара"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "Менин колумдан"
+    }
+  ],
+  "timestamp": "2026-10-05T15:24:07.754959929Z",
+  "model": "glm-5.3"
+}

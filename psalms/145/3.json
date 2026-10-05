@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 145:3",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 145,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨is⟩ эквиваленти",
+      "rationale": "גדול Яхве — сызыктын жоктугу, кыргызча «Улуу Яхве» деген түрдө берилди"
+    },
+    {
+      "kind": "substitution",
+      "subject": "чеги жок",
+      "rationale": "חקר — изилдөө, ченөө; «чеги жок» деген эң жакын сүрөт"
+    }
+  ],
+  "translation": "Улуу ⟨⟨Яхве, жана аябай мактоого татыктуу, жана анын улуулугунун чеги жок.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "c75e2c3935a863208f7b83342017afaf0e0381497f5a0e2093666fe8e45e4748",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/145\/1-4.1791217662070.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "Улуу"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "жана мактоого татыктуу"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "аябай"
+    },
+    {
+      "surface": "ולגדלתו",
+      "gloss": "анын улуулугунун"
+    },
+    {
+      "surface": "אין",
+      "gloss": "жок"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "чеги"
+    }
+  ],
+  "timestamp": "2026-10-05T16:27:42.072044769Z",
+  "model": "glm-5.3"
+}

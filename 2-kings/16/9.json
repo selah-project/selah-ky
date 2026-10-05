@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 16:9",
+  "book": "2-kings",
+  "lang": "ky",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "туткун кылып айдады",
+      "rationale": "ויגלה сынык мааниде 'жалаңдатты, сүргүнгө айдады' — текст 'калкын' деген сөздү кошпойт, ал котормодон кошулду"
+    },
+    {
+      "kind": "alternative",
+      "subject": "жөнөдү",
+      "rationale": "ויעל тактап 'көтөрүлдү' — жоо жүрүшүнөн Дамашек жогорку жерде жатканы көрсөтүлөт"
+    }
+  ],
+  "translation": "Жана Ашур падышасы аны укту, жана Ашур падышасы Дамашекке каршы жөнөдү, жана аны басып алды, жана анын элин Кирге туткун кылып айдады, жана ⟨את⟩ Рецинди өлтүрдү.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "3f5a3c3a15a134d6fd3a7c24ab0c2ebd57780981d4bee32555c5aa6748ff70ab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-kings\/16\/9-12.1791209121326.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "укту"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "аны"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "падышасы"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ашур"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "жөнөдү"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "падышасы"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ашур"
+    },
+    {
+      "surface": "אל",
+      "gloss": "каршы"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Дамашекке"
+    },
+    {
+      "surface": "ויתפשה",
+      "gloss": "басып алды"
+    },
+    {
+      "surface": "ויגלה",
+      "gloss": "туткун кылып айдады"
+    },
+    {
+      "surface": "קירה",
+      "gloss": "Кирге"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Рецинди"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "Рецинди"
+    },
+    {
+      "surface": "המית",
+      "gloss": "өлтүрдү"
+    }
+  ],
+  "timestamp": "2026-10-05T14:05:21.326992419Z",
+  "model": "glm-5.3"
+}

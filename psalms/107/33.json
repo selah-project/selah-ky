@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 107:33",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Яхве",
+      "rationale": "Этиштин субъектиеви формасы 3-жак бирлик, бирок аталыш жок; тексттин өтмө мааниси ачык болушу үчүн кошулду"
+    },
+    {
+      "kind": "elision",
+      "subject": "майлаштыруу этиши",
+      "rationale": "Ивриттин майлаштыруу формасы кыргызча айлантат этишинин өзүнө камтылган"
+    }
+  ],
+  "translation": "Яхве дарыяларды чөлгө айлантат, суу булактарын какмалган жерге айлантат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "d0c73c4f1f9925a3e7cca95fcea039311e58fb63474b7041fe49065e361f4a26",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/107\/33-36.1791217149937.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישם",
+      "gloss": "айлантат"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "дарыяларды"
+    },
+    {
+      "surface": "למדבר",
+      "gloss": "чөлгө"
+    },
+    {
+      "surface": "ומצאי",
+      "gloss": "жана булактарын"
+    },
+    {
+      "surface": "מים",
+      "gloss": "суу"
+    },
+    {
+      "surface": "לצמאון",
+      "gloss": "какмалган жерге"
+    }
+  ],
+  "timestamp": "2026-10-05T16:19:09.940974275Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 5:4",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "бошотуп жибересиңер",
+      "rationale": "פרע «чечүү, бошотуу» деген сөз — «тартып алуу» эмес"
+    },
+    {
+      "kind": "you",
+      "subject": "Моше жана Ахаронго",
+      "rationale": "Падышанын түз кайрылуусу"
+    }
+  ],
+  "translation": "Мицрайимдин падышасы аларга айтты: «Моше жана Ахарон, эмне үчүн ⟨את⟩ элди өз иштеринен бошотуп жибересиңер? Баргыла, өз жүктөрүңөргө».",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "47519202fa80e6a97bcc4075527e65ad1c3c121bbc62df2f421108ac0a4eebc5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/5\/1-4.1791201967090.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "аларга"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "падышасы"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицрайимдин"
+    },
+    {
+      "surface": "למה",
+      "gloss": "эмне үчүн"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "жана Ахарон"
+    },
+    {
+      "surface": "תפריעו",
+      "gloss": "бошотуп жибересиңер"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "элди"
+    },
+    {
+      "surface": "העם",
+      "gloss": "элди"
+    },
+    {
+      "surface": "ממעשיו",
+      "gloss": "өз иштеринен"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "баргыла"
+    },
+    {
+      "surface": "לסבלתיכם",
+      "gloss": "өз жүктөрүңөргө"
+    }
+  ],
+  "timestamp": "2026-10-05T12:06:07.091508961Z",
+  "model": "glm-5.3"
+}

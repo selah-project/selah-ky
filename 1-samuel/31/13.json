@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 31:13",
+  "book": "1-samuel",
+  "lang": "ky",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "сөөктөрүн",
+      "rationale": "עצם literally «bone»; here plural = bodies' bones, kept literal"
+    },
+    {
+      "kind": "crux",
+      "subject": "тамариск дарагы",
+      "rationale": "האשל — tamarisk tree; some versions generalize to «tree» or «grove»"
+    }
+  ],
+  "translation": "Жана алар ⟨את⟩ алардын сөөктөрүн алышты жана Ябешада тамариск дарагынын астына көмүштү, жана жети күн орозо кармашты.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "a5f23c64a8255291404bfd9ba6c5a910966c8b10228a6b9b042369584ca13c9b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-samuel\/31\/13-13.1791207322898.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "алышты"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "алардын сөөктөрүн"
+    },
+    {
+      "surface": "עצמתיהם",
+      "gloss": "алардын сөөктөрүн"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "көмүштү"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "астына"
+    },
+    {
+      "surface": "האשל",
+      "gloss": "тамариск дарагынын"
+    },
+    {
+      "surface": "ביבשה",
+      "gloss": "Ябешада"
+    },
+    {
+      "surface": "ויצמו",
+      "gloss": "орозо кармашты"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "жети"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "күн"
+    }
+  ],
+  "timestamp": "2026-10-05T13:35:22.899435200Z",
+  "model": "glm-5.3"
+}

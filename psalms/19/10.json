@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 19:10",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "цедек",
+      "rationale": "צדקו — «адил болду» деген этиш, «туура» деп да которулат; цедек сөзү сакталды."
+    }
+  ],
+  "translation": "Яхведен корконуу таза, түбөлүккө турат; Яхвенин өкүмдөрү чындык, алар бүтүндөй цедек.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "e3d8b64492fb67098dda35d7fd6715c9c7d301a740cbcebad64c390821f8f3e6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/19\/9-12.1791215552080.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "корконуу"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхведен"
+    },
+    {
+      "surface": "טהורה",
+      "gloss": "таза"
+    },
+    {
+      "surface": "עומדת",
+      "gloss": "турат"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "түбөлүккө"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "өкүмдөрү"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "чындык"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "цедек"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "бүтүндөй"
+    }
+  ],
+  "timestamp": "2026-10-05T15:52:32.081609721Z",
+  "model": "glm-5.3"
+}

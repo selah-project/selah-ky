@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 55:4",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 55,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "кысымынан",
+      "rationale": "מפני букв. 'жүзүнөн' — 'негизинен, анын таасиринен' деген мааниде колдонулду"
+    },
+    {
+      "kind": "crux",
+      "subject": "ישטמוני",
+      "rationale": "שטם: KJV 'жек көрүшөт', ASV\/JPS 'куугунтукташты' — тамыр 'жашырынып күтүү, куугун' маанисин да берет"
+    }
+  ],
+  "translation": "Душмандын үнүнөн, жаман адамдын кысымынан: анткени алар мага айып ташташат жана ачуу менен мени жек көрүшөт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "d15f6b4a913a9b182681b1880de94e1cf3804f039cc65164cec04b8fe9e2a985",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/55\/4-4.1791224432667.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "үнүнөн"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "душмандын"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "кысымынан"
+    },
+    {
+      "surface": "עקת",
+      "gloss": "кысым"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "жаман адамдын"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "ימיטו",
+      "gloss": "ташташат"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "мага"
+    },
+    {
+      "surface": "און",
+      "gloss": "айып"
+    },
+    {
+      "surface": "ובאף",
+      "gloss": "ачуу менен"
+    },
+    {
+      "surface": "ישטמוני",
+      "gloss": "мени жек көрүшөт"
+    }
+  ],
+  "timestamp": "2026-10-05T18:20:32.667649451Z",
+  "model": "glm-5.3"
+}

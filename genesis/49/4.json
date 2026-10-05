@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 49:4",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "кайнаган",
+      "rationale": "פַּחַז — көбүк, кайнаңдык; кыргызча салыштыруу менен берилди"
+    },
+    {
+      "kind": "crux",
+      "subject": "אל תותר",
+      "rationale": "«артыкчылык кылбайсың» же «артык болбойсуң» — этиштин мааниси талаштуу"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עלית...עלה",
+      "rationale": "«өрдөдүң» — «өрдөдү» кайталоосу, аягы 3-жакка которулуп кеткен кайрылуу"
+    }
+  ],
+  "translation": "Суудай кайнаган бирсүң, үстөмдүк кылбайсың, анткени атандын төшөгүнө өрдөдүң; ошондо менин төшөгүмдү булгадың; ал өрдөдү.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "72ca4e87614fbb65035eed2c182194a3c9bc74cb9711d58a04ecc2bd0e4e299d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/49\/1-4.1791201796800.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פחז",
+      "gloss": "кайнаган"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "суудай"
+    },
+    {
+      "surface": "אל",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "תותר",
+      "gloss": "үстөмдүк кылбайсың"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "עלית",
+      "gloss": "өрдөдүң"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "төшөгүнө"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "атандын"
+    },
+    {
+      "surface": "אז",
+      "gloss": "ошондо"
+    },
+    {
+      "surface": "חללת",
+      "gloss": "булгадың"
+    },
+    {
+      "surface": "יצועי",
+      "gloss": "төшөгүмдү"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "өрдөдү"
+    }
+  ],
+  "timestamp": "2026-10-05T12:03:16.801337445Z",
+  "model": "glm-5.3"
+}

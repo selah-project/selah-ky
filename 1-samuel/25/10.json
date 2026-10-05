@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 25:10",
+  "book": "1-samuel",
+  "lang": "ky",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "аднйв",
+      "rationale": "Адам жөнүндө адам-сөз — кожоюну, Адонай эмес."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מתפרצים",
+      "rationale": "«зордуктап бузуп чгуу» — бузуук тексти падышачылык тилде колдонулат, кыргызча «жанып качкан» деп жумшартылды."
+    }
+  ],
+  "translation": "Набал Давидтин кулдарына ⟨את⟩ жооп берип айтты: Давид ким, Яшайдын уулу ким? Бүгүн кожоюнунун жүзүнөн ⟨жанып⟩ качкан кулдар көбөйдү, ар бириси өз кожоюнунан.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "733366f2509fa6d2418fbb48c99b903674ab00955dfd548eca02aeca49b6062a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-samuel\/25\/9-12.1791207139641.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "жооп берип"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Набал"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Давидтин кулдары"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "кулдарына"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давидтин"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ким"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "ו מי",
+      "gloss": "жана ким"
+    },
+    {
+      "surface": "בן",
+      "gloss": "уулу"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Яшайдын"
+    },
+    {
+      "surface": "היום",
+      "gloss": "бүгүн"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "көбөйдү"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "кулдар"
+    },
+    {
+      "surface": "המתפרצים",
+      "gloss": "зордуктап чыгып качкан"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ар бириси"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "жүзүнөн"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "кожоюнунун"
+    }
+  ],
+  "timestamp": "2026-10-05T13:32:19.642653363Z",
+  "model": "glm-5.3"
+}

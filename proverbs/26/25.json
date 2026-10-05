@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 26:25",
+  "book": "proverbs",
+  "lang": "ky",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жек көрүүлүүк",
+      "rationale": "תועבות — «жиркенчтүү нерселер»; контекстте жек көрүү маанисинде"
+    },
+    {
+      "kind": "you",
+      "subject": "окурманга",
+      "rationale": "«ишенбэ» — насыят түрүндө түз буйрук"
+    }
+  ],
+  "translation": "Качан ал өнүн жумшарыт, ага ишенбэ, анткени жүрөгүндө жети жек көрүүлүүк бар.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "f40558369f50c57f53234ce268b1a035fa5ddefc48d14095366df8e43ed5d923",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/26\/25-28.1791218364882.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "качан"
+    },
+    {
+      "surface": "יחנן",
+      "gloss": "жумшарыт"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "өнүн"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ишенбэ"
+    },
+    {
+      "surface": "תאמן",
+      "gloss": "ишенбе"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ага"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "жети"
+    },
+    {
+      "surface": "תועבות",
+      "gloss": "жек көрүүлүүк"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "жүрөгүндө"
+    }
+  ],
+  "timestamp": "2026-10-05T16:39:24.882517621Z",
+  "model": "glm-5.3"
+}

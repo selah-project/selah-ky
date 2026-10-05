@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 7:14",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "жаш аял",
+      "rationale": "העלמה — 'жаш аял' (LXX 'virgin', кийинги салт 'бакыш'); Танахтын өзүнчө алынганда 'жаш, жетилген аял' деген сөз"
+    },
+    {
+      "kind": "alternative",
+      "subject": "войת этиши",
+      "rationale": "קראת аял жөнүндө болсо 'ал койот', Ахазга болсо 'сен койсуң' — кыргызча 3-жak 'койот' нейралдык"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "Иммануэл",
+      "rationale": "Аттын мааниси тексттин ичинде: 'биз менен Эл' — 14-аяттын аягындагы эки сөз бүт бир ысым"
+    },
+    {
+      "kind": "you",
+      "subject": "силерге",
+      "rationale": "Белги Давиддин үй-бүлөсүнө — Ахазга берилип жатат"
+    }
+  ],
+  "translation": "Ошондуктан Адонай Өзү силерге белги берет: мына, ал жаш аял кош бойлуу болуп, уул тууп, атын Иммануэл деп койот.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "a6146c4e58a799711a253935b5c8021d72e44f34325de6d7f3a7ceed119778e2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/7\/13-16.1791209456864.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Ошондуктан"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "берет"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Өзү"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "силерге"
+    },
+    {
+      "surface": "אות",
+      "gloss": "белги"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "мына"
+    },
+    {
+      "surface": "העלמה",
+      "gloss": "ал жаш аял"
+    },
+    {
+      "surface": "הרה",
+      "gloss": "кош бойлуу болуп"
+    },
+    {
+      "surface": "וילדת",
+      "gloss": "уул тууп"
+    },
+    {
+      "surface": "בן",
+      "gloss": "уул"
+    },
+    {
+      "surface": "ו קראת",
+      "gloss": "атын... деп койот"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "атын"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "Имману"
+    },
+    {
+      "surface": "אל",
+      "gloss": "эл"
+    }
+  ],
+  "timestamp": "2026-10-05T14:10:56.865434251Z",
+  "model": "glm-5.3"
+}

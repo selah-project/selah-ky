@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 31:18",
+  "book": "numbers",
+  "lang": "ky",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "משכב זכר",
+      "rationale": "эвфемизм: «эркектин жатуусу» — жыныстык катнаштын эвфемисттик кабыл алуусу, бетиңе ачык айтылган"
+    },
+    {
+      "kind": "you",
+      "subject": "солдаттарга",
+      "rationale": "буйрук Моше аркылуу согуштан келген эркектерге багытталган"
+    },
+    {
+      "kind": "substitution",
+      "subject": "кичине балдар",
+      "rationale": "הטף — «балдар, кичинекейлер» деген集体 сөз; «аялдардын ичиндеги» деген аныктоо בנשים менен берилген"
+    }
+  ],
+  "translation": "Жана аялдардын ичиндеги бардык кичине балдардын — эркек менен жатууну билбегендерин — өздөрүңөр үчүн тирүү калтыргыла.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "646729dc197c87c4bc3f43ace2df3d972f14fade08ee59f15ee403fcb747d423",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/numbers\/31\/18-19.1791223723021.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "жана бардык"
+    },
+    {
+      "surface": "הטף",
+      "gloss": "кичине балдар"
+    },
+    {
+      "surface": "בנשים",
+      "gloss": "аялдардын ичиндеги"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "алар"
+    },
+    {
+      "surface": "לא",
+      "gloss": "эмес"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "билген"
+    },
+    {
+      "surface": "משכב",
+      "gloss": "жатууну"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "эркек"
+    },
+    {
+      "surface": "החיו",
+      "gloss": "тирүү калтыргыла"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "өздөрүңөр үчүн"
+    }
+  ],
+  "timestamp": "2026-10-05T18:08:43.021978491Z",
+  "model": "glm-5.3"
+}

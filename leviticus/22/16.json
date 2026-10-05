@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 22:16",
+  "book": "leviticus",
+  "lang": "ky",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "קדש",
+      "rationale": "ק-ד-ש тамыры 14–16-аяттарда кайталанып (ыйык нерсени — ыйыктарын — ыйыктаган) бүт үзүндүнү бириктирет; кыргызча бул жип сакталган."
+    },
+    {
+      "kind": "crux",
+      "subject": "מקדשם",
+      "rationale": "«Мен аларды ыйыктагам» же «Мен аларды ыйыктайм» — париципаалдык келер чак баркы."
+    }
+  ],
+  "translation": "жана аларды ⟨את⟩ күнөөгө — ашма күнөсүнө — ыйыктарын жегендиги үчүн тарттырышпасын; анткени Мен — Яхве, аларды ыйыктаган.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "6d179f046420a6cf8a131988421b3537b244cfc7116ebb4796ba89cfd4447476",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/22\/13-16.1791203349880.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והשיאו",
+      "gloss": "тарттырышпасын"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ аларды",
+      "marks": "күнөөнү"
+    },
+    {
+      "surface": "עון",
+      "gloss": "күнөөгө"
+    },
+    {
+      "surface": "אשמה",
+      "gloss": "ашма күнөсүнө"
+    },
+    {
+      "surface": "באכלם",
+      "gloss": "жегендиги үчүн"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ыйыктарын"
+    },
+    {
+      "surface": "קדשיהם",
+      "gloss": "ыйыктарын"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Мен"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "מקדשם",
+      "gloss": "ыйыктаган"
+    }
+  ],
+  "timestamp": "2026-10-05T12:29:09.882082995Z",
+  "model": "glm-5.3"
+}

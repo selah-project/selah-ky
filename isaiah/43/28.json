@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "isaiah 43:28",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לחרם",
+      "rationale": "херем: «каргышка\/өлүмгө тартууланган нерсеге» же «жок кылууга» — KJV «to the curse», YLT «to destruction»."
+    },
+    {
+      "kind": "substitution",
+      "subject": "тыйымдадым",
+      "rationale": "חלל — «тыйым тарткан, ыйыктыгын жоготкон» кылып кылды; кыргызча бир сөз жок, экөө керек болду."
+    }
+  ],
+  "translation": "Мен ыйыктын башчыларын тыйымдадым, жана Яаковду каргышка бердим, Йисраэлди кордукко.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "0ca08b3f1c83e3604cda49fa980c85615af5eacae9181224ec5c0336099b0728",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/43\/28-28.1791224087814.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואחלל",
+      "gloss": "тыйымдадым"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "башчыларын"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ыйыктын"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "бердим"
+    },
+    {
+      "surface": "לחרם",
+      "gloss": "каргышка"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаковду"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "Йисраэлди"
+    },
+    {
+      "surface": "לגדופים",
+      "gloss": "кордукко"
+    }
+  ],
+  "timestamp": "2026-10-05T18:14:47.815071405Z",
+  "model": "glm-5.3"
+}

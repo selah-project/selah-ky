@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 20:8",
+  "book": "judges",
+  "lang": "ky",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "כאיש אחד",
+      "rationale": "'as one man' — idiom of total unanimity, later echoed at 20:11 'as one man'"
+    },
+    {
+      "kind": "addition",
+      "subject": "биздин",
+      "rationale": "possessive supplied by Kyrgyz syntax where Hebrew uses 'each man his tent'"
+    }
+  ],
+  "translation": "Жана бүт эл бир адамдай туруп айтты: Биздин эч бирөөбүз чатырына барбайбыз, эч бирөөбүз үйүнө кайтпайбыз.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "2806584d19cd92ba378db9dc821264bc51d6e8abfcd2abc42ef861565c77f4f6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/judges\/20\/5-8.1791206508144.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "турду"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүт"
+    },
+    {
+      "surface": "העם",
+      "gloss": "эл"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "адамдай"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бир"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "айтып"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "барбайбыз"
+    },
+    {
+      "surface": "איש",
+      "gloss": "эч бирөөбүз"
+    },
+    {
+      "surface": "לאהלו",
+      "gloss": "чатырына"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "жана жок"
+    },
+    {
+      "surface": "נסור",
+      "gloss": "кайтпайбыз"
+    },
+    {
+      "surface": "איש",
+      "gloss": "эч бирөөбүз"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "үйүнө"
+    }
+  ],
+  "timestamp": "2026-10-05T13:21:48.145898335Z",
+  "model": "glm-5.3"
+}

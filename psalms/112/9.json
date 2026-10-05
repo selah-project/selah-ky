@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 112:9",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 112,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "цедек",
+      "rationale": "צדקה D2 боюнча цедек деп алынды, «адилеттик» эмес"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "פזר",
+      "rationale": "«чачуу» — берүүнүн ыкмасы катары: байлык чачылгандай таратылат, бул сүрөт кыргызча сакталды"
+    }
+  ],
+  "translation": "Чачып, жокчуларга берди; анын цедеги түбөлүккө турат; анын мүйүзү урмат менен көтөрүлөт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "9566651accaed6a76ce47cb37f1b9ea158627822966125073ed6baa3591cd1b4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/112\/9-10.1791217159259.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פזר",
+      "gloss": "чачып"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "берди"
+    },
+    {
+      "surface": "לאביונים",
+      "gloss": "жокчуларга"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "анын цедеги"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "турат"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "түбөлүккө"
+    },
+    {
+      "surface": "קרנו",
+      "gloss": "анын мүйүзү"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "көтөрүлөт"
+    },
+    {
+      "surface": "בכבוד",
+      "gloss": "урмат менен"
+    }
+  ],
+  "timestamp": "2026-10-05T16:19:19.262549256Z",
+  "model": "glm-5.3"
+}

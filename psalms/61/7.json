@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 61:7",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 61,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "күндөр, жылдар",
+      "rationale": "падышанын өмүрү күндөр жана жылдар менен ченелет"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דר ודר",
+      "rationale": "муун жана муун — байыркы еврей повтору, үндөштүк кыргызча 'муун жана муун' менен сакталат"
+    }
+  ],
+  "translation": "Падышанын күндөрүнө күндөрдү кошосуң, анын жылдарын муундай жана муундай кыласың.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "e514c71f90a4fc1c9677f6e8e9538a38e3818fd64769b312040f215d9a183196",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/61\/5-8.1791216357968.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ימים",
+      "gloss": "күндөрдү"
+    },
+    {
+      "surface": "על",
+      "gloss": "кошо"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "күндөрүнө"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "падышанын"
+    },
+    {
+      "surface": "תוסיף",
+      "gloss": "кошосуң"
+    },
+    {
+      "surface": "שנותיו",
+      "gloss": "жылдарын"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "…дай"
+    },
+    {
+      "surface": "דר",
+      "gloss": "муун"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "жана муун"
+    }
+  ],
+  "timestamp": "2026-10-05T16:05:57.969933327Z",
+  "model": "glm-5.3"
+}

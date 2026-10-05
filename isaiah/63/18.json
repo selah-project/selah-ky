@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 63:18",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 63,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "למצער",
+      "rationale": "«Кыска убакытка» (KJV, YLT) же JPS боюнча «дээрлик түгөнүп» деген атайын окуу — тамыры mts'r, мааниси талаштуу."
+    },
+    {
+      "kind": "addition",
+      "subject": "аны",
+      "rationale": "Ивритте את жок — «ыйыктыгыңдын эли» эмнени ээлегени айтылбайт, объект кошулду."
+    }
+  ],
+  "translation": "Кыска убакытка гана ыйыктыгыңдын эли ⟨את⟩ аны ээлеп турду; душмандарыбыз ⟨את⟩ ыйык жайыңды тепкилеп салды.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "5abccc8168b5837426df27545478b9006d2d108aa0078c06d47e1bb0ceb92666",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/63\/17-19.1791210514422.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למצער",
+      "gloss": "Кыска убакытка гана"
+    },
+    {
+      "surface": "ירשו",
+      "gloss": "ээлеп турду"
+    },
+    {
+      "surface": "עם",
+      "gloss": "эли"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "ыйыктыгыңдын"
+    },
+    {
+      "surface": "צרינו",
+      "gloss": "душмандарыбыз"
+    },
+    {
+      "surface": "בוססו",
+      "gloss": "тепкилеп салды"
+    },
+    {
+      "surface": "мקדשך",
+      "gloss": "ыйык жайыңды"
+    }
+  ],
+  "timestamp": "2026-10-05T14:28:34.423344298Z",
+  "model": "glm-5.3"
+}

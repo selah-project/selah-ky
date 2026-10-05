@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "jeremiah 31:30",
+  "book": "jeremiah",
+  "lang": "ky",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כי אם",
+      "rationale": "жөн гана 'анткен менен' эмес, 29-аяттагы макалды жокко чыгаруу: 'тескерисинче'"
+    },
+    {
+      "kind": "you",
+      "subject": "для Israel",
+      "rationale": "Жер 31:29-догу макал жеке жоопкерчиликтик жаңы тартипке алмаштырылат деп билдирет"
+    }
+  ],
+  "translation": "Тескерисинче, ар ким өз күнөөсү үчүн өлөт: кычкыл жүзүм жеген ар бир адамдын өз тиштери какалат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "f8347211550c452b111ef1858de2d53240464265c492fd2d1f7523dcf423cc64",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/jeremiah\/31\/29-32.1791211451742.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "тескерисинче"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨тескерисинче⟩"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ар ким"
+    },
+    {
+      "surface": "בעונו",
+      "gloss": "өз күнөөсү үчүн"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "өлөт"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ар бир"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "адам"
+    },
+    {
+      "surface": "האכל",
+      "gloss": "жеген"
+    },
+    {
+      "surface": "הבסר",
+      "gloss": "кычкыл жүзүм"
+    },
+    {
+      "surface": "תקהינה",
+      "gloss": "какалат"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "өз тиштери"
+    }
+  ],
+  "timestamp": "2026-10-05T14:44:11.743203574Z",
+  "model": "glm-5.3"
+}

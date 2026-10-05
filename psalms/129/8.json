@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 129:8",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 129,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "болсун",
+      "rationale": "Ивритте «бата силерде» деп атылык конструкцияда турат; кыргызча атооч менен байламга кошумча берилди"
+    },
+    {
+      "kind": "you",
+      "subject": "силерге",
+      "rationale": "Цийондун жек көрүүчүлөрүнө багытталбаган, аларга айтылбай калган батанын кайрылуусу — өтүп бараткандардын үнү"
+    }
+  ],
+  "translation": "Жана өтүп бараткандар айтпайт: «Яхвенин батасы силерге болсун, силерди Яхвенин ысымы менен баталадык».",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "1c343390f858f8d7f7a50f537fd05a66a39f0fb326c675510ec2e78f0b160f5e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/129\/5-8.1791217468651.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Жана"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "айтпайт"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "өтүп бараткандар"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "батасы"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "силерге"
+    },
+    {
+      "surface": "ברכנו",
+      "gloss": "баталадык"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "силерди"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "Ысымы менен"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    }
+  ],
+  "timestamp": "2026-10-05T16:24:28.652933126Z",
+  "model": "glm-5.3"
+}

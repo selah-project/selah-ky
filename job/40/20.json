@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 40:20",
+  "book": "job",
+  "lang": "ky",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "בול",
+      "rationale": "'түшүм' — бул формада Танахта бир гана жерде (Ишая 50:11ден башка да бар, бирок Бул жерде Иовдо өзүнчө сейрек сөз)."
+    },
+    {
+      "kind": "crux",
+      "subject": "בול הרים",
+      "rationale": "'тоолордун түшүмү' — кээ бирлер 'жаш бambukтарды' (בול→יבל, жалбырактар) деп окушат; KJV 'тоолор ага тамак берет'."
+    }
+  ],
+  "translation": "Анткени тоолор ага түшүм ташыйт, жана талаанын айбандарынын баары ошол жерде ойнойт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "1b88c51cb7a46e8d3432c38845377cd38870aedc920b0d3b0ca6cb1f88b46535",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/job\/40\/17-20.1791219461148.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "בול",
+      "gloss": "түшүм"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "тоолор"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "ташыйт"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ага"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "жана ... баары"
+    },
+    {
+      "surface": "חית",
+      "gloss": "айбандары"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "талаанын"
+    },
+    {
+      "surface": "ישחקו",
+      "gloss": "ойнойт"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ошол жерде"
+    }
+  ],
+  "timestamp": "2026-10-05T16:57:41.149762301Z",
+  "model": "glm-5.3"
+}

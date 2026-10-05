@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 122:1",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 122,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "баралы",
+      "rationale": "Ыр тикелей чакыруу менен башталат: «Яхвенин үйүнө баралы»."
+    },
+    {
+      "kind": "substitution",
+      "subject": "өрмөлөө ыры",
+      "rationale": "המעלות туурасында «жогору чыгуу» сөзү — жөн гана «ыр» же «даража ыры» эмес, өрмөлөө\/жүрүш мааниси бар."
+    }
+  ],
+  "translation": "Өрмөлөө ыры, Давидке тиешелүү. Мага «Яхвенин үйүнө баралы» деп айтышканда мен кубандым.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "fada0221024951a7a1377830d44fecf2faf73c73fd36e54566392241ebf71cce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/122\/1-4.1791217469473.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "ыры"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "өрмөлөө"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давидке"
+    },
+    {
+      "surface": "שמחתי",
+      "gloss": "кубандым"
+    },
+    {
+      "surface": "באמרים",
+      "gloss": "айтышканда"
+    },
+    {
+      "surface": "ли",
+      "gloss": "мага"
+    },
+    {
+      "surface": "בית",
+      "gloss": "үйү"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "баралы"
+    }
+  ],
+  "timestamp": "2026-10-05T16:24:29.474173771Z",
+  "model": "glm-5.3"
+}

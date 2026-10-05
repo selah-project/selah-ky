@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 34:13",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "болот",
+      "rationale": "Ивритте היה этиштин өзү «болуу» маанисин көтөрөт, кыргызча ⟨болот⟩ байламы кошулду"
+    },
+    {
+      "kind": "crux",
+      "subject": "תנים",
+      "rationale": "Танним: чөө (каралма) же деңиз жыланы-ажыдаара; бул жерде чөл жаныбары маанисинде"
+    },
+    {
+      "kind": "substitution",
+      "subject": "кыздарынын",
+      "rationale": "לבנות יענה көчмө маани: «дөө куштун кыздары» — дөө куштардын өзү"
+    }
+  ],
+  "translation": "Жана анын сарайларында тикендер өсүп чыгат, төө тикен жана жылан чөп анын чептеринде; жана ал ⟨болот⟩ чөөлөрдүн жайы, дөө куштардын кыздарынын короосу.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "be46451dd92edafb0523ceaf717e748c137d83456733c8ef51a3463ed439caaa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/34\/13-16.1791210034564.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועלתה",
+      "gloss": "өсүп чыгат"
+    },
+    {
+      "surface": "ארמנתיה",
+      "gloss": "анын сарайларында"
+    },
+    {
+      "surface": "סירים",
+      "gloss": "тикендер"
+    },
+    {
+      "surface": "קמוש",
+      "gloss": "төө тикен"
+    },
+    {
+      "surface": "וחוח",
+      "gloss": "жана жылан чөп"
+    },
+    {
+      "surface": "במבצריה",
+      "gloss": "анын чептеринде"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "жана ал"
+    },
+    {
+      "surface": "נוה",
+      "gloss": "жайы"
+    },
+    {
+      "surface": "תנים",
+      "gloss": "чөөлөрдүн"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "короосу"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "кыздарынын"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "дөө куштардын"
+    }
+  ],
+  "timestamp": "2026-10-05T14:20:34.565230702Z",
+  "model": "glm-5.3"
+}

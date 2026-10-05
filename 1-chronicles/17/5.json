@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 17:5",
+  "book": "1-chronicles",
+  "lang": "ky",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Мишканга",
+      "rationale": "Ивритте бир гана «Мишкандан» айтылат; кайталоо кыргызча түшүнүктүү болушу үчүн кошулду"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מאהל אל אהל",
+      "rationale": "«чатырдан чатырга» — тамыры кайталануу менен кыймылды билдирет"
+    }
+  ],
+  "translation": "Анткени Мен ⟨את⟩ Йисраэлди алып чыккан күндөн баштап бүгүнкү күнгө чейин үйүмдө жашаган эмесмин, чатырдан чатырга жана Мишкандан ⟨Мишканга⟩ өтүп жүрдүм.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "51fa833a2ecc9da6910dc5d9e6b708edef6d6190a0053f1802801e339be2c13a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-chronicles\/17\/5-8.1791222286251.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "לא",
+      "gloss": "эмес"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "жашаган"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "үйүмдө"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-дан баштап"
+    },
+    {
+      "surface": "היום",
+      "gloss": "күн"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "алып чыккан"
+    },
+    {
+      "surface": "העליתי",
+      "gloss": "алып чыккан"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Йисраэл"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэлди"
+    },
+    {
+      "surface": "עד",
+      "gloss": "чейин"
+    },
+    {
+      "surface": "היום",
+      "gloss": "күн"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "бүгүнкү"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "жана болдум"
+    },
+    {
+      "surface": "מאהל",
+      "gloss": "чатырдан"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-га"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "чатыр"
+    },
+    {
+      "surface": "וממשכן",
+      "gloss": "жана Мишкандан"
+    }
+  ],
+  "timestamp": "2026-10-05T17:44:46.252601756Z",
+  "model": "glm-5.3"
+}

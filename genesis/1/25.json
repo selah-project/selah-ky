@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 1:25",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "כי טוב",
+      "rationale": "жөнөкөй сүйлөмдө «ал жакшы экен» деген атооч кошулмайынча берилди"
+    },
+    {
+      "kind": "substitution",
+      "subject": "רמש",
+      "gloss-note": "",
+      "rationale": "сойлоочу — жерде сойлоп жүргөн жаныбар, кыргызча так бир сөз жок"
+    }
+  ],
+  "translation": "Жана Элохим ⟨את⟩ жердин жаныбарын өз түрү боюнча, ⟨את⟩ малды өз түрү боюнча жана ⟨את⟩ топурактагы бардык сойлоочуларды өз түрү боюнча жасады; жана Элохим көрдү — анткени жакшы.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "fa5a5940706a609b9662839ef89eeb035bffa88f31852fdad820e65bdf6b3ef9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/1\/25-28.1791200743611.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "жасады"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "жердин жаныбарын"
+    },
+    {
+      "surface": "חית",
+      "gloss": "жаныбарын"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "жердин"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "өз түрү боюнча"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "малды"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "малды"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "өз түрү боюнча"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "бардык сойлоочуларды"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бардык"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "сойлоочуларды"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "топурактагы"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "өз түрү боюнча"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "көрдү"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "жакшы"
+    }
+  ],
+  "timestamp": "2026-10-05T11:45:43.611795273Z",
+  "model": "glm-5.3"
+}

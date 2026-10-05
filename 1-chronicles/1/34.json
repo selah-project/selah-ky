@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 1:34",
+  "book": "1-chronicles",
+  "lang": "ky",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "көп чекит",
+      "rationale": "Эки сүйлөмдү бөлүү үчүн кошулду, еврей текстинде жок"
+    }
+  ],
+  "translation": "Жана Аврахам ⟨את⟩ Йицхакты тууду. Йицхактын уулдары: Эсав жана Йисраэл.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "58bfa9bacaa49ccf42583cec363483557f06b36985c4fa19cf5e74c1b6e79422",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-chronicles\/1\/33-36.1791221712504.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "жана ... тууду"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Аврахам"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Йицхакты"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Йицхакты"
+    },
+    {
+      "surface": "בני",
+      "gloss": "уулдары"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Йицхактын"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Эсав"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "жана Йисраэл"
+    }
+  ],
+  "timestamp": "2026-10-05T17:35:12.505488778Z",
+  "model": "glm-5.3"
+}

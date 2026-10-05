@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-kings 18:35",
+  "book": "1-kings",
+  "lang": "ky",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "акты",
+      "rationale": "וילכу — «жүрдү»; суу жөнүндө кыргызча «акты» табигый"
+    }
+  ],
+  "translation": "Жана суу мээбединин айланасына акты, жана ⟨את⟩ арыкты да суу менен толтурду.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "6e181a50c7be3ae0ddb4e3bbf164542da036ad17ed6af16a55e27f40751f2b4d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-kings\/18\/33-36.1791208501250.json",
+    "code": "641241cf-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "акты"
+    },
+    {
+      "surface": "המים",
+      "gloss": "суу"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "айланасына"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "мээбединин"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "жана… да"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "арыкты"
+    },
+    {
+      "surface": "התעלה",
+      "gloss": "арыкты"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "толтурду"
+    },
+    {
+      "surface": "מים",
+      "gloss": "суу менен"
+    }
+  ],
+  "timestamp": "2026-10-05T13:55:01.251118023Z",
+  "model": "glm-5.3"
+}

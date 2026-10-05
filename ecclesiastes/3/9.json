@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 3:9",
+  "book": "ecclesiastes",
+  "lang": "ky",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "бар",
+      "rationale": "Еврей тилинде жок болгон ээлик конструкциясы үчүн кыргызча «бар» кошулду"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יתרון \/ עמל",
+      "rationale": "«Пайда» менен «түйшөк» карама-каршы коюлуп турат — Ко heleтеттин өнөгү катары кайрыла берүүчү жуп"
+    }
+  ],
+  "translation": "Эмне пайда ⟨бар⟩ иштеген адамга — ошол нерседе, антын ал түйшөк тартып жатат?",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "47d838607d9eb90a7ca138616c1dcad25c238feef4e9c96884d8723f20a912a6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ecclesiastes\/3\/9-12.1791219992832.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "эмне"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "пайда"
+    },
+    {
+      "surface": "העושה",
+      "gloss": "иштеген адамга"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "ошол нерседе"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "антын"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "түйшөк тартып жатат"
+    }
+  ],
+  "timestamp": "2026-10-05T17:06:32.833480378Z",
+  "model": "glm-5.3"
+}

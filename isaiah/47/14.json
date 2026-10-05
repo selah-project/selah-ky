@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 47:14",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 47,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жан-жүрөк",
+      "rationale": "נפש — «дем алуучу жандык, жашоо күчү»; кыргызча «жан-жүрөк» — болжолдуу тандоо."
+    },
+    {
+      "kind": "addition",
+      "subject": "аларды",
+      "gloss": "שרפתם этишинин объектиси кыргызча так көрсөтүлдү."
+    }
+  ],
+  "translation": "Карагынчу, алар чөп-чар сыяктуу болду — аларды от күйгүзөт; алар ⟨את⟩ жан-жүрөгүн жалындын колунан ала алышпайт. Жылууга көмүү жок, анын алдында отурууга жарык жок.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "0da6585cd1d76a77657cfd2424be659d396f0ab0e770e85b963d5844f3c3c9f2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/47\/13-15.1791210244123.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "карагынчу"
+    },
+    {
+      "surface": "היו",
+      "gloss": "болду"
+    },
+    {
+      "surface": "כקש",
+      "gloss": "чөп-чар сыяктуу"
+    },
+    {
+      "surface": "אש",
+      "gloss": "от"
+    },
+    {
+      "surface": "שרפתם",
+      "gloss": "аларды күйгүзөт"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "יצילו",
+      "gloss": "ала алышпайт"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "жан-жүрөгүн"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "алардын жан-жүрөгүн"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "колунан"
+    },
+    {
+      "surface": "להבה",
+      "gloss": "жалындын"
+    },
+    {
+      "surface": "אין",
+      "gloss": "жок"
+    },
+    {
+      "surface": "גחלת",
+      "gloss": "көмүү"
+    },
+    {
+      "surface": "לחמם",
+      "gloss": "жылууга"
+    },
+    {
+      "surface": "אור",
+      "gloss": "жарык"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "отурууга"
+    },
+    {
+      "surface": "נגדו",
+      "gloss": "анын алдында"
+    }
+  ],
+  "timestamp": "2026-10-05T14:24:04.124485689Z",
+  "model": "glm-5.3"
+}

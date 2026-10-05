@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "1-kings 2:46",
+  "book": "1-kings",
+  "lang": "ky",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "кол салды",
+      "rationale": "ויפגע букв. «түрттү, туш келди» — зордук менен жолуктуруу маанисинде «кол салуу» берилди"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨анын⟩ үстүнө",
+      "rationale": "בו — «ага» деген предлогтук мүчө; кыргызча так маани үчүн «анын үстүнө» кеңейтилди"
+    }
+  ],
+  "translation": "Жана падыша Йехояданын уулу Бенайага ⟨את⟩ буйрук берди; ал чыгып, ⟨анын⟩ үстүнө кол салды, жана ал өлдү; жана падышачылык Шеломонун колунда бекем болду.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "4da071bb18e89c22cd63de8ed9af03d818449d3b2626744a1242aca16117874e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-kings\/2\/45-46.1791207953297.json",
+    "code": "641241cf-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "буйрук берди"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "падыша"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Бенайа"
+    },
+    {
+      "surface": "בניהו",
+      "gloss": "Бенайага"
+    },
+    {
+      "surface": "בן",
+      "gloss": "уулу"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Йехояданын"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "чыгып"
+    },
+    {
+      "surface": "ויפגע",
+      "gloss": "кол салды"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟨анын⟩ үстүнө"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "өлдү"
+    },
+    {
+      "surface": "והממלכה",
+      "gloss": "жана падышачылык"
+    },
+    {
+      "surface": "נכונה",
+      "gloss": "бекем болду"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "колунда"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шеломонун"
+    }
+  ],
+  "timestamp": "2026-10-05T13:45:53.298652312Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 37:10",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "өлчөмдөр",
+      "rationale": "Үстөлдүн өлчөмдөрү: эки чы кан × бир чы кан × бир жарым чы кан."
+    },
+    {
+      "kind": "substitution",
+      "subject": "чы кан",
+      "rationale": "אמה — чыян чыгарылган колдун өлчөмү; кыргызча «чы кан» салынды."
+    }
+  ],
+  "translation": "Жана ал ⟨את⟩ үстөлдү акация жыгачынан жасады: узундугу эки чы кан, туурасы бир чы кан, бийиктиги бир жарым чы кан.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "d1f098d9ff01c0d8835826ea1c57ffc66e76536add2355666f4aecf4bedf9d42",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/37\/9-12.1791202684383.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "жасады"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "үстөлдү"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "үстөлдү"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "жыгачынан"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "акация"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "эки чы кан"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "узундугу"
+    },
+    {
+      "surface": "ואмה",
+      "gloss": "бир чы кан"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "туурасы"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "бир чы кан"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "жарым"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "бийиктиги"
+    }
+  ],
+  "timestamp": "2026-10-05T12:18:04.383826010Z",
+  "model": "glm-5.3"
+}

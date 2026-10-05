@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "daniel 3:4",
+  "book": "daniel",
+  "lang": "ky",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "« жана :",
+      "rationale": "Кыргыз тилинде жарчынын сөзү кашаа менен ачылып жатышы керек, еврейче (арамейче) бул жок"
+    },
+    {
+      "kind": "you",
+      "subject": "силерге",
+      "rationale": "Жарчы жыйылган элдерге, улуттарга жана тилдерге түз кайрылат"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עממיא אמיא",
+      "rationale": "«Элдер, улуттар» — үч милдеттүү тизмектешүү, накта семит стили; кыргызча сакталды"
+    }
+  ],
+  "translation": "Жана жарчы аскердин ичинде кыйкырды: «Силерге, элдер, улуттар жана тилдер, айтылып жатат:",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "1bf2b5992b5e8a8a1d722d4f0fbf3c3cfe36d43721700efa71d16348a75c7493",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/daniel\/3\/4-4.1791224544309.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכרוזא",
+      "gloss": "жана жарчы"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "кыйкырды"
+    },
+    {
+      "surface": "בחיל",
+      "gloss": "аскердин ичинде"
+    },
+    {
+      "surface": "לכון",
+      "gloss": "силерге"
+    },
+    {
+      "surface": "אמרין",
+      "gloss": "айтылып жатат"
+    },
+    {
+      "surface": "עממיא",
+      "gloss": "элдер"
+    },
+    {
+      "surface": "אמיא",
+      "gloss": "улуттар"
+    },
+    {
+      "surface": "ולשניא",
+      "gloss": "жана тилдер"
+    }
+  ],
+  "timestamp": "2026-10-05T18:22:24.310008781Z",
+  "model": "glm-5.3"
+}

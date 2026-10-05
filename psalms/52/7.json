@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 52:7",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 52,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יחתך",
+      "rationale": "חתה 'от териш' — 'алып' же 'отко таштайт' деген эки окулма бар"
+    },
+    {
+      "kind": "elision",
+      "subject": "сени",
+      "rationale": "Еврейче этиш мүчөлөрүндөгү -ך 'сени' кыргызча айрым сөз катары кайталанды"
+    }
+  ],
+  "translation": "Ошондой эле Эл сени түбөлүккө талкалайт, сени алып, чатырдан сууруп чыгатат жана сени тирүүлөрдүн жеринен тамырың менен жулуп таштайт. Селах.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "666400d223fe6cf286c73de32d4fbe9fba816680b00151162d82d6ed1e0aac97",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/52\/5-8.1791216247643.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Ошондой эле"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эл"
+    },
+    {
+      "surface": "יתצך",
+      "gloss": "талкалайт"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "түбөлүккө"
+    },
+    {
+      "surface": "יחתך",
+      "gloss": "алып"
+    },
+    {
+      "surface": "ויסחך",
+      "gloss": "сууруп чыгатат"
+    },
+    {
+      "surface": "מאהל",
+      "gloss": "чатырдан"
+    },
+    {
+      "surface": "ושרשך",
+      "gloss": "тамырың менен жулуп таштайт"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "жеринен"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "тирүүлөрдүн"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Селах"
+    }
+  ],
+  "timestamp": "2026-10-05T16:04:07.644422212Z",
+  "model": "glm-5.3"
+}

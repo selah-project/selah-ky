@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 1:6",
+  "book": "ecclesiastes",
+  "lang": "ky",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "סובב סובב",
+      "rationale": "«Айланып-айланып» — эшилүүнүн өзү шамалдын айлануусун элестетет; кыргызча эки эсе кайталоо менен берилди."
+    },
+    {
+      "kind": "addition",
+      "subject": "шамал",
+      "rationale": "עברитика колду татаал сүйлөмдө «шамал» субъектин экинчи жолу кайталоо табигый."
+    }
+  ],
+  "translation": "Түштүккө жөнөйт жана түндүккө бурулат; айланып-айланып, шамал басат, жана өз айланмалары боюнча шамал кайтып келет.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "7ee817c5897eb9019f5f2eb1e4bead17372d0ec66a5cd051a57637b4597197cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ecclesiastes\/1\/5-8.1791220027916.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "жөнөйт"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...ге"
+    },
+    {
+      "surface": "דרום",
+      "gloss": "түштүк"
+    },
+    {
+      "surface": "וסובב",
+      "gloss": "жана бурулат"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...ге"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "түндүк"
+    },
+    {
+      "surface": "סובב",
+      "gloss": "айланып"
+    },
+    {
+      "surface": "סבב",
+      "gloss": "айланып"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "басат"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "шамал"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "жана ... боюнча"
+    },
+    {
+      "surface": "סביבתיו",
+      "gloss": "өз айланмалары"
+    },
+    {
+      "surface": "שב",
+      "gloss": "кайтып келет"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "шамал"
+    }
+  ],
+  "timestamp": "2026-10-05T17:07:07.917654727Z",
+  "model": "glm-5.3"
+}

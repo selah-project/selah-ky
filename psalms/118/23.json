@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 118:23",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 118,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ал",
+      "rationale": "זאת менен היא — башкы эки көрсөткөч; кыргызча 'ал' дагы бир сөз менен ажыратылды"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "היתה",
+      "rationale": "'болду' сөзү 118:22 менен 118:23 тө кайталанып, таш жасалган ишти байланыштырат"
+    }
+  ],
+  "translation": "Яхведен ⟨את⟩ бул болду, ал биздин көздөрүбүздө укмуштуу.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "ea0889e6b7922f3ac1ab241b6b4c1bcce6469c0577eccbec01ccfa43351e2e85",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/118\/21-24.1791217276337.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מאת",
+      "gloss": "Яхведен ⟨את⟩",
+      "marks": "бул"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "болду"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "бул"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ал"
+    },
+    {
+      "surface": "נפלאת",
+      "gloss": "укмуштуу"
+    },
+    {
+      "surface": "בעינינו",
+      "gloss": "биздин көздөрүбүздө"
+    }
+  ],
+  "timestamp": "2026-10-05T16:21:16.338639602Z",
+  "model": "glm-5.3"
+}

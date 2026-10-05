@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 23:9",
+  "book": "1-samuel",
+  "lang": "ky",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жасырын ойлоп жаткан",
+      "rationale": "מחריש буквально «чапканга окшотуп жүрүү» — үнсүз иштөө, жасырын аракет кылуу"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨мага⟩",
+      "rationale": "Еврейде «алып кел» дегенди айтыш үчүн багыт ачык айтылбайт, кыргызча аныктоо талап кылат"
+    }
+  ],
+  "translation": "Давид билди, анткени Шаул ага каршы жасырын жамандык ойлоп жаткан эле; ал Абьятар ыйык кызмат кылуучуга айтты: Эфодду ⟨мага⟩ алып кел.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "df90f4fe3ac1d5578593274c89bb1e49be210f087ac5ec2c42f581c8871bf873",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-samuel\/23\/9-12.1791207097802.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "билди"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ага каршы"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "מחריש",
+      "gloss": "жасырын ойлоп жаткан"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "жамандык"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...га"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Абьятар"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ыйык кызмат кылуучу"
+    },
+    {
+      "surface": "הגישה",
+      "gloss": "алып кел"
+    },
+    {
+      "surface": "האפוד",
+      "gloss": "эфодду"
+    }
+  ],
+  "timestamp": "2026-10-05T13:31:37.803020200Z",
+  "model": "glm-5.3"
+}

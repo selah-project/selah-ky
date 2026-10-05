@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 44:22",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨атасы⟩",
+      "rationale": "Ивритте 'өлдү' этиштин субъектин көрсөтпөйт; кыргызча ээси талап кылат."
+    },
+    {
+      "kind": "crux",
+      "subject": "өлүп калат",
+      "rationale": "KJV\/ASV\/JPS 'атасы өлөт' деп толуктат; YLT боюнча субъект ачык эмес — 'ал өлөт' болушу мүмкүн."
+    }
+  ],
+  "translation": "Жана биз мырзамга айттык: Бала атасын таштай албайт, анткени ал атасын таштаса, ⟨атасы⟩ өлүп калат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "5c3d7b915734945335198bfb967da9e29d2b152041fa9243dd5f30456f19980c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/44\/21-24.1791201633745.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונאמר",
+      "gloss": "айттык"
+    },
+    {
+      "surface": "אל",
+      "gloss": "−ге"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "мырзамга"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "албайт"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "бала"
+    },
+    {
+      "surface": "לעזב",
+      "gloss": "таштай"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "атасын"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "атасын"
+    },
+    {
+      "surface": "ועזב",
+      "gloss": "таштаса"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "атасын"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "атасын"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "өлүп калат"
+    }
+  ],
+  "timestamp": "2026-10-05T12:00:33.746295221Z",
+  "model": "glm-5.3"
+}

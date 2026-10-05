@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "amos 7:6",
+  "book": "amos",
+  "lang": "ky",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "өкүндү",
+      "rationale": "נחם — «ооп кетүү, өкүнүү»; кээ бир котормолор «бошотулат» деп жумшартышат"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨бул⟩",
+      "rationale": "גם היא «да ал» — кыргызча «бул да» формасында ээлик ат атооч кошулду"
+    }
+  ],
+  "translation": "Яхве бул жөнүндө өкүндү; бул да болбойт, — деди Адонай Яхве.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "a49b7a984d858747667978ecd9141f4168c5f866bbf189e9dfead2d9ae742a43",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/amos\/7\/6-7.1791224389709.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נחם",
+      "gloss": "өкүндү"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "על",
+      "gloss": "жөнүндө"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "бул"
+    },
+    {
+      "surface": "גם",
+      "gloss": "да"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨бул⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "болбойт"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "болбойт"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "деди"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-10-05T18:19:49.709744251Z",
+  "model": "glm-5.3"
+}

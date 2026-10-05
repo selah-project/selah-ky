@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 54:3",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 54,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "Давиддин тиленүүсү",
+      "rationale": "Элохимге багытталган императивдик тилек — «куткар», «сотто»"
+    }
+  ],
+  "translation": "Элохим, Ысымың менен мени куткар, жана кудуретиң менен мени сотто.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "221244fa5816e7db6ed61e4d63409e2faad2b6c6e86cf7c783b5b3d23d3319f2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/54\/1-4.1791216200687.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "Ысымың менен"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "мени куткар"
+    },
+    {
+      "surface": "ובגבורתך",
+      "gloss": "жана кудуретиң менен"
+    },
+    {
+      "surface": "תדינני",
+      "gloss": "мени сотто"
+    }
+  ],
+  "timestamp": "2026-10-05T16:03:20.688023274Z",
+  "model": "glm-5.3"
+}

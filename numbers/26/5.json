@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 26:5",
+  "book": "numbers",
+  "lang": "ky",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "genealogy",
+      "rationale": "Census family listing of clans by name."
+    },
+    {
+      "kind": "substitution",
+      "subject": "уруусу",
+      "rationale": "משפחת rendered as 'clan\/uruu' since these are large census clans, not small families."
+    }
+  ],
+  "translation": "Реувен, Йисраэлдин тунджулу; Реувендин уулдары: Ханох — ханохтор уруусу, Паллу — палуулар уруусу.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "7a7213429dfc96e8641364df9b12e3e08dd04eed11d7435782d0ff449643779c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/numbers\/26\/5-8.1791204186882.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ראובן",
+      "gloss": "Реувен"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "тунджулу"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэл"
+    },
+    {
+      "surface": "בני",
+      "gloss": "уулдары"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Реувендин"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Ханох"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "уруусу"
+    },
+    {
+      "surface": "החנכי",
+      "gloss": "ханохтор"
+    },
+    {
+      "surface": "לפלוא",
+      "gloss": "Паллу"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "уруусу"
+    },
+    {
+      "surface": "הפלאי",
+      "gloss": "палуулар"
+    }
+  ],
+  "timestamp": "2026-10-05T12:43:06.882887562Z",
+  "model": "glm-5.3"
+}

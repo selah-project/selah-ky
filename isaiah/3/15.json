@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 3:15",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "жүздөрүн тартасыңар",
+      "rationale": "'Grind the faces' — Hebrew idiom of brutal oppression, kept literal picture with тарт- (to grind grain)."
+    },
+    {
+      "kind": "crux",
+      "subject": "מלכם",
+      "rationale": "Kethiv 'their king' vs qere 'what to you?' — rendered per qere as in most versions."
+    }
+  ],
+  "translation": "Эмнеге менин элимди майдалайсыңар жана жокчулардын жүздөрүн тартасыңар? — Адонай Яхве Цебаоттун сөзү.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "2c751c9c671026c82246b4efc5cba8065fb7d9fced03901563d71dc233dde11a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/3\/13-16.1791209411699.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מלכם",
+      "gloss": "Эмнеге"
+    },
+    {
+      "surface": "תדכאו",
+      "gloss": "майдалайсыңар"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "менин элимди"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "жана жүздөрүн"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "жокчулардын"
+    },
+    {
+      "surface": "תטחנu",
+      "gloss": "тартасыңар"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "сөзү"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цебаоттун"
+    }
+  ],
+  "timestamp": "2026-10-05T14:10:11.700215854Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "ezekiel 27:32",
+  "book": "ezekiel",
+  "lang": "ky",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "унчукпай калган",
+      "rationale": "כדמה (דֻמָה — унчукпай калтуу): JPS «бекемделген» деп окуп, KJV «жок кылынган» деп берет; букв. «унчукпай калгандай»"
+    },
+    {
+      "kind": "elision",
+      "subject": "בניהם",
+      "rationale": "бу сөз «алардын уулдары» эмес, נָהָה (кошоктоо) тамырынан — «алардын кошоктоосу»"
+    }
+  ],
+  "translation": "Жана өз кошоктору менен сенин үчүң кошок көтөрүшөт, сенин үстүңдө кошоктошот: «Ким бар Цор сыяктуу, деңиздин ортосунда унчукпай калгандай?»",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "26e011cb0655ff1672a89858f7fee264ddd2b1056094426da4ca37da19bd0182",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ezekiel\/27\/29-32.1791212999831.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונשאו",
+      "gloss": "көтөрүшөт"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "сенин үчүң"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "өз кошоктору менен"
+    },
+    {
+      "surface": "קינה",
+      "gloss": "кошок"
+    },
+    {
+      "surface": "וקוננו",
+      "gloss": "кошоктошот"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "сенин үстүңдө"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ким"
+    },
+    {
+      "surface": "כצור",
+      "gloss": "Цор сыяктуу"
+    },
+    {
+      "surface": "כדמה",
+      "gloss": "унчукпай калгандай"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ортосунда"
+    },
+    {
+      "surface": "הים",
+      "gloss": "деңиздин"
+    }
+  ],
+  "timestamp": "2026-10-05T15:09:59.832478094Z",
+  "model": "glm-5.3"
+}

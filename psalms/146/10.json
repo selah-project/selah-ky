@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 146:10",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 146,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "сенин",
+      "rationale": "Элохимге 2-жаң одонго мүчө «сенин» кыргызча керек, ивритте жок эмес (אלהיך)"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Яхты даңктагыла",
+      "rationale": "Китептин акыркы буйругу — окурманга чакырык, аллилуйа"
+    }
+  ],
+  "translation": "Яхве түбөлүк падышачылык кылат, Цийон, сенин Элохимиң муундан муунка. Яхты даңктагыла!",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "d5fcbf227f804cb9f705f06dde37bba557510f04d8b58a66a2a92cf66769d671",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/146\/9-10.1791217624287.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ימלך",
+      "gloss": "падышачылык кылат"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "түбөлүк"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "сенин Элохимиң"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Цийон"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "муундан"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "муунка"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "даңктагыла"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Яхты"
+    }
+  ],
+  "timestamp": "2026-10-05T16:27:04.288084060Z",
+  "model": "glm-5.3"
+}

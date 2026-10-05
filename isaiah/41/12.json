@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 41:12",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "כאין \/ וכאפס",
+      "rationale": "Эки тең сөз «жок» деген мааниде — אין (жок нерсе) жана אפס (нөл, токтолуш) — ыргактуу кайталоо, кыргызча «жокко эле, нөлгө эле» деп берилди."
+    },
+    {
+      "kind": "hapax",
+      "subject": "מצות",
+      "rationale": "«Чыр» деген сөз (lemma מצות) Танахта өтө сейрек ушул мааниде колдонулат."
+    }
+  ],
+  "translation": "Аларды издейсин, бирок таба албайсын — сени менен чырлашкан адамдарды; алар жокко эле, нөлгө эле айланышат — сени менен согушкан адамдар.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "a802bdd6320629de330a8399533296e8db58c5bf8f4d88c3f450882af6f2e8cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/41\/9-12.1791210159483.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תבקשם",
+      "gloss": "Аларды издейсин"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "бирок эмес"
+    },
+    {
+      "surface": "תמצאם",
+      "gloss": "таба албайсын"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "адамдар"
+    },
+    {
+      "surface": "מצתך",
+      "gloss": "сени менен чырлашкан"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "айланышат"
+    },
+    {
+      "surface": "כאין",
+      "gloss": "жокко"
+    },
+    {
+      "surface": "וכאפס",
+      "gloss": "жана нөлгө"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "адамдар"
+    },
+    {
+      "surface": "מלחמתך",
+      "gloss": "сени менен согушкан"
+    }
+  ],
+  "timestamp": "2026-10-05T14:22:39.484290416Z",
+  "model": "glm-5.3"
+}

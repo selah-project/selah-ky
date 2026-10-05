@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 6:12",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "эт",
+      "rationale": "כל בשר — «бардык эт»: адамдарды жана жаныбарларды камтыган «эт-денелүү жандар»."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נשחתה\/השחית",
+      "rationale": "Ш_sectorחת тамыры эки жолу: жер бузулду (эттапас), анткени эт өз жолун бузду (боору)."
+    }
+  ],
+  "translation": "Жана Элохим ⟨את⟩ жерди көрдү, жана мына, ал бузулган; анткени бардык эт ⟨את⟩ өз жолун жер үстүндө бузган.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "b4c2c2dd9fd903c5606b012f1f4ee9736c5246b1ac4bd9c4d70bef2f0c2382c7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/6\/9-12.1791200820905.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Жана … көрдү"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "жер"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "жерди"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "жана мына"
+    },
+    {
+      "surface": "נשחתה",
+      "gloss": "бузулган"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "השחית",
+      "gloss": "бузган"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бардык"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "эт"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "өз жолун"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "өз жолун"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстүндө"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "жер"
+    }
+  ],
+  "timestamp": "2026-10-05T11:47:00.906801310Z",
+  "model": "glm-5.3"
+}

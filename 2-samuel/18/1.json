@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 18:1",
+  "book": "2-samuel",
+  "lang": "ky",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "миң башчылары жана жүз башчылары",
+      "rationale": "Армиянын миңдерге жана жүздөргө бөлүнүшү сан жана тартип билдирет."
+    },
+    {
+      "kind": "elision",
+      "subject": "אתו",
+      "rationale": "את העם ... אשר אתо — үнөттүк карата 'with him' мааниси кыргызча 'өзүнүн жанында' деп берилди."
+    }
+  ],
+  "translation": "Давид ⟨את⟩ өзүнүн жанында турган элди жыйнап каратып, алардын үстүнө миң башчыларын жана жүз башчыларын койду.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "c4ed79bcfc5e7bf4f572444922e534972c207ff6cff72c88b5b61a9131597514",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-samuel\/18\/1-4.1791207726050.json",
+    "code": "641241cf-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "жыйнап каратып"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "өзүнүн жанында турган элди"
+    },
+    {
+      "surface": "העם",
+      "gloss": "элди"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "керек"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ менен — өзүнүн жанында"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "койду"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "алардын үстүнө"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "башчыларын"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "миң"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "жана башчыларын"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "жүз"
+    }
+  ],
+  "timestamp": "2026-10-05T13:42:06.051398600Z",
+  "model": "glm-5.3"
+}

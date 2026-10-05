@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 5:5",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "эмессиң",
+      "rationale": "Ивритте 'эмес' деген копула жок, терсөө ла менен берилген"
+    },
+    {
+      "kind": "alternative",
+      "subject": "יגרך",
+      "rationale": "'Конок болот\/жашабайт' — жашоо маанисинде, KJV 'dwell', ASV 'sojourn'"
+    }
+  ],
+  "translation": "Анткени Сен жамандыкты каалаган Эл ⟨эмессиң⟩, жамандык Сен менен жашабайт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "c051fc4b02dfeab5281d256f13d2732f51be7285321fe6f50be3567b9473ab6d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/5\/5-8.1791215318524.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Анткени"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨эмессиң⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эл"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "каалаган"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "жамандыкты"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Сен"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "יגרך",
+      "gloss": "Сен менен жашабайт"
+    },
+    {
+      "surface": "רע",
+      "gloss": "жамандык"
+    }
+  ],
+  "timestamp": "2026-10-05T15:48:38.524725400Z",
+  "model": "glm-5.3"
+}

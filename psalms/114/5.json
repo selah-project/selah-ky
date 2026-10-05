@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 114:5",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 114,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "эй",
+      "rationale": "Кыргызча чакыруу мааниси үчүн кошулду, еврейче жок"
+    },
+    {
+      "kind": "you",
+      "subject": "деңизге жана Ярденге",
+      "rationale": "Аят деңизди жана Ярденди түз адрестейт"
+    },
+    {
+      "kind": "invitation",
+      "subject": "суроо",
+      "rationale": "Аят ритордук суроо менен окурманды тартат"
+    }
+  ],
+  "translation": "Сага эмне болду, эй деңиз, сен качтың? Эй Ярден, сен артка бурулдуң?",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "94de7dada0975aece852f59cb693a0c1413570e1594ab4acc430d500999295e5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/114\/5-8.1791217209121.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "эмне"
+    },
+    {
+      "surface": "לך",
+      "gloss": "сага"
+    },
+    {
+      "surface": "הים",
+      "gloss": "деңиз"
+    },
+    {
+      "surface": "כי",
+      "gloss": "сен"
+    },
+    {
+      "surface": "תנוס",
+      "gloss": "качтың"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Ярден"
+    },
+    {
+      "surface": "תסב",
+      "gloss": "бурулдуң"
+    },
+    {
+      "surface": "לאחור",
+      "gloss": "артка"
+    }
+  ],
+  "timestamp": "2026-10-05T16:20:09.122608436Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 52:5",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 52,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "артык",
+      "rationale": "Еврейче салыштыруу даана айтылбайт, 'мындан артык' мааниси кыргызча кошулду"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "טוב\/רע",
+      "rationale": "жакшы\/жаман каршы коюу — ырдагы негизги карама-каршылык"
+    }
+  ],
+  "translation": "Сен жаманды жакшыдан артык сүйдүң, жалганды цедек айтуудан артык. Селах.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "666400d223fe6cf286c73de32d4fbe9fba816680b00151162d82d6ed1e0aac97",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/52\/5-8.1791216247643.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "сүйдүң"
+    },
+    {
+      "surface": "רע",
+      "gloss": "жаманды"
+    },
+    {
+      "surface": "מטוב",
+      "gloss": "жакшыдан"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "жалганды"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "айтуудан"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "цедек"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Селах"
+    }
+  ],
+  "timestamp": "2026-10-05T16:04:07.644108739Z",
+  "model": "glm-5.3"
+}

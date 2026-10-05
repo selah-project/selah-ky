@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 30:10",
+  "book": "proverbs",
+  "lang": "ky",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "тынбай элге",
+      "rationale": "Буюрук формада тыюш: арыз кылба — окурманга түз буйрук."
+    },
+    {
+      "kind": "substitution",
+      "subject": "тылдөө\/ариз кылуу",
+      "rationale": "לשן сөз айт «тил булгоо, тылдоо» маанисинде; «ариз кылба» — кыргызча шайкеш келген кеңири маани."
+    }
+  ],
+  "translation": "Кызматчыны кожоюнунун алдында арыз кылба, болбосун ал сени каргар, ошондо күнөөлүү болосуң.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "d343f7d21d47d0dcc93b15c7d598a54b798a382d73f2a82b16355da7cfbe58d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/30\/9-12.1791218439789.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "айтпа"
+    },
+    {
+      "surface": "תלשן",
+      "gloss": "ариз кылба"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "кызматчыны"
+    },
+    {
+      "surface": "אל",
+      "gloss": "алдында"
+    },
+    {
+      "surface": "אדנו",
+      "gloss": "кожоюнунун"
+    },
+    {
+      "surface": "פן",
+      "gloss": "болбосун"
+    },
+    {
+      "surface": "יקללך",
+      "gloss": "сени каргар"
+    },
+    {
+      "surface": "ואשמת",
+      "gloss": "күнөөлүү болосуң"
+    }
+  ],
+  "timestamp": "2026-10-05T16:40:39.789790792Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 7:14",
+  "book": "leviticus",
+  "lang": "ky",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "тыйык кызмат кылуучу",
+      "rationale": "כהן — ыйык кызмат кылуучу; 'диний кызматкер' эмес, кызмат мааниси сакталды"
+    },
+    {
+      "kind": "crux",
+      "subject": "מכל קרבן",
+      "rationale": "'бүт курмандыктан бирөө' же 'ар бир түрдөн бирөө' — KJV 'one out of the whole', JPS 'one out of each'"
+    }
+  ],
+  "translation": "Жана ал андан ар бир курмандыктан бирөөнү тартуулап, Яхвеге белек кылсын; ал анын тынчтык курмандыктарынын ⟨את⟩ канын чачкан ыйык кызмат кылуучуга — ага тиешелүү болсун.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "ee40c252b5a69349d095423e05c1c09237c3cd6474e56f9554e088188f23e542",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/7\/13-16.1791202890617.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "Жана ... тартуулап"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "андан"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бирөөнү"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ар бир"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "курмандыктан"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "белек"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхвеге"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "ыйык кызмат кылуучуга"
+    },
+    {
+      "surface": "הזרק",
+      "gloss": "чачкан"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "канды"
+    },
+    {
+      "surface": "דם",
+      "gloss": "канын"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "тынчтык курмандыктарынын"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ага"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "тиешелүү болсун"
+    }
+  ],
+  "timestamp": "2026-10-05T12:21:30.618112040Z",
+  "model": "glm-5.3"
+}

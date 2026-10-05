@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 12:4",
+  "book": "hosea",
+  "lang": "ky",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עקב \/ יעקב",
+      "rationale": "'өкчө' (акев) менен 'Яаков' аталышынын үндөштүгү — Башталыш 25:26 дагы оюн; кыргызча жоголот."
+    },
+    {
+      "kind": "alternative",
+      "subject": "באונו",
+      "rationale": "'күч-кудурети менен' — ASV 'in his manhood' (жетилгендигинде) дагы мүмкүн; 'күч' мааниси негизги."
+    }
+  ],
+  "translation": "Кош түшкөндө ал ⟨את⟩ агасынын өкчөсүн кармады, жана күч-кудурети менен ⟨את⟩ Элохим менен күрөштү.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "823b702dbbab90508d3e1f0a3744a33cd54c77a956b258685b02456494d37a41",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/hosea\/12\/1-4.1791214050109.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בבטן",
+      "gloss": "кош түшкөндө"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "өкчөсүн кармады"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "агасынын өкчөсүн"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "агасынын"
+    },
+    {
+      "surface": "ובאונו",
+      "gloss": "жана күч-кудурети менен"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "күрөштү"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Элохим"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    }
+  ],
+  "timestamp": "2026-10-05T15:27:30.110394270Z",
+  "model": "glm-5.3"
+}

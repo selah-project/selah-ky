@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 11:12",
+  "book": "1-samuel",
+  "lang": "ky",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨Ошол⟩",
+      "rationale": "Еврейче 'адамдарды бергиле' — кайсы адамдар экени контексттен аныкталат, кыргызча тактоо кошулду"
+    },
+    {
+      "kind": "you",
+      "subject": "Шемуэлге",
+      "rationale": "Эл Шемуэлге тикелей кайрылат, нааразылык билдирген сурак"
+    }
+  ],
+  "translation": "Жана эл Шемуэлге айтты: Шаул биздин үстүбүздөн падышачылык кылсын деген ким? ⟨Ошол⟩ адамдарды бергиле, да биз аларды өлтөрөлү.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "53cf25570542505c951b92bd76edc9d4bb62050e171184edbd1287d73d785a32",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-samuel\/11\/9-12.1791206743666.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "העם",
+      "gloss": "эл"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…га"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Шемуэл"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ким"
+    },
+    {
+      "surface": "האמר",
+      "gloss": "деген"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "падышачылык кылсын"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "биздин үстүбүздөн"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "бергиле"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "адамдарды"
+    },
+    {
+      "surface": "ונמיתם",
+      "gloss": "өлтөрөлү"
+    }
+  ],
+  "timestamp": "2026-10-05T13:25:43.667540238Z",
+  "model": "glm-5.3"
+}

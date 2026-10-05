@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 3:1",
+  "book": "ecclesiastes",
+  "lang": "ky",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "бар",
+      "rationale": "еврейче текстте атооч жок; кыргызча сүйлөм аны талап кылат"
+    },
+    {
+      "kind": "substitution",
+      "subject": "каалоо",
+      "rationale": "חפץ — ырахат, каалоо, баалуу нерсе; бир сөзгө кысылды"
+    }
+  ],
+  "translation": "Бардык нерсеге белгиленген убакыт, жана асман астындагы ар бир каалоого ⟨убакыт бар⟩.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "35d3cdeff773c389dec489fb2675c08a0708dc3dd42488493c2848219efeaa0d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ecclesiastes\/3\/1-4.1791220001932.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכל",
+      "gloss": "бардык нерсеге"
+    },
+    {
+      "surface": "זמן",
+      "gloss": "белгиленген убакыт"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "жана убакыт"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ар бир"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "каалоого"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "астында"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "асмандын"
+    }
+  ],
+  "timestamp": "2026-10-05T17:06:41.933407467Z",
+  "model": "glm-5.3"
+}

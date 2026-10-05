@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 2:11",
+  "book": "joshua",
+  "lang": "ky",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "рух",
+      "rationale": "רוח — «жүрөк жүрбөй калды» деген салттуу котормо «эч бир эркекте рух турбай калды» деп букв. берилди"
+    },
+    {
+      "kind": "addition",
+      "subject": "эч бир",
+      "rationale": "«рух калбады» деген сөз айкашына кыргызча «эч» кошулду, маани бекемдөө үчүн"
+    }
+  ],
+  "translation": "жана биз угуп, жүрөгүбүз эриди, жана силердин алдыңарда эч бир эркекте дагы рух турбай калды, анткени Яхве — силердин Элохимуңар, ал жогорудагы асмандарда жана төмөндөгү жердин үстүндө Элохим.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "6b3ed85f11e9aefad794832e46a5eb8cf8e76a0f8325d9120289efa5f516715f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/joshua\/2\/9-12.1791205612561.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונשמע",
+      "gloss": "уктук"
+    },
+    {
+      "surface": "וימס",
+      "gloss": "эриди"
+    },
+    {
+      "surface": "לבבנו",
+      "gloss": "жүрөгүбүз"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "קמה",
+      "gloss": "турбай"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "дагы"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "рух"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "эркекте"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "силердин алдыңарда"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "силердин Элохимуңар"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ал"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "асмандарда"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "жогоруда"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "жана ... үстүндө"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "жердин"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "төмөндө"
+    }
+  ],
+  "timestamp": "2026-10-05T13:06:52.562232322Z",
+  "model": "glm-5.3"
+}

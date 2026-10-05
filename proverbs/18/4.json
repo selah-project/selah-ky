@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 18:4",
+  "book": "proverbs",
+  "lang": "ky",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "сыяктуу",
+      "rationale": "Салыштыруу «сыяктуу» сөзү ивритте жок — теңең түз айтылган, кыргызча салыштырма маанини ачуу үчүн кошулду."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "суу-образ",
+      "rationale": "Терең суулар жана булак — ооз сөз жана акылмандык суу образы менен бирдей схемада каршыланып турат."
+    }
+  ],
+  "translation": "Адамдын оозунун сөздөрү — терең суулар ⟨сыяктуу⟩; акылмандыктын булагы — агымдуу жылга.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "50aaf93b6d741bd5d77493cd145cc6db9def980cd4127926ff6786f05573804a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/18\/1-4.1791218153997.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "суулар"
+    },
+    {
+      "surface": "עמקים",
+      "gloss": "терең"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "сөздөрү"
+    },
+    {
+      "surface": "פי",
+      "gloss": "оозунун"
+    },
+    {
+      "surface": "איש",
+      "gloss": "адамдын"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "жылга"
+    },
+    {
+      "surface": "נבע",
+      "gloss": "агымдуу"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "булак"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "акылмандык"
+    }
+  ],
+  "timestamp": "2026-10-05T16:35:53.998621224Z",
+  "model": "glm-5.3"
+}

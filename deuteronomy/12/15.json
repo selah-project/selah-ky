@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 12:15",
+  "book": "deuteronomy",
+  "lang": "ky",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אות",
+      "rationale": "Here אַוַּת (from אוה, 'longing') — NOT the direct-object marker את; no ⟨את⟩ marker applies."
+    },
+    {
+      "kind": "substitution",
+      "subject": "жаның",
+      "rationale": "נפש is throat\/breath\/appetite\/life-force, not an immaterial 'soul'."
+    },
+    {
+      "kind": "alternative",
+      "subject": "таза эмес да, таза да",
+      "rationale": "Refers to persons (ritual purity of the eater), rendered literally in this order as in Hebrew."
+    }
+  ],
+  "translation": "Тек жаның каалаган нерсенин баарысын союп, эт жейсиң, Яхве Элохимиңдин батасындай — ал сага бардык дарбазаларыңда берди; таза эмес да, таза да аны жейт, бөкөн жана марал сыяктуу.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "63070f37d0edbf4890301f1e721a93f6696bac27720cdf2dd5d7fd6e675a8542",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/12\/13-16.1791204996495.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "тек"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "баарысын"
+    },
+    {
+      "surface": "אות",
+      "gloss": "каалаган"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "жаның"
+    },
+    {
+      "surface": "תזבח",
+      "gloss": "союп"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "жейсиң"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "эт"
+    },
+    {
+      "surface": "כברכת",
+      "gloss": "батасындай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Элохимиңдин"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ал"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "берди"
+    },
+    {
+      "surface": "לך",
+      "gloss": "сага"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "бардык"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "дарбазаларыңда"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "таза эмес да"
+    },
+    {
+      "surface": "והטהור",
+      "gloss": "таза да"
+    },
+    {
+      "surface": "יאכלנו",
+      "gloss": "аны жейт"
+    },
+    {
+      "surface": "כצבי",
+      "gloss": "бөкөн"
+    },
+    {
+      "surface": "וכאיל",
+      "gloss": "марал"
+    }
+  ],
+  "timestamp": "2026-10-05T12:56:36.496272694Z",
+  "model": "glm-5.3"
+}

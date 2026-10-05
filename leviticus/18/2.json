@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 18:2",
+  "book": "leviticus",
+  "lang": "ky",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Мен —",
+      "rationale": "Копула кыргызча талап кылынат, еврейчеде жок."
+    },
+    {
+      "kind": "invitation",
+      "subject": "сүйлө жана айт",
+      "rationale": "Мошеге буйрук — элге жеткирүү чакырыгы."
+    }
+  ],
+  "translation": "Йисраэл уулдарына сүйлө жана аларга айт: Мен — Яхве, силердин Элохимиңер.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "e033b1d869d2c0b86a924c458f4b4706f0b848452cdaab8a8a978608f34903aa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/18\/1-4.1791203182047.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "сүйлө"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…га"
+    },
+    {
+      "surface": "בני",
+      "gloss": "уулдары"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэл"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "жана айт"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "аларга"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Мен"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Элохимиңер"
+    }
+  ],
+  "timestamp": "2026-10-05T12:26:22.048066046Z",
+  "model": "glm-5.3"
+}

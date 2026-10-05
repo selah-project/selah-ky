@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 74:2",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 74,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "сатып алганыңды",
+      "rationale": "קנית «жараттың\/ээлеп алдың» да болот — туугандык укук боюнча сатып алуу мааниси басымдуу"
+    },
+    {
+      "kind": "you",
+      "subject": "Элохимге",
+      "rationale": "атаалыш — эскер деген буйрук"
+    }
+  ],
+  "translation": "Жыйыныңды эскер — байыркы убакта сатып алганыңды, мурасыңдын уруусун куткарганыңды; ушул Цийон тоосуна — анын ичине сен жашагансың.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "064e49d03dbdcc4cffb63d4566098b25fe5a5867a68e7e0fa3d7ad05241f9919",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/74\/1-4.1791216574790.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "эскер"
+    },
+    {
+      "surface": "עדתך",
+      "gloss": "жыйыныңды"
+    },
+    {
+      "surface": "קנית",
+      "gloss": "сатып алганыңды"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "байыркы убакта"
+    },
+    {
+      "surface": "גאלת",
+      "gloss": "куткарганыңды"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "уруусун"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "мурасыңдын"
+    },
+    {
+      "surface": "הר",
+      "gloss": "тоосуна"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Цийон"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ушул"
+    },
+    {
+      "surface": "שכנת",
+      "gloss": "жашагансың"
+    },
+    {
+      "surface": "בו",
+      "gloss": "анын ичине"
+    }
+  ],
+  "timestamp": "2026-10-05T16:09:34.791636552Z",
+  "model": "glm-5.3"
+}

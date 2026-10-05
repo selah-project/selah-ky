@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 15:4",
+  "book": "2-kings",
+  "lang": "ky",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "бийик жерлер",
+      "rationale": "הבמות 'бийиктик' — бийик жерлердеги сыйынуу аянтчалары; 'бийик жерлер' сөзмө-сөз форма сакталды."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הבמות … בבמות",
+      "rationale": "Бир эле сөз аяттын башында жана аягында кайталанат — хиазм сымал жаап турат, кыргызчада да сакталды."
+    }
+  ],
+  "translation": "Тек бийик жерлер алынган жок — эл дагы эле бийик жерлерде курмандык чалып жана жыпар түтөтүп жатты.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "9f055f1d2265df8d4a3fdea6ebd22faf99219b24f7092432a856229408c0a2fe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-kings\/15\/3-4.1791224051842.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "тек"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "бийик жерлер"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "алынган"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "дагы эле"
+    },
+    {
+      "surface": "העם",
+      "gloss": "эл"
+    },
+    {
+      "surface": "מזבחים",
+      "gloss": "курмандык чалып"
+    },
+    {
+      "surface": "ו מקטרים",
+      "gloss": "жана жыпар түтөтүп"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "бийик жерлерде"
+    }
+  ],
+  "timestamp": "2026-10-05T18:14:11.842815326Z",
+  "model": "glm-5.3"
+}

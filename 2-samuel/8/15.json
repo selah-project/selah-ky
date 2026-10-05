@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 8:15",
+  "book": "2-samuel",
+  "lang": "ky",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "болду",
+      "rationale": "Ивритте этишсиз ээлик түзүлүш бар, кыргызча «болду» этиши кошулду."
+    },
+    {
+      "kind": "substitution",
+      "subject": "цедек",
+      "rationale": "צדקה — «түздүк, адилеттик»; D2 боюнча тамыр сөз цедек кармалды."
+    }
+  ],
+  "translation": "Жана Давид бүт Йисраэлге падыша болду, жана Давид бүт элине өкүм жана цедек кылуучу болду.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "2aaccc21eceeb9b75630fb673a1059499f8ac5adfb415142ac5ec3ef5657177f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-samuel\/8\/13-16.1791207443574.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "падыша болду"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстүнөн"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүт"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэлге"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "болду"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "кылуучу"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "өкүм"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "цедек"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "бүт"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "элине"
+    }
+  ],
+  "timestamp": "2026-10-05T13:37:23.575732317Z",
+  "model": "glm-5.3"
+}

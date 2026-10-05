@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 7:10",
+  "book": "esther",
+  "lang": "ky",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "дарак",
+      "rationale": "кайра дарак — «дарга» эмес, текст дарак дейт"
+    },
+    {
+      "kind": "idiom",
+      "subject": "каары басылды",
+      "rationale": "שככה «жатып калды, тынчыды» — каар «жаткан» деп кыргызча «басылды» деп берилди"
+    },
+    {
+      "kind": "addition",
+      "subject": "алар",
+      "rationale": "еврей текст этиштин көп жөндөлүшүндө (ויתלו) «алар» деген жок, ичинде бар"
+    }
+  ],
+  "translation": "Жана алар ⟨את⟩ Аманды Мордехай үчүн даярдаган даракка илишти, жана падышанын каары басылды.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "daa06d68644b642af66c1748e2054b59d3260f6174c588dae6be0fd615119595",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/esther\/7\/9-10.1791220330791.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתלו",
+      "gloss": "илишти"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Аманды"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Аман"
+    },
+    {
+      "surface": "על",
+      "gloss": "…га"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "дарак"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…ган"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "даярдаган"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "Мордехай үчүн"
+    },
+    {
+      "surface": "וחמת",
+      "gloss": "каары"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "падышанын"
+    },
+    {
+      "surface": "שככה",
+      "gloss": "басылды"
+    }
+  ],
+  "timestamp": "2026-10-05T17:12:10.792897121Z",
+  "model": "glm-5.3"
+}

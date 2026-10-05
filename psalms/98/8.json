@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 98:8",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 98,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "кол чабышсын",
+      "rationale": "מחאו כף — колду уруу: кубануу белгиси, кыргызча кол чабуу идиомасы менен берилди"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נהרות \/ הרים",
+      "rationale": "нахарот (дарыялар) жана харим (тоолор) үн өнөктөштүгү"
+    }
+  ],
+  "translation": "Дарыялар кол чабышсын, тоолор бирге ыраазылык менен ырдашсын.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "6d8e9a71d87abf565df1bea08b3faf88deb971c057de52aa94fcaf79e951b5e6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/98\/8-8.1791224496842.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נהרות",
+      "gloss": "дарыялар"
+    },
+    {
+      "surface": "ימחאו",
+      "gloss": "кол чабышсын"
+    },
+    {
+      "surface": "כף",
+      "gloss": "кол"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "бирге"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "тоолор"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "ырдашсын"
+    }
+  ],
+  "timestamp": "2026-10-05T18:21:36.843091564Z",
+  "model": "glm-5.3"
+}

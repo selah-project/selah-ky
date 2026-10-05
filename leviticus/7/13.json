@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 7:13",
+  "book": "leviticus",
+  "lang": "ky",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ачыган",
+      "rationale": "חמץ — ачытылган, ачыган камыр; тынчтык курмандыгына гана ачыган нан укушту (Левит 2:11 ге карама-каршы)"
+    },
+    {
+      "kind": "addition",
+      "subject": "менен",
+      "rationale": "על 'үстүнө' конструкциясы кыргызча '...менен тартуулайт' деп түшүндүрүлдү"
+    }
+  ],
+  "translation": "Ачыган нан токочтору менен ал өз курмандыгын тартуулайт — ыраазычылык курмандыгы, анын тынчтык курмандыктарынын үстүнө.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "ee40c252b5a69349d095423e05c1c09237c3cd6474e56f9554e088188f23e542",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/7\/13-16.1791202890617.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "үстүнө"
+    },
+    {
+      "surface": "חלת",
+      "gloss": "токочтору"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "нан"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "ачыган"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "тартуулайт"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "өз курмандыгын"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстүнө"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "курмандыгы"
+    },
+    {
+      "surface": "תודת",
+      "gloss": "ыраазычылык"
+    },
+    {
+      "surface": "שלמיו",
+      "gloss": "тынчтык курмандыктарынын"
+    }
+  ],
+  "timestamp": "2026-10-05T12:21:30.617868833Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 25:7",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "תזכר",
+      "rationale": "киргизил терс буйрук 'эстебе' эки сөздү (אל + תזכר) бир гана формада көтөрдү"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "זכר ... זכר",
+      "rationale": "'эстебе' жана 'эсте' — бир тамырдын карама-каршы кайталанышы, кыргызча 'эстебе\/эсте' деген менен сакталды"
+    }
+  ],
+  "translation": "Өспүрүмдүгүмдөгү күнөөлөрүмдү жана көтөрүлүүлөрүмдү эстебе, хеседиңе ылайык мени эстей көр, сен, жакшылыгыңдын атынан, Яхве.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "f7ebeadd221aa1a9245f9ca19263a00eaddb9c85ee6c267665cbf89101b3ed0d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/25\/5-8.1791215692646.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חטאות",
+      "gloss": "күнөөлөр"
+    },
+    {
+      "surface": "נעורי",
+      "gloss": "өспүрүмдүгүмдөгү"
+    },
+    {
+      "surface": "ופשעי",
+      "gloss": "жана көтөрүлүүлөрүм"
+    },
+    {
+      "surface": "אל",
+      "gloss": "эстебе"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": ""
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "хеседиңе ылайык"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "эстей көр"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мени"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "сен"
+    },
+    {
+      "surface": "למען",
+      "gloss": "атынан"
+    },
+    {
+      "surface": "טובך",
+      "gloss": "жакшылыгыңдын"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-10-05T15:54:52.647110536Z",
+  "model": "glm-5.3"
+}

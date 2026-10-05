@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 16:5",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "бул",
+      "rationale": "Еврейче текстте байламча жок; мүнөздөмө айтылбайт — аты аталат"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מנת\/חלקי\/כוסי\/גורלי",
+      "rationale": "Үлүштү билдерген төрт сөздүн чогуу келиши — үлүш лексикасынын жыйындысы"
+    },
+    {
+      "kind": "substitution",
+      "subject": "тагдыр",
+      "rationale": "גורל кичинекей таш менен чечилген үлүш — «тагдыр» бул сүрөттү жоготот"
+    }
+  ],
+  "translation": "Яхве ⟨бул⟩ менин үлүшүмдүн өлчөмү жана менин чөйчөгүм; Сен менин тагдырымды кармап турасың.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "a9f0d1e529c35e65de466de47729a13b0b3b55bc594c731717a1207842378a8f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/16\/5-8.1791215477246.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "өлчөм"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "менин үлүшүм"
+    },
+    {
+      "surface": "וכוסי",
+      "gloss": "жана менин чөйчөгүм"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Сен"
+    },
+    {
+      "surface": "תומיך",
+      "gloss": "кармап турасың"
+    },
+    {
+      "surface": "גורלי",
+      "gloss": "менин тагдырым"
+    }
+  ],
+  "timestamp": "2026-10-05T15:51:17.247400753Z",
+  "model": "glm-5.3"
+}

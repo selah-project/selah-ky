@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 74,
+  "ref": "numbers 7:74",
+  "book": "numbers",
+  "lang": "ky",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "оң кол",
+      "rationale": "כף — 'алакан, оң кол' деген сөз; буюмдун формасын (ичи көңдөй алакан) сактады."
+    },
+    {
+      "kind": "measurement",
+      "subject": "он",
+      "rationale": "Шекелде он салмак көрсөтүлгөн."
+    }
+  ],
+  "translation": "Алтын оң кол бир, он шекел жүзүндө, жыпар жыттуу зат менен толгон.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "8b39c7c3ed6b3cedf39112789d67b36ced7c54264733534eb72e254953b06719",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/numbers\/7\/73-76.1791203745789.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "оң кол"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "бир"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "он"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "алтын"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "толгон"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "жыпар жыттуу зат"
+    }
+  ],
+  "timestamp": "2026-10-05T12:35:45.790316466Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 49:14",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨—⟩",
+      "rationale": "Кыргыз тилинде эки зат атоочту байланыштыруучу байламча керек, еврейче жок"
+    },
+    {
+      "kind": "substitution",
+      "subject": "эки жайыттын",
+      "rationale": "משפתים — экилик сандагы «мал сарайы», кээ бир котормолор «эки жүктү» деп окуп келишет"
+    }
+  ],
+  "translation": "Иссахар — күчтүү сөөктүү эшек, эки жайыттын ортосунда жатып турат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "a765db9d8f7e6499de592b4b7d254fb16c3bf7299eb54e08f70cfc5ffd9c672e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/49\/13-16.1791201804640.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יששכר",
+      "gloss": "Иссахар"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "эшек"
+    },
+    {
+      "surface": "גרם",
+      "gloss": "күчтүү сөөктүү"
+    },
+    {
+      "surface": "רבץ",
+      "gloss": "жатып турат"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ортосунда"
+    },
+    {
+      "surface": "המשפתים",
+      "gloss": "эки жайыттын"
+    }
+  ],
+  "timestamp": "2026-10-05T12:03:24.641679067Z",
+  "model": "glm-5.3"
+}

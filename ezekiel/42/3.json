@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 42:3",
+  "book": "ezekiel",
+  "lang": "ky",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אתיק",
+      "rationale": "«тепкич, аса-текче» — которулмада «галерея» (KJV), «катар» (Geneva), «үчүнчү кабат» (ASV) деп айрымаланат"
+    },
+    {
+      "kind": "substitution",
+      "subject": "жыйырма",
+      "rationale": "Еврейче «жыйырма» гана — «куб» сөзү контексттен кошулду"
+    },
+    {
+      "kind": "measurement",
+      "subject": "жыйырма куб",
+      "rationale": "Имарат өлчөмдөрүнүн сүрөттөмөсү уланат"
+    }
+  ],
+  "translation": "Ички корого таандык жыйырма кубтын каршысында жана тышкы короого таандык таш төсөөнүн каршысында — үчүнчү кабатта тепкич тепкичке каршы.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "61363905da4a61e663605f2fda365cca3ac4473e4659fc84f2ab6b774a9c71d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ezekiel\/42\/1-4.1791213516995.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נגד",
+      "gloss": "каршысында"
+    },
+    {
+      "surface": "העשרים",
+      "gloss": "жыйырма"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ал"
+    },
+    {
+      "surface": "לחצר",
+      "gloss": "корого таандык"
+    },
+    {
+      "surface": "הפנימי",
+      "gloss": "ички"
+    },
+    {
+      "surface": "ונגד",
+      "gloss": "жана каршысында"
+    },
+    {
+      "surface": "רצפה",
+      "gloss": "таш төсөөнүн"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ал"
+    },
+    {
+      "surface": "לחצר",
+      "gloss": "корого таандык"
+    },
+    {
+      "surface": "החיצונה",
+      "gloss": "тышкы"
+    },
+    {
+      "surface": "אתיק",
+      "gloss": "тепкич"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-га"
+    },
+    {
+      "surface": "пני",
+      "gloss": "карышы"
+    },
+    {
+      "surface": "אתיק",
+      "gloss": "тепкичке каршы"
+    },
+    {
+      "surface": "בשלשים",
+      "gloss": "үчүнчү кабатта"
+    }
+  ],
+  "timestamp": "2026-10-05T15:18:36.996241287Z",
+  "model": "glm-5.3"
+}

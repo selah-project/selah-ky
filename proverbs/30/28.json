@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 30:28",
+  "book": "proverbs",
+  "lang": "ky",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "кескелдек",
+      "rationale": "שממית — 'чаян' же 'жөргөмүш' деп да котормолор айтат; KJV 'spider', JPS 'spider\/lizard' — бул жерде кескелдек алынды"
+    },
+    {
+      "kind": "alternative",
+      "subject": "жашайт",
+      "rationale": "текст 'ал падышанын сарайларында' деп гана айтат — 'жашайт' этиши кошулду"
+    }
+  ],
+  "translation": "Кескелдек колдор менен кармалат, бирок ал падышанын сарайларында жашайт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "b20a2793d8e7190392732e592dc13d0bc7f0f8535555ce7aa04fba50fe474cb9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/30\/25-28.1791218404520.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שממית",
+      "gloss": "кескелдек"
+    },
+    {
+      "surface": "בידים",
+      "gloss": "колдор"
+    },
+    {
+      "surface": "תתפש",
+      "gloss": "кармалат"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "ал"
+    },
+    {
+      "surface": "בהיכלי",
+      "gloss": "сарайларында"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "падышанын"
+    }
+  ],
+  "timestamp": "2026-10-05T16:40:04.520982596Z",
+  "model": "glm-5.3"
+}

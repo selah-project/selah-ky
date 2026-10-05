@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 21:1",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "эске алды",
+      "rationale": "פקד — «көзөтүүгө келүү, байкоого алуу»; JPS «remembered» дейт, бул кыргызчада жүйөлүк туюнтма болуп калат"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אמר\/דבר",
+      "rationale": "эки «айтту» этиштин кайталанышы — аяттын параллелдүү структурасы"
+    }
+  ],
+  "translation": "Жана Яхве ⟨את⟩ Сараны эске алды, айткандай эле, жана Яхве Сарага кылды, сүйлөгөндөй эле.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "cd8243c2b20d6e3a961189ee6c25caf43fcc61abdb85e6ece7cf86bd398351e6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/21\/1-4.1791201089746.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Жана Яхве"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "эске алды"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Сараны"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Сараны"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "айткандай эле"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "айткан"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "жана кылды"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "לשרה",
+      "gloss": "Сарага"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "сүйлөгөндөй эле"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сүйлөгөн"
+    }
+  ],
+  "timestamp": "2026-10-05T11:51:29.746724717Z",
+  "model": "glm-5.3"
+}

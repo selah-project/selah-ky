@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 116:10",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 116,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ишендим, анткени сүйлөймүн",
+      "rationale": "כי жана אדברдин убактысы боюнча талаш: 'ишендим, ошондуктан сүйлөдүм' (KJV, LXX) же 'сүйлөсөм да ишендим' (JPS); текстиберлик мааниде 'ишендим, анткени сүйлөймүн' дедим."
+    },
+    {
+      "kind": "substitution",
+      "subject": "азап тарттым",
+      "rationale": "עניתי туурасы 'жаап бердим' деген тамыр, бул жерде хофал 'мага басмын жасалды' — 'азап тарттым' катары берилди."
+    },
+    {
+      "kind": "you",
+      "subject": "to the reader",
+      "rationale": "Үчүнчү жактын өз ичинен сүйлөшү — ырчынын өзүнө багышталган ички үн, окурманга угузулат."
+    }
+  ],
+  "translation": "Мен ишендим, анткени сүйлөймүн; мен өтө азап тарттым.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "ae42fb3227c048238160b2f0388b798661bc3a8745bac96c3f1b06c1094a8c3a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/116\/10-11.1791224514599.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "האמנתי",
+      "gloss": "ишендим"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "сүйлөймүн"
+    },
+    {
+      "surface": "אני",
+      "gloss": "мен"
+    },
+    {
+      "surface": "עניתי",
+      "gloss": "азап тарттым"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "өтө"
+    }
+  ],
+  "timestamp": "2026-10-05T18:21:54.600099937Z",
+  "model": "glm-5.3"
+}

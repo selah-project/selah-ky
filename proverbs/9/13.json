@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 9:13",
+  "book": "proverbs",
+  "lang": "ky",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "каялы",
+      "rationale": "אשת כסילות — «наадандыктын аялы»: folly personified as a woman; kыргызча ээлик падеж байланышын берет"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כסילות\/פתיות",
+      "rationale": "эки сөз тең «наадандык» маанисинде; еврейче бири жүрөксүз акылсыздык, экинчиси алдануучу наадандыкты айтат"
+    }
+  ],
+  "translation": "Наадандык аялы кыйкырайт, наадан ал, жана эмне экенин такыр билбейт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "b14cef59dd9bebb59506f6b958ba93e9573ab01bfd2b0f1dd7cc70c35a5df399",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/9\/13-16.1791217869092.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשת",
+      "gloss": "аялы"
+    },
+    {
+      "surface": "כסילות",
+      "gloss": "Наадандык"
+    },
+    {
+      "surface": "המיה",
+      "gloss": "кыйкырайт"
+    },
+    {
+      "surface": "פתיות",
+      "gloss": "наадан"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "такыр"
+    },
+    {
+      "surface": "ידעה",
+      "gloss": "билбейт"
+    },
+    {
+      "surface": "מה",
+      "gloss": "эмне экенин"
+    }
+  ],
+  "timestamp": "2026-10-05T16:31:09.093027571Z",
+  "model": "glm-5.3"
+}

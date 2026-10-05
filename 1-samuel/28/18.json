@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 28:18",
+  "book": "1-samuel",
+  "lang": "ky",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "חרון אפו",
+      "rationale": "«Анын мурдунын күйөөрү» — «ачуусунун күйүшү» деген идиома; кыргызча «каарынын күйөөрү» деп берилди."
+    },
+    {
+      "kind": "elision",
+      "subject": "על",
+      "rationale": "«Ошондуктан» мааниси כן менен бирге берилди; על өзүнчө эч нерсеге котормолонгон жок."
+    }
+  ],
+  "translation": "Сен Яхвенин үнүн укпаганыңдан жана Анын каарынын күйөөрүн Амалекке аткарбаганыңдан, ошондуктан Яхве бул ишти сага бүгүн кылды.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "d1ec9e4d85d0d9496eb6be239ed05657996d7383be4652f1e7ad16daf600521f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-samuel\/28\/17-20.1791207282667.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "...ганыңдан"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "укпаганың"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "үнүн"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "жана жок"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "аткарбаганың"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "каарынын күйөөрүн"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "Анын"
+    },
+    {
+      "surface": "בעמלק",
+      "gloss": "Амалекке"
+    },
+    {
+      "surface": "על",
+      "gloss": "ошондуктан"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ошондуктан"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "бул ишти"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "бул"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "кылды"
+    },
+    {
+      "surface": "לך",
+      "gloss": "сага"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "היום",
+      "gloss": "бүгүн"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "бул"
+    }
+  ],
+  "timestamp": "2026-10-05T13:34:42.668843413Z",
+  "model": "glm-5.3"
+}

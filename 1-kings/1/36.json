@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-kings 1:36",
+  "book": "1-kings",
+  "lang": "ky",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "кожоюн",
+      "rationale": "אדני — адам (падыша Давид) жөнүндө, 'кожоюн\/мырзам' маанисинде."
+    },
+    {
+      "kind": "crux",
+      "subject": "Амин, ошондой айтсын",
+      "rationale": "אמן כן יאמר — 'ошондой болсун' тилек маанисинде да, 'ошондой дейт' жарыялоо катары да окчу."
+    }
+  ],
+  "translation": "Жана Бенайау, Йехояданын уулу, падышага жооп берип айтты ⟨את⟩: Амин, ошондой айтсын Яхве, кожоюн падышанын Элохими.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "2789c05c5fb2b46ab7d9e7a84c3b8ed7459663cbdfcbaf1e5e81624f59fcb3af",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-kings\/1\/33-36.1791207969248.json",
+    "code": "641241cf-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Жана жооп берип"
+    },
+    {
+      "surface": "בניהו",
+      "gloss": "Бенайау"
+    },
+    {
+      "surface": "בן",
+      "gloss": "уулу"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Йехояданын"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "падышага"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "падышага"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Амин"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ошондой"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "айтсын"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Элохими"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "кожоюнумдун"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "падышанын"
+    }
+  ],
+  "timestamp": "2026-10-05T13:46:09.249786799Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 49:19",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жан",
+      "rationale": "נפש — «дем алуучу жандуулук, кекиртек\/тиричилик күчү», «жан» — кыргызчадагы жакын сөз"
+    },
+    {
+      "kind": "crux",
+      "subject": "ויודך תיטיב לך",
+      "rationale": "Байага багытталган жөнөкөй «сен» же «аны\/алар» окулушу — котормолор бөлүнөт"
+    },
+    {
+      "kind": "you",
+      "subject": "сен",
+      "rationale": "Бул аят бай адамга багытталган 2-жак билдирүү менен аяктайт"
+    }
+  ],
+  "translation": "Анткени ал жанын тирүү кезинде алкыштайт, өзүңө жакшылык кылганда сени макташат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "e05fb71515cee11022f7c26bbd2e6428d750500abb376f9135e9707b79a9e2d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/49\/17-20.1791216079805.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "жанын"
+    },
+    {
+      "surface": "בחייו",
+      "gloss": "тирүү кезинде"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "алкыштайт"
+    },
+    {
+      "surface": "ויודך",
+      "gloss": "сени макташат"
+    },
+    {
+      "surface": "כי",
+      "gloss": "кылганда"
+    },
+    {
+      "surface": "תיטיב",
+      "gloss": "жакшылык кылганда"
+    },
+    {
+      "surface": "לך",
+      "gloss": "өзүңө"
+    }
+  ],
+  "timestamp": "2026-10-05T16:01:19.806767959Z",
+  "model": "glm-5.3"
+}

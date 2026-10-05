@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 37:37",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אחרית לאיש שלום",
+      "rationale": "«адамдын акыры тынчтык» же «тынчтык адамынын келечеги бар» — эки бөлүү бар"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨бар⟩",
+      "rationale": "Еврей текстте «бар» деген этиш жок, кыргыз тили талап кылат"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שמר\/שלום",
+      "rationale": "Ш-м-р жана ш-л-м үнү жакындашып турат, котормодо жоголот"
+    }
+  ],
+  "translation": "Какчу адалды жана түз жүргөндү көр, анткени тынчтыкта жашаган адамдын акыры ⟨бар⟩.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "10ffa8087773e2267d981a8ce2b7177710c8479a881122a141ddfcc64e99a39b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/37\/37-40.1791215929638.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "какчу"
+    },
+    {
+      "surface": "תם",
+      "gloss": "адалды"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "жана көр"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "түз жүргөндү"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "акыры"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "адамдын"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "тынчтыкта жашаган"
+    }
+  ],
+  "timestamp": "2026-10-05T15:58:49.638505813Z",
+  "model": "glm-5.3"
+}

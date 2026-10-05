@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 1:22",
+  "book": "1-samuel",
+  "lang": "ky",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "את",
+      "rationale": "бул את (H854 'жакын') — объекти маркери эмес, 'бетине' предлогу менен бирге берилди"
+    },
+    {
+      "kind": "idiom",
+      "subject": "Яхвенин бетине көрүнсүн",
+      "rationale": "את פני יהוה букв. 'Яхвенин бетине'; 'алдында көрүнүү' — кызмат кылуу идиомасы"
+    },
+    {
+      "kind": "you",
+      "subject": "Ханна күйөөсүнө",
+      "rationale": "Ханнанын күйөөсү Элканага айтылган түз сөз"
+    }
+  ],
+  "translation": "Ал эми Ханна өрдөгөн жок, анткени күйөөсүнө: Бала эмчектен чыкканча мен аны алып барам, ал Яхвенин бетине көрүнсүн жана ал жерде түбөлүккө калсын деген.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "c1a920e5236a995b76c510b221881da36cd0842f0b46eba75e624cf23daf9e80",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-samuel\/1\/21-24.1791206601471.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וחנה",
+      "gloss": "жана Ханна"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "өрдөдү"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "לאישה",
+      "gloss": "күйөөсүнө"
+    },
+    {
+      "surface": "עד",
+      "gloss": "…канча"
+    },
+    {
+      "surface": "יגמל",
+      "gloss": "эмчектен чгат"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "бала"
+    },
+    {
+      "surface": "והבאתיו",
+      "gloss": "мен аны алып барам"
+    },
+    {
+      "surface": "ונראה",
+      "gloss": "жана көрүнөт"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "бет"
+    },
+    {
+      "surface": "פני",
+      "gloss": "бети"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "жана калат"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ал жерде"
+    },
+    {
+      "surface": "עד",
+      "gloss": "…канча"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "түбөлүк"
+    }
+  ],
+  "timestamp": "2026-10-05T13:23:21.472690361Z",
+  "model": "glm-5.3"
+}

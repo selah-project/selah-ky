@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 4:7",
+  "book": "jeremiah",
+  "lang": "ky",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "משחית גוים",
+      "rationale": "'элдердин талкалоочусу' — арстан бейнеси уланып, Вавилон аталбайт"
+    },
+    {
+      "kind": "hapax",
+      "subject": "מסבכו",
+      "rationale": "бадал — жыш өскөн буйулган жер, арстандын жашыраак жери"
+    },
+    {
+      "kind": "mystery",
+      "subject": "ким келатканы",
+      "rationale": "баскынчы аты-аталбай, арстан бейнеси менен гана берилген"
+    }
+  ],
+  "translation": "Арстан өз бадалынан чыкты, жана элдердин талкалоочусу жөнөп кетти, өз ордунар чыгып, сенин жериңди ээн калтыруу үчүн; сенин шаарларың олжуга түшүрүлөт, тургун калбай.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "0330dace8a2ade107e04055ff248811b2ee0d12c0952fc8f4a8ec68cd99021a1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/jeremiah\/4\/5-8.1791210756457.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "чыкты"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "арстан"
+    },
+    {
+      "surface": "מסבכו",
+      "gloss": "өз бадалынан"
+    },
+    {
+      "surface": "ומשחית",
+      "gloss": "жана талкалоочусу"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "элдердин"
+    },
+    {
+      "surface": "נסע",
+      "gloss": "жөнөп кетти"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "чыгып"
+    },
+    {
+      "surface": "ממקמו",
+      "gloss": "өз ордунар"
+    },
+    {
+      "surface": "לשום",
+      "gloss": "калтыруу үчүн"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "сенин жериңди"
+    },
+    {
+      "surface": "לשמה",
+      "gloss": "ээн"
+    },
+    {
+      "surface": "עריך",
+      "gloss": "сенин шаарларың"
+    },
+    {
+      "surface": "תצינה",
+      "gloss": "олжуга түшүрүлөт"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "жок"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "тургун"
+    }
+  ],
+  "timestamp": "2026-10-05T14:32:36.458115841Z",
+  "model": "glm-5.3"
+}

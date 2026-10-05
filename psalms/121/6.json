@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 121:6",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 121,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "да урбайт",
+      "rationale": "Еврейче экинчи сүйлөмдө этиш түшүрүлгөн — кыргызча кайталанды"
+    },
+    {
+      "kind": "you",
+      "subject": "сени",
+      "rationale": "Түз кайрылуу уланат"
+    }
+  ],
+  "translation": "Күндүз күн сени урбайт, жана түнү ай ⟨да урбайт⟩.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "f95f567b911d2f62c715c4d81895daa8baa9c04b89ec0e0baea6fcc293a459b2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/121\/5-8.1791217432852.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "күндүз"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "күн"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "יככה",
+      "gloss": "сени урбайт"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "жана ай"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "түнү"
+    }
+  ],
+  "timestamp": "2026-10-05T16:23:52.853420456Z",
+  "model": "glm-5.3"
+}

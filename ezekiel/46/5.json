@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 46:5",
+  "book": "ezekiel",
+  "lang": "ky",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "чендиктер",
+      "rationale": "Эфа (кургак) жана хин (суюк) ченемдери күнүмдүк курмандык нормасын аныктайт."
+    },
+    {
+      "kind": "substitution",
+      "subject": "белеги колунун",
+      "rationale": "מתת ידו букв. 'колунун болжоосу' — козулардын минхасы белгиленген ченемсиз, берүүчүнүн жагына калтырылат."
+    },
+    {
+      "kind": "addition",
+      "subject": "ар бир",
+      "rationale": "לאיפה 'эфага' — хин майдын ар бир эфага катышын билдирет; кыргызча тактоо үчүн 'ар бир' кошулду."
+    }
+  ],
+  "translation": "Жана минха — бир эфа кучкар үчүн, жана козулар үчүн минха — колунун белеги, жана май — бир хин ар бир эфага.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "d53d1f324503bceff50bd99a42f1bfd1d15256ea276508d9984faff887461a43",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ezekiel\/46\/5-8.1791213601131.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומנחה",
+      "gloss": "жана минха"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "бир эфа"
+    },
+    {
+      "surface": "לאיל",
+      "gloss": "кучкар үчүн"
+    },
+    {
+      "surface": "ולכבשים",
+      "gloss": "жана козулар үчүн"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "минха"
+    },
+    {
+      "surface": "מתת",
+      "gloss": "белеги"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "колунун"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "жана май"
+    },
+    {
+      "surface": "הין",
+      "gloss": "бир хин"
+    },
+    {
+      "surface": "לאיפה",
+      "gloss": "ар бир эфага"
+    }
+  ],
+  "timestamp": "2026-10-05T15:20:01.132243109Z",
+  "model": "glm-5.3"
+}

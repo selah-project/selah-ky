@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 17:9",
+  "book": "jeremiah",
+  "lang": "ky",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "дарылабас",
+      "rationale": "ואנש: 'дарылабас' (YLK, BSB) менен 'өтө жаман' (KJV) ортосунда байыркы талаш."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עקב\/יעקב",
+      "rationale": "עקב дүрбөлөң сөзү Яаков деген ат менен бир тамырда — кыргызча байланыш жоголот."
+    }
+  ],
+  "translation": "Жүрөк бардык нерседен айлакерүү жана дарылабас — аны ким билээр?",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "5643c0f7ed2ba4da54c45967df842d8d082dce3aa166e735a0ec5641f2fbb04c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/jeremiah\/17\/9-12.1791211050709.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עקב",
+      "gloss": "айлакерүү"
+    },
+    {
+      "surface": "הלב",
+      "gloss": "жүрөк"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "бардык нерседен"
+    },
+    {
+      "surface": "ואנש",
+      "gloss": "жана дарылабас"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ал"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ким?"
+    },
+    {
+      "surface": "ידענו",
+      "gloss": "аны билээр"
+    }
+  ],
+  "timestamp": "2026-10-05T14:37:30.710121620Z",
+  "model": "glm-5.3"
+}

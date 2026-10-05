@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 148:13",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 148,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "נשגב",
+      "rationale": "‘бийик \/ жеткиис жогору’ — кыргызча бир сөз менен берилди, ‘жеткиис’ мааниси калды"
+    },
+    {
+      "kind": "addition",
+      "subject": "гана",
+      "rationale": "לבדו ‘ жалгыздыгын’ кыргызча ‘гана’ менен берилди"
+    }
+  ],
+  "translation": "Яхвенин ⟨את⟩ ысымын даңазалашсын, анткени Анын ысымы гана бийик; Анын урматы жердин жана асмандардын үстүндө.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "a5bbcb0beb00f7f3fc978e43535203bba88b14031399f6bdaef66693da220704",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/148\/13-14.1791217624397.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "даңазалашсын"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яхвенин ысымын"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ысымын"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "נשגב",
+      "gloss": "бийик"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "Анын ысымы"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "гана"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "Анын урматы"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстүндө"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "жердин"
+    },
+    {
+      "surface": "ושמים",
+      "gloss": "жана асмандардын"
+    }
+  ],
+  "timestamp": "2026-10-05T16:27:04.398009844Z",
+  "model": "glm-5.3"
+}

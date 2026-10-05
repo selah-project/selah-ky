@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 7:26",
+  "book": "deuteronomy",
+  "lang": "ky",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "херем",
+      "rationale": "חרם: «толук жок кылууга арналган нерсе» (KJV «cursed», JPS «devoted») — каргыш эмес, Яхвеге толук арналган жок кылуу"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שקץ תשקצנו \/ תעב תתעבנו",
+      "rationale": "Эки жолу инфинитив-абсолют + этиш — күчөтүлгөн буйрук; кыргызча «таптактыр» кайталоосу менен берилди"
+    },
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "rationale": "Байламта «үйүңө» менен кошулуп, өзүнчө сөз катары көрүнбөйт"
+    }
+  ],
+  "translation": "Жана жек көрүүнү нэрси үйүңө алып кирбе, ага окшоп ⟨херем⟩ болуп калбасың: аны таптактыр жек көр жана таптактыр жир, анткени ал ⟨херем⟩.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "d8741166ba443037ad018c83a6005eb2d9f59605f16e5bf28d46d48dc07a4bfc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/7\/25-26.1791204838286.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "жана жок"
+    },
+    {
+      "surface": "תביא",
+      "gloss": "алып кирбе"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "жек көрүүнү нэрсини"
+    },
+    {
+      "surface": "אל",
+      "gloss": "үйүңө"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "үйүңө"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "жана болуп калбасың"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "⟨херем⟩"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "ага окшоп"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "таптактыр жек көр"
+    },
+    {
+      "surface": "תשקצנו",
+      "gloss": "таптактыр жек көр"
+    },
+    {
+      "surface": "ותעב",
+      "gloss": "жана таптактыр жир"
+    },
+    {
+      "surface": "תתעבנו",
+      "gloss": "таптактыр жир"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "⟨херем⟩"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ал"
+    }
+  ],
+  "timestamp": "2026-10-05T12:53:58.287294087Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 62:11",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 62,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "текке үмүттөнбөгүл",
+      "rationale": "תהבלו 'бекер болбоо' — жүрөктү текке коюу маанисинде берилди."
+    },
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "rationale": "Тыюу бөлүкчөсү кыргызча этиштин болгоочсуз формасы менен берилди, өзүнчө сөз катары жок."
+    }
+  ],
+  "translation": "Зордук-зомбулукка ишенбегиле, тоноого да текке үмүттөнбөгүл; байлык көбөйө түшсө да, жүрөктөрүңөрдү ага койбогула.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "0a379c45e89b57afba656b2e3fe66866950528260cc037bfb6ce8e6748a6f84b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/62\/9-12.1791216318236.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "תבטחו",
+      "gloss": "ишенбегиле"
+    },
+    {
+      "surface": "בעשק",
+      "gloss": "зордук-зомбулукка"
+    },
+    {
+      "surface": "ובגזל",
+      "gloss": "тоноого да"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "תהבלו",
+      "gloss": "текке үмүттөнбөгүл"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "байлык"
+    },
+    {
+      "surface": "כי",
+      "gloss": "да"
+    },
+    {
+      "surface": "ינוב",
+      "gloss": "көбөйө түшсө"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "תשיתו",
+      "gloss": "койбогула"
+    },
+    {
+      "surface": "לב",
+      "gloss": "жүрөктөрүңөрдү"
+    }
+  ],
+  "timestamp": "2026-10-05T16:05:18.237693496Z",
+  "model": "glm-5.3"
+}

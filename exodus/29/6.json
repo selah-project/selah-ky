@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 29:6",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "незер",
+      "rationale": "נזר букв. 'бөлүп коюлган нерсе' — дедикация белгиси; кыргызча 'тыйык таж' деп берилди, букв. маани бир аз жоголот."
+    },
+    {
+      "kind": "elision",
+      "subject": "миснефет",
+      "rationale": "Ыйык кызматчынын баш кийими еврейче аталышында сакталды."
+    }
+  ],
+  "translation": "Жана анын башына миснефетти кийгиз, жана миснефеттин үстүнө ⟨את⟩ ыйык тажды кой.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "e0b179099b0afd145625d1f19bd8acc874ef4663746197638099005a56b00c0c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/29\/5-8.1791202484205.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "кийгиз"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "миснефетти"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстүнө"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "анын башына"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "кой"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ыйык тажды"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "тажды"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ыйык"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстүнө"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "миснефеттин"
+    }
+  ],
+  "timestamp": "2026-10-05T12:14:44.206622206Z",
+  "model": "glm-5.3"
+}

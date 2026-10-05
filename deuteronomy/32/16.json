@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 32:16",
+  "book": "deuteronomy",
+  "lang": "ky",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨кудайлар⟩",
+      "rationale": "Еврей текстте «чет» деген сын атоо гана; «кудайлар» сөзү кошулду."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יקנאהו \/ יכעיסהו",
+      "rationale": "Эки этиш тең үч тамга сымал курулган (יַקְ...ֻהוּ), параллелдүү структура."
+    }
+  ],
+  "translation": "Алар Аны чет элдик ⟨кудайлар⟩ менен кызганычка салышты, жийиркеничтүү нерселер менен Аны каардантышты.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "984ffc9bc2d68474341d88b613dbae9148e9cafd8928321bacbf4f5550c88c13",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/32\/13-16.1791205450387.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יקנאהו",
+      "gloss": "кызганычка салышты"
+    },
+    {
+      "surface": "בזרים",
+      "gloss": "чет элдик ⟨кудайлар⟩ менен"
+    },
+    {
+      "surface": "בתועבת",
+      "gloss": "жийиркеничтүү нерселер менен"
+    },
+    {
+      "surface": "יכעיסהו",
+      "gloss": "каардантышты"
+    }
+  ],
+  "timestamp": "2026-10-05T13:04:10.388288895Z",
+  "model": "glm-5.3"
+}

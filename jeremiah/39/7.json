@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 39:7",
+  "book": "jeremiah",
+  "lang": "ky",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "сокур кылды",
+      "rationale": "עור — 'көздөрүн уурап сокур кылды'; көп котормолор 'көздөрүн чыгарып салды' дейт, иврит бир гана этишти айтат."
+    },
+    {
+      "kind": "addition",
+      "subject": "үчүн",
+      "rationale": "Ивриттин את infinitivi 'алып баруу' максат маанисин кыргызча '-уу үчүн' мүчөсү менен берилди."
+    }
+  ],
+  "translation": "Жана ⟨את⟩ Цидкиянын көздөрүн сокур кылды, аны жез кайдандарга байлап, ⟨את⟩ аны Вавилонго алып баруу үчүн.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "0b7c8373c29ec8a28187149590c465bb35c49e3897e73aae95c23c9ff0cb9c03",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/jeremiah\/39\/5-8.1791211635745.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "көздөрүн"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "көздөрүн"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Цидкиянын"
+    },
+    {
+      "surface": "עור",
+      "gloss": "сокур кылды"
+    },
+    {
+      "surface": "ויאסרהו",
+      "gloss": "аны байлады"
+    },
+    {
+      "surface": "בנחשתים",
+      "gloss": "жез кайдандарга"
+    },
+    {
+      "surface": "לביא",
+      "gloss": "алып баруу үчүн"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "аны"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "Вавилонго"
+    }
+  ],
+  "timestamp": "2026-10-05T14:47:15.746710538Z",
+  "model": "glm-5.3"
+}

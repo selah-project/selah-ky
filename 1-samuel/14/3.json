@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 14:3",
+  "book": "1-samuel",
+  "lang": "ky",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "secret",
+      "subject": "Йонатандын кетиши",
+      "rationale": "Эл анын кеткенин билген эмес — жашыруун аракет дагы бекитилүүдө."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ал⟩",
+      "rationale": "Ивритте «эфод көтөргөн» деген сыпаттама ээсиз турган сүрөттөмө; кыргызча байланыш үчүн.ataooz коюлду."
+    },
+    {
+      "kind": "elision",
+      "subject": "כי",
+      "rationale": "«анткени» байланыштык сөзү кыргызча табигый угулушу үчүн эркин берилди."
+    }
+  ],
+  "translation": "Жана Ахия — Ахитубдун уулу, Икаводдун бир тууганы, Пинхастын уулу, Элинин уулу, Шилодо Яхвенин ыйык кызмат кылуучусу, эфод көтөргөн ⟨ал⟩. Эл Йонатандын кеткенин билген жок.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "f3f239d979def61dfaad2a9f51b974d0d853c812f13eba13dc1898ace168f51e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-samuel\/14\/1-4.1791206843961.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואחיה",
+      "gloss": "жана Ахия"
+    },
+    {
+      "surface": "בן",
+      "gloss": "уулу"
+    },
+    {
+      "surface": "אחטוב",
+      "gloss": "Ахитубдун"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "бир тууганы"
+    },
+    {
+      "surface": "איכבוד",
+      "gloss": "Икаводдун"
+    },
+    {
+      "surface": "בן",
+      "gloss": "уулу"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Пинхастын"
+    },
+    {
+      "surface": "בן",
+      "gloss": "уулу"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Элинин"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "ыйык кызмат кылуучусу"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    },
+    {
+      "surface": "בשלו",
+      "gloss": "Шилодо"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "көтөргөн"
+    },
+    {
+      "surface": "אפוד",
+      "gloss": "эфод"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "жана эл"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "билген"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "кеткенин"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Йонатандын"
+    }
+  ],
+  "timestamp": "2026-10-05T13:27:23.962060039Z",
+  "model": "glm-5.3"
+}

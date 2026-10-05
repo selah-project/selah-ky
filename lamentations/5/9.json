@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "lamentations 5:9",
+  "book": "lamentations",
+  "lang": "ky",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жаныбыз",
+      "rationale": "נפש — жуткун\/дем\/жан деген сөз; кыргызча «жан» жакын маани"
+    },
+    {
+      "kind": "crux",
+      "subject": "чөлдөгү кылыч",
+      "rationale": "חרב המדбר: «чөлдүн кылычы» (жөнөкөй адамдардын кол салуусу) же качкындардын зордугу деген эки окуу бар"
+    }
+  ],
+  "translation": "Жаныбыз менен ⟨את⟩ наныбызды алып келдик, чөлдөгү кылычтын жүзүнөн.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "dad04d08ae50ed2f6dbdeef38a54c9b836a41977d4ed733eeddbd9d3e4a90712",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/lamentations\/5\/9-12.1791219946693.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בנפשנו",
+      "gloss": "жаныбыз менен"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "алып келдик"
+    },
+    {
+      "surface": "לחמנו",
+      "gloss": "наныбызды"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "наныбызды"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "жүзүнөн"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "кылыч"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "чөлдөгү"
+    }
+  ],
+  "timestamp": "2026-10-05T17:05:46.693647083Z",
+  "model": "glm-5.3"
+}

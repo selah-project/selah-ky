@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 4:16",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨атыңан⟩",
+      "rationale": "«Сага сүйлөйт» түшүнүктүү болушу үчүн кошулду; ивритте жок"
+    },
+    {
+      "kind": "crux",
+      "subject": "сен ага Элохим болосуң",
+      "rationale": "«Элохимдин ордунда» (KJV\/JPS) же «Элохим катары» (YLT) — ивритте «ага Элохим болосуң» деп турат"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הוא יהיה",
+      "rationale": "«ал — ал болот» басымдуу кайталоо, Мошеге эмес Ахаронго тийиштүү экенин баса белгилейт"
+    }
+  ],
+  "translation": "Жана ал — ал элге сага ⟨атыңан⟩ сүйлөйт, жана болот: ал сага ооз болот, ал эми сен ага Элохим болосуң.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "ef75abb86a03e077d6beb646f0b6e32d2fdc52f70a0ed385d305cfd5933bfda9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/4\/13-16.1791201915577.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ודבר",
+      "gloss": "сүйлөйт"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ал"
+    },
+    {
+      "surface": "לך",
+      "gloss": "сага"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…га"
+    },
+    {
+      "surface": "העם",
+      "gloss": "эл"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "жана болот"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ал"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "болот"
+    },
+    {
+      "surface": "לך",
+      "gloss": "сага"
+    },
+    {
+      "surface": "לפה",
+      "gloss": "ооз"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ал эми сен"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "болосуң"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ага"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Элохим"
+    }
+  ],
+  "timestamp": "2026-10-05T12:05:15.578597798Z",
+  "model": "glm-5.3"
+}

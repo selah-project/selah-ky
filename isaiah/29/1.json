@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 29:1",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Ариел",
+      "rationale": "אריאל: 'Элдин арды' (Элохимдин арды, Йерушалайим) же жөн гана ысым — 'ар деген жерде деле отко' деген мааниде да окулат"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אריאל אריאל",
+      "rationale": "Ысым эки жолу кайталанып, кайгынын үнүн күчөтөт"
+    },
+    {
+      "kind": "crux",
+      "subject": "ינקפו",
+      "rationale": "'айланып келсин' же 'союлсун' (майрам курмандыктары жөнүндө) — эки окуу бар"
+    }
+  ],
+  "translation": "Ой, Ариел, Ариел, Давид конгон шаар! Жылды жылга кошкула, майрамдар келип турсун.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "217386adc6eda6c3d147d3479c38d8cb6d699a62d33bf4d1013a8dd528243e47",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/29\/1-4.1791209890443.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Ой"
+    },
+    {
+      "surface": "אריאל",
+      "gloss": "Ариел"
+    },
+    {
+      "surface": "אריאל",
+      "gloss": "Ариел"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "шаар"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "конгон"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "ספו",
+      "gloss": "кошкула"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "жыл"
+    },
+    {
+      "surface": "על",
+      "gloss": "жылга"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "жыл"
+    },
+    {
+      "surface": "חגים",
+      "gloss": "майрамдар"
+    },
+    {
+      "surface": "ינקפו",
+      "gloss": "келип турсун"
+    }
+  ],
+  "timestamp": "2026-10-05T14:18:10.444504507Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 8:18",
+  "book": "proverbs",
+  "lang": "ky",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אתי",
+      "rationale": "Бул H854 'жанында, менен' предлоги — את H853 объкт белгиси эмес, ошондуктан ⟨את⟩ белгиси коюлган жок"
+    },
+    {
+      "kind": "crux",
+      "subject": "עתק",
+      "rationale": "Сөзмө-сөз 'эски, баалуу'; KJV 'durable', JPS 'enduring' — 'туруктуу' деген окуу тандылды"
+    },
+    {
+      "kind": "addition",
+      "subject": "бар",
+      "rationale": "Еврейче текстте 'бар' жок; кыргызча баяндооч талап кылат"
+    }
+  ],
+  "translation": "⟨את⟩ Мен менен байлык жана даңк бар, туруктуу мал-байлык жана цедек-адилеттик.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "882fee0bfdff1b73ff7a7b46be74156dd1dcebbf151d0a5e9626c15e50eed09b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/8\/17-20.1791217905498.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "байлык"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "жана даңк"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ Мен менен"
+    },
+    {
+      "surface": "הון",
+      "gloss": "мал-байлык"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "туруктуу"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "жана цедек-адилеттик"
+    }
+  ],
+  "timestamp": "2026-10-05T16:31:45.499260805Z",
+  "model": "glm-5.3"
+}

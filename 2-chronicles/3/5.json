@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 3:5",
+  "book": "2-chronicles",
+  "lang": "ky",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ברושים",
+      "rationale": "'кайың' же 'кыпарис' — дарактын так түрү билинбейт"
+    },
+    {
+      "kind": "substitution",
+      "subject": "תמרים",
+      "rationale": "архитектуралык пальма сабагы — б Owens колонна, эмне экени так эмес"
+    }
+  ],
+  "translation": "Жана ⟨את⟩ чоң үйдү кайың жыгачы менен каптады, аны жакшы алтын менен каптады жана анын үстүнө пальма сабактарын жана чынжырларды чыгарды.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "cf3895dfc603bd841e587225127fc9daa882cea33c502c4d55eb891c5ba97326",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-chronicles\/3\/5-8.1791222612180.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "чоң үйдү"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "үйдү"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "чоң"
+    },
+    {
+      "surface": "חפה",
+      "gloss": "каптады"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "жыгачы"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "кайың"
+    },
+    {
+      "surface": "ויחפהו",
+      "gloss": "аны каптады"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "алтын"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "жакшы"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "чыгарды"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "анын үстүнө"
+    },
+    {
+      "surface": "תמרים",
+      "gloss": "пальма сабактарын"
+    },
+    {
+      "surface": "ושרשרות",
+      "gloss": "жана чынжырларды"
+    }
+  ],
+  "timestamp": "2026-10-05T17:50:12.180664474Z",
+  "model": "glm-5.3"
+}

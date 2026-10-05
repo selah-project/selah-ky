@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 107:28",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "кысым",
+      "rationale": "ממצוקות literally 'narrownesses' — distress as a tight place"
+    },
+    {
+      "kind": "addition",
+      "subject": "Ал",
+      "rationale": "pronoun subject supplied; Hebrew verb יוציאם carries the suffix -ם 'them'"
+    }
+  ],
+  "translation": "Алар кыйынчылыктарында Яхвеге кыйкырышты, жана Ал аларды кысымдарынан чыгарды.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "fe38e2ac011a80b057b0275eb9d4816ac380b91b14336740ac1caad6c2a03580",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/107\/27-28.1791224518710.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצעקו",
+      "gloss": "кыйкырышты"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ге"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "кыйынчылыктарында"
+    },
+    {
+      "surface": "להם",
+      "gloss": "алардын"
+    },
+    {
+      "surface": "וממצוקתיהם",
+      "gloss": "жана кысымдарынан"
+    },
+    {
+      "surface": "יוציאם",
+      "gloss": "аларды чыгарды"
+    }
+  ],
+  "timestamp": "2026-10-05T18:21:58.711113445Z",
+  "model": "glm-5.3"
+}

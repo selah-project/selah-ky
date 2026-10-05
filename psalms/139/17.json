@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 139:17",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 139,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "баштары",
+      "rationale": "רָאשֵׁיהֶם бирөө — «баштары»; салттуу котормолор «жалпы саны» деп окуп келишет, бирок сөз түрү бойдон «баш»"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ойларың",
+      "rationale": "רֵעֶיך түз маанисе «товарыштарың\/досторуң», бул жерде «ойлор» деген мааниде"
+    },
+    {
+      "kind": "measurement",
+      "subject": "139:17",
+      "rationale": "Ойлорду санап-өлчөө тили"
+    }
+  ],
+  "translation": "Мага канча баалуу Сенин ойларың, Эл! Канча көп алардын баштары ⟨саны⟩!",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "5f1308854f1c29eb210d34e9b38332f8fcb9733b46c0dfa608ccb6c3073ebdf5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/139\/17-20.1791217572404.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולי",
+      "gloss": "Мага"
+    },
+    {
+      "surface": "מה",
+      "gloss": "канча"
+    },
+    {
+      "surface": "יקרו",
+      "gloss": "баалуу"
+    },
+    {
+      "surface": "רעיך",
+      "gloss": "ойларың"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эл"
+    },
+    {
+      "surface": "מה",
+      "gloss": "канча"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "көп"
+    },
+    {
+      "surface": "ראשיהם",
+      "gloss": "алардын баштары"
+    }
+  ],
+  "timestamp": "2026-10-05T16:26:12.404847579Z",
+  "model": "glm-5.3"
+}

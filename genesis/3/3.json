@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 3:3",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "жок",
+      "rationale": "Кыргызча танбоо үчүн 'жегиле... жок' тартиби колдонулду; еврейче 'ло тохлу' — тыюу формасы."
+    },
+    {
+      "kind": "crux",
+      "subject": "кармагыла да жок",
+      "rationale": "Аял Элохимдин сөзүнө 'тийбегиле' дегенди кошуп айтат — 2:17 де бул жок; аялдын күчөтүлгөн айтымы."
+    }
+  ],
+  "translation": "Ал эми бактын ортосундагы дарактын мөмөсүнөн Элохим айтты: Андан жегиле, кармагыла да жок — антпесе өлөсүңөр.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "a700f949133974de2274d0c924c426bc0771e9a00f90f5959b103eeacfe55278",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/3\/1-4.1791200758303.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומפרי",
+      "gloss": "ал эми мөмөсүнөн"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "дарактын"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ал"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ортосундагы"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "бактын"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "жегиле"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "андан"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "жана жок"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "кармагыла"
+    },
+    {
+      "surface": "בו",
+      "gloss": "аны"
+    },
+    {
+      "surface": "פן",
+      "gloss": "антпесе"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "өлөсүңөр"
+    }
+  ],
+  "timestamp": "2026-10-05T11:45:58.304619758Z",
+  "model": "glm-5.3"
+}

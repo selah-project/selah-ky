@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 88:19",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 88,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מידעי מחשך",
+      "rationale": "KJV: 'тааныштарым караңгылыкка' (объект); YLT\/BSB: 'караңгылык — менин жанымдагы' (караңгылык эң жакын жолдош) — эки окуу бар"
+    },
+    {
+      "kind": "addition",
+      "subject": "болсо",
+      "gloss": "Ивритте этиш жок, эки сүйлөмдү байлоо үчүн кошулду"
+    }
+  ],
+  "translation": "Сүйгөндү жана досуңду менден алыстаттың, тааныштарым болсо — караңгылык.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "8c7a603baa669df1de4347163d755446c53de130686eea74fd49ab54bbfc9382",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/88\/19-19.1791224449811.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הרחקת",
+      "gloss": "алыстаттың"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "менден"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "сүйгөндү"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "жана досуңду"
+    },
+    {
+      "surface": "מידעי",
+      "gloss": "тааныштарым"
+    },
+    {
+      "surface": "מחשך",
+      "gloss": "караңгылык"
+    }
+  ],
+  "timestamp": "2026-10-05T18:20:49.812058751Z",
+  "model": "glm-5.3"
+}

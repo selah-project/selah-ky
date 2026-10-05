@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 109:16",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 109,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "rationale": "«antkeni» байламтасы אשер менен יען экөөнө тең кызмат кылат, ошондуктан gloss бош калды"
+    },
+    {
+      "kind": "alternative",
+      "subject": "жүрөгү сыныкты",
+      "rationale": "ונכאה לבב «жүрөгү жанчылган адам» — туура окуу: «жүрөгүнүн сыныгын өлтүрүү үчүн», б.а. жанчылган жүрөктү өлтүрүүгө чейин куугунтуктады"
+    }
+  ],
+  "translation": "Анткени ал хесед кылууну эстебеди, жана муктаж адамды жана жарлыны куугунтуктады, жана жүрөгү сыныкты өлтүрүү үчүн.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "9fdbedf1d7409a924ee678caadab9e12bec84aa3882d467a930d7fd4bad5bd1e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/109\/13-16.1791217221835.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "эстебеди"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "кылууну"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "хесед"
+    },
+    {
+      "surface": "וירדף",
+      "gloss": "куугунтуктады"
+    },
+    {
+      "surface": "איש",
+      "gloss": "адамды"
+    },
+    {
+      "surface": "עני",
+      "gloss": "муктаж"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "жана жарлыны"
+    },
+    {
+      "surface": "ונכאה",
+      "gloss": "сыныкты"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "жүрөгү"
+    },
+    {
+      "surface": "למותת",
+      "gloss": "өлтүрүү үчүн"
+    }
+  ],
+  "timestamp": "2026-10-05T16:20:21.837126603Z",
+  "model": "glm-5.3"
+}

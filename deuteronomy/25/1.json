@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 25:1",
+  "book": "deuteronomy",
+  "lang": "ky",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הצדיקו\/הצדיק · הרשיעו\/הרשע",
+      "rationale": "Этиш жана зат атооч бир тамырдан кайталанат: «адилди адил деп таап, жаманды жаман деп айыпташсын» — тамыр оюну кыргызчада жарым-жартылай сакталды"
+    },
+    {
+      "kind": "substitution",
+      "subject": "המשפט",
+      "gloss": "«өкүм» — сот иши же өкүм чыгаруу жери экенин да билдирет"
+    }
+  ],
+  "translation": "Эгер адамдардын ортосунда талаш болсо жана алар өкүм үчүн келишсе, аларды соттошсун, ⟨את⟩ адилди адил деп таап, ⟨את⟩ жаманды айыпташсын.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "dfaf0a3c3caf3a7e56df34ddf9e6006e7bc3096da424490e144aa2b777e6b08f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/25\/1-4.1791205231776.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "эгер"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "болсо"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "талаш"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ортосунда"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "адамдардын"
+    },
+    {
+      "surface": "ונגשו",
+      "gloss": "жана келишсе"
+    },
+    {
+      "surface": "אל",
+      "gloss": "үчүн"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "өкүм"
+    },
+    {
+      "surface": "ושפטום",
+      "gloss": "соттошсун"
+    },
+    {
+      "surface": "והצדיקו",
+      "gloss": "адил деп таап"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "адилди"
+    },
+    {
+      "surface": "הצדיק",
+      "gloss": "адилди"
+    },
+    {
+      "surface": "והרשיעו",
+      "gloss": "айыпташсын"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "жаманды"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "жаманды"
+    }
+  ],
+  "timestamp": "2026-10-05T13:00:31.777642640Z",
+  "model": "glm-5.3"
+}

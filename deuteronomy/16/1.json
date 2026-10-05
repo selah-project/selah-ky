@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 16:1",
+  "book": "deuteronomy",
+  "lang": "ky",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "сактагын \/ аткар",
+      "rationale": "бүткүл Ысрайылга багытталган буйруктар"
+    },
+    {
+      "kind": "measurement",
+      "subject": "Абиб айы",
+      "rationale": "жылдын айы атайын аталат — убакыт эсеби"
+    },
+    {
+      "kind": "elision",
+      "subject": "את",
+      "rationale": "тиркемелүү объект белгиси кыргызча жок, ⟨את⟩ белгиси катары калды"
+    }
+  ],
+  "translation": "Абиб ⟨את⟩ айын сактагын, Яхвеге, сенин Элохимиңе, Песах аткар; анткени Абиб айында Яхве, сенин Элохимиң, сени Мицрайимден түн ичинде чыгарды.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "2ee06e1038388c3a78020e6e1ea0cd31a342e445f8726e29d84a168555d196b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/16\/1-4.1791205056951.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמור",
+      "gloss": "сактагын"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Абиб айын"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "айын"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "Абиб"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "жана аткар"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Песах"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхвеге"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Элохимиңе"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "айында"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "Абиб"
+    },
+    {
+      "surface": "הוציאך",
+      "gloss": "чыгарды"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Элохимиң"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Мицрайимден"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "түн ичинде"
+    }
+  ],
+  "timestamp": "2026-10-05T12:57:36.951966989Z",
+  "model": "glm-5.3"
+}

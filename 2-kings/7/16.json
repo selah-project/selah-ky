@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 7:16",
+  "book": "2-kings",
+  "lang": "ky",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "са жана шекел",
+      "rationale": "Ашкана ченеми (са) жана салмак бирдиги (шекел) менен баа көрсөтүлгөн."
+    },
+    {
+      "kind": "elision",
+      "subject": "сатылды",
+      "rationale": "Еврей текстте «сатылды» этиши жок — баа гана айтылат; кыргызча «бир шекелге болду» деп берилди."
+    }
+  ],
+  "translation": "Жана эл чыгып, ⟨את⟩ Арамдын лагерин тоноду, жана бир са ак ун бир шекелге, эки са арпа бир шекелге болду, Яхвенин сөзү боюнча.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "0650925f038af21d69307956d1da21e9ca7bb89c309b72b226877c6f7de52592",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-kings\/7\/13-16.1791208865444.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "чыгып"
+    },
+    {
+      "surface": "העם",
+      "gloss": "эл"
+    },
+    {
+      "surface": "ויבזו",
+      "gloss": "тоноду"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Арамдын лагерин"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "лагерин"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Арамдын"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "болду"
+    },
+    {
+      "surface": "סאה",
+      "gloss": "бир са"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "ак ун"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "бир шекелге"
+    },
+    {
+      "surface": "וסאתים",
+      "gloss": "эки са"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "арпа"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "бир шекелге"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "сөзү боюнча"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    }
+  ],
+  "timestamp": "2026-10-05T14:01:05.446133605Z",
+  "model": "glm-5.3"
+}

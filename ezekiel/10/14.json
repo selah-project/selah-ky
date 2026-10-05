@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 10:14",
+  "book": "ezekiel",
+  "lang": "ky",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "болгон",
+      "rationale": "Еврейче байламта жок; кыргызча сүйлөм үчүн кошулду."
+    },
+    {
+      "kind": "substitution",
+      "subject": "бүркүт",
+      "rationale": "נשר — чоң жырткыч куш, бүркүт же башка ири жырткыч куш."
+    },
+    {
+      "kind": "crux",
+      "subject": "керубдун бети",
+      "rationale": "1:10 да биринчи бети — букача (шор); мында анын ордуна керуб турат — тексттердин ортосундагы айырма."
+    }
+  ],
+  "translation": "Жана ар биринде төрт бет болгон: биринчинин бети — керубдун бети, экинчинин бети — адамдын бети, үчүнчүнүкү — арстандын бети, төртүнчүнүкү — бүркүттүн бети.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "9d5a95aa44924ed2a73a8f2b338efadde862562fb74c695264c5ea09d7999828",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ezekiel\/10\/13-16.1791212278496.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וארבעה",
+      "gloss": "жана төрт"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "бет"
+    },
+    {
+      "surface": "לאחד",
+      "gloss": "ар биринде"
+    },
+    {
+      "surface": "פני",
+      "gloss": "бети"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "биринчинин"
+    },
+    {
+      "surface": "פני",
+      "gloss": "бети"
+    },
+    {
+      "surface": "הכרוב",
+      "gloss": "керубдун"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "жана бети"
+    },
+    {
+      "surface": "השני",
+      "gloss": "экинчинин"
+    },
+    {
+      "surface": "פני",
+      "gloss": "бети"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "адамдын"
+    },
+    {
+      "surface": "והשלישי",
+      "gloss": "жана үчүнчүнүкү"
+    },
+    {
+      "surface": "פני",
+      "gloss": "бети"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "арстандын"
+    },
+    {
+      "surface": "והרביעי",
+      "gloss": "жана төртүнчүнүкү"
+    },
+    {
+      "surface": "פני",
+      "gloss": "бети"
+    },
+    {
+      "surface": "נשר",
+      "gloss": "бүркүттүн"
+    }
+  ],
+  "timestamp": "2026-10-05T14:57:58.496947058Z",
+  "model": "glm-5.3"
+}

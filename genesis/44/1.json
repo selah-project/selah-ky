@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 44:1",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "башкы кызматчысы",
+      "rationale": "על ביתו — «анын үйүнүн үстүндөгү» адам, кызматтык аталыш эмес, кыргызча кызмат аты менен берилди"
+    }
+  ],
+  "translation": "Жана ал үйүндөгү башкы кызматчысына буйруду: «Тойгонча аздектердин токточорлорун азык менен толтур, көтөрө алышканча, жана ар бир кишидин күмүшүн анын токточорусунун оозуна сал».",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "a82abdcb7550792f8ab784a9576bded4a65f8a0690588b6c0b09ec24898c0b12",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/44\/1-4.1791201690695.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "буйруду"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "башкы кызматчысы"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ал"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстүндөгү"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "анын үйүндөгү башкы кызматчысы"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "деп айтуу"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "толтур"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "токточорлор"
+    },
+    {
+      "surface": "אמתחת",
+      "gloss": "токточорлор"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "аздектердин"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "азык"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "канча"
+    },
+    {
+      "surface": "יוכלון",
+      "gloss": "алышканча"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "көтөрө"
+    },
+    {
+      "surface": "ושים",
+      "gloss": "жана сал"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "күмүш"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ар бир кишидин"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "оозуна"
+    },
+    {
+      "surface": "אמתחתו",
+      "gloss": "анын токточорунун"
+    }
+  ],
+  "timestamp": "2026-10-05T12:01:30.696698249Z",
+  "model": "glm-5.3"
+}

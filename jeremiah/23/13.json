@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 23:13",
+  "book": "jeremiah",
+  "lang": "ky",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "акылсыздык",
+      "rationale": "תפלה — жеңил ойлуулук, боштук; 'акылсыздык' жакын маани"
+    },
+    {
+      "kind": "alternative",
+      "subject": "Баалга пайгамбарлык кылышты",
+      "rationale": "בבעל 'Баалдын атынан' да болот"
+    }
+  ],
+  "translation": "Жана Шомрондун пайгамбарларында мен акылсыздыкты көрдүм: алар Баалга пайгамбарлык кылышты жана ⟨את⟩ элимди — ⟨את⟩ Йисраэлди адаштырышты.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "fd481d6fa1367f928297298d82e862789eec85dccfed48f0bfabaa2798b11bc7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/jeremiah\/23\/13-16.1791211306152.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובנביאי",
+      "gloss": "пайгамбарларында"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Шомрондун"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "көрдүм"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "акылсыздыкты"
+    },
+    {
+      "surface": "הנבאו",
+      "gloss": "пайгамбарлык кылышты"
+    },
+    {
+      "surface": "בבעל",
+      "gloss": "Баалга"
+    },
+    {
+      "surface": "ויתעו",
+      "gloss": "адаштырышты"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "элимди"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "элимди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Йисраэлди"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэлди"
+    }
+  ],
+  "timestamp": "2026-10-05T14:41:46.153447556Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 30:10",
+  "book": "2-chronicles",
+  "lang": "ky",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "чабандестер",
+      "rationale": "הרצים — «чуркагандар», буйрук таратуучу кабарчылар; кыргызча «чабандес» кылып алынды."
+    },
+    {
+      "kind": "addition",
+      "subject": "алардын айланасындагылар",
+      "rationale": "Ким күлгөнү текстте ачык айтылбайт; субъект кыргызча түшүнүктүү болушу үчүн кошулду."
+    }
+  ],
+  "translation": "Жана чабандестер Эфраим жана Менаше жеринен Забулунга чейин шаардан шаарга өтүштү, бирок ⟨алардын⟩ айланасындагылар шылдыңдап күлүштү жана аларды мазактады.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "c6505f0d71d87f36923342e23c7283dbb6cdde4952cc5428da980324266f5b94",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-chronicles\/30\/9-12.1791223349380.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "жана болду"
+    },
+    {
+      "surface": "הרצים",
+      "gloss": "чабандестер"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "өтүштү"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "шаардан"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "шаарга"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "жеринде"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Эфраим"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "жана Менаше"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "чейин"
+    },
+    {
+      "surface": "זבלון",
+      "gloss": "Забулун"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "жана болду"
+    },
+    {
+      "surface": "משחיקים",
+      "gloss": "шылдыңдап күлүштү"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "аларды"
+    },
+    {
+      "surface": "ומלעגים",
+      "gloss": "жана мазактап"
+    },
+    {
+      "surface": "בם",
+      "gloss": "аларды"
+    }
+  ],
+  "timestamp": "2026-10-05T18:02:29.381671061Z",
+  "model": "glm-5.3"
+}

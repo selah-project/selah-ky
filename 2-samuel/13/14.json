@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 13:14",
+  "book": "2-samuel",
+  "lang": "ky",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "басынтып",
+      "rationale": "ויענה literally 'аны басаңдатты\/кордоду' — KJV 'forced her' да ушул эле жол"
+    }
+  ],
+  "translation": "Бирок ал анын үнүн угууга макул болгон жок, андан күчтүүрөөк болуп, аны басынтып, ⟨את⟩ аны менен жатты.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "2496d8f639a5dc886c2bcfbe91c6ec9c8e5c1283ac95f9f8883eda7ab9970723",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-samuel\/13\/13-16.1791207555642.json",
+    "code": "641241cf-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "бирок... эмес"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "макул болгон жок"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "угууга"
+    },
+    {
+      "surface": "בקולה",
+      "gloss": "анын үнүн"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "күчтүүрөөк болуп"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "андан"
+    },
+    {
+      "surface": "ויענה",
+      "gloss": "басынтып"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "жатты"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "аны"
+    }
+  ],
+  "timestamp": "2026-10-05T13:39:15.643230240Z",
+  "model": "glm-5.3"
+}

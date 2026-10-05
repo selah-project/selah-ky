@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 15:13",
+  "book": "jeremiah",
+  "lang": "ky",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "לא במחיר",
+      "rationale": "буквально 'не за плату' — то есть без выкупа, безвозмездно отдано на разграбление"
+    },
+    {
+      "kind": "substitution",
+      "subject": "חיל",
+      "rationale": "слово значит и богатство, и сила; выбрано 'байлык' (богатство) по контексту сокровищ"
+    }
+  ],
+  "translation": "Байлыгыңды жана казыналарыңды тонолушу үчүн берем, акысыз, бүт күнөөлөрүң үчүн жана бүт чектеринде.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "bf44da90949b574866251e893d608753e57f1e78ad6bf3b7fe2cdcb921691d28",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/jeremiah\/15\/13-16.1791211047779.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חילך",
+      "gloss": "байлыгыңды"
+    },
+    {
+      "surface": "ואוצרותיך",
+      "gloss": "жана казыналарыңды"
+    },
+    {
+      "surface": "לבז",
+      "gloss": "тонолушу үчүн"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "берем"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "במחיר",
+      "gloss": "акысыз"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "бүт ... үчүн"
+    },
+    {
+      "surface": "חטאותיך",
+      "gloss": "күнөөлөрүң"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "жана бүт"
+    },
+    {
+      "surface": "גבוליך",
+      "gloss": "чектериңде"
+    }
+  ],
+  "timestamp": "2026-10-05T14:37:27.780774285Z",
+  "model": "glm-5.3"
+}

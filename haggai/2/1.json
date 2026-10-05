@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "haggai 2:1",
+  "book": "haggai",
+  "lang": "ky",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "күнү",
+      "rationale": "Ивритте «күн» сөзү жок, кыргызча так дата талап кылат"
+    },
+    {
+      "kind": "measurement",
+      "subject": "датасы",
+      "rationale": "Ай жана күн эсеби — ыйык убакыт белгилөө"
+    }
+  ],
+  "translation": "Жетинчи айда, айдын жыйырма биринчи күнү Яхвенин сөзү Хагай пайгамбардын колу аркылуу айтылды:",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "01340037bd01252d22378c24a6a5c1c10ccdb5fe639e0a3182431e0d81b03b9e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/haggai\/2\/1-4.1791214926579.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בשביעי",
+      "gloss": "жетинчи айда"
+    },
+    {
+      "surface": "בעשרים",
+      "gloss": "жыйырма"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "биринчи күнү"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "айдын"
+    },
+    {
+      "surface": "היה",
+      "gloss": "болду"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сөзү"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "колу аркылуу"
+    },
+    {
+      "surface": "חגי",
+      "gloss": "Хагай"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "пайгамбардын"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "айтып"
+    }
+  ],
+  "timestamp": "2026-10-05T15:42:06.580313803Z",
+  "model": "glm-5.3"
+}

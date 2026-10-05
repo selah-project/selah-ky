@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 12:12",
+  "book": "proverbs",
+  "lang": "ky",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יתן",
+      "rationale": "«берет» — эмне берет? KJV «yieldeth fruit» (жемиш берет) кошумча; YLT жөн гана «giveth» деп коёт"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨жемиш⟩",
+      "rationale": "Ивритте объект жок; «берет» толук сүйлөм болушу үчүн «жемиш» кашаада кошулду"
+    },
+    {
+      "kind": "alternative",
+      "subject": "מצוד",
+      "rationale": "«тор» же «олжа» (JPS «prey») — מצוד эки мааниде колдонулат"
+    }
+  ],
+  "translation": "Жаман адам жаман адамдардын торун каалайт, бирок цадиктердин тамыры ⟨жемиш⟩ берет.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "0515d51e99208262472f592aff6a1f772cb943d75aba443c523cbfbe4bda4475",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/12\/9-12.1791217945382.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חמד",
+      "gloss": "каалайт"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "жаман адам"
+    },
+    {
+      "surface": "מצוד",
+      "gloss": "торун"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "жаман адамдардын"
+    },
+    {
+      "surface": "ושרש",
+      "gloss": "бирок тамыры"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "цадиктердин"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "берет"
+    }
+  ],
+  "timestamp": "2026-10-05T16:32:25.383464669Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 106:20",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 106,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "өздөрүнүн",
+      "rationale": "כבודם — «алардын даңктары»; кыргызча «өздөрүнүн» ээлик маанисин тактады"
+    }
+  ],
+  "translation": "Алар ⟨את⟩ өздөрүнүн даңкын чөп жеген өгүздүн келбетине алмаштырышты.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "6ecb4a25238a601130121a6744b391625754147a2e734289898fb826720aecff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/106\/17-20.1791217130506.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימירו",
+      "gloss": "жана алмаштырышты"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "өздөрүнүн даңкын"
+    },
+    {
+      "surface": "כבודם",
+      "gloss": "өздөрүнүн даңкын"
+    },
+    {
+      "surface": "בתבנית",
+      "gloss": "келбетине"
+    },
+    {
+      "surface": "שור",
+      "gloss": "өгүздүн"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "жеген"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "чөп"
+    }
+  ],
+  "timestamp": "2026-10-05T16:18:50.508257474Z",
+  "model": "glm-5.3"
+}

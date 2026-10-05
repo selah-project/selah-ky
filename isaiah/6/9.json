@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 6:9",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שמעו שמוע \/ ראו ראו",
+      "rationale": "Инфинитив абсолюттуу кайталоо — «чуу-чуксуз угуу» — кыргызча эки этиш менен берилди, ылдамдык жоголот"
+    },
+    {
+      "kind": "crux",
+      "subject": "буйрук же баяндоо",
+      "rationale": "KJV «Hear ye indeed» буйрук катары; ивриттин формасы баяндоо да болушу мүмкүн — «угушат, бирок түшүнүшпейт»"
+    },
+    {
+      "kind": "you",
+      "subject": "бул элге",
+      "rationale": " Isaiah аркылуу элге түз кайрылуу — буйрук формасында"
+    }
+  ],
+  "translation": "Жана ал айтты: Бар да, бул элге айткыла: Угула, угула-турушта, бирок түшүнбөгүлө; көргүлө, көрүп-көрүңкүлө, бирок билбегиле.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "62508e19535a5f4924492707308507317644706a56b2ca4a7fc395b30b38895b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/6\/9-12.1791209457362.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Жана ал айтты"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Бар"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "айткыла"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "элге"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "бул"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "Угула"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "угула-турушта"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "бирок жок"
+    },
+    {
+      "surface": "תבינו",
+      "gloss": "түшүнбөгүлө"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "көргүлө"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "көрүп-көрүңкүлө"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "бирок жок"
+    },
+    {
+      "surface": "תדעו",
+      "gloss": "билбегиле"
+    }
+  ],
+  "timestamp": "2026-10-05T14:10:57.363537919Z",
+  "model": "glm-5.3"
+}

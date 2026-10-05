@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 31:2",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "кечээ, мурдагыдай",
+      "rationale": "כתמול שלשום кечээ, эчээ — идиома «мурдагыдай» деген мааниде"
+    },
+    {
+      "kind": "elision",
+      "subject": "איננו עמו",
+      "rationale": "буквалдуу «ал ага жок» — жүз ага мурдагыдай эмес деген маани"
+    }
+  ],
+  "translation": "Яаков Лабандын ⟨את⟩ жүзүн көрдү, жана мына, ал ага кечээ, мурдагыдай болбой калган.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "c18f01c20658d1d3b1531353c17f2891c1d965ede789c4d16e8a7a36b2fe9e11",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/31\/1-4.1791201373458.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "көрдү"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаков"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Лабандын жүзүн"
+    },
+    {
+      "surface": "פני",
+      "gloss": "жүзүн"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Лабандын"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "жана мына"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "болбой калган"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ага"
+    },
+    {
+      "surface": "כתמול",
+      "gloss": "кечээ"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "мурдагыдай"
+    }
+  ],
+  "timestamp": "2026-10-05T11:56:13.459703651Z",
+  "model": "glm-5.3"
+}

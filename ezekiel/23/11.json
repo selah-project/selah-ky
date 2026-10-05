@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 23:11",
+  "book": "ezekiel",
+  "lang": "ky",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "зиналыктар",
+      "rationale": "זנות — сөзмө-сөз «бузукулук»; символдоо — бутқа табынуу, адам жөнүндө эмес"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ыракатсуу",
+      "rationale": "עגבה — күчтүү сүйүү-умул; «ыракатсуу» же «каарманган сүйүү» деген вариант"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תזנותיה \/ מזנוני",
+      "rationale": " бир тамырдын кайталанышы (зина-зина), риторикалык чыңалуу"
+    }
+  ],
+  "translation": "Анын эжеси Оголиба муну көрүп, ыракатсуусун андан да бузукулантты жана ⟨את⟩ анын зиналыктарын эжесинин зиналыктарынан да көбөйттү.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "9459581ae3394f8f57856b65fa6542aba7ec2f4185e3fd641ab3c610da3cddff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ezekiel\/23\/10-11.1791224311075.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "жана көрдү"
+    },
+    {
+      "surface": "אחותה",
+      "gloss": "анын эжеси"
+    },
+    {
+      "surface": "אהליבה",
+      "gloss": "Оголиба"
+    },
+    {
+      "surface": "ותשחת",
+      "gloss": "жана бузукулантты"
+    },
+    {
+      "surface": "עגבתה",
+      "gloss": "ыракатсуусун"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "андан"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "жана ⟨את⟩",
+      "marks": "анын зиналыктарын"
+    },
+    {
+      "surface": "תזנותיה",
+      "gloss": "анын зиналыктарын"
+    },
+    {
+      "surface": "מזנוני",
+      "gloss": "зиналыктарынан"
+    },
+    {
+      "surface": "אחותה",
+      "gloss": "эжесинин"
+    }
+  ],
+  "timestamp": "2026-10-05T18:18:31.076691715Z",
+  "model": "glm-5.3"
+}

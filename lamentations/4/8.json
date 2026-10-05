@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "lamentations 4:8",
+  "book": "lamentations",
+  "lang": "ky",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "משחור \/ חשך",
+      "rationale": "Root שחר inside חשך: 'darker than blackness' — sound pairing lost in rendering."
+    },
+    {
+      "kind": "substitution",
+      "subject": "תארם",
+      "rationale": "תֹאַר is 'outline\/figure' rendered 'face\/countenance' in tradition; 'келбет' keeps the shape sense."
+    }
+  ],
+  "translation": "Алардын келбети караңгылашып кетти, көчөлөрдө таанылбай калышты; терилери сөөктөрүнө жабышып, кургап, дарактай болуп калышты.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "5d9049c9d621b511ba8583cc2adb98ad3709e98fa36039fed1e438e3aa456605",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/lamentations\/4\/5-8.1791219882386.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חשך",
+      "gloss": "караңгылашып"
+    },
+    {
+      "surface": "משחור",
+      "gloss": "караңгы"
+    },
+    {
+      "surface": "תארם",
+      "gloss": "келбети"
+    },
+    {
+      "surface": "לא",
+      "gloss": "эмес"
+    },
+    {
+      "surface": "נכרו",
+      "gloss": "таанылбай"
+    },
+    {
+      "surface": "בחוצות",
+      "gloss": "көчөлөрдө"
+    },
+    {
+      "surface": "צפד",
+      "gloss": "жабышып"
+    },
+    {
+      "surface": "עורם",
+      "gloss": "терилери"
+    },
+    {
+      "surface": "על",
+      "gloss": "-га"
+    },
+    {
+      "surface": "עצמם",
+      "gloss": "сөөктөрүнө"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "кургап"
+    },
+    {
+      "surface": "היה",
+      "gloss": "болуп"
+    },
+    {
+      "surface": "כעץ",
+      "gloss": "дарактай"
+    }
+  ],
+  "timestamp": "2026-10-05T17:04:42.387801019Z",
+  "model": "glm-5.3"
+}

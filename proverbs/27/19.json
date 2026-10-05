@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 27:19",
+  "book": "proverbs",
+  "lang": "ky",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨чагылат⟩",
+      "rationale": "Еврей текстинде этиш жок — «жүрөк адамга» деген эллипсис; чагылыш мааниси контексттен"
+    },
+    {
+      "kind": "crux",
+      "subject": "сууда жүз жүзгө",
+      "rationale": "כמים הפנים לפנים: «суу жүздү жүзгө чагылтат» же «суудагы жүздөр бир-бирине жооп берет» — котормолор эки жол окушат"
+    }
+  ],
+  "translation": "Сууда жүз жүзгө чагылгандай, ошондой эле адамдын жүрөгү адамга ⟨чагылат⟩.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "2840ef32a6fe4117536bd22a0a81525c5ecee1ea848f43839e422a5100d3ea99",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/27\/17-20.1791218370919.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כמים",
+      "gloss": "сууда"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "жүз"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "жүзгө"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ошондой эле"
+    },
+    {
+      "surface": "לב",
+      "gloss": "жүрөгү"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "адамдын"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "адамга"
+    }
+  ],
+  "timestamp": "2026-10-05T16:39:30.920472405Z",
+  "model": "glm-5.3"
+}

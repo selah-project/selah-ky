@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 33:17",
+  "book": "2-chronicles",
+  "lang": "ky",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "гана",
+      "rationale": "רק бир эле сөзү эки орунга (бирок...гана) ажыратылды"
+    },
+    {
+      "kind": "crux",
+      "subject": "בבמות",
+      "rationale": "бамот: Яхвеге арналган, бирок борбордук храмда эмес бийик жерлерде чалынган курмандыктар — толук четке кагылганбы же жөнгө салынганбы деген талаш"
+    }
+  ],
+  "translation": "Бирок эл дагы эле бийик жерлерде курмандык чалчу, болгону Яхвеге, өз Элохимине гана.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "0e86ef3fa42b2947df972af314e528c4a2aa1be1d1e1a377f00eec1080e31991",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-chronicles\/33\/17-20.1791223329500.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אבל",
+      "gloss": "бирок"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "дагы эле"
+    },
+    {
+      "surface": "העם",
+      "gloss": "эл"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "курмандык чалчу"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "бийик жерлерде"
+    },
+    {
+      "surface": "רק",
+      "gloss": "болгону ... гана"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхвеге"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "өз Элохимине"
+    }
+  ],
+  "timestamp": "2026-10-05T18:02:09.503792270Z",
+  "model": "glm-5.3"
+}

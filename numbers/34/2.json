@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 34:2",
+  "book": "numbers",
+  "lang": "ky",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "תפל לכם בנחалה",
+      "rationale": "сөзмө «силерге мураска түшөт» — жер орош\/тиешүү деген идиома"
+    },
+    {
+      "kind": "elision",
+      "subject": "כי",
+      "rationale": "«ачык айтканда» деген байланыштык кыргызча түшүрүлдү"
+    }
+  ],
+  "translation": "Йисраэл ⟨את⟩ уулдарына буйрук бер жана аларга айт: Силер Кенаан жерине кире турган силер — бул силерге мураска тийе турган жер, Кенаан жери, анын чектери боюнча:",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "034efad29e3625121200cb9c42b125d716661e69e6440023f8821dbce32e021c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/numbers\/34\/1-4.1791204579946.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צו",
+      "gloss": "буйрук бер"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Йисраэл уулдарына"
+    },
+    {
+      "surface": "בני",
+      "gloss": "уулдарына"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэл"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "жана айт"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "аларга"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "силер"
+    },
+    {
+      "surface": "באים",
+      "gloss": "кире турган"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "жерине"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Кенаан"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "бул"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "жер"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "תפל",
+      "gloss": "тие турган"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "силерге"
+    },
+    {
+      "surface": "בנחלה",
+      "gloss": "мураска"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "жери"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Кенаан"
+    },
+    {
+      "surface": "לגבלתיה",
+      "gloss": "анын чектери боюнча"
+    }
+  ],
+  "timestamp": "2026-10-05T12:49:39.946986032Z",
+  "model": "glm-5.3"
+}

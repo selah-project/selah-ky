@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 16:12",
+  "book": "1-samuel",
+  "lang": "ky",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨Ишай⟩",
+      "rationale": "еврей текстинде этиштин ээси айтылбаган — алдынкы аяттан келет"
+    },
+    {
+      "kind": "crux",
+      "subject": "кызыл жүздүү",
+      "rationale": "אדמוני — «кызыл\/ачык кызыл чачтуу же өңдүү»; так мааниси талаштуу"
+    }
+  ],
+  "translation": "Жана ⟨Ишай⟩ жиберди жана аны алып келди. Ал кызыл жүздүү, көздөрү сулуу жана көрүүгө жагымдуу эле. Яхве айтты: Тур, аны майла, анткени бул — ошол.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "b12b922a1ddc2b33cf2df1d2ce74fda16d0660d647af55a6c1387dbdb4a497f9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-samuel\/16\/9-12.1791206911056.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "жиберди"
+    },
+    {
+      "surface": "ויביאהו",
+      "gloss": "алып келди"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ал"
+    },
+    {
+      "surface": "אדמוני",
+      "gloss": "кызыл жүздүү"
+    },
+    {
+      "surface": "עם",
+      "gloss": "менен"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "сулуу"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "көздөрү"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "жагымдуу"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "көрүүгө"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "קום",
+      "gloss": "тур"
+    },
+    {
+      "surface": "משחהו",
+      "gloss": "аны майла"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "זה",
+      "gloss": "бул"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ошол"
+    }
+  ],
+  "timestamp": "2026-10-05T13:28:31.057716702Z",
+  "model": "glm-5.3"
+}

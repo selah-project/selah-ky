@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 42:2",
+  "book": "job",
+  "lang": "ky",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "יבצר",
+      "rationale": "Лексема 'жүзүм териү\/бийиктик менен тосулуу' — бул жерде 'торголуу, кармалуу' маанисинде"
+    },
+    {
+      "kind": "elision",
+      "subject": "כי",
+      "rationale": "Кыргызча 'билдим:' конструкциясы кы байламтаасын көтөрөт"
+    }
+  ],
+  "translation": "Билдим: Сен бардыгына жөндөүсүң, жана Сенден эч бир ой торголунбайт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "337925b4f59c9019b8c09265db7d608bfdf6cab2189c43495973388eb421693a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/job\/42\/1-4.1791219496912.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "Билдим"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бардыгына"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "жөндөүсүң"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "жана эмес"
+    },
+    {
+      "surface": "יבצר",
+      "gloss": "торголунбайт"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "Сенден"
+    },
+    {
+      "surface": "מזמה",
+      "gloss": "ой"
+    }
+  ],
+  "timestamp": "2026-10-05T16:58:16.913297703Z",
+  "model": "glm-5.3"
+}

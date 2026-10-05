@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 67:8",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 67,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "бизди",
+      "rationale": "еврейче жекече мүчө -נу камтылган, кыргызча өзүнчө сөз"
+    },
+    {
+      "kind": "idiom",
+      "subject": "אפסי ארץ",
+      "rationale": "букв. 'жердин токтоолору\/чектери' — дүйнөнүн бүткүл чет-жакалары деген идиома"
+    }
+  ],
+  "translation": "Бизди Элохим баталасын, жана жердин бүткүл чет-жакалары ⟨את⟩ Анан корксун.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "6737b1a022538e2485acd326143b059d2d1ab78b20b1ba544ee0db1fa876d90c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/67\/5-8.1791216325702.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יברכנו",
+      "gloss": "баталасын"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "жана корксун"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "жердин бүткүл чет-жакалары"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүткүл"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "чет-жакалары"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "жердин"
+    }
+  ],
+  "timestamp": "2026-10-05T16:05:25.703936069Z",
+  "model": "glm-5.3"
+}

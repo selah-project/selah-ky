@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 14:16",
+  "book": "job",
+  "lang": "ky",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "על",
+      "rationale": "Кыргызча «күнөөмдү» туура жөндөлүшү үчүн предлог элендилди"
+    },
+    {
+      "kind": "crux",
+      "subject": "ло тишмор",
+      "rationale": "«Көзөмөлдөбөйсүң» буйрук сүйлөм же «көзөмөлдөбөйсүңбү?» деген суроо экени боюнча котормолор экиге бөлүнөт"
+    },
+    {
+      "kind": "measurement",
+      "subject": "кадамдарды эсептөө",
+      "rationale": "Кадамдарды санап чыгуу — өлчөө образы"
+    }
+  ],
+  "translation": "Анткени азыр кадамдарымды эсептеп жатасың, күнөөмдү көзөмөлдөбөйсүң.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "3087ca0decee4a556cb3ce3aed10884c8f681cccec4703ecfed155bbec7f3a7d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/job\/14\/13-16.1791218874905.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "азыр"
+    },
+    {
+      "surface": "צעדי",
+      "gloss": "кадамдарымды"
+    },
+    {
+      "surface": "תספור",
+      "gloss": "эсептеп жатасың"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түгөй"
+    },
+    {
+      "surface": "תשמור",
+      "gloss": "көзөмөлдөбөйсүң"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "күнөөмдү"
+    }
+  ],
+  "timestamp": "2026-10-05T16:47:54.906854144Z",
+  "model": "glm-5.3"
+}

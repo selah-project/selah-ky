@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "nahum 1:6",
+  "book": "nahum",
+  "lang": "ky",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אפו",
+      "rationale": "буквалдык 'муруну' — каардын туруктуу еврей образы; 'жүзүнүн' деп берилди"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נתכה\/נתצו",
+      "rationale": "н-т тамырдын кайталоосу — 'төгүлөт\/кыйрайт' үндөштүгү кыргызча жоголот"
+    },
+    {
+      "kind": "you",
+      "subject": "ким",
+      "rationale": "Риторикалык суроо менен окурманга кайрылуу"
+    }
+  ],
+  "translation": "Анын каарынын алдында ким туралы? жана анын жүзүнүн күйүүсүндө ким тура алат? Анын ызаасы от сыяктуу төгүлөт, жана аскалар андан кыйрайт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "2753e24e13d4cfac7b4006ad05314ad699fbf76baec817c473e4a5a738a79613",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/nahum\/1\/5-8.1791214701160.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "алдында"
+    },
+    {
+      "surface": "זעמו",
+      "gloss": "анын каары"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ким"
+    },
+    {
+      "surface": "יעמוד",
+      "gloss": "туралы"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "жана ким"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "тура алат"
+    },
+    {
+      "surface": "בחרון",
+      "gloss": "күйүүсүндө"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "анын жүзүнүн"
+    },
+    {
+      "surface": "חמתו",
+      "gloss": "анын ызаасы"
+    },
+    {
+      "surface": "נתכה",
+      "gloss": "төгүлөт"
+    },
+    {
+      "surface": "כאש",
+      "gloss": "от сыяктуу"
+    },
+    {
+      "surface": "והצרים",
+      "gloss": "жана аскалар"
+    },
+    {
+      "surface": "נתצו",
+      "gloss": "кыйрайт"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "андан"
+    }
+  ],
+  "timestamp": "2026-10-05T15:38:21.161578061Z",
+  "model": "glm-5.3"
+}

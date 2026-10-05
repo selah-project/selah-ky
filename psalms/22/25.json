@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 22:25",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жабыгуу",
+      "rationale": "עֲנוּת — 'жабыгуу\/зааптануу', кыйынчылыктын басылганы; 'мaskanishылык' эмес"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ענות\/עני",
+      "rationale": "Эч бир жерде жоголбойт: 'жабыгуу\/жабыккан' бир тамыр, үндөштүк кыргызча да сакталды"
+    }
+  ],
+  "translation": "Анткени ал жек көргөн жок жана жийиркенген жок жабыккандын жабыгуусун, жана жүзүн анын үстүнөн жашырган жок, жана ал ага кыйкырганда, угат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "4df5f04c40c6ad3ae0f74ea943d94bb3a26c4c992f4dae44889f78027123e5bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/22\/25-28.1791215603196.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "жек көргөн"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "жана жок"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "жийиркенген"
+    },
+    {
+      "surface": "ענות",
+      "gloss": "жабыгууну"
+    },
+    {
+      "surface": "עני",
+      "gloss": "жабыккандын"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "жана жок"
+    },
+    {
+      "surface": "הסתיר",
+      "gloss": "жашырган"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "жүзүн"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "анын үстүнөн"
+    },
+    {
+      "surface": "ובשועו",
+      "gloss": "жана ал кыйкырганда"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ага"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "угат"
+    }
+  ],
+  "timestamp": "2026-10-05T15:53:23.196692492Z",
+  "model": "glm-5.3"
+}

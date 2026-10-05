@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 23:8",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жаныңар",
+      "rationale": "נפש — 'жан' эмес, 'тамак\/дем\/тирүүлүк күч'; бул жерде каалоо маанисинде."
+    },
+    {
+      "kind": "elision",
+      "subject": "אתם",
+      "rationale": "H854 'алар менен' предлоги — H853 объект маркери менен окшош жазылат, ⟨את⟩ белгиси катары сакталды."
+    },
+    {
+      "kind": "idiom",
+      "subject": "אם יש את נפשכם",
+      "rationale": "Букв.: 'эгер жаныңар бар болсо' = 'эгер каалооңор болсо'; идиома катары берилди."
+    }
+  ],
+  "translation": "Жана ал ⟨את⟩ алар менен сүйлөштү, айтып: эгер ⟨את⟩ жаныңар ⟨буга⟩ даяр болсо — ⟨את⟩ өлгөнүмдү алдымдан көмүш үчүн — мени уккула жана мени Тсохардын уулу Эфронго жолуктуруңуз.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "e5130f2f5f44e5c266f3cbda3822c02e2e4d5f8c283fb3503540e0297589675b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/23\/5-8.1791201128337.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "сүйлөштү"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ алар менен",
+      "marks": "алар"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "айтып"
+    },
+    {
+      "surface": "אם",
+      "gloss": "эгер"
+    },
+    {
+      "surface": "יש",
+      "gloss": "даяр болсо"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "жаныңар"
+    },
+    {
+      "surface": "נפשכם",
+      "gloss": "жаныңар"
+    },
+    {
+      "surface": "לקבר",
+      "gloss": "көмүш үчүн"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "өлгөнүмдү"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "өлгөнүмдү"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "алдымдан"
+    },
+    {
+      "surface": "שמעוני",
+      "gloss": "мени уккула"
+    },
+    {
+      "surface": "ופגעו",
+      "gloss": "жолуктуруңуз"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мени"
+    },
+    {
+      "surface": "בעפרון",
+      "gloss": "Эфронго"
+    },
+    {
+      "surface": "בן",
+      "gloss": "уулу"
+    },
+    {
+      "surface": "צחר",
+      "gloss": "Тсохардын"
+    }
+  ],
+  "timestamp": "2026-10-05T11:52:08.339256009Z",
+  "model": "glm-5.3"
+}

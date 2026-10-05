@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 13:1",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "למנצח",
+      "rationale": "Тамганын башындагы ל предлог «-га» кыргызча мүчө менен берилди"
+    }
+  ],
+  "translation": "Которуучуга. Давиддин мазмуру.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "efb8878d0b1df9c3cf30654fe996d1340f7774bfcdc4f52894d25d7b511b3322",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/13\/1-4.1791215482658.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Которуучуга"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "мазмур"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давиддин"
+    }
+  ],
+  "timestamp": "2026-10-05T15:51:22.659048085Z",
+  "model": "glm-5.3"
+}

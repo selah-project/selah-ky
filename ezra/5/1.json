@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezra 5:1",
+  "book": "ezra",
+  "lang": "ky",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "алар",
+      "rationale": "עליהון кайрадан айтылган далдаatter — кыргызча бир гана жолу жетиштүү, экинчиси ⟨…⟩ эмес, бир сапта эриштик менен берилди"
+    },
+    {
+      "kind": "elision",
+      "subject": "די",
+      "rationale": "Aramaic relative conjunction, folded into the case ending rather than a separate word"
+    }
+  ],
+  "translation": "Жана пайгамбар Хагай, Зехарја уулу, Идо пайгамбар Йеһудада жана Йерушалайимде турган йеһудайыларга Ысрайыл Элоахынын ысымында аларга пайгамбарлык кылды.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "3dd81ccaa02aeb44040bed8a6edd4d37ad2a2d2dc050961a0ac994033cb79b71",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ezra\/5\/1-4.1791221093305.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והתנבי",
+      "gloss": "пайгамбарлык кылды"
+    },
+    {
+      "surface": "חגי",
+      "gloss": "Хагай"
+    },
+    {
+      "surface": "נביאה",
+      "gloss": "пайгамбар"
+    },
+    {
+      "surface": "וזכריה",
+      "gloss": "жана Зехарја"
+    },
+    {
+      "surface": "בר",
+      "gloss": "уулу"
+    },
+    {
+      "surface": "עדוא",
+      "gloss": "Идо"
+    },
+    {
+      "surface": "נביאיא",
+      "gloss": "пайгамбар"
+    },
+    {
+      "surface": "על",
+      "gloss": "боюнча"
+    },
+    {
+      "surface": "יהודיא",
+      "gloss": "йеһудайылар"
+    },
+    {
+      "surface": "די",
+      "gloss": "алар"
+    },
+    {
+      "surface": "ביהוד",
+      "gloss": "Йеһудада"
+    },
+    {
+      "surface": "ובירושלם",
+      "gloss": "жана Йерушалайимде"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "ысымында"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Элоах"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ысрайыл"
+    },
+    {
+      "surface": "עליהון",
+      "gloss": "аларга"
+    }
+  ],
+  "timestamp": "2026-10-05T17:24:53.306734613Z",
+  "model": "glm-5.3"
+}

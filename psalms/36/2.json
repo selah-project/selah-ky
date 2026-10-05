@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 36:2",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לרשע",
+      "rationale": "«рашага» же «рашенин» — байланыш кантип түшүнүлөт: көтөрүлүү рашега сүйлөйт же рашенин көтөрүлүүсү сүйлөйт"
+    },
+    {
+      "kind": "alternative",
+      "subject": "бэкарб либи",
+      "rationale": "«менин жүрөгүмдүн ичинде» же «мен ойлойм» — жүрөк туурасында кыйынчылык"
+    }
+  ],
+  "translation": "«Рашенин көтөрүлүүсүнүн айтуусу менин жүрөгүмдүн ичинде: анын көзүнүн алдында Элохимден коркуу жок».",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "56927c43cecf8b25b70b732c1a04dced4b8ded1889b4e181f9041d2f23ee6fd2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/36\/1-4.1791215852051.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נאם",
+      "gloss": "айтуусу"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "көтөрүлүүсүнүн"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "рашенин"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "ичинде"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "жүрөгүмдүн"
+    },
+    {
+      "surface": "אין",
+      "gloss": "жок"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "коркуу"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохимден"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "алдында"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "көзүнүн"
+    }
+  ],
+  "timestamp": "2026-10-05T15:57:32.052629663Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 9:20",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "айрымдары",
+      "rationale": "Иврит 'корккон адам' дейт (жекелик), көптүк маанида кабыл алынган — 'алардын айрымдары' кошулду."
+    },
+    {
+      "kind": "addition",
+      "subject": "өз",
+      "rationale": "עבדיו жана מקנהו — 'анын кулдары\/малы', кыргызча 'өз' тактоочсу катары кошулду."
+    }
+  ],
+  "translation": "Яхвенин сөзүнөн корккон фараондун кулдарынын арасынан ⟨алардын⟩ айрымдары өз кулдарын жана малдарын үйлөргө качырышты.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "fa10d8b2c4d577dcada5a42380744f250c4b7dba3d345b71496d6615b1339f1c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/9\/17-20.1791202016432.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הירא",
+      "gloss": "корккон"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яхвенин сөзүн"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сөзүн"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    },
+    {
+      "surface": "מעבדי",
+      "gloss": "кулдарынын арасынан"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "фараондун"
+    },
+    {
+      "surface": "הניס",
+      "gloss": "качырышты"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "өз кулдарын"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "өз кулдарын"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "малдарын"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "малдарын"
+    },
+    {
+      "surface": "אל",
+      "gloss": "үйлөргө"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "үйлөргө"
+    }
+  ],
+  "timestamp": "2026-10-05T12:06:56.433763995Z",
+  "model": "glm-5.3"
+}

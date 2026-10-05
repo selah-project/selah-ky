@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 8:6",
+  "book": "hosea",
+  "lang": "ky",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "שבבים",
+      "rationale": "Сыныктар — бул сөз Танахта өтө сейрек кездешет, бузулган буттун кесиндилери"
+    },
+    {
+      "kind": "crux",
+      "subject": "מישראל",
+      "rationale": "'Йисраэлден (түшкөн)' же 'Йисраэлдики' — эмне үчүн булаң түшүндүрүүсү талаштуу"
+    }
+  ],
+  "translation": "Анткени ал Йисраэлден: жасоочу аны жасады, ал Элохим эмес; анткени Шомрондун торпогу сыныктар болот.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "4a1bc1d98521bcab45a678ecebe74c1632eb79b3c6b554d344a64194bb829b0a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/hosea\/8\/5-8.1791214051366.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "Йисраэлден"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ал"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "жасоочу"
+    },
+    {
+      "surface": "עשהו",
+      "gloss": "аны жасады"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "жана ... эмес"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ал"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "שבבים",
+      "gloss": "сыныктар"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "болот"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "торпок"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Шомрон"
+    }
+  ],
+  "timestamp": "2026-10-05T15:27:31.367496883Z",
+  "model": "glm-5.3"
+}

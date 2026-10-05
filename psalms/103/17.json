@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 103:17",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 103,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "хесед",
+      "rationale": "חסед кыргызча бир сөзгө сыят: 'ырайым' гана деп которулбай, өзүнчө алынган"
+    },
+    {
+      "kind": "idiom",
+      "subject": "байыркы замандан түбөлүккө чейин",
+      "rationale": "מעולם ועד עולם — 'оламдан оламга' кыргызча узак мөөнөт идиомасы менен берилди"
+    }
+  ],
+  "translation": "Жана Яхвенин хеседи байыркы замандан түбөлүккө чейин Аны корккондордун үстүнөн, жана Анын цедеги неберелеринин балдарына",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "2ed312f170965d0b1999dbd283f2022e3498415a54f083213ea30f0eacb7e436",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/103\/17-20.1791216969360.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וחסד",
+      "gloss": "жана хеседи"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "байыркы замандан"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "чейин"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "түбөлүккө"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстүнөн"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "Аны корккондордун"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "жана Анын цедеги"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "балдарына"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "неберелеринин"
+    }
+  ],
+  "timestamp": "2026-10-05T16:16:09.360658085Z",
+  "model": "glm-5.3"
+}

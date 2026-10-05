@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 41:4",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ואת אחרנים",
+      "rationale": "Бул жерде את — заттын белгиси эмес, «менен» деген алдынкы сөз (H854): «акыркылар менен» деген окуу да бар."
+    },
+    {
+      "kind": "you",
+      "subject": "окурманга суроо",
+      "rationale": "Аят «Ким?» деген суроо менен окурманды түз кайрылат, жооп — Мен Яхве."
+    }
+  ],
+  "translation": "Ким бул ишти жасады жана аткарды, муундарды башынан чакырды? Мен — Яхве, Биринчи, жана ⟨את⟩ акыркылар — Мен Озаман.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "7a22f4af579eee51a6e77e17139c1739317e9dad2654a082f6cdcdd9228195da",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/41\/1-4.1791210206127.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ким"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "жасады"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "жана аткарды"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "чакырды"
+    },
+    {
+      "surface": "הדרות",
+      "gloss": "муундарды"
+    },
+    {
+      "surface": "מראש",
+      "gloss": "башынан"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Мен"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "Биринчи"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "акыркылар"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "акыркылар"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Мен"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Озаман"
+    }
+  ],
+  "timestamp": "2026-10-05T14:23:26.128355980Z",
+  "model": "glm-5.3"
+}

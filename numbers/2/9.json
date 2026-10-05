@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 2:9",
+  "book": "numbers",
+  "lang": "ky",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "казыны",
+      "rationale": "Hebrew has no copula before the number"
+    },
+    {
+      "kind": "measurement",
+      "subject": "186 400",
+      "rationale": "Census total for the camp of Judah, counted by thousands and hundreds"
+    }
+  ],
+  "translation": "Йегуда лагеринде эсептелгендердин баары — жүз миң жана сексен миң жана алты миң жана төрт жүз, алардын аскерлери боюнча; алар биринчи жөнөшөт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "9d543fe84f25228419aebb86b9aaec13428e6107e5d5765b7715d1c2c697151b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/numbers\/2\/9-12.1791203558661.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "баары"
+    },
+    {
+      "surface": "הפקדים",
+      "gloss": "эсептелгендердин"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "лагеринде"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Йегуда"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "жүз"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "миң"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "жана сексен"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "миң"
+    },
+    {
+      "surface": "וששת",
+      "gloss": "жана алты"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "миң"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "жана төрт"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "жүз"
+    },
+    {
+      "surface": "לצבאתם",
+      "gloss": "алардын аскерлери боюнча"
+    },
+    {
+      "surface": "ראשנה",
+      "gloss": "биринчи"
+    },
+    {
+      "surface": "יסעו",
+      "gloss": "жөнөшөт"
+    }
+  ],
+  "timestamp": "2026-10-05T12:32:38.662520504Z",
+  "model": "glm-5.3"
+}

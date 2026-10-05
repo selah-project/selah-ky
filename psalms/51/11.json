@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 51:11",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "жүзүңдү жашыр",
+      "rationale": "יהвенин жүзүн жашыруу — каарын кайтаруу идиомасы; кыргызча да түшүнүктүү"
+    },
+    {
+      "kind": "you",
+      "subject": "Элохимге",
+      "rationale": "тиленүүнүн уландысы — императивдер Элохимге"
+    }
+  ],
+  "translation": "Жүзүңдү менин күнөөлөрүмдөн жашыр, менин бүт айыптарымды өчүр.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "fcfd381850c8a518c54c2a83a4ce83b479cb0cc31f557f8eedd98cc3183ecb09",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/51\/9-12.1791216175883.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הסתר",
+      "gloss": "жашыр"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "жүзүңдү"
+    },
+    {
+      "surface": "מחטאי",
+      "gloss": "күнөөлөрүмдөн"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "бүт"
+    },
+    {
+      "surface": "עונתי",
+      "gloss": "айыптарымды"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "өчүр"
+    }
+  ],
+  "timestamp": "2026-10-05T16:02:55.884665425Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 19:1",
+  "book": "2-kings",
+  "lang": "ky",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "өз",
+      "rationale": "כийимдерге кайтарма атаам比起 табигый кыргызча үчүн кошулду"
+    },
+    {
+      "kind": "substitution",
+      "subject": "шак",
+      "rationale": "בשק — кайнактан өткөн жипчен токулган калың кендир кийим; ‘шак’ атайын сакталды"
+    }
+  ],
+  "translation": "Падыша Хизкия укканда, ал ⟨את⟩ өз кийимдерин жыртып, шак менен оролуп, Яхвенин үйүнө кирди.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "fa7c2b83604e4475c7031ddbe0206dad3b1f567ffa09c04745d3fb2c86541665",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-kings\/19\/1-4.1791209170246.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "болду"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "укканда"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "падыша"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Хизкия"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "жыртты"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "өз кийимдерин"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "кийимдерин"
+    },
+    {
+      "surface": "ויתכס",
+      "gloss": "оролду"
+    },
+    {
+      "surface": "בשק",
+      "gloss": "шак"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "кирди"
+    },
+    {
+      "surface": "בית",
+      "gloss": "үйүнө"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    }
+  ],
+  "timestamp": "2026-10-05T14:06:10.246801478Z",
+  "model": "glm-5.3"
+}

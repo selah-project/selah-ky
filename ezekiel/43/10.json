@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 43:10",
+  "book": "ezekiel",
+  "lang": "ky",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "адам уулу",
+      "rationale": "Яхве Йехезкелге (адам уулу) кайрылат"
+    },
+    {
+      "kind": "measurement",
+      "subject": "өлчөшсүн",
+      "rationale": "үй планын өлчөө буйругу — үй өлчөө мотиви башталат"
+    },
+    {
+      "kind": "addition",
+      "subject": "ошондо",
+      "rationale": "ивриттин жүйүү маанисин кыргыз тили ачык берет"
+    }
+  ],
+  "translation": "Сен, адам уулу, Йисраэл үйүнө ⟨את⟩ үйдү көрсөт, ошондо алар өз күнөөлөрүнөн уялышсын, жана ⟨את⟩ анын планын өлчөшсүн.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "269d28a48addbe680ee8da00a3018da41435581ffe5761aa7ab1efed45e71e7d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ezekiel\/43\/9-12.1791213571668.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Сен"
+    },
+    {
+      "surface": "בן",
+      "gloss": "уулу"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "адам"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "көрсөт"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "үйдү"
+    },
+    {
+      "surface": "בית",
+      "gloss": "үйүнө"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэл"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "үйдү"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "үйдү"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "жана уялышсын"
+    },
+    {
+      "surface": "מעונותיהם",
+      "gloss": "өз күнөөлөрүнөн"
+    },
+    {
+      "surface": "ומדדו",
+      "gloss": "жана өлчөшсүн"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "планын"
+    },
+    {
+      "surface": "תכנית",
+      "gloss": "планын"
+    }
+  ],
+  "timestamp": "2026-10-05T15:19:31.669007844Z",
+  "model": "glm-5.3"
+}

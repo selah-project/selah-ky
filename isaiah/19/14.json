@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 19:14",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "рух",
+      "rationale": "רוח — рух, шамал, дем: бир сөз, үч маани; бул жерде бузукулук руху."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "התעו \/ כהתעות",
+      "rationale": "Этиштин кайталоосу — «адаштырышты» жана «адашкандай» — ыргактык параллелизм."
+    }
+  ],
+  "translation": "Яхве анын ичине бузукулук рухун аралаштырды, жана алар ⟨את⟩ Мицрайимди анын бардык ишинде, мас адам өз кусугунда адашкандай адаштырышты.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "5fabc8087edf6a27b3969907c2c408d1bd9b295faadc7a1a922b88b08a633a4f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/19\/13-16.1791209685831.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "аралаштырды"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "анын ичине"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "рух"
+    },
+    {
+      "surface": "עועים",
+      "gloss": "бузукулук"
+    },
+    {
+      "surface": "והתעו",
+      "gloss": "жана адаштырышты"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Мицрайимди"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицрайимди"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "бардык"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "анын ишинде"
+    },
+    {
+      "surface": "כהתעות",
+      "gloss": "адашкандай"
+    },
+    {
+      "surface": "שכור",
+      "gloss": "мас адам"
+    },
+    {
+      "surface": "בקיאו",
+      "gloss": "өз кусугунда"
+    }
+  ],
+  "timestamp": "2026-10-05T14:14:45.832792822Z",
+  "model": "glm-5.3"
+}

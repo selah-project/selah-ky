@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 31:4",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨асың⟩",
+      "rationale": "Кыргызча байламча талап кылат; еврейче жок"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תנחני\/ותנהלני",
+      "rationale": "Эки жакын тамыр — н-х жана н-х-л 'жетектөө' — параллелизм"
+    }
+  ],
+  "translation": "Анткени Сен менин аскам жана бекем жайым ⟨асың⟩; өз атың үчүн мени жетектеп, башкарып жүр.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "d2a7aaf1490402cc71aefc48c5e7b118fab95d62f37c4f167687c5e8c2a92705",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/31\/1-4.1791215729507.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Анткени"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "аскам"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "бекем жайым"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Сен"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "үчүн"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "өз атың"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "мені жетектеп"
+    },
+    {
+      "surface": "ותנהלני",
+      "gloss": "башкарып жүр"
+    }
+  ],
+  "timestamp": "2026-10-05T15:55:29.508393282Z",
+  "model": "glm-5.3"
+}

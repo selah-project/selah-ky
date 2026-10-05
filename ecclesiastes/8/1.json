@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 8:1",
+  "book": "ecclesiastes",
+  "lang": "ky",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "окшойт",
+      "rationale": "כ的前置词「像」以动词形式补出"
+    },
+    {
+      "kind": "crux",
+      "subject": "עז פניו ישנא",
+      "rationale": "「他脸上的胆气必改变」——或译「被改变」(被动)、「会变」(主动)，各家译法分歧"
+    },
+    {
+      "kind": "hapax",
+      "subject": "פשר",
+      "rationale": "פשר（解梦\/解释）在坦纳赫中几乎仅见于但以理书与此处"
+    }
+  ],
+  "translation": "Ким мыкты акылманга окшойт, жана ким сөздүн чечмесин билет? Адамдын акылманы ⟨анын⟩ жүзүн жарык кылат, жана ⟨анын⟩ жүзүнүн күч-кудурети өзгөрүлөт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "ab5194fb5734e8ad5b6da3ed010248d0ee08189ca164c81a73ecc7e041f31d73",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ecclesiastes\/8\/1-4.1791220122676.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ким"
+    },
+    {
+      "surface": "כהחכם",
+      "gloss": "мыкты акылманга окшойт"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "жана ким"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "билет"
+    },
+    {
+      "surface": "פשר",
+      "gloss": "чечмесин"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сөздүн"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "акылманы"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "адамдын"
+    },
+    {
+      "surface": "תאיר",
+      "gloss": "жарык кылат"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "жүзүн"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "күч-кудурети"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "жүзүнүн"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "өзгөрүлөт"
+    }
+  ],
+  "timestamp": "2026-10-05T17:08:42.677533318Z",
+  "model": "glm-5.3"
+}

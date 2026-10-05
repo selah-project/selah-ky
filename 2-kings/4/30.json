@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 4:30",
+  "book": "2-kings",
+  "lang": "ky",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨сен⟩",
+      "rationale": "Жаның деген ат атоочтун ээси кыргызча так болушу үчүн кошулду."
+    },
+    {
+      "kind": "substitution",
+      "subject": "жан",
+      "rationale": "נפש — жан эмес, дем алуу\/жашоо күчү дегенге жакын."
+    },
+    {
+      "kind": "crux",
+      "subject": "ант формасы",
+      "rationale": "חי יהוה — «Яхве тирүү» — еврей анты; айрым котормолор «Яхве жашагандай» деп буруп идиомага айландырат."
+    }
+  ],
+  "translation": "Жана баланын энеси айтты: Яхве тирүү жана ⟨сен⟩ жаның тирүү, мен сени таштабайм. Жана ал турду да анын артынан жөнөдү.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "9e0985edefff9edffb4a7e8361c2fdbfead6d1a1306d7c74515005a1fca730e5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-kings\/4\/29-32.1791208729499.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "אם",
+      "gloss": "энеси"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "баланын"
+    },
+    {
+      "surface": "חי",
+      "gloss": "тирүү"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "жана-тирүү"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "жаның"
+    },
+    {
+      "surface": "אם",
+      "gloss": "эгер"
+    },
+    {
+      "surface": "אעזבך",
+      "gloss": "таштабайм"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "турду"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "жөнөдү"
+    },
+    {
+      "surface": "אחריה",
+      "gloss": "артынан"
+    }
+  ],
+  "timestamp": "2026-10-05T13:58:49.500701574Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 102:10",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 102,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "чаңды нан катары жедим",
+      "rationale": "Аза тартуунун еврейче кебети — чаң жеген нандын ордуна; сөзмө-сөз берилди."
+    }
+  ],
+  "translation": "Себеби мен чаңды нан катары жедим, ичимдигимди ый менен аралаштырдым.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "0227110c390adaaa7c5e2a70efd5b076ef0c501814819534098c7735f020551f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/102\/9-12.1791216967671.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "себеби"
+    },
+    {
+      "surface": "אפר",
+      "gloss": "чаң"
+    },
+    {
+      "surface": "כלחם",
+      "gloss": "нан катары"
+    },
+    {
+      "surface": "אכלתי",
+      "gloss": "жедим"
+    },
+    {
+      "surface": "ושקוי",
+      "gloss": "ичимдигимди"
+    },
+    {
+      "surface": "בבכי",
+      "gloss": "ый менен"
+    },
+    {
+      "surface": "מסכתי",
+      "gloss": "аралаштырдым"
+    }
+  ],
+  "timestamp": "2026-10-05T16:16:07.672255938Z",
+  "model": "glm-5.3"
+}

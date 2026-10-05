@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 6:16",
+  "book": "2-kings",
+  "lang": "ky",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "rationale": "баш тартуу чечити кыргызча болочокто ′Коркпо′ деген бир этишке сиңди, өзүнчө берилген жок"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אשר אתנו \/ אשר אותם",
+      "rationale": "параллелдик кайталоо — ′биз менен болгондор \/ алар менен болгондор′ — салыштыруунун ритми сакталды"
+    },
+    {
+      "kind": "hapax",
+      "subject": "эскертүү жок",
+      "rationale": "бул аятта жалгыз жолу кезделген сөз жок"
+    }
+  ],
+  "translation": "Жана ал айтты: Коркпо, анткени ⟨את⟩ биз менен болгондор ⟨את⟩ алар менен болгондордон көп.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "2775878a3464848c4fc5401843fe1b0079065b603383107def58632c68221b2b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-kings\/6\/13-16.1791208762901.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Жана ал айтты"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...баш тарт"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "Коркпо"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "көп"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "болгондор ... болгондордон"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ биз менен"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "...дан"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ алар менен"
+    }
+  ],
+  "timestamp": "2026-10-05T13:59:22.902515532Z",
+  "model": "glm-5.3"
+}

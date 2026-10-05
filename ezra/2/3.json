@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezra 2:3",
+  "book": "ezra",
+  "lang": "ky",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨адам⟩",
+      "rationale": "сан ээлик кылуучу сөздү күтөт; еврей текстинде сандар гана"
+    },
+    {
+      "kind": "measurement",
+      "subject": "эки миң жүз жетимиш эки",
+      "rationale": "эсеп алуу тизмесинин бир жолу"
+    }
+  ],
+  "translation": "Пароштун балдары — эки миң жүз жетимиш эки ⟨адам⟩.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "1d8261177ae1dcaff49cc1a78966e3a70a46e37867299604353211b440640752",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ezra\/2\/2-3.1791224566891.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "балдары"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "Пароштун"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "эки миң"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "жүз"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "жетимиш"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "эки"
+    }
+  ],
+  "timestamp": "2026-10-05T18:22:46.892734852Z",
+  "model": "glm-5.3"
+}

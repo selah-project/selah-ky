@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 4:26",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨Ал⟩",
+      "rationale": "ивритте субъект жок; 'Ал' — Яхве же уул экени ачык эмес, кыйыр мааниде берилди"
+    },
+    {
+      "kind": "crux",
+      "subject": "וירף",
+      "rationale": "ким кимди койту берди: Яхве Мошени же Моше уулу — бул аяттагы эң белгилүү талаш маселе"
+    }
+  ],
+  "translation": "Жана ⟨Ал⟩ аны койду берди. Ошондо ал айтты: сүнөт үчүн кан күйөө.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "e014031325bbd993abce2beab89b9b4c59c4f0826779b63709dcc772c94b23b9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/4\/25-28.1791201906031.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירף",
+      "gloss": "койду берди"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "аны"
+    },
+    {
+      "surface": "אז",
+      "gloss": "ошондо"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "ал айтты"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "күйөө"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "кан"
+    },
+    {
+      "surface": "למולת",
+      "gloss": "сүнөт үчүн"
+    }
+  ],
+  "timestamp": "2026-10-05T12:05:06.032344121Z",
+  "model": "glm-5.3"
+}

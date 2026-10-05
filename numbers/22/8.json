@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 22:8",
+  "book": "numbers",
+  "lang": "ky",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יהוה",
+      "rationale": "Билам пайгамбар Яхвенин атын айтат — кийинки аятта Яхве ага келет; текст бул жерде Элохим эмес, Ысымды колдонот."
+    },
+    {
+      "kind": "elision",
+      "subject": "אתכם",
+      "rationale": "את + сілдер көптүк формасы — кыргыз тилинде бурулуш мүчөсүн көтөрөт, өзүнчө сөз катары чыкпайт."
+    }
+  ],
+  "translation": "Жана ал аларга айтты: Бул түнү бул жерде токтогула, мен силерге ⟨את⟩ жооп кайтарам, Яхве мага эмне десе; жана Моабдын башчылары Билам менен бирге калышты.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "e526de88defe184821d97ddc9d1f5356672183828ad86ad3a96217095dd131d9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/numbers\/22\/5-8.1791204131538.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "жана… айтты"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "аларга"
+    },
+    {
+      "surface": "לינו",
+      "gloss": "токтогула"
+    },
+    {
+      "surface": "פה",
+      "gloss": "бул жерде"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "бул түнү"
+    },
+    {
+      "surface": "והשבתי",
+      "gloss": "кайтарам"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "жоопту силерге"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "жооп"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "…са"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "десе… айткан"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "мага"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "калишты… бирге болушту"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "башчылары"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моабдын"
+    },
+    {
+      "surface": "עם",
+      "gloss": "менен"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Билам"
+    }
+  ],
+  "timestamp": "2026-10-05T12:42:11.540244677Z",
+  "model": "glm-5.3"
+}

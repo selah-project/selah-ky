@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 107,
+  "ref": "psalms 119:107",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "עד מאד",
+      "rationale": "эки сөз «абдан» деген бир күчтөндүргүчкө бирикти"
+    },
+    {
+      "kind": "you",
+      "subject": "Яхвеге",
+      "rationale": "тирикчилик сурап Яхвеге түз кайрылуу"
+    }
+  ],
+  "translation": "Абдан кыйналдым, о Яхве; Сөзүңө ылайык мени жандандыр.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "e4be5865587e246529232cae052f1e6369426b9193540936774286dfc547db87",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/119\/105-108.1791217330120.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נעניתי",
+      "gloss": "кыйналдым"
+    },
+    {
+      "surface": "עד",
+      "gloss": "абдан"
+    },
+    {
+      "surface": "мאד",
+      "gloss": "(күчтүүлүк)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "мени жандандыр"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "Сөзүңө ылайык"
+    }
+  ],
+  "timestamp": "2026-10-05T16:22:10.121434788Z",
+  "model": "glm-5.3"
+}

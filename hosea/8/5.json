@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 8:5",
+  "book": "hosea",
+  "lang": "ky",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "זנח (ташталды)",
+      "rationale": "Ким таштайт — Яхве буза турган торпокту таштады (KJV\/BSB), же торпок өзү Шомронду таштады (Geneva\/JPS); ивриттин этиши эки орунга да туура келет"
+    },
+    {
+      "kind": "crux",
+      "subject": "נקיון",
+      "rationale": "'Тазалык' же 'күнөөсүздүк' — котормочулар бөлүнөт"
+    },
+    {
+      "kind": "you",
+      "subject": "Шомронго",
+      "rationale": "Текст Шомронду түз кайрылат"
+    }
+  ],
+  "translation": "Ташталды торпогуң, эй Шомрон: менин каарым аларга жанган — качанга чейин алар тазалыкка жете алышпайт?",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "4a1bc1d98521bcab45a678ecebe74c1632eb79b3c6b554d344a64194bb829b0a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/hosea\/8\/5-8.1791214051366.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זנח",
+      "gloss": "ташталды"
+    },
+    {
+      "surface": "עגלך",
+      "gloss": "торпогуң"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Шомрон"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "жанган"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "каарым"
+    },
+    {
+      "surface": "בם",
+      "gloss": "аларга"
+    },
+    {
+      "surface": "עד",
+      "gloss": ""
+    },
+    {
+      "surface": "מתי",
+      "gloss": "качанга чейин"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "יוכלו",
+      "gloss": "жете алышпайт"
+    },
+    {
+      "surface": "נקין",
+      "gloss": "тазалык"
+    }
+  ],
+  "timestamp": "2026-10-05T15:27:31.367314303Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 128:3",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 128,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ירכתי ביתך",
+      "rationale": "«Үйдүн жамбаштары» — дене сөзү үй үчүн, кыргызча «ички бурчтары» кылды."
+    },
+    {
+      "kind": "substitution",
+      "subject": "שתלי זיתים",
+      "rationale": "Бул көчөттөр, отургузулган кичинекай саймалар — зайтун дарагынын тамырынан чыккан жаш өскүн."
+    }
+  ],
+  "translation": "Аялың үйүңдүн ички бурчтарында мөмө берген жүзүм талдай, уулдарың столуңдун тегерегинде зайтун көчөттөрдөй.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "d7566107d30fc2a0d4cee36675931758fde9a219fd50cc777995d4bd37a500fa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/128\/1-4.1791217431816.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשתך",
+      "gloss": "Аялың"
+    },
+    {
+      "surface": "כגפן",
+      "gloss": "жүзүм талдай"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "мөмө берген"
+    },
+    {
+      "surface": "בירכתי",
+      "gloss": "ички бурчтарында"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "үйүңдүн"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "уулдарың"
+    },
+    {
+      "surface": "כשתלי",
+      "gloss": "көчөттөрдөй"
+    },
+    {
+      "surface": "זיתים",
+      "gloss": "зайтун"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "тегерегинде"
+    },
+    {
+      "surface": "לשלחנך",
+      "gloss": "столуңдун"
+    }
+  ],
+  "timestamp": "2026-10-05T16:23:51.817635644Z",
+  "model": "glm-5.3"
+}

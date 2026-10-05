@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-chronicles 17:18",
+  "book": "2-chronicles",
+  "lang": "ky",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "анын колунда",
+      "rationale": "ивритче על ידו — «колунда» идиомасы, «жанында, ага баш ийген» дегенди түшүндүрөт"
+    },
+    {
+      "kind": "measurement",
+      "subject": "жүз жана сексен миң",
+      "rationale": "Йехозаваддын аскеринин саны"
+    }
+  ],
+  "translation": "Анын колунда — Йехозавад, анын менен жүз жана сексен миң согушка даярдалган адам.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "76d826484116622dbb00ad9c26b8d70c7f9ea3731f22c47cfecd0c944c703f8d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-chronicles\/17\/17-19.1791222861928.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "...га"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "кол"
+    },
+    {
+      "surface": "יהוזבד",
+      "gloss": "Йехозавад"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "анын менен"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "жүз"
+    },
+    {
+      "surface": "ושמונים",
+      "gloss": "жана сексен"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "миң"
+    },
+    {
+      "surface": "חלוצי",
+      "gloss": "даярдалган"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "согуш"
+    }
+  ],
+  "timestamp": "2026-10-05T17:54:21.928994320Z",
+  "model": "glm-5.3"
+}

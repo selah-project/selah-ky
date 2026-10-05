@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 5:32",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "бен хамеш меот шана",
+      "rationale": "Калька «беш жүз жылдын уулу» — кыргызча «беш жүз жашка чыкканда» деп берилди."
+    },
+    {
+      "kind": "measurement",
+      "subject": "500 жыл",
+      "rationale": "Нохтун үч уулун туугандагы жашы — санжыра формуласынын бир бөлүгү."
+    }
+  ],
+  "translation": "Жана Нох беш жүз жашка чыкканда, Нох ⟨את⟩ Шемди, ⟨את⟩ Хамды жана ⟨את⟩ Яфетти тууду.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "1223a48c70052746e9c64dfe334328a95b61ba388225394dd1badc7042731311",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/5\/29-32.1791200808603.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "болду"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Нох"
+    },
+    {
+      "surface": "בן",
+      "gloss": "улы"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "беш"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "жүз"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "жыл"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "тууду"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Нох"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Шемди"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Шем"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Хамды"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Хам"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "жана ⟨את⟩",
+      "marks": "Яфетти"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "Яфет"
+    }
+  ],
+  "timestamp": "2026-10-05T11:46:48.604992843Z",
+  "model": "glm-5.3"
+}

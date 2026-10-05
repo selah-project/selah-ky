@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "daniel 8:10",
+  "book": "daniel",
+  "lang": "ky",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨кээ бирлерин⟩",
+      "rationale": "Ивритте бөлүкчөсүз айтылган, бирок маани бөлүктүү — кошуундун баары эмес, бир бөлүгү кулатылды"
+    },
+    {
+      "kind": "mystery",
+      "subject": "жылдыздар",
+      "rationale": "Жылдыздар — көрүнүштүн символу (кошуун = эл), мааниси кийинки аяттарда ачылат"
+    }
+  ],
+  "translation": "Жана ал асмандын кошуунуна чейин чоңойду жана кошуундан жана жылдыздардан ⟨кээ бирлерин⟩ жерге кулатты да, аларды тепкиледи.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "376d211f1867062096337b7cbfcea7e76fc90344c2da29136bc265ad31e1cd16",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/daniel\/8\/9-12.1791220712198.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותגדל",
+      "gloss": "жана чоңойду"
+    },
+    {
+      "surface": "עד",
+      "gloss": "чейин"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "кошууну"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "асмандын"
+    },
+    {
+      "surface": "ותפל",
+      "gloss": "жана кулатты"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "жерге"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-дан"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "кошуундан"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "жана -дан"
+    },
+    {
+      "surface": "הכוכבים",
+      "gloss": "жылдыздардан"
+    },
+    {
+      "surface": "ותרמסם",
+      "gloss": "жана аларды тепкиледи"
+    }
+  ],
+  "timestamp": "2026-10-05T17:18:32.199648649Z",
+  "model": "glm-5.3"
+}

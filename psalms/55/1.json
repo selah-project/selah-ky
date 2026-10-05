@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 55:1",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 55,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "משכיל",
+      "rationale": "Масхил — ырдын түрүн белгилөөчү аталыш, «акыл тутум ыры» деп ачылды"
+    }
+  ],
+  "translation": "Башкаруучуга, кыл аспаптарда, акыл тутум ыры, Давидге.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "ab6c04bd53aeebb59181e135386ea4b27d8a3a55c0af490ef5368af0b2ea7bd6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/55\/1-4.1791216229518.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "башкаруучуга"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "кыл аспаптарда"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "акыл тутум ыры"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давидге"
+    }
+  ],
+  "timestamp": "2026-10-05T16:03:49.519368246Z",
+  "model": "glm-5.3"
+}

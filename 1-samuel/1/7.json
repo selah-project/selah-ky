@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 1:7",
+  "book": "1-samuel",
+  "lang": "ky",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "וכן ... כן",
+      "rationale": "«ошентип ... ошондой» кайрадан кайталоо — жылдан-жылга кайталануу стилистикасы"
+    },
+    {
+      "kind": "crux",
+      "subject": "ал",
+      "rationale": "жөнөкөй вав эр ат менен аял ат ортосунда эки окуу бар: «ал (Элкана) ошентти» (KJV) же «ал (Пенина) ошентти»"
+    }
+  ],
+  "translation": "Жана ал жыл сайын ошентчү: Яхвенин үйүнө барган сайын ошондой аны капалантчу; ошондуктан ал ыйлап, тамак ичпей койчу.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "8d53538950ae5ec51f8cf8c5467dfaae6f3e3dd5c38dbc6a6408594dca7ba8de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-samuel\/1\/5-8.1791206577963.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכן",
+      "gloss": "Жана ошентип"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ал ... кылчу"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "жыл"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "сайын"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "барган сайын"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "барчу"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "үйүнө"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ошондой"
+    },
+    {
+      "surface": "תכעסנה",
+      "gloss": "капалантчу"
+    },
+    {
+      "surface": "ותבכה",
+      "gloss": "ыйлап"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ичпей"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "тамак"
+    }
+  ],
+  "timestamp": "2026-10-05T13:22:57.963911645Z",
+  "model": "glm-5.3"
+}

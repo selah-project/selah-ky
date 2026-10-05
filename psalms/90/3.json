@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 90:3",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 90,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "תשב \/ שובו",
+      "rationale": "шув тамырында эки жолу — «каайтаруу» жана «кайрылуу», кыргызча «ууратуу\/кайрылуу» жакындатты"
+    },
+    {
+      "kind": "crux",
+      "subject": "דכא",
+      "rationale": "«чөккө топуракка» (KJV) же «кечиримдүүлүккө» (JPS) — дакка: талкандалган абал"
+    }
+  ],
+  "translation": "Сен өлгөн адамды талкаалап ууратасң, жана айтасң: «Кайрылгыла, адам балдары!»",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "793b4dff5a195143da8df587045aa4146363998a898bd36a7177264be70aa5d5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/90\/1-4.1791216874008.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תשב",
+      "gloss": "ууратасң"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "өлгөн адамды"
+    },
+    {
+      "surface": "עד",
+      "gloss": "—"
+    },
+    {
+      "surface": "דכא",
+      "gloss": "талкаалап"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "жана айтасң"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "Кайрылгыла"
+    },
+    {
+      "surface": "בני",
+      "gloss": "балдары"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "адам"
+    }
+  ],
+  "timestamp": "2026-10-05T16:14:34.009663299Z",
+  "model": "glm-5.3"
+}

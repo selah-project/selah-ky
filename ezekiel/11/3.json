@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 11:3",
+  "book": "ezekiel",
+  "lang": "ky",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "жакын эмес",
+      "rationale": "בקרוב лоцоо булагы анык эмес: 'убакыт жакын эмес' (KJV\/JPS) же 'шаар жакын эмес, коркунуч алыс' деген окурман."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "казан \/ эт",
+      "rationale": "Иерусалим казан, эл андагы эт — шаардын дубалы элди коргочу деген макал-лаҡап; Ишая 11:7 да бурулуп айтылат."
+    },
+    {
+      "kind": "mystery",
+      "subject": "казан жөнүндө лақап",
+      "rationale": "Билдин коомдук үнү жабык ишара катары айтылат, Йехезкел аны ачып берет."
+    }
+  ],
+  "translation": "Алар: «Жакын эмес, үй тургузолу; бул — казан, ал эми биз — эт», — дешет.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "519c33d5a2fc9ad3e49813bee7f46ff0b040b8ee6ad869621c56c8255613ef6d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ezekiel\/11\/1-4.1791212300663.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "האמרים",
+      "gloss": "дешет"
+    },
+    {
+      "surface": "לא",
+      "gloss": "эмес"
+    },
+    {
+      "surface": "בקרוב",
+      "gloss": "жакын"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "тургузолу"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "үй"
+    },
+    {
+      "surface": "היא",
+      "gloss": "бул"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "казан"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "ал эми биз"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "эт"
+    }
+  ],
+  "timestamp": "2026-10-05T14:58:20.664281619Z",
+  "model": "glm-5.3"
+}

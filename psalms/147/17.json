@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 147:17",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 147,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "כפתים",
+      "rationale": "Кыска сөз — «кесиндилер»: Танахта ушул жерде гана кездешет."
+    },
+    {
+      "kind": "crux",
+      "subject": "קרחו",
+      "rationale": "«Муз» же «мөөндөр»: көпчүлүк котормолор «муз», bsb «møндör» деп алат."
+    },
+    {
+      "kind": "invitation",
+      "subject": "ким турат?",
+      "rationale": "Риторикалык суроо — эч ким Яхвенин суугуна турбайт деген басым."
+    }
+  ],
+  "translation": "Муздун кесиндилерин ыргытат; Анын сууктугунун алдында ким турат?",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "4589482b212d111c5e480abc4637813234e773414154ac4a2f9cd7ae1bc7d3ab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/147\/17-20.1791217662878.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משליך",
+      "gloss": "ыргытат"
+    },
+    {
+      "surface": "קרחו",
+      "gloss": "муздун кесиндилерин"
+    },
+    {
+      "surface": "כפתים",
+      "gloss": "кесиндилер катары"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "алдында"
+    },
+    {
+      "surface": "קרתו",
+      "gloss": "Анын сууктугунун"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ким"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "турат"
+    }
+  ],
+  "timestamp": "2026-10-05T16:27:42.879603711Z",
+  "model": "glm-5.3"
+}

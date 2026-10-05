@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 11:10",
+  "book": "judges",
+  "lang": "ky",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "им לא כדברך כן נעשה",
+      "rationale": "KJV «if we do not so» (ант формасы) менен JPS «surely so will we do» (убада формасы) ортосундагы белгилүү талаш; эгерде...жок кылбасак формасын сактадым"
+    },
+    {
+      "kind": "substitution",
+      "subject": "кубарчуу\/күбө",
+      "rationale": "еврейче שמע — «угуучу»; «күбө» деген аталыш текстте жок, бирок маани ушул"
+    }
+  ],
+  "translation": "Жана Гиладдын карылдары Ифтахка айтты: Яхве биздин арабызда угуучу — эгерде сенин сөзүңдөй кылбасак. Ошондой кылабыз.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "c1cbff1d83a31e289fbdb0d55a46ebd363cb9d5aee62e2bca56cc949732406fa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/judges\/11\/9-12.1791206316205.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "жана айтты"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "карылдары"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Гиладдын"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...га"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Ифтах"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "болот"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "угуучу"
+    },
+    {
+      "surface": "בינותינו",
+      "gloss": "биздин арабызда"
+    },
+    {
+      "surface": "אם",
+      "gloss": "эгерде"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "сенин сөзүңдөй"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ошондой"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "кылабыз"
+    }
+  ],
+  "timestamp": "2026-10-05T13:18:36.207143144Z",
+  "model": "glm-5.3"
+}

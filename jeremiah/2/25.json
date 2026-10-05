@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 2:25",
+  "book": "jeremiah",
+  "lang": "ky",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נואש",
+      "rationale": "«Үмүт жок» же «Дарылабас» же «Бекер» — кармоолор ар түрдүү."
+    },
+    {
+      "kind": "substitution",
+      "subject": "זרים",
+      "rationale": "«Бөтөн кудайлар» — лексема «бөтөн адамдар» дейт, контекст кудайларды көрсөтөт."
+    },
+    {
+      "kind": "addition",
+      "subject": "болуудан",
+      "rationale": "מיחף «таптак» — этиш талап кылат, кошулду."
+    }
+  ],
+  "translation": "Таптак болуп калбасын деп бутуңду кармап, тамагыңды чөлкөмдөн сактагын; бирок сен: «Үмүт жок, ооба, мен бөтөн кудайларды сүйдүм жана алардын артынан барам» дедиң.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "a46dbd09477120d0c5a3dd09e42365c69585f78053b9469bb06eba927d6000cc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/jeremiah\/2\/25-28.1791210672609.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מנעי",
+      "gloss": "кармап"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "бутуңду"
+    },
+    {
+      "surface": "מיחף",
+      "gloss": "таптак болуудан"
+    },
+    {
+      "surface": "וגורנך",
+      "gloss": "жана тамагыңды"
+    },
+    {
+      "surface": "מצמאה",
+      "gloss": "чөлкөмдөн"
+    },
+    {
+      "surface": "ותאמרי",
+      "gloss": "бирок сен дедиң"
+    },
+    {
+      "surface": "נואש",
+      "gloss": "үмүт жок"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "мен сүйдүм"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "бөтөн кудайларды"
+    },
+    {
+      "surface": "ואחריהם",
+      "gloss": "жана алардын артынан"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "барам"
+    }
+  ],
+  "timestamp": "2026-10-05T14:31:12.609639089Z",
+  "model": "glm-5.3"
+}

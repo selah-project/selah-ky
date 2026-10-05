@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 26:2",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "צרופה",
+      "rationale": "'тазаланган' (бүткүл күйүүдөн кийин) же 'тазала' (буйрук): YLT 'Purified are' деп окуп, KJV\/ASV 'try' деп окуйт"
+    },
+    {
+      "kind": "substitution",
+      "subject": "бөйрөктөр",
+      "rationale": "כליות ичкі жан катары кабыл алынат, бирок сөз бойдон 'бөйрөк' бойдон калды"
+    }
+  ],
+  "translation": "Мени текшер, Яхве, жана мени сынап көр, бөйрөктөрүмдү жана жүрөгүмдү таза.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "c1625a3339a801d19092547c4881464665dc0a2dd25d9b8e187962f73e39d976",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/26\/1-4.1791215709824.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בחנני",
+      "gloss": "мени текшер"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ונסני",
+      "gloss": "мени сынап көр"
+    },
+    {
+      "surface": "צרופה",
+      "gloss": "таза"
+    },
+    {
+      "surface": "כליותי",
+      "gloss": "бөйрөктөрүмдү"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "жүрөгүмдү"
+    }
+  ],
+  "timestamp": "2026-10-05T15:55:09.824961933Z",
+  "model": "glm-5.3"
+}

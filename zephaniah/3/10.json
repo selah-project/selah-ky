@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zephaniah 3:10",
+  "book": "zephaniah",
+  "lang": "ky",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עתרי",
+      "rationale": "«сыйынуучуларым» (KJV «suppliants») же JPS «Менин минхам катары алып келет» — сөздүн ордогу милдети талаш."
+    },
+    {
+      "kind": "substitution",
+      "subject": "минха",
+      "rationale": "מנחתי — ысым катары «минха» деп сакталды, «белек» же «курмандык» деп которулган жок."
+    }
+  ],
+  "translation": "Куш дарыяларынын ары жагынан Менин сыйынуучуларым — чачылып кеткендеримдин кызы — Менин минхамды алып келет.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "347d5c9c62fbd7f714dec636ba516060211290c361390daea79dbe3de5fba12b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/zephaniah\/3\/9-12.1791214804092.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מעבר",
+      "gloss": "ары жагынан"
+    },
+    {
+      "surface": "לנהרי",
+      "gloss": "дарыяларынын"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Куш"
+    },
+    {
+      "surface": "עתרי",
+      "gloss": "сыйынуучуларым"
+    },
+    {
+      "surface": "בת",
+      "gloss": "кызы"
+    },
+    {
+      "surface": "פוצי",
+      "gloss": "чачылып кеткендеримдин"
+    },
+    {
+      "surface": "יובלון",
+      "gloss": "алып келет"
+    },
+    {
+      "surface": "מנחתי",
+      "gloss": "минхамды"
+    }
+  ],
+  "timestamp": "2026-10-05T15:40:04.093608485Z",
+  "model": "glm-5.3"
+}

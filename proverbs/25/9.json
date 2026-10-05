@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 25:9",
+  "book": "proverbs",
+  "lang": "ky",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "secret",
+      "subject": "סוד",
+      "rationale": "Бул аят жашыруун нерссе — сыр — буйрук берет: башка бирөөнүн сырын ачпоо."
+    },
+    {
+      "kind": "addition",
+      "subject": "бирөөнүн",
+      "rationale": "Ивритте אחר 'башка' гана; кыргызча так болушу үчүн 'бирөөнүн' кошулду."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ריבך ריב",
+      "rationale": "Тамырдын кайталанышы — 'даавуңду даавула' — кыргызча жоголот."
+    }
+  ],
+  "translation": "Өз ишиңди ⟨את⟩ достуң менен чеч, жана башка бирөөнүн сырын ачпа.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "87550aba326de330518724416d1edfa080be618560f325074fa51f86fa0615a3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/25\/9-12.1791218274650.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ריבך",
+      "gloss": "өз ишиңди"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "чеч"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "достуң"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "достуң"
+    },
+    {
+      "surface": "וסוד",
+      "gloss": "жана сырын"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "башка бирөөнүн"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ачпа"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "ачпа"
+    }
+  ],
+  "timestamp": "2026-10-05T16:37:54.651555021Z",
+  "model": "glm-5.3"
+}

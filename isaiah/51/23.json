@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 51:23",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жан",
+      "rationale": "נפש — жаны-жүрөк, 'кан' эмес; кыргызча 'жан' жакын"
+    },
+    {
+      "kind": "substitution",
+      "subject": "бел",
+      "rationale": "גו — булк\/бел, көп котормолор 'денее' деп жумшартышат"
+    },
+    {
+      "kind": "crux",
+      "subject": "вתשימי",
+      "rationale": "'сен кылгансың' (өткүн чак) же 'сага кылдырышты' — KJV 'жаңылышты' деп оӊдошот"
+    }
+  ],
+  "translation": "Жана Мен аны сени жапа чектиргендердин колуна коёмун — алар сенин жанга: «Чүнкөр, биз өтөлү» дешкен, жана сенин белиңди жер сыяктуу, өтүүчүлөргө көчө сыяктуу кылгансың.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "ea1cae1a9ab72cde94bab4ce7a9eb67e0c51f79dbbaddd37ba3a341b9bc30d92",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/51\/21-23.1791210352950.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמתיה",
+      "gloss": "жана Мен аны... коёмун"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "колуна"
+    },
+    {
+      "surface": "מוגיך",
+      "gloss": "сени жапа чектиргендердин"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "алар"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "дешкен"
+    },
+    {
+      "surface": "לנפשך",
+      "gloss": "сенин жанга"
+    },
+    {
+      "surface": "שחי",
+      "gloss": "чүнкөр"
+    },
+    {
+      "surface": "ונעברה",
+      "gloss": "жана биз өтөлү"
+    },
+    {
+      "surface": "ותשימי",
+      "gloss": "жана... кылгансың"
+    },
+    {
+      "surface": "כארץ",
+      "gloss": "жер сыяктуу"
+    },
+    {
+      "surface": "גוך",
+      "gloss": "сенин белиңди"
+    },
+    {
+      "surface": "וכחוץ",
+      "gloss": "жана көчө сыяктуу"
+    },
+    {
+      "surface": "לעברים",
+      "gloss": "өтүүчүлөргө"
+    }
+  ],
+  "timestamp": "2026-10-05T14:25:52.951501287Z",
+  "model": "glm-5.3"
+}

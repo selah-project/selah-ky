@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 31:5",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כתמל שלשם",
+      "rationale": "'кечээ жана мүчөөл' — идиома 'мурдагыдай, бурул жылдардагыдай' деген мааниде."
+    },
+    {
+      "kind": "elision",
+      "subject": "כי איננו אלי",
+      "rationale": "кыргызча 'ошондуктан ал мага мурдагыдай эмес' деп кыскартылды."
+    }
+  ],
+  "translation": "Жана ал аларга айтты: Мен силердин атаңардын ⟨את⟩ жүзүн көрүп жатам — ал мага мурдагыдай эмес; ошондуктан атамдын Элохими мени менен болду.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "a8ef18254506f884660cd184de405dd6ad96b0a006fff95c6ff97e76fbc040d6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/31\/5-8.1791201383535.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "жана айтты"
+    },
+    {
+      "surface": "להן",
+      "gloss": "аларга"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "көрүп жатам"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "мен"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "жүзүн"
+    },
+    {
+      "surface": "פני",
+      "gloss": "жүзүн"
+    },
+    {
+      "surface": "אביכן",
+      "gloss": "атаңардын"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ошондуктан"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "ал эмес"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "мага"
+    },
+    {
+      "surface": "כתמל",
+      "gloss": "кечээ"
+    },
+    {
+      "surface": "שלשם",
+      "gloss": "мүчөөлдөгүдөй"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "жана Элохими"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "атамдын"
+    },
+    {
+      "surface": "היה",
+      "gloss": "болду"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "мени менен"
+    }
+  ],
+  "timestamp": "2026-10-05T11:56:23.535798325Z",
+  "model": "glm-5.3"
+}

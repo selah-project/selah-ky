@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 1:4",
+  "book": "numbers",
+  "lang": "ky",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "איש איש… איש",
+      "rationale": "«Адам адам… адам» — эритилбес үч кайталоо, коомдук тактык билдирет"
+    },
+    {
+      "kind": "elision",
+      "subject": "הוא",
+      "rationale": "Эмфатикалык «ал» — «ошол адам өзү» деген басым, кыргызча «ал болсун» менен берилди"
+    }
+  ],
+  "translation": "Жана ⟨את⟩ силер менен бирге ар бир урудан бир адам, аталарынын үйүнө баш болгон ар бир adam — ал болсун.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "6644281be4303ce7a73fdb58cbdaf9eb2f36d97306ae9dd0814bfe6bad26ccf0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/numbers\/1\/1-4.1791203559121.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתכם",
+      "gloss": "жана ⟨את⟩ силер менен"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "болсун"
+    },
+    {
+      "surface": "איש",
+      "gloss": "адам"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ар бир"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "урудан"
+    },
+    {
+      "surface": "איש",
+      "gloss": "адам"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "баш"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "…үйүнө"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "аталарынын"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ал"
+    }
+  ],
+  "timestamp": "2026-10-05T12:32:39.122991397Z",
+  "model": "glm-5.3"
+}

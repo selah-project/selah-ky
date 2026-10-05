@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 11:1",
+  "book": "proverbs",
+  "lang": "ky",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Анын",
+      "rationale": "יהוה менен שלמה ортосунда ээлик мүчө жок, кыргызча талап кылат"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בא\/ויבא",
+      "rationale": "мурдагы эки этиштин кайталанышы — 2-аятта"
+    }
+  ],
+  "translation": "Ардактыз тараза Яхвеге жиреничтүү, ал эми толук таш — Анын жактыруусу.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "63d83c8e6d48e81c570f6aa8664cb0f6a93bb39b9ba2312fbfca03e5d2e79420",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/11\/1-4.1791217990234.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מאזני",
+      "gloss": "тараза"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "ардактыз"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "жиреничтүү"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвеге"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "ал эми таш"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "толук"
+    },
+    {
+      "surface": "רצונו",
+      "gloss": "Анын жактыруусу"
+    }
+  ],
+  "timestamp": "2026-10-05T16:33:10.235364563Z",
+  "model": "glm-5.3"
+}

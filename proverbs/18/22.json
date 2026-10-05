@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 18:22",
+  "book": "proverbs",
+  "lang": "ky",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "адам",
+      "rationale": "Hebrew participle 'finding' lacks an explicit subject; Kyrgyz requires it."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מצא ... מצא",
+      "rationale": "Repetition of 'found' binds woman and good tightly."
+    }
+  ],
+  "translation": "Аял тапкан ⟨адам⟩ жакшылык тапты жана Яхведен ыраазчылык алды.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "e4af18e36e0975735f481dfd132b2d83c359484072359cc04906a397d4e002ae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/18\/21-24.1791218160450.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מצא",
+      "gloss": "тапкан"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "аял"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "тапты"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "жакшылык"
+    },
+    {
+      "surface": "ויפק",
+      "gloss": "жана алды"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "ыраазчылык"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "Яхведен"
+    }
+  ],
+  "timestamp": "2026-10-05T16:36:00.451593510Z",
+  "model": "glm-5.3"
+}

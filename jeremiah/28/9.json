@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 28:9",
+  "book": "jeremiah",
+  "lang": "ky",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ал⟩",
+      "rationale": "Ивритте ‘ал’ деген көрсөтмө жок, кыргызча түшүнүктүү болушу үчүн кошулду"
+    },
+    {
+      "kind": "substitution",
+      "subject": "белгилүү болот",
+      "rationale": "יודע — ‘билүү\/таанылуу’; пассив мааниде берилди"
+    },
+    {
+      "kind": "crux",
+      "subject": "лшалом",
+      "rationale": "‘Тынчтык үчүн\/тынчтык жөнүндө’ — Ханания менен Йирмиянын талашынын өзөгү"
+    }
+  ],
+  "translation": "Пайгамбар, тынчтык жөнүндө пайгамбарлык кылса — пайгамбардын сөзү келгенде белгилүү болот ⟨ал⟩ пайгамбар, аны Яхве чындык менен жиберген.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "cc92d4f8c11316879be70ab7196a06c9f684551270e3c52148a27d0b6ca40e32",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/jeremiah\/28\/9-12.1791211353353.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנביא",
+      "gloss": "пайгамбар"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ал"
+    },
+    {
+      "surface": "ינבא",
+      "gloss": "пайгамбарлык кылса"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "тынчтык жөнүндө"
+    },
+    {
+      "surface": "בבא",
+      "gloss": "келгенде"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сөзү"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "пайгамбардын"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "белгилүү болот"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "пайгамбар"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ал"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "жиберген"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "чындык менен"
+    }
+  ],
+  "timestamp": "2026-10-05T14:42:33.354583771Z",
+  "model": "glm-5.3"
+}

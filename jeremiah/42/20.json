@@ -1,0 +1,141 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 42:20",
+  "book": "jeremiah",
+  "lang": "ky",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "негиз",
+      "rationale": "נפש 'жан' — көңүл\/жан маанисинде; 'жаныңар менен адаштыңар' — өзүңөргө каршы алдагансыңар."
+    },
+    {
+      "kind": "crux",
+      "subject": "התעתים",
+      "gloss-source": "",
+      "rationale": "'Адаштыңар' же 'өзүңөрдү алдагансыңар' — KJV 'dissembled' менен YLT 'perverse' ортосундагы айырма."
+    },
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "rationale": "Багыттоо предлогу 'Яхвеге' ийлик жөндөмөсүнө сиңип кетти."
+    }
+  ],
+  "translation": "анткени силер өз жаныңар менен адаштыңар; анткени силер мени ⟨את⟩ Яхве Элохимиңерге жибердиңер: «Биздин үчүн Яхве Элохимибизге сыйынып бергиле», деп; жана Яхве Элохимибиз эмне деген болсо, ошону бизге жарыяла, биз аткарабыз.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "38e2df4ed6d618a01eb482a9ba3f362d0ca0bfdba24f44c863bc47f512dad826",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/jeremiah\/42\/17-20.1791211820880.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "התעתים",
+      "gloss": "адаштыңар"
+    },
+    {
+      "surface": "בנפשותיכם",
+      "gloss": "жаныңар менен"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "силер"
+    },
+    {
+      "surface": "שלחתם",
+      "gloss": "жибердиңер"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "мени"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Элохимиңерге"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "деп"
+    },
+    {
+      "surface": "התפלל",
+      "gloss": "сыйынып бергиле"
+    },
+    {
+      "surface": "בעדנו",
+      "gloss": "биздин үчүн"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвеге"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Элохимибизге"
+    },
+    {
+      "surface": "וככל",
+      "gloss": "жана ... эмне"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "деген"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "айтса"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Элохимибиз"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ошону"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "жарыяла"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "бизге"
+    },
+    {
+      "surface": "ועשינו",
+      "gloss": "биз аткарабыз"
+    }
+  ],
+  "timestamp": "2026-10-05T14:50:20.882036975Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 2:1",
+  "book": "song-of-songs",
+  "lang": "ky",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חבצלת",
+      "rationale": "'Шарондун гүлү' кайсы гүл экени билинбейт: шафран, наргиз же жөн гүл — көп которулуштар 'роза' дейт, бирок бул так эмес"
+    },
+    {
+      "kind": "substitution",
+      "subject": "шоshанат",
+      "rationale": "лейли-гүл (ак гүл) — транслитерация сакталды"
+    }
+  ],
+  "translation": "Мен Шарондун хавацelet-гүлүмүн, өрөөндөрдүн лейли-гүлүмүн.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "a249487e7f0e977185b8543ab57c0aea4734d4a9d97a0b452287e0b1db5958a9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/song-of-songs\/2\/1-4.1791219542110.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Мен"
+    },
+    {
+      "surface": "חבצלת",
+      "gloss": "хавацelet-гүлүмүн"
+    },
+    {
+      "surface": "השרון",
+      "gloss": "Шарондун"
+    },
+    {
+      "surface": "шושנת",
+      "gloss": "лейли-гүлүмүн"
+    },
+    {
+      "surface": "העמקים",
+      "gloss": "өрөөндөрдүн"
+    }
+  ],
+  "timestamp": "2026-10-05T16:59:02.110700133Z",
+  "model": "glm-5.3"
+}

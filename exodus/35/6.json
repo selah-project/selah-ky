@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 35:6",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "תולעת שני",
+      "rationale": "Лит.: 'кызыл курт' (кошениль курт-кумурскасан алынган боёк) — кыргызча 'кызыл көк жип' деп берилди."
+    },
+    {
+      "kind": "elision",
+      "subject": "תולעת...שני",
+      "rationale": "'курт кызыл' деген эки сөз бир боёк затты билдирет — KJV 'scarlet'."
+    }
+  ],
+  "translation": "жана көк жип, жана пурпур, жана кызыл көк жип, жана назик кендир, жана эчки жүнү.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "56e13a07e667b611c03bcbd8f747283177c78426151be497987b1d486d02bf7e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/35\/5-8.1791202564163.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותכלת",
+      "gloss": "көк жип"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "пурпур"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "көк курт-кумурска"
+    },
+    {
+      "surface": "שני",
+      "gloss": "кызыл"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "назик кендир"
+    },
+    {
+      "surface": "ועזים",
+      "gloss": "эчки жүнү"
+    }
+  ],
+  "timestamp": "2026-10-05T12:16:04.164389488Z",
+  "model": "glm-5.3"
+}

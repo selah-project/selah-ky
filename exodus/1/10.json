@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 1:10",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ועלה מן הארץ",
+      "rationale": "'жерден чыгып кетсе' (Исраэл кетет) же 'жерди басып алса' — эски которуулар эки жолу түшүнүшөт"
+    },
+    {
+      "kind": "elision",
+      "subject": "כי",
+      "rationale": "байланыштыргыч кыргызча так бир сөзгө туура келбейт, эркин берилди"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Келгиле",
+      "rationale": "Фараон элин чакырып, бирге аракет кылууга үндөйт"
+    }
+  ],
+  "translation": "Келгиле, ага карата акылдуу аракет кылалы, мүмкүн ал көбөйүп кетсе, согуш болгон күнү ал биздин жек көргөндөрүбүзгө кошулуп, бизге каршы согушса жана жерден чыгып кетсе ⟨деп коюлу⟩.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "1777181d08a5f2f08fe98eeffcc2c9858f50b97451757d10d76d1d9b4be10f5e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/1\/9-12.1791201841842.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הבה",
+      "gloss": "Келгиле"
+    },
+    {
+      "surface": "נתחכמה",
+      "gloss": "акылдуу аракет кылалы"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ага карата"
+    },
+    {
+      "surface": "פן",
+      "gloss": "мүмкүн ... кетсе"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "көбөйүп"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "жана болгон күнү"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "תקראנה",
+      "gloss": "согуш болгон"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "согуш"
+    },
+    {
+      "surface": "ונוסף",
+      "gloss": "кошулуп"
+    },
+    {
+      "surface": "גם",
+      "gloss": "да"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ал"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "שנאינו",
+      "gloss": "жек көргөндөрүбүзгө"
+    },
+    {
+      "surface": "ונלחם",
+      "gloss": "согушса"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "бизге каршы"
+    },
+    {
+      "surface": "ועלה",
+      "gloss": "жана чыгып кетсе"
+    },
+    {
+      "surface": "מן",
+      "gloss": "жерден"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "жердин"
+    }
+  ],
+  "timestamp": "2026-10-05T12:04:01.842906526Z",
+  "model": "glm-5.3"
+}

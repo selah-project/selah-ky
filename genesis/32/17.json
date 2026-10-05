@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 32:17",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "аларды",
+      "rationale": "Байлыкты көрсөтүүчү аталыш еврей текстинде жок, «ал берди» дегендин толук сүйлөм болушу үчүн кошулду"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עדר...עדר",
+      "rationale": "«Үйүр үйүр» деген кайталоо — ар бир үйүр өзүнчө экенин баса белгилөө, кыргызча да сакталды"
+    }
+  ],
+  "translation": "Жана ал ⟨аларды⟩ кулдарынын колуна берди, ар бир үйүр өзүнчө, жана кулдарына айтты: Менден мурда өткүлө, жана үйүр менен үйүрдүн ортосуна аралык калтыргыла.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "79edcad35057553816503c58d1b286b30287f3acf5228cdb8e1a3095b010f1e3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/32\/17-20.1791201414230.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "берди"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "колуна"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "кулдарынын"
+    },
+    {
+      "surface": "עדר",
+      "gloss": "үйүр"
+    },
+    {
+      "surface": "עדר",
+      "gloss": "үйүр"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "өзүнчө"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "жана айтты"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-га"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "кулдарына"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "өткүлө"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "мурда"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "жана аралык"
+    },
+    {
+      "surface": "תשימו",
+      "gloss": "калтыргыла"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ортосуна"
+    },
+    {
+      "surface": "עדר",
+      "gloss": "үйүр"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "жана ортосуна"
+    },
+    {
+      "surface": "עדר",
+      "gloss": "үйүр"
+    }
+  ],
+  "timestamp": "2026-10-05T11:56:54.230788574Z",
+  "model": "glm-5.3"
+}

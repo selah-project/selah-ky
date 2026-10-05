@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 11:9",
+  "book": "1-kings",
+  "lang": "ky",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "болгон",
+      "rationale": "Кыргызча байланыштык байламча; еврейче жок"
+    },
+    {
+      "kind": "substitution",
+      "subject": "эки жолу",
+      "rationale": "פעמים — саноо менен «жолу», көптүк сан мааниде «эки» берилди"
+    }
+  ],
+  "translation": "Яхве Шломого каардады, анткени анын жүрөгү Йисраэлдин Элохими болгон — ага эки жолу көрүнгөн Яхведен четтеп кетти.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "cbbaa254da38dde57fdbe0764f7cd7ed41105a68d24dddb63df3f28ab3342a84",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-kings\/11\/9-12.1791208272231.json",
+    "code": "641241cf-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתאנף",
+      "gloss": "каардады"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "בשלמה",
+      "gloss": "Шломого"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "четтеп кетти"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "анын жүрөгү"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "…дан"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхведен"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Элохими"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэлдин"
+    },
+    {
+      "surface": "הנראה",
+      "gloss": "көрүнгөн"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ага"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "эки жолу"
+    }
+  ],
+  "timestamp": "2026-10-05T13:51:12.231794169Z",
+  "model": "glm-5.3"
+}

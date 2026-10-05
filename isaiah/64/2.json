@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 64:2",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 64,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "биз",
+      "rationale": "негизин күтүүчүлөр — биз деп ачык айтылды"
+    },
+    {
+      "kind": "crux",
+      "subject": "ירדת",
+      "rationale": "иврит бөлүгү KJV'де 'come down' — кыргызча 'түштүң' буйрук формасында берилди"
+    }
+  ],
+  "translation": "Сен коркунучтуу иштерди жасаганыңда биз күткөн эмеспиз; Сенин жүзүңдөн тоолор эрип төгүлдү.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "fe4dfc82da3d97c8f4d128d680314a8745bc027acab1784efe46624721794721",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/64\/1-4.1791210535007.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בעשותך",
+      "gloss": "жасаганыңда"
+    },
+    {
+      "surface": "נוראות",
+      "gloss": "коркунучтуу иштерди"
+    },
+    {
+      "surface": "לא",
+      "gloss": "эмес"
+    },
+    {
+      "surface": "נקוה",
+      "gloss": "күткөн"
+    },
+    {
+      "surface": "ירדת",
+      "gloss": "⟨түштүң⟩"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "Сенин жүзүңдөн"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "тоолор"
+    },
+    {
+      "surface": "נזלו",
+      "gloss": "эрип төгүлдү"
+    }
+  ],
+  "timestamp": "2026-10-05T14:28:55.008610209Z",
+  "model": "glm-5.3"
+}

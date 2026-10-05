@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 5:2",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "זכר ונקבה",
+      "rationale": "Эттик заттын ордун билдирген «кылып» кошулду, еврейче буга чейин 1:27 де гана «жаратты» айтылат"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אדם",
+      "rationale": "«Адам» деген ат эркек менен аялдын экөөнө тең берилген — түр (адамзат) жана жеке ысым бир сөз"
+    }
+  ],
+  "translation": "Эркек жана аял кылып аларды жаратты, аларды баталады жана алардын атын алар жаратылган күнү «Адам» деп атады.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "15f53f05ed9dc5c8e575f47e8c45e4cc2dae8a8e6b6ae293393699da45f61565",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/5\/1-4.1791200777039.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Эркек"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "аял"
+    },
+    {
+      "surface": "בראם",
+      "gloss": "аларды жаратты"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "баталады"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "аларды"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "атады"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "алардын атын"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "алардын атын"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Адам"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "күнү"
+    },
+    {
+      "surface": "הבראם",
+      "gloss": "алар жаратылган"
+    }
+  ],
+  "timestamp": "2026-10-05T11:46:17.040930863Z",
+  "model": "glm-5.3"
+}

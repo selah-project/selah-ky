@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 81:4",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 81,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בכסה",
+      "rationale": "«кесэ» — толук ай (ASV\/JPS) же «белгиленген убак» (KJV); биз толук айды алдык"
+    },
+    {
+      "kind": "measurement",
+      "subject": "жаңы ай · толук ай",
+      "rationale": "ай боюнча убакыт белгилөө — майрамдын датасы өлчөнүп жатат"
+    }
+  ],
+  "translation": "Үйлөгүлө шофарды жаңы айда, толук айда — биздин майрамыбыздын күнүнө.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "cd0f650e23c0db414c148f8d4406897a2281ba63dbbb781de164fc5fe0c85eb6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/81\/1-4.1791216666400.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תקעו",
+      "gloss": "үйлөгүлө"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "жаңы айда"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "шофарды"
+    },
+    {
+      "surface": "בכסה",
+      "gloss": "толук айда"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "күнүнө"
+    },
+    {
+      "surface": "חגנו",
+      "gloss": "биздин майрамыбыздын"
+    }
+  ],
+  "timestamp": "2026-10-05T16:11:06.401384193Z",
+  "model": "glm-5.3"
+}

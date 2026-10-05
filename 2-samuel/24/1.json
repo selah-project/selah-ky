@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 24:1",
+  "book": "2-samuel",
+  "lang": "ky",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ויסת",
+      "rationale": "Ким козгогону ачык эмес: Яхве өзү (KJV, JPS) же «тескери каршы» (YST: сотан) — ивриттин субъектиз конструкциясы."
+    },
+    {
+      "kind": "measurement",
+      "subject": "санап чык",
+      "rationale": "Элди санап чыгуу буйругу — өлчөө\/эсептоо аятынын башталышы."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ал⟩",
+      "rationale": "Ивриттин субъектиз конструкциясы кыргызча үчүн жуптук аталууну талап кылат."
+    }
+  ],
+  "translation": "Жана Яхвенин каары Йисраэлге дагы тутанып, ⟨ал⟩ ⟨את⟩ Давидти аларга каршы козгоду, мындай деп: Бар, ⟨את⟩ Йисраэлди жана ⟨את⟩ Йеуданы санап чык.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "f4111468f13fb10dfd6227c011b60d6c70e7e977581a6a2d23579809c0621d6a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-samuel\/24\/1-4.1791207926204.json",
+    "code": "641241cf-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "дагы"
+    },
+    {
+      "surface": "אף",
+      "gloss": "каар"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    },
+    {
+      "surface": "לחרות",
+      "gloss": "тутанып"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Йисраэлге"
+    },
+    {
+      "surface": "ויסת",
+      "gloss": "козгоду"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Давидти"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давидти"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "аларга"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "мындай деп"
+    },
+    {
+      "surface": "לך",
+      "gloss": "бар"
+    },
+    {
+      "surface": "מנה",
+      "gloss": "санап чык"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Йисраэлди"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэлди"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "жана ⟨את⟩",
+      "marks": "Йеуданы"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Йеуданы"
+    }
+  ],
+  "timestamp": "2026-10-05T13:45:26.205289544Z",
+  "model": "glm-5.3"
+}

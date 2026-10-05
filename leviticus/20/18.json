@@ -1,0 +1,122 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 20:18",
+  "book": "leviticus",
+  "lang": "ky",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "מקור",
+      "rationale": "Макор «казылган булак, көз» деген сөз — биз «булак-көз» деп сөздүн формасын сактадык."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ал да ... ачкан⟩",
+      "rationale": "Аял тараптагы аракет еврейчеде бар, бирок кыргызча тактык үчүн «да» байланыштыргычы кошулду."
+    }
+  ],
+  "translation": "Жана эркек, ал оорулуу (етүүсү келген) аял ⟨את⟩ менен жатса жана анын жылаңайлактыгын ачса — ⟨את⟩ анын булак-көзүн жалаңайткан, ал да ⟨את⟩ өз канынын булак-көзүн ачкан, экөө тең өз элинин ичинен кесилип ташталышат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "ca4f30609c0b26fddcbf572c0d5eb19d333ac8199141c1c3a2beef9eadc4db52",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/20\/17-20.1791203362633.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "жана эркек"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ал"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "жатса"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ менен",
+      "marks": "аял"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "аял"
+    },
+    {
+      "surface": "דוה",
+      "gloss": "оорулуу (етүүсү келген)"
+    },
+    {
+      "surface": "וגלה",
+      "gloss": "жана ачса"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "анын жылаңайлактыгын"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "жылаңайлактыгын"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "булак-көзүн"
+    },
+    {
+      "surface": "מקרה",
+      "gloss": "булак-көзүн"
+    },
+    {
+      "surface": "הערה",
+      "gloss": "жалаңайткан"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "жана ал"
+    },
+    {
+      "surface": "גלתה",
+      "gloss": "ачкан"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "булак-көзүн"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "булак-көзүн"
+    },
+    {
+      "surface": "דמיה",
+      "gloss": "өз канынын"
+    },
+    {
+      "surface": "ונכרתו",
+      "gloss": "кесилип ташталышат"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "экөө тең"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "ичинен"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "өз элинин"
+    }
+  ],
+  "timestamp": "2026-10-05T12:29:22.634269882Z",
+  "model": "glm-5.3"
+}

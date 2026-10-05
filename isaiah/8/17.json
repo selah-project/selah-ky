@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 8:17",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Өз",
+      "rationale": "Еврейче «жүзүн» дейт, ээлик мамилени тактоо үчүн кошулду"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "וחכיתי \/ וקויתי",
+      "rationale": "«күтүү» деген эки тамырдын кайталоосу — риторикалык чыңалуу"
+    }
+  ],
+  "translation": "Жана мен Яхвени күтөм, Ал Яковдун үйүнөн ⟨Өз⟩ жүзүн жашырган, жана мен Аны күтөм.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "e832904571fae8121561e3eba20d8ef95608fe040f17ce25c89e5ae9e27d3d58",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/8\/17-20.1791209446132.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וחכיתי",
+      "gloss": "жана мен күтөм"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхвеге"
+    },
+    {
+      "surface": "המסתיר",
+      "gloss": "жашырган"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "жүзүн"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "үйүнөн"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаковдун"
+    },
+    {
+      "surface": "וקויתי",
+      "gloss": "жана мен күтөм"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Аны"
+    }
+  ],
+  "timestamp": "2026-10-05T14:10:46.132936675Z",
+  "model": "glm-5.3"
+}

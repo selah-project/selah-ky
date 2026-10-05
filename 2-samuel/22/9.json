@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 22:9",
+  "book": "2-samuel",
+  "lang": "ky",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "мурун",
+      "rationale": "באפו literally 'his nose\/nostrils', anger image kept as body part"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אף\/עשן",
+      "rationale": "smoke rising in nostrils is Hebrew anger idiom, literal rendering keeps the picture"
+    }
+  ],
+  "translation": "Анын мурунунан түтүн көтөрүлдү, жана оозунан от жеген; көмүрлөр андан жанып турду.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "2d2055575024d8bb9d1a1a58cb2d83932b3cef48726996509ea76b647183b822",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-samuel\/22\/9-12.1791207754388.json",
+    "code": "641241cf-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "көтөрүлдү"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "түтүн"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "анын мурунунан"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "жана от"
+    },
+    {
+      "surface": "מפיו",
+      "gloss": "оозунан"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "жеген"
+    },
+    {
+      "surface": "גחלים",
+      "gloss": "көмүрлөр"
+    },
+    {
+      "surface": "בערו",
+      "gloss": "жанып турду"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "андан"
+    }
+  ],
+  "timestamp": "2026-10-05T13:42:34.389211494Z",
+  "model": "glm-5.3"
+}

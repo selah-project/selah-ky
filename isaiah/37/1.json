@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 37:1",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "ויהי",
+      "rationale": "Байыркы «болду» ачылышы кыргызча «-ганда» конструкциясына сиңип кетти."
+    },
+    {
+      "kind": "substitution",
+      "subject": "башталышы",
+      "rationale": "כשמע «укканда» — кыргызча ээлик конструкция падыша алдына коюлду."
+    }
+  ],
+  "translation": "Падыша Хизкияу укканда, ал ⟨את⟩ өз кийимдерин жыртып, кебиз кийимине оролуп, Яхвенин үйүнө кирди.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "c277cb691ab7ccc37785eab5586daca52b1f82a68be47f2aca3ab0adcd8d9f12",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/37\/1-4.1791210097847.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "болду"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "укканда"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "падыша"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Хизкияу"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "жыртып"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "кийимдерин"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "кийимдерин"
+    },
+    {
+      "surface": "ויתכס",
+      "gloss": "оролуп"
+    },
+    {
+      "surface": "בשק",
+      "gloss": "кебиз кийимине"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "кирди"
+    },
+    {
+      "surface": "בית",
+      "gloss": "үйүнө"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    }
+  ],
+  "timestamp": "2026-10-05T14:21:37.847675032Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 21:18",
+  "book": "proverbs",
+  "lang": "ky",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": " ⟨байкоо⟩",
+      "rationale": "Идиштик түзүлүш кыргызча түшүндүрүүнү талап кылат"
+    },
+    {
+      "kind": "crux",
+      "subject": "כפר",
+      "rationale": "'төлөм\/кун' — ЖХВ 'ransom', ЯЛТ 'atonement' дейт; форма кыргызча 'төлөм' деп алынды"
+    }
+  ],
+  "translation": "Адилеттүүнүн төлөмү — жаман адам, жана түз жүргөндөрдүн ордуна — чыккынчы.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "00ec8059659f6647b954235f0a8e886bcb31701761039b161e0ae23e2dde182e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/21\/17-20.1791218226461.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כפר",
+      "gloss": "төлөм"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "адилеттүүнүн"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "жаман адам"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "жана ордуна"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "түз жүргөндөрдүн"
+    },
+    {
+      "surface": "בוגד",
+      "gloss": "чыккынчы"
+    }
+  ],
+  "timestamp": "2026-10-05T16:37:06.462277748Z",
+  "model": "glm-5.3"
+}

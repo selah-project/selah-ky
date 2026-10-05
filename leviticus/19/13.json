@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 19:13",
+  "book": "leviticus",
+  "lang": "ky",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "עד בקר",
+      "rationale": "лит. «таңга чейин» — жалданган акы күн батканда төлөнүшү керек деген мааниде"
+    },
+    {
+      "kind": "elision",
+      "subject": "ולא",
+      "rationale": "«жана» байламтасы ошол жерде киргизилген, терс маани «тоноба» этиштин өзүндө"
+    }
+  ],
+  "translation": "Жакыныңды басынба, жана тоноба; жалданган жумушчунун эмгек акысы таңга чейин сенин жаныңда түнөбөөсү.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "0a7e723a21e15a976512eebd512f16781d6869e8b95bf9fd8821088a8d87f9c9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/19\/13-16.1791203286306.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ба"
+    },
+    {
+      "surface": "תעשק",
+      "gloss": "басынба"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "жакыныңды"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "жакының"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "жана"
+    },
+    {
+      "surface": "תגזל",
+      "gloss": "тоноба"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ба"
+    },
+    {
+      "surface": "תלין",
+      "gloss": "түнөбөөсү"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "эмгек акысы"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "жалданган жумушчунун"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "сенин жаныңда ⟨את⟩"
+    },
+    {
+      "surface": "עד",
+      "gloss": "чейин"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "таңга"
+    }
+  ],
+  "timestamp": "2026-10-05T12:28:06.307558730Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 16:2",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "טובתי בל עליך",
+      "rationale": "«Менин жакшылыгым Сенден тышкары эмес\/жок» — KJV «Сага жетпейт», JPS «Сенден башка жакшылыгым жок» дейт."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨мо⟩",
+      "rationale": "Еврейче «Адонай, Сен» деп токтотот; кыргызча ээлик мүчө талап кылат."
+    }
+  ],
+  "translation": "Яхвеге айттым: Адонай, Сен ⟨мо⟩; менин жакшылыгым ⟨Сенден⟩ тышкары жок.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "dac7418744feaab5a3e0868637f42acc9b8efebf12029a003f62e88da584ce76",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/16\/1-4.1791215451751.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמרת",
+      "gloss": "айттым"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхвеге"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Сен"
+    },
+    {
+      "surface": "טובתי",
+      "gloss": "менин жакшылыгым"
+    },
+    {
+      "surface": "בל",
+      "gloss": "жок"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "Сенден тышкары"
+    }
+  ],
+  "timestamp": "2026-10-05T15:50:51.752533770Z",
+  "model": "glm-5.3"
+}

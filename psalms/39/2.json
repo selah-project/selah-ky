@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 39:2",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אשמרה…אשמרה",
+      "rationale": "Эки жолу кайталанган «сактайын» — Давидтин чечиминин бекемдигин билдирет."
+    },
+    {
+      "kind": "substitution",
+      "subject": "битем",
+      "rationale": "מחסום — малга тагылган ооздук (муззл); кыргызча «битем» эң жакын сүрөт."
+    }
+  ],
+  "translation": "Мен айттым: Жолдорумду сактайын, тилим менен күнөө кылбайын; ого берер жаман адам менин алдымда турганда оозума битем салып сактайын.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "7c2ab32a375ff9e54959f3239a0df1553b2b559a7759a3e1daabf1d04a1ed9fc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/39\/1-4.1791215982676.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "мен айттым"
+    },
+    {
+      "surface": "אשמרה",
+      "gloss": "сактайын"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "жолдорумду"
+    },
+    {
+      "surface": "מחטוא",
+      "gloss": "күнөө кылбайын"
+    },
+    {
+      "surface": "בלשוני",
+      "gloss": "тилим менен"
+    },
+    {
+      "surface": "אשמרה",
+      "gloss": "сактайын"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "оозума"
+    },
+    {
+      "surface": "מחסום",
+      "gloss": "битем"
+    },
+    {
+      "surface": "בעוד",
+      "gloss": "ого берер"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "жаман адам"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "алдымда турганда"
+    }
+  ],
+  "timestamp": "2026-10-05T15:59:42.677385928Z",
+  "model": "glm-5.3"
+}

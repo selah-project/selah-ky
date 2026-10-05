@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 2:15",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "жайгаштырды",
+      "rationale": "ולשמרה… וינחהו 'жайгаштырды' же 'тынчтыкка койду' (YLT 'causeth him to rest'); контекст 'жайгаштыруу'ну колдойт"
+    },
+    {
+      "kind": "you",
+      "subject": "адам",
+      "rationale": "Адам түз алынган жана багга коюлган — буюрук в. 16 дагы ага айтылат"
+    }
+  ],
+  "translation": "Яхве Элохим ⟨את⟩ адамды алды жана аны Эден багына багып, аны иштетүү жана сактоо үчүн жайгаштырды.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "14f0223bd1b8e83407ebe79d114a0b4fa0171a216471f3943887d0585327e69a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/2\/13-16.1791200730502.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "алды"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "адамды"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "адам"
+    },
+    {
+      "surface": "וינחהו",
+      "gloss": "жайгаштырды аны"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "багына"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Эден"
+    },
+    {
+      "surface": "לעבדה",
+      "gloss": "аны иштетүү үчүн"
+    },
+    {
+      "surface": "ולשמרה",
+      "gloss": "жана аны сактоо үчүн"
+    }
+  ],
+  "timestamp": "2026-10-05T11:45:30.503848674Z",
+  "model": "glm-5.3"
+}

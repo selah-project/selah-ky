@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 24:25",
+  "book": "job",
+  "lang": "ky",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אפו",
+      "rationale": "'азыр' же бөлүк сөз катары; KJV\/ASV 'now' деп алат, башкалар таштайты"
+    },
+    {
+      "kind": "hapax",
+      "subject": "לאל",
+      "rationale": "леумлер сөз (эч нерсеге арзабас) катары Танахта жалгыз ушул жерде колдонулат"
+    },
+    {
+      "kind": "invitation",
+      "subject": "读者ге карата",
+      "rationale": "Иов суроо коюп, аны сөзүн жокко чыгуучуга чакырат — даават卡аных的对挑战"
+    }
+  ],
+  "translation": "Ал эми мындай болбосо, мени жалганчы кылуучу ким бар, жана сөзүмдү эч нерсеге арзабас кылат?",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "8c50f1f8aceb5a6bf32e9dd076b7ea52334dd00ec0a98e2e1db93982625cf79b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/job\/24\/25-25.1791219070430.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ал эми ... болбосо"
+    },
+    {
+      "surface": "לא",
+      "gloss": "болбосо"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "азыр"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ким"
+    },
+    {
+      "surface": "יכזיבני",
+      "gloss": "мени жалганчы кылуучу"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "жана кылат"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "эч нерсеге арзабас"
+    },
+    {
+      "surface": "מלתי",
+      "gloss": "сөзүмдү"
+    }
+  ],
+  "timestamp": "2026-10-05T16:51:10.431258145Z",
+  "model": "glm-5.3"
+}

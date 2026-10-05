@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 10:3",
+  "book": "1-chronicles",
+  "lang": "ky",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ויחל",
+      "rationale": "KJV 'жарадар болду' vs ASV\/JPS 'кыйналды\/толгоо бошоду' — тамыр חול 'буралуу' же חלל 'тешилүү' деген эки окуу бар"
+    },
+    {
+      "kind": "hapax",
+      "subject": "המורים",
+      "rationale": "жаа атуучулар деген бул форма Танахта ушул жерде гана кездешет"
+    }
+  ],
+  "translation": "Согуш Шаулга оор болуп калды, жаа атуучулар аны жаа менен таап, ал атуучулардан жарадар болду.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "5af08338117be119e983160416ce7a695d5be80c90fbcc42497ccfa5951866f7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-chronicles\/10\/1-4.1791222038248.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותכבד",
+      "gloss": "оор болуп калды"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "согуш"
+    },
+    {
+      "surface": "על",
+      "gloss": "…каршы"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаулга"
+    },
+    {
+      "surface": "וימצאהו",
+      "gloss": "аны таап"
+    },
+    {
+      "surface": "המורים",
+      "gloss": "жаа атуучулар"
+    },
+    {
+      "surface": "בקשת",
+      "gloss": "жаа менен"
+    },
+    {
+      "surface": "ויחל",
+      "gloss": "жарадар болду"
+    },
+    {
+      "surface": "מן",
+      "gloss": "…дан"
+    },
+    {
+      "surface": "היורים",
+      "gloss": "атуучулардан"
+    }
+  ],
+  "timestamp": "2026-10-05T17:40:38.249970438Z",
+  "model": "glm-5.3"
+}

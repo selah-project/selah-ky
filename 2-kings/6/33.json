@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-kings 6:33",
+  "book": "2-kings",
+  "lang": "ky",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "кезинде",
+      "rationale": "עודנו...מדבר — аракеттин учурун кыргызча атоо үчүн кошулду"
+    },
+    {
+      "kind": "elision",
+      "subject": "מאת",
+      "rationale": "מֵאֵת — 'анын тарабынан' деген жакындык предлогу; ⟨את⟩ белгиси менен сакталды"
+    },
+    {
+      "kind": "crux",
+      "subject": "эмнеге күтөйүн",
+      "rationale": "מה אוחיל — 'эмнени күтөйүн?' же 'эмнеге күтөйүн?' деген эки окуу бар"
+    },
+    {
+      "kind": "substitution",
+      "subject": "элчи",
+      "rationale": "המלאך — бул жерде периште эмес, падышанын жөнөткөн адамы"
+    }
+  ],
+  "translation": "Ал алар менен сүйлөшүп жаткан кезинде, мына, элчи ага түшүп келди жана айтты: Мына, бул жамандык Яхвенин тарабынан ⟨את⟩; Яхвени дагы эмнеге күтөйүн?",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "5f160898a5af93b0bf3f15b7794a5834234bf79a6d19745fcdb34e22388d8fff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-kings\/6\/33-33.1791208677626.json",
+    "code": "641241cf-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עודנו",
+      "gloss": "алы"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "сүйлөшүп жаткан"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "алар менен"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "жана мына"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "элчи"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "түшүп келди"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ага"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "жана айтты"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "мына"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "бул"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "жамандык"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "Яхвенин тарабынан"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "מה",
+      "gloss": "эмнеге"
+    },
+    {
+      "surface": "אוחיל",
+      "gloss": "күтөйүн"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхвени"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "дагы"
+    }
+  ],
+  "timestamp": "2026-10-05T13:57:57.627263944Z",
+  "model": "glm-5.3"
+}

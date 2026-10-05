@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 17:10",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "rationale": "«эмне» байланыштык сөзү кыргызча тиешелүү түрдө «мына бул:» конструкциясында ичкерип калды."
+    },
+    {
+      "kind": "substitution",
+      "subject": "המול",
+      "rationale": "«кыска кесүү» — сүннөт этиши; кыргызча салттуу дини термин «сүннөт» колдонулду."
+    },
+    {
+      "kind": "you",
+      "subject": "Аврахамга",
+      "rationale": "Келишимдин шарттары түз сүйлөм аркылуу берилип жатат."
+    }
+  ],
+  "translation": "Менин келишимим — мына бул: мени менен силердин, сенин үрөнүңдүн сенден кийин ортосунда сактайсыңар: ар бир эркек силерге сүннөт кылынсын.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "830bf8de48cd4b90be25c13d566580a155d0cba7b29fc22b571c328057bde33b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/17\/9-12.1791200986512.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "мына бул"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "келишимим"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "сактайсыңар"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "менин"
+    },
+    {
+      "surface": "וביניכם",
+      "gloss": "менен силердин ортосунда"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "жана … ортосунда"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "сенин үрөнүңдүн"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "сенден кийин"
+    },
+    {
+      "surface": "המול",
+      "gloss": "сүннөт кылынсын"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "силерге"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ар бир"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "эркек"
+    }
+  ],
+  "timestamp": "2026-10-05T11:49:46.513119504Z",
+  "model": "glm-5.3"
+}

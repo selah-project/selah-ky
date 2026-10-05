@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 46:8",
+  "book": "ezekiel",
+  "lang": "ky",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "башчы",
+      "rationale": "הנשיא — 'көтөрүлгөн', эл башчысы; башка жерде падыша титулу эмес, бул китептеги өзгөчө кызмат."
+    },
+    {
+      "kind": "addition",
+      "subject": "кирсин \/ чыксын",
+      "rationale": "Hebrew жөнөтүүчү маанайдагы жоболу түрлөр; кыргызча буйрук-тилек формасы берилди."
+    }
+  ],
+  "translation": "Жана башчы киргенде, дарбазанын эшик-алдынын жолу аркылуу кирсин, жана өз жолу аркылуу чыксын.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "d53d1f324503bceff50bd99a42f1bfd1d15256ea276508d9984faff887461a43",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ezekiel\/46\/5-8.1791213601131.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובבוא",
+      "gloss": "жана ... келгенде"
+    },
+    {
+      "surface": "הנשיא",
+      "gloss": "башчы"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "жолу"
+    },
+    {
+      "surface": "אולם",
+      "gloss": "эшик-алдынын"
+    },
+    {
+      "surface": "השער",
+      "gloss": "дарбазанын"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "кирсин"
+    },
+    {
+      "surface": "ובדרכו",
+      "gloss": "жана өз жолу аркылуу"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "чыксын"
+    }
+  ],
+  "timestamp": "2026-10-05T15:20:01.132751457Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 29:14",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨бул⟩",
+      "rationale": "Ивритте 'ал' деген атоочтук атайын турат; кыргызча структура үчүн кошулду"
+    },
+    {
+      "kind": "substitution",
+      "subject": "күнөө курмандыгы",
+      "rationale": "חטאת — күнөөнүн өзү да, анын курмандыгы да; бул жерде курмандык мааниси"
+    }
+  ],
+  "translation": "Ал эми ⟨את⟩ букасынын этин, ⟨את⟩ анын терисин жана ⟨את⟩ анын заарын лагерден тышкары отто өрттө — бул күнөө курмандыгы.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "9add2af65bcddda5ee8f68e7d4941529b4651a20b0d414dc91cbbd2063f100f3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/29\/13-16.1791202489842.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "жана ⟨את⟩",
+      "marks": "эт"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "этин"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "букасынын"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "жана ⟨את⟩",
+      "marks": "териси"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "терисин"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "жана ⟨את⟩",
+      "marks": "заары"
+    },
+    {
+      "surface": "פרשו",
+      "gloss": "заарын"
+    },
+    {
+      "surface": "תשרף",
+      "gloss": "өрттө"
+    },
+    {
+      "surface": "באש",
+      "gloss": "отто"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "тышкары"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "лагерден"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "күнөө курмандыгы"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "бул ⟨бул⟩"
+    }
+  ],
+  "timestamp": "2026-10-05T12:14:49.843338789Z",
+  "model": "glm-5.3"
+}

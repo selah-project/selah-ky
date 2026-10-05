@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "psalms 119:57",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨бул⟩",
+      "rationale": "Кыргыз тилине ээликти билдирүүчү байламча керек, еврейчеде жок"
+    },
+    {
+      "kind": "crux",
+      "subject": "үлүшүм Яхве",
+      "rationale": "Ээлик тизмеси тескери тартипте: үлүшүм алдыда, Яхве анын мааниси — башка окуум: 'Яхве менин үлүшүм' деп айтылды"
+    }
+  ],
+  "translation": "Менин үлүшүм ⟨бул⟩ Яхве, — деп айттым, — Сенин сөздөрүңдү сактоого.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "c62d2c6fea25db93bcfc62af3daededb83a0ba52cc58de8d8fc166957f86fe8b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/119\/57-60.1791217318033.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חלקי",
+      "gloss": "менин үлүшүм"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "деп айттым"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "сактоого"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "Сенин сөздөрүңдү"
+    }
+  ],
+  "timestamp": "2026-10-05T16:21:58.033785980Z",
+  "model": "glm-5.3"
+}

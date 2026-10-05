@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 13:17",
+  "book": "proverbs",
+  "lang": "ky",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "וציר",
+      "rationale": "'элчи\/жолдооч' же 'достук' — бул сөз Притча 22:11 да 'достук' деген мааниде да колдонулат"
+    },
+    {
+      "kind": "substitution",
+      "subject": "מרפא",
+      "rationale": "литералдуу 'дары\/айыктыруу' — 'ден-соолук' эмес"
+    }
+  ],
+  "translation": "Жаман кабарчы жамандыкка кулат, ал эми ишенимдүү элчи ⟨את⟩ айыктырат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "9f12e9deddf112db526c31462abd0a43af59dbbe6b903eddf374fc951026c0e8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/13\/17-20.1791217980324.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מלאך",
+      "gloss": "кабарчы"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "жаман"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "кулат"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "жамандыкка"
+    },
+    {
+      "surface": "וציר",
+      "gloss": "ал эми элчи"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "ишенимдүү"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "айыктырат"
+    }
+  ],
+  "timestamp": "2026-10-05T16:33:00.325040761Z",
+  "model": "glm-5.3"
+}

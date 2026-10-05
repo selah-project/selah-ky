@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 8:1",
+  "book": "1-chronicles",
+  "lang": "ky",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨экинчи⟩ · ⟨үчүнчү⟩",
+      "rationale": "Иврит аталыштарды сын- атайын ээлик байланышсыз тизмелейт; кыргыз тилинде сан байланышы талап кылынат"
+    },
+    {
+      "kind": "measurement",
+      "subject": "төрт уулдун тартиби",
+      "rationale": "Биринчи\/экинчи\/үчүнчү (жана 8:2 төртүнчү\/бешинчи) — төрөлүү тартибин эсептөө"
+    }
+  ],
+  "translation": "Жана Бинъямин ⟨את⟩ Беланы биринчи төрөлгөн уулу катары жаратты; Ашбел ⟨экинчи⟩, Ахрах ⟨үчүнчү⟩.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "0f1e06e25412f021c74b48f1291d84477a5280bc83062d985c9da25bce5c2863",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-chronicles\/8\/1-4.1791221913745.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובנימן",
+      "gloss": "жана Бинъямин"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "жаратты"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Беланы"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "Бела"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "биринчи төрөлгөн уулу"
+    },
+    {
+      "surface": "אשבל",
+      "gloss": "Ашбел"
+    },
+    {
+      "surface": "השני",
+      "gloss": "экинчи"
+    },
+    {
+      "surface": "ואחרח",
+      "gloss": "жана Ахрах"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "үчүнчү"
+    }
+  ],
+  "timestamp": "2026-10-05T17:38:33.745825301Z",
+  "model": "glm-5.3"
+}

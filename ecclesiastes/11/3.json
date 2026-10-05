@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 11:3",
+  "book": "ecclesiastes",
+  "lang": "ky",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "יהוא",
+      "rationale": "הוה тамырынын сейрек формасы — 'болот\/турат', Кохелет стилине мүнөздүү"
+    },
+    {
+      "kind": "addition",
+      "subject": "жаан",
+      "rationale": "גשם сөзү буйрук топтомдо айтылган, кыргызча тизмектештирилди"
+    }
+  ],
+  "translation": "Эгер булуттар толсо, жерге жаан төгүшөт; жана эгер дарак түштүктө кулады же түндүктө — дарак кулаган жерде, ошол жерде турат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "d138aca0704de1a9db0eef7ca0039ec2e27ef3e5e234cc7b7c29d720e593ddd2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ecclesiastes\/11\/1-4.1791220146186.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "эгер"
+    },
+    {
+      "surface": "ימלאו",
+      "gloss": "толсо"
+    },
+    {
+      "surface": "העבים",
+      "gloss": "булуттар"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "жаан"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстүнө"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "жерге"
+    },
+    {
+      "surface": "יריקו",
+      "gloss": "төгүшөт"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "жана эгер"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "кулады"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "дарак"
+    },
+    {
+      "surface": "בדרום",
+      "gloss": "түштүктө"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "же эгер"
+    },
+    {
+      "surface": "בצפון",
+      "gloss": "түндүктө"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "жерде"
+    },
+    {
+      "surface": "שיפול",
+      "gloss": "кулаган"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "дарак"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ошол жерде"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "турат"
+    }
+  ],
+  "timestamp": "2026-10-05T17:09:06.187208563Z",
+  "model": "glm-5.3"
+}

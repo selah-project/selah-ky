@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 68:19",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 68,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "туткундукту туткун кылдың",
+      "rationale": "шבית שבי — еврейче кайталоо-идиома, «туткундукту туткунга алуу»."
+    },
+    {
+      "kind": "crux",
+      "subject": "מתנות באדם",
+      "rationale": "«Адамдардан белек алдың» же «адамдарга белек бердиң» — тамыры лקח эки багытта да окuyт."
+    }
+  ],
+  "translation": "Сен бийиктикке көтөрүлдүң, туткундукту туткун кылдың, адамдардан белек алдың, жа баш ийбегендерден да — Ях Элохим жашоосу үчүн.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "b8db233452fd8e4af835b37129aed01f1c56633a7eca456d475864a089c608f7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/68\/17-20.1791216452190.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עלית",
+      "gloss": "көтөрүлдүң"
+    },
+    {
+      "surface": "למרום",
+      "gloss": "бийиктикке"
+    },
+    {
+      "surface": "שבית",
+      "gloss": "туткундукту"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "туткун кылдың"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "алдың"
+    },
+    {
+      "surface": "מתנות",
+      "gloss": "белек"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "адамдардан"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "жа"
+    },
+    {
+      "surface": "סוררים",
+      "gloss": "баш ийбегендерден"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "жашоосу үчүн"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ях"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    }
+  ],
+  "timestamp": "2026-10-05T16:07:32.191598744Z",
+  "model": "glm-5.3"
+}

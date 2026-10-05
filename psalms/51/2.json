@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 51:2",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "rationale": "אל前置词在«барган» («ба́рган»)结构中隐含"
+    }
+  ],
+  "translation": "Пайгамбар Натан ага келгенде, ал Бат-Шебага барган учурда.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "fe8866d2d56353d4a1d9ad7f3f521a9718b01d975b2aa21f395ecd0b8de80bf6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/51\/1-4.1791216157609.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "келгенде"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ага"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Натан"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "пайгамбар"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "учурда"
+    },
+    {
+      "surface": "בא",
+      "gloss": "барган"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "בת",
+      "gloss": "Бат-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Шебага"
+    }
+  ],
+  "timestamp": "2026-10-05T16:02:37.609865410Z",
+  "model": "glm-5.3"
+}

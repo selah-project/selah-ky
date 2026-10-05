@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 22:24",
+  "book": "ezekiel",
+  "lang": "ky",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Сен",
+      "rationale": "Жерге (Иерусалимге) түз кайрылуу — «ага айт: сен...»"
+    },
+    {
+      "kind": "crux",
+      "subject": "את",
+      "rationale": "Мында אַתְּ — «сен» деген аял роддук ат атооч, алеф-тав объект маркери эмес; бирок конвенция боюнча ⟨את⟩ белгиси менен сакталды"
+    },
+    {
+      "kind": "alternative",
+      "subject": "לא גשמה",
+      "rationale": "«Жаан жаабаган» — ылайыксыз, таза эмес абалдын белгиси; альтернатива: ырайым-жамгыр жок деген образдык окуу"
+    }
+  ],
+  "translation": "Адам уулу, ага айт: Сен ⟨את⟩ — жерсиң, таза эмес, жаан жаабаган заым күнү.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "7ef7112bc9e6d73491a69c1b4d6b9534167ac3322b82fcc68e13c01fd681c640",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ezekiel\/22\/21-24.1791212779450.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "уулу"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Адам"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "айт"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ага"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "жерсиң"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "жер"
+    },
+    {
+      "surface": "לא",
+      "gloss": "таза эмес"
+    },
+    {
+      "surface": "מטהרה",
+      "gloss": "тазаланган"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ал"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "גשמה",
+      "gloss": "жаан жаабаган"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "күнү"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "заым"
+    }
+  ],
+  "timestamp": "2026-10-05T15:06:19.451227287Z",
+  "model": "glm-5.3"
+}

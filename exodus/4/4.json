@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 4:4",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Моше",
+      "rationale": "Яхвенин Мошеге түз буйругу — императив түрүндө кайрылуу"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ויחזק",
+      "rationale": "бул «бекем кармоо, күч менен кармоо» — «карымады» кыска берилди, бекемдик мааниси сакталган"
+    }
+  ],
+  "translation": "Яхве Мошеге айтты: Колуңду сун жана анын куйругунан карма. Ал колун сунду жана аны кармады, жана ал анын алаканында таякка айланды.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "5b398b7c7d39fe4c6f93be38aab462308cb60fddd77a39b589623fe24e55484a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/4\/1-4.1791201919239.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ге"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "сун"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "колуңду"
+    },
+    {
+      "surface": "ואחז",
+      "gloss": "жана карма"
+    },
+    {
+      "surface": "בזנבו",
+      "gloss": "куйругунан"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ал сунду"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "колун"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "жана аны кармады"
+    },
+    {
+      "surface": "בו",
+      "gloss": "аны"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "жана ал айланды"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "таякка"
+    },
+    {
+      "surface": "בכפו",
+      "gloss": "алаканында"
+    }
+  ],
+  "timestamp": "2026-10-05T12:05:19.240636209Z",
+  "model": "glm-5.3"
+}

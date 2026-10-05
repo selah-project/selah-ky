@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 78:42",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "кол",
+      "rationale": "יד 'кол' — бул жерде кудурет маанисинде, бирок формасы сакталды"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨аларды⟩",
+      "rationale": "Куткарылгандарды көрсөтүүчү ат атооч еврейчеде жок, кыргызча тактык үчүн кошулду"
+    }
+  ],
+  "translation": "Алар ⟨את⟩ анын колун эстешпеди, качан ал ⟨аларды⟩ душмандан куткарды.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "45ad4b0f1067a6e84594ff8f6dfda82491f7d84cb55c36c28b83e59b6dc67207",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/78\/41-44.1791216611227.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "эстешпеди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "анын колун"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "колун"
+    },
+    {
+      "surface": "יום",
+      "gloss": "күндү"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "качан"
+    },
+    {
+      "surface": "פדם",
+      "gloss": "куткарды"
+    },
+    {
+      "surface": "מני",
+      "gloss": "душмандан"
+    },
+    {
+      "surface": "צר",
+      "gloss": "душман"
+    }
+  ],
+  "timestamp": "2026-10-05T16:10:11.227882325Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "leviticus 14:45",
+  "book": "leviticus",
+  "lang": "ky",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "чаң",
+      "rationale": "עפר — «чаң, топурак»; көп котормолор «шыбак» деп берет, бирок сөздүн формасы — чаң"
+    },
+    {
+      "kind": "elision",
+      "subject": "ал",
+      "rationale": "этиштин жак мүчөсү менен берилди, үчүнчү жак аталышы кыргызча талап кылат"
+    }
+  ],
+  "translation": "Жана ал ⟨את⟩ үйдү — ⟨את⟩ анын таштарын, ⟨את⟩ анын жыгачтарын жана үйдүн ⟨את⟩ бүт чаңын бузат, аларды шаардан тышкары, таза эмес жерге алып чыгат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "226193c91355b95727e1298c6773228d58e7c30fcd8c1c43e6fcb895f3372090",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/14\/45-48.1791203135476.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתץ",
+      "gloss": "бузат"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "үйдү"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "үйдү"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "анын таштарын"
+    },
+    {
+      "surface": "אבניו",
+      "gloss": "анын таштарын"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "жана ⟨את⟩",
+      "marks": "анын жыгачтарын"
+    },
+    {
+      "surface": "עציו",
+      "gloss": "анын жыгачтарын"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "жана ⟨את⟩",
+      "marks": "бүт чаңын"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүт"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "чаңын"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "үйдүн"
+    },
+    {
+      "surface": "והוציא",
+      "gloss": "алып чыгат"
+    },
+    {
+      "surface": "אל",
+      "gloss": "тышкары"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "тышкары"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "шаардан"
+    },
+    {
+      "surface": "אל",
+      "gloss": "жерге"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "жерге"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "таза эмес"
+    }
+  ],
+  "timestamp": "2026-10-05T12:25:35.477450459Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 21:1",
+  "book": "1-chronicles",
+  "lang": "ky",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Сатана",
+      "rationale": "שטן бул жерде артиклсиз — 'каршы туруучу' же ысым катары 'Сатана' деп окууга болот."
+    },
+    {
+      "kind": "substitution",
+      "subject": "азгырды",
+      "rationale": "וסת туура мааниси 'түшүрүк кылды, жебеледи' — азгыруу фигуралык маани."
+    }
+  ],
+  "translation": "Жана Сатана Йисраэлге каршы турду, жана ⟨את⟩ Давидди ⟨את⟩ Йисраэлди эсептөөгө азгырды.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "92a75c249f8f7cfbe7959122378f62ccf14d7d934b12e7b8df875cf3a6b6fa89",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-chronicles\/21\/1-4.1791222256200.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "турду"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "Сатана"
+    },
+    {
+      "surface": "על",
+      "gloss": "каршы"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэлге"
+    },
+    {
+      "surface": "ויסת",
+      "gloss": "азгырды"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Давидди"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давидди"
+    },
+    {
+      "surface": "למנות",
+      "gloss": "эсептөөгө"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Йисраэлди"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэлди"
+    }
+  ],
+  "timestamp": "2026-10-05T17:44:16.200885047Z",
+  "model": "glm-5.3"
+}

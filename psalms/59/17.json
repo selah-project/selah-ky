@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 59:17",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 59,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "חסד",
+      "rationale": "хесед сөз катары сакталды, себеби бир тамыр бирдей маани-бүткүл тилде кармалат"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עזך\/עזי (59:17–18)",
+      "rationale": "«Сенин күчүң» — «мендин күчүм» деп кайталануу; ырдын байланышы кыргызча да сакталды"
+    },
+    {
+      "kind": "addition",
+      "subject": "болсо",
+      "rationale": "ивриттеги вав-контраст кыргызча «болсо» менен берилди"
+    }
+  ],
+  "translation": "Мен болсо Сенин күчүңдү ырдайын, таңкы Сенин хеседиңди жарыялайын, анткени Сен мага бийик чоку болдуң жана качуу жайым мени кыскан күнү.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "92db15f142b0c9afd42cf02ab6b79365ec523970a97251b92e8960f528c1abfb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/59\/17-18.1791216268610.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "мен болсо"
+    },
+    {
+      "surface": "אשיר",
+      "gloss": "ырдайын"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "күчүңдү"
+    },
+    {
+      "surface": "וארנן",
+      "gloss": "жарыялайын"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "таңкы"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "хеседиңди"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "היית",
+      "gloss": "болдуң"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "бийик чоку"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мага"
+    },
+    {
+      "surface": "ומנוס",
+      "gloss": "жана качуу жай"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "күнү"
+    },
+    {
+      "surface": "צר",
+      "gloss": "ки­скиан"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мени"
+    }
+  ],
+  "timestamp": "2026-10-05T16:04:28.610895525Z",
+  "model": "glm-5.3"
+}

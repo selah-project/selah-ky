@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "exodus 29:37",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "жети күн",
+      "rationale": "Ыйыктоо мөөнөтү күндөр менен өлчөнөт."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קדש…קדשים…יקדש",
+      "rationale": "קדש тамыры үч жолу кайталанат — «ыйык» үндөштүгү кыргызча да бир тамыр менен сакталды."
+    },
+    {
+      "kind": "substitution",
+      "subject": "тазарт",
+      "rationale": "כפר — «жабуу, жабуу аркылуу тазартуу» мааниси; кыргызча бир сөзгө сыгылды."
+    }
+  ],
+  "translation": "Жети күн бою курмандыкты тазарт, аны ыйыкта; жана курмандык ыйыктардын ыйыгы болот — курмандыкка тийген нерсенин баары ыйык болот.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "8f2ade9cc84d5d849a73c1eeb78a2ab0c7a4c20d363915170559baaff15ec461",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/29\/37-40.1791202516446.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שבעת",
+      "gloss": "Жети"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "күн"
+    },
+    {
+      "surface": "תכפר",
+      "gloss": "тазарт"
+    },
+    {
+      "surface": "על",
+      "gloss": "бою"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "курмандыкты"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "ыйыкта"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "курмандык"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "жана болот"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "курмандык"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ыйыктыктардын"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "ыйыгы"
+    },
+    {
+      "surface": "כל",
+      "gloss": "баары"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "тийген"
+    },
+    {
+      "surface": "במזבח",
+      "gloss": "курмандыкка"
+    },
+    {
+      "surface": "יקדש",
+      "gloss": "ыйык болот"
+    }
+  ],
+  "timestamp": "2026-10-05T12:15:16.446848981Z",
+  "model": "glm-5.3"
+}

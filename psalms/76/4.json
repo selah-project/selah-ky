@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 76:4",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 76,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨Ал⟩",
+      "rationale": "Ивритте этиштин ээси жок, «сындырды» ким экени контексттен — Элохимден"
+    },
+    {
+      "kind": "crux",
+      "subject": "רשפי",
+      "rationale": "«Чырактар\/жалтылдаган жебелер»: КЖВ 'жаанын жебелери', JPS 'оттуу жебелер' — רשף от, чырак, жебе маанисинде"
+    }
+  ],
+  "translation": "Ал жерде ⟨Ал⟩ жаанын жалтылдаган жебелерин, калкан менен кылычты жана согушту сындырды. Села.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "b3e6e4f83a5e7d21d280372508095ffecc2ba31fd50f2a769e20d4e3637ccd97",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/76\/1-4.1791216513341.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "Ал жерде"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "сындырды"
+    },
+    {
+      "surface": "רשפי",
+      "gloss": "жалтылдаган жебелерин"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "жаанын"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "калкан"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "кылычты"
+    },
+    {
+      "surface": "ומלחמה",
+      "gloss": "согушту"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Села"
+    }
+  ],
+  "timestamp": "2026-10-05T16:08:33.342805338Z",
+  "model": "glm-5.3"
+}

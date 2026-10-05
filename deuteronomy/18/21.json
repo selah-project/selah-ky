@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 18:21",
+  "book": "deuteronomy",
+  "lang": "ky",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "өз",
+      "rationale": "«жүрөгүңдө» дегенге өз сөзү кошулду — еврейче жок, бирок ээлик тактык кыргызча талап кылат"
+    },
+    {
+      "kind": "invitation",
+      "subject": " окуяга чакыруу",
+      "rationale": "Окурманга багышталган суроо — ички добуш катары берилген «кантип билебиз?» деген суроо"
+    }
+  ],
+  "translation": "Жана эгер өз жүрөгүңдө айтсаң: «Биз Яхвенин сүйлөгөн эмес ⟨את⟩ сөзүн кантип билебиз?»",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "2cbf62c68367f8cd75fa413111d666e3bbe6dd9542c03acec4ea1b5ed457463d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/18\/21-22.1791205066435.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "жана эгер"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "айтсаң"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "жүрөгүңдө"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "кантип"
+    },
+    {
+      "surface": "נדע",
+      "gloss": "билебиз"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сөзүн"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "сөзүн"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "эмес"
+    },
+    {
+      "surface": "לא",
+      "gloss": "…жок"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "сүйлөгөн"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    }
+  ],
+  "timestamp": "2026-10-05T12:57:46.436511209Z",
+  "model": "glm-5.3"
+}

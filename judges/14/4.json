@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 14:4",
+  "book": "judges",
+  "lang": "ky",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מבקש субъектиси",
+      "rationale": "Ким издейт — Шимшонбу (KJV, JPS) же Яхвеби (BSB «Лорд издеп жаткан»)? Эбрей грамматикасы экөөнө тең жол берет"
+    },
+    {
+      "kind": "substitution",
+      "subject": "шылтоо",
+      "rationale": "תאנה — «шарт, мүмкүнчүлүк, учур»; «шылтоо» деген атайын издеу маанисин берет"
+    },
+    {
+      "kind": "secret",
+      "subject": "бул Яхведен экенин",
+      "rationale": "Ата-эне билбеген нерссе — ички, жашырын максат окурманга ачылат"
+    }
+  ],
+  "translation": "Анын атасы жана энеси билчү эмес: бул Яхведен экенин, анткени ал пелиштимдерге каршы шылтоо издеп жүргөн; ошол убакта пелиштимдер Йисраэл үстүнөн бийлик жүргүзүп турган.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "88cc8afca2cab2eade86b4e8e75e4bd80cedecccfc9b2fa05512b72ea86660b9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/judges\/14\/1-4.1791206363740.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואביו",
+      "gloss": "атасы"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "жана энеси"
+    },
+    {
+      "surface": "לא",
+      "gloss": "эмес"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "билчү"
+    },
+    {
+      "surface": "כי",
+      "gloss": "экенин"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "Яхведен"
+    },
+    {
+      "surface": "היא",
+      "gloss": "бул"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "תאנה",
+      "gloss": "шылтоо"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ал"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "издеп жүргөн"
+    },
+    {
+      "surface": "מפלשתים",
+      "gloss": "пелиштимдерге каршы"
+    },
+    {
+      "surface": "ובעת",
+      "gloss": "ошол убакта"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "ошол"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "пелиштимдер"
+    },
+    {
+      "surface": "משלים",
+      "gloss": "бийлик жүргүзүп"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Йисраэл үстүнөн"
+    }
+  ],
+  "timestamp": "2026-10-05T13:19:23.742131105Z",
+  "model": "glm-5.3"
+}

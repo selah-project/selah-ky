@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 25:4",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "жип",
+      "rationale": "түс аталыштары жип\/материал маанисинде — кыргызча «жип» сөзү түшүнүктүү болушу үчүн кошулду"
+    },
+    {
+      "kind": "crux",
+      "subject": "תולעת שני",
+      "rationale": "букл. «кызыл курт (кошунал)» — кызыл боёк курттун денесинен алынат; «кызыл жип» же «кырмызы» деген варианттар бар"
+    }
+  ],
+  "translation": "жана көк жип, жана кызыл-көк жип, жана кызыл көңдөй жип, жана жука кездеме, жана эчкинин жүнү.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "3b72350d6e690680655baebb343fc03a9e867a249b595aaf3502fd90e8399965",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/25\/1-4.1791202419843.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותכלет",
+      "gloss": "жана көк жип"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "жана кызыл-көк жип"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "жана кызыл көңдөй жип"
+    },
+    {
+      "surface": "שני",
+      "gloss": "кызыл"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "жана жука кездеме"
+    },
+    {
+      "surface": "ועזים",
+      "gloss": "жана эчкинин жүнү"
+    }
+  ],
+  "timestamp": "2026-10-05T12:13:39.844596204Z",
+  "model": "glm-5.3"
+}

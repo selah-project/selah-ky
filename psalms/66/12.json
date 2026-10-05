@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 66:12",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 66,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "өлүмдүү адамдар",
+      "rationale": "אנוש — өлүмдүү жан, адамзат; 'адамдар' деген жөнөкөй сөз өлүмдүүлүк маанисин жоготот"
+    },
+    {
+      "kind": "crux",
+      "subject": "לרויה",
+      "rationale": "'токтоорук\/канымдуулук' — кээ бир котормолор 'байлык жайга' дешет, бирок сөз тойгонду билдирет"
+    }
+  ],
+  "translation": "Сен өлүмдүү адамдарды башыбызга мингиздиң; биз отко жана сууга кирип бардык, бирок Сен бизди токтоорукка алып чыктың.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "56782ef46e878ffa6f08f37a011266e91bec69f83797b221aa3e3faf934ce059",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/66\/9-12.1791216288451.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הרכבת",
+      "gloss": "мингиздиң"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "өлүмдүү адамдарды"
+    },
+    {
+      "surface": "לראשנו",
+      "gloss": "башыбызга"
+    },
+    {
+      "surface": "באנו",
+      "gloss": "кирип бардык"
+    },
+    {
+      "surface": "באש",
+      "gloss": "отко"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "жана сууга"
+    },
+    {
+      "surface": "ותוציאנו",
+      "gloss": "бизди алып чыктың"
+    },
+    {
+      "surface": "לרויה",
+      "gloss": "токтоорукка"
+    }
+  ],
+  "timestamp": "2026-10-05T16:04:48.452215300Z",
+  "model": "glm-5.3"
+}

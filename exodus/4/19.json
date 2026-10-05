@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 4:19",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жан",
+      "rationale": "נפש — дем алуучу жандык, жүрөк-тилек; \"жан\" жакын, бирок так эмес"
+    },
+    {
+      "kind": "you",
+      "subject": "Мошеге",
+      "rationale": "Яхвенин Мошеге түз буйругу"
+    }
+  ],
+  "translation": "Жана Яхве Мидияндагы Мошеге айтты: Бар, Мицрайимге кайт, анткени сенин ⟨את⟩ жаныңды издеген бардык эркектер өлүп калды.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "412f827a2915ba09078374531f3aad0ce3aaaad22972ddd006680bcf16569728",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/4\/17-20.1791201913717.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Мошеге"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Мошеге"
+    },
+    {
+      "surface": "במדין",
+      "gloss": "Мидияндагы"
+    },
+    {
+      "surface": "לך",
+      "gloss": "бар"
+    },
+    {
+      "surface": "שב",
+      "gloss": "кайт"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицрайимге"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "өлүп калды"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бардык"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "эркектер"
+    },
+    {
+      "surface": "המבקשים",
+      "gloss": "издеген"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "жаныңды"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "жаныңды"
+    }
+  ],
+  "timestamp": "2026-10-05T12:05:13.719057228Z",
+  "model": "glm-5.3"
+}

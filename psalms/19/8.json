@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 19:8",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "нефеш",
+      "rationale": "נפש 'жан' эмес, 'дем алуучу жашоо күчү, боор' дегенге жакын; кыргызча 'жан' шарттуу тандоо."
+    },
+    {
+      "kind": "crux",
+      "subject": "משיבת",
+      "rationale": "'кайтарат\/буруп келтирет' (tshuva — төбө келүү) менен 'жанды жаңыртат' деген окуу ортосунда котормочулор бөлүнөт."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "פתי",
+      "rationale": "Мунун эки бөлүгүндө тең эмес, бирок Торанын жөнөкөйдү (пети) акылманд кылышы — жөнөкөйдүк менен акылмандык карама-каршылыгы."
+    }
+  ],
+  "translation": "Яхвенин Торасы кемчилсиз, жанды кайтарат; Яхвенин күбөлүгү ишенимдүү, жөнөкөйдү акылманд кылат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "73bb08ed4490463475a9943ea2b668c2e3cd9ef031e5d289ebbb23f35c88913c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/19\/5-8.1791215631955.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תורת",
+      "gloss": "Торасы"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    },
+    {
+      "surface": "תמימה",
+      "gloss": "кемчилсиз"
+    },
+    {
+      "surface": "משיבת",
+      "gloss": "кайтарат"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "жан"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "күбөлүгү"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    },
+    {
+      "surface": "נאמנה",
+      "gloss": "ишенимдүү"
+    },
+    {
+      "surface": "מחכימת",
+      "gloss": "акылманд кылат"
+    },
+    {
+      "surface": "פתי",
+      "gloss": "жөнөкөйдү"
+    }
+  ],
+  "timestamp": "2026-10-05T15:53:51.956692048Z",
+  "model": "glm-5.3"
+}

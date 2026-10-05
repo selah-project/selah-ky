@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 14:17",
+  "book": "1-kings",
+  "lang": "ky",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "באה בסף",
+      "rationale": "букв. «кире жатып табалдырыкка» — «табалдырыгына кирер замат» деген маанида"
+    },
+    {
+      "kind": "substitution",
+      "subject": "бала",
+      "rationale": "הנער — «жаш бала»; көпчүлүк которууларда child же young man деп эки жолу чечмеленет"
+    }
+  ],
+  "translation": "Яровамдын аялы турду да, жөнөп, Тирцага келди; ал үйдүн табалдырыгына кирер замат бала өлдү.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "b613fb4a69e6e61f087c9a29523fdc040470c246717ed8d162307ed9a82ccb64",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-kings\/14\/17-20.1791208381177.json",
+    "code": "641241cf-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותקם",
+      "gloss": "турду"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "аялы"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Яровамдын"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "жөнөп"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "келди"
+    },
+    {
+      "surface": "תרצתה",
+      "gloss": "Тирцага"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ал"
+    },
+    {
+      "surface": "באה",
+      "gloss": "кирер замат"
+    },
+    {
+      "surface": "בסף",
+      "gloss": "табалдырыгына"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "үйдүн"
+    },
+    {
+      "surface": "והנער",
+      "gloss": "бала"
+    },
+    {
+      "surface": "מת",
+      "gloss": "өлдү"
+    }
+  ],
+  "timestamp": "2026-10-05T13:53:01.177824177Z",
+  "model": "glm-5.3"
+}

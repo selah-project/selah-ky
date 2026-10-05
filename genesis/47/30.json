@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 47:30",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 47,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ателарым менен жатуу",
+      "rationale": "עם אבתי שכב — өлүүнү билдирген жумшак айтуу; кыргызча 'жатып калганда' сакталды"
+    },
+    {
+      "kind": "addition",
+      "subject": "алып чыгып",
+      "rationale": "נשא 'көтөрүү' — Мицрайимден чыгаруу мааниси контексттен, 'алып чыгып' кыргызча тактоо"
+    }
+  ],
+  "translation": "Мен аталарым менен жатканымда, мени Мицрайимден көтөрүп алып чыгып, алардын көрүстөнүнө койгун. Жана ал айтты: Мен сөзүңдөй кылам.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "2a1abf54bd9b952a4f2d7903e863cbff2946191e48202352379f4b5b154e8af8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/47\/29-31.1791201736235.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושכבתי",
+      "gloss": "жатканымда"
+    },
+    {
+      "surface": "עם",
+      "gloss": "менен"
+    },
+    {
+      "surface": "אבתי",
+      "gloss": "ателarım"
+    },
+    {
+      "surface": "ונשאתני",
+      "gloss": "мени көтөрүп алып чыгып"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Мицрайимден"
+    },
+    {
+      "surface": "וקברתני",
+      "gloss": "жана койгун"
+    },
+    {
+      "surface": "בקברתם",
+      "gloss": "көрүстөнүнө"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "жана айтты"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "мен"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "кылам"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "сөзүңдөй"
+    }
+  ],
+  "timestamp": "2026-10-05T12:02:16.236514920Z",
+  "model": "glm-5.3"
+}

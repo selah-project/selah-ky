@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 16:14",
+  "book": "deuteronomy",
+  "lang": "ky",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "кубанычта ⟨бол⟩",
+      "rationale": "Еврейча этиш «кубан» деп түз айтылат; кыргызча этиштик айкаш «бол» сөзүн талап кылат."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨бардык⟩",
+      "rationale": "אשר בשעריך жекече тизмедеги адамдарды камтыйт; кыргызча «дарбазаларыңдын ичиндегилер» деген ачык формага муктаж."
+    }
+  ],
+  "translation": "Жана майрамыңда кубанычта бол — сен, уулуң жана кызың, кулуң жана кыз кулуң, лейвилік, конок, жетим жана жесир, дарбазаларыңдын ичиндегилер ⟨бардык⟩.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "ab5d566bbf5199655fc1b950b918386902035b849b4b9c5bf70a841b345469c8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/16\/13-16.1791205036060.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמחת",
+      "gloss": "жана кубанычта бол"
+    },
+    {
+      "surface": "בחגך",
+      "gloss": "майрамыңда"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "сен"
+    },
+    {
+      "surface": "ובנך",
+      "gloss": "жана уулуң"
+    },
+    {
+      "surface": "ובתך",
+      "gloss": "жана кызың"
+    },
+    {
+      "surface": "ועבדך",
+      "gloss": "жана кулуң"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "жана кыз кулуң"
+    },
+    {
+      "surface": "והלוי",
+      "gloss": "жана лейвилік"
+    },
+    {
+      "surface": "והגר",
+      "gloss": "жана конок"
+    },
+    {
+      "surface": "והיתום",
+      "gloss": "жана жетим"
+    },
+    {
+      "surface": "והאלמנה",
+      "gloss": "жана жесир"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "алар"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "дарбазаларыңдын ичинде"
+    }
+  ],
+  "timestamp": "2026-10-05T12:57:16.061272442Z",
+  "model": "glm-5.3"
+}

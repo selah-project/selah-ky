@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 13:13",
+  "book": "1-chronicles",
+  "lang": "ky",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "сандык",
+      "rationale": "הארון — кут, сандык; келишим сандыгы дегинди кошулбай, сөздүн өз формасы сакталды"
+    }
+  ],
+  "translation": "Давид ⟨את⟩ сандыкты өзүнө, Давид шаарына алып барган жок, аны Овед-Эдом Гаттыктын үйүнө буруп жөнөттү.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "af5d31a21834212420a5cd6544984cbf1d518d486195f5b37fe4750c819ebc7b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-chronicles\/13\/13-14.1791222053959.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "алып барган жок"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сандыкты"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "сандыкты"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "өзүнө"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ал"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "шаарына"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "ויטהו",
+      "gloss": "буруп жөнөттү"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ал"
+    },
+    {
+      "surface": "בית",
+      "gloss": "үйүнө"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Овед-"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Эдом"
+    },
+    {
+      "surface": "הגתי",
+      "gloss": "Гаттыктын"
+    }
+  ],
+  "timestamp": "2026-10-05T17:40:53.959790591Z",
+  "model": "glm-5.3"
+}

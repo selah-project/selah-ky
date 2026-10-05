@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 59:7",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 59,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ישובו \/ ויסובבו",
+      "rationale": "שוב жана סבב тамырларында үндөштүк бар — 'кайтышат' жана 'айланып жүрүшөт', кыргызча жоголот"
+    },
+    {
+      "kind": "alternative",
+      "subject": "יהמו",
+      "rationale": "'үңкүрөшөт' ордуна 'улутат' же 'ызы-чуу салышат' болот"
+    }
+  ],
+  "translation": "Алар кечке кайтышат, итке окшош үңкүрөшөт жана шаарды айланып жүрүшөт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "f6346044ff1dc462c3d4cadf63563d2af6a26fe5228a035985c55bfc7e775a7c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/59\/6-7.1791224462899.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "кайтышат"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "кечке"
+    },
+    {
+      "surface": "יהמו",
+      "gloss": "үңкүрөшөт"
+    },
+    {
+      "surface": "ככלב",
+      "gloss": "итке окшош"
+    },
+    {
+      "surface": "ויסובבו",
+      "gloss": "жана айланып жүрүшөт"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "шаарды"
+    }
+  ],
+  "timestamp": "2026-10-05T18:21:02.900301884Z",
+  "model": "glm-5.3"
+}

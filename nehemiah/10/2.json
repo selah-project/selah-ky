@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 10:2",
+  "book": "nehemiah",
+  "lang": "ky",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Тиршата",
+      "rationale": "התרשתא — персиялык башкаруучунун наамы, которулбайт, ысым катары сакталды"
+    },
+    {
+      "kind": "idiom",
+      "subject": "башында",
+      "rationale": "ועל 'үстүндө\/башында' — мөөр баскан тизменин башын көрсөтөт"
+    }
+  ],
+  "translation": "Мөөр баскандардын башында Нехемия Тиршата, Хакалиянын уулу жана Цидкия турду.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "bffca06dffe94146dce4a52cbf6e1c5ea45589fd5def96970b7420baf4d121bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/nehemiah\/10\/2-3.1791224613462.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "башында"
+    },
+    {
+      "surface": "החתומים",
+      "gloss": "мөөр баскандар"
+    },
+    {
+      "surface": "נחמיה",
+      "gloss": "Нехемия"
+    },
+    {
+      "surface": "התרשתא",
+      "gloss": "Тиршата"
+    },
+    {
+      "surface": "בן",
+      "gloss": "уулу"
+    },
+    {
+      "surface": "חכליה",
+      "gloss": "Хакалиянын"
+    },
+    {
+      "surface": "וצדקיה",
+      "gloss": "жана Цидкия"
+    }
+  ],
+  "timestamp": "2026-10-05T18:23:33.463307555Z",
+  "model": "glm-5.3"
+}

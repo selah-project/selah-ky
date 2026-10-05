@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 2:2",
+  "book": "nehemiah",
+  "lang": "ky",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "жүзүң жаман",
+      "rationale": "Ивритче פניך רעים «жүзүң жаман» — кайгылуу жүз деген идиома"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רעים \/ רע",
+      "rationale": "Ра тамыры эки жолу кайталанат: жүз жаман жана жүрөк кайгысы — кыргызча байланыш басаңдайт"
+    },
+    {
+      "kind": "elision",
+      "subject": "כי",
+      "rationale": "כי אם «...дан башка» деген бекиткич конструкцияда кыргызча өзүнчө сөз катары берилген жок"
+    }
+  ],
+  "translation": "Падыша мага айтты: Эмне үчүн сенин жүзүң жаман, ал эми сен оору эмессиң? Бул — жүрөк кайгысынан башка эч нерсе эмес. Жана мен өтө катуу корктум.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "1fff20561e3c0982a0284b4316db22a810fb13417546ac2fc40d9f75db031073",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/nehemiah\/2\/1-4.1791221257088.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мага"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "падыша"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "эмне үчүн"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "жүзүң"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "жаман"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ал эми сен"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "эмессиң"
+    },
+    {
+      "surface": "חולה",
+      "gloss": "оору"
+    },
+    {
+      "surface": "אין",
+      "gloss": "жок"
+    },
+    {
+      "surface": "זה",
+      "gloss": "бул"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "אם",
+      "gloss": "башка"
+    },
+    {
+      "surface": "רע",
+      "gloss": "кайгы"
+    },
+    {
+      "surface": "לב",
+      "gloss": "жүрөк"
+    },
+    {
+      "surface": "ואירא",
+      "gloss": "жана корктум"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "катуу"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "өтө"
+    }
+  ],
+  "timestamp": "2026-10-05T17:27:37.090980766Z",
+  "model": "glm-5.3"
+}

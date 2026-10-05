@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 6:13",
+  "book": "2-kings",
+  "lang": "ky",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "לאמר",
+      "rationale": "′to say′ — кыргызча ′деп′ деген байланыштыргыч менен берилди, өзүнчө этиш катары жок"
+    },
+    {
+      "kind": "addition",
+      "subject": "экенин",
+      "rationale": "′кайда экенин′ — еврейче жок болгон атоочтук конструкция кошулду"
+    }
+  ],
+  "translation": "Жана ал айтты: Барыңар, ал кайда экенин көргүлө, мен жиберип аны алайын. Ага билдирилип айтылды: Карагыла, ал Дотанда.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "2775878a3464848c4fc5401843fe1b0079065b603383107def58632c68221b2b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-kings\/6\/13-16.1791208762901.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Жана ал айтты"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Барыңар"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "көргүлө"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "кайда"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ал"
+    },
+    {
+      "surface": "ואשלח",
+      "gloss": "мен жиберип"
+    },
+    {
+      "surface": "ואקחהו",
+      "gloss": "аны алайын"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "билдирилип айтылды"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ага"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "деп"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Карагыла"
+    },
+    {
+      "surface": "בדתן",
+      "gloss": "Дотанда"
+    }
+  ],
+  "timestamp": "2026-10-05T13:59:22.901844373Z",
+  "model": "glm-5.3"
+}

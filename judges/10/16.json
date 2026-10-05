@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 10:16",
+  "book": "judges",
+  "lang": "ky",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жаны",
+      "rationale": "נפש — 'дем алуучу жандуулук, тирүүлүк'; 'жан' кыргызча эң жакын сөз"
+    },
+    {
+      "kind": "crux",
+      "subject": "ותקצר נפשו",
+      "rationale": "'Анын жаны кыскарды' — кээ бир котормолор 'кыжыры кайнады', башкалар 'боздоду' деп беришет"
+    }
+  ],
+  "translation": "жана алар чет элдик кудайларды ортолорунан алып салып, Яхвеге кызмат кылышты; жана Анын жаны Йисраэлдин азабынан кысылды.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "f95d2268d339b9a5c4c6657fa10ae58efca22ffdfb6860ae3ab264e8d37e671f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/judges\/10\/13-16.1791206229769.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויסירו",
+      "gloss": "алып салышты"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "чет элдик кудайларды"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "кудайлары"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "чет элдик"
+    },
+    {
+      "surface": "מקרבם",
+      "gloss": "ортолорунан"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "кызмат кылышты"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яхвени"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ותקצר",
+      "gloss": "кысылды"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "жаны"
+    },
+    {
+      "surface": "בעמל",
+      "gloss": "азабынан"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэлдин"
+    }
+  ],
+  "timestamp": "2026-10-05T13:17:09.770578877Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 54:15",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 54,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אפס מאותי",
+      "rationale": "«Менден эмес \/ Меники эмес»: ЖХВ менен эмес, же Мен буйруган эмес — бул жерде את белгиси «ким» суроосун көздөйт"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גור יגור \/ מי גר",
+      "rationale": "Инфинитив абсолют жана «гер-гур» тамырынын кайталоосу — чогулуу темасы үч жолу угулат"
+    }
+  ],
+  "translation": "Аны көр, чогулткан чогултат, бирок ⟨את⟩ Менден эмес; ким ⟨את⟩ сенин жаныңда чогулат? Сага каршы түшөт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "07029e31779e38e20ce40c5d90e7c0bc6d56c8d23c6e669cd8b4f80e4e214651",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/54\/13-16.1791210369800.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Аны көр"
+    },
+    {
+      "surface": "גור",
+      "gloss": "чогулткан"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "чогултат"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "эмес"
+    },
+    {
+      "surface": "מאותי",
+      "gloss": "⟨את⟩ Менден",
+      "marks": "ким — ким чогулганы"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ким"
+    },
+    {
+      "surface": "גר",
+      "gloss": "чогулат"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ сенин жаныңда"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "сага каршы"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "түшөт"
+    }
+  ],
+  "timestamp": "2026-10-05T14:26:09.801013777Z",
+  "model": "glm-5.3"
+}

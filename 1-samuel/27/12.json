@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 27:12",
+  "book": "1-samuel",
+  "lang": "ky",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הבאש הבאיש",
+      "rationale": "инфинитив абсолюттун кайталоосу: «жыйырканча жыйырканычтуу» — сөзмө-сөз «жыты көңдөйүп кетти», күчөтүү мааниси"
+    },
+    {
+      "kind": "substitution",
+      "subject": "жийиркеничтүү",
+      "rationale": "באש сөзмө-сөз «жыты бузуку», жаман жыт — кыргызча жыты көңдөйгөн же жийиркеничтүү"
+    }
+  ],
+  "translation": "Акиш Давидге ишенди да: «Ал өз элинин ичинде, Йисраэлде, абдан жийиркеничтүү болду; ошондуктан ал мага түбөлүк кул болот» деди.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "21f5b79f83a9556ddbfa59a0e44b2a849ec3f5cff225d02a2fd3e248b1076309",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-samuel\/27\/9-12.1791207249235.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמן",
+      "gloss": "ишенди"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Акиш"
+    },
+    {
+      "surface": "בדוד",
+      "gloss": "Давидге"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "деп"
+    },
+    {
+      "surface": "הבאש",
+      "gloss": "жийиркеничтүү"
+    },
+    {
+      "surface": "הבאיש",
+      "gloss": "болду"
+    },
+    {
+      "surface": "בעמו",
+      "gloss": "өз элинин ичинде"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Йисраэлде"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "болот"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мага"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "кул"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "түбөлүк"
+    }
+  ],
+  "timestamp": "2026-10-05T13:34:09.236982391Z",
+  "model": "glm-5.3"
+}

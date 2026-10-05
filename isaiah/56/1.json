@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 56:1",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 56,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "куткаруу",
+      "rationale": "ישועה — куткаруу, жардам, жеңиш; Машаяк мааниси киргизилген жок"
+    },
+    {
+      "kind": "addition",
+      "subject": "жакын (экинчи жолу)",
+      "rationale": "экинчиClauseде קרובה кайталанган жок, маани ачык болушу үчүн кошулду"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Изайа 56:1",
+      "rationale": "Яхвенин элине кызмат кылууга чакыруу — императивдер"
+    }
+  ],
+  "translation": "Мына булай дейт Яхве: өкүмдү сактагыла жана цедекти кылгыла, анткени Менин куткаруум келүүгө жакын, жана Менин цедегим ачылып көрүнүүгө жакын.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "4a23418dc5036747c8e984fd2eb5ba15533d7eb3ca8d10b29b9430e138f7cd43",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/56\/1-4.1791210438565.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "мына булай"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "дейт"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "сактагыла"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "өкүмдү"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "жана кылгыла"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "цедекти"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "קרובה",
+      "gloss": "жакын"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "Менин куткаруум"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "келүүгө"
+    },
+    {
+      "surface": "וצדקתי",
+      "gloss": "жана Менин цедегим"
+    },
+    {
+      "surface": "להגלות",
+      "gloss": "ачылып көрүнүүгө"
+    }
+  ],
+  "timestamp": "2026-10-05T14:27:18.565728996Z",
+  "model": "glm-5.3"
+}

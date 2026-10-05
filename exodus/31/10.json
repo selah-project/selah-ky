@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 31:10",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "השרד",
+      "rationale": "бул сөз Танахта ушул жерде гана кездешет — «ине менен чачылган» деген сүрөт"
+    }
+  ],
+  "translation": "жана ⟨את⟩ чачылган кездемеден кийимдерди, жана ⟨את⟩ ыйык кийимдерди — Ахарон ыйык кызмат кылуучуга, жана ⟨את⟩ анын уулдарынын кийимдерини — ыйык кызмат кылуу үчүн.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "954780386d6db2e9d459ab92924b3a38a6765780df5f0200aa7314a42a55e1d7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/31\/9-12.1791202503198.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "кийимдерди"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "кийимдерди"
+    },
+    {
+      "surface": "השרד",
+      "gloss": "чачылган кездемеден"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ыйык кийимдерди"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "кийимдерди"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ыйык"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Ахаронго"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ыйык кызмат кылуучуга"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "уулдарынын кийимдерини"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "кийимдерди"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "анын уулдарынын"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "ыйык кызмат кылуу үчүн"
+    }
+  ],
+  "timestamp": "2026-10-05T12:15:03.201304743Z",
+  "model": "glm-5.3"
+}

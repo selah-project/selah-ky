@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 37:9",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "дал ошолор",
+      "rationale": "המה басымдык жөнөтүү, кыргызча «дал ошолор» менен берилди"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יכרתון \/ יירשו",
+      "rationale": "«кесилүү» менен «мурас алуу» айкашы — жамандык кылгандар кесилип, күткөндөр орун ээлейт"
+    }
+  ],
+  "translation": "Анткени жамандык кылгандар кесилип ташталат, ал эми Яхвени күткөндөр — дал ошолор жерди мураска алышат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "94b52e3aa9128e32f461e630f0771a68e33165db4dbab5de9e058b803fd3b005",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/37\/9-12.1791215858908.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "жамандык кылгандар"
+    },
+    {
+      "surface": "יכרתון",
+      "gloss": "кесилип ташталат"
+    },
+    {
+      "surface": "וקוי",
+      "gloss": "күткөндөр"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвени"
+    },
+    {
+      "surface": "המה",
+      "gloss": "дал ошолор"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "мураска алышат"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "жерди"
+    }
+  ],
+  "timestamp": "2026-10-05T15:57:38.909580050Z",
+  "model": "glm-5.3"
+}

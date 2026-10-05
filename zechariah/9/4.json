@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 9:4",
+  "book": "zechariah",
+  "lang": "ky",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יורששנה",
+      "rationale": "'кууп чыгат\/мураска алат' — JPS 'жакырлатат', KJV 'ыргытат': мурас алуу тамыры ар кандай чечмеленет."
+    },
+    {
+      "kind": "idiom",
+      "subject": "תאכל",
+      "rationale": "'жейт' — от жутуп жок кылат деген еврей идиомасы, кыргызча 'жутуп жок болот' деп берилди."
+    },
+    {
+      "kind": "you",
+      "subject": "окурманга",
+      "rationale": "הנה 'карагыла' — текст окурманды тартат."
+    }
+  ],
+  "translation": "Карагыла, Адонай аны кууп чыгат жана анын байлыгын деңизге соккулайт, жана ал от жутуп жок болот.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "c9a202bb4e68a734844dcdbcd9b335033db4cd8f27b7272f0cdf0115669ee6f2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/zechariah\/9\/1-4.1791215065132.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Карагыла"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יורשנה",
+      "gloss": "кууп чыгат"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "соккулайт"
+    },
+    {
+      "surface": "בים",
+      "gloss": "деңизге"
+    },
+    {
+      "surface": "חילה",
+      "gloss": "байлыгын"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "ал"
+    },
+    {
+      "surface": "באש",
+      "gloss": "от"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "жутуп жок болот"
+    }
+  ],
+  "timestamp": "2026-10-05T15:44:25.134062332Z",
+  "model": "glm-5.3"
+}

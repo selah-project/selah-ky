@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 64:4",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 64,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "כחרב\/לשונם",
+      "rationale": "Кылыч — тил деген салыштыруу; тил курч мааниде эки жолу колдонулат"
+    },
+    {
+      "kind": "crux",
+      "subject": "דרכו",
+      "rationale": "Драв 'жебени жипке илип багуу' же 'баап таштоо' — KJV 'бокко тартып атуу' кошумча кылган, еврейче атуу жок"
+    }
+  ],
+  "translation": "Алар тилдерин кылычтай курчашты; жебелерин багып турушту — ачуу сөз.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "f1ca18f044131ba021af68da3551d15de2fde9f46c864ce6e3a910ae8788107a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/64\/1-4.1791216352904.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Алар"
+    },
+    {
+      "surface": "שננו",
+      "gloss": "курчашты"
+    },
+    {
+      "surface": "כחרב",
+      "gloss": "кылычтай"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "тилдерин"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "багып турушту"
+    },
+    {
+      "surface": "חצם",
+      "gloss": "жебелерин"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сөз"
+    },
+    {
+      "surface": "מר",
+      "gloss": "ачуу"
+    }
+  ],
+  "timestamp": "2026-10-05T16:05:52.905424435Z",
+  "model": "glm-5.3"
+}

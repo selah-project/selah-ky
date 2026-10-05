@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 3:12",
+  "book": "leviticus",
+  "lang": "ky",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "аны",
+      "gloss": "קרבנו_suffix нускамасы кийинки этишке да тиешелүү — кыргызча объект кайталанды",
+      "rationale": "希伯来语中代词后缀已包含对象"
+    }
+  ],
+  "translation": "Жана эгер анын курмандыгы эчки болсо, аны Яхвенин алдына алып келет.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "936e6b553a4df9dd36b30a4640ced9a2d03da133f1f0c3c3cb304da55caa67ab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/3\/9-12.1791202803068.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "жана эгер"
+    },
+    {
+      "surface": "עז",
+      "gloss": "эчки"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "анын курмандыгы"
+    },
+    {
+      "surface": "והקריבו",
+      "gloss": "алып келет"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "алдына"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    }
+  ],
+  "timestamp": "2026-10-05T12:20:03.070254961Z",
+  "model": "glm-5.3"
+}

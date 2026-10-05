@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 97:5",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 97,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "алдында",
+      "rationale": "מלפני букв. 'беттин алдында' — 'алдында' деп кыскартылды"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "милелефней…милелефней",
+      "rationale": "'Яхвенин алдында \/ Адонайынын алдында' — эки жолу кайталанган параллелизм"
+    }
+  ],
+  "translation": "Тоолор дат-тушканыдай эрип кетти Яхвенин алдында, бүт жердин Адонайынын алдында.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "90ca7e6f79129eb100cd2a224c5a80a2d7aa9fcba58f34eadf132578bf49818c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/97\/5-8.1791216904299.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הרים",
+      "gloss": "тоолор"
+    },
+    {
+      "surface": "כדונג",
+      "gloss": "дат-тушканыдай"
+    },
+    {
+      "surface": "נמסו",
+      "gloss": "эрип кетти"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "алдында"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "алдында"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "Адонайынын"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүт"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "жердин"
+    }
+  ],
+  "timestamp": "2026-10-05T16:15:04.300397261Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 34:17",
+  "book": "numbers",
+  "lang": "ky",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "—",
+      "rationale": "Ивритте жок болгон байламча тынчтык белгиси кошулду"
+    },
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "rationale": "Кыргызча салыштырма атооч «—» менен берилди"
+    },
+    {
+      "kind": "measurement",
+      "subject": "ысымдар тизмеси",
+      "rationale": "Жерди бөлүштүрүүчү адамдардын аттары саналып жатат"
+    }
+  ],
+  "translation": "Бул — силерге ⟨את⟩ жерди мурас кылып берише турган адамдардын ысымдары: коэн Элазар жана Нундун уулу Йехошуа.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "e78331b8a888dc92960d970a9658d5e8bcae6be97d46aef5013f82f47a6a14ed",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/numbers\/34\/17-20.1791204575278.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "бул"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "ысымдары"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "адамдардын"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "ינחלו",
+      "gloss": "мурас кылып берише турган"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "силерге"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "жерди"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "жерди"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Элазар"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "коэн"
+    },
+    {
+      "surface": "ויהושע",
+      "gloss": "жана Йехошуа"
+    },
+    {
+      "surface": "בן",
+      "gloss": "уулу"
+    },
+    {
+      "surface": "נון",
+      "gloss": "Нундун"
+    }
+  ],
+  "timestamp": "2026-10-05T12:49:35.278942070Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,125 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 11:4",
+  "book": "leviticus",
+  "lang": "ky",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жувун алып чыгуу",
+      "rationale": "מעלה גרה — «жувун өйдө алып чыгуу», кыргызча узун сөз айкашы менен берилди"
+    },
+    {
+      "kind": "substitution",
+      "subject": "таза эмес",
+      "rationale": "טמא — диний маанидеги «булганч»; «таза эмес» кыргыз угумуна жакыныраак"
+    },
+    {
+      "kind": "you",
+      "subject": "силерге",
+      "rationale": "айкат Израилдин ыйык кызмат кылуучуларына — Моше аркылуу элге багытталган"
+    }
+  ],
+  "translation": "Бирок ⟨את⟩ муну жебеңер: жувун алып чыгуучулардан жана туякты жаруучулардан — ⟨את⟩ төөдү; анткени ал жувун алып чыгат, бирок туягын жара бөлбөйт — ал силерге таза эмес.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "2f7bd96d7031c5c54a979ad3a97960b587d259517d2caee6534553d30327670e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/11\/4-4.1791223613370.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "бирок"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "муну"
+    },
+    {
+      "surface": "זה",
+      "gloss": "муну"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жебеңер — эмес"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "жебеңер"
+    },
+    {
+      "surface": "ממעלי",
+      "gloss": "алып чыгуучулардан"
+    },
+    {
+      "surface": "הגרה",
+      "gloss": "жувуну"
+    },
+    {
+      "surface": "וממפריסי",
+      "gloss": "жана жаруучулардан"
+    },
+    {
+      "surface": "הפרסה",
+      "gloss": "туякты"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "төөдү"
+    },
+    {
+      "surface": "הגמל",
+      "gloss": "төөдү"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "алып чыгат"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "жувун"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ал"
+    },
+    {
+      "surface": "ופרסה",
+      "gloss": "бирок туяк"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "жара бөлбөйт"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "жаруучу — эмес"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "таза эмес"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ал"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "силерге"
+    }
+  ],
+  "timestamp": "2026-10-05T18:06:53.370624453Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 122,
+  "ref": "psalms 119:122",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ערב",
+      "rationale": "'be surety' vs 'pledge\/intermingle' — legal guarantee reading chosen following the ancient versions"
+    }
+  ],
+  "translation": "Кулуң үчүн жакшылыкка кепил бол; текеберлер мени эзбесин.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "8ab7dffb29c8572f4537a19b3024d19d043d50f4049b89f95dd83e4d3980aeb8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/119\/121-124.1791217390084.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ערב",
+      "gloss": "кепил бол"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "кулуң"
+    },
+    {
+      "surface": "לטוב",
+      "gloss": "жакшылыкка"
+    },
+    {
+      "surface": "אל",
+      "gloss": "эзбесин"
+    },
+    {
+      "surface": "יעשקני",
+      "gloss": "мени"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "текеберлер"
+    }
+  ],
+  "timestamp": "2026-10-05T16:23:10.084998839Z",
+  "model": "glm-5.3"
+}

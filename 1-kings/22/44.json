@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-kings 22:44",
+  "book": "1-kings",
+  "lang": "ky",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "סרו ... במות",
+      "rationale": "«Бийик жайлар четке кеткен жок» — 43-аяттагы «ал (падыша) четке кеткен жок» этиши менен кайталоо: падыша туура жолдо калды, бийик жайлар калды"
+    },
+    {
+      "kind": "crux",
+      "subject": "הבמות",
+      "rationale": "«Бийик жайлар» — латынча high places салты; булар кадимки культтук тегерегинде курмандык чалынган дөбө-местер"
+    }
+  ],
+  "translation": "Бирок бийик жайлар жок болгон жок, эл дагы эле бийик жайларда курмандык чалып, жыпар жыттарын түтөтүп жаткан.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "77d0d8fb2da234750bae7ff491fa646b58000c78335b2bbcdb8f751c997b1eb9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-kings\/22\/41-44.1791208590253.json",
+    "code": "641241cf-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Бирок"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "бийик жайлар"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "жок болгон жок"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "дагы эле"
+    },
+    {
+      "surface": "העם",
+      "gloss": "эл"
+    },
+    {
+      "surface": "מזבחים",
+      "gloss": "курмандык чалып"
+    },
+    {
+      "surface": "ומקטרים",
+      "gloss": "жыпар жыттарын түтөтүп"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "бийик жайларда"
+    }
+  ],
+  "timestamp": "2026-10-05T13:56:30.254726350Z",
+  "model": "glm-5.3"
+}

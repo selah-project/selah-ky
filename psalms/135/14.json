@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 135:14",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 135,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יתנחם",
+      "rationale": "Негизги тамыр נחם: «окунуу, кечирим кылуу» (KJV «repent») же «боор оорутуу, жаны ачуу» (BSV «compassion») — бул жерде кулдарына ырайым мааниси басымдуу"
+    }
+  ],
+  "translation": "Анткени Яхве ⟨את⟩ өз элин соттойт жана кулдары жөнүндө жаны ачыйт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "21e4c846f6fcfbb12fe1c6634aaff1c736b87d3fa02af7da7038206331789f57",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/135\/13-16.1791217502160.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "соттойт"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "өз элин"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "жана … жөнүндө"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "кулдары"
+    },
+    {
+      "surface": "יתנחם",
+      "gloss": "жаны ачыйт"
+    }
+  ],
+  "timestamp": "2026-10-05T16:25:02.162106887Z",
+  "model": "glm-5.3"
+}

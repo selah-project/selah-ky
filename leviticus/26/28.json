@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 26:28",
+  "book": "leviticus",
+  "lang": "ky",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עמי בקרי \/ עמכם בחמת קרי",
+      "rationale": "27-аяттагы 'Мен менен каршылыкта' 28-аятта 'силер менен каршылыктын ачуусунда' деп айкын чагылдырылат — м_measure-for-measure кыймыл"
+    },
+    {
+      "kind": "measurement",
+      "subject": "שבע",
+      "rationale": "'Жети жолу' — ыйык толук сан, 26-главанын кайра-кайра кайталануу схемасынын бир бөлүгү"
+    },
+    {
+      "kind": "crux",
+      "subject": "אף אני",
+      "rationale": "'Мен да, Мен өзүм' — КJВ 'Мен, да Мен өзүм' деп бөлөт; жөн гана басым күчөтүү"
+    }
+  ],
+  "translation": "Жана Мен да силер менен каршылыктын ачуусунда жүрөм, жана ⟨את⟩ силерди Мен өзүм, күнөөлөрүңөр үчүн жети жолу жазалайм.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "3830eb8310ff9e447861bfff6904fe62b47c0408b847f80a38e745439a81eeb5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/26\/25-28.1791203494608.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והלכתי",
+      "gloss": "жүрөм"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "силер менен"
+    },
+    {
+      "surface": "בחמת",
+      "gloss": "ачуусунда"
+    },
+    {
+      "surface": "קרי",
+      "gloss": "каршылыктын"
+    },
+    {
+      "surface": "ויסרתי",
+      "gloss": "жазалайм"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "силерди"
+    },
+    {
+      "surface": "אף",
+      "gloss": "да"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Мен өзүм"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "жети жолу"
+    },
+    {
+      "surface": "על",
+      "gloss": "үчүн"
+    },
+    {
+      "surface": "חטאתיכם",
+      "gloss": "күнөөлөрүңөр"
+    }
+  ],
+  "timestamp": "2026-10-05T12:31:34.609391886Z",
+  "model": "glm-5.3"
+}

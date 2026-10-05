@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 43:34",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "беш эсе",
+      "rationale": "חמש ידות лит. 'беш кол' — өлчөм сөзү, кыргызча 'беш кол' эмес 'беш эсе' деп берилди"
+    },
+    {
+      "kind": "crux",
+      "subject": "וישכרו",
+      "rationale": "'мас болушту' же 'эркин ичишти' — KJV 'were merry', YLT 'drank abundantly'; этиштин так мааниси 'мас болуу'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "беш эсе",
+      "rationale": "Порциялардын саны өлчөнүп берилип, Бинъяминге артыкчылык көрсөтүлүүдө"
+    }
+  ],
+  "translation": "⟨את⟩ Анын алдынан аларга порциялар көтөрүлдү, жана Бинъяминдин порциясы баарыныкынан беш эсе көп болду. Жана алар ичишти жана Анын менен кошо ичип мас болушту.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "01d6fa1745fece849ce750ffe78d7ec93126aace953cb752294d15420147a5a9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/43\/33-34.1791201606230.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "көтөрүлдү"
+    },
+    {
+      "surface": "משאת",
+      "gloss": "порциялар"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "Анын алдынан"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "Анын алдынан"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "аларга"
+    },
+    {
+      "surface": "ותרב",
+      "gloss": "жана көп болду"
+    },
+    {
+      "surface": "משאת",
+      "gloss": "порциясы"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Бинъяминдин"
+    },
+    {
+      "surface": "ממשאת",
+      "gloss": "порциясынан"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "баарыныкынан"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "беш"
+    },
+    {
+      "surface": "ידות",
+      "gloss": "эсе"
+    },
+    {
+      "surface": "וישתו",
+      "gloss": "жана алар ичишти"
+    },
+    {
+      "surface": "וישכרו",
+      "gloss": "ичип мас болушту"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "Анын менен кошо"
+    }
+  ],
+  "timestamp": "2026-10-05T12:00:06.231313928Z",
+  "model": "glm-5.3"
+}

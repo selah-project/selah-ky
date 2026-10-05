@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "esther 6:14",
+  "book": "esther",
+  "lang": "ky",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "сараай кызматчылары",
+      "rationale": "סריסים — «өркөчсүз кызматчылар» деген сөз; кыргызча эптүү көрүнүшү берилди"
+    },
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "rationale": "Салыштырма байландык «אשר» кыргызча бош орун менен берилди"
+    }
+  ],
+  "translation": "Алар аны менен али сүйлөшүп жатканда падышанын сараай кызматчылары келишти жана ⟨את⟩ Хаманды Эстерге жасаган тойго алып барууга шашылышты.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "24712920add81b111b6a4e92be886e6a1595eafc9bd4e813e13c33c4f9c1bb62",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/esther\/6\/13-14.1791220344805.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עודם",
+      "gloss": "али"
+    },
+    {
+      "surface": "מדברים",
+      "gloss": "сүйлөшүп жатканда"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "аны менен"
+    },
+    {
+      "surface": "וסריסי",
+      "gloss": "жана сараай кызматчылары"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "падышанын"
+    },
+    {
+      "surface": "הגיעו",
+      "gloss": "келишти"
+    },
+    {
+      "surface": "ויבהלו",
+      "gloss": "жана шашылышты"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "алып барууга"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Хаманды"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Хаманды"
+    },
+    {
+      "surface": "אל",
+      "gloss": "тойго"
+    },
+    {
+      "surface": "המשתה",
+      "gloss": "тойго"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "жасаган"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Эстерге"
+    }
+  ],
+  "timestamp": "2026-10-05T17:12:24.806749813Z",
+  "model": "glm-5.3"
+}

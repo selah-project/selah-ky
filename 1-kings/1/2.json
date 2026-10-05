@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 1:2",
+  "book": "1-kings",
+  "lang": "ky",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "סכנת",
+      "rationale": "Rare participle of סכן — 'attendant\/one who ministers', rendered 'камкор'."
+    },
+    {
+      "kind": "crux",
+      "subject": "בחיקך",
+      "rationale": "Sudden shift to second person 'thy bosom' inside the servants' speech; some translators smooth it to 'his bosom'."
+    }
+  ],
+  "translation": "Жана анын кызматчылары ага айтышты: Мырза падышага жаш таза кыз издешсин, ал падышанын алдында турсун жана ага камкор болсун, ал сенин бөкөңдө жатсын, мырза падыша жылышы үчүн.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "562ff7926eee9f9b6a2fd952ebf5bb75e2182e1ea218bf5cf298ba9de9e5b7de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-kings\/1\/1-4.1791207947103.json",
+    "code": "641241cf-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "айтышты"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ага"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "анын кызматчылары"
+    },
+    {
+      "surface": "יבקשו",
+      "gloss": "издешсин"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "мырза"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "падышага"
+    },
+    {
+      "surface": "נערה",
+      "gloss": "жаш кыз"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "таза кыз"
+    },
+    {
+      "surface": "ועמדה",
+      "gloss": "турсун"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "алдында"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "падышанын"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "болсун"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ага"
+    },
+    {
+      "surface": "סכנת",
+      "gloss": "камкор"
+    },
+    {
+      "surface": "ושכבה",
+      "gloss": "жатсын"
+    },
+    {
+      "surface": "בחיקך",
+      "gloss": "бөкөңдө"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "жылышы үчүн"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "мырза"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "падыша"
+    }
+  ],
+  "timestamp": "2026-10-05T13:45:47.104827384Z",
+  "model": "glm-5.3"
+}

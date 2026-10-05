@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 20:20",
+  "book": "2-samuel",
+  "lang": "ky",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חלילה חלילה",
+      "rationale": "эгерлик ант формуласы эки жолу кайталанат — бекем четке кагуунун ыргагы"
+    },
+    {
+      "kind": "elision",
+      "subject": "אם",
+      "rationale": "шарттык «эгер» кыргызча антта ачык берилбей, «алыс болсун» ичинде эриди"
+    }
+  ],
+  "translation": "Иоав жооп берип айтты: Мага алыс болсун, алыс болсун — жутуш да, ойрон салуу да.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "8ad95de7365608618ac7f9b6c305ba9fc9617bdbae2756e6b10e598fadb78a20",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-samuel\/20\/17-20.1791207744021.json",
+    "code": "641241cf-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "жооп берип"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Иоав"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "алыс болсун"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "алыс болсун"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мага"
+    },
+    {
+      "surface": "אם",
+      "gloss": "эгер"
+    },
+    {
+      "surface": "אבלע",
+      "gloss": "жутуш"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "жана"
+    },
+    {
+      "surface": "אשחית",
+      "gloss": "ойрон салуу"
+    }
+  ],
+  "timestamp": "2026-10-05T13:42:24.023361842Z",
+  "model": "glm-5.3"
+}

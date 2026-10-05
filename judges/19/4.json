@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 19:4",
+  "book": "judges",
+  "lang": "ky",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ויחזק בו",
+      "rationale": "'аны бекем кармады' — еврей идиомасы: кетирбей кармап, конокко калтыруу"
+    },
+    {
+      "kind": "measurement",
+      "subject": "үч күн",
+      "rationale": "שלשת ימים — конокто болуу убактысынын эсеби"
+    }
+  ],
+  "translation": "Анын кайнатасы, кыздын атасы аны кармап калды, жана ал ⟨את⟩ анын менен үч күн отурду; алар жешти жана ичишти жана ал жерде түнөштү.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "1d385ad8e88bbed2bfa5ee8566b34a51ac598331594ba55a60f91e4bb2972e70",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/judges\/19\/1-4.1791206449069.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "кармап калды"
+    },
+    {
+      "surface": "בו",
+      "gloss": "аны"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "кайнатасы"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "атасы"
+    },
+    {
+      "surface": "הנערה",
+      "gloss": "кыздын"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "отурду"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ анын менен",
+      "marks": "күйөөсү (леби эркек)"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "үч"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "күн"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "жешти"
+    },
+    {
+      "surface": "וישתו",
+      "gloss": "ичишти"
+    },
+    {
+      "surface": "וילינו",
+      "gloss": "түнөштү"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ал жерде"
+    }
+  ],
+  "timestamp": "2026-10-05T13:20:49.070491104Z",
+  "model": "glm-5.3"
+}

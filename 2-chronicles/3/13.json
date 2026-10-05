@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 3:13",
+  "book": "2-chronicles",
+  "lang": "ky",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "жыйырма чыканак",
+      "rationale": "Керубдардын канаттарынын жайылышы ченелет."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨узундукта болду⟩",
+      "rationale": "Еврей текстте этиш жок, ченемди байланыштыруу үчүн кошулду."
+    },
+    {
+      "kind": "crux",
+      "subject": "לבית",
+      "rationale": "КЖВ\/БШБ 'ичтериңе көздөй' десе, tekst боюнча 'үйгө' — беттер ыйык жайга караган."
+    }
+  ],
+  "translation": "Бул керубдардын канаттары жайылып чыканак жыйырма ⟨узундукта болду⟩; жана алар буттарынын үстүндө турушту, беттери үйгө карады.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "197a17b7b4f6dfa549c9bf5d0ec78f6e5bda37efc77cecb52e4d1c6e0946c265",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-chronicles\/3\/13-16.1791222597899.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כנפי",
+      "gloss": "канаттары"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "керубдардын"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "бул"
+    },
+    {
+      "surface": "פרשים",
+      "gloss": "жайылып"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "чыканак"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "жыйырма"
+    },
+    {
+      "surface": "והם",
+      "gloss": "жана алар"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "турушту"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстүндө"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "буттарынын"
+    },
+    {
+      "surface": "ופניהם",
+      "gloss": "беттери"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "үйгө карады"
+    }
+  ],
+  "timestamp": "2026-10-05T17:49:57.900301483Z",
+  "model": "glm-5.3"
+}

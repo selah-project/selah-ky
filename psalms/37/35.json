@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 37:35",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "кеңейип",
+      "rationale": "ומתערה (ערה тамыры) талаштуу: «жайылып, гүлдөп» же «жылаңачтанып, куурап» — KJV «spreading himself», YLT башкача"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רשע עריץ",
+      "rationale": "жаман\/зордукчу үндөштүгү, кыргызча жоголот"
+    }
+  ],
+  "translation": "Мен зордукчу жаманды көрдүм, ал жергиликтүү жашыл дарак сыяктуу кеңейип.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "e35d96f0cad5c91005cc3d5dbf35260abc95dbea183174aa42c81731a35b560c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/37\/33-36.1791215941308.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "көрдүм"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "жаман"
+    },
+    {
+      "surface": "עריץ",
+      "gloss": "зордукчу"
+    },
+    {
+      "surface": "ומתערה",
+      "gloss": "жана кеңейип"
+    },
+    {
+      "surface": "כאזרח",
+      "gloss": "жергиликтүү дарак сыяктуу"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "жашыл"
+    }
+  ],
+  "timestamp": "2026-10-05T15:59:01.309420566Z",
+  "model": "glm-5.3"
+}

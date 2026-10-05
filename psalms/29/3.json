@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 29:3",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "жатат",
+      "rationale": "Азарыкча этиш талап кылынат, еврейче жок."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קול יהוה",
+      "rationale": "«Яхвенин үнү» 29-забурда жети жолу кайталанат — аяттын түзүлүштүк мамычасы."
+    }
+  ],
+  "translation": "Яхвенин үнү суулардын үстүндө, даңктын Эли күүгүмдү чыгарып жатат, Яхве көп суулардын үстүндө.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "02a162fad5f156d1091e90746a6ef84308c3961a755f8396db11d58c6e6a0811",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/29\/1-4.1791215703590.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "үнү"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстүндө"
+    },
+    {
+      "surface": "המים",
+      "gloss": "суулардын"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эли"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "даңктын"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "күүгүмдү чыгарып жатат"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстүндө"
+    },
+    {
+      "surface": "מים",
+      "gloss": "суулардын"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "көп"
+    }
+  ],
+  "timestamp": "2026-10-05T15:55:03.591615862Z",
+  "model": "glm-5.3"
+}

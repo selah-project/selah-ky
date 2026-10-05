@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 22:7",
+  "book": "deuteronomy",
+  "lang": "ky",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שלח תשלח",
+      "rationale": "Инфинитив да, этиш да — 'сөзсүз коё бер' деген бекемдөө формасы."
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "Кыргызча жөнөтүү формасы Израилге айтылган буйрук."
+    }
+  ],
+  "translation": "Энени сөзсүз коё бер, балапандарды өзүңө ал, анткены сага жакшы болсун деп жана күндөрүң узун болсун деп.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "794ddb89b076f14dcfc10eeb491ad0a07e7a04fda1f028af580c0d94c566f42e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/22\/5-8.1791205150286.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "коё бер"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "сөзсүз коё бер"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "энени"
+    },
+    {
+      "surface": "האם",
+      "gloss": "энени"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "жана ⟨את⟩",
+      "marks": "балапандарды"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "балапандарды"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "ал"
+    },
+    {
+      "surface": "לך",
+      "gloss": "өзүңө"
+    },
+    {
+      "surface": "למען",
+      "gloss": "анткены"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "жакшы болсун"
+    },
+    {
+      "surface": "לך",
+      "gloss": "сага"
+    },
+    {
+      "surface": "והארכת",
+      "gloss": "жана узартасың"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "күндөрүң"
+    }
+  ],
+  "timestamp": "2026-10-05T12:59:10.287950797Z",
+  "model": "glm-5.3"
+}

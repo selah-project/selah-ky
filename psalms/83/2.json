@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 83:2",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 83,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "דמי לך",
+      "rationale": "'сенин үнсүздүгүң болбосун' — деген дос титул; кыргызча буйрук формада берилди"
+    },
+    {
+      "kind": "you",
+      "subject": "to Elohim",
+      "rationale": "Элохимге түз кайрылуу — үч биримдик буйрук менен"
+    }
+  ],
+  "translation": "Элохим, үнсүз калба, үндөбөй турба, тынчып калба, эй Эл!",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "b05e970a48ac81548857beea3a066b95266a3b584729a8e138147363b408412c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/83\/2-3.1791224479569.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "אל",
+      "gloss": "түгүл"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "үнсүз калба"
+    },
+    {
+      "surface": "לך",
+      "gloss": "сен"
+    },
+    {
+      "surface": "אל",
+      "gloss": "түгил"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "үндөбөй турба"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "жана түгил"
+    },
+    {
+      "surface": "תשקט",
+      "gloss": "тынчып калба"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эл"
+    }
+  ],
+  "timestamp": "2026-10-05T18:21:19.570120953Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 56:4",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 56,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "минекей",
+      "rationale": "Айрым котормолор «корккон күндө» деген шарттуу маанини берүү үчүн ачыктык кошот; еврейче жөн гана «корккон күнү»."
+    },
+    {
+      "kind": "you",
+      "subject": "Яхвеге (Элохимге)",
+      "rationale": "Сөзсүз ишеним жарыялоо — тикелей Сага деп кайрылуу."
+    }
+  ],
+  "translation": "Корккон күнү мен ⟨мінекей⟩ Сага таянам.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "a38d85356925c49aedc5bc6ca629f47794193efb8e83720aad23df69d223b3d6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/56\/1-4.1791216219058.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "күнү"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "Корккон"
+    },
+    {
+      "surface": "אני",
+      "gloss": "мен"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "Сага"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "таянам"
+    }
+  ],
+  "timestamp": "2026-10-05T16:03:39.059055952Z",
+  "model": "glm-5.3"
+}

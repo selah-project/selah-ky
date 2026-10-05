@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 5:8",
+  "book": "judges",
+  "lang": "ky",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "кудайлар",
+      "rationale": "Бул жерде אלהים — чет элдин жаңы кудайлары жөнүндө, ошондуктан кичине тамгалuu 'кудайлар'."
+    },
+    {
+      "kind": "crux",
+      "subject": "יבחר",
+      "rationale": "Жекече этиш көп сандуу объектке тиешелүү — 'алар тандады' (KJV) же 'Ал тандады' (Элохим Яхвени билдирет деген окуу); көпчүлүк котормолордой 'алар' мааниси алынды."
+    },
+    {
+      "kind": "measurement",
+      "subject": "кырк миң",
+      "rationale": "Калкан-найзасыз аскердин саны — санап көрсөтүү."
+    }
+  ],
+  "translation": "Жаңы кудайларды тандады — ошондо дарбазаларда согуш болду; калкан же найза көрүнбөй калды бекен, кырк миңдин арасында Йисраэлде?",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "599c823998dacf9f09627b24e3b06eee888c983c179f9be30c59187207eafd9d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/judges\/5\/5-8.1791206082868.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יבחר",
+      "gloss": "тандады"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "кудайларды"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "жаңы"
+    },
+    {
+      "surface": "אז",
+      "gloss": "ошондо"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "согуш"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "дарбазаларда"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "калкан"
+    },
+    {
+      "surface": "אם",
+      "gloss": "бекен"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "көрүнбөй калды"
+    },
+    {
+      "surface": "ורמח",
+      "gloss": "же найза"
+    },
+    {
+      "surface": "בארבעים",
+      "gloss": "кырк"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "миңдин"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Йисраэлде"
+    }
+  ],
+  "timestamp": "2026-10-05T13:14:42.869825176Z",
+  "model": "glm-5.3"
+}

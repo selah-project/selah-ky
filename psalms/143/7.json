@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 143:7",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 143,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "rationale": "Ивриттин 'ал' (тебе) болумчу кыргызча болумчусуз этиш менен берилди"
+    },
+    {
+      "kind": "addition",
+      "subject": "антпесе",
+      "rationale": "Ивриттин 'улай' ('жана мен окшоп калам') шарттык маанини кыргызча 'антпесе' ачып берет"
+    },
+    {
+      "kind": "you",
+      "subject": "Яхвеге",
+      "rationale": "Тикелей багытталган жалбарма: 'Тез жооп бер мага, Яхве'"
+    }
+  ],
+  "translation": "Тез жооп бер мага, Яхве, рухум түгөнүп барат; Өз жүзүңдү менден жашырба, антпесе чуңкурга түшкөндөргө окшоп калам.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "8819e593b95d1e83a7c349f50670be0586c1116177939e61aeaa365cf3685927",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/143\/5-8.1791217618079.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מהר",
+      "gloss": "Тез"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "жооп бер мага"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "כלתה",
+      "gloss": "түгөнүп барат"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "рухум"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "жашырба"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "жүзүңдү"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "менден"
+    },
+    {
+      "surface": "ונמשלתי",
+      "gloss": "антпесе окшоп калам"
+    },
+    {
+      "surface": "עם",
+      "gloss": "менен"
+    },
+    {
+      "surface": "ירדי",
+      "gloss": "түшкөндөргө"
+    },
+    {
+      "surface": "בור",
+      "gloss": "чуңкурга"
+    }
+  ],
+  "timestamp": "2026-10-05T16:26:58.079871390Z",
+  "model": "glm-5.3"
+}

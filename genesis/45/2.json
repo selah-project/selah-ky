@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 45:2",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ויתן את קלו בבכי",
+      "rationale": "Букв. «үнүн ыйлоодо берди» — күчтүү ыйкоо идиомасы"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "וישמעו \/ וישמע",
+      "rationale": "Эки жолу кайталанган «угду \/ укту» — үндүн жайылуусун чагылдырган кайрылуу"
+    }
+  ],
+  "translation": "Жана ал ыйлоо менен ⟨את⟩ үнүн берди, жана Мицрайим угду, жана Парохтун үйү укту.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "34e071bd88db5976584ff5d54f956cbd86a23506c73f23f19c45e05fd7437335",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/45\/1-4.1791201771397.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "берди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "анын үнү"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "үнүн"
+    },
+    {
+      "surface": "בבכי",
+      "gloss": "ыйлоо менен"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "жана угду"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицрайим"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "жана укту"
+    },
+    {
+      "surface": "בית",
+      "gloss": "үйү"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Парохтун"
+    }
+  ],
+  "timestamp": "2026-10-05T12:02:51.398018027Z",
+  "model": "glm-5.3"
+}

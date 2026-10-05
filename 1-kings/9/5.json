@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 9:5",
+  "book": "1-kings",
+  "lang": "ky",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "עַל (דוד)",
+      "rationale": "«Давид атынан» деген еврей предлогу кыргызча «Давид атaңа» ичинде жутулган"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨эч бир⟩",
+      "rationale": "«лo-yikkaret leka ish» — танбоо күчөтүүсү үчүн кошулду"
+    }
+  ],
+  "translation": "Мен ⟨את⟩ падышачылыгыңдын тактысын Йисраэл үстүнөн түбөлүккө тиктеймин, Давид атaңа айтканымдай: «Йисраэл тактысынан сага ⟨эч бир⟩ адам кесилип калбайт».",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "caf5c9a308fc693d9233ac01ea678a1dda312b6f1a3458cbf13358621c5028c7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-kings\/9\/5-8.1791208271575.json",
+    "code": "641241cf-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וַהֲקִמֹתִי",
+      "gloss": "тиктеймин"
+    },
+    {
+      "surface": "אֵת",
+      "gloss": "⟨את⟩",
+      "marks": "тактысын"
+    },
+    {
+      "surface": "כִּסֵּא",
+      "gloss": "тактысын"
+    },
+    {
+      "surface": "מַמְלַכְתְּךָ",
+      "gloss": "падышачылыгыңдын"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "үстүнөн"
+    },
+    {
+      "surface": "יִשְׂרָאֵל",
+      "gloss": "Йисраэл"
+    },
+    {
+      "surface": "לְעֹלָם",
+      "gloss": "түбөлүккө"
+    },
+    {
+      "surface": "כַּאֲשֶׁר",
+      "gloss": "айткандай"
+    },
+    {
+      "surface": "דִּבַּרְתִּי",
+      "gloss": "айтканым"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "—"
+    },
+    {
+      "surface": "דָּוִד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "אָבִיךָ",
+      "gloss": "атаңа"
+    },
+    {
+      "surface": "לֵאמֹר",
+      "gloss": "деп"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "эмес"
+    },
+    {
+      "surface": "יִכָּרֵת",
+      "gloss": "кесилип калат"
+    },
+    {
+      "surface": "לְךָ",
+      "gloss": "сага"
+    },
+    {
+      "surface": "אִישׁ",
+      "gloss": "адам"
+    },
+    {
+      "surface": "מֵעַל",
+      "gloss": "үстүнөн"
+    },
+    {
+      "surface": "כִּסֵּא",
+      "gloss": "тактысынан"
+    },
+    {
+      "surface": "יִשְׂרָאֵל",
+      "gloss": "Йисраэл"
+    }
+  ],
+  "timestamp": "2026-10-05T13:51:11.576383446Z",
+  "model": "glm-5.3"
+}

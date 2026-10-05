@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 3:4",
+  "book": "proverbs",
+  "lang": "ky",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Ошондо сен",
+      "rationale": "ивритте этиш буйрук формада жалганып турат; кыргызча шарттуу «Ошондо сен» кошулду"
+    },
+    {
+      "kind": "idiom",
+      "subject": "көздөрүндө",
+      "rationale": "בעיני — идиома: «көздөрүндө» = «көзүнө көрүнүүтүндө», кыргызча да сакталды"
+    }
+  ],
+  "translation": "Ошондо сен ырайым жана жакшы акыл-эстүүлүктү Элохимдин жана адамдын көздөрүндө табасың.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "9e3efa0200e526c25cc16d6b56f2d5b0283d7a5b0748e09b2f2ef5fe56db5397",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/3\/1-4.1791217788075.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומצא",
+      "gloss": "Ошондо сен ... табасың"
+    },
+    {
+      "surface": "חן",
+      "gloss": "ырайым"
+    },
+    {
+      "surface": "ושכל",
+      "gloss": "жана акыл-эстүүлүктү"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "жакшы"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "көздөрүндө"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохимдин"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "жана адамдын"
+    }
+  ],
+  "timestamp": "2026-10-05T16:29:48.076776566Z",
+  "model": "glm-5.3"
+}

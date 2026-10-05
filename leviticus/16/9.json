@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 16:9",
+  "book": "leviticus",
+  "lang": "ky",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "את",
+      "rationale": "aleph-tav объект маркери кыргызча объект табыштамасы менен берилди, ⟨את⟩ белгиси менен"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חטאת",
+      "rationale": "күнөө жана күнөө курмандыгы бир эле сөз — кыргызча эки сөзгө бөлүндү"
+    }
+  ],
+  "translation": "Жана Ахарон ⟨את⟩ эчкини, анын үстүнө Яхвенин үчүн жребий чыккан эчкини алып келсин, жана аны күнөө курмандыгы кылып жасасын.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "c91ac5d3957eedc634377f4308617d4d9741b65a14bd61e9560cd0b3c2bf8f70",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/16\/9-12.1791203190700.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "алып келсин"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Ахарон"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "эчкини"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "эчкини"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "анын үстүнө"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "чыккан"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "үстүнө"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "жребий"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхвенин үчүн"
+    },
+    {
+      "surface": "ו ועשהו",
+      "gloss": "жана аны жасасын"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "күнөө курмандыгы"
+    }
+  ],
+  "timestamp": "2026-10-05T12:26:30.701135510Z",
+  "model": "glm-5.3"
+}

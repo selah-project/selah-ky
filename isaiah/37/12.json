@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 37:12",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "кудайлары",
+      "rationale": "אלהי הגוים — башка элдердин кудайлары; Ысым эмес, ошондуктан кичине тамга менен"
+    },
+    {
+      "kind": "crux",
+      "subject": "аталарым кырган",
+      "rationale": "אשר השחיתו — «эмнени аталарым кырган» же «кимдерди» деген салыштыруу талаштуу"
+    }
+  ],
+  "translation": "Элдердин кудайлары ⟨את⟩ аларды куткарыштыбы — менин аталарым кырган ⟨את⟩ Гозанду, ⟨את⟩ Харанды, Рецефти жана Теласкарда болгон Эден уулдарын?",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "58a2d0b98f488fcc482ba781196e6d88a694931f50e6ace27ff4aa848dfffddb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/37\/9-12.1791210019886.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ההצילו",
+      "gloss": "куткарыштыбы"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "аларды"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "кудайлары"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "элдердин"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "аларды"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "кырган"
+    },
+    {
+      "surface": "אבותי",
+      "gloss": "менин аталарым"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Гозанду"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "Гозан"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ жана",
+      "marks": "Харанды"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "Харан"
+    },
+    {
+      "surface": "ורצף",
+      "gloss": "жана Рецеф"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "жана уулдары"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Эден"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "алар"
+    },
+    {
+      "surface": "בתלשר",
+      "gloss": "Теласкарда"
+    }
+  ],
+  "timestamp": "2026-10-05T14:20:19.887501558Z",
+  "model": "glm-5.3"
+}

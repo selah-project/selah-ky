@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 25:8",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מקדש\/ושכנתי",
+      "rationale": "ыйык жай (миқдаш) жана Шекинанын тамыры ш-к-н ('жашоо') байланышы: ыйык жай — Яхвенин ортодо жашоосу үчүн."
+    },
+    {
+      "kind": "you",
+      "subject": "Йисраэл элине",
+      "rationale": "Моше аркылуу элге буйрук — 'жасашсын' айтым формасы."
+    }
+  ],
+  "translation": "Жана Мага ыйык жай жасашсын, жана Мен алардын ортосунда жашайм.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "ce374d366a2422946f1f8f97cc652ca891669dfe885052eeb4aaad6b2a1594a4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/25\/7-8.1791223554096.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "жана жасашсын"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Мага"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "ыйык жай"
+    },
+    {
+      "surface": "ושכנתי",
+      "gloss": "жана жашайм"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "алардын ортосунда"
+    }
+  ],
+  "timestamp": "2026-10-05T18:05:54.096982410Z",
+  "model": "glm-5.3"
+}

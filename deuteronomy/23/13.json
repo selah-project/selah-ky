@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 23:13",
+  "book": "deuteronomy",
+  "lang": "ky",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ויד (кол)",
+      "rationale": "Бул жерде «кол» сөзү «орун, жай» деген мааниде; көп котормолор «орун» деп берет, биз да ошондой кылдык — жогорку маанида."
+    },
+    {
+      "kind": "elision",
+      "subject": "חוץ",
+      "rationale": "Аяттын аягындагы «сыртка» — сыртка чыгуу иш-аракетин билдирүүчү кайталоо, кыргызча бир гана «сыртка» жетиштүү."
+    }
+  ],
+  "translation": "Жана сага лагердин сыртында ⟨орун⟩ болсун, жана ал жакка сыртка чыгасың.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "2bb8bb5a35e90ff0eb67e0ca4f6134c61e4dac0df80d08fd7f5a3fa74a27ca18",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/23\/13-16.1791205232740.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויד",
+      "gloss": "жана ⟨орун⟩"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "болсун"
+    },
+    {
+      "surface": "לך",
+      "gloss": "сага"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "сыртында"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "лагердин"
+    },
+    {
+      "surface": "ויצאת",
+      "gloss": "жана чыгасың"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ал жакка"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "сыртка"
+    }
+  ],
+  "timestamp": "2026-10-05T13:00:32.741438314Z",
+  "model": "glm-5.3"
+}

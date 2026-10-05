@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 23:6",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ירדפוני",
+      "rationale": "куугунттоо этиши жакшылык жөнүндө колдонулат — 'куу' сөзү тескери мааниде берилип, образ калат"
+    },
+    {
+      "kind": "substitution",
+      "subject": "хесед",
+      "rationale": "חסед — 'ырайым' деп да которулат; D2 боюнча 'хесед' сакталды"
+    }
+  ],
+  "translation": "Албетте, жакшылык жана хесед мени өмүрүмдүн күндөрүнүн баарында кууп жүрөт, жана мен Яхвенин үйүндө узак күндөр бою отурамын.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "437b3805d8dd14efde3cf52258f186cd44e8aaff39de9897338cf7b3111e3449",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/23\/5-6.1791215659131.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "албетте"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "жакшылык"
+    },
+    {
+      "surface": "וחסד",
+      "gloss": "жана хесед"
+    },
+    {
+      "surface": "ירדפוני",
+      "gloss": "мени кууп жүрөт"
+    },
+    {
+      "surface": "כל",
+      "gloss": "баарында"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "күндөрүнүн"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "өмүрүмдүн"
+    },
+    {
+      "surface": "ושבתי",
+      "gloss": "жана отурамын"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "үйүндө"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    },
+    {
+      "surface": "לארך",
+      "gloss": "узак"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "күндөр"
+    }
+  ],
+  "timestamp": "2026-10-05T15:54:19.131862274Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 28:7",
+  "book": "2-chronicles",
+  "lang": "ky",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "башчысы",
+      "rationale": "נגיד — literally ‘the one in front,’ a prince\/steward of the palace household."
+    },
+    {
+      "kind": "crux",
+      "subject": "משנה המלך",
+      "rationale": "‘Second to the king’ (deputy) vs ‘the king’s double\/copy’; KJV ‘next to the king’."
+    }
+  ],
+  "translation": "Жана Зихри, Эфрайымдын эр жүрөк жоокери, падышанын уулу Маасейаhуну ⟨את⟩, үйдүн башчысы Азрикамды ⟨את⟩ жана падышадан кийинки экинчи киши Элкананы ⟨את⟩ өлтүрдү.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "8dee184a6b1b54564e80b940c367f2109b38e290dd9fee73ef05f07a2b51ed34",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-chronicles\/28\/5-8.1791223206098.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהרג",
+      "gloss": "өлтүрдү"
+    },
+    {
+      "surface": "זכרי",
+      "gloss": "Зихри"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "эр жүрөк жоокери"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Эфрайымдын"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Маасейаhуну"
+    },
+    {
+      "surface": "מעשיהו",
+      "gloss": "Маасейаhуну"
+    },
+    {
+      "surface": "בן",
+      "gloss": "уулу"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "падышанын"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Азрикамды"
+    },
+    {
+      "surface": "עזריקם",
+      "gloss": "Азрикамды"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "башчысы"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "үйдүн"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Элкананы"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Элкананы"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "экинчиси"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "падышанын"
+    }
+  ],
+  "timestamp": "2026-10-05T18:00:06.109555807Z",
+  "model": "glm-5.3"
+}

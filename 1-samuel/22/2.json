@@ -1,0 +1,127 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 22:2",
+  "book": "1-samuel",
+  "lang": "ky",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жаны",
+      "rationale": "נפש 'жан' — дем алган жандуу жан, 'жүрөк' же 'кан' эмес"
+    },
+    {
+      "kind": "crux",
+      "subject": "נושא",
+      "rationale": "'карыз берүүчү\/талап ээси' же 'карыздуу' — эки окуу бар; 'карызы бар' деп алынды"
+    },
+    {
+      "kind": "measurement",
+      "subject": "төрт жүзгө жакын эркек",
+      "rationale": "Давиддин топтун саны өлчөмү катары берилген"
+    }
+  ],
+  "translation": "Ага кысымдагы ар бир адам, карызы бар ар бир адам жана жаны ачуу ар бир адам чогулушту; ал алардын башчысы болду, жана анын жанында төрт жүзгө жакын эркек болду.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "9e6949e1d187902aa7707ff1db513f0301ecab4843dfe83992db6838e23bb091",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-samuel\/22\/1-4.1791207165361.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתקבצו",
+      "gloss": "чогулушту"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ага"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ар бир"
+    },
+    {
+      "surface": "איש",
+      "gloss": "адам"
+    },
+    {
+      "surface": "מצוק",
+      "gloss": "кысымдагы"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "жана ар бир"
+    },
+    {
+      "surface": "איש",
+      "gloss": "адам"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…ган"
+    },
+    {
+      "surface": "לו",
+      "gloss": "анын"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "карызы бар"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "жана ар бир"
+    },
+    {
+      "surface": "איש",
+      "gloss": "адам"
+    },
+    {
+      "surface": "מר",
+      "gloss": "ачуу"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "жаны"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "болду"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "алардын"
+    },
+    {
+      "surface": "לשר",
+      "gloss": "башчысы"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "болду"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "анын жанында"
+    },
+    {
+      "surface": "כארבע",
+      "gloss": "төрт…га жакын"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "жүз"
+    },
+    {
+      "surface": "איש",
+      "gloss": "эркек"
+    }
+  ],
+  "timestamp": "2026-10-05T13:32:45.362700356Z",
+  "model": "glm-5.3"
+}

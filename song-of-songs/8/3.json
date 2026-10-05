@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 8:3",
+  "book": "song-of-songs",
+  "lang": "ky",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "турат",
+      "rationale": "Еврей текстте ээлик байлам жок; кыргызча сүйлөм аяктоо үчүн кошулду"
+    },
+    {
+      "kind": "addition",
+      "subject": "кол",
+      "rationale": "«сол», «оң» деген сөздөр гана бар; «кол» аныктоо үчүн кошулду"
+    }
+  ],
+  "translation": "Анын сол колу менин башымдын астында ⟨турат⟩, анын оң колу мени кучактайт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "4681abec20a1bb380eb99c89cdb81178bbedde8ecf8f3c17fcac4d09fb6b634a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/song-of-songs\/8\/1-4.1791219706212.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמאלו",
+      "gloss": "анын сол колу"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "астында"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "башымдын"
+    },
+    {
+      "surface": "וימינו",
+      "gloss": "анын оң колу"
+    },
+    {
+      "surface": "תחבקני",
+      "gloss": "мени кучактайт"
+    }
+  ],
+  "timestamp": "2026-10-05T17:01:46.212942211Z",
+  "model": "glm-5.3"
+}

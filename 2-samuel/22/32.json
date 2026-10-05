@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-samuel 22:32",
+  "book": "2-samuel",
+  "lang": "ky",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "бар",
+      "rationale": "Еврейче этиш жок; сурам идиома катары берилди"
+    },
+    {
+      "kind": "substitution",
+      "subject": "аскак таш",
+      "rationale": "צור — аскада турган зор таш (куман); кыргызча бир сөзгө сыйбайт"
+    }
+  ],
+  "translation": "Анткени Яхведен башка ким Эл бар, жана Элохимибизден башка ким ⟨аскак таш⟩ бар?",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "a588794f79958bf9281030ee02303a248c67f73913b07cffc5659ed93ee11109",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-samuel\/22\/32-32.1791223900108.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ким"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эл"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "…ден башка"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "жана ким"
+    },
+    {
+      "surface": "צור",
+      "gloss": "аскак таш"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "…ден башка"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Элохимибиз"
+    }
+  ],
+  "timestamp": "2026-10-05T18:11:40.108794486Z",
+  "model": "glm-5.3"
+}

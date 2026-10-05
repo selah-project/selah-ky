@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 11:17",
+  "book": "jeremiah",
+  "lang": "ky",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "רעה \/ רעת",
+      "rationale": "Эки жерде 'жаман' деген тамыр кайталанат — жамандык жамандыктын үчүн; кыргызча байланыш булунуп калат."
+    },
+    {
+      "kind": "substitution",
+      "subject": "בית = үй-бүлө",
+      "rationale": "Бул жерде 'үй' эмес, тукум-урук маанисинде."
+    }
+  ],
+  "translation": "Жана Яхве Цебаот, сени тиккен ⟨את⟩, сенин жөнүңө жамандык айтты — Йисраэл үй-бүлөсүнүн жана Йехуда үй-бүлөсүнүн жамандыгы үчүн: алар өзүнө кылып, Мени каардантыш үчүн, Баалга түтөтүү үчүн.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "890b04e897cbc46d2a1b6f2d94160063d9662159f2bc995aa9d3cd7473a5d86c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/jeremiah\/11\/17-20.1791210946879.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Жана Яхве"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цебаот"
+    },
+    {
+      "surface": "הנוטע",
+      "gloss": "тиккен"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩",
+      "marks": "сени"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "сенин жөнүңө"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "жамандык"
+    },
+    {
+      "surface": "בגלל",
+      "gloss": "үчүн"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "жамандыгы"
+    },
+    {
+      "surface": "בית",
+      "gloss": "үй-бүлөсүнүн"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэл"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "жана үй-бүлөсүнүн"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Йехуда"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "алар"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "кылып"
+    },
+    {
+      "surface": "להם",
+      "gloss": "өзүнө"
+    },
+    {
+      "surface": "להכעסני",
+      "gloss": "Мени каардантыш үчүн"
+    },
+    {
+      "surface": "לקטר",
+      "gloss": "түтөтүү үчүн"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "Баалга"
+    }
+  ],
+  "timestamp": "2026-10-05T14:35:46.879967282Z",
+  "model": "glm-5.3"
+}

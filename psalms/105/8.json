@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 105:8",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "өз",
+      "rationale": "суффиксальное местоимение 3-го лица выражено уточнителем при объекте"
+    },
+    {
+      "kind": "measurement",
+      "subject": "миң муунга",
+      "rationale": "счёт поколений — временно́е измерение завета"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "זכר",
+      "rationale": "повтор корня 'памнить' со стихом 5 — зов помнить и Его помнящий завет"
+    }
+  ],
+  "translation": "Ал өз келишимин түбөлүккө эстеди, миң муунга буйрук кылган сөзүн.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "f9375e1b687a7059db0197c0fb73fffc6371e415f950beb4ed1390fbe2cc10b5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/105\/5-8.1791217076857.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "эстеди"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "түбөлүккө"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "өз келишимин"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сөзүн"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "буйрук кылган"
+    },
+    {
+      "surface": "לאלף",
+      "gloss": "миң"
+    },
+    {
+      "surface": "דור",
+      "gloss": "муунга"
+    }
+  ],
+  "timestamp": "2026-10-05T16:17:56.860761979Z",
+  "model": "glm-5.3"
+}

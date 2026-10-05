@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 26:18",
+  "book": "1-chronicles",
+  "lang": "ky",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "күзөтчүлөрдүн саны",
+      "rationale": "Батыш тараптагы күзөтчүлөр эсептелет: төрт жана эки."
+    },
+    {
+      "kind": "hapax",
+      "subject": "פרבר",
+      "rationale": "Парбар — Танахта ушул аятта гана кездешкен Иерушалайимдеги аймактын аты; JPS «Precinct» деп которот."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨дагы⟩",
+      "rationale": "Экинчи «Парбарда» кайрылуусун ажыратуу үчүн кыргызча «дагы» кошулду."
+    }
+  ],
+  "translation": "Парбарда, батыш тарапта төрт, жолдо эки, Парбарда ⟨дагы⟩ эки.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "e879bdd42e87a64f017a316ddc64c77ab2169f9b77a446994d38acd84e1d4d19",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-chronicles\/26\/17-20.1791222434529.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לפרбר",
+      "gloss": "Парбарда"
+    },
+    {
+      "surface": "למערב",
+      "gloss": "батышта"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "төрт"
+    },
+    {
+      "surface": "למסלה",
+      "gloss": "жолдо"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "эки"
+    },
+    {
+      "surface": "לפרבר",
+      "gloss": "Парбарда"
+    }
+  ],
+  "timestamp": "2026-10-05T17:47:14.530374541Z",
+  "model": "glm-5.3"
+}

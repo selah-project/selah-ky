@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 17:2",
+  "book": "2-samuel",
+  "lang": "ky",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ורפה ידים",
+      "rationale": "Көчүрмө 'колдору алсыз' — еврейче 'колдор бошоң' деген идиома, кыргызча да түз кармалды."
+    },
+    {
+      "kind": "elision",
+      "subject": "ב",
+      "gloss-rationale": "אתו (менен) деген предлог кыргызча 'болгон' деген жардамчы этиш менен берилди."
+    }
+  ],
+  "translation": "Жана анын үстүнө барам, ал чарчаган жана колдору алсыз болот, жана аны коркутуп ⟨את⟩ жиберем, жана аны менен болгон бүт эл качат, жана падышаны гана ⟨את⟩ сабаймын.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "c5265f5c8454ac1fd503e1efb1042473f5112752bd36afd919893792c0b5e837",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-samuel\/17\/1-4.1791207660506.json",
+    "code": "641241cf-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואבוא",
+      "gloss": "жана барам"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "анын үстүнө"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ал"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "чарчаган"
+    },
+    {
+      "surface": "ורפה",
+      "gloss": "жана алсыз"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "колдор"
+    },
+    {
+      "surface": "והחרדתי",
+      "gloss": "коркутуп жиберем"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "аны (Давидди)"
+    },
+    {
+      "surface": "ונס",
+      "gloss": "жана качат"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүт"
+    },
+    {
+      "surface": "העם",
+      "gloss": "эл"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ким"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ мени"
+    },
+    {
+      "surface": "והכיתי",
+      "gloss": "жана сабаймын"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "падышаны"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "падыша"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "жалгыз өзүн гана"
+    }
+  ],
+  "timestamp": "2026-10-05T13:41:00.507263960Z",
+  "model": "glm-5.3"
+}

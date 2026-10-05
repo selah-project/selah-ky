@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 41:10",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אתי (экинчи)",
+      "rationale": "толуктоочтун кайталанышы кыргызча бир гана жолу көтөрүлдү, бирок глоссада сакталды"
+    },
+    {
+      "kind": "substitution",
+      "subject": "эт башчысы",
+      "rationale": "הטבחים 'этчилер\/жазалоочулар башчысы' — бул титул, анын бүткүл сүрөтү сакталды"
+    }
+  ],
+  "translation": "Пираун өз кызматчыларына ачуланды жана мени эт башчысынын үйүндөгү күзөткө берди — ⟨את⟩ мени жана ⟨את⟩ нан башчысын.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "738e5aebcec41dacc9580b1a423114915c5cabc304ce52d8ee6d42f27f3a33ea",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/41\/9-12.1791201567774.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פרעה",
+      "gloss": "Пираун"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "ачуланды"
+    },
+    {
+      "surface": "על",
+      "gloss": "өз…на"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "кызматчыларына"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "берди"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "мени"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "күзөткө"
+    },
+    {
+      "surface": "בית",
+      "gloss": "үйүндөгү"
+    },
+    {
+      "surface": "שר",
+      "gloss": "башчысынын"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "эт"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "мени"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "жана ⟨את⟩",
+      "marks": "нан башчысын"
+    },
+    {
+      "surface": "שר",
+      "gloss": "башчысын"
+    },
+    {
+      "surface": "האפים",
+      "gloss": "нан"
+    }
+  ],
+  "timestamp": "2026-10-05T11:59:27.775689533Z",
+  "model": "glm-5.3"
+}

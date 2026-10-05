@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 107:30",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "бухта",
+      "rationale": "מחוז жээлик менен курчалган порт; кыргызча деңиздик эквивалент"
+    },
+    {
+      "kind": "addition",
+      "subject": "Ал",
+      "rationale": "Ивритте субъект жок; Яхве 107:28 ден угулат"
+    }
+  ],
+  "translation": "Жана алар тынчыганы үчүн кубанды, жана Ал аларды каалаган бухталарына жетеледи.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "7541928a1e8f365b6ddaf9709c58f90261d45ee5693f33bf7174bacfb10d3808",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/107\/29-32.1791217164956.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "жана кубанды"
+    },
+    {
+      "surface": "כי",
+      "gloss": "үчүн"
+    },
+    {
+      "surface": "ישתקו",
+      "gloss": "тынчыганы"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "жана жетеледи"
+    },
+    {
+      "surface": "אל",
+      "gloss": "берди"
+    },
+    {
+      "surface": "מחוז",
+      "gloss": "бухталарына"
+    },
+    {
+      "surface": "חפצם",
+      "gloss": "каалаган"
+    }
+  ],
+  "timestamp": "2026-10-05T16:19:24.959059479Z",
+  "model": "glm-5.3"
+}

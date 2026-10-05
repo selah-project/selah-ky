@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 29:25",
+  "book": "proverbs",
+  "lang": "ky",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "бекем жерге коюлат",
+      "rationale": "ישגב — «бийик, жеткиреси жерде болуу, коопсуз болуу»; кыргызча бир сөз жок, эки сөз менен берилди"
+    },
+    {
+      "kind": "crux",
+      "subject": "יתן מוקש",
+      "rationale": "КЖВ «bringeth a snare» — «тузак берет»; ЙЛТ окшош; айрымлар «тузак болуп калат» деп окушат"
+    }
+  ],
+  "translation": "Адамдан коркуу тузак берет, ал эми Яхвеге таянган бекем жерге коюлат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "3a2e656cba45e3e017d87eef9c34ce121f2c6ff64a8629b56086b6030a6b00dd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/29\/25-27.1791218404075.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חרדת",
+      "gloss": "коркуу"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "адамдан"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "берет"
+    },
+    {
+      "surface": "מוקש",
+      "gloss": "тузак"
+    },
+    {
+      "surface": "ובוטח",
+      "gloss": "таянган"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Яхвеге"
+    },
+    {
+      "surface": "ישгב",
+      "gloss": "бекем жерге коюлат"
+    }
+  ],
+  "timestamp": "2026-10-05T16:40:04.076148066Z",
+  "model": "glm-5.3"
+}

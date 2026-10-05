@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 48:1",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "жөнөдү",
+      "rationale": "Ивритте 'ваййикках' — 'алды' дегенди билдирет, кыймылды туюндуруу үчүн 'жөнөдү' кошулду"
+    },
+    {
+      "kind": "elision",
+      "subject": "айтуучу",
+      "rationale": "Ивритте ким айтканы көрсөтүлбөйт — 'айтылды' деп пассив формасы тандылды"
+    }
+  ],
+  "translation": "Ушул иштерден кийин Йусупка айтылды: Мына, атаң ооруп жатат. Ал ⟨את⟩ эки уулун — Менаше менен Эфрайимди өзү менен алып жөнөдү.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "2f42d7c4c02da72b0a3ff8d74d42a768e81d27161043102e3cb1f3cb94549c9c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/48\/1-4.1791201756317.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "болду"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "кийин"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "иштерден"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ушул"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "айтылды"
+    },
+    {
+      "surface": "ליוסף",
+      "gloss": "Йусупка"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "мына"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "атаң"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "ооруп жатат"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "алып жөнөдү"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "эки уулун"
+    },
+    {
+      "surface": "שני",
+      "gloss": "эки"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "уулун"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "өзү менен"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Менашени"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Менаше"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "жана ⟨את⟩",
+      "marks": "Эфрайимди"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Эфрайим"
+    }
+  ],
+  "timestamp": "2026-10-05T12:02:36.318404107Z",
+  "model": "glm-5.3"
+}

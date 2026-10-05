@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 8:6",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מאלהים",
+      "rationale": "'Элохимден кем' (Geneva, ASV) же LXX\/NT боюнча 'периштелерден кем' (KJV, JPS); еврей тексти — Элохим"
+    },
+    {
+      "kind": "substitution",
+      "subject": "таажыладың",
+      "rationale": "עטר — курчоо, таажы кылуу: сый-урмат менен курчоо сүрөтү"
+    }
+  ],
+  "translation": "Сен аны Элохимден бир аз кем кылдың, урмат жана даңазал менен аны таажыладың.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "268bfcd211b5d4c36c7f6e12facb2d85493245ab393c1b5c4a8577bb5f61ff54",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/8\/5-8.1791215424924.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותחסרהו",
+      "gloss": "Сен аны... кем кылдың"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "бир аз"
+    },
+    {
+      "surface": "מאלהים",
+      "gloss": "Элохимден"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "жана урмат"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "даңазал менен"
+    },
+    {
+      "surface": "תעטרהו",
+      "gloss": "ани таажыладың"
+    }
+  ],
+  "timestamp": "2026-10-05T15:50:24.925637153Z",
+  "model": "glm-5.3"
+}

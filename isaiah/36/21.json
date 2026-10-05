@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 36:21",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אתו",
+      "rationale": "aleph-tav оккупация белгиси кыргызча түз эмес объект катары чыгат, ⟨אתו⟩ белгиси менен сакталды"
+    },
+    {
+      "kind": "addition",
+      "subject": "бир",
+      "rationale": "«דבר דבר» эмес, бирок «бир сөз» — еврейче айкын сан жок"
+    }
+  ],
+  "translation": "Жана алар унчукпай калышты жана ⟨אתו⟩ бир сөз деп жооп беришпеди, анткени падышанын буйругу мындай эле: «Ага жооп бербегиле».",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "ca36c4a236b330a95c6fef8a7cb197cade9895cc3c991b9e4c96374a235022ef",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/36\/21-22.1791209991377.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחרישו",
+      "gloss": "унчукпай калышты"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "жана эмес"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "жооп беришпеди"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "сөз"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сөз"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "буйругу"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "падышанын"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ал"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "мындай деп"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "תענהו",
+      "gloss": "ага жооп бербегиле"
+    }
+  ],
+  "timestamp": "2026-10-05T14:19:51.378359657Z",
+  "model": "glm-5.3"
+}

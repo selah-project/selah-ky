@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "hosea 12:14",
+  "book": "hosea",
+  "lang": "ky",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ал",
+      "rationale": "кыргызча этиш субъектти талап кылат; еврей текстинде нисмал (аттооч) — субъект жок, ⟨ал⟩ кашаада"
+    },
+    {
+      "kind": "substitution",
+      "subject": "алып чыкты",
+      "rationale": "העלה — жогору алып чыгуу, 'көтөрүү, чыгаруу' сүрөтү жоголду"
+    }
+  ],
+  "translation": "Жана пайгамбар аркылуу Яхве ⟨את⟩ Йисраэлди Мицрайимден алып чыкты, жана пайгамбар аркылуу ⟨ал⟩ сакталды.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "46b4d4b6dc765202222b342c48e87a245e42046b168da7cd2e16064f8115b9b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/hosea\/12\/13-15.1791213937615.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובנביא",
+      "gloss": "пайгамбар аркылуу"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "алып чыкты"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Йисраэлди"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэлди"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Мицрайимден"
+    },
+    {
+      "surface": "ובנביא",
+      "gloss": "жана пайгамбар аркылуу"
+    },
+    {
+      "surface": "נשמר",
+      "gloss": "сакталды"
+    }
+  ],
+  "timestamp": "2026-10-05T15:25:37.616371723Z",
+  "model": "glm-5.3"
+}

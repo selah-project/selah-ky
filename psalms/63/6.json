@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 63:6",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 63,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жан",
+      "rationale": "נֶפֶשׁ — «дем алуучу жандык, жандуулук»; кыргызча «жан» эң жакын, бирок «тамак\/тилек» мааниси да бар."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨Сени⟩",
+      "rationale": "Еврей текстинде объект жок — «даңктайт» кимди экени контексттен; кыргыз тилине тактоо үчүн кошулду."
+    }
+  ],
+  "translation": "Май менен семиздик сыяктуу жаным тойгондой болот, жана кубаныч үнүнө толгон эриндерим менин оозум ⟨Сени⟩ даңктайт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "e27d25f1bef020b9d973f8f67dfe6f62fa2ad021cd065a6e8ddb3d763dc5ff25",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/63\/5-8.1791216339796.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כמו",
+      "gloss": "сыяктуу"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "май"
+    },
+    {
+      "surface": "ודשן",
+      "gloss": "жана семиздик"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "тойгондой болот"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "жаным"
+    },
+    {
+      "surface": "ושפתי",
+      "gloss": "жана эриндерим"
+    },
+    {
+      "surface": "רננות",
+      "gloss": "кубаныч үнүнө толгон"
+    },
+    {
+      "surface": "יהלל",
+      "gloss": "даңктайт"
+    },
+    {
+      "surface": "פי",
+      "gloss": "оозум"
+    }
+  ],
+  "timestamp": "2026-10-05T16:05:39.797102239Z",
+  "model": "glm-5.3"
+}

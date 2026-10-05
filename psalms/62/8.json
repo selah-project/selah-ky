@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 62:8",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 62,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "таянат",
+      "rationale": "ивритте этиш жок, конструкция тизилген заттарды тизмелейт"
+    }
+  ],
+  "translation": "Элохимге таянат менин куткарылышым жана даңкым, күч-кубатымдын аскасы, паначым — Элохимде.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "9d537e38c3eadc5d9a4de41c5fbc35229e0dddf0d45f491a5a72fa908c571301",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/62\/5-8.1791216316168.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "tayаңат"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохимге"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "куткарылышым"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "жана даңкым"
+    },
+    {
+      "surface": "צור",
+      "gloss": "аска"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "күч-кубатымдын"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "паначым"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "Элохимде"
+    }
+  ],
+  "timestamp": "2026-10-05T16:05:16.169447442Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 19:7",
+  "book": "1-samuel",
+  "lang": "ky",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כאתמול שלשום",
+      "rationale": "'кечээ жана эчээдегидей' — 'мурдагыдай эле' деген калып; сөзмө-сөз сакталды"
+    },
+    {
+      "kind": "elision",
+      "subject": "אם формуласы",
+      "rationale": "бул аятта жок — алдынкы аяттын ант формуласы"
+    }
+  ],
+  "translation": "Жана Йонатан Давидди чакырды, жана Йонатан ага ⟨את⟩ бул сөздөрдүн баарын айтып берди; жана Йонатан Давидди Шаулга алып келди, жана ал анын жүзүндө кечээ-эчээдегидей болду.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "93b61dc700d1f3f9b8c84bf8bda5e2a6fee13c935846209be3bf674ebf45ffbc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-samuel\/19\/5-8.1791207044098.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "чакырды"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Йонатан"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давидди"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "айтып берди"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ага"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Йонатан"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сөздөрдүн баарын"
+    },
+    {
+      "surface": "כל",
+      "gloss": "баарын"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "сөздөрдүн"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "бул"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "алып келди"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Йонатан"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Давидди"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давидди"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-га"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "болду"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "анын жүзүндө"
+    },
+    {
+      "surface": "כאתמול",
+      "gloss": "кечээ"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "эчээдегидай"
+    }
+  ],
+  "timestamp": "2026-10-05T13:30:44.099401567Z",
+  "model": "glm-5.3"
+}

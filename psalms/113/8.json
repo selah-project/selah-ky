@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 113:8",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 113,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "падышалар",
+      "rationale": "נדיבим — 'жомарт улуулар, атактуулар'; так 'падыша' эмес, бирок жакын маани"
+    }
+  ],
+  "translation": "Аны падышалар менен, Өз элинин падышалары менен отургузуу үчүн.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "b66ab65988add8a6d65d65d76d0feb34f02fdd6f45802f496aaf324e7f7f74ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/113\/5-8.1791217182074.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "להושיבי",
+      "gloss": "отургузуу үчүн"
+    },
+    {
+      "surface": "עם",
+      "gloss": "менен"
+    },
+    {
+      "surface": "נדיבים",
+      "gloss": "падышалар"
+    },
+    {
+      "surface": "עם",
+      "gloss": "менен"
+    },
+    {
+      "surface": "נדיבי",
+      "gloss": "падышалар"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "элинин"
+    }
+  ],
+  "timestamp": "2026-10-05T16:19:42.078302476Z",
+  "model": "glm-5.3"
+}

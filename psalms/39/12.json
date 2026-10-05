@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 39:12",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жел",
+      "rationale": "הבל — «дем, буу, майдалык»; «жел» анын өткөр мүнөзүн сактайт"
+    },
+    {
+      "kind": "crux",
+      "subject": "חמודו",
+      "rationale": "«анин сүйгөн нерсесин»: KJV «көркүн», YLT «баалуулугун» дейт; тамыр «эңсөө, сүйүү»"
+    },
+    {
+      "kind": "crux",
+      "subject": "күбө",
+      "rationale": "עש күбө — байыркы котормолордо «ичүүчү курт» же «чирүү» катары да түшүнүлгөн"
+    }
+  ],
+  "translation": "Сөгүүлөр менен, бузукулук үчүн, Сен адамды тарбияладың, жана аны сүйгөн нерсесин күбөөдөй эриттиң — чындыгында, ар бир адам — жел. Селах.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "b2e122554286dee6a82cdf4f7c7e3d9b20e6493b790d77b542ddeeda94e5a3ef",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/39\/12-12.1791224425565.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בתוכחות",
+      "gloss": "сөгүүлөр менен"
+    },
+    {
+      "surface": "על",
+      "gloss": "үчүн"
+    },
+    {
+      "surface": "עון",
+      "gloss": "бузукулук"
+    },
+    {
+      "surface": "יסרת",
+      "gloss": "тарбияладың"
+    },
+    {
+      "surface": "איש",
+      "gloss": "адамды"
+    },
+    {
+      "surface": "ותמס",
+      "gloss": "жана эриттиң"
+    },
+    {
+      "surface": "כעש",
+      "gloss": "күбөөдөй"
+    },
+    {
+      "surface": "חמודו",
+      "gloss": "анин сүйгөн нерсесин"
+    },
+    {
+      "surface": "אך",
+      "gloss": "чындыгында"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "жел"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ар бир"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "адам"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Селах"
+    }
+  ],
+  "timestamp": "2026-10-05T18:20:25.566332230Z",
+  "model": "glm-5.3"
+}

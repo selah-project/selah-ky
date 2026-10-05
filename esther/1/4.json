@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 1:4",
+  "book": "esther",
+  "lang": "ky",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "сексен жана жүз күн",
+      "rationale": "Той 180 күн созулганы так саналат"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עשר כבוד ... יקר תפארת גדולתו",
+      "rationale": "Төрт катмарлуу атама — байлык, даңк, сыймык, кооздук — падышанын өзүн даңазалоо стили"
+    }
+  ],
+  "translation": "Ал өз падышачылыгынын даңкынын байлыгын ⟨את⟩ жана өз улуулугунун кооздугунун сыймыгын ⟨את⟩ көп күн бою — сексен жана жүз күн — көрсөткөндө.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "8d74a11ea25af1db6bcf72b20acef22d1170627026705392d9fbad140ced0df0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/esther\/1\/1-4.1791220301565.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בהראתו",
+      "gloss": "көрсөткөндө"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "байлыкты"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "байлыгын"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "даңкынын"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "өз падышачылыгынын"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "жана ⟨את⟩",
+      "marks": "сыймыкты"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "сыймыгын"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "кооздугунун"
+    },
+    {
+      "surface": "גדולתו",
+      "gloss": "өз улуулугунун"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "күн"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "көп"
+    },
+    {
+      "surface": "שמונים",
+      "gloss": "сексен"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "жана жүз"
+    },
+    {
+      "surface": "יום",
+      "gloss": "күн"
+    }
+  ],
+  "timestamp": "2026-10-05T17:11:41.566405437Z",
+  "model": "glm-5.3"
+}

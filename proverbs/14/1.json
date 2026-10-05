@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 14:1",
+  "book": "proverbs",
+  "lang": "ky",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "анын",
+      "rationale": "Ивритте «үйүн» дегендин ичинде ээлик мамиле бар, кыргызча ⟨анын⟩ талап кылынат."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בנתה\/תהрסנו",
+      "rationale": "Куруу жана талкалоо — тепе-тенд карама-каршы аракеттер, чынжыр структурасы."
+    }
+  ],
+  "translation": "Аялдардын акылмандыгы ⟨анын⟩ үйүн курат, ал эми акылсыздык өз колдору менен аны талкалайт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "92140400659569df3ba77072ccf0569b26db16f94ecfeaeb3693a617fe82ee6b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/14\/1-4.1791218027327.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חכמות",
+      "gloss": "акылмандыгы"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "аялдардын"
+    },
+    {
+      "surface": "בנתה",
+      "gloss": "курат"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "үйүн"
+    },
+    {
+      "surface": "ואולת",
+      "gloss": "ал эми акылсыздык"
+    },
+    {
+      "surface": "בידיה",
+      "gloss": "өз колдору менен"
+    },
+    {
+      "surface": "תהרסנו",
+      "gloss": "талкалайт"
+    }
+  ],
+  "timestamp": "2026-10-05T16:33:47.327783697Z",
+  "model": "glm-5.3"
+}

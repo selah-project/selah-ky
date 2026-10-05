@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 4:5",
+  "book": "2-kings",
+  "lang": "ky",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "идиштерди",
+      "rationale": "Идиштер текстте айтылбайт — мגשים «алып келиш» этишинин объектиси контексттен кошулду"
+    },
+    {
+      "kind": "elision",
+      "subject": "מאתו",
+      "rationale": "«Анын жанынан» деген жакындык предлогу; ⟨את⟩ белгиси менен берилди"
+    }
+  ],
+  "translation": "Жана ал ⟨את⟩ анын жанынан кетти, эшикти өзүнүн жана уулдарынын артынан жапты; алар ⟨идиштерди⟩ ага алып келиш беришти, ал болсо куюп турду.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "a9875895850787948e4fff4dee935780dbeec79ea2090b817e82492499e979d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-kings\/4\/5-8.1791208760584.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותלך",
+      "gloss": "кетти"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "⟨את⟩ анын жанынан",
+      "marks": "анын жанынан (ал кишинин)"
+    },
+    {
+      "surface": "ותסגור",
+      "gloss": "жапты"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "эшикти"
+    },
+    {
+      "surface": "בעדה",
+      "gloss": "өзүнүн артынан"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "жана … артынан"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "уулдарынын"
+    },
+    {
+      "surface": "הם",
+      "gloss": "алар"
+    },
+    {
+      "surface": "מגשים",
+      "gloss": "алып келиш беришти"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ага"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "ал болсо"
+    },
+    {
+      "surface": "מיצקת",
+      "gloss": "куюп турду"
+    }
+  ],
+  "timestamp": "2026-10-05T13:59:20.584662928Z",
+  "model": "glm-5.3"
+}

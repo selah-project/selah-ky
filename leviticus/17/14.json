@@ -1,0 +1,135 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 17:14",
+  "book": "leviticus",
+  "lang": "ky",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "напш",
+      "rationale": "נפש — «дем алуучу жандык, жашоо күчү», «жан» деген сөз жакын, бирок так эмес."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨байланышкан⟩",
+      "rationale": "בנפשו הוא «ал анын жанында» — кыргызча түшүнүктүү болушу үчүн кошулду."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "кайта айтылыш",
+      "rationale": "«бардык эттин жаны — анын каны» аяттын ичинде эки жолу кайталанат — мыйзамдык чечмелөөнү бекемдөө үчүн."
+    }
+  ],
+  "translation": "Анткени бардык эттин жаны — анын каны, ал анын жаны менен ⟨байланышкан⟩; ошондуктан Мен Йисраэлдин уулдарына айттым: Бардык эттин канын жегиле; анткени бардык эттин жаны — анын каны; аны жеген ар ким кесилип ташталат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "a730804f036026d31fa4f1ec807632a2a81dd5b2a57f8e21085bc3befa7b01be",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/17\/13-16.1791203207517.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "жаны"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бардык"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "эттин"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "анын каны"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "анын жаны менен"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ал"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "жана Мен айттым"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "…нин уулдарына"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэл"
+    },
+    {
+      "surface": "דם",
+      "gloss": "канын"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бардык"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "эттин"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жегиле"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "жегиле"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "жаны"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бардык"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "эттин"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "анын каны"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ал"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ар ким"
+    },
+    {
+      "surface": "אכליו",
+      "gloss": "ани жеген"
+    },
+    {
+      "surface": "יכרת",
+      "gloss": "кесилип ташталат"
+    }
+  ],
+  "timestamp": "2026-10-05T12:26:47.518245077Z",
+  "model": "glm-5.3"
+}

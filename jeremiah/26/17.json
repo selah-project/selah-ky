@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 26:17",
+  "book": "jeremiah",
+  "lang": "ky",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "бир топ",
+      "rationale": "אנשים көп сандыу, «аяр бир адамдар» мааниси кыргызча «бир топ» менен берилди"
+    },
+    {
+      "kind": "elision",
+      "subject": "לאמר",
+      "rationale": "айтүү инфинитиви кыргызча айтылышта кошулуп кетти"
+    }
+  ],
+  "translation": "Жана жердин карыларынан бир топ адамдар турду жана бүт жыйындын элине айтышты:",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "ef7e6037dc8473860b5b015ab157bed5020022900f7bd16b93acb258bf26092f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/jeremiah\/26\/17-20.1791211334215.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "турду"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "адамдар"
+    },
+    {
+      "surface": "מזקני",
+      "gloss": "карыларынан"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "жердин"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "жана айтышты"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүт"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "жыйындын"
+    },
+    {
+      "surface": "העם",
+      "gloss": "элине"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "айтышты"
+    }
+  ],
+  "timestamp": "2026-10-05T14:42:14.215958876Z",
+  "model": "glm-5.3"
+}

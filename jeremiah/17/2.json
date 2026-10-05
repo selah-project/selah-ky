@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 17:2",
+  "book": "jeremiah",
+  "lang": "ky",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כזכר בניהם",
+      "rationale": "'Алардын уулдары эстейт' (KJV) же 'алардын уулдары сыяктуу' (JPS: курмандыктар уулдардай ыраазы кылынат) — экөө тең мүмкүн."
+    },
+    {
+      "kind": "substitution",
+      "subject": "Ашераларын",
+      "rationale": "אשרים — Ашера кудайынын таяктары\/айкелдери; ысым катары которулбайт."
+    }
+  ],
+  "translation": "Алардын уулдары сыяктуу алар курмандыктарын жана Ашераларын эстешет — жашыл дарактардын арасында, бийик дөбөлөрдө.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "c91a8fd4a3225649c2c2c64e033a6e488a52e30a749143f611eac9e072d89bc9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/jeremiah\/17\/1-4.1791211107393.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כזכר",
+      "gloss": "сыяктуу эстешет"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "алардын уулдары"
+    },
+    {
+      "surface": "מזבחותם",
+      "gloss": "курмандыктарын"
+    },
+    {
+      "surface": "ואשריהם",
+      "gloss": "жана Ашераларын"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстүндө"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "дарактардын"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "жашыл"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстүндө"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "дөбөлөрдө"
+    },
+    {
+      "surface": "הגבהות",
+      "gloss": "бийик"
+    }
+  ],
+  "timestamp": "2026-10-05T14:38:27.394729024Z",
+  "model": "glm-5.3"
+}

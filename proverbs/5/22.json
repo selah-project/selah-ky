@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 5:22",
+  "book": "proverbs",
+  "lang": "ky",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "аркандар менен кармалуу",
+      "rationale": "חבל — байламча аркан; күнөө торго кармай турган образ, кыргызча да аркан-тор метафорасында берилди"
+    },
+    {
+      "kind": "addition",
+      "subject": "ал",
+      "rationale": "Йиттамех этишинин субъектин ачык кылуу үчүн кошулду"
+    }
+  ],
+  "translation": "Анын жамандыктары ⟨את⟩ жаман адамды кармап алат, жана анын күнөөсүнүн аркандары менен ал кармалып турат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "b802cf376f5e998710d0f74f02db44d05d94574c1cb2773fb7516b6370b71688",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/5\/21-23.1791217768490.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עוונותיו",
+      "gloss": "анын жамандыктары"
+    },
+    {
+      "surface": "ילכדנו",
+      "gloss": "аны кармап алат"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "жаман адамды"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "жаман адам"
+    },
+    {
+      "surface": "ובחבלי",
+      "gloss": "жана ... аркандары менен"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "анын күнөөсүнүн"
+    },
+    {
+      "surface": "יתמך",
+      "gloss": "кармалып турат"
+    }
+  ],
+  "timestamp": "2026-10-05T16:29:28.491604386Z",
+  "model": "glm-5.3"
+}

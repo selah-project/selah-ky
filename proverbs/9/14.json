@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 9:14",
+  "book": "proverbs",
+  "lang": "ky",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "өз",
+      "rationale": "ивритте «үйүнүн» дейт; кыргызча тактык үчүн «өз» кошулду"
+    },
+    {
+      "kind": "substitution",
+      "subject": "такта",
+      "rationale": "כסא тактын (трон) ордуна; жөн гана «орун» эмес, падышалык белги сакталды"
+    }
+  ],
+  "translation": "Жана ал өз үйүнүн эшигинин алдында отурат, шаардын бийик жерлериндеги тактада.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "b14cef59dd9bebb59506f6b958ba93e9573ab01bfd2b0f1dd7cc70c35a5df399",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/9\/13-16.1791217869092.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישבה",
+      "gloss": "отурат"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "эшигинин алдында"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "өз үйүнүн"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨тактада⟩"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "такта"
+    },
+    {
+      "surface": "מרמי",
+      "gloss": "бийик жерлериндеги"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "шаардын"
+    }
+  ],
+  "timestamp": "2026-10-05T16:31:09.093405443Z",
+  "model": "glm-5.3"
+}

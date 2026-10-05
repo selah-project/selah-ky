@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 79:9",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 79,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ыпыла",
+      "rationale": "כפר literally 'to cover' (to cover over sins); KJV 'purge away', ASV 'forgive'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שמך ... שמך",
+      "rationale": "name repeated twice — the verse begins and ends with the name, framing it; kept by repetition"
+    }
+  ],
+  "translation": "Жардам бер бизге, биздин куткаруубуздун Элохими, атыңдын даңзы үчүн, жана бизди куткар, жана биздин күнөөлөрүбүздү ыпыла, атың үчүн.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "edf39761c57cdfb835e9bdffc14709e5c682091683f7a2016cd8716bf8408884",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/79\/9-12.1791216697854.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עזרנו",
+      "gloss": "жардам бер бизге"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Элохими"
+    },
+    {
+      "surface": "ישענו",
+      "gloss": "биздин куткаруубуздун"
+    },
+    {
+      "surface": "על",
+      "gloss": "үчүн"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "⟨даңзынын⟩ сөзү"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "даңзы"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "атыңдын"
+    },
+    {
+      "surface": "והצילנו",
+      "gloss": "жана куткар бизди"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "жана ыпыла"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨түшүүчү⟩ белги"
+    },
+    {
+      "surface": "חטאתינו",
+      "gloss": "күнөөлөрүбүздү"
+    },
+    {
+      "surface": "למען",
+      "gloss": "үчүн"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "атың"
+    }
+  ],
+  "timestamp": "2026-10-05T16:11:37.854637913Z",
+  "model": "glm-5.3"
+}

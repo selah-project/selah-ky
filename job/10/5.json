@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 10:5",
+  "book": "job",
+  "lang": "ky",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "өлүмтүк адам",
+      "rationale": "אֱנוֹשׁ — өлгөн жаратылышты билдирген адам сөзү; өлүмтүк деп берилди"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אנוש\/גבר",
+      "rationale": "Эки ар кандай 'адам' сөзүнүн карама-каршылыгы — байыркы адам жана күчтүү эр; кыргызча экөө тең 'адам' болуп калышы мүмкүн эле"
+    }
+  ],
+  "translation": "Өлүмтүк адамдын күндөрүнө окшойбу күндөрүң, же эрдин күндөрүнө окшойбу жылдарың?",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "6b666e50d6e5b6572b005bbb1a968f6147846d232114fd153962d4a1ac8d498a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/job\/10\/5-8.1791218765038.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הכימי",
+      "gloss": "окшойбу"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "өлүмтүк адамдын"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "күндөрүң"
+    },
+    {
+      "surface": "אם",
+      "gloss": "же"
+    },
+    {
+      "surface": "שנותיך",
+      "gloss": "жылдарың"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "күндөрүнө окшойбу"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "эрдин"
+    }
+  ],
+  "timestamp": "2026-10-05T16:46:05.039310573Z",
+  "model": "glm-5.3"
+}

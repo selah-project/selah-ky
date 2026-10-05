@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 2:5",
+  "book": "1-samuel",
+  "lang": "ky",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שבעים\/שבעה",
+      "rationale": "«ток» жана «жети» бир эле тамырдан — тойгонлор жана жети бала: сөз оюну кыргызча жоголот."
+    },
+    {
+      "kind": "addition",
+      "subject": "өздөрүн",
+      "rationale": "נשכרו этиштин «өзүн жалдоо» мааниси кыргызча толук чыгуу үчүн кошулду."
+    },
+    {
+      "kind": "measurement",
+      "subject": "жети",
+      "rationale": "саны көрсөтүлгөн — толуктуктун ыйык саны."
+    }
+  ],
+  "translation": "Токтор нан үчүн ⟨өздөрүн⟩ жалданып иштешти, ал эми ачтар болбой калышты; түкөй аял жети бала төрөдү, көп балалуу аял болсо алсыздеди.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "478812ae2dbb90111df4402fc355260b9f7d9d69d7974d95b7226c55165bb134",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-samuel\/2\/5-8.1791206562614.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שבעים",
+      "gloss": "токтор"
+    },
+    {
+      "surface": "בלחם",
+      "gloss": "нан үчүн"
+    },
+    {
+      "surface": "נשכרו",
+      "gloss": "жалданып иштешти"
+    },
+    {
+      "surface": "ורעבים",
+      "gloss": "ал эми ачтар"
+    },
+    {
+      "surface": "חדלו",
+      "gloss": "болбой калышты"
+    },
+    {
+      "surface": "עד",
+      "gloss": "токтой"
+    },
+    {
+      "surface": "עקרה",
+      "gloss": "түкөй аял"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "төрөдү"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "жети"
+    },
+    {
+      "surface": "ורבת",
+      "gloss": "көп балалуу"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "бала"
+    },
+    {
+      "surface": "אמללה",
+      "gloss": "алсыздеди"
+    }
+  ],
+  "timestamp": "2026-10-05T13:22:42.615476351Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 5:25",
+  "book": "2-samuel",
+  "lang": "ky",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "талкалады",
+      "rationale": "ויך 'сүрдү' кыргызча 'сүрүп талкалады' деп күчөтүлдү, את объектин көрсөтөт"
+    },
+    {
+      "kind": "crux",
+      "subject": "Геба",
+      "rationale": "мגבע 'Геба' — кээ бир котормолор (BSB, LXX таасири) 'Гивон' деп окуйт"
+    }
+  ],
+  "translation": "Давид ушул нерсени жасады, Яхве ага буйругандай, жана ал پелиштилилерди Гебадан Гезерди көздөй барганча сүрүп талкалады.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "fe3348510aa32cc7b523d3b233e1619043b4f6343b232c2108f2ee8da47a8feb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-samuel\/5\/25-25.1791207425646.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "жасады"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ушул нерсени"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "...дай"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "буйруганда"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "талкалады"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "пелиштилилерди"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "пелиштилилерди"
+    },
+    {
+      "surface": "מגבע",
+      "gloss": "Гебадан"
+    },
+    {
+      "surface": "עד",
+      "gloss": "...ганча"
+    },
+    {
+      "surface": "באך",
+      "gloss": "барганча"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Гезерди"
+    }
+  ],
+  "timestamp": "2026-10-05T13:37:05.647338902Z",
+  "model": "glm-5.3"
+}

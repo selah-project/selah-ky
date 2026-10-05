@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 83:6",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 83,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "כרת ברית",
+      "rationale": "'Келишим кесүү' — жаныбарды кесип өтүү салтынан калган элдик туюм, кыргызча 'түзүштү' менен жоголот"
+    },
+    {
+      "kind": "substitution",
+      "subject": "жүрөктөш болуп",
+      "rationale": "לב יחדו 'жүрөк бирге' — биригип ойлонушту деген сөз айкашы"
+    }
+  ],
+  "translation": "Анткени алар жүрөктөш болуп сүйлөшүштү, Сага каршы келишим түзүштү.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "02b742150d4ccef43bc15a48940308aed19a29ffbbb711be031338dc81698646",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/83\/5-8.1791216658662.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "נועצו",
+      "gloss": "сүйлөшүштү"
+    },
+    {
+      "surface": "לב",
+      "gloss": "жүрөктөш"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "болуп"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "Сага каршы"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "келишим"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "түзүштү"
+    }
+  ],
+  "timestamp": "2026-10-05T16:10:58.663150355Z",
+  "model": "glm-5.3"
+}

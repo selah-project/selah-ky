@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 22:12",
+  "book": "2-samuel",
+  "lang": "ky",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Өзүнүн",
+      "rationale": "reflexive pronoun supplied; Hebrew suffix on סביבתיו carries it"
+    },
+    {
+      "kind": "hapax",
+      "subject": "חשרת",
+      "rationale": "gathering of watery clouds, rare word occurring only in the David psalm parallel (Ps 18)"
+    }
+  ],
+  "translation": "Жана ал ⟨Өзүнүн⟩ айланасына караңгылыкты чатырчалар кылып жайган — суулардын чогулушу, калың булуттар.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "2d2055575024d8bb9d1a1a58cb2d83932b3cef48726996509ea76b647183b822",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-samuel\/22\/9-12.1791207754388.json",
+    "code": "641241cf-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישת",
+      "gloss": "Жана ... жайган"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "караңгылыкты"
+    },
+    {
+      "surface": "סביבתיו",
+      "gloss": "айланасына"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "чатырчалар"
+    },
+    {
+      "surface": "חשרת",
+      "gloss": "чогулушу"
+    },
+    {
+      "surface": "מים",
+      "gloss": "суулардын"
+    },
+    {
+      "surface": "עבי",
+      "gloss": "калың"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "булуттар"
+    }
+  ],
+  "timestamp": "2026-10-05T13:42:34.389718444Z",
+  "model": "glm-5.3"
+}

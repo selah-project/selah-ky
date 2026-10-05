@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "nahum 1:7",
+  "book": "nahum",
+  "lang": "ky",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨bekem⟩ коргоон",
+      "rationale": "למעוז — 'бекемдүү жайга'; эмне үчүн бекем экени ачык айтылбайт, бирок сөз формасы сакталды"
+    },
+    {
+      "kind": "substitution",
+      "subject": "יודע",
+      "rationale": "'билүү' — 'тааныйт\/жакшы көрөт' деген жакын мааниде; өз ара карым-катнаштуу 'билүү'"
+    }
+  ],
+  "translation": "Яхве жакшы, кыйынчылык күнүндө бекем коргоон, жана Өзүнө сыйынгандарды тааныйт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "2753e24e13d4cfac7b4006ad05314ad699fbf76baec817c473e4a5a738a79613",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/nahum\/1\/5-8.1791214701160.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "жакшы"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "למעוז",
+      "gloss": "бекем коргоон"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "күнүндө"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "кыйынчылык"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "жана тааныйт"
+    },
+    {
+      "surface": "חסי",
+      "gloss": "сыйынгандарды"
+    },
+    {
+      "surface": "בו",
+      "gloss": "Өзүнө"
+    }
+  ],
+  "timestamp": "2026-10-05T15:38:21.161767906Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 74:8",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 74,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נינם",
+      "rationale": "Crux: from נון\/ינה 'destroy\/oppress them altogether' (KJV, JPS) vs 'let us swallow them up' — rare form,各大译本分歧"
+    },
+    {
+      "kind": "substitution",
+      "subject": "מועדי אל",
+      "rationale": "מועדי 'appointed meeting-places\/festivals' rendered as 'чогулуу жайлары' (meeting-places); KJV 'synagogues' is anachronistic"
+    },
+    {
+      "kind": "you",
+      "subject": "to themselves",
+      "rationale": "The enemies' inner council — speech in the heart, no external addressee"
+    }
+  ],
+  "translation": "Алар жүрөктөрүндө айтты: «Аларды толук талкалайлы». Жер бетиндеги Элохимдин чогулуу жайларынын баарын өрттөштү.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "21d74e3d59accddd3b67483c112286772507727d411817729d8d4becb5446c97",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/74\/8-8.1791224463437.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "жүрөктөрүндө"
+    },
+    {
+      "surface": "נינם",
+      "gloss": "талкалайлы"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "толук"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "өрттөштү"
+    },
+    {
+      "surface": "כל",
+      "gloss": "баарын"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "чогулуу жайларынын"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Элохимдин"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "жер бетиндеги"
+    }
+  ],
+  "timestamp": "2026-10-05T18:21:03.438158397Z",
+  "model": "glm-5.3"
+}

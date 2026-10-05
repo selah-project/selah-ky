@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 42:25",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨Анын⟩",
+      "rationale": "אפו 'анын ачуусу' — ээлик мүчө кыргызча талап кылат, еврейче ээлик суффиксте"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨бул⟩",
+      "rationale": "жүрөккө коюлган нерсе кыргызча такталышы үчүн кошулду"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ачуу",
+      "rationale": "אף букмал маанисинде 'мурун\/ачуу' — кыжыр менен ачуу эки сөзгө бөлүндү"
+    },
+    {
+      "kind": "crux",
+      "subject": "ал билген жок",
+      "rationale": "жекече сан (Яаков) менен көптүк сандын (эл) ортосундагы салыштыруу: KJV 'it knew not', BSB 'they did not understand'"
+    }
+  ],
+  "translation": "Жана ал ⟨Анын⟩ үстүнө ачуусунун кыжырын жана согуштун күчүн төктү, жана ал аны айланасынан жалындатты, бирок ал билген жок, жана ал аны күйгүздү, бирок ал ⟨бул⟩ жүрөгүнө койгон жок.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "96a66b88b65ba79abb49d0e756e37209f44c525613043685b4f8e7aadd1c6d31",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/42\/25-25.1791210120646.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישפך",
+      "gloss": "төктү"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "анын үстүнө"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "кыжыр"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "ачуусу"
+    },
+    {
+      "surface": "ועזוז",
+      "gloss": "жана күчүн"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "согуштун"
+    },
+    {
+      "surface": "ותלהטהו",
+      "gloss": "жана аны жалындатты"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "айланасынан"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "бирок жок"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "билген"
+    },
+    {
+      "surface": "ותבער",
+      "gloss": "жана күйгүздү"
+    },
+    {
+      "surface": "בו",
+      "gloss": "аны"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "бирок жок"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "койгон"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстүнө"
+    },
+    {
+      "surface": "לב",
+      "gloss": "жүрөгүнө"
+    }
+  ],
+  "timestamp": "2026-10-05T14:22:00.647459542Z",
+  "model": "glm-5.3"
+}

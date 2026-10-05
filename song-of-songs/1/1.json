@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 1:1",
+  "book": "song-of-songs",
+  "lang": "ky",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "—",
+      "rationale": "על כן жок, «ал» тутуму кыргызча байланыш үчүн кошулду"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שיר השירים",
+      "rationale": "Еврейче үстүнкү даража: «ырлардын ыры» — бардык ырлардын ичиндеги ыр"
+    }
+  ],
+  "translation": "Ырлардын ыры — ал Шеломонун.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "708639b00a5304c6985f489c6d7714dab9c2c2bae967edba93b746438fe76cd3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/song-of-songs\/1\/1-4.1791219532188.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "ыры"
+    },
+    {
+      "surface": "השירים",
+      "gloss": "Ырлардын"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ал"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "Шеломонун"
+    }
+  ],
+  "timestamp": "2026-10-05T16:58:52.189719620Z",
+  "model": "glm-5.3"
+}

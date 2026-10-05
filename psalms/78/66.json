@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "psalms 78:66",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨өз⟩",
+      "rationale": "Еврейче көрсөтүүчү ат атооч жок, кыргызча аныктык үчүн кошулду"
+    },
+    {
+      "kind": "idiom",
+      "subject": "артка урду",
+      "rationale": "אחור — 'артка', баш тарттырды деген сүрөт"
+    }
+  ],
+  "translation": "Жана ал ⟨өз⟩ душмандарын артка урду, аларга түбөлүктүү кордук берди.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "ee1bbbefdf39b4da71dd4c1339c015cb762bedd0ae23a1942a770b897d331a93",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/78\/65-68.1791216612494.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "урду"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "⟨өз⟩ душмандарын"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "артка"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "кордук"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "түбөлүктүү"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "берди"
+    },
+    {
+      "surface": "למו",
+      "gloss": "аларга"
+    }
+  ],
+  "timestamp": "2026-10-05T16:10:12.495166435Z",
+  "model": "glm-5.3"
+}

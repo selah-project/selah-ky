@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 3:10",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "чыгаргын",
+      "rationale": "והוצא буйрук же жыйынтык маанисинде болушу мүмкун: ״чыгаргын״ (YLT) же ״Men сени жиберем — аларды чыгарырга״ (KJV\/JPS)"
+    },
+    {
+      "kind": "you",
+      "subject": "Мошего",
+      "rationale": "Яхве Мошени түз чакырат: ״бар״ — буйрук сөз"
+    }
+  ],
+  "translation": "Азыр бар, Мен сени Паро жиберем, жана ⟨את⟩ Менин элимди — Йисраэл уулдарын — Мицрайимдан чыгаргын.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "e4912d4abe58af61acda9fc87730e73ba1cb9a99192637d9db537351e5c05d0c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/3\/9-12.1791201916195.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "азыр"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "бар"
+    },
+    {
+      "surface": "ואשלחך",
+      "gloss": "жиберем сени"
+    },
+    {
+      "surface": "אל",
+      "gloss": "карай"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Паро"
+    },
+    {
+      "surface": "והוצא",
+      "gloss": "чыгаргын"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Менин элимди"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "Менин элим"
+    },
+    {
+      "surface": "בני",
+      "gloss": "уулдарын"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэл"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Мицрайимдан"
+    }
+  ],
+  "timestamp": "2026-10-05T12:05:16.196821408Z",
+  "model": "glm-5.3"
+}

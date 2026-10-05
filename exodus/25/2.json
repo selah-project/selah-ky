@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 25:2",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ал",
+      "rationale": "אשר үчүн кыргызча байланыш сөз кошулду"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ידבנו",
+      "rationale": "נדב — өз ыктыяры менен берүү; дивид自觉 формасы «жүрөгү аны түртөт» деген сүрөттү сактайт"
+    },
+    {
+      "kind": "you",
+      "subject": "Мошеге",
+      "rationale": "Яхве Мошеге түз кайрылуу — буюрук формасында"
+    }
+  ],
+  "translation": "Йисраэлдин уулдарына айт: мага белек алышсын; жүрөгү өз эрки менен алаган ар бир адамдан мага белегимди алыңар ⟨מאת⟩.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "3b72350d6e690680655baebb343fc03a9e867a249b595aaf3502fd90e8399965",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/25\/1-4.1791202419843.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "айт"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ага"
+    },
+    {
+      "surface": "בני",
+      "gloss": "уулдарына"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэлдин"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "алышсын"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мага"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "белек"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ар"
+    },
+    {
+      "surface": "איש",
+      "gloss": "адамдан"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ал"
+    },
+    {
+      "surface": "ידבנו",
+      "gloss": "өз эрки менен алаган"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "жүрөгү"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "алыңар"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "белегимди"
+    },
+    {
+      "surface": "תרומתי",
+      "gloss": "белегимди"
+    }
+  ],
+  "timestamp": "2026-10-05T12:13:39.844264081Z",
+  "model": "glm-5.3"
+}

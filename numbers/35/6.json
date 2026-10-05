@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 35:6",
+  "book": "numbers",
+  "lang": "ky",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "6 + 42",
+      "rationale": "Шаарлардын саны эсептелет: алты качуу шаары жана кырк эки шаар кошумча."
+    },
+    {
+      "kind": "substitution",
+      "subject": "качуу шаары",
+      "rationale": "המקלט — баш калкалаа, паналаа жери; 'качуу шаары' деп берилди."
+    }
+  ],
+  "translation": "Жана левилерге берген ⟨את⟩ шаарлардын ичинен — ⟨את⟩ алты качуу шаарын, кан төккөн киши ал жакка качуу үчүн бергиле; алардын үстүнө кырк эки шаар кошуп бергиле.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "ca2676a78566c18bac3bd56dd920fbae5e8651834e283676d044088c12c380c0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/numbers\/35\/5-8.1791204611881.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "жана ⟨את⟩",
+      "marks": "шаарлардын"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "шаарлар"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "аларды"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "бергиле"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "левилерге"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "алты качуу шаарын"
+    },
+    {
+      "surface": "שש",
+      "gloss": "алты"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "шаарын"
+    },
+    {
+      "surface": "המקלט",
+      "gloss": "качууну"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "аларды"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "бергиле"
+    },
+    {
+      "surface": "לנס",
+      "gloss": "качуу үчүн"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ал жакка"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "кан төккөн киши"
+    },
+    {
+      "surface": "ועליהם",
+      "gloss": "алардын үстүнө"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "бергиле"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "кырк"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "эки"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "шаар"
+    }
+  ],
+  "timestamp": "2026-10-05T12:50:11.881984548Z",
+  "model": "glm-5.3"
+}

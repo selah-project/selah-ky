@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 21:10",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "באפו",
+      "rationale": "Литералдуу 'аңкоосу\/мурунунда' — ачуунун образы; 'ачуусунда' деп берилди."
+    },
+    {
+      "kind": "addition",
+      "subject": "Яхве",
+      "rationale": "Экинчи 'Яхве' субъектти ачык кылуу үчүн кайталанды; еврейче текстде бир гана жолу бар."
+    }
+  ],
+  "translation": "Аларды от тандырдай койосуң Өз жүзүңдүн убагында, Яхве; Яхве Өз ачуусунда аларды жутуп жиберет, жана от аларды жейт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "0e6ed9a1436b8b1ccc27f6c44575d05806433511d717f3dd94efe0a05a8c86ce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/21\/9-12.1791215542650.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תשיתמו",
+      "gloss": "Аларды ... койосуң"
+    },
+    {
+      "surface": "כתנור",
+      "gloss": "тандырдай"
+    },
+    {
+      "surface": "אש",
+      "gloss": "от"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "убагында"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "жүзүңдүн"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "Өз ачуусунда"
+    },
+    {
+      "surface": "יבלעם",
+      "gloss": "аларды жутуп жиберет"
+    },
+    {
+      "surface": "ותאכלם",
+      "gloss": "жана ... жейт"
+    },
+    {
+      "surface": "אש",
+      "gloss": "от"
+    }
+  ],
+  "timestamp": "2026-10-05T15:52:22.650785841Z",
+  "model": "glm-5.3"
+}

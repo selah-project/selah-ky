@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "proverbs 11:29",
+  "book": "proverbs",
+  "lang": "ky",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨Өз⟩",
+      "rationale": "Еврейче 'анын үйү' дейт; 'өз' кыргызча тактоо үчүн кошулду"
+    },
+    {
+      "kind": "idiom",
+      "subject": "рухту мураска алат",
+      "rationale": "ינחל רוח — 'шамалды мурас кылат' идиомасы: эч нерсе албай калат, бекер эмгек"
+    },
+    {
+      "kind": "alternative",
+      "subject": "тынчын бузган",
+      "rationale": "עכר — 'сууну лайламалуу кылуу': үй-бүлөсүнө бузукулук алып келүүчү"
+    }
+  ],
+  "translation": "⟨Өз⟩ үйүнүн тынчын бузган адам рухту мураска алат, жана акылсыз акылмандын жүрөгүнө кызмат кылат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "738265098498f9a90c008ce173b3bcf8c2ec1e374fdb0f5954fe98d77e23d816",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/11\/29-31.1791218014314.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עוכר",
+      "gloss": "тынчын бузган"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "үйүнүн"
+    },
+    {
+      "surface": "ינחל",
+      "gloss": "мураска алат"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "рух"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "жана кызмат кылат"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "акылсыз"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "акылмандын"
+    },
+    {
+      "surface": "לב",
+      "gloss": "жүрөгүнө"
+    }
+  ],
+  "timestamp": "2026-10-05T16:33:34.315502392Z",
+  "model": "glm-5.3"
+}

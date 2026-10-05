@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 112:2",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 112,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "тукум",
+      "rationale": "זרע букв. 'үрөн' — урпак маанисинде"
+    }
+  ],
+  "translation": "Жер үстүндө анын тукуму күчтүү болот, түз жүргөндөрдүн мууну алкышталат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "d4924ae05067b5716ba309e8db4bc8e4802d406f50a70a7b1937889f1361042b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/112\/1-4.1791217174833.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גבור",
+      "gloss": "күчтүү"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "жер үстүндө"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "болот"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "анын тукуму"
+    },
+    {
+      "surface": "דור",
+      "gloss": "мууну"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "түз жүргөндөрдүн"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "алкышталат"
+    }
+  ],
+  "timestamp": "2026-10-05T16:19:34.834933425Z",
+  "model": "glm-5.3"
+}

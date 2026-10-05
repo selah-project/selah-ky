@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 1:9",
+  "book": "ezekiel",
+  "lang": "ky",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "эжесине",
+      "rationale": "אחות буквально 'сиңдиси\/эжеси' — канаттардын өз ара жакындыгы тууралуу метафора"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חברת\/אשה אל אחותה",
+      "rationale": "аял-эже образы канаттардын биригишин берет, кыргызча бул сөздөрдүн жынысы жоголот"
+    }
+  ],
+  "translation": "Канаттары аялдын эжесине кошулуп турат; алар жүргөндө бурулушпайт, ар бир өз бетинин тарабына карай жүрөт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "c2064f9d6c31054ecd64abb83845003ab14c943a031c8a1077ece208ee717401",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ezekiel\/1\/9-12.1791212027158.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חברת",
+      "gloss": "кошулуп турат"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "аялдын"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-га"
+    },
+    {
+      "surface": "אחותה",
+      "gloss": "эжесине"
+    },
+    {
+      "surface": "כנפיהם",
+      "gloss": "канаттары"
+    },
+    {
+      "surface": "לא",
+      "gloss": "эмес"
+    },
+    {
+      "surface": "יסבו",
+      "gloss": "бурулушпайт"
+    },
+    {
+      "surface": "בלכתן",
+      "gloss": "жүргөндө"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ар бир"
+    },
+    {
+      "surface": "אל",
+      "gloss": "карай"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "тарабына"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "өз бетинин"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "жүрөт"
+    }
+  ],
+  "timestamp": "2026-10-05T14:53:47.159911701Z",
+  "model": "glm-5.3"
+}

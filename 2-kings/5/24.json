@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 5:24",
+  "book": "2-kings",
+  "lang": "ky",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "дөбө",
+      "rationale": "העפל — дөбө\/бекендик; котормолор 'towers', 'hill', 'high place' деп бөлүнөт"
+    },
+    {
+      "kind": "addition",
+      "subject": "нерселерди",
+      "rationale": "Ивритте ויפקд объект аталбайт — 'жайгаштырды' дегендин объектиси контексттен"
+    },
+    {
+      "kind": "crux",
+      "subject": "ויפקד",
+      "rationale": "paqad: 'жайгаштырды' (JPS deposited) же 'эсептеди\/текшерди' (muster) — эки окуу бар"
+    }
+  ],
+  "translation": "Жана ал дөбөгө келди, алардын колунан алды жана ⟨את⟩ нерселерди үйгө жайгаштырды, жана ⟨את⟩ кишилерди жөнөтүп жиберди, жана алар кетишти.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "1bbf05128eb6b7e387b0cfe7047ef4079406596351fec36ca54b1f885b15e20b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-kings\/5\/24-24.1791223991507.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "келди"
+    },
+    {
+      "surface": "אל",
+      "gloss": "дөбөгө"
+    },
+    {
+      "surface": "העפל",
+      "gloss": "дөбөгө"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "алды"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "алардын колунан"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "жайгаштырды"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "үйгө"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "жөнөтүп жиберди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "кишилерди"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "кишилерди"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "кетишти"
+    }
+  ],
+  "timestamp": "2026-10-05T18:13:11.507581194Z",
+  "model": "glm-5.3"
+}

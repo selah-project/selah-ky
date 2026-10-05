@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 45:25",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨кардай⟩ bardабызда болот",
+      "rationale": "Кыргыз тили этиштин ээсин талап кылат; еврей тексти ээсиз этиштерде айтылат"
+    },
+    {
+      "kind": "substitution",
+      "subject": "акталат",
+      "rationale": "יצדקו — цедек тамыры: «ак болот», «адил деп табылат» — соттук маани"
+    }
+  ],
+  "translation": "Яхвеге ⟨кардай⟩ bardабызда болот: Йисраэлдин бүт үрөнү акталат жана Аны мактаайт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "688294ad878606561a3265e29ceaf7beceae8a95a3142cceab3f085a9c099599",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/45\/25-25.1791210222424.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ביהוה",
+      "gloss": "Яхвеге"
+    },
+    {
+      "surface": "יצדקו",
+      "gloss": "акталат"
+    },
+    {
+      "surface": "ויתהללу",
+      "gloss": "жана мактаайт"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүт"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "үрөнү"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэлдин"
+    }
+  ],
+  "timestamp": "2026-10-05T14:23:42.424697847Z",
+  "model": "glm-5.3"
+}

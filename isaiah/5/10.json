@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 5:10",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "бат · хомер · эфа",
+      "rationale": "Ченемдер: суюктук бат, кургактык хомер жана эфа — түшүмдүн аздыгы өлчөө менен айтылат."
+    },
+    {
+      "kind": "substitution",
+      "subject": "томпо",
+      "rationale": "צמד «жүгөр аяктган жуп» — күнүмдүк иштин аянты; «томпо» сүрөт жогот."
+    }
+  ],
+  "translation": "Анткени он томпо жүзүм багы бир бат берет, жана бир хомер үрөн бир эфа берет.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "b11006f1e6d9ab8e268edf6389367ebe4432f963b552b337684334a8d8032c78",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/5\/9-12.1791209462069.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "он"
+    },
+    {
+      "surface": "צמדי",
+      "gloss": "томпо"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "жүзүм багы"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "берет"
+    },
+    {
+      "surface": "בת",
+      "gloss": "бат"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "бир"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "жана үрөн"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "хомер"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "берет"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "эфа"
+    }
+  ],
+  "timestamp": "2026-10-05T14:11:02.070614395Z",
+  "model": "glm-5.3"
+}

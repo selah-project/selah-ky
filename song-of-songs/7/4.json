@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 7:4",
+  "book": "song-of-songs",
+  "lang": "ky",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שני ... כשני",
+      "rationale": "«эки» деген сөздүн кайталанышы — экилик симметрияны билдирген ыр түзүмү"
+    }
+  ],
+  "translation": "Эки эмчиң эки бөкөн баласындай — бөкөндүн эгиздери.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "64ce6cd2d6a1f5e11738c4c9da89684b1d7739574dcc86367b122a1426b72231",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/song-of-songs\/7\/1-4.1791219673127.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שני",
+      "gloss": "эки"
+    },
+    {
+      "surface": "שדיך",
+      "gloss": "эмчиң"
+    },
+    {
+      "surface": "כשני",
+      "gloss": "эки... сыяктуу"
+    },
+    {
+      "surface": "עפרים",
+      "gloss": "бөкөн баласы"
+    },
+    {
+      "surface": "תאמי",
+      "gloss": "эгиздери"
+    },
+    {
+      "surface": "צביה",
+      "gloss": "бөкөндүн"
+    }
+  ],
+  "timestamp": "2026-10-05T17:01:13.128685288Z",
+  "model": "glm-5.3"
+}

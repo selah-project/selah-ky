@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 119:48",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "колдорумду көтөрөм",
+      "rationale": "Лифтинг коллор — сыйынуу\/моюн сунуу идиомасы, бул жерде буйруктарга багытталган"
+    },
+    {
+      "kind": "substitution",
+      "subject": "жоболоруң",
+      "rationale": "חק — 'белгиленген чек, жобо'; 'мыйзам' эмес, формасы сакталды"
+    }
+  ],
+  "translation": "Жана мен колдорумду Сенин буйруктарыңа көтөрөм, аларды мен сүйдүм, жана Сенин жоболоруң жөнүндө ойлонуп айтам.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "e1e9edb61584885156890815718eff87acc05ffed81ce85e53bed441f5f4cfe6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/119\/45-48.1791217330048.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "Жана мен көтөрөм"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "колдорумду"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-га"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "буйруктарыңа"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "аларды"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "сүйдүм"
+    },
+    {
+      "surface": "ואшיחה",
+      "gloss": "ойлонуп айтам"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "жоболоруң жөнүндө"
+    }
+  ],
+  "timestamp": "2026-10-05T16:22:10.049473394Z",
+  "model": "glm-5.3"
+}

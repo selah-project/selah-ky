@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 15:26",
+  "book": "proverbs",
+  "lang": "ky",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ал эми⟩",
+      "rationale": "Кыргыз тили эки жарым сүйлөмдү байлаш үчүн байламчаны талап кылат; еврей тилинде жок."
+    },
+    {
+      "kind": "substitution",
+      "subject": "жийиркеничтүү",
+      "rationale": "תועבה — «жек көрүлүүчү нерсе», жийиркенүү сезими менен байланышкан ыйык термин."
+    }
+  ],
+  "translation": "Жаман ойлор Яхвеге жийиркеничтүү, ал эми жагымлуу сөздөр — таза.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "de6cbe6260b3f3f5d0194cbd567b9cf491168bb0acac71ac5239b751476c1b48",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/15\/25-28.1791218110629.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "жийиркеничтүү"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвеге"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "ойлор"
+    },
+    {
+      "surface": "רע",
+      "gloss": "жаман"
+    },
+    {
+      "surface": "וטהרים",
+      "gloss": "таза"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "сөздөр"
+    },
+    {
+      "surface": "נעם",
+      "gloss": "жагымлуу"
+    }
+  ],
+  "timestamp": "2026-10-05T16:35:10.630084141Z",
+  "model": "glm-5.3"
+}

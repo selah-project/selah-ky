@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 145:20",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 145,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "mashруумдар",
+      "rationale": "הרשעים literally «mashруумдар» — терс кылмышкерлер; кыргыз тилинде бул терминди көз карандысыз сөз катары сунушташ керек"
+    }
+  ],
+  "translation": "Сактайт Яхве ⟨את⟩ Аны сүйгөндөрдүн баарын, жана ⟨את⟩ бардык.mashruums mashруумдарды жок кылат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "f47c414869819a76e70b46732b17f901a1344239eccf6af168e501655b3c4f38",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/145\/17-20.1791217672002.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שומר",
+      "gloss": "сактайт"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Аны сүйгөндөрдүн баарын"
+    },
+    {
+      "surface": "כל",
+      "gloss": "баарын"
+    },
+    {
+      "surface": "אהביו",
+      "gloss": "Аны сүйгөндөрдү"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "бардык.mashруумдарды"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бардык"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "mashруумдарды"
+    },
+    {
+      "surface": "ישמיד",
+      "gloss": "жок кылат"
+    }
+  ],
+  "timestamp": "2026-10-05T16:27:52.005312391Z",
+  "model": "glm-5.3"
+}

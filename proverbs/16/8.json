@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 16:8",
+  "book": "proverbs",
+  "lang": "ky",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "кирише",
+      "rationale": "תבואא — түшүм, пайда; «кирише» жакын маани"
+    }
+  ],
+  "translation": "Цедек менен аз нерсе жакшы, өкүмсүз көп киришеден.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "3f3f2b6eb85bb179256fc399fbce0e6b8a36fede4dad8df4aeea82b7ea42199b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/16\/5-8.1791218083288.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "жакшы"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "аз"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "цедек менен"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "көп"
+    },
+    {
+      "surface": "תבואות",
+      "gloss": "кирише"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "өкүм"
+    }
+  ],
+  "timestamp": "2026-10-05T16:34:43.289409127Z",
+  "model": "glm-5.3"
+}

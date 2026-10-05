@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 24:1",
+  "book": "job",
+  "lang": "ky",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "משדי",
+      "rationale": "'Шаддайдан' (убакыттар Анадан жашырылган) же 'Шаддай тарабынан' (Шаддай аларды жашырат) — эки окуу бар."
+    },
+    {
+      "kind": "question",
+      "subject": "суроо",
+      "rationale": "Аят Ийобтун суроосу: адилетсиздик негиз жок кылынбайт деген нааразычылык."
+    }
+  ],
+  "translation": "Эмне үчүн Шаддайдан убакыттар жашырылган эмес, жана Аны билгендер Анын күндөрүн көрбөйт?",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "b89365a7508d833473dbff6c61f88fcf79aed3c280ae79e7fded76d84c496105",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/job\/24\/1-4.1791219116756.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מדוע",
+      "gloss": "Эмне үчүн"
+    },
+    {
+      "surface": "משדי",
+      "gloss": "Шаддайдан"
+    },
+    {
+      "surface": "לא",
+      "gloss": "эмес"
+    },
+    {
+      "surface": "נצפנו",
+      "gloss": "жашырылган"
+    },
+    {
+      "surface": "עתים",
+      "gloss": "убакыттар"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "жана билгендер"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "көрбөйт"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "Анын күндөрүн"
+    }
+  ],
+  "timestamp": "2026-10-05T16:51:56.757161733Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 19:10",
+  "book": "leviticus",
+  "lang": "ky",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "түшүп калган жүзүмдөр",
+      "rationale": "פרט — жалгыз калган, чачылган данек; кыргызча бир сөзгө сыйбайт"
+    },
+    {
+      "kind": "crux",
+      "subject": "תעולל",
+      "rationale": "עלל: «толук терүү» же «кыйноо\/тыйноо» — котормочулор эки жакка бурган"
+    }
+  ],
+  "translation": "Жана жүзүмзарыңды толук тазалаба, жана жүзүмзарыңдан түшүп калган жүзүмдөрдү терип алба; ⟨את⟩ аларды жакырга жана жаткелгендерге калтыр — Мен Яхве, силердин Элохимиңер.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "040d901e7cfb789fef6d2f0069f1e70b1c123c92e4e9db9f1e3ea02e9fa0a875",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/19\/9-12.1791203206841.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכרמך",
+      "gloss": "жана жүзүмзарыңды"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "תעולל",
+      "gloss": "толук тазалаба"
+    },
+    {
+      "surface": "ופרט",
+      "gloss": "түшүп калган жүзүмдөрдү"
+    },
+    {
+      "surface": "כרמך",
+      "gloss": "жүзүмзарыңдан"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "תלקט",
+      "gloss": "терип алба"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "жакырга"
+    },
+    {
+      "surface": "ולגר",
+      "gloss": "жана жаткелгендерге"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "калтыр"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ аларды"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Мен"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "силердин Элохимиңер"
+    }
+  ],
+  "timestamp": "2026-10-05T12:26:46.842477856Z",
+  "model": "glm-5.3"
+}

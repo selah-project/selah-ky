@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 22:6",
+  "book": "2-samuel",
+  "lang": "ky",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "мени алдын тосту",
+      "rationale": "קדמני — 'алдында тосду' же 'бурулуп келди'; KJV 'prevented' деп алдагы мааниде алган"
+    },
+    {
+      "kind": "substitution",
+      "subject": "жиптери",
+      "rationale": "חבלי — 'жип, аркан'; KJV 'sorrows' (азаптар) деп каталашкан"
+    }
+  ],
+  "translation": "Шеолдун жиптери мени курчап алды, өлүмдүн тузактары мени алдын тосту.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "b65ca0144051ef5bc38f683dc73604406e7f894bd97708628f44c79ec5eee71b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-samuel\/22\/5-8.1791207791649.json",
+    "code": "641241cf-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חבלי",
+      "gloss": "жиптери"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шеолдун"
+    },
+    {
+      "surface": "סבני",
+      "gloss": "мени курчап алды"
+    },
+    {
+      "surface": "קדמני",
+      "gloss": "мени алдын тосту"
+    },
+    {
+      "surface": "מקשי",
+      "gloss": "тузактыкы… тузактары"
+    },
+    {
+      "surface": "מות",
+      "gloss": "өлүмдүн"
+    }
+  ],
+  "timestamp": "2026-10-05T13:43:11.650361623Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 40:28",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Мишкан",
+      "rationale": "משכן 'жашоо жай' — аталыш катары сакталды, 'чатыр' деп которулбайт (D2)"
+    }
+  ],
+  "translation": "Жана ал ⟨את⟩ Мишкандын кире беришинин калгын илип койду.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "b149e5d1ecadd7ab4d49575833c7f6842da9e731c78137272e478762189067eb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/40\/25-28.1791202762008.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "илип койду"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "калгыны"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "калгын"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "кире беришинин"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "Мишкандын"
+    }
+  ],
+  "timestamp": "2026-10-05T12:19:22.009606853Z",
+  "model": "glm-5.3"
+}

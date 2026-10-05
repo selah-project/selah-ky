@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 6:19",
+  "book": "leviticus",
+  "lang": "ky",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ыраматкер",
+      "rationale": "כהן — ыйык кызмат кылуучу; «священник» орус сөзү колдонулбайт"
+    }
+  ],
+  "translation": "Аны күнөө үчүн алып келген ыраматкер ⟨את⟩ аны жейт; ал ыйык жерде, жолугушуу чатырынын короосунда жейлет.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "578d0f5ca20aa9595556b011070dcf61b41274c7f3804bf9d7f124fd9c0aaab2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/6\/17-20.1791202881200.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הכהן",
+      "gloss": "ыраматкер"
+    },
+    {
+      "surface": "המחטא",
+      "gloss": "күнөө үчүн алып келген"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "аны"
+    },
+    {
+      "surface": "יאכלנה",
+      "gloss": "жет"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "жерде"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ыйык"
+    },
+    {
+      "surface": "תאкל",
+      "gloss": "жейлет"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "короосунда"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "чатырынын"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "жолугушуу"
+    }
+  ],
+  "timestamp": "2026-10-05T12:21:21.201375329Z",
+  "model": "glm-5.3"
+}

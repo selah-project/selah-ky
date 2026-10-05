@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 42:12",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жаным",
+      "rationale": "נפש — «жан» деген философиялык мааниде эмес, дем алуу\/тириликтин күчү"
+    },
+    {
+      "kind": "addition",
+      "subject": "жаныма тирилтилген",
+      "rationale": "KJV «within me» — עלי «мага каршы\/үстүмдө» дейт, кыргызча тактык үчүн ачылды"
+    },
+    {
+      "kind": "invitation",
+      "subject": "чөгөсүң жаным",
+      "rationale": "өз жанына айтылган чакыруу — псалмдун кайрылма рефрени"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ызы-чуу",
+      "rationale": "המה — толкундун күүлдөшү: «эмнеге ичинде күүлдөйсүң» сөзмө-сөз"
+    }
+  ],
+  "translation": "Эмнеге чөгөсүң, жаныма тирилтилген жаным, жана эмнеге ичиңден ызы-чуу кыласың мага? Элохимге үмүт кыл, анткени дагы Аны даңктайм — жүзүмдүн куткаруусу жана Элохимим.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "dd0bffdb5820e29ed6499137322efd3aa7881cb0c2854312e051700e8e3994fb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/42\/9-12.1791216002331.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "эмнеге"
+    },
+    {
+      "surface": "תשתוחחי",
+      "gloss": "чөгөсүң"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "жаным"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "жана эмнеге"
+    },
+    {
+      "surface": "תהמי",
+      "gloss": "ызы-чуу кыласың"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "мага"
+    },
+    {
+      "surface": "הוחילי",
+      "gloss": "үмүт кыл"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Элохимге"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "дагы"
+    },
+    {
+      "surface": "אודנו",
+      "gloss": "Аны даңктайм"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "куткаруусу"
+    },
+    {
+      "surface": "פני",
+      "gloss": "жүзүмдүн"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "жана Элохимим"
+    }
+  ],
+  "timestamp": "2026-10-05T16:00:02.332288218Z",
+  "model": "glm-5.3"
+}

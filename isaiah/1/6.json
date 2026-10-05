@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 1:6",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "טריה",
+      "rationale": "«жаңы (таза, деңизден алынган) уруу» же «ириңдеген жара» — KJV «ириңдеген» десе, YLT «жаңы» деп берет."
+    },
+    {
+      "kind": "substitution",
+      "subject": "זרו",
+      "rationale": "Бул — «зум» (кысуу) деген тамыр, «бөтөн» деген сөз эмес; JPS «кысылган» деп берет."
+    }
+  ],
+  "translation": "Табандын алаканынан башка чейин анын ичинде сак жер жок — жара, көк-кызыл так жана үстүнө өңөөрү жаңы уруу; алар кысылган жок, таңылган жок да, май менен жумшартылган жок.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "818241d23022fe02b67d7d043b9190ccc1e32e753c10d71bf5b6f521c7bc6dd2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/1\/5-8.1791209340718.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מכף",
+      "gloss": "алаканынан"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "табандын"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "чейин"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "баш"
+    },
+    {
+      "surface": "אין",
+      "gloss": "жок"
+    },
+    {
+      "surface": "בו",
+      "gloss": "анын ичинде"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "сак жер"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "жара"
+    },
+    {
+      "surface": "וחבורה",
+      "gloss": "көк-кызыл так"
+    },
+    {
+      "surface": "ומכה",
+      "gloss": "уруу"
+    },
+    {
+      "surface": "טריה",
+      "gloss": "үстүнө өңөөрү жаңы"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "זרו",
+      "gloss": "кысылган"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "да"
+    },
+    {
+      "surface": "חבשו",
+      "gloss": "таңылган"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "רככה",
+      "gloss": "жумшартылган"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "май менен"
+    }
+  ],
+  "timestamp": "2026-10-05T14:09:00.719729806Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 32:30",
+  "book": "deuteronomy",
+  "lang": "ky",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "аска",
+      "rationale": "צור — «аска-таш», Элохимдин эпитет; «таш» гана берилбейт"
+    },
+    {
+      "kind": "elision",
+      "subject": "כי",
+      "rationale": "«им לא כי» үч сөздүү формула «...антпесе» де гана көтөрүлдү"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨душмандарга⟩",
+      "rationale": "הסגירר «жабып койду» — кимге экени контексттен кошулду"
+    },
+    {
+      "kind": "you",
+      "subject": "Йисраэлге",
+      "rationale": "ыр Израилге багышталган суроо-тажыяа"
+    }
+  ],
+  "translation": "Кантип бирөө миңди кубаласын жана экөү он миңди куку салуусун? Эгер алардын Аскары аларды сатпаса жана Яхве аларды ⟨душмандарга⟩ берип жибербесе.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "c67d672c8a66b2a780ff34c83280611977e93f49a47615fc86b87202d50a5d1a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/32\/29-32.1791205405804.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "איכה",
+      "gloss": "Кантип"
+    },
+    {
+      "surface": "ירדף",
+      "gloss": "кубаласын"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бирөө"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "миңди"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "жана экөү"
+    },
+    {
+      "surface": "יניסו",
+      "gloss": "куку салуусун"
+    },
+    {
+      "surface": "רבבה",
+      "gloss": "он миңди"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Эгер"
+    },
+    {
+      "surface": "לא",
+      "gloss": "...паса"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "צורם",
+      "gloss": "Аскары"
+    },
+    {
+      "surface": "מכרם",
+      "gloss": "сатпаса"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "жана Яхве"
+    },
+    {
+      "surface": "הסגירם",
+      "gloss": "берип жибербесе"
+    }
+  ],
+  "timestamp": "2026-10-05T13:03:25.804969488Z",
+  "model": "glm-5.3"
+}

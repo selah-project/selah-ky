@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 1:28",
+  "book": "proverbs",
+  "lang": "ky",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ישחרנני",
+      "rationale": "'таң атканда туруу' тамыры — 'эртең менен, ыкташ издөө' маанисинде."
+    },
+    {
+      "kind": "addition",
+      "subject": "алар",
+      "rationale": "Ивритте этиштин 3-жак көптүк формасы гана; 'алар' ачыктык үчүн кошулду."
+    }
+  ],
+  "translation": "Анда алар мени чакырышат, бирок мен жооп бербеймин; алар эртең менен мени издешет, бирок мени таппайышат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "ad5780c4251f8abf695d15eff359aaddf1e0af7378387140c35afecddcf0a001",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/1\/25-28.1791217725983.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Анда"
+    },
+    {
+      "surface": "יקראנני",
+      "gloss": "чакырышат"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "бирок... жок"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "жооп бербеймин"
+    },
+    {
+      "surface": "ישחרנני",
+      "gloss": "издешет"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "бирок... жок"
+    },
+    {
+      "surface": "ימצאנני",
+      "gloss": "таппайышат"
+    }
+  ],
+  "timestamp": "2026-10-05T16:28:45.985410721Z",
+  "model": "glm-5.3"
+}

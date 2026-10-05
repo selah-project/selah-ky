@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "leviticus 19:37",
+  "book": "leviticus",
+  "lang": "ky",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "мен — Яхве",
+      "rationale": "Hebrew lacks copula; Kyrgyz dash-construction brackets the supplied copula sense"
+    },
+    {
+      "kind": "elision",
+      "subject": "אתם",
+      "rationale": "אֹתָם here is the pronoun 'them', not the DOM marker; rendered as 'аларды' without ⟨את⟩ glyph"
+    }
+  ],
+  "translation": "Жана ⟨את⟩ менин бүт буйруктарымды жана ⟨את⟩ менин бүт өкүмдөрүмдү сактайсыңар, ⟨את⟩ аларды жасайсыңар; мен — Яхве.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "ed6964fd55e44e017035c51f156cfc71771ef0dbecbe573b5c2ae28c256f8268",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/19\/37-37.1791203271629.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "сактайсыңар"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "бүт буйруктарымды"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүт"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "буйруктарым"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "жана ⟨את⟩",
+      "marks": "бүт өкүмдөрүмдү"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүт"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "өкүмдөрүм"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "жасайсыңар"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ аларды"
+    },
+    {
+      "surface": "אני",
+      "gloss": "мен"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-10-05T12:27:51.629907676Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 13:2",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "төрөлгөн-биринчи",
+      "rationale": "בכור — тууган-биринчи, башкы уул; жөн гана «биринчи төрөлгөн» дегеннен да так"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לי … לי הוא",
+      "rationale": "«Мага» эки жолу кайталанат — ээлик күчөтүлүп турат, котормодо сакталды"
+    }
+  ],
+  "translation": "Мага бүт төрөлгөн-биринчини ыйыкта, ар бир жатындын ачылышын — Йисраэлдин уулдарынын ичинен, адамда да, малда да; мага ал.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "8cfaa083276e493d83eaeef57f6f56548a84ff7ef53d067ae85b75ae855d5efc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/13\/1-4.1791202130174.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קדש",
+      "gloss": "ыйыкта"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Мага"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүт"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "төрөлгөн-биринчи"
+    },
+    {
+      "surface": "פטר",
+      "gloss": "ачылышын"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ар бир"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "жатындын"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "уулдарынын ичинен"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэлдин"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "адамда"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "малда да"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мага"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ал"
+    }
+  ],
+  "timestamp": "2026-10-05T12:08:50.175555005Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 3:10",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ал",
+      "rationale": "«Жана ал айтты» — этиштин ээси кыргызча талап кылат, еврейче жок"
+    }
+  ],
+  "translation": "Жана ал айтты: Бакчада ⟨את⟩ үнүңдү уктум, жана корктум, анткени жылаңачмын, жана жашырындым.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "703b82f66348f46dda85bfc56d513db0b776617151ac51414debac6bff4db2e7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/3\/9-12.1791200708859.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Жана ал айтты"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "үнүңдү"
+    },
+    {
+      "surface": "קלך",
+      "gloss": "үнүңдү"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "уктум"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "бакчада"
+    },
+    {
+      "surface": "ואירא",
+      "gloss": "жана корктум"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "жылаңач"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "мен"
+    },
+    {
+      "surface": "ואחבא",
+      "gloss": "жана жашырындым"
+    }
+  ],
+  "timestamp": "2026-10-05T11:45:08.860161578Z",
+  "model": "glm-5.3"
+}

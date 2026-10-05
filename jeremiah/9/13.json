@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 9:13",
+  "book": "jeremiah",
+  "lang": "ky",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "тартынбастык",
+      "rationale": "שררות «кайраттуулук, бекемдик» деген тамырдан; «ойлоп табылыш» (KJV imagination) эмес, «токтолгулук» (JPS stubbornness) жакын"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "למדום \/ אבותם",
+      "rationale": "аталар үйрөткөн нерсеге ээрчүү — атadan балага өткөн жол темасы бүт аянда кайталанат"
+    }
+  ],
+  "translation": "Жана алар жүрөктөрүнүн тартынбастыгынын артынан жүрдү жана Баалдардын артынан — аларды аталары үйрөткөн.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "14884529c301db6840f6316534d8e3a5034407427f479a3d35a33695aa5d8f81",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/jeremiah\/9\/13-16.1791210947525.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "жана алар жүрдү"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "артынан"
+    },
+    {
+      "surface": "שררות",
+      "gloss": "тартынбастыгынын"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "жүрөктөрүнүн"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "жана артынан"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "Баалдардын"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "аларды"
+    },
+    {
+      "surface": "למדום",
+      "gloss": "үйрөткөн"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "аталары"
+    }
+  ],
+  "timestamp": "2026-10-05T14:35:47.525674375Z",
+  "model": "glm-5.3"
+}

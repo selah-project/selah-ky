@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "jeremiah 4:28",
+  "book": "jeremiah",
+  "lang": "ky",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "мен",
+      "rationale": "Ивриттин жак мүчөлөрү кыргызча так айтылышы үчүн ⟨мен⟩ менен такталды"
+    },
+    {
+      "kind": "substitution",
+      "subject": "קדרו",
+      "rationale": "Сөз «күл түсүнө айлануу, карарып калуу» деген сүрөт; кыргызча «караңгыланат» деген түс алынды"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דברתי \/ זמתי \/ נחמתי \/ אשוב",
+      "rationale": "Төрт кыска жак мүчөсүздөгү этиштердин ыргактуу катарлануусу — өкүмдүн кайра кайтпаслыгын басаңдатат"
+    }
+  ],
+  "translation": "Ошондуктан жер азаланат, жогорку асман караңгыланат, себебен ⟨мен⟩ айттым, ⟨мен⟩ ниет кылдым, жана өкүнбөйм, жана андан кайтпайм.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "8ba893bb2660e5dd08acdfd469a4cc9b52de765d47fead0bdb1cc52181213d41",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/jeremiah\/4\/27-28.1791224120128.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ошондуктан"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "буга"
+    },
+    {
+      "surface": "תאבל",
+      "gloss": "азаланат"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "жер"
+    },
+    {
+      "surface": "וקדרו",
+      "gloss": "караңгыланат"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "асман"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "жогорку"
+    },
+    {
+      "surface": "על",
+      "gloss": "себебен"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "айттым"
+    },
+    {
+      "surface": "זמתי",
+      "gloss": "ниет кылдым"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "жана жок"
+    },
+    {
+      "surface": "נחמתי",
+      "gloss": "өкүнбөйм"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "жана жок"
+    },
+    {
+      "surface": "אשוב",
+      "gloss": "кайтпайм"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "андан"
+    }
+  ],
+  "timestamp": "2026-10-05T18:15:20.129292263Z",
+  "model": "glm-5.3"
+}

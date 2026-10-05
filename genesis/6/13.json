@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 6:13",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "менен чогуу",
+      "rationale": "Ивритте משחיתם את הארץ — «аларды жер менен» деген кыска түзүлүштү ачуу үчүн кошулду"
+    },
+    {
+      "kind": "substitution",
+      "subject": "зордук-зомбулук",
+      "rationale": "חמס — зордук, күч колдонуу, адилетсиздик деген кең маани"
+    }
+  ],
+  "translation": "Жана Элохим Нухка айтты: Бардык эттин соңу менин алдыма келди, анткени жер алардын айнанасынан зордук-зомбулукка толтурулду; жана мына, Мен аларды ⟨את⟩ жер менен чогуу жок кылам.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "a55ed066cc2000983aa083e68817ab2822fc78d7845343b27e4d6c48f23833f9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/6\/13-16.1791200859630.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "жана айтты"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "לנח",
+      "gloss": "Нухка"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "соңу"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бардык"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "эттин"
+    },
+    {
+      "surface": "בא",
+      "gloss": "келди"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "алдыма"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "толтурулду"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "жер"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "зордук-зомбулукка"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "алардын айнанасынан"
+    },
+    {
+      "surface": "והנני",
+      "gloss": "жана мына"
+    },
+    {
+      "surface": "משחיתם",
+      "gloss": "аларды жок кылам"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "жерди"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "жер"
+    }
+  ],
+  "timestamp": "2026-10-05T11:47:39.630766418Z",
+  "model": "glm-5.3"
+}

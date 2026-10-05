@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 1:15",
+  "book": "job",
+  "lang": "ky",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "לפי חרב",
+      "rationale": "Буквальды «кылычтын оозу менен» — кылычтын мизи деген идиома"
+    },
+    {
+      "kind": "crux",
+      "subject": "שבא",
+      "rationale": "Шева — элдин ысымы (кол салуучу топ), жер же адам эмес"
+    }
+  ],
+  "translation": "Жана Шева элди кол салды, аларды алып кетти, жана ⟨את⟩ кызматчыларды кылычтын оозу менен сабап өлтүрүштү; мен гана жалгыз өзүм сага билдирүү үчүн качып кутулдум.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "5792733491401a8b892c2b081b16eaf63c696502a0b7be2de2220a56401cd112",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/job\/1\/13-16.1791218569622.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותפל",
+      "gloss": "кол салды"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Шева"
+    },
+    {
+      "surface": "ותקחם",
+      "gloss": "алып кетти"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "кызматчыларды"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "кызматчыларды"
+    },
+    {
+      "surface": "הכו",
+      "gloss": "сабап өлтүрүштү"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "оозу"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "кылычтын"
+    },
+    {
+      "surface": "ואמלטה",
+      "gloss": "качып кутулдум"
+    },
+    {
+      "surface": "רק",
+      "gloss": "гана"
+    },
+    {
+      "surface": "אני",
+      "gloss": "мен"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "жалгыз өзүм"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "билдирүү үчүн"
+    },
+    {
+      "surface": "לך",
+      "gloss": "сага"
+    }
+  ],
+  "timestamp": "2026-10-05T16:42:49.623901041Z",
+  "model": "glm-5.3"
+}

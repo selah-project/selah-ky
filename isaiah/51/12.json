@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 51:12",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אנכי אנכי",
+      "rationale": "Мен, Мен — кайталоо күчөтүү үчүн, еврейче эскизилдүү басым"
+    },
+    {
+      "kind": "substitution",
+      "subject": "מנחמכם",
+      "rationale": "נחם — «жубатуу» деген тамыр, «кечирүү» эмес"
+    },
+    {
+      "kind": "you",
+      "subject": "Сиондогу элге",
+      "rationale": "Яхвенин сөзү элге түз кайрылуу"
+    }
+  ],
+  "translation": "Мен, Мен Өзүм — силерди жубатканым; ким экенсиң, коркосуң өлүүчү адамдан жана чөпкө ⟨берилүүчү⟩ адам уулунан?",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "c72508245d4deb9fa7ffebb60a773170bace56819cc24905473936aa08125096",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/51\/12-12.1791224085715.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Мен"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Мен"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Өзүм"
+    },
+    {
+      "surface": "מנחמכם",
+      "gloss": "силерди жубатканым"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ким"
+    },
+    {
+      "surface": "את",
+      "gloss": "сен"
+    },
+    {
+      "surface": "ותיראי",
+      "gloss": "жана коркосуң"
+    },
+    {
+      "surface": "מאנוש",
+      "gloss": "адамдан"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "өлүүчү"
+    },
+    {
+      "surface": "ומבן",
+      "gloss": "жана уулунан"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "адам"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "чөпкө"
+    },
+    {
+      "surface": "ינתן",
+      "gloss": "берилүүчү"
+    }
+  ],
+  "timestamp": "2026-10-05T18:14:45.716229662Z",
+  "model": "glm-5.3"
+}

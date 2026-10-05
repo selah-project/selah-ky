@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 52:3",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 52,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חנם \/ באפס (52:4)",
+      "rationale": "«Бекер сатылдыңар — бекер зорлук кылынды» деген кайрылуу түзүлүш"
+    },
+    {
+      "kind": "substitution",
+      "subject": "куткарыласыңар",
+      "rationale": "גאל — жакын туугандын күнөөсүн өтөө, куткаруучу-тууган макты"
+    }
+  ],
+  "translation": "Анткени Яхве мындай дейт: бекер сатылдыңар, жана күмүшсүз куткарыласыңар.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "82878627cbc51c07e9aaf9b90461175ba057fe9592f8c0fb9318309ff589c8eb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/52\/1-4.1791210410460.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "כה",
+      "gloss": "мындай"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "дейт"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "бекер"
+    },
+    {
+      "surface": "נמכרתם",
+      "gloss": "сатылдыңар"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "күмүш менен"
+    },
+    {
+      "surface": "תגאלו",
+      "gloss": "куткарыласыңар"
+    }
+  ],
+  "timestamp": "2026-10-05T14:26:50.461160118Z",
+  "model": "glm-5.3"
+}

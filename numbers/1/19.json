@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 1:19",
+  "book": "numbers",
+  "lang": "ky",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "эсепке алды",
+      "rationale": "פקד — элди каттоо, санап чыгуу"
+    },
+    {
+      "kind": "substitution",
+      "subject": "эсепке алды",
+      "rationale": "פקד 'көрүү\/баалоо\/санаш' — бир тамыр, бир нече маани"
+    }
+  ],
+  "translation": "Яхве Мошеге буйругандай, ал аларды Синай чөлүндө эсепке алды.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "5838d805e1730833b235a238c4f25a536657472b152ade4d3e2413dec3bff45d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/numbers\/1\/17-20.1791203557967.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "дайы"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "буйругандай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Мошени"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "ויפקדם",
+      "gloss": "эсепке алды"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "чөлүндө"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Синай"
+    }
+  ],
+  "timestamp": "2026-10-05T12:32:37.968850380Z",
+  "model": "glm-5.3"
+}

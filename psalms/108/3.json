@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 108:3",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 108,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עורה\/אעירה",
+      "rationale": "Эки жолу бир тамыр: «ойгон» жана «ойготом» — аспап атынан кайрылуу менен айкалышып турат."
+    },
+    {
+      "kind": "crux",
+      "subject": "таңды ойготом",
+      "rationale": "אעירה שחר: JPS «мен таңды ойготом» (таң адамга эмес, адам таңга мурда турат), KJV\/ASV «эрте турармын» деген салттык окуу."
+    }
+  ],
+  "translation": "Ойгон, нева жана киннор! Мен таңды ойготом.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "42ad265799632db511bca983ab277661ef5a1b1280eb3e5b9c3c3bd7be8ed171",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/108\/1-4.1791217195316.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "Ойгон"
+    },
+    {
+      "surface": "הנבל",
+      "gloss": "нева"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "жана киннор"
+    },
+    {
+      "surface": "אעירה",
+      "gloss": "ойготом"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "таңды"
+    }
+  ],
+  "timestamp": "2026-10-05T16:19:55.323697185Z",
+  "model": "glm-5.3"
+}

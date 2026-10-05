@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 22:1",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נסה",
+      "rationale": "'сыноо' же 'азгыроо': KJV 'tempt' эмес, бул жерде 'сыноо' дурус."
+    },
+    {
+      "kind": "you",
+      "subject": "Аврахамга",
+      "rationale": "Элохим Аврахамды атап чакырат; жооп 'Мен мындамын' даяр турууну билдирет."
+    }
+  ],
+  "translation": "Болду, бул сөздөрдөн кийин Элохим ⟨את⟩ Аврахамды сынады, жана ага: Аврахам! — деп айтты. Ал: Мен мындамын, — деди.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "e2e1f3329f59fb0e0161134ce949bc8d5289e6a0948a3bbdb9bf792bacab6c63",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/22\/1-4.1791201153046.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Болду"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "кийин"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "сөздөрдөн"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "бул"
+    },
+    {
+      "surface": "והאלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "נסה",
+      "gloss": "сынады"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Аврахамды"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Аврахамды"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ага"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Аврахам"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "деди"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Мен мындамын"
+    }
+  ],
+  "timestamp": "2026-10-05T11:52:33.047446588Z",
+  "model": "glm-5.3"
+}

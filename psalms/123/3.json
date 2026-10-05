@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 123:3",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 123,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חננו",
+      "rationale": "В. 2 акырындагы שיחננו менен в. 3 башындагы חננו кайталанат — тилек эки жолу айтылат"
+    },
+    {
+      "kind": "you",
+      "subject": "Яхвеге",
+      "rationale": "Тикелей жүгүнүү — Ысым менен кабарлашуу"
+    },
+    {
+      "kind": "substitution",
+      "subject": "толдук",
+      "rationale": "שבע тамакка токтуруу тамыры — кордоу «жеген» тамак сыяктуу; сүрөт кыргызча «толдук» менен берилди"
+    }
+  ],
+  "translation": "Бизге ырайым кыл, Яхве, бизге ырайым кыл, анткени биз кордоодон өтө толдук.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "db13bdd8cce5b1ea6e2837496f68ec855fa50430f2b9be4eb2561a013b58a4fe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/123\/2-3.1791224523069.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חננו",
+      "gloss": "ырайым кыл"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "חננו",
+      "gloss": "ырайым кыл"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "רב",
+      "gloss": "өтө"
+    },
+    {
+      "surface": "שבענו",
+      "gloss": "толдук"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "кордоодон"
+    }
+  ],
+  "timestamp": "2026-10-05T18:22:03.069772065Z",
+  "model": "glm-5.3"
+}

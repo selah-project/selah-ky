@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 27:9",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "verse",
+      "rationale": "Короонун ченемдери: жүз чыканок узундук."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נגב\/תימנה",
+      "rationale": "Эки сөз тең «түштүк» — нечен нан (кургактык) жана оң кол тарап; эки эсе күчөтүү кыргызча жоголот."
+    },
+    {
+      "kind": "substitution",
+      "subject": "קלעים",
+      "rationale": "Лексема «_ilich» деген; бул жерде илинчүү чүпүрөк — түрү сакталды."
+    }
+  ],
+  "translation": "Жана сен ⟨את⟩ Мишкандын короосун жасайсың: түштүк тарабына, түштүк тарапта, короо үчүн ийрилген кендирден жасалган чүпүрөктөр — жүз чыканок узундукта бир тарап үчүн.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "589aa9bf494ccb0db3abecbeeeff8860bd697dc46c27970f62bd968a95847a96",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/27\/9-12.1791202392388.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "жана жасайсың"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Мишкандын короосун"
+    },
+    {
+      "surface": "חצר",
+      "gloss": "короосун"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Мишкандын"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "тарабына"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "түштүк"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "түштүк тарапта"
+    },
+    {
+      "surface": "קלעים",
+      "gloss": "чүпүрөктөр"
+    },
+    {
+      "surface": "לחצר",
+      "gloss": "короо үчүн"
+    },
+    {
+      "surface": "שש",
+      "gloss": "кендирден"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "ийрилген"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "жүз"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "чыканок"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "узундукта"
+    },
+    {
+      "surface": "לפאה",
+      "gloss": "тарап үчүн"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "бир"
+    }
+  ],
+  "timestamp": "2026-10-05T12:13:12.388898745Z",
+  "model": "glm-5.3"
+}

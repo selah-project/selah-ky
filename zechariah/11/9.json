@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zechariah 11:9",
+  "book": "zechariah",
+  "lang": "ky",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "המתה תמות \/ תכחד תכחד",
+      "rationale": "Этүүнүн кайталанышы (инфинитив + этиш бир тамырдан) — «өлүүчү өлсүн, жок кылынуучу жок кылынсын» — кыргызча ритм сакталды."
+    },
+    {
+      "kind": "substitution",
+      "subject": "אשה",
+      "rationale": "Бул жерде «аял» эмес, «ар бири» (баардык) маанисинде — эски котормолордогу «each one»."
+    },
+    {
+      "kind": "you",
+      "subject": "тойчуларга",
+      "rationale": "Пайгамбар койлорду (элди) таштап жаткан сөзү түз адрес катары айтылат."
+    }
+  ],
+  "translation": "Жана мен айттым: Мен силерди багайын жок — өлүүчү өлсүн, жок кылынуучу жок кылынсын, калгандары болсо ар бири өз коңшусунун этин жесин.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "4d1b8e903065145ef7ada6ed44d23635c6329c7b863c8a4462c2c85c186b88d0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/zechariah\/11\/9-12.1791215138096.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Жана айттым"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "ארעה",
+      "gloss": "багайын"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "силерди"
+    },
+    {
+      "surface": "המתה",
+      "gloss": "өлүүчү"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "өлсүн"
+    },
+    {
+      "surface": "והנכחדת",
+      "gloss": "жана жок кылынуучу"
+    },
+    {
+      "surface": "תכחד",
+      "gloss": "жок кылынсын"
+    },
+    {
+      "surface": "והנשארות",
+      "gloss": "жана калгандары"
+    },
+    {
+      "surface": "תאכלנה",
+      "gloss": "жесин"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ар бири"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "эт"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "эт"
+    },
+    {
+      "surface": "רעותה",
+      "gloss": "өз коңшусунун"
+    }
+  ],
+  "timestamp": "2026-10-05T15:45:38.097302664Z",
+  "model": "glm-5.3"
+}

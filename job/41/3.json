@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 41:3",
+  "book": "job",
+  "lang": "ky",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "הוא",
+      "rationale": "эмфатикалык 'ал' кыргызча 'Меники' этишинде сиңип кетти; ⟨ал⟩ кашаада сакталды"
+    },
+    {
+      "kind": "crux",
+      "subject": "בדיו (41:4)",
+      "rationale": "бул аят KJV\/YSVдо 'келишим' деп которулуп, башка сүйлөмгө кошулуп калган — биз JPS агымын кармадык"
+    }
+  ],
+  "translation": "Ким Менге мурда берди да, Мен ага төлөп берейин? Асмандын астындагынын баары Меники.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "b60dfa97f656be58387d36eb96f2153ed47230698aeebacdaf78eba1c4fc1df1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/job\/41\/1-4.1791219490613.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ким"
+    },
+    {
+      "surface": "הקדימני",
+      "gloss": "Менге мурда берди"
+    },
+    {
+      "surface": "ואשלם",
+      "gloss": "Мен төлөп берейин"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "астындагынын"
+    },
+    {
+      "surface": "כל",
+      "gloss": "баары"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "асмандын"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Меники"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ал⟩"
+    }
+  ],
+  "timestamp": "2026-10-05T16:58:10.614484551Z",
+  "model": "glm-5.3"
+}

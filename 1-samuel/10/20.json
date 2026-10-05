@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 10:20",
+  "book": "1-samuel",
+  "lang": "ky",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "урууларды жакындатуу",
+      "rationale": "Кумалган тандоо (чечүү) жүргүзүлүп жатат: уруу-уруу боюнча бөлүү."
+    },
+    {
+      "kind": "substitution",
+      "subject": "тандап алынды",
+      "rationale": "וילכד — «кармалды», «кумалга түштү»; бул чечүү ыссамы, чыгыш ыкмасы жоголду."
+    }
+  ],
+  "translation": "Жана Шемуэл ⟨את⟩ Йисраэлдин бардык урууларын жакындатты, жана Бinyаминдин уруусу тандап алынды.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "d5ec33a9a6839b5059ac19d56d15f5c03e1287bc46a02153301d809893476b1e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-samuel\/10\/17-20.1791206762431.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "жакындатты"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Шемуэл"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Йисраэлдин бардык урууларын"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бардык"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "урууларын"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэлдин"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "жана тандап алынды"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "уруусу"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Бinyаминдин"
+    }
+  ],
+  "timestamp": "2026-10-05T13:26:02.432417378Z",
+  "model": "glm-5.3"
+}

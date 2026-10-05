@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 18:11",
+  "book": "leviticus",
+  "lang": "ky",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ал",
+      "rationale": "הוא басымдуу алдын-ала айтылыш, «ал — сенин карындашың» деген аныктоо"
+    }
+  ],
+  "translation": "Атаңдын аялынын кызынын — атаңдан төрөлгөн, ал сенин карындашың — жылаңачтыгын ачпа; анын жылаңачтыгын ачпоо керек.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "1024c7c36b88be9e668d61a1c67f471dcfdc591d7fed26ad0f667bdcf5c97d03",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/18\/9-12.1791203165164.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "жылаңачтыгын"
+    },
+    {
+      "surface": "בת",
+      "gloss": "кызынын"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "аялынын"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "атаңдын"
+    },
+    {
+      "surface": "מולדת",
+      "gloss": "төрөлгөн"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "атаңдан"
+    },
+    {
+      "surface": "אחותך",
+      "gloss": "карындашың"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ал"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ачпа"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "⟨ачпоо керек⟩"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "анын жылаңачтыгын"
+    }
+  ],
+  "timestamp": "2026-10-05T12:26:05.165071843Z",
+  "model": "glm-5.3"
+}

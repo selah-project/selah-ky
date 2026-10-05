@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 17:18",
+  "book": "1-chronicles",
+  "lang": "ky",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "сөйлөө этиши",
+      "rationale": "Ивритте 'эмне кошо алат' деген түз этиштик айтылыш жок — суроо түрүндөгү конструкция кыргызча этиш талап кылат."
+    }
+  ],
+  "translation": "Давид дагы эмне кошо алат Сенин алдыңда кулуңдун урматы үчүн? Ал эми Сен ⟨את⟩ кулуңду билесиң.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "4995ccb8f4d0895b108c95f5ffe7fb04df01a265ec69a65f4bbe661eca6a2c6b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-chronicles\/17\/17-20.1791222227377.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "эмне"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "кошо алат"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "дагы"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "Сенин алдыңда"
+    },
+    {
+      "surface": "לכבוד",
+      "gloss": "урматы үчүн"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "кулуңду"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "кулуңду"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ал эми Сен"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "кулуңду"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "кулуңду"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "билесиң"
+    }
+  ],
+  "timestamp": "2026-10-05T17:43:47.378158948Z",
+  "model": "glm-5.3"
+}

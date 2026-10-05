@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 135:17",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 135,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "יש",
+      "rationale": "Ивриттин «бар» деген белгиси терс сүйлөмдө сиңирилип, өзүнчө сөз катары көрүнбөй калды"
+    }
+  ],
+  "translation": "Кулактары бар, бирок угушпайт; ошондой эле ооздорунда рух жок.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "4a6e24b431fe6aaa6fe394a5d0f91720eaf49fbe44d5f758cca56e886d2e0025",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/135\/17-20.1791217490560.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אזנים",
+      "gloss": "кулактары"
+    },
+    {
+      "surface": "להם",
+      "gloss": "алардын"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "бирок жок"
+    },
+    {
+      "surface": "יאזינו",
+      "gloss": "угушпайт"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ошондой эле"
+    },
+    {
+      "surface": "אין",
+      "gloss": "жок"
+    },
+    {
+      "surface": "יש",
+      "gloss": "⟨бар⟩"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "рух"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "ооздорунда"
+    }
+  ],
+  "timestamp": "2026-10-05T16:24:50.560703862Z",
+  "model": "glm-5.3"
+}

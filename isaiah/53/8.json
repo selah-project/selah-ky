@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 53:8",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 53,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "דורו",
+      "rationale": "'анын мууну' (тукуму) же 'анын доорун\/жашоосун' — котормочулар бөлүнөт: KJV 'generation' (тукум), JPS 'with his generation' (замандаштары)."
+    },
+    {
+      "kind": "crux",
+      "subject": "למו",
+      "rationale": "Байыркы эмес бирik 'аларга' катары да түшүнүлөт (JPS: 'to whom the stroke was due'); биз 'алга' деп алдык."
+    },
+    {
+      "kind": "substitution",
+      "subject": "מפשע",
+      "rationale": "'козголоң' — мурдагы 'күнөө' эмес, козголоң\/баш тартуу мааниси сакталды."
+    },
+    {
+      "kind": "addition",
+      "subject": "ал",
+      "rationale": "Ивритте этиштин жак мүчөсү жок; кыргызча этишке жак кошулду."
+    }
+  ],
+  "translation": "Камоодон жана өкүмдөн ал алынды, жана ⟨את⟩ анын муунун ким эске алат? Анткени ал жашоо жеринен кесилинди, элимдин козголоңу үчүн ал соккуга учурады.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "ce0c91c857c2e47b1e23660b349b87e49ebc5d4d7cdf3e0dd57d341be31385bd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/53\/8-8.1791224079245.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מעצר",
+      "gloss": "камоодон"
+    },
+    {
+      "surface": "וממשפט",
+      "gloss": "жана өкүмдөн"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "алынды"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "жана ⟨את⟩",
+      "marks": "анын мууну"
+    },
+    {
+      "surface": "דורו",
+      "gloss": "анын мууну"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ким"
+    },
+    {
+      "surface": "ישוחח",
+      "gloss": "эске алат"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "נגזר",
+      "gloss": "кесилинди"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "жеринен"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "жашоо"
+    },
+    {
+      "surface": "מפשע",
+      "gloss": "козголоңунан"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "элимдин"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "соккуга учурады"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ал"
+    }
+  ],
+  "timestamp": "2026-10-05T18:14:39.245477196Z",
+  "model": "glm-5.3"
+}

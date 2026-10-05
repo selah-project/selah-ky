@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 22:32",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "бул",
+      "rationale": "עשה объектисиз — кыргыз тили объекти талап кылат"
+    },
+    {
+      "kind": "crux",
+      "subject": "כי עשה",
+      "rationale": "«анткени Ал жасады» же «бутунан ажыраган деп» — «Antwortschrei» деген окуу да бар (Delitzsch: «бул үчүн айтылды»)"
+    }
+  ],
+  "translation": "Келишип, Анын цедегин жаңыдан төрөлгөн элге жарыялашат, анткени Ал ⟨бул⟩ жасады.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "03fa2f55e08f0629296c390b04d1ea48a7f608edc917030c11d7cf47eb6c461f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/22\/29-32.1791215624009.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יבאו",
+      "gloss": "келишет"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "жана жарыялашат"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "Анын цедеги"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "элге"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "төрөлгөн"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "жасады"
+    }
+  ],
+  "timestamp": "2026-10-05T15:53:44.010365690Z",
+  "model": "glm-5.3"
+}

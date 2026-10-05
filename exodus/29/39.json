@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "exodus 29:39",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "кечтердин аралыгында",
+      "rationale": "בין הערבים — «кечтердин ортосунда», күн батып жаткан убак; туура мааниси сакталды."
+    },
+    {
+      "kind": "measurement",
+      "subject": "таңэртең \/ кеч",
+      "rationale": "Курмандык убактысы күндүн эки чеги менен аныкталат."
+    }
+  ],
+  "translation": "⟨את⟩ бир козуну таңэртең кыл, жана ⟨את⟩ экинчи козуну кечтердин аралыгында кыл.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "8f2ade9cc84d5d849a73c1eeb78a2ab0c7a4c20d363915170559baaff15ec461",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/29\/37-40.1791202516446.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "бир козу"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "козу"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "бир"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "кыл"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "таңэртең"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "жана ⟨את⟩",
+      "marks": "экинчи козу"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "козу"
+    },
+    {
+      "surface": "השני",
+      "gloss": "экинчи"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "кыл"
+    },
+    {
+      "surface": "בין",
+      "gloss": "аралыгында"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "кечтердин"
+    }
+  ],
+  "timestamp": "2026-10-05T12:15:16.447204852Z",
+  "model": "glm-5.3"
+}

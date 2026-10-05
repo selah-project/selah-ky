@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 30:4",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ויבא אליה",
+      "rationale": "'аныкына кирди' — никелешип жатканын билдирген еврей эвфемизми"
+    },
+    {
+      "kind": "substitution",
+      "subject": "аялдыкка",
+      "rationale": "לאשה — 'аял катары', кыргызча 'аялдыкка' деген багыт менен берилди"
+    }
+  ],
+  "translation": "Ал ага ⟨את⟩ Билһаны, күңүн, аялдыкка берди, жана Яаков аныкына кирди.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "32b0a027d17b102c62d2f62e9dad1eee5c5c1caac83548fa17699b668aff9240",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/30\/1-4.1791201310474.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותתן",
+      "gloss": "ал берди"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ага"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Билһаны"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "Билһаны"
+    },
+    {
+      "surface": "שפחתה",
+      "gloss": "күңүн"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "аялдыкка"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "кирди"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "аныкына"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаков"
+    }
+  ],
+  "timestamp": "2026-10-05T11:55:10.475622505Z",
+  "model": "glm-5.3"
+}

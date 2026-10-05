@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 2:3",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אשר ברא אלהים לעשות",
+      "rationale": "«Элохим жараткан жана жасаган ишинен» (KJV) же «жасоого даярдаган» (YLT) — ламед-инфинитив мааниси талаштуу."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שבת",
+      "rationale": "Кайра Шаббат тамыры — тынуу күнүнүн ысымы менен тамырдаш."
+    }
+  ],
+  "translation": "Жана Элохим ⟨את⟩ жетинчи күндү баталады жана аны ыйык кылды, анткени ошол күндө ал өз ишинен тынды — Элохим жаратып жасоого даярдаган бүт ишинен.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "4688a214814e6faf16e06de662c425923511e9910f5954edf20bfb1906ef3bf1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/2\/1-4.1791200783474.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "баталады"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "жетинчи күндү"
+    },
+    {
+      "surface": "יום",
+      "gloss": "күндү"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "жетинчи"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "ыйык кылды"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "аны (жетинчи күндү)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ошол күндө"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "тынды"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "бүт"
+    },
+    {
+      "surface": "מלאכתו",
+      "gloss": "ишинен"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "жасоого"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "жаратып"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "жасоого"
+    }
+  ],
+  "timestamp": "2026-10-05T11:46:23.475770470Z",
+  "model": "glm-5.3"
+}

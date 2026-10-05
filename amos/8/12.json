@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "amos 8:12",
+  "book": "amos",
+  "lang": "ky",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "secret",
+      "subject": "Яхвенин сөзү",
+      "rationale": "изделсе да табылбаган, жашырылган сөз — жетишсиздиктин чегиси"
+    },
+    {
+      "kind": "elision",
+      "subject": "ישוטטו",
+      "rationale": "'ар тарапка чуркагылап' — кыймыл-аракетти билдирген сөз 'барышат' деп жумшартылды"
+    }
+  ],
+  "translation": "Жана алар деңизден деңизге чейин, түндүктөн чыгышка чейин адашып, Яхвенин ⟨את⟩ сөзүн издеп барышат, бирок таппай калышат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "afb258fcd798d2b5067b7b193cc9e6248516f227d6ab1b7dbd2aca4a02cb560f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/amos\/8\/9-12.1791214401051.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונעו",
+      "gloss": "адашып"
+    },
+    {
+      "surface": "מים",
+      "gloss": "деңизден"
+    },
+    {
+      "surface": "עד",
+      "gloss": "чейин"
+    },
+    {
+      "surface": "ים",
+      "gloss": "деңизге"
+    },
+    {
+      "surface": "ומצפון",
+      "gloss": "түндүктөн"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "чейин"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "чыгышка"
+    },
+    {
+      "surface": "ישוטטו",
+      "gloss": "барышат"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "издеп"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яхвенин сөзүн"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сөзүн"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "бирок жок"
+    },
+    {
+      "surface": "ימצאו",
+      "gloss": "таппай калышат"
+    }
+  ],
+  "timestamp": "2026-10-05T15:33:21.052892841Z",
+  "model": "glm-5.3"
+}

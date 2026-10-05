@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 85:8",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 85,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "хесед",
+      "rationale": "חסד — ырайым\/мехрибандык; 'ырайым гана' чектөөчү, хесед сакталды"
+    },
+    {
+      "kind": "you",
+      "subject": "Яхвеге",
+      "rationale": "Тилек Яхвеге багытталган"
+    }
+  ],
+  "translation": "Бизге көрсөткүн, Яхве, Сенин хеседди, жана Сенин куткарууңду бизге берги.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "9c504668f1ec6f906c0111504ba6a86c3b79b89e0ac4e761d44556398726e56f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/85\/5-8.1791216727087.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הראנו",
+      "gloss": "Бизге көрсөткүн"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "Сенин хеседди"
+    },
+    {
+      "surface": "וישעך",
+      "gloss": "жана Сенин куткарууңду"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "бергин"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "бизге"
+    }
+  ],
+  "timestamp": "2026-10-05T16:12:07.088740012Z",
+  "model": "glm-5.3"
+}

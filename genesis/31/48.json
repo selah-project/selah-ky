@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "genesis 31:48",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Лабандын сөзү Яаковко",
+      "rationale": "«Мени менен сенин ортоңдо» — тике кайрылуу, келишимдин экинчи тарабына"
+    },
+    {
+      "kind": "addition",
+      "subject": "деп коюлду",
+      "rationale": "Кыргызча этиш конструкциясы үчүн кошулду; ивритте жөн гана קרא שמו «атады атын»"
+    }
+  ],
+  "translation": "Жана Лабан айтты: Бул дөбө бүгүн мени менен сенин ортоңордо күбө. Ошондуктан анын аты Галеэд деп коюлду.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "1f0c037b833ef00dd676d440f215e097187483bd586a204f844715eddedf67d2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/31\/45-48.1791201387777.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Лабан"
+    },
+    {
+      "surface": "הגל",
+      "gloss": "дөбө"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "бул"
+    },
+    {
+      "surface": "עד",
+      "gloss": "күбө"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "менин ортомдо"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "сенин ортоңдо"
+    },
+    {
+      "surface": "היום",
+      "gloss": "бүгүн"
+    },
+    {
+      "surface": "על",
+      "gloss": "ошондуктан... үчүн"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ошентип"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "коюлду"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "анын аты"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Галеэд"
+    }
+  ],
+  "timestamp": "2026-10-05T11:56:27.778630468Z",
+  "model": "glm-5.3"
+}

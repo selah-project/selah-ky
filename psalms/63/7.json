@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 63:7",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 63,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "אם",
+      "rationale": "אִם шарттык «эгер» да болушу мүмкүн (YLT «If I have remembered»), бирок бул жерде убакыттык «…ганда» мааниси табигыйраак."
+    },
+    {
+      "kind": "substitution",
+      "subject": "күбүлөйүн",
+      "rationale": "הָגָה — «муркыроо, үн чыгаруу, ойлонтуу»; кыргызча «көңүлүмдө күбүлөө» эки маанини тең кармайт."
+    }
+  ],
+  "translation": "Төшөгүмдө Сени эстегенде, түнкү күзөттөрдө Сени көңүлүмдө күбүлөйүн.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "e27d25f1bef020b9d973f8f67dfe6f62fa2ad021cd065a6e8ddb3d763dc5ff25",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/63\/5-8.1791216339796.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "…да (–ганда)"
+    },
+    {
+      "surface": "זכרתיך",
+      "gloss": "Сени эстегенде"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстүндө"
+    },
+    {
+      "surface": "יצועי",
+      "gloss": "төшөгүмдө"
+    },
+    {
+      "surface": "באשמרות",
+      "gloss": "түнкү күзөттөрдө"
+    },
+    {
+      "surface": "אהגה",
+      "gloss": "көңүлүмдө күбүлөйүн"
+    },
+    {
+      "surface": "בך",
+      "gloss": "Сени"
+    }
+  ],
+  "timestamp": "2026-10-05T16:05:39.797295016Z",
+  "model": "glm-5.3"
+}

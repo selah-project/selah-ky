@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 12:4",
+  "book": "ecclesiastes",
+  "lang": "ky",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ал⟩",
+      "rationale": "Ивритте субъект жок; «ким турганда» так эмес, кыргызча субъект талап кылат"
+    },
+    {
+      "kind": "crux",
+      "subject": "ырдын кыздары",
+      "rationale": "בנות השיר — transferring: ырдоо жөндөмү, добуш; жекече адамдын кыздары эмес"
+    }
+  ],
+  "translation": "Көчөгө чыгуучу эшиктер жабылганда, тегирмендин үнү азайганда, куштун үнүнөн ⟨ал⟩ турганда, ырдын кыздары басылганда.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "2238545a3ef1695f438d24eebaac952d1714a0c551225e507539f7b9da94679b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ecclesiastes\/12\/1-4.1791220217104.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וסגרו",
+      "gloss": "жана жабылганда"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "эшиктер"
+    },
+    {
+      "surface": "בשוק",
+      "gloss": "көчөгө"
+    },
+    {
+      "surface": "בשפל",
+      "gloss": "азайганда"
+    },
+    {
+      "surface": "קול",
+      "gloss": "үнү"
+    },
+    {
+      "surface": "הטחנה",
+      "gloss": "тегирмендин"
+    },
+    {
+      "surface": "ויקום",
+      "gloss": "жана турганда"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "үнүнөн"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "куштун"
+    },
+    {
+      "surface": "וישחו",
+      "gloss": "жана басылганда"
+    },
+    {
+      "surface": "כל",
+      "gloss": "баары"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "кыздары"
+    },
+    {
+      "surface": "השיר",
+      "gloss": "ырдын"
+    }
+  ],
+  "timestamp": "2026-10-05T17:10:17.106145246Z",
+  "model": "glm-5.3"
+}

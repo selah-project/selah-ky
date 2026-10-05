@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 18:4",
+  "book": "leviticus",
+  "lang": "ky",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Мен —",
+      "rationale": "Копула кыргызчада талап кылынат, еврейчеде жок."
+    },
+    {
+      "kind": "you",
+      "subject": "Йисраэл уулдарына",
+      "rationale": "Буйруктар түз элге багытталат."
+    }
+  ],
+  "translation": "Менин өкүмдөрүмдү ⟨את⟩ жасагыла жана меним чечимдеримди ⟨את⟩ сактагыла, алардын ичинде жүү үчүн; Мен — Яхве, силердин Элохимиңер.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "e033b1d869d2c0b86a924c458f4b4706f0b848452cdaab8a8a978608f34903aa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/18\/1-4.1791203182047.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "менин өкүмдөрүмдү"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "өкүмдөрүмдү"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "жасагыла"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "жана ⟨את⟩",
+      "marks": "меним чечимдеримди"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "чечимдеримди"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "сактагыла"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "жүү үчүн"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "алардын ичинде"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Мен"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Элохимиңер"
+    }
+  ],
+  "timestamp": "2026-10-05T12:26:22.048530808Z",
+  "model": "glm-5.3"
+}

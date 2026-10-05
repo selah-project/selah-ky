@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 15:5",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "өсөө",
+      "rationale": "נשך — долг үстүнөн алынуучу өсөө (каныккан пайда), « interest »"
+    },
+    {
+      "kind": "substitution",
+      "subject": "таймалайт",
+      "rationale": "ימוט — «жылмышуу, тайгактоо, ордунан жылдырылуу»; кыргызча этиш «эмес» менен жалганып берилди"
+    },
+    {
+      "kind": "crux",
+      "subject": "בנשך",
+      "rationale": "өсөө (исраилдик туугандан алынбаган, бөтөндөн алынган сүйлөшүлгөн өсөө — Мыйзамды кайталоо 23:19–20 менен салыштырылса)"
+    }
+  ],
+  "translation": "Күмүшүн өсөөгө берген эмес, жана айыпсыздын үстүнөн пара алган эмес; ушуларды кылган адам түбөлүккө таймалайт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "b85364eb3dbb3d189f6631d2ebf0bf5e4c281ad0816e4095de98cdd5631e76b9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/15\/5-5.1791215402625.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כַּסְפּוֹ",
+      "gloss": "күмүшүн"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "эмес"
+    },
+    {
+      "surface": "נָתַן",
+      "gloss": "берген"
+    },
+    {
+      "surface": "בְּנֶשֶׁךְ",
+      "gloss": "өсөөгө"
+    },
+    {
+      "surface": "וְשֹׁחַד",
+      "gloss": "жана пара"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "үстүнөн"
+    },
+    {
+      "surface": "נָקִי",
+      "gloss": "айыпсыздын"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "эмес"
+    },
+    {
+      "surface": "לָקַח",
+      "gloss": "алган"
+    },
+    {
+      "surface": "עֹשֵׂה",
+      "gloss": "кылган адам"
+    },
+    {
+      "surface": "אֵלֶּה",
+      "gloss": "ушуларды"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "таймалайт"
+    },
+    {
+      "surface": "יִמּוֹט",
+      "gloss": "жылмышпайт"
+    },
+    {
+      "surface": "לְעוֹלָם",
+      "gloss": "түбөлүккө"
+    }
+  ],
+  "timestamp": "2026-10-05T15:50:02.625962749Z",
+  "model": "glm-5.3"
+}

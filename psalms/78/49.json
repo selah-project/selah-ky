@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "psalms 78:49",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ачуу",
+      "rationale": "אף букв. «мурун\/бурмуй» — ачуунун ордунда келет"
+    },
+    {
+      "kind": "crux",
+      "subject": "משלחת מלאכי רעים",
+      "rationale": "«жаман элчилерди жөнөтүү» же «жаман элчилердин тобу» — KJV «evil Angels», JPS «messengers of evil»"
+    }
+  ],
+  "translation": "Ал аларга өз ачуусунун күйүүсүн жиберди — ашкере ачуу, каар жана кысым — жаман элчилерди жөнөтүү.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "e5c7cce20cd82460be456a416232e884abb74c42f60b5975ddb9b876424937ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/78\/49-52.1791216616702.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "жиберди"
+    },
+    {
+      "surface": "בם",
+      "gloss": "аларга"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "күйүүсүн"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "ачуусунун"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "ашкере ачуу"
+    },
+    {
+      "surface": "וזעם",
+      "gloss": "жана каар"
+    },
+    {
+      "surface": "וצרה",
+      "gloss": "жана кысым"
+    },
+    {
+      "surface": "משלחת",
+      "gloss": "жөнөтүү"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "элчилерди"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "жаман"
+    }
+  ],
+  "timestamp": "2026-10-05T16:10:16.703001965Z",
+  "model": "glm-5.3"
+}

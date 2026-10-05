@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 35:20",
+  "book": "2-chronicles",
+  "lang": "ky",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "дарыясынын",
+      "rationale": "Перат — дарыя экени кыргыз окурманына айкын болушу үчүн кошулду"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אחרי כל זאת",
+      "rationale": "бул – «ушул нерселердин баарынан кийин» деген салттуу байланыштуу сүйлөм"
+    }
+  ],
+  "translation": "Ушул нерселердин баарынан кийин, Йошияh ⟨את⟩ үйдү даярдагандан кийин, Мицрайим падышасы Нехо Перат дарыясынын боюндагы Каркемишке каршы согушууга көтөрүлдү, жана Йошияh анын алдына чыкты.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "57e47f81b11a15ead81ebf2d894b1268e1e9d9c09ab8c7ca8f70aed520e4f680",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-chronicles\/35\/17-20.1791223456659.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "кыйын"
+    },
+    {
+      "surface": "כל",
+      "gloss": "баарынан"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ушул нерселердин"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "...дан кийин"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "даярдаган"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Йошияh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "үйдү"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "үйдү"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "көтөрүлдү"
+    },
+    {
+      "surface": "נכו",
+      "gloss": "Нехо"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "падышасы"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицрайим"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "согушууга"
+    },
+    {
+      "surface": "בכרכמיש",
+      "gloss": "Каркемишке каршы"
+    },
+    {
+      "surface": "על",
+      "gloss": "боюнда"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "Перат дарыясынын"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "жана... чыкты"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "анын алдына"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Йошияh"
+    }
+  ],
+  "timestamp": "2026-10-05T18:04:16.661261193Z",
+  "model": "glm-5.3"
+}

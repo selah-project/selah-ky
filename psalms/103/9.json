@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 103:9",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 103,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "יטור",
+      "rationale": "Негизги мааниси 'кайтарат\/сактайт'; бул жерде ачууну кармап туруу маанисинде 'сактабайт' деп алынды."
+    },
+    {
+      "kind": "elision",
+      "subject": "субъект",
+      "rationale": "Ивритте субъект жок — Яхве 8-аяттан уланат; кыргызча этиштин жакышы көрсөтөт."
+    }
+  ],
+  "translation": "Түбөлүккө чейин талашпайт, жана өчпөс ачуусун сактабайт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "5eace37ea168adbb12bf2cd218734c76da5492dcc98c24c42bbb589000dc3e43",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/103\/9-12.1791216947580.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "түбөлүккө чейин"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "талашпайт"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "жана жок"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "өчпөс чейин"
+    },
+    {
+      "surface": "יטור",
+      "gloss": "сактабайт"
+    }
+  ],
+  "timestamp": "2026-10-05T16:15:47.581513719Z",
+  "model": "glm-5.3"
+}

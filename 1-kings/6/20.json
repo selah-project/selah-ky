@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 6:20",
+  "book": "1-kings",
+  "lang": "ky",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "жыйырма × жыйырма × жыйырма чыканак",
+      "rationale": "Дебирдин так өлчөмдөрү — текшерилген куб."
+    },
+    {
+      "kind": "crux",
+      "subject": "ולפני הדביר",
+      "rationale": "«Дебирдин алдында» же «Дебирдин ичинде» — KJV «in the forepart», JPS «within» деп бөлүнөт."
+    },
+    {
+      "kind": "substitution",
+      "subject": "таза",
+      "rationale": "סגור — «жабылган, түзүлгөн» деген тамыр; «таза» (refined) кийинки котормолордун чечими."
+    }
+  ],
+  "translation": "Жана Дебирдин алды жагында — жыйырма чыканак узундукта, жыйырма чыканак жазылыкта жана жыйырма чыканак бийиктикте; жана ал аны таза алтын менен каптады, жана кедр курмандыкты каптады.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "7a3262eff569e0b8a13346a08a229aa2c0cb523a307bcba4ff70c2c08f75b7ee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-kings\/6\/17-20.1791208104813.json",
+    "code": "641241cf-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולפני",
+      "gloss": "жана алды жагында"
+    },
+    {
+      "surface": "הדביר",
+      "gloss": "Дебирдин"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "жыйырма"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "чыканак"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "узундукта"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "жана жыйырма"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "чыканак"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "жазылыкта"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "жана жыйырма"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "чыканак"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "бийиктикте"
+    },
+    {
+      "surface": "ויצפהו",
+      "gloss": "жана ал аны каптады"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "алтын"
+    },
+    {
+      "surface": "סגור",
+      "gloss": "таза"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "жана каптады"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "курмандыкты"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "кедр"
+    }
+  ],
+  "timestamp": "2026-10-05T13:48:24.814337169Z",
+  "model": "glm-5.3"
+}

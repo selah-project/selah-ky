@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 42:8",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "бул",
+      "rationale": "הוא 'ал' демешиги көрсөтмө 'бул' катары берилди"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לא ... אתן",
+      "rationale": "terse negation-dуali, кыргызча 'бербейм' эки жолу кайталанып сакталды"
+    }
+  ],
+  "translation": "Мен Яхве, бул Менин ысымым; Менин даңкымды башка бирөөгө бербейм жана Менин макталышымды оюлган буттарга бербейм.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "7294204b0af95baeca3f0942f42341d00ef6d8221416a49022d49af7a8c48344",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/42\/5-8.1791210135524.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Мен"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "бул"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "ысымым"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "жана Менин даңкымды"
+    },
+    {
+      "surface": "לאחר",
+      "gloss": "башка бирөөгө"
+    },
+    {
+      "surface": "לא",
+      "gloss": "бербейм"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "бербейм"
+    },
+    {
+      "surface": "ותהלתי",
+      "gloss": "жана Менин макталышымды"
+    },
+    {
+      "surface": "לפסילים",
+      "gloss": "оюлган буттарга"
+    }
+  ],
+  "timestamp": "2026-10-05T14:22:15.526090214Z",
+  "model": "glm-5.3"
+}

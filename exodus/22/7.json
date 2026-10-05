@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 22:7",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "האלהים",
+      "rationale": "«Элохимге» же «сотторго» (Элохим сотторду түшүндүрөт деген окуу) — биз Ысымдын өзүн сактадык."
+    },
+    {
+      "kind": "substitution",
+      "subject": "колун жайган жок деп",
+      "rationale": "Иврит сурама түрдө: «колун жайпады беле?» — ант берүү мааниси."
+    }
+  ],
+  "translation": "Эгер ууру табылбаса, үйдүн ээси Элохимге жакындасын — өз жакынынын мүлкүнө колун жайган жок ⟨деп⟩.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "0bf4f97fb15e47a8ec3938b11ffbccb02b4ca14c9c1fabdb7c30713c96a91bb9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/22\/5-8.1791202362627.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "эгер"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "табылбаса"
+    },
+    {
+      "surface": "הגנב",
+      "gloss": "ууру"
+    },
+    {
+      "surface": "ונקרב",
+      "gloss": "жакындасын"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "ээси"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "үйдүн"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ге"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "אם",
+      "gloss": "эгер"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "жайган"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "колун"
+    },
+    {
+      "surface": "במלאכת",
+      "gloss": "мүлкүнө"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "өз жакынынын"
+    }
+  ],
+  "timestamp": "2026-10-05T12:12:42.629009457Z",
+  "model": "glm-5.3"
+}

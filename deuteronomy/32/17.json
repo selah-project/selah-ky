@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 32:17",
+  "book": "deuteronomy",
+  "lang": "ky",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שערום",
+      "rationale": "шамал болбоо же коркуу: «корккон» деген маани тандалды, бирок тамырдын негизги мааниси — «добул болуу, титирөө»"
+    },
+    {
+      "kind": "substitution",
+      "subject": "шедимдер",
+      "rationale": "לשדים — жаман рухтар; «шайтандар» деген кийинки түшүнүк киргизилген жок, еврейче айтылышы сакталды"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨кудайларга⟩",
+      "rationale": "«жаңы» сызыктык сыяктуу зат атоочту талап кылат, ивритте жок"
+    }
+  ],
+  "translation": "Шедимдерге курмандык чектти, Элоахка эмес; алар билбеген кудайларга, жакындан келген жаңы ⟨кудайларга⟩; аларды аталарыңар корккон эмес.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "9802b5cbc434c865019bf5cf55a1ba659a653328bc8124098fe7c4eef0bae27c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/32\/17-20.1791205467819.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יזבחו",
+      "gloss": "курмандык чектти"
+    },
+    {
+      "surface": "לשדים",
+      "gloss": "шедимдерге"
+    },
+    {
+      "surface": "לא",
+      "gloss": "эмес"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Элоах"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "кудайлар"
+    },
+    {
+      "surface": "לא",
+      "gloss": "билбеген"
+    },
+    {
+      "surface": "ידעום",
+      "gloss": "билбеген"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "жаңы"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "жакындан"
+    },
+    {
+      "surface": "באו",
+      "gloss": "келген"
+    },
+    {
+      "surface": "לא",
+      "gloss": "эмес"
+    },
+    {
+      "surface": "שערום",
+      "gloss": "корккон"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "аталарыңар"
+    }
+  ],
+  "timestamp": "2026-10-05T13:04:27.820003019Z",
+  "model": "glm-5.3"
+}

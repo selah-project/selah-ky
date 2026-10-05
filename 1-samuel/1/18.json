@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 1:18",
+  "book": "1-samuel",
+  "lang": "ky",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨сенин⟩",
+      "rationale": "еврейче ээлик мүчөлөрү кыргызча такташу үчүн кошулду"
+    },
+    {
+      "kind": "idiom",
+      "subject": "жүзү болгон жок",
+      "rationale": "букв. «жүзү ага эмес болду» — кайгылуу жүз деген идиома"
+    }
+  ],
+  "translation": "Жана ал айтты: Кул аялыңız ⟨сенин⟩ көздөрүңдө ырайым тапсын. Жана аял ⟨өз⟩ жолуна кетти жана жеди, жана анын жүзү ⟨анын⟩ мындан ары эч качан ⟨бул⟩ болгон жок.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "98f8a4ad51bf32b36f257cf442f46f7d6c1377bf8de5278c8360a8957cc8a78b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-samuel\/1\/17-20.1791206579325.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Жана ал айтты"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "тапсын"
+    },
+    {
+      "surface": "שפחתך",
+      "gloss": "кул аялың"
+    },
+    {
+      "surface": "חן",
+      "gloss": "ырайым"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "көздөрүңдө"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "кетти"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "аял"
+    },
+    {
+      "surface": "לדרכה",
+      "gloss": "жолуна"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "жеди"
+    },
+    {
+      "surface": "ופניה",
+      "gloss": "анын жүзү"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "היו",
+      "gloss": "болгон"
+    },
+    {
+      "surface": "לה",
+      "gloss": "анын"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "мындан ары"
+    }
+  ],
+  "timestamp": "2026-10-05T13:22:59.326364737Z",
+  "model": "glm-5.3"
+}

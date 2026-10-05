@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 1:2",
+  "book": "song-of-songs",
+  "lang": "ky",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ישקני",
+      "rationale": "Үчүнчү жактагы аян кимди түшүнөт: сүйлөөчү «аны» (жоо жок) деп айтат — ким өбсүн деген наамды ачык айтылбайт"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דודיך",
+      "rationale": "דוד көп санда «сүйүүлөр» да, «сүйүүчүлөр» да болот; «сүйүүлөрүң» тандадык"
+    },
+    {
+      "kind": "invitation",
+      "subject": "to the beloved",
+      "rationale": "Аят каарманга тикелей үндөө менен башталат"
+    }
+  ],
+  "translation": "Мени оозунун өбүүлөрү менен өбсүн, анткени сүйүүлөрүң арактан жакшы.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "708639b00a5304c6985f489c6d7714dab9c2c2bae967edba93b746438fe76cd3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/song-of-songs\/1\/1-4.1791219532188.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישקני",
+      "gloss": "Мени... өбсүн"
+    },
+    {
+      "surface": "מנשיקות",
+      "gloss": "өбүүлөрү менен"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "оозунун"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "жакшы"
+    },
+    {
+      "surface": "דדיך",
+      "gloss": "сүйүүлөрүң"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "арактан"
+    }
+  ],
+  "timestamp": "2026-10-05T16:58:52.189960173Z",
+  "model": "glm-5.3"
+}

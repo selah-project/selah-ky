@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "ezekiel 39:29",
+  "book": "ezekiel",
+  "lang": "ky",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "ולא",
+      "rationale": "Жана-жок курулушасы «мындан ары … жашырбайм» деп бир гана этишке сиңди"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אשר",
+      "rationale": "байланыштык «анткени» катары берилди; жөн гана «кандай» деген сөз жок"
+    },
+    {
+      "kind": "addition",
+      "subject": "Мен",
+      "rationale": "этиштин 1-жак категориясы кыргызча субъект ат атоочту талап кылат"
+    }
+  ],
+  "translation": "Жана Мен алардан мындан ары Өз жүзүмдү жашырбайм, анткени Мен Йисраэл үйүнүн үстүнө ⟨את⟩ Өз рухумду төктүм — Адонай Яхвенин сөзү.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "8e54b7304b90ede725bd7d847ffc2432ee827ff0d9bc42ef822e72f70483b173",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ezekiel\/39\/29-29.1791213403425.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "жана … баш тартам"
+    },
+    {
+      "surface": "אסתיר",
+      "gloss": "жашырбайм"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "мындан ары"
+    },
+    {
+      "surface": "פני",
+      "gloss": "жүзүмдү"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "алардан"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "שפכתי",
+      "gloss": "төктүм"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Өз рухумду"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "рухумду"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстүнө"
+    },
+    {
+      "surface": "בית",
+      "gloss": "үйүнүн"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэл"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "сөзү"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    }
+  ],
+  "timestamp": "2026-10-05T15:16:43.425809799Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 31:2",
+  "book": "numbers",
+  "lang": "ky",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "элиңе кошуласың",
+      "rationale": "„Өз элиңе жыйналат“ — өлүмдүн эвфемизми, адабий мааниси сакталды."
+    },
+    {
+      "kind": "addition",
+      "subject": "сен",
+      "rationale": "Идиштин жак формасынан кыргызча тиешелүү жак ачык айтылды."
+    }
+  ],
+  "translation": "Йисраэлдин уулдарынын өчүн ⟨את⟩ Мадиандыктардан ал: андан кийин ⟨сен⟩ өз элиңе кошуласың.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "9b67a77a3a1956c68237ab6db9ba69f891f2ef9d62dfbdfbc14fcfb2ab68a3f5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/numbers\/31\/1-4.1791204471809.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נקם",
+      "gloss": "өчүн ал"
+    },
+    {
+      "surface": "נקמת",
+      "gloss": "өчүн"
+    },
+    {
+      "surface": "בני",
+      "gloss": "уулдарынын"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэлдин"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "Мадиандыктарды"
+    },
+    {
+      "surface": "המדינים",
+      "gloss": "Мадиандыктардан"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "андан кийин"
+    },
+    {
+      "surface": "תאסף",
+      "gloss": "кошуласың"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—га"
+    },
+    {
+      "surface": "עמיך",
+      "gloss": "өз элиңе"
+    }
+  ],
+  "timestamp": "2026-10-05T12:47:51.810735933Z",
+  "model": "glm-5.3"
+}

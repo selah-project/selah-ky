@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 21:5",
+  "book": "2-samuel",
+  "lang": "ky",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "דמה לנו",
+      "rationale": "«бизге каршы ойлогон» (LXX боюнча) же «бизди жок кылган» (тамыры דמם менен окшоштурулуп) деген эки окуу бар."
+    },
+    {
+      "kind": "substitution",
+      "subject": "נשמדנו מהתיצב",
+      "rationale": "лакеба «турган жок болдук» → «турбай калдык» деп жумшартылды."
+    }
+  ],
+  "translation": "Падышага айтышты: «Бизди талкалаган жана бизге каршы ойлогон адам — анын айынан биз Йисраэлдин чек арасынын эч бир жеринде турбай калдык».",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "db170475e941c4b7028a8470325fff169b3ae594ffa0c6de3171f89af7c610af",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-samuel\/21\/5-8.1791207799448.json",
+    "code": "641241cf-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "айтышты"
+    },
+    {
+      "surface": "אל",
+      "gloss": "падышага"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "падышага"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "адам"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "эмне"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "бизди талкалаган"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "жана"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "ойлогон"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "бизге каршы"
+    },
+    {
+      "surface": "נשמדנו",
+      "gloss": "турбай калдык"
+    },
+    {
+      "surface": "מהתיצב",
+      "gloss": "турган"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "эч бир жеринде"
+    },
+    {
+      "surface": "גבל",
+      "gloss": "чек арасынын"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэлдин"
+    }
+  ],
+  "timestamp": "2026-10-05T13:43:19.449581938Z",
+  "model": "glm-5.3"
+}

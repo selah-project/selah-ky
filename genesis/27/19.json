@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 27:19",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жан",
+      "rationale": "נפש — жан эмес, «дем алуучу жандык, көңүл, жандануу»; кыргызча «жаныӊ» жакын эң жакын форма"
+    },
+    {
+      "kind": "addition",
+      "subject": "мын",
+      "rationale": "Копула «мен — Эсавмын» кыргызча талап кылынат, еврейче жок"
+    }
+  ],
+  "translation": "Яаков атасына айтты: Мен — сенин тун уулуӊ Эсавмын; сен мага буйругандай жасадым. Тур, сүйүнчү, отур да менин аңчылык тамагымдан жеп ал, айтканыӊча жаныӊ мени баталасын.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "b9f5ac93c4b19e32d3e276b6799c30171c735927f297486fe06800602342f55f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/27\/17-20.1791201288583.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаков"
+    },
+    {
+      "surface": "אל",
+      "gloss": "атасына"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "атасына"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "мен"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Эсав"
+    },
+    {
+      "surface": "בכרך",
+      "gloss": "тун уулуӊ"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "жасадым"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "айтканыӊдай"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "буйругандай"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "мага"
+    },
+    {
+      "surface": "קום",
+      "gloss": "тур"
+    },
+    {
+      "surface": "נא",
+      "gloss": "сүйүнчү"
+    },
+    {
+      "surface": "שבה",
+      "gloss": "отур"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "жеп ал"
+    },
+    {
+      "surface": "מצידי",
+      "gloss": "аңчылык тамагымдан"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "айтканыӊча"
+    },
+    {
+      "surface": "תברכני",
+      "gloss": "баталасын"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "жаныӊ"
+    }
+  ],
+  "timestamp": "2026-10-05T11:54:48.584465538Z",
+  "model": "glm-5.3"
+}

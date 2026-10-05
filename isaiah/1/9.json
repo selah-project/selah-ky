@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 1:9",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "לולי",
+      "rationale": "Hebrew 'if not' counterfactual; ky needs an 'if not for' construction spanning the clause"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "סדם\/עמורה",
+      "rationale": "Sodom and Gomorrah paired as byword for total destruction; the comparison frames Israel as almost annihilated"
+    }
+  ],
+  "translation": "Эгерде Яхве Цебаот бизге аз гана калдык калтырганда эмес, Сдомдой болмокпуз, Амордой окшомокпуз элек.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "fcfdbc9c76af9b83e210a0543159b4583687a5a8484808fc6d8bb80296f62090",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/1\/9-12.1791209315907.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לולי",
+      "gloss": "Эгерде … эмес"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цебаот"
+    },
+    {
+      "surface": "הותיר",
+      "gloss": "калтырганда"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "бизге"
+    },
+    {
+      "surface": "שריד",
+      "gloss": "калдык"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "аз гана"
+    },
+    {
+      "surface": "כסדם",
+      "gloss": "Сдомдой"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "болмокпуз"
+    },
+    {
+      "surface": "לעמרה",
+      "gloss": "Амордой"
+    },
+    {
+      "surface": "דמינו",
+      "gloss": "окшомокпуз"
+    }
+  ],
+  "timestamp": "2026-10-05T14:08:35.907652617Z",
+  "model": "glm-5.3"
+}

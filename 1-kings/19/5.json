@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 19:5",
+  "book": "1-kings",
+  "lang": "ky",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ротем бадалы",
+      "rationale": "רתם — испан буkasы (Spanish broom), салттуу 'кайың' деген туура эмес"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ошол⟩",
+      "rationale": "זה демонстративдүү атооч, кыргызча сүйлөмдө айкындоо үчүн кошулду"
+    },
+    {
+      "kind": "you",
+      "subject": "to Элияху",
+      "rationale": "периштенин буйругу тикелей Элияхуга багытталган"
+    }
+  ],
+  "translation": "Ал жатып, бир ротем бадалынын астында уктап калды; жана мына, бир периште аны тийип, ага айтты: Тур, тамактан.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "b8fba91d676990940bbc099e07c58177af79a363ad9e903c2589e58c68108b44",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-kings\/19\/5-8.1791208483758.json",
+    "code": "641241cf-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "жатып"
+    },
+    {
+      "surface": "ויישן",
+      "gloss": "уктап калды"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "астында"
+    },
+    {
+      "surface": "רתם",
+      "gloss": "ротем бадалынын"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бир"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "жана мына"
+    },
+    {
+      "surface": "זה",
+      "gloss": "⟨ошол⟩"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "периште"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "тийип"
+    },
+    {
+      "surface": "בו",
+      "gloss": "аны"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ага"
+    },
+    {
+      "surface": "קום",
+      "gloss": "Тур"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "тамактан"
+    }
+  ],
+  "timestamp": "2026-10-05T13:54:43.759334585Z",
+  "model": "glm-5.3"
+}

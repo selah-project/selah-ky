@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 5:1",
+  "book": "lamentations",
+  "lang": "ky",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "to YHWH",
+      "rationale": " imperatives remember, look, see call on Яхве to see the disgrace"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨биздин⟩",
+      "rationale": "«эмне болгонун» конструкциясында кыргызча талап кылынган ээлик сөз"
+    }
+  ],
+  "translation": "Яхве, эстеп кал, бизге эмне болгонун; карап, ⟨את⟩ биздин кордугубузду көр.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "e29e6d0fa4219d79e0b7e7a8123e85c32b15763f1b200b118a7ca81a55a30274",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/lamentations\/5\/1-4.1791219951954.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "эстеп кал"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "מה",
+      "gloss": "эмне"
+    },
+    {
+      "surface": "היה",
+      "gloss": "болгонун"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "бизге"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "карап"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "көр"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "биздин кордугубузду"
+    },
+    {
+      "surface": "חרפתנו",
+      "gloss": "кордугубузду"
+    }
+  ],
+  "timestamp": "2026-10-05T17:05:51.955258639Z",
+  "model": "glm-5.3"
+}

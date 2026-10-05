@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 1:17",
+  "book": "proverbs",
+  "lang": "ky",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בעל כנף",
+      "rationale": "\"канат ээси\" — куш деген сөз жок; KJV \"куш\" деп кошумча айтат, текст бөлөк айткан жок"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מזרה\/הרשת",
+      "rationale": "тор чачуу сүрөтү — 1:16 дагы чуркоо сүрөтү менен байланышкан ыр сабы"
+    }
+  ],
+  "translation": "Анткени тор бекер эле ар бир канат ээсинин көз алдында чачылат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "0e6153acecaa17d94848af4fce10916f8da89ec58f02b98bb040025c45b26ca1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/1\/17-20.1791217714863.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "бекер эле"
+    },
+    {
+      "surface": "מזרה",
+      "gloss": "чачылат"
+    },
+    {
+      "surface": "הרשת",
+      "gloss": "тор"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "көз алдында"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ар бир"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "ээси"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "канат"
+    }
+  ],
+  "timestamp": "2026-10-05T16:28:34.864045221Z",
+  "model": "glm-5.3"
+}

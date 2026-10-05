@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 13:8",
+  "book": "1-kings",
+  "lang": "ky",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "үйүңдүн жарымы",
+      "rationale": "חצי ביתך — үйдүн (байлыктын) жарымы; «жарым падышачылык» эмес."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לא...ולא...ולא",
+      "rationale": "Үч катар «жок» — кескин баш тартуунун риторикалык ылдамдыгы."
+    }
+  ],
+  "translation": "Жана Элохимдин кишиси падышага айтты: Мага үйүңдүн ⟨жарымын⟩ берсең да, мен сен менен барбайм, бул жерде нан жебейм жана суу ичпейм.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "e81e978b712aea6ec6a87baba0706afdd52c164a2876acefb9ace8402ba9e457",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-kings\/13\/5-8.1791208343186.json",
+    "code": "641241cf-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "жана айтты"
+    },
+    {
+      "surface": "איש",
+      "gloss": "кшиси"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Элохимдин"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-га"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "падыша"
+    },
+    {
+      "surface": "אם",
+      "gloss": "эгер"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "берсең"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мага"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "үйүңдүн жарымын"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "жарымын"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "үйүңдүн"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "אבא",
+      "gloss": "барбайм"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "сен менен"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "жана жок"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "жебейм"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "нан"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "жана жок"
+    },
+    {
+      "surface": "אשתה",
+      "gloss": "ичпейм"
+    },
+    {
+      "surface": "מים",
+      "gloss": "суу"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "бул жерде"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "бул"
+    }
+  ],
+  "timestamp": "2026-10-05T13:52:23.187619183Z",
+  "model": "glm-5.3"
+}

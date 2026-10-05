@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 21:22",
+  "book": "deuteronomy",
+  "lang": "ky",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "татыктуу",
+      "rationale": "Буквалдык «күнөө, өлүм өкүмүнүн» — смаркылангыш конструкция эркин генитивге айланды"
+    },
+    {
+      "kind": "addition",
+      "subject": "сага",
+      "rationale": "«Өлүм өкүмүнө татыктуу» дегенде кыргызча датив кошулду, ивритте жок"
+    }
+  ],
+  "translation": "Жана эгер бир кишиде өлүм өкүмүнө татыктуу күнөө болсо, ал өлтүрүлөт, жана сен ⟨את⟩ аны даракка илип коёсуң.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "de4438439f57b1e3f591dfd8af4db18626b5c941a47c9432bc2b56b179899765",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/21\/21-23.1791205098255.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "жана эгер"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "болсо"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "бир кишиде"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "күнөө"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "өкүмү"
+    },
+    {
+      "surface": "מות",
+      "gloss": "өлүм"
+    },
+    {
+      "surface": "והומת",
+      "gloss": "жана өлтүрүлөт"
+    },
+    {
+      "surface": "ותלית",
+      "gloss": "жана илип коёсуң"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "аны (өлтүрүлгөн кишиди)"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстүнө"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "даракка"
+    }
+  ],
+  "timestamp": "2026-10-05T12:58:18.256743611Z",
+  "model": "glm-5.3"
+}

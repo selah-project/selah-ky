@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 133:1",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 133,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "שבת",
+      "rationale": "Лемма — ישב 'отуруу\/жашоо'; бул жерде туруктуу жашоо маанисинде берилди"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "טוב\/נעים",
+      "rationale": "Эки сындоочтун үндөштүгү — 'жакшы жана жагымдуу' — еврейче риторикалык параллелизм"
+    }
+  ],
+  "translation": "Ыры — өрүлүүгө арналган, Давидке. Каңк! Кантип жакшы жана кантип жагымдуу — бир туугандардын чогуу жашашы, дагы эле бирге!",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "cd01cf1a5aa45a65271cdcac5b8a3fb10b8fa8c1e3c8645086da0e7163124107",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/133\/1-3.1791217441240.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Ыры"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "өрүлүүгө арналган"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давидке"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Каңк!"
+    },
+    {
+      "surface": "מה",
+      "gloss": "кантип"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "жакшы"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "жана кантип"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "жагымдуу"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "жашашы"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "бир туугандардын"
+    },
+    {
+      "surface": "גם",
+      "gloss": "дагы эле"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "бирге"
+    }
+  ],
+  "timestamp": "2026-10-05T16:24:01.240925213Z",
+  "model": "glm-5.3"
+}

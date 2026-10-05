@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 15:4",
+  "book": "2-chronicles",
+  "lang": "ky",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "לו על",
+      "rationale": "Ивриттин «өзүнүн кысынчылыгында Яхвеге каршы\/жақын» деген туюлма предлогдору кыргызча бир «Яхвеге» менен берилди"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ויבקשהו\/וימצא",
+      "rationale": "15:2дөгү убада ушул аятта аткарылат: издеген — табат"
+    }
+  ],
+  "translation": "Кысынчылыкта алар Йисраэлдин Элохими Яхвеге кайтышты, Аны издешти, жана Ал аларга табылды.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "c2b4d3426fb015ce11698ee7e9a5f15ce22d412854af8955918ba294fc2c9486",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-chronicles\/15\/1-4.1791222939457.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "кайтышты"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "кысынчылыкта"
+    },
+    {
+      "surface": "לו",
+      "gloss": ""
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвеге"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Элохими"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэлдин"
+    },
+    {
+      "surface": "ויבקשהו",
+      "gloss": "Аны издешти"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "табылды"
+    },
+    {
+      "surface": "להם",
+      "gloss": "аларга"
+    }
+  ],
+  "timestamp": "2026-10-05T17:55:39.458827143Z",
+  "model": "glm-5.3"
+}

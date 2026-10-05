@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 73:7",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 73,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "көзү семизден чыгат",
+      "rationale": "«ашыкча семиздиктен көздөрү чыгып турат» же «алардын көзү майга (байлыкка) көнгөн»: KJV менен JPS бири-биринен айырмаланат"
+    },
+    {
+      "kind": "crux",
+      "subject": "משכיות",
+      "rationale": "«ой-элестер»: чекмe сүрөттөр же фантазиялар — «канаттан ашат» деген эркин котормо да бар"
+    }
+  ],
+  "translation": "Алардын көзү семизден чыгып турат, жүрөктүн ой-элестеринен ашып өтүшөт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "8143da0610d57f3fc6288973516239412e8d24cdde86d572ca5b226efd6b77d4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/73\/5-8.1791216498251.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יצא",
+      "gloss": "чыгып турат"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "семизден"
+    },
+    {
+      "surface": "עינמו",
+      "gloss": "алардын көзү"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "ашып өтүшөт"
+    },
+    {
+      "surface": "משכיות",
+      "gloss": "ой-элестеринен"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "жүрөктүн"
+    }
+  ],
+  "timestamp": "2026-10-05T16:08:18.251865338Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-kings 23:33",
+  "book": "2-kings",
+  "lang": "ky",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "במלך",
+      "rationale": "«падышачылык кылып жатканда» (Geneva, YLT) же «падышачылык кылбасын» (KJV, JPS) — «байлады, Иерушалайымда падыша болосуна жолтобой» деген окуу бар."
+    },
+    {
+      "kind": "substitution",
+      "subject": "айып",
+      "rationale": "ענש — «айып суммасы, төлөм»; кээ бир которуулар «салык» деп берет."
+    },
+    {
+      "kind": "measurement",
+      "subject": "жүз талант күмүш",
+      "rationale": "Айып суммалары санап көрсөтүлгөн."
+    }
+  ],
+  "translation": "Жана Парох Нехо ⟨Аны⟩ Хамат жериндеги Риблада, Иерушалайымда падышачылык кылып жатканда байлады; жана ал жерге жүз талант күмүш жана бир талант алтын айып салды.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "327eebf7fad89bbdde33886decd6ae3075d053671f3a7bfebe26dfb35a890da7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-kings\/23\/33-36.1791209304360.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאסרהו",
+      "gloss": "байлады ⟨Аны⟩"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Парох"
+    },
+    {
+      "surface": "נכה",
+      "gloss": "Нехо"
+    },
+    {
+      "surface": "ברבלה",
+      "gloss": "Риблада"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "жериндеги"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Хамат"
+    },
+    {
+      "surface": "במלך",
+      "gloss": "падышачылык кылып жатканда"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Иерушалайымда"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "жана салды"
+    },
+    {
+      "surface": "ענש",
+      "gloss": "айып"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстүнө"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "жерге"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "жүз"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "талант"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "күмүш"
+    },
+    {
+      "surface": "וככר",
+      "gloss": "жана бир талант"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "алтын"
+    }
+  ],
+  "timestamp": "2026-10-05T14:08:24.361609871Z",
+  "model": "glm-5.3"
+}

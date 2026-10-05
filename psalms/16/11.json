@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 16:11",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "⟨את⟩",
+      "rationale": "бул жерде את — байламча предлог 'менен\/жанында' (את פניך = 'Сенин жүзүң менен'), объкт белгиси эмес"
+    },
+    {
+      "kind": "substitution",
+      "subject": "токтоолук",
+      "rationale": "שבע — тамак же кубанычтын тойгондугу, каныгуу"
+    },
+    {
+      "kind": "alternative",
+      "subject": "түбөлүккө",
+      "rationale": "נצח — 'максат\/учурдан алыста жарык нерсе': 'түбөлүккө' же 'акырына чейин'"
+    }
+  ],
+  "translation": "Сен мага жашоо жолун билдиресиң; Сенин ⟨את⟩ жүзүңдө кубанычтардын токтоолугу, Сенин оң колуңда жагымдуулуктар — түбөлүккө.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "f041adf7c180d1275277bbe4966d6c99a2d54c655c65c1b65c01b3642bbf91df",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/16\/10-11.1791224420741.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תודיעני",
+      "gloss": "мага билдиресиң"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "жол"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "жашоо"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "токтоолук"
+    },
+    {
+      "surface": "שמחות",
+      "gloss": "кубанычтардын"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "жүзүңдө"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "жүзүңдө"
+    },
+    {
+      "surface": "נעמות",
+      "gloss": "жагымдуулуктар"
+    },
+    {
+      "surface": "בימינך",
+      "gloss": "оң колуңда"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "түбөлүккө"
+    }
+  ],
+  "timestamp": "2026-10-05T18:20:20.742828912Z",
+  "model": "glm-5.3"
+}

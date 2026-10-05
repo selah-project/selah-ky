@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 40:12",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "өлчөө тизмеси",
+      "rationale": "Аят бүтүндөй өлчөө образдарынан турат — алакан, карыш, үч манжа, тараза."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨Өзүнүн⟩",
+      "rationale": "Ивритте жок ат атооч — «алаканында» дегенди тактоо үчүн кошулду."
+    },
+    {
+      "kind": "crux",
+      "subject": "בשלש",
+      "rationale": "«үч манжа» же «үчтүк чен (шесть)» — котормолор бөлүнөт."
+    }
+  ],
+  "translation": "Ким сууларды ⟨Өзүнүн⟩ алаканында өлчөгөн, асманда карыш менен ченеген, жердин топурагын үч манжада чогулткан, тоолорду таразада тарткан, дөңсөөлөрдү майда таразаларда тарткан?",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "2b45e05ca91f290114752edbe6c4ea89335c575badc0098a7398ad28ad321a5b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/40\/9-12.1791210151375.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ким"
+    },
+    {
+      "surface": "מדד",
+      "gloss": "өлчөгөн"
+    },
+    {
+      "surface": "בשעלו",
+      "gloss": "алаканында"
+    },
+    {
+      "surface": "מים",
+      "gloss": "сууларды"
+    },
+    {
+      "surface": "ושמים",
+      "gloss": "жана асманда"
+    },
+    {
+      "surface": "בזרת",
+      "gloss": "карыш менен"
+    },
+    {
+      "surface": "תכן",
+      "gloss": "ченеген"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "жана чени"
+    },
+    {
+      "surface": "בשלש",
+      "gloss": "үч манжада"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "топурагын"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "жердин"
+    },
+    {
+      "surface": "ושקל",
+      "gloss": "жана тарткан"
+    },
+    {
+      "surface": "בפלס",
+      "gloss": "таразада"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "тоолорду"
+    },
+    {
+      "surface": "וגבעות",
+      "gloss": "жана дөңсөөлөрдү"
+    },
+    {
+      "surface": "במאזנים",
+      "gloss": "майда таразаларда"
+    }
+  ],
+  "timestamp": "2026-10-05T14:22:31.376689761Z",
+  "model": "glm-5.3"
+}

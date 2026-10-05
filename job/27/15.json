@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 27:15",
+  "book": "job",
+  "lang": "ky",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "במות",
+      "rationale": "'Өлүмдө' (KJV, ASV) же 'чумадан' (JPS) — бейм көрсөтүүсүз эки окуу бар"
+    },
+    {
+      "kind": "substitution",
+      "subject": "⟨өлүп⟩",
+      "rationale": "Ивриттин 'өлүмдө көмүлөт' деген жандырылган сүрөтү кыргызча так маани берүү үчүн ачылды"
+    }
+  ],
+  "translation": "Анын калгандары өлүм менен ⟨өлүп⟩ көмүлөт, жана анын жесирлери ыйлашпайт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "ed7f2830669d749005b9095f1a28f5a0640e4340e318d35472884227d66f219b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/job\/27\/13-16.1791219103353.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שרידו",
+      "gloss": "анын калгандары"
+    },
+    {
+      "surface": "במות",
+      "gloss": "өлүм менен"
+    },
+    {
+      "surface": "יקברו",
+      "gloss": "көмүлөт"
+    },
+    {
+      "surface": "ואלמנתיו",
+      "gloss": "жана анын жесирлери"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "תבכינה",
+      "gloss": "ыйлашпайт"
+    }
+  ],
+  "timestamp": "2026-10-05T16:51:43.354201719Z",
+  "model": "glm-5.3"
+}

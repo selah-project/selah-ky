@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 8:8",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "צנה",
+      "rationale": "צנה (мал жүрүшү) — Танахта ушул жерде гана кездешет ( parallel צאן эмес)"
+    },
+    {
+      "kind": "addition",
+      "subject": "тыыштуу формалар",
+      "rationale": "8:7-деги 'астына койдуң' айтылбаган, ошондуктан ушул саптоо ат ачык түшүнүктүү болуш үчүн табыштуу формада берилди"
+    }
+  ],
+  "translation": "Малдарды жана уйларды, баарысын, ошондой эле талаа айбандарын да.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "268bfcd211b5d4c36c7f6e12facb2d85493245ab393c1b5c4a8577bb5f61ff54",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/8\/5-8.1791215424924.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צנה",
+      "gloss": "малдарды"
+    },
+    {
+      "surface": "ואלפים",
+      "gloss": "жана уйларды"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "баарысын"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ошондой эле... да"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "айбандарын"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "талаа"
+    }
+  ],
+  "timestamp": "2026-10-05T15:50:24.925913747Z",
+  "model": "glm-5.3"
+}

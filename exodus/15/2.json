@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 15:2",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "медин",
+      "rationale": "Еврейче «Ях — күчүм жана ырым» деген аталуу сүйлөмдө ээлик байланыш жок, кыргызча медин талап кылат."
+    },
+    {
+      "kind": "crux",
+      "subject": "ואנוהו",
+      "rationale": "נוה тамыры: «анын үйүн тигем» (KJV «habitation») же «аны даңазалаймын» (жөндөм «аны» менен) — экинчи тандоо."
+    }
+  ],
+  "translation": "Ях — менин күчүм жана мактап ырдоом, ал мага куткаруу болду. Бул — менин Элим, аны даңазалаймын, атамдын Элохими, аны бийиктемелеймин.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "bdfb3a96fc3cb785010d36ed133e28ef776ab7e63c92c2856664559acd0cb367",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/15\/1-4.1791202120634.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עזי",
+      "gloss": "күчүм"
+    },
+    {
+      "surface": "וזמרת",
+      "gloss": "жана мактап ырдоом"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ях"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ал ... болду"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мага"
+    },
+    {
+      "surface": "לישועה",
+      "gloss": "куткаруу"
+    },
+    {
+      "surface": "זה",
+      "gloss": "бул"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "менин Элим"
+    },
+    {
+      "surface": "ואנוהו",
+      "gloss": "аны даңазалаймын"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Элохими"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "атамдын"
+    },
+    {
+      "surface": "וארממנהו",
+      "gloss": "аны бийиктемелеймин"
+    }
+  ],
+  "timestamp": "2026-10-05T12:08:40.635894738Z",
+  "model": "glm-5.3"
+}

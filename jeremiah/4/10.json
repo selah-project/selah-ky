@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 4:10",
+  "book": "jeremiah",
+  "lang": "ky",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "השא השאת",
+      "rationale": "Этиш эки жолу кайталанып (инфинитив + өткөн чак) күчөтүү берет: «алдоо менен толук алдадың»."
+    },
+    {
+      "kind": "substitution",
+      "subject": "жан",
+      "rationale": "הנפש — нефеш: «дем алуучу жандык, жандык күч»; «жан» кыргызча эң жакын сөз."
+    },
+    {
+      "kind": "crux",
+      "subject": "Яхве алдады",
+      "rationale": "Котормочулар талашат: Яхве Өзү алдадыбы, же (ЛXX боюнча) «бул элдин алдануусуна жол бердиби»."
+    }
+  ],
+  "translation": "Мен айттым: Оо, Адонай Яхве! Сен бул элди жана Йерушалайимди чын эле алдадың: «Силерге тынчтык болот» деп — эсе кылыч ⟨את⟩ жанды жетти.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "b36e83e1378a67cd1e7085fbed88ef2f04433b2709f71e2016240547c3f1e2d7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/jeremiah\/4\/10-11.1791224114079.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Мен айттым"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "Оо"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "чын эле"
+    },
+    {
+      "surface": "השא",
+      "gloss": "алдадың"
+    },
+    {
+      "surface": "השאת",
+      "gloss": "толук алдадың"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "бул элди"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "бул"
+    },
+    {
+      "surface": "ולירושלם",
+      "gloss": "жана Йерушалайимди"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "деп"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "тынчтык"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "болот"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "Силерге"
+    },
+    {
+      "surface": "ונגעה",
+      "gloss": "эсе жетти"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "кылыч"
+    },
+    {
+      "surface": "עד",
+      "gloss": "чейин"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "⟨את⟩ жанды"
+    }
+  ],
+  "timestamp": "2026-10-05T18:15:14.080270154Z",
+  "model": "glm-5.3"
+}

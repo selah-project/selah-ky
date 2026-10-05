@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 19:3",
+  "book": "1-kings",
+  "lang": "ky",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "וירא",
+      "rationale": "«көрдү» деп окулса да, көп котормолор «коркту» деп берет — тамыры ירא (коркуу) менен ушул формада окшош; текст катары «көрдү» калтырылды"
+    },
+    {
+      "kind": "substitution",
+      "subject": "эל נפשו",
+      "rationale": "«өз жанына\/жаны үчүн» — кыйроо «жанын сактап» дегенди туют, бирок сөз атуу «жанга» бойдон калты"
+    }
+  ],
+  "translation": "Ал көрдү жана турду, өз жаны үчүн жөнөп, Йехудага таандык Беэр-Шевага келди жана өз кызматчысынын ⟨את⟩ өзүн ошол жерде калтырды.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "ff60ce540c7eec4ff51cfc1258ed4c277a45583ce185b8a96852ffcc5426aac5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-kings\/19\/1-4.1791208558034.json",
+    "code": "641241cf-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "көрдү"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "турду"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "жөнөп"
+    },
+    {
+      "surface": "אל",
+      "gloss": "үчүн"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "өз жаны"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "келди"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Беэр-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "-Шевага"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "таандык"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "Йехудага"
+    },
+    {
+      "surface": "וינח",
+      "gloss": "калтырды"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "кызматчысынын өзүн"
+    },
+    {
+      "surface": "נערו",
+      "gloss": "кызматчысынын өзүн"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ошол жерде"
+    }
+  ],
+  "timestamp": "2026-10-05T13:55:58.035088234Z",
+  "model": "glm-5.3"
+}

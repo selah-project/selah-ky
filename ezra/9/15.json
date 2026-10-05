@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezra 9:15",
+  "book": "ezra",
+  "lang": "ky",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "эле",
+      "rationale": "Кыргыз тилине салыштыруу үчүн кошулду, еврейче жок"
+    },
+    {
+      "kind": "substitution",
+      "subject": "күнөөлөрүбүз",
+      "rationale": "אשמה — күнөө, күнөөлүүлүк; соода мааниси да бар"
+    },
+    {
+      "kind": "alternative",
+      "subject": "אין לעמוד",
+      "rationale": "«турган жок» — «эч ким тура албайт» же «биз тура албайбыз» деп да окулат"
+    }
+  ],
+  "translation": "Яхве, Йисраэлдин Элохими, Сен цедексиң, анткени биз бүгүнкүдөй эле качып калгандар бойдон калдык; мына биз күнөөлөрүбүз менен Сенин алдыңда турабыз, анткени мынун үстүнөн Сенин алдыңда турган ⟨жок⟩.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "1a27975c09512f500124e6882a5d930c1d39ac01d61a3637b69b4036d35e75c5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ezra\/9\/15-15.1791224602851.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Элохими"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэлдин"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "цедек"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Сен"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "נשארנו",
+      "gloss": "калдык"
+    },
+    {
+      "surface": "פליטה",
+      "gloss": "качкандар"
+    },
+    {
+      "surface": "כהיום",
+      "gloss": "бүгүнкүдөй"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "эле"
+    },
+    {
+      "surface": "הננו",
+      "gloss": "мына биз"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "Сенин алдыңда"
+    },
+    {
+      "surface": "באשמתינו",
+      "gloss": "күнөөлөрүбүз менен"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "אין",
+      "gloss": "жок"
+    },
+    {
+      "surface": "לעמוד",
+      "gloss": "турган"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "Сенин алдыңда"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстүнөн"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "мынун"
+    }
+  ],
+  "timestamp": "2026-10-05T18:23:22.851906971Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 16:5",
+  "book": "1-chronicles",
+  "lang": "ky",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "эки мыжык",
+      "rationale": "מצלתים — экилик сан (dual): 'эки мыжык' = цимбалдар; экилик саны сакталды"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨үн⟩",
+      "rationale": "Макшиф этиштин үн табыштык маанисы кыргызча так айтылышы үчүн кошулду"
+    },
+    {
+      "kind": "measurement",
+      "subject": "лейилердин тизмеси",
+      "rationale": "Аят аттардын тизмесин берет — санап чыгуу структурасы"
+    }
+  ],
+  "translation": "Асап — башчысы, анын экинчиси Захарья; Йеиел, Шемирамот, Йехиел, Матитйа, Элиав, Бенайаху, Овед-Едом жана Йеиел — небелдерде жана киннорлордо; Асап болсо эки мыжыкта ⟨үн⟩ үн чыгарып турду.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "bcb2b57234a446f3fc6a181589c276d99e58c3673b4fd77cd1e6dcca5b40e419",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-chronicles\/16\/5-8.1791222156944.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אסף",
+      "gloss": "Асап"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "башчысы"
+    },
+    {
+      "surface": "ומשנהו",
+      "gloss": "жана анын экинчиси"
+    },
+    {
+      "surface": "זכריה",
+      "gloss": "Захарья"
+    },
+    {
+      "surface": "יעיאל",
+      "gloss": "Йеиел"
+    },
+    {
+      "surface": "ושמירמות",
+      "gloss": "жана Шемирамот"
+    },
+    {
+      "surface": "ויחיאל",
+      "gloss": "жана Йехиел"
+    },
+    {
+      "surface": "ומתתיה",
+      "gloss": "жана Матитйа"
+    },
+    {
+      "surface": "ואליאב",
+      "gloss": "жана Элиав"
+    },
+    {
+      "surface": "ובניהו",
+      "gloss": "жана Бенайаху"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "жана Овед"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Едом"
+    },
+    {
+      "surface": "ויעיאל",
+      "gloss": "жана Йеиел"
+    },
+    {
+      "surface": "בכלי",
+      "gloss": "аспаптарда"
+    },
+    {
+      "surface": "נבלים",
+      "gloss": "небелдерде"
+    },
+    {
+      "surface": "ובכנרות",
+      "gloss": "жана киннорлордо"
+    },
+    {
+      "surface": "ואסף",
+      "gloss": "жана Асап"
+    },
+    {
+      "surface": "במצלתים",
+      "gloss": "эки мыжыкта"
+    },
+    {
+      "surface": "משמיע",
+      "gloss": "үн чыгарып турду"
+    }
+  ],
+  "timestamp": "2026-10-05T17:42:36.945864591Z",
+  "model": "glm-5.3"
+}

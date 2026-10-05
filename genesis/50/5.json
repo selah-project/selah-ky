@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 50:5",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "кабыриме",
+      "rationale": "קבר — көмгөн жер, кыргызча «кабыр» жакын, бирок «кabr» сөзү кыргызча «үй-бүлө» дегенди да түшүндүрөт"
+    },
+    {
+      "kind": "crux",
+      "subject": "казган",
+      "rationale": "כרה — «казган» (KJV, JPS) же «даярдаган» (dug vs made); көп котормолор «казуу» literal маанисин кармайт"
+    }
+  ],
+  "translation": "Атаба: «Мен өлүп баратам, өзүм үчүүн Кенаан жеринде казган кабыриме мени койгула», — деп ант берген. Азыр мүмкүн болсо, чыгып ⟨את⟩ атамды койоюн да, кайтып келермин.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "817d4df067c4f227a9473aec907b44708b2986f3771ef8416bb5c347ff93777b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/50\/5-8.1791201818507.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אבי",
+      "gloss": "Атаба"
+    },
+    {
+      "surface": "השביעני",
+      "gloss": "ант берген"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "деп"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "«Мен"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "мен"
+    },
+    {
+      "surface": "מת",
+      "gloss": "өлүп баратам"
+    },
+    {
+      "surface": "בקברי",
+      "gloss": "кабыриме"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ал"
+    },
+    {
+      "surface": "כריתי",
+      "gloss": "казган"
+    },
+    {
+      "surface": "לי",
+      "gloss": "өзүм үчүн"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "жеринде"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Кенаан"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ошондо"
+    },
+    {
+      "surface": "תקברני",
+      "gloss": "мени койгула"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "азыр"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "чыгып"
+    },
+    {
+      "surface": "נא",
+      "gloss": "мүмкүн болсо"
+    },
+    {
+      "surface": "ואקברה",
+      "gloss": "коююн да"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "атамды"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "атамды"
+    },
+    {
+      "surface": "ואשובה",
+      "gloss": "кайтып келермин"
+    }
+  ],
+  "timestamp": "2026-10-05T12:03:38.508508554Z",
+  "model": "glm-5.3"
+}

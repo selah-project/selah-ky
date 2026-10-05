@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 8:5",
+  "book": "song-of-songs",
+  "lang": "ky",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מתרפקקת",
+      "rationale": "Лемма 'таянуу\/жылоо' — 'таянуу' же 'сылынуу' деген эки окуу бар; hapax сөз"
+    },
+    {
+      "kind": "crux",
+      "subject": "חבלה",
+      "rationale": "Лемма 'байлоо' — 'бойго бүтүү' (JPS) же 'кепилдикке коюу' (YLT) деген талаш окуулар"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חבלתך … חבלה",
+      "rationale": "Тамырдын кайталанышы — 'байлоо' эки жолу, ритмдик параллелизм"
+    }
+  ],
+  "translation": "Бул ким, чөлдөн көтөрүлүп келе жаткан, сүйүктүүсүнө таянып жаткан аял? Алма дарагынын астында мен сени ойготтом; ошол жерде сенин энең сени байлаган, ошол жерде сени төрөгөн энең байлаган.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "b244f7cc331f718f75b8e819b7b1088800475fd6385ec8c5c2a748d018a24930",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/song-of-songs\/8\/5-8.1791219754645.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ким"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "бул"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "көтөрүлүп келе жаткан"
+    },
+    {
+      "surface": "מן",
+      "gloss": "…дан"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "чөлдөн"
+    },
+    {
+      "surface": "מתרפקת",
+      "gloss": "таянып жаткан"
+    },
+    {
+      "surface": "על",
+      "gloss": "…га"
+    },
+    {
+      "surface": "דודה",
+      "gloss": "сүйүктүүсүнө"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "астында"
+    },
+    {
+      "surface": "התפוח",
+      "gloss": "алма дарагынын"
+    },
+    {
+      "surface": "עוררתיך",
+      "gloss": "ойготтом"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ошол жерде"
+    },
+    {
+      "surface": "חבלתך",
+      "gloss": "сени байлаган"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "энең"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ошол жерде"
+    },
+    {
+      "surface": "חבלה",
+      "gloss": "байлаган"
+    },
+    {
+      "surface": "ילדתך",
+      "gloss": "сени төрөгөн"
+    }
+  ],
+  "timestamp": "2026-10-05T17:02:34.646452440Z",
+  "model": "glm-5.3"
+}

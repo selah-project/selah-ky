@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 78:11",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "иштерин",
+      "rationale": "עלילות «эмгектер, иш-аракеттер» — кыргызча бир гана «иштер» сөзү жетти."
+    },
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "rationale": " Relatives «аларга көрсөткөн» деген сыяктуу этишке сиңди."
+    }
+  ],
+  "translation": "Жана алар Анын иштерин, Анын аларга көрсөткөн кереметтерин унутуп калышты.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "7b4797252d14c233ace718b6cd2f67837c715536e793f14b29097e5fbca2110e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/78\/9-12.1791216575958.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישכחו",
+      "gloss": "унутуп калышты"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "Анын иштерин"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "Анын кереметтерин"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "הראם",
+      "gloss": "аларга көрсөткөн"
+    }
+  ],
+  "timestamp": "2026-10-05T16:09:35.959542059Z",
+  "model": "glm-5.3"
+}

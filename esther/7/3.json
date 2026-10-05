@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "esther 7:3",
+  "book": "esther",
+  "lang": "ky",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жаным",
+      "rationale": "נפש — дем алуучу жандык, жүрөк-карын\/жан-жалкоолук эмес, бул жерде жаны деген мааниде"
+    },
+    {
+      "kind": "you",
+      "subject": "падышага",
+      "rationale": "Эстер падышага түз кайрылат"
+    }
+  ],
+  "translation": "Эстер падыша аял жооп берип айтты: Эгер мен, падыша, көздөрүңдө ырайым тапсам жана падышага жакса, сурамым боюнча жаным, тилегим боюнча элим мага берилсин.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "9d62e02e402c6aecc4a05352fde1994e2656409ce4d0951d1ad1b8b26bd12b43",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/esther\/7\/1-4.1791220348446.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותען",
+      "gloss": "жооп берип"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Эстер"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "падыша аял"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "אם",
+      "gloss": "эгер"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "тапсам"
+    },
+    {
+      "surface": "חן",
+      "gloss": "ырайым"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "көздөрүңдө"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "падыша"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "жана эгер"
+    },
+    {
+      "surface": "על",
+      "gloss": "үчүн"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "падышага"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "жакса"
+    },
+    {
+      "surface": "תנתן",
+      "gloss": "берилсин"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мага"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "жаным"
+    },
+    {
+      "surface": "בשאלתי",
+      "gloss": "сурамым боюнча"
+    },
+    {
+      "surface": "ועמי",
+      "gloss": "элим"
+    },
+    {
+      "surface": "בבקשתי",
+      "gloss": "тилегим боюнча"
+    }
+  ],
+  "timestamp": "2026-10-05T17:12:28.448411698Z",
+  "model": "glm-5.3"
+}

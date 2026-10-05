@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 24:23",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ай уялап кызарат",
+      "rationale": "חפרה — literal 'бетин каптайт'; ай менен күндүн уялуусу поэтикалык сүрөт."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חפרה\/בושה",
+      "rationale": "Эки жакын маанидеги 'уялуу' этиши параллелде — ай\/күн өңдөшүү."
+    },
+    {
+      "kind": "alternative",
+      "subject": "карыларынын алдында улуулук",
+      "rationale": "'Улуулук' (кабод) Яхвеге тиешелүү же карыларга — KJV 'before his ancients gloriously' эки окулушту бириктирет."
+    }
+  ],
+  "translation": "Жана ай уялап кызарат, күн уялайт, анткени Яхве Цебаот Сион тоосунда жана Йерушалайимде падышачылык кылат, жана Анын карыларынын алдында ⟨улуулук⟩.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "5bd407e41a4c5bcb7b224619115997a500d58beccf0366649f8bc4f8da970e05",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/24\/21-23.1791209766308.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וחפרה",
+      "gloss": "Жана уялап кызарат"
+    },
+    {
+      "surface": "הלבנה",
+      "gloss": "ай"
+    },
+    {
+      "surface": "ובושה",
+      "gloss": "жана уялайт"
+    },
+    {
+      "surface": "החמה",
+      "gloss": "күн"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "падышачылык кылат"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цебаот"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "тоосунда"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Сион"
+    },
+    {
+      "surface": "ובירושלם",
+      "gloss": "жана Йерушалайимде"
+    },
+    {
+      "surface": "ונגד",
+      "gloss": "жана алдында"
+    },
+    {
+      "surface": "זקניו",
+      "gloss": "Анын карыларынын"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "улуулук"
+    }
+  ],
+  "timestamp": "2026-10-05T14:16:06.309399665Z",
+  "model": "glm-5.3"
+}

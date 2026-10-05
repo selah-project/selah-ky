@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 40:10",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Яхвеге",
+      "rationale": "Аягында түз Яхвеге кайрылуу: «Сен билесиң»"
+    },
+    {
+      "kind": "substitution",
+      "subject": "кубанычтуу кабар",
+      "rationale": "בשר — жаңылык жарыялоо, сүйүнчүлөө; жөн гана «жарыяладым» эмес"
+    }
+  ],
+  "translation": "Цедекти кубанычтуу кабар кылдым чоң жыйында; карана, эриндеримди тостум жок, Яхве, Сен билесиң.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "91eced36a45d2fc058f527b35a65514f4e07413fbfe2c39fdaafac82224baf61",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/40\/9-12.1791215977207.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בשרתי",
+      "gloss": "кубанычтуу кабар кылдым"
+    },
+    {
+      "surface": "цדק",
+      "gloss": "цедекти"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "жыйында"
+    },
+    {
+      "surface": "רב",
+      "gloss": "чоң"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "карана"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "эриндеримди"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "אכלא",
+      "gloss": "тостум"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Сен"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "билесиң"
+    }
+  ],
+  "timestamp": "2026-10-05T15:59:37.207919673Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 10:4",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כגבה אפו",
+      "rationale": "Түз мааниси \"арынын (мурунунун) бийиктиги\" — менменсинүүнүн эвфемизми; кыргызча \"чырайынын бийиктиги\" деп берилди."
+    },
+    {
+      "kind": "crux",
+      "subject": "אין אלהים",
+      "rationale": "\"Элохим жок\" — жаман адамдын ички ою (JPS, ASV) же анын ойлорунда Элохим жок деген баяндоо (KJV); экөө тең мүмкүн."
+    }
+  ],
+  "translation": "Жаман адам өз чырайынын бийиктиги боюнча издебейт; анын бүт ойлорунда: Элохим жок.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "64b7c75c8ddef3e9eb6a115d81ce206838af1db8d70ce08a7d5c22a9f9020d50",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/10\/1-4.1791215506313.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רשע",
+      "gloss": "жаман адам"
+    },
+    {
+      "surface": "כגבה",
+      "gloss": "бийиктиги боюнча"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "чырайынын"
+    },
+    {
+      "surface": "בל",
+      "gloss": "эмес"
+    },
+    {
+      "surface": "ידרש",
+      "gloss": "издебейт"
+    },
+    {
+      "surface": "אין",
+      "gloss": "жок"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүт"
+    },
+    {
+      "surface": "מזמותיו",
+      "gloss": "ойлорунда"
+    }
+  ],
+  "timestamp": "2026-10-05T15:51:46.314620726Z",
+  "model": "glm-5.3"
+}

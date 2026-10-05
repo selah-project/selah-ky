@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 15:6",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ишенди",
+      "rationale": "האמין: «ишенди» же «бека берди» — тар маанида «анда таянды» деген окуу бар."
+    },
+    {
+      "kind": "substitution",
+      "subject": "цедек",
+      "rationale": "צדקה салттыу котормолордо «акыйкелүүлүк» деп берилет; биз түздөн-түз цедек сөзүн сактадык."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨Ал⟩",
+      "rationale": "еврей текстисинде эсептөөчү ачык айтылган жок, кыргыз сүйлөмү субъектти талап кылат."
+    }
+  ],
+  "translation": "Жана ал Яхвеге ишенди, жана ⟨Ал⟩ ага цедек катары эсептеди.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "860e7b4ed959cf087fb30e6c658aa81726a7a457de0e05445369cde2b7d8e8d8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/15\/5-8.1791200939523.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והאמן",
+      "gloss": "жана ишенди"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Яхвеге"
+    },
+    {
+      "surface": "ויחשבה",
+      "gloss": "жана эсептеди ⟨Ал⟩"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ага"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "цедек катары"
+    }
+  ],
+  "timestamp": "2026-10-05T11:48:59.524382576Z",
+  "model": "glm-5.3"
+}

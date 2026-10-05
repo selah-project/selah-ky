@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 36:22",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "болду",
+      "rationale": "ויהיו rendered as past-tense verb 'болду'; Kyrgyz requires finite verb where Hebrew uses wayyehi."
+    }
+  ],
+  "translation": "Жана Лотандын уулдары болду: Хори жана Хейmam; жана Лотандын эжеси — Тимна.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "adc7b1adb15d27fa2bab279e2ca86a2146f94ceab12a72d383a8173a585ad331",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/36\/21-24.1791201434292.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "болду"
+    },
+    {
+      "surface": "בני",
+      "gloss": "уулдары"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "Лотандын"
+    },
+    {
+      "surface": "חרי",
+      "gloss": "Хори"
+    },
+    {
+      "surface": "והימם",
+      "gloss": "жана Хеймам"
+    },
+    {
+      "surface": "ואחות",
+      "gloss": "жана эжеси"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "Лотандын"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "Тимна"
+    }
+  ],
+  "timestamp": "2026-10-05T11:57:14.293441140Z",
+  "model": "glm-5.3"
+}

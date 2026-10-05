@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "esther 2:22",
+  "book": "esther",
+  "lang": "ky",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Мардохай",
+      "rationale": "Котормодо экинчи сүйлөмдө субъект кайра аталды — кыргыз сүйлөмү үчүн"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ויודע \/ ויגד \/ ותאמר",
+      "rationale": "Кабар берүүнүн үч чынжыры: билинди — кабар берилди — айтылды; сөз уланбаган ыргак"
+    }
+  ],
+  "translation": "Бул иш Мардохайга маалым болду, жана ал Мардохай падыша кабар берди Эстерге, ханышага; Эстер падышага Мардохайдын атынан айтты.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "5ea9e0009ce786d93c5bf0d355e392b8bfb2f80c03d1faa05611e112212abaae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/esther\/2\/21-23.1791220209873.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויודע",
+      "gloss": "маалым болду"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "иш"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "Мардохайга"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "кабар берди"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "Эстерге"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "ханышага"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Эстер"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "падышага"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "атынан"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Мардохайдын"
+    }
+  ],
+  "timestamp": "2026-10-05T17:10:09.874462993Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 2:10",
+  "book": "numbers",
+  "lang": "ky",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨болот⟩",
+      "rationale": "Hebrew is verbless nominal clause; Kyrgyz requires a copula"
+    },
+    {
+      "kind": "measurement",
+      "subject": "түштүк тарапта",
+      "rationale": "Compass-direction placement of the tribal camps around the tabernacle"
+    }
+  ],
+  "translation": "Реувен лагеринин желеги түштүк тарапта ⟨болот⟩, алардын аскерлери боюнча; жана Реувен уулдарынын башчысы ⟨болот⟩ Шедеурдун уулу Элицур.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "9d543fe84f25228419aebb86b9aaec13428e6107e5d5765b7715d1c2c697151b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/numbers\/2\/9-12.1791203558661.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דגל",
+      "gloss": "желеги"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "лагеринин"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Реувен"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "түштүк тарапта"
+    },
+    {
+      "surface": "לצבאתם",
+      "gloss": "алардын аскерлери боюнча"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "жана башчысы"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "уулдарынын"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Реувен"
+    },
+    {
+      "surface": "אליצור",
+      "gloss": "Элицур"
+    },
+    {
+      "surface": "בן",
+      "gloss": "уулу"
+    },
+    {
+      "surface": "שדיאור",
+      "gloss": "Шедеур"
+    }
+  ],
+  "timestamp": "2026-10-05T12:32:38.662745202Z",
+  "model": "glm-5.3"
+}

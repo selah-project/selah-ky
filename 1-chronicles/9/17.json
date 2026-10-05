@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 9:17",
+  "book": "1-chronicles",
+  "lang": "ky",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "болду",
+      "rationale": "Еврейче этиш жок; кыргызча байламча талап кылат"
+    },
+    {
+      "kind": "crux",
+      "subject": "ואחיהם",
+      "rationale": "«алардын бир туугандары» (KJV, ASV) же «алардын бир тууганы Шаллум» (JPS) — эки окуу бар"
+    }
+  ],
+  "translation": "Жана эшик күзөтчүлөр: Шаллум, Аккув, Талмон, Ахиман жана алардын бир туугандары — Шаллум ⟨бащчысы⟩ болду.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "28bf7ba2a3a6ddfa8c29ba678c63cdd11e1d92bf64b421f5e8f516d5beb44179",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-chronicles\/9\/17-20.1791222025704.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והשערים",
+      "gloss": "жана эшик күзөтчүлөр"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Шаллум"
+    },
+    {
+      "surface": "ועקוב",
+      "gloss": "Аккув"
+    },
+    {
+      "surface": "וטלמן",
+      "gloss": "Талмон"
+    },
+    {
+      "surface": "ואחימן",
+      "gloss": "Ахиман"
+    },
+    {
+      "surface": "ואחיהם",
+      "gloss": "жана алардын бир туугандары"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Шаллум"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "башчысы"
+    }
+  ],
+  "timestamp": "2026-10-05T17:40:25.705600905Z",
+  "model": "glm-5.3"
+}

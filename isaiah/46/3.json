@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 46:3",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "угуңар",
+      "rationale": "Императив менен чакыруу: Яхве элин өзүнө бурат."
+    },
+    {
+      "kind": "you",
+      "subject": "Яаковдын үй-бүлөсү",
+      "rationale": "Тике кайрылуу — Йисраэлдин калгандарына."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "העמסים\/הנשאים",
+      "rationale": "1-аяттагы жүк көтөрүү тили кайрылып келет: эл жүк көтөрүүчү эмес, өзү көтөрүлгөн."
+    }
+  ],
+  "translation": "Мага угуңар, Яаковдын үй-бүлөсү жана Йисраэл үй-бүлөсүнүн калгандары, жатырдан жүктөлгөндөр, курсактан көтөрүлгөндөр!",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "929378757d3c63c681e5ccdedcaeaa2a743f6eac32b856611b017741e34ba79c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/46\/1-4.1791210257459.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "угуңар"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "мага"
+    },
+    {
+      "surface": "בית",
+      "gloss": "үй-бүлө"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаковдын"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "жана бүт"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "калгандары"
+    },
+    {
+      "surface": "בית",
+      "gloss": "үй-бүлөсүнүн"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэл"
+    },
+    {
+      "surface": "העמסים",
+      "gloss": "жүктөлгөндөр"
+    },
+    {
+      "surface": "מני",
+      "gloss": "-дан"
+    },
+    {
+      "surface": "בטן",
+      "gloss": "жатырдан"
+    },
+    {
+      "surface": "הנשאים",
+      "gloss": "көтөрүлгөндөр"
+    },
+    {
+      "surface": "מני",
+      "gloss": "-дан"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "курсактан"
+    }
+  ],
+  "timestamp": "2026-10-05T14:24:17.460075077Z",
+  "model": "glm-5.3"
+}

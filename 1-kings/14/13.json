@@ -1,0 +1,131 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 14:13",
+  "book": "1-kings",
+  "lang": "ky",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "rationale": "направительный предлог 'эл' слится с кыргызским окончанием направительного падежа и отдельно не передаётся"
+    },
+    {
+      "kind": "substitution",
+      "subject": "кайгырышат",
+      "rationale": "ספדו буквально 'будут рвать на себе волосы и бить в грудь' — восточный обряд оплакивания"
+    }
+  ],
+  "translation": "Жана бүт Йисраэл ага кайгырышат жана ⟨את⟩ аны көмүшөт; анткени Яровам үйүнөн жалаң гана бул кабырга келет, себеби анын ичинде Яхвенин, Йисраэл Элохиминин алдында жакшы нерсе табылган, Яровам үйүндө.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "017631d8d90b5efb14a705075cc2a33784c11e8b7f68d1b7b27d68fcc56523bb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-kings\/14\/13-16.1791208416353.json",
+    "code": "641241cf-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וספדו",
+      "gloss": "кайгырышат"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ага"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүт"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэл"
+    },
+    {
+      "surface": "וקברו",
+      "gloss": "көмүшөт"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "аны"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "זה",
+      "gloss": "бул"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "жалаң гана"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "келет"
+    },
+    {
+      "surface": "לירבעם",
+      "gloss": "Яровамга"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "קבר",
+      "gloss": "кабырга"
+    },
+    {
+      "surface": "יען",
+      "gloss": "себеби"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "табылган"
+    },
+    {
+      "surface": "בו",
+      "gloss": "анын ичинде"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "нерсе"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "жакшы"
+    },
+    {
+      "surface": "אל",
+      "gloss": "алдында"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Элохими"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэл"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "үйүндө"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Яровам"
+    }
+  ],
+  "timestamp": "2026-10-05T13:53:36.354571517Z",
+  "model": "glm-5.3"
+}

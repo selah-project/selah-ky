@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 22:11",
+  "book": "leviticus",
+  "lang": "ky",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жан",
+      "rationale": "נפש — дем алуучу жандык, жандык күч; коҳен сатып алган адам (кул) билдирилүүдө"
+    },
+    {
+      "kind": "crux",
+      "subject": "коэн",
+      "rationale": "כהן — ыйык кызмат кылуучу; 'коэн' же 'ыйык кызматкер' деген варианты бар"
+    }
+  ],
+  "translation": "Жана коэн, эгер жан сатып алса — күмүшү менен сатып алуу — ал ошондон жейт, жана үйүндө төрөлгөндөр да анын нанынан жешет.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "6e0c20a625c02a9ab1204dc5535f25c3a5b7dd17d6317f56c63cc264a730844d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/22\/11-12.1791223655259.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכהן",
+      "gloss": "жана коэн"
+    },
+    {
+      "surface": "כי",
+      "gloss": "эгер"
+    },
+    {
+      "surface": "יקנה",
+      "gloss": "сатып алса"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "жан"
+    },
+    {
+      "surface": "קנין",
+      "gloss": "сатып алуу"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "күмүшү"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ал"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "жейт"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ошондон"
+    },
+    {
+      "surface": "ויליד",
+      "gloss": "жана төрөлгөндөр"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "үйүндө"
+    },
+    {
+      "surface": "הם",
+      "gloss": "алар"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "жешет"
+    },
+    {
+      "surface": "בלחמו",
+      "gloss": "анын нанынан"
+    }
+  ],
+  "timestamp": "2026-10-05T18:07:35.261593573Z",
+  "model": "glm-5.3"
+}

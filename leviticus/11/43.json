@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "leviticus 11:43",
+  "book": "leviticus",
+  "lang": "ky",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жандарыңар",
+      "rationale": "נפש — «жан» дегендей эмес, «дем алуучу, тирүүлүк» маанисинде."
+    },
+    {
+      "kind": "alternative",
+      "subject": "ונטמתם",
+      "rationale": "Буунун тобокелдиги: nifal «буланып каласыңар» же hifil болсо «булантасыңар» — жөнөкөй окулушу nifal."
+    },
+    {
+      "kind": "you",
+      "subject": "Ысрайыл элине",
+      "rationale": "Таза эмес жандыктар жөнүндөгү мыйзамда арыз айтылууда."
+    }
+  ],
+  "translation": "Сойлоочу менен сойлогон нерселердин баарысы аркылуу ⟨את⟩ жандарыңарды жийиркеничтүү кылбагыла, алар менен буланбагыла да, алар аркылуу буланып калбагыла.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "7b4d210d5793c08495c8e54945a539d24a0a45922915dc4af6935680cbe5b0b1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/11\/41-44.1791203004098.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "кылбагыла"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "жийиркеничтүү"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "жандарыңарды"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "жандарыңарды"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "аркылуу … баарысы"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "сойлоочу"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "сойлогон"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "да … болбой"
+    },
+    {
+      "surface": "תטמאו",
+      "gloss": "буланбагыла"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "алар менен"
+    },
+    {
+      "surface": "ונטמתם",
+      "gloss": "буланып калбагыла"
+    },
+    {
+      "surface": "בם",
+      "gloss": "алар аркылуу"
+    }
+  ],
+  "timestamp": "2026-10-05T12:23:24.099900392Z",
+  "model": "glm-5.3"
+}

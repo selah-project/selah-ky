@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 106:26",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 106,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ал⟩",
+      "rationale": "Ивритте этиштин субъектиси жок (мурдагы аяттагы Яхве), кыргызча сүйлөм талап кылат"
+    },
+    {
+      "kind": "idiom",
+      "subject": "кол көтөрүү",
+      "rationale": "נשא יד — ант берүү идиомасы (Евр. мыйзамда кол көтөрүп ант ичилет), латынча-жаңы котормолордо 'ант берди' деп берилет"
+    },
+    {
+      "kind": "crux",
+      "subject": "кол көтөрүү",
+      "rationale": "KJV\/ASV\/JPS 'ант берди' деп кошумча маани киргизет; ивритте ант деген сөз жок — биз идиоманы сактадык"
+    }
+  ],
+  "translation": "Жана ⟨ал⟩ колун аларга көтөрдү, аларды чөлдө кулатуу үчүн.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "3ba6a7f87f6b6c49e8a4b34e6cf9e1074d45908f2a52bc700888b17d914f13bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/106\/26-27.1791224508565.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "көтөрдү"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "колун"
+    },
+    {
+      "surface": "להם",
+      "gloss": "аларга"
+    },
+    {
+      "surface": "להפיל",
+      "gloss": "кулатуу үчүн"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "аларды"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "чөлдө"
+    }
+  ],
+  "timestamp": "2026-10-05T18:21:48.565657030Z",
+  "model": "glm-5.3"
+}

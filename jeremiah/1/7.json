@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 1:7",
+  "book": "jeremiah",
+  "lang": "ky",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "жерлерге",
+      "rationale": "Еврей текстте 'жерлерге' жок — 'бүт нерсеге жөнүндө барасың' деген маанини тактоо үчүн кошулду."
+    },
+    {
+      "kind": "you",
+      "subject": "to Jeremiah",
+      "rationale": "Яхве Ирмийага түз буйрук берет."
+    }
+  ],
+  "translation": "Жана Яхве мага айтты: Жаш балаңмын дебе, анткени Мен сени жиберген жерлерге барып, Мен буйруган ⟨את⟩ бүт нерсени айтасың.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "9526012e6d615aec7f91c1c17f7ea2cea3a40e7a222bfd91524a8c0244d6e3ea",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/jeremiah\/1\/5-8.1791210714385.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Жана ... айтты"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "мага"
+    },
+    {
+      "surface": "אל",
+      "gloss": "дебе"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "айтпа"
+    },
+    {
+      "surface": "נער",
+      "gloss": "жаш бала"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "мен"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "על",
+      "gloss": "жөнүндө"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүт"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "эмнени"
+    },
+    {
+      "surface": "אשלחך",
+      "gloss": "сени жиберген"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "барып"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "бүт нерсени"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүт"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "эмнени"
+    },
+    {
+      "surface": "אצוך",
+      "gloss": "Мен буйруган"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "айтасың"
+    }
+  ],
+  "timestamp": "2026-10-05T14:31:54.386839248Z",
+  "model": "glm-5.3"
+}

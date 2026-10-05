@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 13:1",
+  "book": "hosea",
+  "lang": "ky",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "болчу",
+      "rationale": "Еврейче этиш жок — абал атооч менен берилген, кыргызча этиш талап кылат"
+    },
+    {
+      "kind": "crux",
+      "subject": "כדבר אפרים רתת",
+      "rationale": "'Эфраим сүйлөгөндө коркуу (пайда болчу)' же 'коркуу менен сүйлөгөндө' — эки окуу бар"
+    }
+  ],
+  "translation": "Эфраим сүйлөгөндө коркуу ⟨болчу⟩; ал Йисраэлде ⟨бийлигин⟩ көтөрдү, бирок Баал менен күнөөкөр болуп өлдү.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "ca0f4fb742851dcb93bd5d93f75845bdc4db3cb12b255e8bf482080710e96783",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/hosea\/13\/1-4.1791214061326.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כדבר",
+      "gloss": "сүйлөгөндө"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Эфраим"
+    },
+    {
+      "surface": "רתת",
+      "gloss": "коркуу"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "көтөрдү"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ал"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Йисраэлде"
+    },
+    {
+      "surface": "ויאשם",
+      "gloss": "күнөөкөр болуп"
+    },
+    {
+      "surface": "בבעל",
+      "gloss": "Баал менен"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "өлдү"
+    }
+  ],
+  "timestamp": "2026-10-05T15:27:41.326823807Z",
+  "model": "glm-5.3"
+}

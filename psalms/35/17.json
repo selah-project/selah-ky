@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 35:17",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "мשאיהם",
+      "rationale": "ковул\/талкалоо маанисинде: «алардын довуландыруусу» же «талкалоолору» — KJV 'destructions', YLT 'desolations'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "жаным",
+      "rationale": "נפש — дем алуучу жан, жүрөк-карын эмес; «жан» жакын"
+    },
+    {
+      "kind": "crux",
+      "subject": "יחידתי",
+      "rationale": "«жалгыз жаным»: KJV 'my darling', JPS 'mine only one' — жалгыз, сүйүктүү деген маани"
+    }
+  ],
+  "translation": "Адонай, канча убакыт карап турасың? Жанымды алардын довуландыруусунан кайтар, жалгыз жанымды жаш арстандардан.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "02a2d0a3cdd460fad39b0196f7b360fb97b7df79ae8328fd55229978a3e3133d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/35\/17-20.1791215851943.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "канча"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "карап турасың"
+    },
+    {
+      "surface": "השיבה",
+      "gloss": "кайтар"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "жанымды"
+    },
+    {
+      "surface": "משאיהם",
+      "gloss": "алардын довуландыруусунан"
+    },
+    {
+      "surface": "מכפירים",
+      "gloss": "жаш арстандардан"
+    },
+    {
+      "surface": "יחידתי",
+      "gloss": "жалгыз жанымды"
+    }
+  ],
+  "timestamp": "2026-10-05T15:57:31.943664099Z",
+  "model": "glm-5.3"
+}

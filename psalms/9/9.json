@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 9:9",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "цедек",
+      "rationale": "בצדק — цедек сакталды, «адилеттик» деген жалпы котормо эмес"
+    },
+    {
+      "kind": "substitution",
+      "subject": "дүйнө",
+      "rationale": "תבל — «жазылыгынан нымдуу жер», дүйнө\/жер мааниси"
+    }
+  ],
+  "translation": "Жана Ал дүйнөнү цедек менен соттойт, элдерди түз-адал өкүм менен башкарат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "9a0855fdb81753b149b2408f8975a12bebd5998c0a8072e84db230f89537978c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/9\/9-12.1791215420596.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "жана Ал"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "соттойт"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "дүйнөнү"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "цедек менен"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "өкүм чыгarat"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "элдерди"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "түз-адал өкүм менен"
+    }
+  ],
+  "timestamp": "2026-10-05T15:50:20.596761941Z",
+  "model": "glm-5.3"
+}

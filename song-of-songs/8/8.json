@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 8:8",
+  "book": "song-of-songs",
+  "lang": "ky",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שידבר בה",
+      "rationale": "'Анын жөнүндө сөз болгон күнү' — ким айтат: жубайлыкка сунуш кылгандар (KJV) же жубай (LXX 'ал аны тинтет') деген талаш"
+    },
+    {
+      "kind": "you",
+      "subject": "бир туугандарга",
+      "rationale": "Карындаштардын өз ара сүйлөшүүсү — ким айтып жатканы так эмес"
+    }
+  ],
+  "translation": "Бизде бир кичине эже-карындаш бар, анын эмчектери жок; айтылган күнү карындашыбызга эмне кылабыз?",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "b244f7cc331f718f75b8e819b7b1088800475fd6385ec8c5c2a748d018a24930",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/song-of-songs\/8\/5-8.1791219754645.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אחות",
+      "gloss": "эже-карындаш"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "бизде"
+    },
+    {
+      "surface": "קטנה",
+      "gloss": "кичине"
+    },
+    {
+      "surface": "ושדים",
+      "gloss": "эмчектери"
+    },
+    {
+      "surface": "אין",
+      "gloss": "жок"
+    },
+    {
+      "surface": "לה",
+      "gloss": "анын"
+    },
+    {
+      "surface": "מה",
+      "gloss": "эмне"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "кылабыз"
+    },
+    {
+      "surface": "לאחתנו",
+      "gloss": "карындашыбызга"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "күнү"
+    },
+    {
+      "surface": "שידубר",
+      "gloss": "айтылган"
+    },
+    {
+      "surface": "בה",
+      "gloss": "аны"
+    }
+  ],
+  "timestamp": "2026-10-05T17:02:34.647106348Z",
+  "model": "glm-5.3"
+}

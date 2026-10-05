@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 5:10",
+  "book": "job",
+  "lang": "ky",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "פני ארץ",
+      "rationale": "буквально 'лицо земли' — передано как 'үстүнө' (на поверхность)"
+    },
+    {
+      "kind": "crux",
+      "subject": "חוצות",
+      "rationale": "'внешние места \/ улицы' (KJV даёт 'fields'), выбрано 'көчөлөр'"
+    }
+  ],
+  "translation": "Жер үстүнө жамгыр берген жана көчөлөрдүн үстүнө суу жөнөткөн.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "e6fe8e4c3e3c69c250163d17ea5765c1dcee36af2404f96997c4209f6d5aabec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/job\/5\/9-12.1791218640709.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנתן",
+      "gloss": "берген"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "жамгыр"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстүнө"
+    },
+    {
+      "surface": "פני",
+      "gloss": "үстүнө"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "жер"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "жана жөнөткөн"
+    },
+    {
+      "surface": "מים",
+      "gloss": "суу"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстүнө"
+    },
+    {
+      "surface": "פני",
+      "gloss": "үстүнө"
+    },
+    {
+      "surface": "חוצות",
+      "gloss": "көчөлөрдүн"
+    }
+  ],
+  "timestamp": "2026-10-05T16:44:00.709900749Z",
+  "model": "glm-5.3"
+}

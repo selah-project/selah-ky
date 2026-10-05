@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "nahum 2:12",
+  "book": "nahum",
+  "lang": "ky",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "Кайда",
+      "rationale": "Риторикалык суроо — окурманга Ниневе-«арстан үңкүрүнүн» жок болушун көрсөтүү"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אריות\/לביא\/כפיר\/גור",
+      "rationale": "Еврейче арстандын төрт сөзү — кыргызча «арстан \/ ургаачысы \/ жаш арстан» деп айырмаланды"
+    },
+    {
+      "kind": "alternative",
+      "subject": "לכפרים",
+      "rationale": "Сөз «жаш арстан» да, «дарбазалуу кичине шаар» да маанисинде — жерде-жайыт контекстте арстан окуу тандалды"
+    }
+  ],
+  "translation": "Кайда арстандардын иниси жана жаш арстандарга жайыт — анда арстан жүрдү, арстан ургаачысы, жаш арстан, жана аларды коркуткан жок.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "e4b0faf6c8ccb81376b6c815a7cc3c508746db00cfd0a7109f1831b743b77b1f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/nahum\/2\/9-12.1791214636168.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "איה",
+      "gloss": "Кайда"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "иниси"
+    },
+    {
+      "surface": "אריות",
+      "gloss": "арстандардын"
+    },
+    {
+      "surface": "ומרעה",
+      "gloss": "жана ... жайыт"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ал⟩"
+    },
+    {
+      "surface": "לכפרים",
+      "gloss": "жаш арстандарга"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "анда"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "жүрдү"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "арстан"
+    },
+    {
+      "surface": "לביא",
+      "gloss": "арстан ургаачысы"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ошол жерде"
+    },
+    {
+      "surface": "גור",
+      "gloss": "жаш арстан"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "арстан"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "жана жок"
+    },
+    {
+      "surface": "מחריד",
+      "gloss": "коркуткан"
+    }
+  ],
+  "timestamp": "2026-10-05T15:37:16.169953854Z",
+  "model": "glm-5.3"
+}

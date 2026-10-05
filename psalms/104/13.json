@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 104:13",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 104,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Өзүнүн",
+      "rationale": "Еврейче מעליותיו «анын бийик бөлмөлөрү» — ээлик мүчө кыргызча так болушу үчүн «Өзүнүн» деп толукталды"
+    },
+    {
+      "kind": "crux",
+      "subject": "бийик бөлмөлөр",
+      "rationale": "מעליות — «жогорку кабат бөлмө» же «баскыч»; бул жерде Яхвенин асмандагы камералары маанисинде"
+    }
+  ],
+  "translation": "Өзүнүн бийик бөлмөлөрүнөн тоолорду сугарат; жер Сенин иштериңдин мөмөсүнөн тойот.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "e1d495dd5bbe341b1261def89a48026f5aeefad034a9bfec79bdd8f528adc5e0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/104\/13-16.1791217025285.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משקה",
+      "gloss": "сугарат"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "тоолорду"
+    },
+    {
+      "surface": "מעליותיו",
+      "gloss": "Өзүнүн бийик бөлмөлөрүнөн"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "мөмөсүнөн"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "иштериңдин"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "тойот"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "жер"
+    }
+  ],
+  "timestamp": "2026-10-05T16:17:05.286308644Z",
+  "model": "glm-5.3"
+}

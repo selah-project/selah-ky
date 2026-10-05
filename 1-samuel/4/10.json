@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 4:10",
+  "book": "1-samuel",
+  "lang": "ky",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "талкаланды",
+      "rationale": "וינגף — «сүзүп жиберди, урдук»: согуш маанисинде «талкаланды»."
+    },
+    {
+      "kind": "measurement",
+      "subject": "отуз миң жөө аскер",
+      "rationale": "Кырылгандардын саны эсепке алынат."
+    }
+  ],
+  "translation": "Жана плиштимдиктер салгылашты, жана Йисраэл талкаланды, жана ар бир адам өз чатырына качты; жана сокку өтө чоң болду, жана Йисраэлден отуз миң жөө аскер кулап түштү.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "16d7b78cf09d5dabfc13c340a9784c7649c459da851a287886b199f3d0ab3824",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-samuel\/4\/9-12.1791206638125.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילחמו",
+      "gloss": "жана салгылашты"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "плиштимдиктер"
+    },
+    {
+      "surface": "וינגף",
+      "gloss": "талкаланды"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэл"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "жана качты"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ар бир адам"
+    },
+    {
+      "surface": "לאהליו",
+      "gloss": "өз чатырына"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "жана болду"
+    },
+    {
+      "surface": "המכה",
+      "gloss": "сокку"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "чоң"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "өтө"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "жана кулап түштү"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "Йисраэлден"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "отуз"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "миң"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "жөө аскер"
+    }
+  ],
+  "timestamp": "2026-10-05T13:23:58.126436334Z",
+  "model": "glm-5.3"
+}

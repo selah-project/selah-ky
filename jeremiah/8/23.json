@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 8:23",
+  "book": "jeremiah",
+  "lang": "ky",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מי יתן",
+      "rationale": "Букв. «ким берсе» — өтүнүч-тилек идиомасы («каш: берсең...»); кыргызча «ким берер эле» формасы менен берилди."
+    },
+    {
+      "kind": "addition",
+      "subject": "кылып",
+      "rationale": "Еврей текстте «көзүм — көз жашынын булагы» деп туура пропущено; кыргызча синтаксис «кылып» талап кылат, ⟨⟩ белгиси менен кошулду."
+    }
+  ],
+  "translation": "Ким берер эле башыма суу, көзүмдү көз жашынын булагы кылып — күндүз түндүз элимдин кызынын ⟨את⟩ жарадарларын ыйлайын!",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "acb5b3cd3d21efab2b506d45b4e87f34cb07ab5fd115ec35ee4fe005956c2792",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/jeremiah\/8\/21-23.1791210877178.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ким"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "берер эле"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "башыма"
+    },
+    {
+      "surface": "מים",
+      "gloss": "суу"
+    },
+    {
+      "surface": "ועיני",
+      "gloss": "жана көзүмдү"
+    },
+    {
+      "surface": "мקור",
+      "gloss": "булак"
+    },
+    {
+      "surface": "דמעה",
+      "gloss": "көз жашынын"
+    },
+    {
+      "surface": "ואבכה",
+      "gloss": "жана ыйлайын"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "күндүз"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "түндүз"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "элимдин кызынын жарадарларын"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "жарадарларын"
+    },
+    {
+      "surface": "בת",
+      "gloss": "кызынын"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "элимдин"
+    }
+  ],
+  "timestamp": "2026-10-05T14:34:37.179173875Z",
+  "model": "glm-5.3"
+}

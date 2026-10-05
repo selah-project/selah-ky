@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 11:30",
+  "book": "1-kings",
+  "lang": "ky",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "анын",
+      "rationale": "Ивритте «анын үстүндө» — үчүнчү жак жалгыз мүчө менен берилген, кыргызча тактоочу атаыш керек болду"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ויקרעה\/קרעים",
+      "rationale": "Этиш менен зат атында бир тамыр кайталанат: «жыртты — жыртындылар», семиздикти бекемдейт"
+    }
+  ],
+  "translation": "Жана Аҳия анын үстүндөгү жаңы кийиминен кармады да, аны он эки бөлүккө жыртты.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "27c7b83df9a77e7eaf781510f8d6bfdeb85e4c6e152748ff86fae774ecece426",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-kings\/11\/30-31.1791223940483.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתפש",
+      "gloss": "кармады"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "Аҳия"
+    },
+    {
+      "surface": "בשלמה",
+      "gloss": "кийиминен"
+    },
+    {
+      "surface": "החדשה",
+      "gloss": "жаңы"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ал"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "үстүндөгү"
+    },
+    {
+      "surface": "ויקרעה",
+      "gloss": "жыртты"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "эки"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "он"
+    },
+    {
+      "surface": "קרעים",
+      "gloss": "бөлүккө"
+    }
+  ],
+  "timestamp": "2026-10-05T18:12:20.484280309Z",
+  "model": "glm-5.3"
+}

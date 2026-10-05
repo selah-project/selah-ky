@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 2:1",
+  "book": "job",
+  "lang": "ky",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "кайра",
+      "rationale": "Ивритте «кайра» жок — 1-баптагы окшош күндүн кайталануусу гана көрсөтүлөт"
+    },
+    {
+      "kind": "elision",
+      "subject": "היום",
+      "rationale": "Баяндоочтук «бир күн» конструкциясы кыргызча толук сүйлөм талап кылат"
+    }
+  ],
+  "translation": "Кайра ⟨кайра⟩ бир күн болду, жана Элохимдин уулдары Яхвенин алдына тургану келишти, жана Шатан да алардын ортосуна Яхвенин алдына тургану келди.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "cf9a90cd27c919e61e5f805101570ce0608272af93015226d9f070f033045f42",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/job\/2\/1-4.1791218586168.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "болду"
+    },
+    {
+      "surface": "היום",
+      "gloss": "күн"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "келишти"
+    },
+    {
+      "surface": "בני",
+      "gloss": "уулдары"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Элохимдин"
+    },
+    {
+      "surface": "להתיצב",
+      "gloss": "тургану"
+    },
+    {
+      "surface": "על",
+      "gloss": "алдына"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "келди"
+    },
+    {
+      "surface": "גם",
+      "gloss": "да"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "Шатан"
+    },
+    {
+      "surface": "בתכם",
+      "gloss": "ортосуна"
+    },
+    {
+      "surface": "להתיצב",
+      "gloss": "тургану"
+    },
+    {
+      "surface": "על",
+      "gloss": "алдына"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    }
+  ],
+  "timestamp": "2026-10-05T16:43:06.169031827Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 12:32",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "גם х 3",
+      "rationale": "«да» чарагы үч жолу кайталанат: мал да, сөз боюнча да, мени да алка — бардыгы берилип жатканын баса белгилейт"
+    },
+    {
+      "kind": "you",
+      "subject": "Паро → Моше жана Ахарон",
+      "rationale": "Паронун буйругу жана өтүнүчү түз аларга багытталган"
+    }
+  ],
+  "translation": "Койлоруңарды да, уйларыңарды да алыңар, айткансыңарча, жана жөнөгүлө; жана ⟨את⟩ мени да алкыгыла.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "76620e60aed94179fe977203293461ff3d8388a034fbe03219bde2ff2d1081f2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/12\/29-32.1791202127875.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "да"
+    },
+    {
+      "surface": "צאנכם",
+      "gloss": "койлоруңарды"
+    },
+    {
+      "surface": "גם",
+      "gloss": "да"
+    },
+    {
+      "surface": "בקרכם",
+      "gloss": "уйларыңарды"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "алыңар"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "айткансыңарча"
+    },
+    {
+      "surface": "דברתם",
+      "gloss": "айтылганыңар"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "жөнөгүлө"
+    },
+    {
+      "surface": "וברכתם",
+      "gloss": "алкыгыла"
+    },
+    {
+      "surface": "גם",
+      "gloss": "да"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ мени",
+      "marks": "мен"
+    }
+  ],
+  "timestamp": "2026-10-05T12:08:47.876789671Z",
+  "model": "glm-5.3"
+}

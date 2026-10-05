@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "deuteronomy 32:50",
+  "book": "deuteronomy",
+  "lang": "ky",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "элиңе кошулуу",
+      "rationale": "ваеэсаф эль амеха — «элиңе чогултулду» — өлгөндөн кийин аталарга кошулуу идиомасы"
+    },
+    {
+      "kind": "addition",
+      "subject": "относительное местоимение",
+      "rationale": "В кыргызском придаточные требуют «которое», в еврейском — одно слово אשר"
+    },
+    {
+      "kind": "elision",
+      "subject": "которое",
+      "rationale": "אשер төрт жолу кайталанып, кыргызча бир сөз менен берилди"
+    }
+  ],
+  "translation": "Жана сен чыккан тоодо өл жана өз элиңе кошул, бирок агаң Ахарон Хор тоосунда өлүп, өз элине кошулгандай.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "873ccfd3e4a8112c3ec3f18c6c4ac4a86ca0bab5c0e33268beeadc82c0f6132c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/32\/49-52.1791205423581.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומת",
+      "gloss": "жана өл"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "тоодо"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "которое"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "сен"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "чыккан"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ошол жерге"
+    },
+    {
+      "surface": "והאסף",
+      "gloss": "жана кошул"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…га \/ -га"
+    },
+    {
+      "surface": "עמיך",
+      "gloss": "элиңе"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "…дай \/ сыяктуу"
+    },
+    {
+      "surface": "מת",
+      "gloss": "өлүп"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Ахарон"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "агаң"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "Хор тоосунда"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "тоо"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "кошулган"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…га \/ -га"
+    },
+    {
+      "surface": "עמיו",
+      "gloss": "элине"
+    }
+  ],
+  "timestamp": "2026-10-05T13:03:43.582624546Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 42:13",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "את",
+      "rationale": "Бул жерде אֵת (H854) 'менен' деген предлог: 'кенже атабыз МЕНЕН' — объкти белгиси (H853) эмес, бирок схема ⟨את⟩ белгисин талап кылат."
+    },
+    {
+      "kind": "substitution",
+      "subject": "жок",
+      "rationale": "איננו — 'ал жок' (а nonentity): бирок бирокандардын бири каза болгон деп айтылбайт, 'жок' гана делет."
+    }
+  ],
+  "translation": "Жана алар айтышты: Сенин кулдарың — он эки бир тууган, Кенаан жеринде жашаган бир адамдын ууларыбыз; жана мына, кенжебиз бүгүн ⟨את⟩ атабыздын жанында, ал эми бири жок.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "b080eeb48fdfeee6f4db1fd92b048b4d20d01703f83e984a7c8a00888f47d908",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/42\/13-16.1791201647657.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "жана алар айтышты"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "эки"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "он"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "сенин кулдарың"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "бир тууган"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "биз"
+    },
+    {
+      "surface": "בני",
+      "gloss": "уулары"
+    },
+    {
+      "surface": "איש",
+      "gloss": "адамдын"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бир"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "жеринде"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Кенаан"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "жана мына"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "кенжебиз"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "атабыздын жанында"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "атабыз"
+    },
+    {
+      "surface": "היום",
+      "gloss": "бүгүн"
+    },
+    {
+      "surface": "והאחד",
+      "gloss": "ал эми бири"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "жок"
+    }
+  ],
+  "timestamp": "2026-10-05T12:00:47.657981355Z",
+  "model": "glm-5.3"
+}

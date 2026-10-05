@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 9:1",
+  "book": "leviticus",
+  "lang": "ky",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "сегизинчи күн",
+      "rationale": "Күндөрдү эсептөө — ыйыктоонун сегизинчи күнү."
+    },
+    {
+      "kind": "addition",
+      "subject": "-ду\/-ды жөндөөсү",
+      "rationale": "Ивритте קרא менен л- префикси «чакырылган тарапка» көрсөтөт; кыргызча объект жөндөлүш талап кылат."
+    }
+  ],
+  "translation": "Сегизинчи күнү болгондо Моше ⟨אхаронду⟩, анын уулдарын жана Йисраэлдин карыларын чакырды.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "1f71bc7c99dd076a4c5d19903c32acc6930ce7d600c5823cef56d12b0f5c648a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/9\/1-4.1791203022695.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "болгондо"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "күнү"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "сегизинчи"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "чакырды"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "⟨Ахаронду⟩",
+      "marks": "Ахарон"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "жана анын уулдарын"
+    },
+    {
+      "surface": "ולזקני",
+      "gloss": "жана карыларын"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэлдин"
+    }
+  ],
+  "timestamp": "2026-10-05T12:23:42.696432113Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 4:4",
+  "book": "2-kings",
+  "lang": "ky",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "артынан",
+      "rationale": "בעדׯн «үчүн\/артынан» деген мааниси кыргызча «эшикти жап» сүйлөмүндө так берилүү үчүн кошулду"
+    },
+    {
+      "kind": "crux",
+      "subject": "והמלא תסיעי",
+      "rationale": "«толгонун алып кой» же «толгондорду жылдыр» — נסע көчүү\/жылдыруу этиши; KJV «set aside», YLT «remove»"
+    }
+  ],
+  "translation": "Жана кир, эшикти өзүңдүн жана уулдарыңдын артынан жап, бул бүт идиштерге күй, жана толгону алып кой.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "b1c01eae1db96a0a1bbfc507b9af52dd6318243a16a7a5084c1fa7dcca5a3c99",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-kings\/4\/4-4.1791224000313.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובאת",
+      "gloss": "кир"
+    },
+    {
+      "surface": "וסגרת",
+      "gloss": "жап"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "эшикти"
+    },
+    {
+      "surface": "בעדך",
+      "gloss": "өзүңдүн артынан"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "жана ... артынан"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "уулдарыңдын"
+    },
+    {
+      "surface": "ויצקת",
+      "gloss": "күй"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстүнө"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүт"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "идиштер"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "бул"
+    },
+    {
+      "surface": "והמלא",
+      "gloss": "жана толгону"
+    },
+    {
+      "surface": "תסיעי",
+      "gloss": "алып кой"
+    }
+  ],
+  "timestamp": "2026-10-05T18:13:20.313467151Z",
+  "model": "glm-5.3"
+}

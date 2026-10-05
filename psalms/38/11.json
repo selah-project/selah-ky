@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 38:11",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "סחרחר",
+      "rationale": " интенсивдүү форма: 'тез-тез басып sexto' же 'дүкүрөп согуу'; котормолор 'panteth\/throbbeth\/fluttereth' бөлүнөт"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מנגד...נגעי (38:12)",
+      "rationale": "бул аятта эмес, бирок סחרחר үн окшоштугу — кайталануучу тамыр, кыргызча жоготулду"
+    }
+  ],
+  "translation": "Менин жүрөгүм тез-тез согот, күч-кубатым мени таштап кетти, жана көздөрүмдүн жарыгы да — алар менде ⟨את⟩ жок.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "0c9ba66623936e037b65b452ee7069c760922e6092b3a233072f9b81bc112027",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/38\/9-12.1791215956638.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לבי",
+      "gloss": "жүрөгүм"
+    },
+    {
+      "surface": "סחרחר",
+      "gloss": "тез-тез согот"
+    },
+    {
+      "surface": "עזבני",
+      "gloss": "мени таштап кетти"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "күч-кубатым"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "жана жарыгы"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "көздөрүмдүн"
+    },
+    {
+      "surface": "גם",
+      "gloss": "да"
+    },
+    {
+      "surface": "הם",
+      "gloss": "алар"
+    },
+    {
+      "surface": "אין",
+      "gloss": "жок"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "менде — көздөрүмдүн жарыгы алар менде жок"
+    }
+  ],
+  "timestamp": "2026-10-05T15:59:16.639453917Z",
+  "model": "glm-5.3"
+}

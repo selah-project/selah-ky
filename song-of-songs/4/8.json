@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 4:8",
+  "book": "song-of-songs",
+  "lang": "ky",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אתי",
+      "rationale": "Бул אятта את H854 'мен менен' предлогу — кыргызча 'мен менен' көтөрүлдү, ⟨את⟩ белги катары сакталды"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אתי מלבנון кайталоосу",
+      "rationale": "Эки жолу кайталануу — чакыруунун ыргактык күчү, кыргызча да сакталды"
+    },
+    {
+      "kind": "crux",
+      "subject": "תשורי",
+      "rationale": "'көз салып кара' же 'түшүп кел' (BSB) — шоолаанын башынан көз чаптыр деген окуу"
+    },
+    {
+      "kind": "you",
+      "subject": "колуктууга",
+      "rationale": "Сүйлөөчү колуктууну Ливандан чакырып түзө кайрылат"
+    }
+  ],
+  "translation": "Мен менен Ливандан кел, колуктуу, мен менен Ливандан кел: Амананын башынан, Шенир жана Хермондун башынан, арстан уяларынан, кабылан тоолорунан кара.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "1021a57f6e7ac9b7e879bc48a5fadb9f8b18c0fd918a0bce70d3681fffa6eb29",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/song-of-songs\/4\/5-8.1791219580532.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "мен менен"
+    },
+    {
+      "surface": "מלבנון",
+      "gloss": "Ливандан"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "колуктуу"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "мен менен"
+    },
+    {
+      "surface": "מלבנון",
+      "gloss": "Ливандан"
+    },
+    {
+      "surface": "תבואי",
+      "gloss": "кел"
+    },
+    {
+      "surface": "תשורי",
+      "gloss": "кара"
+    },
+    {
+      "surface": "מראש",
+      "gloss": "башынан"
+    },
+    {
+      "surface": "אמנה",
+      "gloss": "Амананын"
+    },
+    {
+      "surface": "מראש",
+      "gloss": "башынан"
+    },
+    {
+      "surface": "שניר",
+      "gloss": "Шенир"
+    },
+    {
+      "surface": "וחרמון",
+      "gloss": "жана Хермон"
+    },
+    {
+      "surface": "ממענות",
+      "gloss": "уяларынан"
+    },
+    {
+      "surface": "אריות",
+      "gloss": "арстан"
+    },
+    {
+      "surface": "מהררי",
+      "gloss": "тоолорунан"
+    },
+    {
+      "surface": "נמרים",
+      "gloss": "кабылан"
+    }
+  ],
+  "timestamp": "2026-10-05T16:59:40.533238740Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 33:5",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "хесед",
+      "rationale": "חסד кыргызча «ырайым» деп да болот, бирок D2 боюнча транслитерация — хесед кармалды"
+    }
+  ],
+  "translation": "Цедекти жана өкүмдү сүйөт; жер Яхвенин хеседине толгон.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "9d65857068bb7b3baf01a688d717f2ae89ab965a75f3140f46a8c32153b93467",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/33\/5-8.1791215814378.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "сүйөт"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "цедекти"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "жана өкүмдү"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "хеседи"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "тологон"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "жер"
+    }
+  ],
+  "timestamp": "2026-10-05T15:56:54.378895691Z",
+  "model": "glm-5.3"
+}

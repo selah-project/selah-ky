@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 18:28",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жакыр",
+      "rationale": "עני — «баскынтылган, мүтәжиз адам»; «жакыр» кууш мааниде алынды, баскынтылган эл деген да окуу бар."
+    }
+  ],
+  "translation": "Анткени Сен жакыр элди куткарасың, жана бийик көздөрдү төмөн түшүрөсүң.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "995a92b3548f89ca7ca092c4f66710e005250b0f991a47a7bd689ce75a6deb4b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/18\/25-28.1791215549468.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Сен"
+    },
+    {
+      "surface": "עם",
+      "gloss": "элди"
+    },
+    {
+      "surface": "עני",
+      "gloss": "жакыр"
+    },
+    {
+      "surface": "תושיע",
+      "gloss": "куткарасың"
+    },
+    {
+      "surface": "ועינים",
+      "gloss": "жана көздөрдү"
+    },
+    {
+      "surface": "רמות",
+      "gloss": "бийик"
+    },
+    {
+      "surface": "תשפיל",
+      "gloss": "төмөн түшүрөсүң"
+    }
+  ],
+  "timestamp": "2026-10-05T15:52:29.469874877Z",
+  "model": "glm-5.3"
+}

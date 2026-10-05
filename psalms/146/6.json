@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 146:6",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 146,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "алардын ичиндеги бардык нерселердин",
+      "rationale": "כל אשר вם — «бардык, алардын ичиндеги»; кыргызча түшүндүрмө тартип керек"
+    },
+    {
+      "kind": "measurement",
+      "subject": "түбөלүккө",
+      "rationale": "לעולם — убыттын чегин көрсөтүүчү өлчөө сөзү"
+    }
+  ],
+  "translation": "Асман жана жерди, ⟨את⟩ деңизди жана ⟨את⟩ алардын ичиндеги бардык нерселердин баарын жасаган, чындыкты түбөлүккө сактоочу.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "a318cb2eec8299465bc5a5df6ad10f250f952db08d4cabd92a790fb481be2ac1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/146\/6-7.1791224521512.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "жасаган"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "асман"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "жана жерди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "деңизди"
+    },
+    {
+      "surface": "הים",
+      "gloss": "деңизди"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "жана ⟨את⟩",
+      "marks": "баарын"
+    },
+    {
+      "surface": "כל",
+      "gloss": "баарын"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "алардын ичинде"
+    },
+    {
+      "surface": "בם",
+      "gloss": "аларда"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "сактоочу"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "чындыкты"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "түбөлүккө"
+    }
+  ],
+  "timestamp": "2026-10-05T18:22:01.512800236Z",
+  "model": "glm-5.3"
+}

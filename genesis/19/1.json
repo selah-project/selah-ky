@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 19:1",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "периштелер",
+      "rationale": "המלאכים — «элчилер»; бул жерде Элохимдин элчилери, кыргызча салтта «периште»"
+    },
+    {
+      "kind": "addition",
+      "subject": "отура эле",
+      "rationale": "Ивритте азыркы убакыт көрсөткүчү жок, кыргызча «эле» кошулду"
+    }
+  ],
+  "translation": "Эки периште кечке жакын Седомге келишти, ал эми Лот Седомдун дарбазасында отура эле; Лот аларды көрүп, алардын алдына чыгыш үчүн турду жана бет жүзүн жерге жыгып таазим кылды.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "6efa65cf530f30f04d8a650cc289a70ae07a6438603545afed93701059c55750",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/19\/1-4.1791201069690.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "келишти"
+    },
+    {
+      "surface": "שני",
+      "gloss": "эки"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "периштелер"
+    },
+    {
+      "surface": "סדמה",
+      "gloss": "Седомге"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "кечке жакын"
+    },
+    {
+      "surface": "ולוט",
+      "gloss": "ал эми Лот"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "отура эле"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "дарбазасында"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Седомдун"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "көрүп"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Лот"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "турду"
+    },
+    {
+      "surface": "לקראתם",
+      "gloss": "алардын алдына чыгыш үчүн"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "таазим кылды"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "бет жүзүн"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "жерге жыгып"
+    }
+  ],
+  "timestamp": "2026-10-05T11:51:09.691346011Z",
+  "model": "glm-5.3"
+}

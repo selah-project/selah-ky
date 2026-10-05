@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 1:13",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "зордук-зомбулук",
+      "rationale": "בפרך букв. 'сынуу, морт' — өтө катуулук, катаалдык маанисинде"
+    }
+  ],
+  "translation": "Жана Мицрайим эли Йисраэлдин уулдарын ⟨את⟩ зордук-зомбулук менен кул кылып иштетти.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "f66a567ff6388e83344d6aeb1358bfbfbcfced368466e79b0389c166c671e744",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/1\/13-16.1791201850400.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "кул кылып иштетти"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицрайим эли"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Йисраэлдин уулдарын"
+    },
+    {
+      "surface": "בני",
+      "gloss": "уулдарын"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэлдин"
+    },
+    {
+      "surface": "בפרך",
+      "gloss": "зордук-зомбулук менен"
+    }
+  ],
+  "timestamp": "2026-10-05T12:04:10.400728867Z",
+  "model": "glm-5.3"
+}

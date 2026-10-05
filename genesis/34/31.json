@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 34:31",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "болобу",
+      "rationale": "еврейче суроо белгиси жок, интонация гана суроо кылат"
+    }
+  ],
+  "translation": "Алар айтышты: Зинакор менен ⟨את⟩ биздин эже-сиңдибизди пайдаланса болобу?",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "b2e697fb8ef16cabca571f7c0369e1e527c97fd1f747445ff4c3d0d023727a0d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/34\/29-31.1791201464446.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "айтышты"
+    },
+    {
+      "surface": "הכזונה",
+      "gloss": "зинакор менен"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "пайдаланса болобу"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "биздин эже-сиңдибизди"
+    },
+    {
+      "surface": "אחותנו",
+      "gloss": "биздин эже-сиңдибизди"
+    }
+  ],
+  "timestamp": "2026-10-05T11:57:44.447414461Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 19:12",
+  "book": "leviticus",
+  "lang": "ky",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ошентип⟩",
+      "rationale": "Жыйынтык байланыш кыргызча талап кылат, еврейде этиш жөнөкөй байланышта турат"
+    },
+    {
+      "kind": "substitution",
+      "subject": "бузуп жибересиң",
+      "rationale": "חלל — «тешип, бүтүндүктөн чыгаруу», ыйыкты бузуу мааниси"
+    }
+  ],
+  "translation": "Жана Менин ысымым менен жалган ант бербегиле, себеби ⟨ошентип⟩ ⟨את⟩ Элохимиңдин ысымын бузуп жибересиң — Мен Яхве.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "040d901e7cfb789fef6d2f0069f1e70b1c123c92e4e9db9f1e3ea02e9fa0a875",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/19\/9-12.1791203206841.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "жана жок"
+    },
+    {
+      "surface": "תשבעו",
+      "gloss": "ант бербегиле"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "Менин ысымым менен"
+    },
+    {
+      "surface": "לשקר",
+      "gloss": "жалган"
+    },
+    {
+      "surface": "וחללת",
+      "gloss": "бузуп жибересиң"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ысымды"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ысымды"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Элохимиңдин"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Мен"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-10-05T12:26:46.842840362Z",
+  "model": "glm-5.3"
+}

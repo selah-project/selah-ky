@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 11:25",
+  "book": "proverbs",
+  "lang": "ky",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жан",
+      "rationale": "נפש — дем алуучу жандык, көмөкөй\/жан-күч; «жан» — жакын, бирок «кан-жан» эмес"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מרוה\/יורא",
+      "rationale": "«кандыруу» жана «кандырылуу» — бир тамырдын кайталанышы, ыр сабындагы теңдештик"
+    }
+  ],
+  "translation": "Береке берген жан семирээт, жана суусун кандырган да ошол өзү сууга тойдурулат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "d27d585a90bc99d96c8d9dd6edc124656d194a7c8b74ddacd919acd2aaa7e207",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/11\/25-28.1791218000180.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "жан"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "береке"
+    },
+    {
+      "surface": "תדשן",
+      "gloss": "семирээт"
+    },
+    {
+      "surface": "ומרוה",
+      "gloss": "суусун кандырган"
+    },
+    {
+      "surface": "גם",
+      "gloss": "да"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ошол өзү"
+    },
+    {
+      "surface": "יורא",
+      "gloss": "сууга тойдурулат"
+    }
+  ],
+  "timestamp": "2026-10-05T16:33:20.180968953Z",
+  "model": "glm-5.3"
+}

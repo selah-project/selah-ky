@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 8:28",
+  "book": "leviticus",
+  "lang": "ky",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אתם",
+      "rationale": "את белгиси 3-жаң муuncio suffix менен (אֹתָם) — ⟨את⟩ маркери жана 'аларды' объектти көрсөтөт"
+    },
+    {
+      "kind": "substitution",
+      "subject": "המזבחה",
+      "rationale": "Бул формада локативдик ה кошулган (алтарьга\/алтарьда) — 'курмандыкта' деп берилди"
+    },
+    {
+      "kind": "substitution",
+      "subject": "לריח ניחח",
+      "rationale": "Тынчайткан жыпар жыт — өтө такыба сөз айкашы, кыргызча 'жыпар жыт' деп жөнөкөйлөштүрүлдү"
+    }
+  ],
+  "translation": "Жана Моше ⟨את⟩ аларды алардын алакандарынан алып, курмандыкта, өрттөлгө курмандыктын үстүнө жандырды; алар — ыйыктоо курмандыктары, жыпар жыт үчүн; бул — Яхвеге от курмандыгы.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "d76d808123cb6fd2beb5934ae7cfa56a368a14cad63c70c548a5034dc7969530",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/8\/28-28.1791223628511.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "алды"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "аларды"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "үстүнөн"
+    },
+    {
+      "surface": "כפיהם",
+      "gloss": "алакандарынан"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "жандырды"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "курмандыкта"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстүнө"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "өрттөлгө курмандыктын"
+    },
+    {
+      "surface": "מלאים",
+      "gloss": "ыйыктоо курмандыктары"
+    },
+    {
+      "surface": "הם",
+      "gloss": "алар"
+    },
+    {
+      "surface": "לריח",
+      "gloss": "жыт"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "жыпар"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "от курмандыгы"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "бул"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхвеге"
+    }
+  ],
+  "timestamp": "2026-10-05T18:07:08.511889506Z",
+  "model": "glm-5.3"
+}

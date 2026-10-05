@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 8:2",
+  "book": "ecclesiastes",
+  "lang": "ky",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "айтып жатам",
+      "rationale": "אני（我）后无动词，各译本补「我劝你」，此处补出劝勉义"
+    },
+    {
+      "kind": "crux",
+      "subject": "דברת",
+      "rationale": "דברת（缘故\/关于）罕用词：或译「因……的缘故」，或「为着」"
+    },
+    {
+      "kind": "invitation",
+      "subject": "оозун сактагын",
+      "rationale": "对读者的命令式劝勉"
+    }
+  ],
+  "translation": "Мен ⟨айтып жатам⟩: падышанын оозун сактагын, Элохимдин анттын себеби менен.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "ab5194fb5734e8ad5b6da3ed010248d0ee08189ca164c81a73ecc7e041f31d73",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ecclesiastes\/8\/1-4.1791220122676.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "мен"
+    },
+    {
+      "surface": "פי",
+      "gloss": "оозун"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "падышанын"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "сактагын"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "менен"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "себеби"
+    },
+    {
+      "surface": "שבועת",
+      "gloss": "анттын"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохимдин"
+    }
+  ],
+  "timestamp": "2026-10-05T17:08:42.677762556Z",
+  "model": "glm-5.3"
+}

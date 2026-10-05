@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 44:16",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "турат",
+      "rationale": "Hebrew omits the verb 'to be'; Kyrgyz requires it"
+    },
+    {
+      "kind": "substitution",
+      "subject": "жаап алды",
+      "rationale": "כסתני 'covered me' — the shame of my face covers the speaker, not the face itself"
+    }
+  ],
+  "translation": "Күн бою кордугум көз алдымда турат, жана бетимдин уяты мени жаап алды.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "ae5db8211991fba40a7be49d8a8fef6e18c73abf8fefdfb9a9b7cf74c6b387de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/44\/13-16.1791216044460.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "бою"
+    },
+    {
+      "surface": "היום",
+      "gloss": "Күн"
+    },
+    {
+      "surface": "כלמתי",
+      "gloss": "кордугум"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "көз алдымда"
+    },
+    {
+      "surface": "ובשת",
+      "gloss": "жана уяты"
+    },
+    {
+      "surface": "פני",
+      "gloss": "бетимдин"
+    },
+    {
+      "surface": "כסתני",
+      "gloss": "мени жаап алды"
+    }
+  ],
+  "timestamp": "2026-10-05T16:00:44.460976432Z",
+  "model": "glm-5.3"
+}

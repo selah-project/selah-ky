@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 52:1",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 52,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "мשכיל",
+      "rationale": "םשכיל — үйрөтүүчү ыр деген техникалық термин, бир аталыш катары берилди"
+    }
+  ],
+  "translation": "Хормейдин башчысына. Давиддин түшүнүктүү ыры.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "f53f127600fa1f91334ca755f7b424bccba594c7ab4464e288652a14083aeb69",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/52\/1-4.1791216251325.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "хормейдин башчысына"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "түшүнүктүү ыр"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давиддин"
+    }
+  ],
+  "timestamp": "2026-10-05T16:04:11.325802267Z",
+  "model": "glm-5.3"
+}

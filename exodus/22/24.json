@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 22:24",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "бирөөгө",
+      "rationale": "עמי үстүнө айкындама кыргызча керек"
+    },
+    {
+      "kind": "substitution",
+      "subject": "күмүш",
+      "rationale": "כסף күмүш да, акча да — форманы сактоо үчүн «күмүш» алынды"
+    },
+    {
+      "kind": "measurement",
+      "subject": "өсүм",
+      "rationale": "Карыз жана өсүм — ченем-санак жөнүндөгү мыйзамдык буйрук"
+    }
+  ],
+  "translation": "Эгер ⟨את⟩ Мендин элимден бирөөгө, жаныңардагы ⟨את⟩ жардыга күмүш карыз берсең, ага насыя берүүчү болбо, анын үстүнө өсүм койбо.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "9d0cc3bbf40d6230cab9c525993394b79a1b331df03b195daefc77b66308228a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/22\/21-24.1791202267560.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Эгер"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "күмүш"
+    },
+    {
+      "surface": "תלוה",
+      "gloss": "карыз берсең"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "бирөөгө"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "Мендин элимден"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "жардыга"
+    },
+    {
+      "surface": "העני",
+      "gloss": "жардыга"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "жаныңардагы"
+    },
+    {
+      "surface": "לא",
+      "gloss": "болбо"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "болбо"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ага"
+    },
+    {
+      "surface": "כנשה",
+      "gloss": "насыя берүүчү"
+    },
+    {
+      "surface": "לא",
+      "gloss": "койбо"
+    },
+    {
+      "surface": "תשימון",
+      "gloss": "койбо"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "анын үстүнө"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "өсүм"
+    }
+  ],
+  "timestamp": "2026-10-05T12:11:07.562140696Z",
+  "model": "glm-5.3"
+}

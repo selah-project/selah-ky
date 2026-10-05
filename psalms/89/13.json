@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 89:13",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "оң тарап",
+      "rationale": "צפון\/ימין literally 'түндүк жана оң' (жашырынган\/караңгы тарап жана күчтүү оң кол тарап); кыргызча багыттар катары берилди"
+    },
+    {
+      "kind": "alternative",
+      "subject": "түштүк",
+      "rationale": "ימין көпчүлүк котормолордо 'түштүк' деп алынат, бирок сөздүн формасы 'оң кол\/оң тарап'"
+    }
+  ],
+  "translation": "Түндүк жана оң тарап — Сен аларды жараттың; Тавор жана Хермон Сенин ысымыңда кубанышат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "bd7c909ace50b8d7a0eefd8ecd82daebaa3f2d236bb70cb9c172f5a72315f6d2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/89\/13-16.1791216793861.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צפון",
+      "gloss": "Түндүк"
+    },
+    {
+      "surface": "וימין",
+      "gloss": "жана оң тарап"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Сен"
+    },
+    {
+      "surface": "בראתם",
+      "gloss": "аларды жараттың"
+    },
+    {
+      "surface": "תבור",
+      "gloss": "Тавор"
+    },
+    {
+      "surface": "ו חרמון",
+      "gloss": "жана Хермон"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "Сенин ысымыңда"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "кубанышат"
+    }
+  ],
+  "timestamp": "2026-10-05T16:13:13.861938749Z",
+  "model": "glm-5.3"
+}

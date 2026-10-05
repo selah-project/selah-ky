@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 2:4",
+  "book": "song-of-songs",
+  "lang": "ky",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בית היין",
+      "rationale": "'шарап үйү' — букв.: шарап сакталган жай же майрам үйү; KJV 'тамаша үйү' дейт"
+    },
+    {
+      "kind": "addition",
+      "subject": "Ал",
+      "rationale": "еврейче этиштин жак атоочу жок, кыргызча талап кылынат"
+    }
+  ],
+  "translation": "Ал мени шарап үйүнө алып келди, жана анын туусу менин үстүмдө — сүйүү.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "a249487e7f0e977185b8543ab57c0aea4734d4a9d97a0b452287e0b1db5958a9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/song-of-songs\/2\/1-4.1791219542110.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הביאני",
+      "gloss": "Ал мени … алып келди"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...ҕа"
+    },
+    {
+      "surface": "בית",
+      "gloss": "үйүнө"
+    },
+    {
+      "surface": "היין",
+      "gloss": "шарап"
+    },
+    {
+      "surface": "ודגלו",
+      "gloss": "жана анын туусу"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "менин үстүмдө"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "сүйүү"
+    }
+  ],
+  "timestamp": "2026-10-05T16:59:02.111270644Z",
+  "model": "glm-5.3"
+}

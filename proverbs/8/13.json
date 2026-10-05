@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 8:13",
+  "book": "proverbs",
+  "lang": "ky",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "мен",
+      "rationale": "שנאתיнин «мен» деген ачык субъектиси жок — кыргызча этиш жак мүчөсүн талап кылат, бирок «мен» өзүнчө сөз катары кошулду"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שנאת \/ שנאתי",
+      "rationale": "«жек көрүү» жана «мен жек көрөм» — бир тамырдын кайрылуусу, кыргызча форма аралыгы жумшараак калды"
+    }
+  ],
+  "translation": "Яхвенин корккуу — жаманды жек көрүү; текебердикти жана менменсинүүнү, жаман жолду жана бузукулук оозу мен аны жек көрөм.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "5298c9b4aa4fdca0ae007e485b353920cb2b5e71d3e467f379336aacbc41cf6c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/8\/13-16.1791217896145.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "корккуу"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    },
+    {
+      "surface": "שנאת",
+      "gloss": "жек көрүү"
+    },
+    {
+      "surface": "רע",
+      "gloss": "жаманды"
+    },
+    {
+      "surface": "גאה",
+      "gloss": "текебердикти"
+    },
+    {
+      "surface": "וגאון",
+      "gloss": "менменсинүүнү"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "жолду"
+    },
+    {
+      "surface": "רע",
+      "gloss": "жаман"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "оозу"
+    },
+    {
+      "surface": "תהפכות",
+      "gloss": "бузукулук"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "жек көрөм"
+    }
+  ],
+  "timestamp": "2026-10-05T16:31:36.145514477Z",
+  "model": "glm-5.3"
+}

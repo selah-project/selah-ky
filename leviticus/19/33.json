@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 19:33",
+  "book": "leviticus",
+  "lang": "ky",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אתו",
+      "rationale": "Aleph-tav объект маркери кыргызча түз толтуп берилбейт, ⟨את⟩ белгиси катары сакталды"
+    },
+    {
+      "kind": "you",
+      "subject": "эзбеңер",
+      "rationale": " Israelга кайрылуу — көптүк санда буйрук"
+    }
+  ],
+  "translation": "Жана эгер жериңерде бир конок ⟨את⟩ силер менен жатакташып турса, аны эзбеңер.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "c1e30096f888f3c498b18cc43848958914de0e4fa12873ffd47901f172fba920",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/19\/33-36.1791203294533.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "жана эгер"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "жатакташып турса"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ менен"
+    },
+    {
+      "surface": "גר",
+      "gloss": "конок"
+    },
+    {
+      "surface": "בארצכם",
+      "gloss": "жериңерде"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "תונו",
+      "gloss": "эзбеңер"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "аны"
+    }
+  ],
+  "timestamp": "2026-10-05T12:28:14.534267680Z",
+  "model": "glm-5.3"
+}

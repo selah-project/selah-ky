@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 35:12",
+  "book": "jeremiah",
+  "lang": "ky",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ачылды",
+      "rationale": "׳אל קולי׳ formulation: Hebrew uses אל with דבר, kyrgyz needs a verb"
+    },
+    {
+      "kind": "elision",
+      "subject": "לאמר",
+      "rationale": "_introductory infinitive rendered as colon introducing direct speech"
+    }
+  ],
+  "translation": "Жана Яхвенин сөзү Йирмейаууга айтылды ⟨ачылды⟩:",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "176c966a2d5d2f6f19afa4c6e0c67b8a8df04363784b33d65a1178154ea770df",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/jeremiah\/35\/12-12.1791224170986.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Жана… болду"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сөзү"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    },
+    {
+      "surface": "אל",
+      "gloss": "айтылды"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Йирмейаууга"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": ":"
+    }
+  ],
+  "timestamp": "2026-10-05T18:16:10.986956448Z",
+  "model": "glm-5.3"
+}

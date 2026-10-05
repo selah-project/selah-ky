@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "proverbs 8:29",
+  "book": "proverbs",
+  "lang": "ky",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "чеги",
+      "rationale": "חקו — «мыйзам-чече, белгиленген чек», кыргызча «чек» сөзү форманы кармайт"
+    },
+    {
+      "kind": "crux",
+      "subject": "анын оозунан",
+      "rationale": "פיו «анын оозу» же «Анын буйругу» — көп котормолор «буйругу» десе, еврей сөзү «ооз»"
+    }
+  ],
+  "translation": "Анын деңизге чегин койгондо, суулар анын оозунан ашпасын деп, жердин пайдубалдарын чектегенде.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "f01ec9c24aad581e52a50cf7f4499d75f2cace7d10af198898225ad9df0a3e8c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/8\/29-32.1791217904147.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בשומו",
+      "gloss": "койгондо"
+    },
+    {
+      "surface": "לים",
+      "gloss": "деңизге"
+    },
+    {
+      "surface": "חקו",
+      "gloss": "чеги"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "суулар"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ашпай"
+    },
+    {
+      "surface": "יעברו",
+      "gloss": "ашып"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "анын оозунан"
+    },
+    {
+      "surface": "בחוקו",
+      "gloss": "чектегенде"
+    },
+    {
+      "surface": "מוסדי",
+      "gloss": "пайдубалдарын"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "жердин"
+    }
+  ],
+  "timestamp": "2026-10-05T16:31:44.147675291Z",
+  "model": "glm-5.3"
+}

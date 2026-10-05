@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 19:1",
+  "book": "deuteronomy",
+  "lang": "ky",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "сыңары",
+      "rationale": "Элохимдин 2-жаңдамай мүчөсү кыргызча «сыңары» мүчөсүн талап кылат"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ээ болосуң",
+      "rationale": "ירש — «аларды сүрүп чыгып ордун ээлөө» деген сөз, кыргызча жыйырма сөз менен берилди"
+    }
+  ],
+  "translation": "Яхве Элохим〈сыңары〉 ⟨את⟩ элдерди кырып салганда — алардын ⟨את⟩ жерин Яхве Элохим〈сыңары〉 сага берип турат — сен алардын ордуна ээ болосуң жана алардын шаарларында жана үйлөрүндө жашайсың.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "97fa7d0f694e87d7572efd304e809512ff3e360606348332a893a94f3d51621a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/19\/1-4.1791205103591.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "кылганда"
+    },
+    {
+      "surface": "יכרית",
+      "gloss": "кырып салганда"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Элохим〈сыңары〉"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "элдерди"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "элдерди"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "алардын"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Элохим〈сыңары〉"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "берип турат"
+    },
+    {
+      "surface": "לך",
+      "gloss": "сага"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "жерин"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "жерин"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "ээ болосуң"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "жашайсың"
+    },
+    {
+      "surface": "בעריהם",
+      "gloss": "шаарларында"
+    },
+    {
+      "surface": "ובבתיהם",
+      "gloss": "үйлөрүндө"
+    }
+  ],
+  "timestamp": "2026-10-05T12:58:23.592449229Z",
+  "model": "glm-5.3"
+}

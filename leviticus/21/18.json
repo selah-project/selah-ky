@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 21:18",
+  "book": "leviticus",
+  "lang": "ky",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חרם",
+      "rationale": "«Мурду жапыз\/көңдөй» (KJV «flat nose») менен « бойлуу бойдок» (YLJ «dwarfed») деген эки чечмелөө бар."
+    },
+    {
+      "kind": "crux",
+      "subject": "שרוע",
+      "rationale": "«Ашыкча мүчөсү бар» — узун же кошумча мүчө; так мааниси так эмес."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "או…או…או…או",
+      "rationale": "«же» айторунун төрт жолу кайталанышы — тизменин ритми, кыргызча сакталды."
+    }
+  ],
+  "translation": "анткени кимде кемчил болсо, ал жакындабайт — сокур киши, же аксак, же мурду көңдөй, же мүчөсү ашыкча.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "bb1a6bd847fb8230b8e127ec879b94d9466be40eb1c6fc00c5f05e6295b5a3b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/21\/17-20.1791203316917.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ар бир"
+    },
+    {
+      "surface": "איש",
+      "gloss": "киши"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ал"
+    },
+    {
+      "surface": "בו",
+      "gloss": "анда"
+    },
+    {
+      "surface": "мום",
+      "gloss": "кемчил"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "יקרב",
+      "gloss": "жакындабайт"
+    },
+    {
+      "surface": "איש",
+      "gloss": "киши"
+    },
+    {
+      "surface": "עור",
+      "gloss": "сокур"
+    },
+    {
+      "surface": "או",
+      "gloss": "же"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "аксак"
+    },
+    {
+      "surface": "או",
+      "gloss": "же"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "мурду-көңдөй"
+    },
+    {
+      "surface": "או",
+      "gloss": "же"
+    },
+    {
+      "surface": "שרוע",
+      "gloss": "ашыкча-мүчөлүү"
+    }
+  ],
+  "timestamp": "2026-10-05T12:28:36.918229009Z",
+  "model": "glm-5.3"
+}

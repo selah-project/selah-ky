@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 18:12",
+  "book": "leviticus",
+  "lang": "ky",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "эт-тери",
+      "rationale": "שאר — «эт, жакын кан»; көпчөлүк формасы сакталды, «жакын тууган» деген роль эмес, сөздүн өзү берилди"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ачпоо керек⟩",
+      "rationale": "Буйрук формасы кыргызча болчок-модалдык конструкция менен берилди"
+    }
+  ],
+  "translation": "Атаңдын карындашынын жылаңачтыгын ачпа; ал — атаңдын эт-тери.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "1024c7c36b88be9e668d61a1c67f471dcfdc591d7fed26ad0f667bdcf5c97d03",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/18\/9-12.1791203165164.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "жылаңачтыгын"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "карындашынын"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "атаңдын"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ачпа"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "⟨ачпоо керек⟩"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "эт-тери"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "атаңдын"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ал"
+    }
+  ],
+  "timestamp": "2026-10-05T12:26:05.165204273Z",
+  "model": "glm-5.3"
+}

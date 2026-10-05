@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 35:12",
+  "book": "job",
+  "lang": "ky",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ал⟩",
+      "rationale": "Ивритте этиштин ээси аталбаган (Элоах, 35:13 контекстинде); кыргызча ачык айтуу үчүн кошулду"
+    },
+    {
+      "kind": "crux",
+      "subject": "מפני גאון רעים",
+      "rationale": "«Жамандардын текеберлигинен» (жооп берүүдөн баш тартуунун себеби) же «жамандардын текеберлигинин астында алар кыйкырышат»; биринчиси тандылды"
+    }
+  ],
+  "translation": "Ал жерде алар кыйкырышат, бирок ⟨ал⟩ жооп бербейт — жамандардын текеберлигинен.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "efe0cb4157b082ad044a9266f11ac4aadacd983ffe1215dd72d39a23ea7dc314",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/job\/35\/9-12.1791219317861.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "ал жерде"
+    },
+    {
+      "surface": "יצעקו",
+      "gloss": "кыйкырышат"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "бирок жок"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "жооп бербейт"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "себебинен"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "текеберлигинен"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "жамандардын"
+    }
+  ],
+  "timestamp": "2026-10-05T16:55:17.862893542Z",
+  "model": "glm-5.3"
+}

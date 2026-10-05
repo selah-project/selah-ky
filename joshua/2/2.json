@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 2:2",
+  "book": "joshua",
+  "lang": "ky",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "чалгындоо",
+      "rationale": "לחפר — «чукуп кароо, казып изилдөө»; кыргызча «чалгындоо» деген сөз сунушталды"
+    },
+    {
+      "kind": "addition",
+      "subject": "билдирилип",
+      "rationale": "פעל пассив формасы «алар айтышты» дегенди билдирет, айткан адам көрсөтүлгөн жок"
+    }
+  ],
+  "translation": "Жерихо падышасына билдирилип айтылды: «Карап тур, бул жерге түн ичинде Йисраэлдин уулдарынан эркектер келишти, ⟨את⟩ жерди чалгындоо үчүн».",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "fb552b202c6303391db50210e4dfc44f3011fc0587cd60579992e4620b813e64",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/joshua\/2\/2-3.1791223778398.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "айтылды"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "падышасына"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "Жерихо"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "деп"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "карап тур"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "эркектер"
+    },
+    {
+      "surface": "באו",
+      "gloss": "келишти"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "бул жерге"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "түн ичинде"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "уулдарынан"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэлдин"
+    },
+    {
+      "surface": "לחפר",
+      "gloss": "чалгындоо үчүн"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "жерди"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "жерди"
+    }
+  ],
+  "timestamp": "2026-10-05T18:09:38.399256251Z",
+  "model": "glm-5.3"
+}

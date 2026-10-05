@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 13:30",
+  "book": "2-samuel",
+  "lang": "ky",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "…мезгилде",
+      "rationale": "ויהий — баяндоо байланышы, кыргызча 'алар жолдо' менен берилди."
+    },
+    {
+      "kind": "substitution",
+      "subject": "өлтүрдү",
+      "rationale": "הכה — 'сабады, урду'; кабар чындыкты көбөйтүп айтып атат, текст урган дейт."
+    }
+  ],
+  "translation": "Алар жолдо бара жатканда Давидге кабар келди: Авшалом падышанын ⟨את⟩ бардык уулдарын өлтүрдү, алардын бирөө да калган жок деп.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "0180d278aa5560e49091255afe70bfa8a6196177308f6a8f533637146dd26da2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-samuel\/13\/29-32.1791207615018.json",
+    "code": "641241cf-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "…мезгилде"
+    },
+    {
+      "surface": "המה",
+      "gloss": "алар"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "жолдо"
+    },
+    {
+      "surface": "והשמעה",
+      "gloss": "кабар"
+    },
+    {
+      "surface": "באה",
+      "gloss": "келди"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ге"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давидге"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "…деп"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "өлтүрдү"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Авшалом"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "падышанын бардык уулдарын"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бардык"
+    },
+    {
+      "surface": "בני",
+      "gloss": "уулдарын"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "падышанын"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "калган"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "алардын"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бирөө да"
+    }
+  ],
+  "timestamp": "2026-10-05T13:40:15.019426333Z",
+  "model": "glm-5.3"
+}

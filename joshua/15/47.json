@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "joshua 15:47",
+  "book": "joshua",
+  "lang": "ky",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨улуу⟩",
+      "rationale": "Еврей текстте жок: ⟨the great Sea⟩ деген салттуу аталышты кыргызча берүү үчүн кошулду"
+    },
+    {
+      "kind": "crux",
+      "subject": "והים הגבול וגבול",
+      "rationale": "Кыска жазылыш: 'деңиз — чек жана чек' — 'улуу деңиз чек болот жана анын жээги да чек' деген эки окуу бар"
+    }
+  ],
+  "translation": "Ашдод, анын кыз-шаарлары жана айыл-чабандары; Азза, анын кыз-шаарлары жана айыл-чабандары — Мицрайим агынына чейин; жана ⟨улуу⟩ деңиз жана анын чеги ⟨чек болот⟩.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "acec77f7dffe2a9044e5efd05d3cb441e4c035a9697ffedf8b6dcac0b92b7ead",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/joshua\/15\/45-48.1791205833986.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשדוד",
+      "gloss": "Ашдод"
+    },
+    {
+      "surface": "בנותיה",
+      "gloss": "анын кыз-шаарлары"
+    },
+    {
+      "surface": "וחצריה",
+      "gloss": "жана анын айыл-чабандары"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Азза"
+    },
+    {
+      "surface": "בנותיה",
+      "gloss": "анын кыз-шаарлары"
+    },
+    {
+      "surface": "וחצריה",
+      "gloss": "жана анын айыл-чабандары"
+    },
+    {
+      "surface": "עד",
+      "gloss": "чейин"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "агын"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицрайим"
+    },
+    {
+      "surface": "והים",
+      "gloss": "жана деңиз"
+    },
+    {
+      "surface": "הגבול",
+      "gloss": "чек"
+    },
+    {
+      "surface": "וגבול",
+      "gloss": "жана чек"
+    }
+  ],
+  "timestamp": "2026-10-05T13:10:33.986914946Z",
+  "model": "glm-5.3"
+}

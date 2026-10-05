@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 7:3",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "катуулантам",
+      "rationale": "אקשה — 'Мен катуулантам' же 'Мен оорлатам'; Яхвенин Өзү Параондун жүрөгүн катуулантышы котормочулардын белгилүү талаш маселеси."
+    },
+    {
+      "kind": "substitution",
+      "subject": "белгилер",
+      "rationale": "אותתי — 'белгилерим, ылайыктуу нышандарым'; 'белги' туура сүрөт."
+    }
+  ],
+  "translation": "Мен болсо ⟨את⟩ Параондун жүрөгүн катуулантам жана Өз белгилеримди жана Өз кереметтеримди Мицрайим жеринде көбөйтөм.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "ee71af541d7458f4d1e20d0686b0bca12acbecdb09fdec292f50d49715435935",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/7\/1-4.1791201958825.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Мен болсо"
+    },
+    {
+      "surface": "אקשה",
+      "gloss": "катуулантам"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Параондун жүрөгүн"
+    },
+    {
+      "surface": "לב",
+      "gloss": "жүрөгүн"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Параондун"
+    },
+    {
+      "surface": "והרביתי",
+      "gloss": "жана көбөйтөм"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "белгилеримди"
+    },
+    {
+      "surface": "אתתי",
+      "gloss": "белгилеримди"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "жана ⟨את⟩",
+      "marks": "кереметтеримди"
+    },
+    {
+      "surface": "מופתי",
+      "gloss": "кереметтеримди"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "жеринде"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицрайим"
+    }
+  ],
+  "timestamp": "2026-10-05T12:05:58.826482903Z",
+  "model": "glm-5.3"
+}

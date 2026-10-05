@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 14:1",
+  "book": "zechariah",
+  "lang": "ky",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "кара аталышы",
+      "rationale": "«тоногуң ичине» — бөлүнгөн жер көрсөтүлбөгөн, боштукко бөлүнөт деген мааниде"
+    },
+    {
+      "kind": "alternative",
+      "subject": "иони жок салыштыруу",
+      "rationale": "בקרבך — «ичинде» да болот, көбүнчө «ичине» деп берилет"
+    },
+    {
+      "kind": "you",
+      "subject": "тоногуң",
+      "rationale": "Иерусалимге кайрылуу — экинчи жамааттан уланган сөз"
+    }
+  ],
+  "translation": "Караймын — Яхвеге карата күн келүүдө, жана ⟨את⟩ тоногуң ичине бөлүнөт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "cce2866ceba8eafebeb4cf0ff28a21cff42b6ec859c6040f99d39587f2fd2ed0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/zechariah\/14\/1-4.1791215202953.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "караймын"
+    },
+    {
+      "surface": "יום",
+      "gloss": "күн"
+    },
+    {
+      "surface": "בא",
+      "gloss": "келүүдө"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхвеге карата"
+    },
+    {
+      "surface": "וחלק",
+      "gloss": "жана бөлүнөт"
+    },
+    {
+      "surface": "שללך",
+      "gloss": "тоногуң"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "ичине"
+    }
+  ],
+  "timestamp": "2026-10-05T15:46:42.953647594Z",
+  "model": "glm-5.3"
+}

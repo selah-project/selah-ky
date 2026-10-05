@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 89:4",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "келишим кесиштим",
+      "rationale": "כרת ברית — «келишим кесүү» байыркы салтта малдын кесилген этинин ортосунан өтүү; кыргызча «кесиштим» сөз тамыры сакталды."
+    }
+  ],
+  "translation": "Мен тандаганым менен келишим кесиштим, өз кулум Давидге ант бердим.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "00677826807f8ef4eb285ebc5735edd95335c06db53b37ecefb1a35daed13445",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/89\/1-4.1791216796422.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כרתי",
+      "gloss": "кесиштим"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "келишим"
+    },
+    {
+      "surface": "לבחירי",
+      "gloss": "тандаганым менен"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "ант бердим"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давидге"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "кулум"
+    }
+  ],
+  "timestamp": "2026-10-05T16:13:16.423543285Z",
+  "model": "glm-5.3"
+}

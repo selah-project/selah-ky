@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 26:2",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "rationale": "Тыюу бөлүкчөсү этишке кирди; өзүнчө сөз катары көрүнбөйт"
+    },
+    {
+      "kind": "you",
+      "subject": "Йицхакка",
+      "rationale": "Яхве Йицхакка түз кайрылуу — буюрук жана тыюу"
+    }
+  ],
+  "translation": "Жана Яхве ⟨ага⟩ көрүндү жана айтты: Мицрайимге түшпө, Мен саан айткан жерде жаша.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "79ebee9b49e887edc0273c3ea11ce4b666396ca3bf9baae301fc690ac69cadac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/26\/1-4.1791201218434.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "көрүндү"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "⟨ага⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "жана айтты"
+    },
+    {
+      "surface": "אל",
+      "gloss": "— башка"
+    },
+    {
+      "surface": "תרד",
+      "gloss": "түшпө"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "Мицрайимге"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "жаша"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "жерде"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "котор"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "айткан"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "саан"
+    }
+  ],
+  "timestamp": "2026-10-05T11:53:38.434961355Z",
+  "model": "glm-5.3"
+}

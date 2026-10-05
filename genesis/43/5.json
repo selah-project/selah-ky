@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 43:5",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "פני ראה",
+      "rationale": "«Жүзүн көрүү» — еврейче идиома, «алдына баруу, кабыл алынуу» дегенди билдирет."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨эженден⟩",
+      "rationale": "Еврей текстинде «сен» ачык айтылбайт, ואם אינך шарттуу конструкциясынан келип чыгат."
+    }
+  ],
+  "translation": "Эгер ⟨эженден⟩ аны жибербесең, биз түшпөйбүз, анткени ал киши бизге айтты: Ага байланыштуу эч нерсе да калса, инин ⟨את⟩ силер менен бирге болбосо, жүзүмдү көрбөйсүңөр.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "692cfbd8a7d3d3b511c3aa0d14fa5db0379457ef893882cf05cdf9044a89595d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/43\/5-8.1791201691360.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Эгер"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "жибербесең"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "жибербесең"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "נרד",
+      "gloss": "түшпөйбүз"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ал киши"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "бизге"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "көрбөйсүңөр"
+    },
+    {
+      "surface": "פני",
+      "gloss": "жүзүмдү"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "болгону"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "инин ⟨את⟩ силер менен"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ силер менен"
+    }
+  ],
+  "timestamp": "2026-10-05T12:01:31.361260452Z",
+  "model": "glm-5.3"
+}

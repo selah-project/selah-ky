@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 67:5",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 67,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "токчулук менен",
+      "rationale": "מישור букв. 'тизөң, жазык жер' — туура адилеттик деген сүрөт; 'токчулук' дагы бир мүмкүн болгон окуу"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תנחם",
+      "rationale": "нәхәһ 'баштоо' деген тамыр KJV ' govern' деп берилген; жер үстүндөгү калктар жүрүштө алып баруу сүрөтү"
+    }
+  ],
+  "translation": "Калктар кубанып, ырдашсын, анткени Сен элдерди токчулук менен соттойсуң жана жер үстүндөгү калктарды баштасың. Села.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "6737b1a022538e2485acd326143b059d2d1ab78b20b1ba544ee0db1fa876d90c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/67\/5-8.1791216325702.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישמחו",
+      "gloss": "кубанып"
+    },
+    {
+      "surface": "וירננו",
+      "gloss": "ырдашсын"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "калктар"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "תשפט",
+      "gloss": "соттойсуң"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "элдерди"
+    },
+    {
+      "surface": "מישור",
+      "gloss": "токчулук менен"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "жана калктарды"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "жер үстүндө"
+    },
+    {
+      "surface": "תנחם",
+      "gloss": "баштасың"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Села"
+    }
+  ],
+  "timestamp": "2026-10-05T16:05:25.703425068Z",
+  "model": "glm-5.3"
+}

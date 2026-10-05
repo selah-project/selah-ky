@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 22:16",
+  "book": "ezekiel",
+  "lang": "ky",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ונחלת בך",
+      "rationale": "KJV «мурас аласың» (נחל) менен окшоштурат; חלл тамырынан «бузуласың, ыйыктыгыңдан айрыласың» — туура окуу"
+    },
+    {
+      "kind": "addition",
+      "subject": "двоеточие",
+      "rationale": "כי байланышы «Мен — Яхве» дегенди киргизет; кыргызча байланыш сөзсүз берилди"
+    }
+  ],
+  "translation": "Жана сен өзүңдө бузуласың элдердин көз алдында, жана билесиң: Мен — Яхве.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "6efb30509f12ccc59fe447d6ca6edaa22d0ef308ecd57effc4e12cbe6d8e5c65",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ezekiel\/22\/13-16.1791212760424.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונחלת",
+      "gloss": "жана бузуласың"
+    },
+    {
+      "surface": "בך",
+      "gloss": "өзүңдө"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "көз алдында"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "элдердин"
+    },
+    {
+      "surface": "וידעת",
+      "gloss": "жана билесиң"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "אני",
+      "gloss": "Мен"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-10-05T15:06:00.426133164Z",
+  "model": "glm-5.3"
+}

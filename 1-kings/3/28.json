@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-kings 3:28",
+  "book": "1-kings",
+  "lang": "ky",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "мשפט",
+      "rationale": "D4 боюнча «өкүм» — соттук чечим, «салт» эмес"
+    },
+    {
+      "kind": "addition",
+      "subject": "бар экенин",
+      "rationale": "כי…בקרבו ачык копула жок; кыргызча баяндоочу талап кылынат"
+    }
+  ],
+  "translation": "Жана бүт Йисраэл падышанын чыгарган өкүмүн укту, жана падышадан коркушту, анткени алар көрүштү: Элохимдин даанышмандыгы анын ичинде бар экенин, өкүм чыгарып жатканын.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "ecdd2f0eb860736a6866a395935254e30403f39ef7e60882d270ade41a63d6de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-kings\/3\/25-28.1791208037039.json",
+    "code": "641241cf-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "жана укту"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүт"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэл"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "өкүмдү"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "өкүмдү"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ал"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "чыгарган"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "падыша"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "жана коркушту"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "падышадан"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "падышадан"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "көрүштү"
+    },
+    {
+      "surface": "כי",
+      "gloss": "экенин"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "даанышмандыгы"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохимдин"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "анын ичинде"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "жатканын"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "өкүм чыгарып"
+    }
+  ],
+  "timestamp": "2026-10-05T13:47:17.041238479Z",
+  "model": "glm-5.3"
+}

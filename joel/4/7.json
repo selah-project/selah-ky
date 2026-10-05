@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joel 4:7",
+  "book": "joel",
+  "lang": "ky",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "השיב גמול בראש",
+      "rationale": "'сыйыкты башка кайтаруу' — ивриттин калыпташкан туюктамасы, кыргызча 'башка кайтаруу' катары берилди"
+    },
+    {
+      "kind": "elision",
+      "subject": "שמה",
+      "gloss_ky": "ошол жерге",
+      "rationale": "'ошол жерге' — которунуда так эмес, 4:6-дагы 'алыстатуу' менен байланышты"
+    }
+  ],
+  "translation": "Мына, Мен аларды саткан жериңерден ойготуп чыгарам, жана сыйыгыңарды силердин баштарыңарга кайтарам.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "b107c57d1e633adaa6c4b3d7aa35584fa5aa12ffa34b8d326361becda6a8ba54",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/joel\/4\/5-8.1791214176118.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "Мына, Мен"
+    },
+    {
+      "surface": "מעירם",
+      "gloss": "аларды ойготуп чыгарам"
+    },
+    {
+      "surface": "מן",
+      "gloss": "дан"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "жериңерден"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "саткан"
+    },
+    {
+      "surface": "מכרתם",
+      "gloss": "саткан"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "аларды"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ошол жерге"
+    },
+    {
+      "surface": "והשבתי",
+      "gloss": "жана кайтарам"
+    },
+    {
+      "surface": "גמלכם",
+      "gloss": "сыйыгыңарды"
+    },
+    {
+      "surface": "בראשכם",
+      "gloss": "баштарыңарга"
+    }
+  ],
+  "timestamp": "2026-10-05T15:29:36.119165033Z",
+  "model": "glm-5.3"
+}

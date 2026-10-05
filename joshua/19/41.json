@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "joshua 19:41",
+  "book": "joshua",
+  "lang": "ky",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "чегинин тизмеси",
+      "rationale": "Дан уруусунун мурас чегинин шаар тизмеси."
+    },
+    {
+      "kind": "substitution",
+      "subject": "Ир-Шемеш",
+      "rationale": "עיר שמש дегенчи 'Күн шаары' — ысым катары айтылышында сакталды."
+    }
+  ],
+  "translation": "Жана Дан уулдарынын мурасынын чеги мына булар болду: Цора, Эштаол жана Ир-Шемеш.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "1a5fe825d5c44bdb34f60d21d851297494ab30890c35cd091becba66b3cef248",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/joshua\/19\/41-44.1791205872060.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "болду"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "чеги"
+    },
+    {
+      "surface": "נחלתם",
+      "gloss": "мурасынын"
+    },
+    {
+      "surface": "צרעה",
+      "gloss": "Цора"
+    },
+    {
+      "surface": "ואשתאול",
+      "gloss": "жана Эштаол"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "жана Ир"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "-Шемеш"
+    }
+  ],
+  "timestamp": "2026-10-05T13:11:12.060556684Z",
+  "model": "glm-5.3"
+}

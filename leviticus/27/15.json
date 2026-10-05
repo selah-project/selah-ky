@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 27:15",
+  "book": "leviticus",
+  "lang": "ky",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨алга⟩",
+      "rationale": "לו этиштик эмес предлог — «аныки болот»; кыргызча «алга» түшүндүрмө сөзү менен берилди."
+    },
+    {
+      "kind": "measurement",
+      "subject": "бешинчи бөлүгү",
+      "rationale": "Куткаруу баасына кошулуучу бешинчи үлүштүн өлчөөсү."
+    }
+  ],
+  "translation": "Эгерде ыйык кылган адам ⟨את⟩ үйүн куткарып алса, анда ал бааңдын күмүшүнүн бешинчи бөлүгүн анын үстүнө кошот, жана ал ⟨алга⟩ болот.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "68deb97bb83a2aab8f0112506c8993e336c062baee5712271b279b61e973340e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/27\/13-16.1791203505557.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Эгерде"
+    },
+    {
+      "surface": "המקדיש",
+      "gloss": "ыйык кылган адам"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "куткарып алса"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "үйүн"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "үйүн"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "кошот"
+    },
+    {
+      "surface": "חמישית",
+      "gloss": "бешинчи бөлүгүн"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "күмүшүнүн"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "бааңдын"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "анын үстүнө"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "болот"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨алга⟩"
+    }
+  ],
+  "timestamp": "2026-10-05T12:31:45.558328138Z",
+  "model": "glm-5.3"
+}

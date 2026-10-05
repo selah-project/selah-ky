@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 21:4",
+  "book": "numbers",
+  "lang": "ky",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "תקצר נפש",
+      "rationale": "Жан 'кыскарды' — чыдамы бүттү, кыжыры кайнады; сөзмө-сөз 'кыска жан' кыргызча түшүнүксүз болор эди."
+    },
+    {
+      "kind": "substitution",
+      "subject": "негизги сөз",
+      "rationale": "נפש 'жан' катары берилди; сөз көбүрөөк 'дем, жашоо күчү, тамакка табити' маанисинде жүрөт."
+    },
+    {
+      "kind": "crux",
+      "subject": "ים סוף",
+      "rationale": "'Камыш деңизи' сөзмө-сөз; 'Кызыл деңиз' — кеңири тааныш аталыш, бирок камыш мааниси басылып калды."
+    }
+  ],
+  "translation": "Алар Хор тоосунан Кызыл деңизди бойлогон жол менен ⟨את⟩ Эдом жерин айланып өтүү үчүн жөнөштү; жолдо элдин жаны кысылды.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "5a5565236b19cab88eba94ea7deea28af558303e9fb9ad29fdfd29f46756ddd5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/numbers\/21\/1-4.1791204073657.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויסעву",
+      "gloss": "жөнөштү"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "Хор"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "тоосунан"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "жолу"
+    },
+    {
+      "surface": "ים",
+      "gloss": "деңизди"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Кызыл (камыш)"
+    },
+    {
+      "surface": "לסבב",
+      "gloss": "айланып өтүү үчүн"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Эдом жерин"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "жерин"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Эдом"
+    },
+    {
+      "surface": "ותקצר",
+      "gloss": "кысылды"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "жаны"
+    },
+    {
+      "surface": "העם",
+      "gloss": "элдин"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "жолдо"
+    }
+  ],
+  "timestamp": "2026-10-05T12:41:13.658340224Z",
+  "model": "glm-5.3"
+}

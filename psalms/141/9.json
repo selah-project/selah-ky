@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 141:9",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 141,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מידי פח",
+      "rationale": "буквально «от рук силка» — еврейская идиома орудия; передано как «от силка»"
+    },
+    {
+      "kind": "substitution",
+      "subject": "און",
+      "rationale": "און буквально «ничто\/суета\/зло»; передано как «зордук-зулум» (зло-насилие)"
+    }
+  ],
+  "translation": "Мени алар мага кармаган тордон сактагын, жана зордук-зулум кылуучулардын тузакторунан.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "ed57e002cc009c647fee44da040c825b80f78ee00c9d0768dcb79644b3ceb2f6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/141\/9-10.1791217510172.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמרני",
+      "gloss": "Мени сактагын"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "колунан"
+    },
+    {
+      "surface": "פח",
+      "gloss": "тордон"
+    },
+    {
+      "surface": "יקשו",
+      "gloss": "карган"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мага"
+    },
+    {
+      "surface": "ומקשות",
+      "gloss": "жана тузакторунан"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "кылуучулардын"
+    },
+    {
+      "surface": "און",
+      "gloss": "зордук-зулум"
+    }
+  ],
+  "timestamp": "2026-10-05T16:25:10.172639232Z",
+  "model": "glm-5.3"
+}

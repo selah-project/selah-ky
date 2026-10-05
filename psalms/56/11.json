@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 56:11",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 56,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "бат колоннелүү параллелизм",
+      "rationale": "Эки бирдей сап — Элохим\/Яхве аталышы гана алмашат; кайталоо риторикалык бекемдөө."
+    },
+    {
+      "kind": "crux",
+      "subject": "באלהים אהלל דבר",
+      "rationale": "'Элохимде сөздү мактайм' же 'Элохимдин сөзүн мактайм' — конструкция талаштуу."
+    }
+  ],
+  "translation": "Элохимде сөздү мактайм, Яхведе сөздү мактайм.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "5ff76c2cb034a988f47868058ac67641d6da77698813e0a4ab6e6d8602138b8f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/56\/9-12.1791216181787.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "Элохимде"
+    },
+    {
+      "surface": "אהלל",
+      "gloss": "мактайм"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сөздү"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Яхведе"
+    },
+    {
+      "surface": "אהלל",
+      "gloss": "мактайм"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сөздү"
+    }
+  ],
+  "timestamp": "2026-10-05T16:03:01.788777033Z",
+  "model": "glm-5.3"
+}

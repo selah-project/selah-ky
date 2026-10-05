@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 9:25",
+  "book": "deuteronomy",
+  "lang": "ky",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "кырк күн жана кырк түн",
+      "rationale": "Моше жыгылган мөөнөтү так эсептелет: кырк күн, кырк түн."
+    },
+    {
+      "kind": "addition",
+      "subject": "эле",
+      "rationale": "אמר өткөн чакта; кыргызча айкындоо үчүн «эле» кошулду."
+    }
+  ],
+  "translation": "Мен Яхвенин алдына ⟨את⟩ кырк күнгө жана ⟨את⟩ кырк түнгө жыгылдым, мына ошондой жыгылганымда, анткени Яхве ⟨את⟩ силерди жок кылууну айткан эле.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "0f667da9868df5d2c4efd041c1ffea21370debbbe7b0b9c79486bdd44a92e7ec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/9\/25-28.1791204942775.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתנפל",
+      "gloss": "жыгылдым"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "алдына"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "кырк күн"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "кырк"
+    },
+    {
+      "surface": "היום",
+      "gloss": "күнгө"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "жана ⟨את⟩",
+      "marks": "кырк түн"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "кырк"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "түнгө"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ал"
+    },
+    {
+      "surface": "התנפלתי",
+      "gloss": "жыгылганымда"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "айткан"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "להשמיד",
+      "gloss": "жок кылууну"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ силерди"
+    }
+  ],
+  "timestamp": "2026-10-05T12:55:42.775984779Z",
+  "model": "glm-5.3"
+}

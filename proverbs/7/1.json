@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 7:1",
+  "book": "proverbs",
+  "lang": "ky",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to the son",
+      "rationale": "Ата уулуна түз кайрылат: «Уулум»."
+    },
+    {
+      "kind": "addition",
+      "subject": "өзүң",
+      "rationale": "Ивритте אתך «жаныңда» деген эреже сөзү; кыргызча «өзүң менен» толук айтылышы кошулду."
+    }
+  ],
+  "translation": "Уулум, сөздөрүмдү сактагын, жана буйруктарымды ⟨את⟩ өзүң менен жашыргын.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "332e84a698045c086648b6c62a97d1f9b3beacb6edb28ba51631e9e116a55d86",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/7\/1-4.1791217907730.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "уулум"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "сактагын"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "сөздөрүмдү"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "жана буйруктарымды"
+    },
+    {
+      "surface": "תצפן",
+      "gloss": "жашыргын"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ өзүң менен",
+      "marks": "буйруктарымды"
+    }
+  ],
+  "timestamp": "2026-10-05T16:31:47.731082108Z",
+  "model": "glm-5.3"
+}

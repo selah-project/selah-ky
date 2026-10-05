@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 1:5",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "кеч",
+      "rationale": "ערב — күндүзгө чейинки эң алгачкы караңгылык маанисинде «кеч» деп берилди"
+    },
+    {
+      "kind": "crux",
+      "subject": "бир күн",
+      "rationale": "יום אחד — «бир күн» (эсеп) же «биринчи күн» (тартип); текст «бир» дейт, сан катары сакталды"
+    }
+  ],
+  "translation": "Жана Элохим жарыкты «күн» деп атады, караңгылыкты «түн» деп атады. Жана кеч болду, жана таң болду — бир күн.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "693e2cdb49c8d71a631d95aea03e8300f2587939102fde607e7da14c153ec6ab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/1\/5-8.1791200758484.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "деп атады"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "жарыкты"
+    },
+    {
+      "surface": "יום",
+      "gloss": "күн"
+    },
+    {
+      "surface": "ולחשך",
+      "gloss": "караңгылыкты"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "атады"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "түн"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "болду"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "кеч"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "болду"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "таң"
+    },
+    {
+      "surface": "יום",
+      "gloss": "күн"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бир"
+    }
+  ],
+  "timestamp": "2026-10-05T11:45:58.485059918Z",
+  "model": "glm-5.3"
+}

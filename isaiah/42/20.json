@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 42:20",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ал",
+      "rationale": "יִשְׁמָע 3-жактык («ал укпайт»), бирок алдында 2-жак («сактабадың») — еврей текстинде жак аралашкан, кыргызча «ал» кошулду"
+    },
+    {
+      "kind": "crux",
+      "subject": "кимге айтылууда",
+      "rationale": "Жооп берүүчү — кызматчы (Изайа 52:13деги кызматчы) же сокур-дулай Ысрайыл? Жактардын аралашуу эки окууга жол ачат"
+    }
+  ],
+  "translation": "Көп нерселерди көрдүң, бирок сактабадың; кулактар ачык, бирок ал укпайт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "b678dd2df6f7c0ac58d4511db3366d559637e647432391461db891ed456b6121",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/42\/17-20.1791210180446.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ראית",
+      "gloss": "көрдүң"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "көп нерселерди"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "бирок ...байт"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "сактабадың"
+    },
+    {
+      "surface": "פקוח",
+      "gloss": "ачык"
+    },
+    {
+      "surface": "אזנים",
+      "gloss": "кулактар"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "бирок ...байт"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "укпайт"
+    }
+  ],
+  "timestamp": "2026-10-05T14:23:00.447769785Z",
+  "model": "glm-5.3"
+}

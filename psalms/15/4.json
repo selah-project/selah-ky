@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 15:4",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "להרע",
+      "rationale": "'жамандыкка' — кимге зыян келтирүүчү ант: өзүнө (KJV 'to his own hurt') же жакынына; текстте аты айтылбайт"
+    },
+    {
+      "kind": "substitution",
+      "subject": "кор",
+      "rationale": "נִמְאָס — 'түкүрүлгөн, четке кагылган' пассивдик мааниде"
+    }
+  ],
+  "translation": "Анын көзүндө жек көрүлгөн адам кор, ал эми Яхвенин корккондорун ⟨את⟩ урматтайт; жамандыкка байланышып ант ичкен, жана аны өзгөртпөйт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "7bd07a927db12a3c9f3ba9985d72ca75203c33e4e56e90f4e39c2c8eb5ed67a1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/15\/1-4.1791215508361.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נבזה",
+      "gloss": "жек көрүлгөн"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "көзүндө"
+    },
+    {
+      "surface": "נמאס",
+      "gloss": "кор"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Яхвенин корккондорун"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "корккондорун"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    },
+    {
+      "surface": "יכבד",
+      "gloss": "урматтайт"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "ант ичкен"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "жамандыкка"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "жана жок"
+    },
+    {
+      "surface": "ימר",
+      "gloss": "өзгөртөт"
+    }
+  ],
+  "timestamp": "2026-10-05T15:51:48.362493563Z",
+  "model": "glm-5.3"
+}

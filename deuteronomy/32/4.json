@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 32:4",
+  "book": "deuteronomy",
+  "lang": "ky",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨бар⟩",
+      "rationale": "Кыргызча түзүлүш 'залымдыгы жок' дегенди талап кылат"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Аска",
+      "rationale": "הצור — 'кудурук' деген сөздүн ордунда 'аска' алынды; Яхвеге берилген даража катары"
+    }
+  ],
+  "translation": "Аска — Анын иши так, анткени Анын жолдорунун баары өкүм, ишенимдүү Эл ⟨бар⟩ залымдыгы жок — ал адилет жана түз.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "5ea134ecc658e6dcff41e48ec371637446f66eb77588760d54d8fcd24bfc9dfd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/32\/1-4.1791205460823.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הצור",
+      "gloss": "Аска"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "так"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "Анын иши"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "כל",
+      "gloss": "баары"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "жолдору"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "өкүм"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эл"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "ишенимдүү"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "жана ... жок"
+    },
+    {
+      "surface": "עול",
+      "gloss": "залымдык"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "адилет"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "жана түз"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ал"
+    }
+  ],
+  "timestamp": "2026-10-05T13:04:20.824225016Z",
+  "model": "glm-5.3"
+}

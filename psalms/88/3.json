@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 88:3",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 88,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "кулагыңды тик",
+      "rationale": "עזן הטה — `кулагыңды жайды` деген еврейче турмуштук туюнтма, `күбө бол` деген мааниде."
+    },
+    {
+      "kind": "invitation",
+      "subject": "кудурет",
+      "rationale": "Аят буйрук түрүндөгү жалборуу — Яхвени уккуса чакырат."
+    }
+  ],
+  "translation": "Менин тиленүүм Сенин жүзүңө келсин, кулагыңды менин ыйлаган үнүмө жакын тик.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "e9be61345a0526ae278b5e0ab0a1d76c8f25951a4be1da4f53fd5cee2af8d07f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/88\/1-4.1791216768676.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "келсин"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "Сенин жүзүңө"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "тиленүүм"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "тик"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "кулагыңды"
+    },
+    {
+      "surface": "לרנתי",
+      "gloss": "ыйлаган үнүмө"
+    }
+  ],
+  "timestamp": "2026-10-05T16:12:48.676903065Z",
+  "model": "glm-5.3"
+}

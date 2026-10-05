@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 21:9",
+  "book": "leviticus",
+  "lang": "ky",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "תחל \/ מחללת",
+      "rationale": "Бир э э тамыр חלל эки жолу — «баштоо» эмес, «бузуу» маанисинде кайталанат."
+    },
+    {
+      "kind": "substitution",
+      "subject": "баштаса",
+      "rationale": "תחל бул жерде «баштайт» эмес, «бузулат» деген мааниде; кыргызча «зынаалыкка баштаса» деп берилди."
+    }
+  ],
+  "translation": "Жана ыйык кызматкердин кызы эгер зынаалык кылууга баштаса, ⟨את⟩ өз атасын ал бузат — отдо өрттөлөт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "46bacfb42598c7b8fbceb1967d255406ba4b6589d103c6b935c13d32c4bcc9b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/21\/9-12.1791203333812.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובת",
+      "gloss": "Жана кызы"
+    },
+    {
+      "surface": "איש",
+      "gloss": "адамдын"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "ыйык кызматкер"
+    },
+    {
+      "surface": "כי",
+      "gloss": "эгер"
+    },
+    {
+      "surface": "תחל",
+      "gloss": "баштаса"
+    },
+    {
+      "surface": "לזנות",
+      "gloss": "зынаалык кылууга"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "өз атасын"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "атасын"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ал"
+    },
+    {
+      "surface": "מחללת",
+      "gloss": "бузат"
+    },
+    {
+      "surface": "באש",
+      "gloss": "отдо"
+    },
+    {
+      "surface": "תשרף",
+      "gloss": "өрттөлөт"
+    }
+  ],
+  "timestamp": "2026-10-05T12:28:53.813096615Z",
+  "model": "glm-5.3"
+}

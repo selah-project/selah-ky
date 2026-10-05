@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 21:18",
+  "book": "1-kings",
+  "lang": "ky",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "Тур, төмөн түш",
+      "rationale": "Яхве Элияхуну буйрук менен чакырат"
+    },
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "rationale": "относительный байлам орусча-сыз кыргызча структурада жутулган"
+    }
+  ],
+  "translation": "Тур, төмөн түш, Ысраэлдин падышасы Ахаб менен жолугушууга — Шомрондо турганга; ал турган жерде Наботтун жүзүмзарында, ал ошол жерге аны ээлеп алуу үчүн түшкөн.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "cfe06adb1a864f03155dbb52bc2b021c86bd30e3218163e2ab62e5f8da3b78df",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-kings\/21\/17-20.1791208534486.json",
+    "code": "641241cf-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "тур"
+    },
+    {
+      "surface": "רד",
+      "gloss": "төмөн түш"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "жолугушууга"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ахаб"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "падышасы"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ысраэлдин"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "Шомрондо"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ал турган жерде"
+    },
+    {
+      "surface": "בכרם",
+      "gloss": "жүзүмзарында"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Наботтун"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ошол"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "түшкөн"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ошол жерге"
+    },
+    {
+      "surface": "לרשתו",
+      "gloss": "ээлеп алуу үчүн"
+    }
+  ],
+  "timestamp": "2026-10-05T13:55:34.487100003Z",
+  "model": "glm-5.3"
+}

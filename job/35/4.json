@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 35:4",
+  "book": "job",
+  "lang": "ky",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "ואת",
+      "rationale": "тике объект белгиси ⟨את⟩ катары сакталды, кыргызча айрым мааниси жок"
+    },
+    {
+      "kind": "you",
+      "subject": "Иовго",
+      "rationale": "Элиху Иовго жана анын досторуна түз кайрылат"
+    }
+  ],
+  "translation": "Мен сага сөздөргө жооп берем, жана ⟨את⟩ досторуңду — сен менен бирге.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "e04816e5d1a8957923456f5248ca98dffef2dba5d3f6ce0ef87a2b9cbcfb6711",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/job\/35\/1-4.1791219315180.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "мен"
+    },
+    {
+      "surface": "אשיבך",
+      "gloss": "сага жооп берем"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "сөздөргө"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "досторуңду"
+    },
+    {
+      "surface": "רעיך",
+      "gloss": "досторуңду"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "сен менен бирге"
+    }
+  ],
+  "timestamp": "2026-10-05T16:55:15.181467849Z",
+  "model": "glm-5.3"
+}

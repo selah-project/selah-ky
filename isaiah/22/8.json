@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 22:8",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מסך יהודה",
+      "rationale": "«Йегуданын жабуусу» — жашыруун коргонуу (канаттар, чептер) экени боюнча болжол; BSB «коргонуулар» деп алат."
+    },
+    {
+      "kind": "substitution",
+      "subject": "алды таштады",
+      "rationale": "ויגל «жангыз калдырды, жалаңдатты» дегет; кыргызча бир этиш менен берилди."
+    }
+  ],
+  "translation": "Жана ал ⟨את⟩ Йегуданын жабуусун алды таштады, жана ошол күнү сен Токой Үйүнүн куралдарына карадың.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "5e60c3386a33758406e16863b733503e5a9ad1d21342715a4229d3989fe49853",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/22\/5-8.1791209730411.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "жана алды таштады"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Йегуданын жабуусун"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "жабуусун"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Йегуданын"
+    },
+    {
+      "surface": "ותבט",
+      "gloss": "жана карадың"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "күнү"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ошол"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-га"
+    },
+    {
+      "surface": "נשק",
+      "gloss": "куралдарына"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Үйүнүн"
+    },
+    {
+      "surface": "היער",
+      "gloss": "Токой"
+    }
+  ],
+  "timestamp": "2026-10-05T14:15:30.412577565Z",
+  "model": "glm-5.3"
+}

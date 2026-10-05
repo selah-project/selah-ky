@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 18:14",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "алыспы",
+      "rationale": "היפלא букв. «өзгөчө болобу, табышмактырбы» — кыргызча суроо формасы үчүн «алыспы» делинди."
+    },
+    {
+      "kind": "crux",
+      "subject": "כעת חיה",
+      "rationale": "«жашоо убактысы» — келеси жылда, тирүүлүктүн кайтуу мезгилинде; айрымдар «жылдын ошол мезгилинде» деп берет."
+    },
+    {
+      "kind": "mystery",
+      "subject": "Яхведен бир нерсе алыспы?",
+      "rationale": "риторикалык суроо — жообу айтылбайт, күмөн сандын өзүнө коюлат."
+    }
+  ],
+  "translation": "Яхведен бир нерсе алыспы? Белгиленген убакта мен сага кайтып келем, жашоо убактысысында, жана Саррага уул болот.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "e7cfd20fb23b819e52f4bb8dae36f08279c60579165b1da5948e9cc1d3f916de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/18\/13-16.1791201009733.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "היפלא",
+      "gloss": "алыспы"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "Яхведен"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "нерсе"
+    },
+    {
+      "surface": "למועד",
+      "gloss": "белгиленген убакта"
+    },
+    {
+      "surface": "אשוב",
+      "gloss": "кайтып келем"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "сага"
+    },
+    {
+      "surface": "כעת",
+      "gloss": "убактысысында"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "жашоо"
+    },
+    {
+      "surface": "ולשרה",
+      "gloss": "жана Саррага"
+    },
+    {
+      "surface": "בן",
+      "gloss": "уул"
+    }
+  ],
+  "timestamp": "2026-10-05T11:50:09.733751034Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "jeremiah 48:45",
+  "book": "jeremiah",
+  "lang": "ky",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מכח נסים",
+      "rationale": "'качкындар күчсүз турду' (JPS, YLT) менен 'күчтүн коркунучунан' (KJV) деген эки окуу бар."
+    },
+    {
+      "kind": "substitution",
+      "subject": "בני שאון",
+      "rationale": "'шоо-шуйдун уулдары' — букв. ызы-чуунун уулдары, дүрбөлөңдүү адамдар деген мааниде."
+    },
+    {
+      "kind": "alternative",
+      "subject": "ותאכל",
+      "rationale": "жеп койду — өткүн чакта, бирок контекст боюнча келерче маани да мүмкүн (KJV)."
+    }
+  ],
+  "translation": "Хешбондун көлөкөсүндө күчсүз калган качкындар турду, анткени Хешбондон от чыкты жана Сихондун ичинен жалын чыкты, ал Моавдун четин жана шоо-шуйдун уулдарынын төбөсүн жеп койду.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "6cb92da64743d05447655573a1c03339e74df16f4a2bd00b78361be3c45b5f07",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/jeremiah\/48\/45-47.1791211884537.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בצל",
+      "gloss": "көлөкөсүндө"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "Хешбондун"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "турду"
+    },
+    {
+      "surface": "מכח",
+      "gloss": "күчсүз"
+    },
+    {
+      "surface": "נסים",
+      "gloss": "качкындар"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "אש",
+      "gloss": "от"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "чыкты"
+    },
+    {
+      "surface": "מחשבון",
+      "gloss": "Хешбондон"
+    },
+    {
+      "surface": "ולהבה",
+      "gloss": "жана жалын"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "ичинен"
+    },
+    {
+      "surface": "סיחון",
+      "gloss": "Сихондун"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "жана жеп койду"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "четин"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моавдун"
+    },
+    {
+      "surface": "וקדקד",
+      "gloss": "жана төбөсүн"
+    },
+    {
+      "surface": "בני",
+      "gloss": "уулдарынын"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "шоо-шуйдун"
+    }
+  ],
+  "timestamp": "2026-10-05T14:51:24.538256979Z",
+  "model": "glm-5.3"
+}

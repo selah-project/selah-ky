@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 118:14",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 118,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "זמרת",
+      "rationale": "Бул форма Танахта ушул жерде гана кездешет: «мактан ыр» (Ыйык Китеп салты) же «коргоо-кубат» (зимрáт = камор, Танахтын өз ички байланышы) деген эки окуу бар"
+    },
+    {
+      "kind": "hapax",
+      "subject": "זמרת",
+      "rationale": "зимрáт Танахта бир гана жерде ушул формада кездешет"
+    },
+    {
+      "kind": "substitution",
+      "subject": "куткаруу",
+      "rationale": "йешуа — «куткаруу, жеңиш»; бул жерде ысым эмес, зат"
+    }
+  ],
+  "translation": "Менин күч-кубатым жана макталышым — Ях, ал мага кубулушту.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "2aeaca3382c2a5175a83394d03f395865dafa17d1116cce07f895350419817b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/118\/13-16.1791217271510.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עזי",
+      "gloss": "менин күч-кубатым"
+    },
+    {
+      "surface": "וזמרת",
+      "gloss": "жана макталышым"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ях"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ал кубулушту"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мага"
+    },
+    {
+      "surface": "לישועה",
+      "gloss": "куткарууга"
+    }
+  ],
+  "timestamp": "2026-10-05T16:21:11.511545626Z",
+  "model": "glm-5.3"
+}

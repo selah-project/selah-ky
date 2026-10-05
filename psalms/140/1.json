@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 140:1",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 140,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "למנצח",
+      "rationale": "музыкалык белги — «хор жетекчисине» деген кеңештик котормо, байыркы аткаруу термининин так мааниси билинбейт"
+    }
+  ],
+  "translation": "Хор жетекчисине. Мизмор, Давиддин.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "32e3063b81051368d8f9b67f6dc106f4a46ecb935a48160577bf6111a226253f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/140\/1-4.1791217556399.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "хор жетекчисине"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "мизмор"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давиддин"
+    }
+  ],
+  "timestamp": "2026-10-05T16:25:56.400494025Z",
+  "model": "glm-5.3"
+}

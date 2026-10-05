@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 15:8",
+  "book": "judges",
+  "lang": "ky",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "tizeni sanıŋa čeyin",
+      "rationale": "שוק על ירך букв. 'тизе сандын үстүнө' — толук кыргыча идиома жок, формасы сакталды"
+    },
+    {
+      "kind": "elision",
+      "subject": "על",
+      "rationale": "׳…на״ деген前置词 кыргызча 'чейин' конструкциясында ичине сиңип кетти"
+    },
+    {
+      "kind": "substitution",
+      "subject": "toо-tekesi",
+      "rationale": "סלע עיטם — Этам тоо-текеси; 'Этам тоосунун жарыгы' да болот"
+    }
+  ],
+  "translation": "Жана ал ⟨את⟩ аларды тизени санына чейин соккуруп — чоң сокку менен, анан түшүп, Этам тоо-текенинин жарыгында отуруп калды.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "024baec13ff4017fcea7a12ff248d8b6972fed57fe72dc7af77a7d745ef65cf5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/judges\/15\/8-8.1791223822989.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "соккуруп"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "аларды"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "тизени"
+    },
+    {
+      "surface": "על",
+      "gloss": "…на"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "санына"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "сокку"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "чоң"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "түшүп"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "отуруп калды"
+    },
+    {
+      "surface": "בסעיף",
+      "gloss": "жарыгында"
+    },
+    {
+      "surface": "סלע",
+      "gloss": "тоо-текесинин"
+    },
+    {
+      "surface": "עיטם",
+      "gloss": "Этам"
+    }
+  ],
+  "timestamp": "2026-10-05T18:10:22.990394276Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 1:15",
+  "book": "leviticus",
+  "lang": "ky",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ומלק",
+      "rationale": "'Мойнун сындыруу' (башын ажыратпай) деген атайын术语: 'мойнун буруп үзүү' менен 'басып сындыруу' варианттары бар"
+    },
+    {
+      "kind": "addition",
+      "subject": "чарасында",
+      "rationale": "Ивритте 'үстүндө' предлоги жок"
+    }
+  ],
+  "translation": "Жана ыйык кызмат кылуучу аны курмандык чарасына алып келсин, ⟨את⟩ башын сындырып алсын жана курмандык ⟨чарасында⟩ түтөтсүн, жана анын каны курмандык чарасынын дубалына саркып түшсүн.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "8274a7219c2d6dc9f2d6bb90c82f52c357fcabf3663bc7c07cf77f9391902909",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/1\/13-16.1791202830141.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והקריבו",
+      "gloss": "алып келсин"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ыйык кызмат кылуучу"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ка"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "курмандык чарасына"
+    },
+    {
+      "surface": "ומלק",
+      "gloss": "сындырып алсын"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "башын"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "башын"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "түтөтсүн"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "курмандык ⟨чарасында⟩"
+    },
+    {
+      "surface": "ונמצה",
+      "gloss": "саркып түшсүн"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "анын каны"
+    },
+    {
+      "surface": "על",
+      "gloss": "…га"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "дубалына"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "курмандык чарасынын"
+    }
+  ],
+  "timestamp": "2026-10-05T12:20:30.142532704Z",
+  "model": "glm-5.3"
+}

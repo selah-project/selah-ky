@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 104:26",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 104,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Левиатан",
+      "rationale": "לויתן: крокодил, кит же мифтик жылан деп талашылат; ысым айтылышында калды."
+    },
+    {
+      "kind": "substitution",
+      "subject": "жасадың",
+      "rationale": "יצרת — чоподой калыпка салуу, жаратуучунун колу менен жасоо сүрөтү."
+    }
+  ],
+  "translation": "Ал жерде кемелер жүрөт; бул Левиатанды Сен анда ойноо үчүн жасадың.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "a10f68254273223205028554c75dfe0516cce489273eb2984a69399cb2f79be9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/104\/25-28.1791217031391.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "ал жерде"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "кемелер"
+    },
+    {
+      "surface": "יהלכון",
+      "gloss": "жүрөт"
+    },
+    {
+      "surface": "לויתן",
+      "gloss": "Левиатан"
+    },
+    {
+      "surface": "זה",
+      "gloss": "бул"
+    },
+    {
+      "surface": "יצרת",
+      "gloss": "жасадың"
+    },
+    {
+      "surface": "לשחק",
+      "gloss": "ойноо үчүн"
+    },
+    {
+      "surface": "בו",
+      "gloss": "анда"
+    }
+  ],
+  "timestamp": "2026-10-05T16:17:11.392288377Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 107:3",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "деңизден",
+      "rationale": "ומים — «деңизден» (YLT, JPS) же «түштүктөн» (KJV, ASV: деңиз = түштүк тарап); латынча текст боюнча «деңиз» берилди"
+    }
+  ],
+  "translation": "жана өлкөлөрдөн чогултту аларды чыгыштан жана батыштан, түндүктөн жана деңизден.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "d9140e39ef3ab1a1c18ad99e6f9c6a87ba0ea4d72d4b275cb29a212149e09013",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/107\/1-4.1791217136599.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומארצות",
+      "gloss": "жана өлкөлөрдөн"
+    },
+    {
+      "surface": "קבצם",
+      "gloss": "чогултту аларды"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "чыгыштан"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "жана батыштан"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "түндүктөн"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "жана деңизден"
+    }
+  ],
+  "timestamp": "2026-10-05T16:18:56.603709944Z",
+  "model": "glm-5.3"
+}

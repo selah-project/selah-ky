@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 122:5",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 122,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "турган",
+      "rationale": "ישבו эшитилген衰 падежде «отурат» да болот; «орнотулган» деген окууга каршы «турган» түздөн-түз отуруу маанисин сактайт"
+    },
+    {
+      "kind": "measurement",
+      "subject": "тахарлар",
+      "rationale": "Өкүм үчүн тахарлардын көптүк саны — сот бийлигинин көп орундуу түзүлүшү"
+    }
+  ],
+  "translation": "Анткени ал жерде өкүм үчүн тахарлар турган, Давиддин үйүнүн тахарлары.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "14184fee368cd1ac8bb7e05239d149d4f3e46268a5915a20954dda9a634b60d8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/122\/5-8.1791217496912.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ал жерде"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "турган"
+    },
+    {
+      "surface": "כסאות",
+      "gloss": "тахарлар"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "өкүм үчүн"
+    },
+    {
+      "surface": "כסאות",
+      "gloss": "тахарлары"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "үйүнүн"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    }
+  ],
+  "timestamp": "2026-10-05T16:24:56.913591044Z",
+  "model": "glm-5.3"
+}

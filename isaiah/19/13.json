@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 19:13",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "пиннат шевтеhа",
+      "rationale": "«урууларынын бурчу» — көчмө мааниде «башчы» да болушу мүмкүн; башкалар «таяктарынын тирөөсү» деп да беришет."
+    },
+    {
+      "kind": "substitution",
+      "subject": "уруу",
+      "rationale": "שבט — «таяк» деген сөз, уруу\/кол маанисинде көчмө колдонулат."
+    }
+  ],
+  "translation": "Цоандын башчылары акмак болушту, Нофтун башчылары алдашты; алар ⟨את⟩ Мицрайимди адаштырышты, анын урууларынын бурчтары.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "5fabc8087edf6a27b3969907c2c408d1bd9b295faadc7a1a922b88b08a633a4f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/19\/13-16.1791209685831.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נואלו",
+      "gloss": "акмак болушту"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "башчылары"
+    },
+    {
+      "surface": "צען",
+      "gloss": "Цоандын"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "алдашты"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "башчылары"
+    },
+    {
+      "surface": "נף",
+      "gloss": "Нофтун"
+    },
+    {
+      "surface": "התעו",
+      "gloss": "адаштырышты"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Мицрайимди"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицрайимди"
+    },
+    {
+      "surface": "פנת",
+      "gloss": "бурчтары"
+    },
+    {
+      "surface": "שבטיה",
+      "gloss": "анын урууларынын"
+    }
+  ],
+  "timestamp": "2026-10-05T14:14:45.832526216Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 33:11",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "бата",
+      "rationale": "ברכתי — 'батам' (благословение-тартуу); Эсавга бериле турган бата тартуу катары."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רב \/ כל",
+      "rationale": "Эсав 'мага רב бар' дейт (9-аят), Яаков 'мага כל бар' дейт — жооп катары өтмө маани."
+    },
+    {
+      "kind": "alternative",
+      "subject": "ויפצר",
+      "rationale": "'Анын үстүнөн турду' — литералдуу 'чумкуп урду' деген сөз; 'кысуу, талап кылуу' мааниси да мүмкүн."
+    }
+  ],
+  "translation": "Суранам, ⟨את⟩ батамды ал — ал сага алынып келди, анткени Элохим мага ырайым кылды, жана анткени менин баарысы бар. Ал анын үстүнөн турду, жана ал алды.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "333a24794fc12b50d81dd7f3ce70cd0af648638b7cedd28779b9dd6fb71bdd76",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/33\/9-12.1791201369251.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "ал"
+    },
+    {
+      "surface": "נא",
+      "gloss": "суранам"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "батамды"
+    },
+    {
+      "surface": "ברכתי",
+      "gloss": "батамды"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ал"
+    },
+    {
+      "surface": "הבאת",
+      "gloss": "алынып келди"
+    },
+    {
+      "surface": "לך",
+      "gloss": "сага"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "ырайым кылды"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "жана анткени"
+    },
+    {
+      "surface": "יש",
+      "gloss": "бар"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мага"
+    },
+    {
+      "surface": "כל",
+      "gloss": "баарысы"
+    },
+    {
+      "surface": "ויפצר",
+      "gloss": "турду"
+    },
+    {
+      "surface": "בו",
+      "gloss": "анын үстүнөн"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "алды"
+    }
+  ],
+  "timestamp": "2026-10-05T11:56:09.252176712Z",
+  "model": "glm-5.3"
+}

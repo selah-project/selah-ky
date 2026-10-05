@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 12:3",
+  "book": "ecclesiastes",
+  "lang": "ky",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "карган карыганчылык transferringи",
+      "rationale": "Бул аяттагы «үйдү кайтаргандар» (колдор), «күчтүү кишилер» (буттар), «тегирмендер» (тиштер), «терезеден көрүүчүлөр» (көздөр) — карыган адамдын transferringи; жөн гана үй күзөтчүлөрү эмес"
+    },
+    {
+      "kind": "alternative",
+      "subject": "терелерде",
+      "rationale": "הארבות литералдуу «торлоолор \/ чытырлар»; «терезелер» transferring катары тандылды"
+    }
+  ],
+  "translation": "Үйдү кайтаргандар калтыраган күнү, күчтүү кишилер ийилгенде, тегирмендер азайгандыктан токтогондо, торлоболордөн көрүүчүлөр карарганда.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "2238545a3ef1695f438d24eebaac952d1714a0c551225e507539f7b9da94679b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ecclesiastes\/12\/1-4.1791220217104.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "күнү"
+    },
+    {
+      "surface": "שיזעו",
+      "gloss": "калтыраган"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "кайтаргандар"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "үйдү"
+    },
+    {
+      "surface": "והתעותו",
+      "gloss": "жана ийилгенде"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "кишилери"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "күчтүү"
+    },
+    {
+      "surface": "ובטלו",
+      "gloss": "жана токтогондо"
+    },
+    {
+      "surface": "הטחנות",
+      "gloss": "тегирмендер"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "מעטו",
+      "gloss": "азайган"
+    },
+    {
+      "surface": "וחשכו",
+      "gloss": "жана карарганда"
+    },
+    {
+      "surface": "הראות",
+      "gloss": "көрүүчүлөр"
+    },
+    {
+      "surface": "בארבות",
+      "gloss": "терезелерде"
+    }
+  ],
+  "timestamp": "2026-10-05T17:10:17.105946670Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 19:12",
+  "book": "1-kings",
+  "lang": "ky",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "דממה דקה",
+      "rationale": "«Тынч жука үн» — «абдан жөнөкөй шыбыраган үн», «кулагына урган тынчтык» деген варианттар да бар"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אחר… ואחר",
+      "rationale": "«Кийин» деген сөздүн кайталанышы — үч кубулуштун ыргактуу тизмеги"
+    }
+  ],
+  "translation": "Жана дүрбөлөңдөн кийин от — Яхве отто жок; жана оттон кийин тынч, жука үн.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "66be424d0aaf562f1d9b295ea91326dc9473343133ffd5d58af94cabf5c6bae9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-kings\/19\/9-12.1791208515715.json",
+    "code": "641241cf-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "Жана … кийин"
+    },
+    {
+      "surface": "הרעש",
+      "gloss": "дүрбөлөңдөн"
+    },
+    {
+      "surface": "אש",
+      "gloss": "от"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "באש",
+      "gloss": "отто"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "жана … кийин"
+    },
+    {
+      "surface": "האש",
+      "gloss": "оттон"
+    },
+    {
+      "surface": "קול",
+      "gloss": "үн"
+    },
+    {
+      "surface": "דממה",
+      "gloss": "тынч"
+    },
+    {
+      "surface": "דקה",
+      "gloss": "жука"
+    }
+  ],
+  "timestamp": "2026-10-05T13:55:15.716578697Z",
+  "model": "glm-5.3"
+}

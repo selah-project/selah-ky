@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 61:3",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 61,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Сен",
+      "rationale": "תנחני этиштин субъектиси кыргызча тактоо үчүн кошулду"
+    },
+    {
+      "kind": "crux",
+      "subject": "בעטף לבי",
+      "rationale": "'жүрөк оролгондо\/кабылганда' — жүрөк жабылып калса деген образ; 'баш айланганда' деген вариант да бар"
+    }
+  ],
+  "translation": "Жердин четинен Сага чакырам, жүрөгүм кабылганда, менден бийик зоого Сен мени алып бар.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "2a36bc2a0bee8f8154aa229e500fe67ac96f77f6f4bb574fa6d5ac0ccb4ea75f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/61\/1-4.1791216342078.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מקצה",
+      "gloss": "четинен"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "жердин"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "Сага"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "чакырам"
+    },
+    {
+      "surface": "בעטף",
+      "gloss": "кабылганда"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "жүрөгүм"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "зоого"
+    },
+    {
+      "surface": "ירום",
+      "gloss": "бийик"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "менден"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "Сен мени алып бар"
+    }
+  ],
+  "timestamp": "2026-10-05T16:05:42.079796138Z",
+  "model": "glm-5.3"
+}

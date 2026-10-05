@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 76,
+  "ref": "psalms 119:76",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "נא",
+      "rationale": "жумшактык билдиргич 'наа' кыргызча толук эквивалентсиз, транслитерация менен сакталды"
+    },
+    {
+      "kind": "substitution",
+      "subject": "хесед",
+      "rationale": "חסד сөзү которулбай 'хесед' деп берилди — ырайым жана ишенимдүү мамиле камтыган атайын термин"
+    }
+  ],
+  "translation": "Болсун наа, Сенин хеседиң мени жубатуу үчүн, Сенин кулуңа айткан сөзүңө ылайык.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "46f8de14e78cfb5e23511b2a2f66feec5d4c8bfa32810a665daaa2ee44872858",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/119\/73-76.1791217351745.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "Болсун"
+    },
+    {
+      "surface": "נא",
+      "gloss": "наа"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "хеседиң"
+    },
+    {
+      "surface": "לנחמני",
+      "gloss": "мени жубатуу үчүн"
+    },
+    {
+      "surface": "כאמרתך",
+      "gloss": "Сенин айткан сөзүңө ылайык"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "кулуңа"
+    }
+  ],
+  "timestamp": "2026-10-05T16:22:31.746740053Z",
+  "model": "glm-5.3"
+}

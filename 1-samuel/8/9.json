@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 8:9",
+  "book": "1-samuel",
+  "lang": "ky",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "העד תעיד",
+      "rationale": "Этsame тамырдын кайталанышы (עוד\/עוד), кыргызча бир сөз менен берилди."
+    },
+    {
+      "kind": "elision",
+      "subject": "כי",
+      "rationale": "אך כי байланышы кыргызча 'бирок' деген бир сөзгө сиңди."
+    },
+    {
+      "kind": "crux",
+      "subject": "משפט המלך",
+      "rationale": "'Падышанын өкүмү' же 'падышанын жүрүм-туруму': мисалдар 'manner' деп берет, D2 боюнча משפט — өкүм."
+    }
+  ],
+  "translation": "Ал эми азыр алардын үнүн уг, бирок сен аларга күбөлүк бер, жана аларга өзүлөрүнүн үстүнөн падыша болочу өкүмүн айтып бер».",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "00ed4f9e203c4225df3114edbf866bf95f425e3a7ec6d77d95346c7180b51cb2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-samuel\/8\/9-12.1791206637313.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ал эми азыр"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "уг"
+    },
+    {
+      "surface": "בקולם",
+      "gloss": "алардын үнүн"
+    },
+    {
+      "surface": "אך",
+      "gloss": "бирок"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "העד",
+      "gloss": "күбөлүк бер"
+    },
+    {
+      "surface": "תעיד",
+      "gloss": "күбөлүк бер"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "аларга"
+    },
+    {
+      "surface": "והגדת",
+      "gloss": "жана айтып бер"
+    },
+    {
+      "surface": "להם",
+      "gloss": "аларга"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "өкүмүн"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "падыша"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "болочу"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "падыша болоор"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "өзүлөрүнүн үстүнөн"
+    }
+  ],
+  "timestamp": "2026-10-05T13:23:57.314361077Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 14:2",
+  "book": "jeremiah",
+  "lang": "ky",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "каардылар",
+      "rationale": "קדרו букв. «күйө түскө айланды» (күлдөй караары), кыргызча «каарда» деген сүрөт берилди"
+    },
+    {
+      "kind": "crux",
+      "subject": "קדרו לארץ",
+      "rationale": "«жерге каардылар» \/ «жерде отуруп каардылар» (асв, jps) —brew мактоо жөнүндө эмес, түс жөнүндө"
+    }
+  ],
+  "translation": "Йехуда жоктоду, анын дарбазалары солушту, жерге каардылар, жана Йерушалайымдын чыңырыгы көтөрүлдү.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "8be7a473886fbc27771ac13151b7ed451b651bdc64e96b2e306d864874078014",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/jeremiah\/14\/1-4.1791211076529.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אבלה",
+      "gloss": "жоктоду"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Йехуда"
+    },
+    {
+      "surface": "ושעריה",
+      "gloss": "жана анын дарбазалары"
+    },
+    {
+      "surface": "אמללו",
+      "gloss": "солушту"
+    },
+    {
+      "surface": "קדרו",
+      "gloss": "каардылар"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "жерге"
+    },
+    {
+      "surface": "וצוחת",
+      "gloss": "жана чыңырыгы"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Йерушалайымдын"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "көтөрүлдү"
+    }
+  ],
+  "timestamp": "2026-10-05T14:37:56.530493226Z",
+  "model": "glm-5.3"
+}

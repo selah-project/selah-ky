@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "hosea 13:14",
+  "book": "hosea",
+  "lang": "ky",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "суроо же жарыя",
+      "rationale": "Ариптер Wh-суроо же жарыя экени белгисиз: 'Мен куткарамын' (KJV) же 'Куткарып берейинби?' (JPS, суроо формасында)"
+    },
+    {
+      "kind": "crux",
+      "subject": "אהי",
+      "rationale": "'Кайда?' же 'Мен боломун' — KJV 'Мен сениң жазаң боломун' деп, YLT\/JPS суроо деп окуйт"
+    },
+    {
+      "kind": "substitution",
+      "subject": "жаза",
+      "rationale": "דבר — жай 'сөз' эмес, 'чума\/жаза' деген мааниде"
+    }
+  ],
+  "translation": "Шеолдун колунан аларды куткарып берейинби, өлүмдөн аларды жахшырайынбы? Кайда сениң жазаң, өлүм? Кайда сениң кырышың, Шеол? Боор толгоо менин көзүмдөн жашырылат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "5598ed3bafb309bd18a2ce30f873958ce9d718627ef7bab56bdcdb0c13571ba7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/hosea\/13\/13-15.1791213963612.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מיד",
+      "gloss": "колунан"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шеолдун"
+    },
+    {
+      "surface": "אפדם",
+      "gloss": "куткарып берейинби"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "өлүмдөн"
+    },
+    {
+      "surface": "אגאלם",
+      "gloss": "жахшырайынбы"
+    },
+    {
+      "surface": "אהי",
+      "gloss": "кайда"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "сениң жазаң"
+    },
+    {
+      "surface": "מות",
+      "gloss": "өлүм"
+    },
+    {
+      "surface": "אהי",
+      "gloss": "кайда"
+    },
+    {
+      "surface": "קטבך",
+      "gloss": "сениң кырышың"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шеол"
+    },
+    {
+      "surface": "נחם",
+      "gloss": "боор толгоо"
+    },
+    {
+      "surface": "יסתר",
+      "gloss": "жашырылат"
+    },
+    {
+      "surface": "מעיני",
+      "gloss": "менин көзүмдөн"
+    }
+  ],
+  "timestamp": "2026-10-05T15:26:03.613536734Z",
+  "model": "glm-5.3"
+}

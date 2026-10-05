@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 65:4",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 65,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жабасың",
+      "rationale": "כפר — 'жабуу, жазоо'; кечирим эмес, үстүн жабуу сүрөтү сакталды"
+    }
+  ],
+  "translation": "Күнөөлөрдүн иштери мага басым салды; биздин чектен чыгууларыбызды Сен ⟨жабасың⟩.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "d3aff8c50347acb0f564b73a480599286c9e131652b5fb885b167de99e50ebde",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/65\/1-4.1791216336207.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "иштери"
+    },
+    {
+      "surface": "עונת",
+      "gloss": "күнөөлөрдүн"
+    },
+    {
+      "surface": "גברו",
+      "gloss": "басым салды"
+    },
+    {
+      "surface": "מני",
+      "gloss": "мага"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "чектен чыгууларыбызды"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Сен"
+    },
+    {
+      "surface": "תכפרם",
+      "gloss": "жабасың"
+    }
+  ],
+  "timestamp": "2026-10-05T16:05:36.208174512Z",
+  "model": "glm-5.3"
+}

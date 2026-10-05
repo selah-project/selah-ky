@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 107:12",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "כשלו",
+      "rationale": "букв. 'буттары тайып жыгылды' — тамандын тайышуусунан келген тамыр, сөз оюну кыргызча 'тайгак' деген сөз менен жартылай сакталды"
+    }
+  ],
+  "translation": "Жана Ал алардын жүрөгүн оор эмгек менен басынтты — алар тайгак басып калды, жана жардам берүүчү жок болду.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "fa2b43ed24c66df6cd26b57e8a2bfa3111682000e5d407cf23a768b653f78263",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/107\/9-12.1791217082420.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויכנע",
+      "gloss": "басынтты"
+    },
+    {
+      "surface": "בעמל",
+      "gloss": "оор эмгек"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "жүрөгүн"
+    },
+    {
+      "surface": "кשלו",
+      "gloss": "тайгак басып калды"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "жана жок"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "жардам берүүчү"
+    }
+  ],
+  "timestamp": "2026-10-05T16:18:02.423463562Z",
+  "model": "glm-5.3"
+}

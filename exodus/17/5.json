@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 17:5",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אתך",
+      "rationale": "אִתְּךָ 'өзүң менен' деген жакындык предлоги — ⟨את⟩ белгиси менен берилди"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Нил",
+      "rationale": "הַיְאֹר — дарыя (Египеттин дарыясы), кыргызча жалпы 'дарыя' эмес, Нил деп аталды"
+    }
+  ],
+  "translation": "Жана Яхве Мошеге айтты: Элдин алдына өтпө, өзүң ⟨את⟩ менен Йисраэлдин карыларынан алып, ⟨את⟩ Нилди соккон таягыңды колуңда алып жөнө.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "7e78027adb3d36194806cf10711d6951d13e359e6477e78fe9901aae15ca4c7a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/17\/5-8.1791202220192.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "жана айтты"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…га"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "өт"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "алдында"
+    },
+    {
+      "surface": "העם",
+      "gloss": "элдин"
+    },
+    {
+      "surface": "וקח",
+      "gloss": "жана ал"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ менен"
+    },
+    {
+      "surface": "מזקני",
+      "gloss": "карыларынан"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэлдин"
+    },
+    {
+      "surface": "ומטך",
+      "gloss": "жана таягыңды"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ал"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "сокконсуң"
+    },
+    {
+      "surface": "בו",
+      "gloss": "аны менен"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Нилди"
+    },
+    {
+      "surface": "היאור",
+      "gloss": "Нилди"
+    },
+    {
+      "surface": "קח",
+      "gloss": "ал"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "колуңда"
+    },
+    {
+      "surface": "והלכת",
+      "gloss": "жана жөнө"
+    }
+  ],
+  "timestamp": "2026-10-05T12:10:20.193004050Z",
+  "model": "glm-5.3"
+}

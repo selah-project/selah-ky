@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 78:50",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жан",
+      "rationale": "נפש букв. «дем алуучу жандык \/ тамагы» — жаны-күч, жан деген сөздөн кенжилейт"
+    }
+  ],
+  "translation": "Ал өз ачуусуна жол даярдады; алардын жанын өлүмдөн аябады, алардын жашоосун обоого тапшырды.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "e5c7cce20cd82460be456a416232e884abb74c42f60b5975ddb9b876424937ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/78\/49-52.1791216616702.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יפלס",
+      "gloss": "даярдады"
+    },
+    {
+      "surface": "נתיב",
+      "gloss": "жол"
+    },
+    {
+      "surface": "לאפו",
+      "gloss": "өз ачуусуна"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "аябады"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "өлүмдөн"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "алардын жанын"
+    },
+    {
+      "surface": "וחיתם",
+      "gloss": "жана алардын жашоосун"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "обоого"
+    },
+    {
+      "surface": "הסגיר",
+      "gloss": "тапшырды"
+    }
+  ],
+  "timestamp": "2026-10-05T16:10:16.703202985Z",
+  "model": "glm-5.3"
+}

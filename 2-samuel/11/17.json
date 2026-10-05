@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 11:17",
+  "book": "2-samuel",
+  "lang": "ky",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "хатт",
+      "rationale": "החתי — хетт уулу, этноним катары сакталды"
+    }
+  ],
+  "translation": "Шаардын эркектери чыгышты жана ⟨את⟩ Йоаб менен салгылашышты, элдин ичинен Давидтин кулдарынан кулагандар болду, ошондой эле Урия хатт да өлдү.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "01f9f21ef46f01b11b1e3e1788231c07640dcbabf0c97afa04d493cc9ccd5f09",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-samuel\/11\/17-20.1791207558356.json",
+    "code": "641241cf-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "чыгышты"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "эркектери"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "шаардын"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "салгылашышты"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Йоаб"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Йоаб"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "кулагандар болду"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ичинен"
+    },
+    {
+      "surface": "העם",
+      "gloss": "элдин"
+    },
+    {
+      "surface": "מעבדי",
+      "gloss": "кулдарынан"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давидтин"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "өлдү"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ошондой эле"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Урия"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "хатт"
+    }
+  ],
+  "timestamp": "2026-10-05T13:39:18.357419032Z",
+  "model": "glm-5.3"
+}

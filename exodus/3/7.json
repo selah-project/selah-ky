@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 3:7",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ראה ראיתי",
+      "rationale": "Этиссиз инфинитив менен этиштин кайталанышы — «каябай көрдүм» деген бекемдөө ыкмасы"
+    },
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "rationale": "Байланыштыруучу אשер кыргызча жок — орун-учур мүчөсү жетиштүү"
+    }
+  ],
+  "translation": "Жана Яхве айтты: Каябай көрдүм ⟨את⟩ Мицрайимдеги элимдин ыжарласын, жана алардын кыйкыгын жүгүртүүчүлөрдүн бетинен уктуум, анткени алардын азаптарын ⟨את⟩ билем.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "12eb4d220d88825ec44d1648ef2d789940bdc971d62ccc8c4be888690469b1bc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/3\/5-8.1791201895488.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Жана Яхве айтты"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "каябай"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "көрдүм"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "элимдин ыжарласын"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ыжарласын"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "элимдин"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Мицрайимде"
+    },
+    {
+      "surface": "ו את",
+      "gloss": "⟨את⟩",
+      "marks": "алардын кыйкыгын"
+    },
+    {
+      "surface": "צעקתם",
+      "gloss": "кыйкыгын"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "уктуум"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "бетинен"
+    },
+    {
+      "surface": "נגשיו",
+      "gloss": "жүгүртүүчүлөрдүн"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "билем"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "алардын азаптарын"
+    },
+    {
+      "surface": "מכאביו",
+      "gloss": "азаптарын"
+    }
+  ],
+  "timestamp": "2026-10-05T12:04:55.489200549Z",
+  "model": "glm-5.3"
+}

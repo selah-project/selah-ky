@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 115,
+  "ref": "psalms 119:115",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "жамандык кылгандарга",
+      "rationale": "Тикелей буйрук-кайрылуу: 'Менден алыс бургула'."
+    },
+    {
+      "kind": "crux",
+      "subject": "ואצרה",
+      "rationale": "'Мен сактайм' (кохортатив, KJV 'that I may keep' деген максат маанисинде) же 'сактайм' (устукан)."
+    }
+  ],
+  "translation": "Менден алыс бургула, жамандык кылгандар, мен Элохимимдин буйруктарын сактайм.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "0012912ccfab3190faede15b8ae883b42dc59729d781b0882da2feb139e89989",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/119\/113-116.1791217401018.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "סורу",
+      "gloss": "алыс бургула"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "менден"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "жамандык кылгандар"
+    },
+    {
+      "surface": "ואצרה",
+      "gloss": "мен ... сактайм"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "буйруктарын"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Элохимимдин"
+    }
+  ],
+  "timestamp": "2026-10-05T16:23:21.019181165Z",
+  "model": "glm-5.3"
+}

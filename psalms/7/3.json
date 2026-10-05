@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 7:3",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "мени",
+      "rationale": "נפשי «жаным» эмес, «жандуулугум, жаным-деним» — жүрөк-тамыр мааниси, кыргызча жандооч\/мени менен берилди."
+    },
+    {
+      "kind": "addition",
+      "subject": "ал",
+      "rationale": "פן менен башталган шарттуу сүйлөмдөгү аракет кылгыч («душман») кыргызча так болушу үчүн кошулду."
+    }
+  ],
+  "translation": "Антпесе ал мени арстан сыяктуу жулуп албайбы, үзүп-чачып, аман алуучу жок болсо.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "121a5ee6b14bbeec86d2ab3a3588a24a266e59ffbd56b802907984948cff1406",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/7\/1-4.1791215350889.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "антпесе"
+    },
+    {
+      "surface": "יטרף",
+      "gloss": "жулуп албайбы"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "арстан сыяктуу"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "мени"
+    },
+    {
+      "surface": "פרק",
+      "gloss": "үзүп-чачып"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "жок"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "аман алуучу"
+    }
+  ],
+  "timestamp": "2026-10-05T15:49:10.890216368Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "psalms 119:58",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "חליתי פניך",
+      "rationale": "Сөзмө-сөз 'жүзүңдү жумшадым\/алсыраттым' — жалынуу идиомасы, 'жалындым' катары берилди"
+    },
+    {
+      "kind": "substitution",
+      "subject": "жалындым",
+      "rationale": "חלה негизги мааниси 'ооруп, алсыроо' — жалынуу учурунда өзүн жумшоо сүрөтү"
+    }
+  ],
+  "translation": "Сенин жүзүңдү бүт жүрөгүм менен жалындым; айтканыңдай мени ырайым кыл.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "c62d2c6fea25db93bcfc62af3daededb83a0ba52cc58de8d8fc166957f86fe8b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/119\/57-60.1791217318033.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חליתי",
+      "gloss": "жалындым"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "Сенин жүзүңдү"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "бүт"
+    },
+    {
+      "surface": "לב",
+      "gloss": "жүрөгүм менен"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "мени ырайым кыл"
+    },
+    {
+      "surface": "כאמרתך",
+      "gloss": "айтканыңдай"
+    }
+  ],
+  "timestamp": "2026-10-05T16:21:58.033987908Z",
+  "model": "glm-5.3"
+}

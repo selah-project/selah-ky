@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 114:4",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 114,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אילים \/ בני צאן",
+      "rationale": "Чоң (кочкор) менен кичине (козу) ыргактык карама-каршылык: тоо-дөбө чоң-кичине жупталып турат"
+    },
+    {
+      "kind": "elision",
+      "subject": "צאן",
+      "rationale": "'кой түрүнөн' деген жалпы аталыш 'козулардай' ичине сиңдирилди"
+    }
+  ],
+  "translation": "Тоолор кочкорлордой секиришти, дөбөлөр козулардай.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "9e8c1e1190f1f892769b99bb0256d222b1c2238d7b3acb74f40eaab74e7382fc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/114\/1-4.1791217239120.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "Тоолор"
+    },
+    {
+      "surface": "רקדו",
+      "gloss": "секиришти"
+    },
+    {
+      "surface": "כאילים",
+      "gloss": "кочкорлордай"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "дөбөлөр"
+    },
+    {
+      "surface": "כבני",
+      "gloss": "козулардай"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "түрү (кой)"
+    }
+  ],
+  "timestamp": "2026-10-05T16:20:39.121732741Z",
+  "model": "glm-5.3"
+}

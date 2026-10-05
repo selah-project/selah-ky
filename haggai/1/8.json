@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "haggai 1:8",
+  "book": "haggai",
+  "lang": "ky",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨үй⟩",
+      "rationale": "Кыргыз тилине үй кимдики экенин тактоочу сөз керек; еврей тексти 'ал үй' деп турат."
+    },
+    {
+      "kind": "crux",
+      "subject": "ואכבד",
+      "rationale": "'Мен урматталам' (Кудай урмат алат) же 'Мен урматтайм' — Niphal формасы эки жолу да чечмеленет."
+    },
+    {
+      "kind": "invitation",
+      "subject": "build the house",
+      "rationale": "Беш буйрук менен айтылган чакыруу — тоого чыгуу, жыгач алып келүү, үй куруу."
+    }
+  ],
+  "translation": "Тоого чыккыла, жыгач алып келгиле жана ⟨үй⟩ Үйүн кургула; Мен аны каалаймын жанa урматталам — Яхвенин сөзү.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "5d94111d7b989a2bfd712e3f7c89cd5e8d250cefb499c91c176fd17c45b6bf32",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/haggai\/1\/5-8.1791214899622.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עלו",
+      "gloss": "чыккыла"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "тоого"
+    },
+    {
+      "surface": "והבאתם",
+      "gloss": "алып келгиле"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "жыгач"
+    },
+    {
+      "surface": "ובנו",
+      "gloss": "кургула"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "Үйүн"
+    },
+    {
+      "surface": "וארצе",
+      "gloss": "каалаймын"
+    },
+    {
+      "surface": "בו",
+      "gloss": "аны"
+    },
+    {
+      "surface": "ואכבד",
+      "gloss": "урматталам"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "сөзү"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    }
+  ],
+  "timestamp": "2026-10-05T15:41:39.623860468Z",
+  "model": "glm-5.3"
+}

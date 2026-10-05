@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 1:12",
+  "book": "1-chronicles",
+  "lang": "ky",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "פלשתים кайдан чыкты",
+      "rationale": "Башталыш 10:14 боюнча пелиштилер Каслухимден; Амос 9:7 боюнча Кафтордон — бул аят эки элди тең тизмелейт"
+    },
+    {
+      "kind": "measurement",
+      "subject": "генеалогия",
+      "rationale": "элдердин тизмеси уланууда"
+    }
+  ],
+  "translation": "жана ⟨את⟩ Патрусимдерди, ⟨את⟩ Каслухимдерди — алардын ичинен пелиштилер чыгып кеткен — жана ⟨את⟩ Кафторимдерди.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "9b5888fbf65f9e717aa460ff9a70779cb08c90f5c0943681bd3f83818a42d0fd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-chronicles\/1\/9-12.1791221695370.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Патрусимдерди"
+    },
+    {
+      "surface": "פתרסים",
+      "gloss": "Патрусимдерди"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Каслухимдерди"
+    },
+    {
+      "surface": "כסלחים",
+      "gloss": "Каслухимдерди"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "алардын ичинен"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "чыгып кеткен"
+    },
+    {
+      "surface": "משם",
+      "gloss": "ал жактан"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "пелиштилер"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Кафторимдерди"
+    },
+    {
+      "surface": "כפתרים",
+      "gloss": "Кафторимдерди"
+    }
+  ],
+  "timestamp": "2026-10-05T17:34:55.371166471Z",
+  "model": "glm-5.3"
+}

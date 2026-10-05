@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 37:16",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "койлорду",
+      "rationale": "רעים этиши «кой багуу» деген мааниде; нысан тексте ачык айтылбаган"
+    },
+    {
+      "kind": "elision",
+      "subject": "נא",
+      "rationale": "жумшактык бөлүкчөсү «айтчы» ичине сиңдирилди"
+    },
+    {
+      "kind": "you",
+      "subject": "Жүсүп",
+      "rationale": "суроо-жооп түз жүгүртүү: Жүсүп белгисиз адамга кайрылат"
+    }
+  ],
+  "translation": "Жана ал айтты: ⟨את⟩ бир туугандарымды издеп жүрөм; мага айтчы, алар кайда койлорду багып жатышат?",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "f84d126d45a534925f2baa416c63cb5713ec45dc28bd363d4c574a627a18a56c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/37\/15-16.1791223574365.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "бир туугандарымды"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "бир туугандарым"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "мен"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "издеп жүрөм"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "айтчы"
+    },
+    {
+      "surface": "נא",
+      "gloss": "өтүнүчү"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мага"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "кайда"
+    },
+    {
+      "surface": "הם",
+      "gloss": "алар"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "койлорду багып жатышат"
+    }
+  ],
+  "timestamp": "2026-10-05T18:06:14.366058050Z",
+  "model": "glm-5.3"
+}

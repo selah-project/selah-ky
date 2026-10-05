@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "daniel 8:14",
+  "book": "daniel",
+  "lang": "ky",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "эки миң үч жүз",
+      "rationale": "«Кеч-таң» бирдиги жөнүндө талаш: күндөрбү (KJV) же өрттөлүүчү курмандыктын эки маалыбы (эки маал = 1150 күн) — текст «күн» деген сөздү айтпайт."
+    },
+    {
+      "kind": "measurement",
+      "subject": "эки миң үч жүз",
+      "rationale": "Аят так сан — көрүнүштүн мөөнөтү өлчөнүп берилет."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨күн⟩",
+      "rationale": "Ивритте «күн» деген жок — «кеч, таң, эки миң үч жүз» гана; бирдик кошулду."
+    }
+  ],
+  "translation": "Жана ал мага айтты: Кечке жана таңка чейин эки миң жана үч жүз ⟨күн⟩, анан ыйык жер акталат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "f01d3cfe2e22e77903adaed5bd8d3f7b7e9931f1d9fd3f4e3a15e7bf6817d255",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/daniel\/8\/13-16.1791220713351.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "жана ал айтты"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "мага"
+    },
+    {
+      "surface": "עד",
+      "gloss": "…га чейин"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "кеч"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "таң"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "эки миң"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "жана үч"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "жүз"
+    },
+    {
+      "surface": "ונצדק",
+      "gloss": "акталат"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ыйык жер"
+    }
+  ],
+  "timestamp": "2026-10-05T17:18:33.352081544Z",
+  "model": "glm-5.3"
+}

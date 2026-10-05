@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 13:12",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אנוש\/אדם",
+      "rationale": "эки синоним «адам» сөзү параллелизмде — айырма кыргызча начар көрүнөт"
+    },
+    {
+      "kind": "crux",
+      "subject": "сейрек",
+      "rationale": "יקר «баалуу» да, « сейрек» да — KJV «precious», JPS «rare»"
+    }
+  ],
+  "translation": "Мен адамды таза алтындан да сейрек, инсанды Офирдин казылган алтынынан да сейрек кыламын.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "7172fdf9010dbf11caecab6fb94919ef7e8f8ffb21b6e4fa0276dde7df32abae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/13\/9-12.1791209545802.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אוקיר",
+      "gloss": "сейрек кыламын"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "адамды"
+    },
+    {
+      "surface": "מפז",
+      "gloss": "таза алтындан"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "жана инсанды"
+    },
+    {
+      "surface": "миктем",
+      "gloss": "казылган алтынынан"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "Офирдин"
+    }
+  ],
+  "timestamp": "2026-10-05T14:12:25.803947196Z",
+  "model": "glm-5.3"
+}

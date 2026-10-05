@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 55:9",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 55,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "סעה\/סער",
+      "rationale": "сөздөрдүн үндөштүгү: «жемире\/бороон» — кыргызча айкаш жоголду"
+    },
+    {
+      "kind": "substitution",
+      "subject": "рух",
+      "rationale": "רוח бул жерде шамал маанисинде, бирок эреже боюнча бир сөз «рух» кармалды"
+    }
+  ],
+  "translation": "Шашам — мага качуу жайы, асылган рухтан, бороондон.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "ac333cb8fe8857c295668f5ef1a8d7060fe07603a3495b294a1e96f891a7827b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/55\/9-12.1791216196189.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אחישה",
+      "gloss": "шашам"
+    },
+    {
+      "surface": "מפלט",
+      "gloss": "качуу жайы"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мага"
+    },
+    {
+      "surface": "מרוח",
+      "gloss": "асылган рухтан"
+    },
+    {
+      "surface": "סעה",
+      "gloss": "асылган"
+    },
+    {
+      "surface": "מסער",
+      "gloss": "бороондон"
+    }
+  ],
+  "timestamp": "2026-10-05T16:03:16.190363271Z",
+  "model": "glm-5.3"
+}

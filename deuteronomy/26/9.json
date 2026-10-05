@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 26:9",
+  "book": "deuteronomy",
+  "lang": "ky",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "сүт менен балга агып турган жер",
+      "rationale": "זבת חלב ודבש — туруктуу өтмө: сүткө жана балга эркін аккан жер"
+    },
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "gloss": "ב для жерге малынма катары — ивриттин байлама мүчөсү кыргызча атүзгүлүккө айланды"
+    }
+  ],
+  "translation": "Жана ал бизди бул жерге алып келди, жана бизге ⟨את⟩ бул жерди берди — сүт менен балга агып турган жер.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "8560cf8f5f4299fe711a48670fcdc54ff5d314e86973bb6c853d03524715d695",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/26\/9-12.1791205249398.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבאנו",
+      "gloss": "жана ал бизди алып келди"
+    },
+    {
+      "surface": "אל",
+      "gloss": "жерге"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "жер"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "бул"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "жана берди"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "бизге"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "бул жерди"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "жер"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "бул"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "жер"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "агып турган"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "сүт"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "жана бал"
+    }
+  ],
+  "timestamp": "2026-10-05T13:00:49.399181136Z",
+  "model": "glm-5.3"
+}

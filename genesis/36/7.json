@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 36:7",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מפני מקניהם",
+      "rationale": "Букв. «малдарынын жүзүнөн» — себепти билдирүүчү идиома, «көбтүгүнөн» деп берилди."
+    },
+    {
+      "kind": "substitution",
+      "subject": "алар жүргөн жер",
+      "rationale": "מגוריהם — убактылуу жашоо жери, конуш; «жүргөн жер» дайымдалды."
+    }
+  ],
+  "translation": "Анткени алардын мал-мүлкү чогуу жашоого өтө көп болгон, жана алар жүргөн жер аларды ⟨את⟩ көтөрө алган жок, малдарынын көбтүгүнөн.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "61f18a706eae2e776160c46f99e4e585e0011440e267dc81b376871a468d40be",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/36\/5-8.1791201448321.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Анткени"
+    },
+    {
+      "surface": "היה",
+      "gloss": "болгон"
+    },
+    {
+      "surface": "רכושם",
+      "gloss": "мал-мүлкү"
+    },
+    {
+      "surface": "רב",
+      "gloss": "өтө көп"
+    },
+    {
+      "surface": "משבת",
+      "gloss": "чогуу жашоого"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "чогуу"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "жана жок"
+    },
+    {
+      "surface": "יכלה",
+      "gloss": "алган жок"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "жер"
+    },
+    {
+      "surface": "מגוריהם",
+      "gloss": "алар жүргөн"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "көтөрө"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ аларды",
+      "marks": "аларды"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "көбтүгүнөн"
+    },
+    {
+      "surface": "מקניהם",
+      "gloss": "малдарынын"
+    }
+  ],
+  "timestamp": "2026-10-05T11:57:28.322510215Z",
+  "model": "glm-5.3"
+}

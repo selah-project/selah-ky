@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 25:8",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "כן",
+      "rationale": "על כן экөө бирге 'ошондуктан' деген байламча болуп берилди"
+    },
+    {
+      "kind": "crux",
+      "subject": "יורה",
+      "rationale": "тамыры ירה — 'суу жаадыруу, ок ыргытуу, көрсөтүү'; 'үйрөтөт' деген тандоо, бирок 'жол көрсөтөт' деген окуу да бар"
+    }
+  ],
+  "translation": "Жакшы жана түз Яхве, ошондуктан ал күнөөкөрлөрдү жолдо үйрөтөт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "f7ebeadd221aa1a9245f9ca19263a00eaddb9c85ee6c267665cbf89101b3ed0d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/25\/5-8.1791215692646.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Жакшы"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "жана түз"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "על",
+      "gloss": "ошондуктан"
+    },
+    {
+      "surface": "כן",
+      "gloss": ""
+    },
+    {
+      "surface": "יורה",
+      "gloss": "үйрөтөт"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "күнөөкөрлөрдү"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "жолдо"
+    }
+  ],
+  "timestamp": "2026-10-05T15:54:52.647293396Z",
+  "model": "glm-5.3"
+}

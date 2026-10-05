@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 73:28",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 73,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨тийишмин⟩",
+      "rationale": "Максатты билдирүүчү инфинитив l- үчүн кыргызча модалдык кошумча"
+    },
+    {
+      "kind": "crux",
+      "subject": "קרבת אלהים",
+      "rationale": "Яхвенин Жүзүнө жакындуу (Забур 1:1, 3:2) — бул дубанын түйүндүү жери, кантип окцулушу керек деген суроо жок, бирок уламжылар 'менин жакшылыгым' дешет (JPS) — 'меники' же 'меники' деген талаш бар"
+    }
+  ],
+  "translation": "Ал эми мен үчүн жакшысы — Элохимге жакындуу: Адонай Яхвеге — коргонум — ⟨Сенин⟩ бардык иштериңди айтып берүүгө ⟨тийишмин⟩.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "2cc8df8a4d01344a5592ca92d78a3473980c6b99e83385ee6a12ee5b76933da1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/73\/25-28.1791216505106.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ал эми мен"
+    },
+    {
+      "surface": "קרבת",
+      "gloss": "жакындуу"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохимге"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мен үчүн"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "жакшысы"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "койдум"
+    },
+    {
+      "surface": "באדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвеге"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "коргонум"
+    },
+    {
+      "surface": "לספר",
+      "gloss": "айтып берүүгө"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бардык"
+    },
+    {
+      "surface": "מלאכותיך",
+      "gloss": "иштериңди"
+    }
+  ],
+  "timestamp": "2026-10-05T16:08:25.107618924Z",
+  "model": "glm-5.3"
+}

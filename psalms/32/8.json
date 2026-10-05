@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 32:8",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "איעצה עליך עיני",
+      "rationale": "буквально «дам совет тебе — мой глаз на тебе»; KJV «guide thee with mine eye» против JPS «counsel, mine eye being upon thee»; выбрано буквальное"
+    },
+    {
+      "kind": "you",
+      "subject": "акынга",
+      "rationale": "Яхве прямо обращается к поэту — обещание наставления"
+    }
+  ],
+  "translation": "Мен сени акылга багыттаймын жана сени баса турган жолдо көрсөтөм; көзүм сенин үстүңдө туруп сага кеңеш беремин.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "929057b53e058c483a4deb1586a4e22673d6879e0027ed784a7b0d1bb6aaec36",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/32\/5-8.1791215904197.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשכילך",
+      "gloss": "сени акылга багыттаймын"
+    },
+    {
+      "surface": "ואורך",
+      "gloss": "жана көрсөтөм"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "жолдо"
+    },
+    {
+      "surface": "זו",
+      "gloss": "ошол"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "баса турган"
+    },
+    {
+      "surface": "איעצה",
+      "gloss": "кеңеш беремин"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "сенин үстүңдө"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "көзүм"
+    }
+  ],
+  "timestamp": "2026-10-05T15:58:24.198342822Z",
+  "model": "glm-5.3"
+}

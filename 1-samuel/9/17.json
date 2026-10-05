@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 9:17",
+  "book": "1-samuel",
+  "lang": "ky",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨аңа⟩",
+      "rationale": "Еврейче 'myyhu' — 'ага' деген так объектти көрсөтпөйт, кыргызча тактоо үчүн кошулду"
+    },
+    {
+      "kind": "crux",
+      "subject": "יעצר",
+      "rationale": "'кармоо\/тосо\/башкаруу' — 'башкаруу' менен 'тосо' деген эки окуу бар"
+    }
+  ],
+  "translation": "Шемуел ⟨את⟩ Шаулду көргөндө, Яхве ⟨аңа⟩ жооп берди: Мына ошол адам — мага сенин жөнүңдө айтканым; дал ошол менин элимди башкарат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "b2fb7a248a450927b9646e01aa7e7008efb3526cd33fde017db47532b6fdd218",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-samuel\/9\/17-20.1791206762712.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "Шемуел"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "көрдү"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Шаулду"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ענהו",
+      "gloss": "жооп берди"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "мына"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ошол адам"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "айтканым"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "сага"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ошол"
+    },
+    {
+      "surface": "יעצר",
+      "gloss": "башкарат"
+    },
+    {
+      "surface": "בעמי",
+      "gloss": "менин элимди"
+    }
+  ],
+  "timestamp": "2026-10-05T13:26:02.713671464Z",
+  "model": "glm-5.3"
+}

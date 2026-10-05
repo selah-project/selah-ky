@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 2:24",
+  "book": "1-samuel",
+  "lang": "ky",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "rationale": "Rel particle has no Kyrgyz equivalent; the clause link is carried by 'анткени' and punctuation."
+    },
+    {
+      "kind": "crux",
+      "subject": "מעברים",
+      "rationale": "Hiphil participle of עבר 'to cross over': 'causing-to-transgress' (KJV 'ye make...transgress') vs JPS 'do spread abroad' — rendered as 'мыйзамдан чыгаруучулар' to keep the crossing-over picture."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨бул⟩",
+      "rationale": "Kyrgyz needs a demonstrative to link the report to its content; Hebrew leaves the participle phrase appositional."
+    },
+    {
+      "kind": "you",
+      "subject": "to Hophni and Phinehas",
+      "rationale": "Eli directly addresses his sons: 'жок, балдарым'."
+    }
+  ],
+  "translation": "Жок, балдарым, анткени мен уккан кабар жакшы эмес — ⟨бул⟩ Яхвенин элин мыйзамдан чыгаруучулар жөнүндө.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "7faebdadf937e9224bea5bd7a7f0d893bbcf032d951e78c35f8b4f0e56895ecd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-samuel\/2\/24-24.1791223824093.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "жок"
+    },
+    {
+      "surface": "בני",
+      "gloss": "балдарым"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "эмес"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "жакшы"
+    },
+    {
+      "surface": "השמעה",
+      "gloss": "кабар"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "мен"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "уккан"
+    },
+    {
+      "surface": "מעברים",
+      "gloss": "мыйзамдан чыгаруучулар"
+    },
+    {
+      "surface": "עם",
+      "gloss": "эл"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    }
+  ],
+  "timestamp": "2026-10-05T18:10:24.094349491Z",
+  "model": "glm-5.3"
+}

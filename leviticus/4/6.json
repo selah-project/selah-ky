@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 4:6",
+  "book": "leviticus",
+  "lang": "ky",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "жети жолу",
+      "rationale": "שבע פעמים — так сан: чачуу жети жолу аткарылат"
+    },
+    {
+      "kind": "elision",
+      "subject": "את (пе),",
+      "rationale": "לפני יהוה деги экинчи את — предлог катары колдонулган, кыргызча «бетине» менен жутулган"
+    }
+  ],
+  "translation": "Жана коэн ⟨את⟩ манжасын канга малып, Яхвенин алдында, ыйыктыктын пардасынын ⟨את⟩ бетине кандан жети жолу чачсын.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "01074193af48863409aefde2dee522f4ce8d0e82d82ab34c8eae0a19360a99f9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/4\/5-8.1791202910036.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וטבל",
+      "gloss": "малсын"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "коэн"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "манжасын"
+    },
+    {
+      "surface": "אצבעו",
+      "gloss": "манжасын"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "канга"
+    },
+    {
+      "surface": "והזה",
+      "gloss": "чачсын"
+    },
+    {
+      "surface": "מן",
+      "gloss": "…дан"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "кандан"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "жети"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "жолу"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "алдында"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ бетине"
+    },
+    {
+      "surface": "פני",
+      "gloss": "бетине"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "пардасынын"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ыйыктыктын"
+    }
+  ],
+  "timestamp": "2026-10-05T12:21:50.037416991Z",
+  "model": "glm-5.3"
+}

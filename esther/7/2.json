@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 7:2",
+  "book": "esther",
+  "lang": "ky",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ал",
+      "rationale": "Ивриттин жашыруун этиштин субъекти кыргызча пассивде керек болду"
+    },
+    {
+      "kind": "you",
+      "subject": "Эстер падыша аялга",
+      "rationale": "Падыша Эстерге түз кайрылуу менен суроо берет"
+    },
+    {
+      "kind": "measurement",
+      "subject": "падышачылыктын жарымы",
+      "rationale": "Падыша сунушту ченеп айтат — падышачылыктын жарымына чейин"
+    }
+  ],
+  "translation": "Падыша Эстерге экинчи күнү да, шарабтын тойунда мындай деди: Эстер падыша аял, сурамың эмне? ⟨ал⟩ сага берилсин. Тилегең эмне? Падышачылыктын жарымына чейин ⟨ал⟩ аткарылсын.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "9d62e02e402c6aecc4a05352fde1994e2656409ce4d0951d1ad1b8b26bd12b43",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/esther\/7\/1-4.1791220348446.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "деди"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "падыша"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "Эстерге"
+    },
+    {
+      "surface": "גם",
+      "gloss": "да"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "күнү"
+    },
+    {
+      "surface": "השני",
+      "gloss": "экинчи"
+    },
+    {
+      "surface": "במשתה",
+      "gloss": "тоюнда"
+    },
+    {
+      "surface": "היין",
+      "gloss": "шарабтын"
+    },
+    {
+      "surface": "מה",
+      "gloss": "эмне"
+    },
+    {
+      "surface": "שאלתך",
+      "gloss": "сурамың"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Эстер"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "падыша аял"
+    },
+    {
+      "surface": "ותנתן",
+      "gloss": "берилсин"
+    },
+    {
+      "surface": "לך",
+      "gloss": "сага"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "эмне"
+    },
+    {
+      "surface": "בקשתך",
+      "gloss": "тилегең"
+    },
+    {
+      "surface": "עד",
+      "gloss": "чейин"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "жарымына"
+    },
+    {
+      "surface": "המלכות",
+      "gloss": "падышачылыктын"
+    },
+    {
+      "surface": "ותעש",
+      "gloss": "аткарылсын"
+    }
+  ],
+  "timestamp": "2026-10-05T17:12:28.448035013Z",
+  "model": "glm-5.3"
+}

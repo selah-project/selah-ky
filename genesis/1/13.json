@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 1:13",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "маал",
+      "rationale": "ערב жана בקר — кеч жана таң; «маал» сөзү кыргызча ыңгайлуу айтым үчүн кошулду"
+    },
+    {
+      "kind": "measurement",
+      "subject": "күн",
+      "rationale": "Жаратуунун күндөрүнүн саналышы — үчүнчү күн"
+    }
+  ],
+  "translation": "Жана кечки маал болду, жана таң маал болду — үчүнчү күн.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "a6c8848f1ec5934cf37513f2c9cd4ebec9aad6c165f2a0036feef99f8b86fca4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/1\/13-16.1791200727992.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "болду"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "кечки маал"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "жана болду"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "таң маал"
+    },
+    {
+      "surface": "יום",
+      "gloss": "күн"
+    },
+    {
+      "surface": "שלישי",
+      "gloss": "үчүнчү"
+    }
+  ],
+  "timestamp": "2026-10-05T11:45:27.993306079Z",
+  "model": "glm-5.3"
+}

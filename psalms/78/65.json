@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "psalms 78:65",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "уктоодогу адам сыяктуу",
+      "rationale": "כישן — 'уктоодогу адам сыяктуу', Адонай уйкудан ойгонгондой элестетүү"
+    },
+    {
+      "kind": "crux",
+      "subject": "шараптан кыйкырган",
+      "rationale": "מתרונן מיין: 'шараптан кыйкырган' же 'шараптан айыгып жаткан' (JPS) — эки окуу бар"
+    }
+  ],
+  "translation": "Жана Адонай уктоодогу адам сыяктуу ойгонду, шараптан кыйкырган күчтүү жоокер сыяктуу.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "ee1bbbefdf39b4da71dd4c1339c015cb762bedd0ae23a1942a770b897d331a93",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/78\/65-68.1791216612494.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקץ",
+      "gloss": "ойгонду"
+    },
+    {
+      "surface": "כישן",
+      "gloss": "уктоодогу адам сыяктуу"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "כגבור",
+      "gloss": "күчтүү жоокер сыяктуу"
+    },
+    {
+      "surface": "מתרונן",
+      "gloss": "кыйкырган"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "шараптан"
+    }
+  ],
+  "timestamp": "2026-10-05T16:10:12.494978895Z",
+  "model": "glm-5.3"
+}

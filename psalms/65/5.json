@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 65:5",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 65,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "адам",
+      "rationale": "Ивритте 'ашрей' дайынсыз — 'бактылуу' ким экени биринчи муун мүчөсүнөн көрүнөт"
+    },
+    {
+      "kind": "substitution",
+      "subject": "токтойбуз",
+      "rationale": "נשבעה — 'ток болуу, тоюп кануу'; кыргызча 'ток болуу' эки мааниде да иштейт"
+    }
+  ],
+  "translation": "Бактылуу ⟨адам⟩ — сен тандаган жана Өзүңө жакындаткан: ал сенин короолоруңда жашайт; биз сенин үйүңдүн жакшылыгы менен, ыйык сарайыңдын ⟨жакшылыгы менен⟩ токтойбуз.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "ab8063a2f9bed2e6b4382c635e10e2b815019f702d3e2ed3083fa1edb1a3e193",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/65\/5-8.1791216343975.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Бактылуу"
+    },
+    {
+      "surface": "תבחר",
+      "gloss": "тандаган"
+    },
+    {
+      "surface": "ותקרב",
+      "gloss": "жакындаткан"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "жашайт"
+    },
+    {
+      "surface": "חצריך",
+      "gloss": "короолоруңда"
+    },
+    {
+      "surface": "נשבעה",
+      "gloss": "токтойбуз"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "жакшылыгы менен"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "үйүңдүн"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ыйык"
+    },
+    {
+      "surface": "היכלך",
+      "gloss": "сарайыңдын"
+    }
+  ],
+  "timestamp": "2026-10-05T16:05:43.975536758Z",
+  "model": "glm-5.3"
+}

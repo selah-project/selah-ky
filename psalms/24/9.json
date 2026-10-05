@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 24:9",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "הכבוד",
+      "rationale": "кабод — «оор салмак, уурпак, жалтырак»; кыргызча «уурпактардын падышасы»"
+    },
+    {
+      "kind": "idiom",
+      "subject": "көтөргүлө ... баштарыңар",
+      "rationale": "еврейче «баштарыңарды көтөргүлө» — дарбазаларга салыштыруу, капкаларды ачкыла деген мааниде"
+    },
+    {
+      "kind": "invitation",
+      "subject": "дарбазаларга",
+      "rationale": "буюрчул түрүндөгү чакыруу — эшиктерди падышанын киришине ачкыла"
+    }
+  ],
+  "translation": "Көтөргүлө, дарбазалар, ⟨алардын⟩ баштарыңар, жана көтөргүлө, түбөлүктүн эшиктери, жана урпактардын падышасы келсин!",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "e7eae905f0368a9af2f2d148930bcf6117e88c097bb4896a730cfc6517dc9813",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/24\/9-10.1791215653537.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "көтөргүлө"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "дарбазалар"
+    },
+    {
+      "surface": "ראשיכם",
+      "gloss": "баштарыңар"
+    },
+    {
+      "surface": "ושאו",
+      "gloss": "жана көтөргүлө"
+    },
+    {
+      "surface": "פתחי",
+      "gloss": "эшиктери"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "түбөлүктүн"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "жана келсин"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "падышасы"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "уурпактардын"
+    }
+  ],
+  "timestamp": "2026-10-05T15:54:13.538069575Z",
+  "model": "glm-5.3"
+}

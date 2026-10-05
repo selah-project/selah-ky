@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 61:1",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 61,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "көркөм ырчыга",
+      "rationale": "למנצח — музыкалык аткарууну жетектеген адам; так кыргызча эквиваленти жок"
+    }
+  ],
+  "translation": "Көркөм ырчыга, кыл аспаптын коштоосу менен, Давиддин забур.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "2a36bc2a0bee8f8154aa229e500fe67ac96f77f6f4bb574fa6d5ac0ccb4ea75f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/61\/1-4.1791216342078.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "көркөм ырчыга"
+    },
+    {
+      "surface": "על",
+      "gloss": "менен"
+    },
+    {
+      "surface": "נגינת",
+      "gloss": "кыл аспаптын коштоосу"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давиддин"
+    }
+  ],
+  "timestamp": "2026-10-05T16:05:42.079457519Z",
+  "model": "glm-5.3"
+}

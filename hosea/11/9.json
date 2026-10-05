@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "hosea 11:9",
+  "book": "hosea",
+  "lang": "ky",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "חרון אפי",
+      "rationale": "букв. «муюмдун күйүүсү» — ачуунун күйүп жатышы, «ачуумдун жалындоосу» кылып берилди"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨мен⟩",
+      "rationale": "еврейче «Ыйык» — өздүк атоочсуз ат атооч; кыргызча копула талап кылат"
+    },
+    {
+      "kind": "crux",
+      "subject": "בעיר — шаарга кирбеймин",
+      "rationale": "керебалгасы көрүнбөйт: «душмандык менен кирбеймин» (ASV\/JPS) же «шаарга кирбеймин» (KJV) — бул жерде так форма кармалды"
+    }
+  ],
+  "translation": "Ачуумдун жалындоосун жасабайм, Эфрайимди талкалоо үчүн кайтпайм, анткени Мен Элмин, адам эмесмин — сенин ортоңдо Ыйык ⟨мен⟩, жана шаарга кирбеймин.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "9bae756fadcab15ae3185187d41e0eb0d4afcde43d5a70e9bfe5eef4be34d884",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/hosea\/11\/9-11.1791213945769.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "жасабайм"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "жасабайм"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "жалындоосу"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "ачуумдун"
+    },
+    {
+      "surface": "לא",
+      "gloss": "кайтпайм"
+    },
+    {
+      "surface": "אשוב",
+      "gloss": "кайтпайм"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "талкалоо"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Эфрайимди"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эл"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Мен"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "эмесмин"
+    },
+    {
+      "surface": "איש",
+      "gloss": "адам"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "ортоңдо"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Ыйык"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "кирбеймин"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "кирбеймин"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "шаарга"
+    }
+  ],
+  "timestamp": "2026-10-05T15:25:45.770217556Z",
+  "model": "glm-5.3"
+}

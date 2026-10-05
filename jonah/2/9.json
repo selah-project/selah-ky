@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jonah 2:9",
+  "book": "jonah",
+  "lang": "ky",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "хесед",
+      "rationale": "חסד кыргызча «ырайым» гана эмес — туруклуу мамиле, берилгендик; хесед сөзү катары кармалды."
+    },
+    {
+      "kind": "addition",
+      "subject": "өздөрүнүн",
+      "rationale": "חסדם мүчөсүндөгү «алардын» мааниси кыргызча ачык берилди."
+    }
+  ],
+  "translation": "Алар каныккан жалган бекер нерселерди сактап жүргөндөр — өздөрүнүн хеседин таштап кетишет.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "c0185075573a7f2bead5b05d96400c70f8d5d06e53f47636c94444909da0fb8b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/jonah\/2\/9-11.1791214409530.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משמרים",
+      "gloss": "сактап жүргөндөр"
+    },
+    {
+      "surface": "הבלי",
+      "gloss": "бекер нерселерди"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "жалган"
+    },
+    {
+      "surface": "חסדם",
+      "gloss": "өздөрүнүн хеседин"
+    },
+    {
+      "surface": "יעזבו",
+      "gloss": "таштап кетишет"
+    }
+  ],
+  "timestamp": "2026-10-05T15:33:29.531557072Z",
+  "model": "glm-5.3"
+}

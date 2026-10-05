@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 29:5",
+  "book": "1-samuel",
+  "lang": "ky",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "rationale": "направительный предлог слит с глаголом и отдельным словом не передан"
+    },
+    {
+      "kind": "measurement",
+      "subject": "миңдери \/ он миңдери",
+      "rationale": "санаанын салыштырмауы — Шаулдун миңдери Давиддин он миңдери менен"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "встрочканын үлгүсү",
+      "rationale": "Башталыш 21:1деги ырдын кайра келтирилиши, башка сөз айкашы менен"
+    }
+  ],
+  "translation": "Бул Давид эмес беле, ал жөнүндө мээнеттерде ага жооп кылып айтышкандай: «Шаул өзүнүн миңдеринен сайды, ал эми Давид — өзүнүн он миңдеринен»?",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "f6dc2ce8cb87cc278937aa53dba9e6a36ab3d2273f3f64f561bcec0ab1fc0616",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-samuel\/29\/5-8.1791207319908.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "эмес беле"
+    },
+    {
+      "surface": "זה",
+      "gloss": "бул"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ал жөнүндө"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "жооп кылып айтышкандай"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ага"
+    },
+    {
+      "surface": "במחלות",
+      "gloss": "мээнеттерде"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "айтып"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "сайды"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "באלפיו",
+      "gloss": "өзүнүн миңдеринен"
+    },
+    {
+      "surface": "ווד",
+      "gloss": "ал эми Давид"
+    },
+    {
+      "surface": "ברבבתו",
+      "gloss": "өзүнүн он миңдеринен"
+    }
+  ],
+  "timestamp": "2026-10-05T13:35:19.909518568Z",
+  "model": "glm-5.3"
+}

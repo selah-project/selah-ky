@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 103,
+  "ref": "psalms 119:103",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨болгон⟩",
+      "rationale": "Еврей тилинде «болуу» этиши жок; кыргыз тилинен талап кылынат"
+    },
+    {
+      "kind": "substitution",
+      "subject": "לחכי",
+      "rationale": "ײֶך — такыр жаак, татуучу; «татуучу» деген сүрөт менен берилди"
+    }
+  ],
+  "translation": "Канча жагымдуу даам татуучума ⟨болгон⟩ айтканың — балдан да таттуу оозума!",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "14a97a7d6cc24bd24321972dd0e3189209f09417cca772c898f566078550a055",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/119\/101-104.1791217331989.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "канча"
+    },
+    {
+      "surface": "נמלצו",
+      "gloss": "жагымдуу"
+    },
+    {
+      "surface": "לחכי",
+      "gloss": "татуучума"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "айтканың"
+    },
+    {
+      "surface": "מדבש",
+      "gloss": "балдан"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "оозума"
+    }
+  ],
+  "timestamp": "2026-10-05T16:22:11.990502978Z",
+  "model": "glm-5.3"
+}

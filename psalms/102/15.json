@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 102:15",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 102,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "анын",
+      "rationale": "Ивритте «Сионго» деген мурдагы аяттан гана көрүнүп турат; кыргызча так болушу үчүн ⟨анын⟩ кошулду"
+    }
+  ],
+  "translation": "Анткени Сенин кулдары ⟨את⟩ анын таштарына ыраазы жана ⟨את⟩ анын топурагына ырайым кылышат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "57ca60887d70e9a5896c96996fd6eba208bd2f7779dd9c5b8e7c2e2a3d1970f5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/102\/13-16.1791216971724.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Анткени"
+    },
+    {
+      "surface": "רצו",
+      "gloss": "ыраазы"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "Сенин кулдары"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "анын таштарын"
+    },
+    {
+      "surface": "אבניה",
+      "gloss": "анын таштары"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "анын топурагын"
+    },
+    {
+      "surface": "עפרה",
+      "gloss": "анын топурагын"
+    },
+    {
+      "surface": "יחננו",
+      "gloss": "ырайым кылышат"
+    }
+  ],
+  "timestamp": "2026-10-05T16:16:11.725005348Z",
+  "model": "glm-5.3"
+}

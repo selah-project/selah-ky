@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 20:1",
+  "book": "1-samuel",
+  "lang": "ky",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жанымды",
+      "rationale": "נפש — дем алуучу жандык, жандык күч; «жан» жакын, бирок тамакай\/жашоо күч мааниси да бар"
+    },
+    {
+      "kind": "you",
+      "subject": "Йонатанга",
+      "rationale": "Давидтин Йонатанга тикелей үнү, суроо формасында"
+    }
+  ],
+  "translation": "Давид Рамадагы Найоттон качып кетти да, келип, Йонатандын алдына барып айтты: «Мен эмне кылдым? Менин күнөөм эмне жана атаныңдын алдында менин жазыктарым эмне, анткени ал ⟨את⟩ жанымды издеп жүрөт?»",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "6d66e6609d243c353465cc473237776ac9c59b0fd7b2b14f5079b45416bfd90e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-samuel\/20\/1-4.1791207061677.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויברח",
+      "gloss": "качып кетти"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "מנוות",
+      "gloss": "Найоттон"
+    },
+    {
+      "surface": "ברמה",
+      "gloss": "Рамадагы"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "келди"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "алдына"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Йонатандын"
+    },
+    {
+      "surface": "מה",
+      "gloss": "эмне"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "кылдым"
+    },
+    {
+      "surface": "מה",
+      "gloss": "эмне"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "күнөөм"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "жана эмне"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "жазыктарым"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "алдында"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "атаныңдын"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "издеп жүрөт"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "жанымды"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "жанымды"
+    }
+  ],
+  "timestamp": "2026-10-05T13:31:01.678414673Z",
+  "model": "glm-5.3"
+}

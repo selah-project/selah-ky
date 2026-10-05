@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 2:6",
+  "book": "1-samuel",
+  "lang": "ky",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Шеол",
+      "rationale": "Шеол — өлгөндөрдүн дүйнөсү; «кабырга» же «тозок» деп которулбайт."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "мמית\/ומחיה — מוריד\/ויעל",
+      "rationale": "эки карама-каршы жөнөкөй сүйлөм: өлтүрөт-тирильтет, түшүрөт-чыгарат — өзүнө-өзү шайкештүүлүк."
+    }
+  ],
+  "translation": "Яхве өлтүрөт жана тирилтет, Шеолго түшүрөт жана ⟨кайра⟩ чыгарат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "478812ae2dbb90111df4402fc355260b9f7d9d69d7974d95b7226c55165bb134",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-samuel\/2\/5-8.1791206562614.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ממית",
+      "gloss": "өлтүрөт"
+    },
+    {
+      "surface": "ומחיה",
+      "gloss": "жана тирилтет"
+    },
+    {
+      "surface": "מוריד",
+      "gloss": "түшүрөт"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шеолго"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "жана чыгарат"
+    }
+  ],
+  "timestamp": "2026-10-05T13:22:42.615692109Z",
+  "model": "glm-5.3"
+}

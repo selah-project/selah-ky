@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "amos 8:7",
+  "book": "amos",
+  "lang": "ky",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "эгер унтсам",
+      "rationale": "Ивриттин ант формуласы «אם אשכח» — терс ант: «эгер унтсам» дегени «түбөлүккө унтпайм»; кыргызча оң форма менен берилди."
+    },
+    {
+      "kind": "crux",
+      "subject": "Яаковтун улуулугу",
+      "rationale": "גאון: Яаковтын өзүнүн улуулугу (JPS «pride») менен Яхвенин улуулугу (KJV «excellency») деген окуулаштар бар."
+    }
+  ],
+  "translation": "Яхве Яаковтун улуулугу менен ант берди: «Алардын бардык иштерин түбөлүккө унтпайм».",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "5f1eace625e8ce6fc779704402dcd1258a9a87b8a6078d07b4df41b647d4a5d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/amos\/8\/5-8.1791214389944.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "ант берди"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "בגאון",
+      "gloss": "улуулугу менен"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаковтун"
+    },
+    {
+      "surface": "אם",
+      "gloss": "эгер"
+    },
+    {
+      "surface": "אשכח",
+      "gloss": "унтсам"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "түбөлүккө"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бардык"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "алардын иштерин"
+    }
+  ],
+  "timestamp": "2026-10-05T15:33:09.946056627Z",
+  "model": "glm-5.3"
+}

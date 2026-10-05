@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 44:23",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "көрүүнү кошо албайсыңар",
+      "rationale": "לא תוסיפון לראות — 'көрүүнү кошпойсуңар', б.а. 'эч качан көрбөйсүңөр' деген ивриттик күчөтүү."
+    },
+    {
+      "kind": "elision",
+      "subject": "אם לא",
+      "rationale": "Б\/\/- 'эгерде ... жок болсо' — шарттуу танбоо конструкциясы кыргызча 'эгерде ... түшпөсө' деп бир нече сөз менен берилди."
+    }
+  ],
+  "translation": "Жана сен кулдарыңа айттың: Эгерде кичүү бир тууганыңар силер ⟨את⟩ менен түшпөсө, менин жүзүмдү көрүүнү кошо албайсыңар.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "5c3d7b915734945335198bfb967da9e29d2b152041fa9243dd5f30456f19980c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/44\/21-24.1791201633745.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "айттың"
+    },
+    {
+      "surface": "אל",
+      "gloss": "−ге"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "кулдарыңа"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Эгерде"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "түшпөсө"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "бир тууганыңар"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "кичүү"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ менен"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "תספון",
+      "gloss": "кошо албайсыңар"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "көрүүнү"
+    },
+    {
+      "surface": "פני",
+      "gloss": "жүзүмдү"
+    }
+  ],
+  "timestamp": "2026-10-05T12:00:33.746478151Z",
+  "model": "glm-5.3"
+}

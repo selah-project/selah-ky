@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 15:3",
+  "book": "deuteronomy",
+  "lang": "ky",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "экинчи את",
+      "rationale": "Бул את (H854) — предлог 'менен\/жакында', баштапкы объекти белгиси эмес; 'бир тууганыңда эмне бар болсо' деген окуу да бар."
+    },
+    {
+      "kind": "you",
+      "subject": "сен",
+      "rationale": "Тикелей кайрылуу — Йисраэлге берилген буйрук."
+    },
+    {
+      "kind": "elision",
+      "subject": "יהיה לך",
+      "rationale": "'Сенде эмне бар' деген салыштырма түзүм тыкан берилди, кыргызча кыскартылды."
+    }
+  ],
+  "translation": "⟨את⟩ Бөтөн адамды кузгайсың, ал эми колуң ⟨את⟩ бир тууганыңды койго коёт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "951ea50b774bd73147206992756279a75d684f67502fc25ff20aa68c5ec78901",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/15\/1-4.1791205041715.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "бөтөн адамды"
+    },
+    {
+      "surface": "הנכרי",
+      "gloss": "бөтөн адамды"
+    },
+    {
+      "surface": "תגש",
+      "gloss": "кузгайсың"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ал эми"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "бар"
+    },
+    {
+      "surface": "לך",
+      "gloss": "сенде"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "бир тууганыңды"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "бир тууганыңды"
+    },
+    {
+      "surface": "תשמט",
+      "gloss": "койго коёт"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "колуң"
+    }
+  ],
+  "timestamp": "2026-10-05T12:57:21.716548426Z",
+  "model": "glm-5.3"
+}

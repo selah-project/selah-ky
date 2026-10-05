@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 25:18",
+  "book": "deuteronomy",
+  "lang": "ky",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "кесип таштады",
+      "rationale": "ויזנב — «туюлдуктун учун кесүү» деген сөз, арттагыларга кол салганды билдирет."
+    },
+    {
+      "kind": "crux",
+      "subject": "Элохимден корккон жок",
+      "rationale": "ירא אלהים — «Элохимден коркту» же ким корккону (Яхвеби, жалпы Кудайбы) боюнча талаш."
+    },
+    {
+      "kind": "hapax",
+      "subject": "הנחשלים",
+      "rationale": "Бул тамыр Танахта сейрек кездешет — «артта калган алсыздар»."
+    }
+  ],
+  "translation": "Ал сени жолдо кездетип, артыңдан бардык алсыздарды — артта калгандарды кесип таштады, сен болсо чарчаган жана аргасыз болчуң, жана ал Элохимден корккон жок.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "0d587a611ce6b42080e05f531a9eef60016013debea04f41561d6deae8b5db96",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/25\/17-19.1791205201573.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Ал"
+    },
+    {
+      "surface": "קרך",
+      "gloss": "сени кездетип"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "жолдо"
+    },
+    {
+      "surface": "ויזנב",
+      "gloss": "артыңдан кесип таштады"
+    },
+    {
+      "surface": "בך",
+      "gloss": "сени"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бардык"
+    },
+    {
+      "surface": "הנחשלים",
+      "gloss": "алсыздарды"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "артыңдан"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "сен болсо"
+    },
+    {
+      "surface": "עיף",
+      "gloss": "чарчаган"
+    },
+    {
+      "surface": "ויגע",
+      "gloss": "аргасыз"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "корккон"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохимден"
+    }
+  ],
+  "timestamp": "2026-10-05T13:00:01.574203229Z",
+  "model": "glm-5.3"
+}

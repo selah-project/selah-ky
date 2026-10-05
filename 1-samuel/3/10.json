@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 3:10",
+  "book": "1-samuel",
+  "lang": "ky",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "כפעם בפעעם",
+      "rationale": "«пaaм-бепaaм» — өтмө менен кайра өтмөнүн үндөштүгү, мурдагыдай эле деген ритм."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שמואל שמואל",
+      "rationale": "Ысым эки жолу айтылат — чакырыктын күчү, кыргызча сакталды."
+    }
+  ],
+  "translation": "Яхве келди жана турду жана мурдагыдай эле чакырды: Шемуэл, Шемуэл. Шемуэл айтты: Сүйлө, анткени Сенин кулуң угат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "0c5e13e9fa98e0373fdb0caf232f518294f5856e8159d0b5f8ddb99cf25a9221",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-samuel\/3\/9-12.1791206626357.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "келди"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ויתיצב",
+      "gloss": "турду"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "чакырды"
+    },
+    {
+      "surface": "כפעם",
+      "gloss": "мурдагыдай"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "эле жолу"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Шемуэл"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Шемуэл"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Шемуэл"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сүйлө"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "угат"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "кулун"
+    }
+  ],
+  "timestamp": "2026-10-05T13:23:46.357882625Z",
+  "model": "glm-5.3"
+}

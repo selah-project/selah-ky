@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 39:30",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "жалтылдаган асты",
+      "rationale": "ציץ: «жалтылдаган такта» (буквалдык) же «гүл» — көп котормолор «такта» деп алышкан"
+    },
+    {
+      "kind": "substitution",
+      "subject": "тактынын",
+      "rationale": "נזר — «бөлүп коюлган нерсе», ыйык тактынын белгиси катары берилди"
+    }
+  ],
+  "translation": "Жана алар жасашты ⟨את⟩ ыйык тактынын жалтылдаган асты — таза алтын, жана ага мөөрдүн оюмдарындай жазуу жазышты: «Яхвеге ыйык».",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "7b4f7605752a1bdedf7f0989c49a9dfc6b303d2feb54cec17642135abfe9f899",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/39\/29-32.1791202790640.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "Жана алар жасашты"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "жалтылдаган асты"
+    },
+    {
+      "surface": "ציץ",
+      "gloss": "жалтылдаган асты"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "тактынын"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ыйык"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "алтын"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "таза"
+    },
+    {
+      "surface": "ויכתבו",
+      "gloss": "жана жазышты"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ага"
+    },
+    {
+      "surface": "מכתב",
+      "gloss": "жазуу"
+    },
+    {
+      "surface": "פתוחי",
+      "gloss": "оюмдарындай"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "мөөрдүн"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ыйык"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхвеге"
+    }
+  ],
+  "timestamp": "2026-10-05T12:19:50.641328420Z",
+  "model": "glm-5.3"
+}

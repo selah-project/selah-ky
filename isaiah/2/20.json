@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 2:20",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חפר פרות",
+      "rationale": "«казуучунун оюктары»: көчөн же чычкан — көп котормолор «көчө» дейт, биз literally «казуучу» дедик"
+    },
+    {
+      "kind": "substitution",
+      "subject": "בטים\/жарганаттар",
+      "rationale": "עטלף — жарганат, түн жаныбары; жер астындагы жана түнкү жаныбарларга ташталган буттардын сөөлөттүү сүрөтү"
+    }
+  ],
+  "translation": "Ошол күнү адам ⟨את⟩ өзүнүн күмүш буттарын жана ⟨את⟩ өзүнүн алтын буттарын — өзүнө жасалган, сыйынуу үчүн — чычкан оюктарына жана жарганаттарга ыргытат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "cebda9a6d076349863ad4898fc80ffda88c7d6f3e759fdfc17eb90b549e3951b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/2\/17-20.1791209315187.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "күнү"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ошол"
+    },
+    {
+      "surface": "ישליך",
+      "gloss": "ыргытат"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "адам"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "күмүш буттарын"
+    },
+    {
+      "surface": "אלילי",
+      "gloss": "буттарын"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "күмүш"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "алтын буттарын"
+    },
+    {
+      "surface": "אלילי",
+      "gloss": "буттарын"
+    },
+    {
+      "surface": "זהבו",
+      "gloss": "алтын"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "жасалган"
+    },
+    {
+      "surface": "לו",
+      "gloss": "өзүнө"
+    },
+    {
+      "surface": "להשתחות",
+      "gloss": "сыйынуу үчүн"
+    },
+    {
+      "surface": "לחפר",
+      "gloss": "чычкан"
+    },
+    {
+      "surface": "פרות",
+      "gloss": "оюктарына"
+    },
+    {
+      "surface": "ולעטלפים",
+      "gloss": "жарганаттарга"
+    }
+  ],
+  "timestamp": "2026-10-05T14:08:35.188966074Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 132:10",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 132,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "жүзүн тескери бурба",
+      "rationale": "בלי פנים идиомасы: «жүзүн бурба» — «четке кагуу, кабыл албоо» деген мааниде"
+    },
+    {
+      "kind": "you",
+      "subject": "Яхвеге",
+      "rationale": "Аят Яхвеге тикелей багышталган тиленүү"
+    }
+  ],
+  "translation": "Давид, кулуң, үчүн Машиахыңдын жүзүн тескери бурба.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "6071aaef2e25e53b91b63d3736db6c33f5bb07be64c641b8e75fa4c1c1c0ab2d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/132\/10-11.1791224511244.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "үчүн"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "кулуң"
+    },
+    {
+      "surface": "אל",
+      "gloss": "бурба"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "тескери"
+    },
+    {
+      "surface": "פני",
+      "gloss": "жүзүн"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "Машиахыңдын"
+    }
+  ],
+  "timestamp": "2026-10-05T18:21:51.245297438Z",
+  "model": "glm-5.3"
+}

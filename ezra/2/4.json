@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 2:4",
+  "book": "ezra",
+  "lang": "ky",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "тиш белгиси",
+      "rationale": "Тизмедеги энте сүйлөмге кыргызча керек, еврейче жок"
+    },
+    {
+      "kind": "measurement",
+      "subject": "эл каттоо",
+      "rationale": "Вавилондон кайткандардын тизмеси, санак: 372"
+    }
+  ],
+  "translation": "Шефатйанын уулдары: үч жүз токсон жетиден — үч жүз жетимиш эки.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "ed4cc6f2df1c7bc2c60b1e064039db0d8fd2d7716751a61f0196dab29caa1662",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ezra\/2\/4-4.1791224549807.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "уулдары"
+    },
+    {
+      "surface": "שפטיה",
+      "gloss": "Шефатйанын"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "үч"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "жүз"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "жетимиш"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "жана эки"
+    }
+  ],
+  "timestamp": "2026-10-05T18:22:29.807323487Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 6:14",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "гофер",
+      "rationale": "גֹפֶר — бул жерде гана кездешкен жыгач түрү; кайсы дарак экени белгисиз"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כפרת\/כפר",
+      "rationale": "«капта» жана «чайыр» — бир тамырдан, окшошүнбө кыргызча жоголгон"
+    },
+    {
+      "kind": "substitution",
+      "subject": "тева",
+      "rationale": "תֵּבָה — «кеме» эмес, «куту, сандык» деген сөз"
+    }
+  ],
+  "translation": "Өзүңө гофер жыгачынан тева жаса; уя-бөлмөлөрдү тевага жаса жана ⟨את⟩ аны ичинен да, сыртынан да чайыр менен капта.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "a55ed066cc2000983aa083e68817ab2822fc78d7845343b27e4d6c48f23833f9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/6\/13-16.1791200859630.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "жаса"
+    },
+    {
+      "surface": "לך",
+      "gloss": "өзүңө"
+    },
+    {
+      "surface": "תבת",
+      "gloss": "тева"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "жыгачынан"
+    },
+    {
+      "surface": "גפר",
+      "gloss": "гофер"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "уя-бөлмөлөрдү"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "жаса"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "теваны"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "тевага"
+    },
+    {
+      "surface": "וכפרת",
+      "gloss": "жана каптайсың"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "аны"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ичинен"
+    },
+    {
+      "surface": "ומחוץ",
+      "gloss": "жана сыртынан"
+    },
+    {
+      "surface": "בכפר",
+      "gloss": "чайыр менен"
+    }
+  ],
+  "timestamp": "2026-10-05T11:47:39.631019055Z",
+  "model": "glm-5.3"
+}

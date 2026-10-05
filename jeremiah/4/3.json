@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 4:3",
+  "book": "jeremiah",
+  "lang": "ky",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נירו ... ניר",
+      "rationale": "Бир эе тамырдын эки формасы — этиш (айда) жана зат атооч (айдалган жер) — үндөшүп турат; кыргызча эки сөзгө ажырайт."
+    },
+    {
+      "kind": "invitation",
+      "subject": "императив",
+      "rationale": "Яхве Йаһуда менен Йерушалайимди айдоого чакырат — бурулуу чакырыгы."
+    },
+    {
+      "kind": "you",
+      "subject": "Йаһудага жана Йерушалайимге",
+      "rationale": "Түз кайрылуу."
+    }
+  ],
+  "translation": "Анткени Яхве мыни айтат Йаһуданын адамына жана Йерушалайимге: Өзүңөргө жаңыдан айдаңар, тикендерге себеңер эмес.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "e3ee85e9fcb237b2e5899eb3140c27fdc1d574df9a1067e91b3a41ab6d2a19d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/jeremiah\/4\/1-4.1791210787905.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Анткени"
+    },
+    {
+      "surface": "כה",
+      "gloss": "мыни"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "айтат"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "адамына"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Йаһуданын"
+    },
+    {
+      "surface": "ולירושלם",
+      "gloss": "жана Йерушалайимге"
+    },
+    {
+      "surface": "נירו",
+      "gloss": "айдаңар"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "Өзүңөргө"
+    },
+    {
+      "surface": "ניר",
+      "gloss": "жаңыдан айдалган жер"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "эмес"
+    },
+    {
+      "surface": "תזרעו",
+      "gloss": "себеңер"
+    },
+    {
+      "surface": "אל",
+      "gloss": "тикендерге"
+    },
+    {
+      "surface": "קוצים",
+      "gloss": "тикендер"
+    }
+  ],
+  "timestamp": "2026-10-05T14:33:07.906662725Z",
+  "model": "glm-5.3"
+}

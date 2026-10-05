@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 1:5",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "турбайт",
+      "rationale": "Экинчи сүйлөмдө этиш түшүрүлгөн (эллипсис); кыргызча кайталап берилди"
+    },
+    {
+      "kind": "crux",
+      "subject": "יקמו",
+      "rationale": "'турбайт' же 'орунсунбайт' же 'тирилбейт' — акыркы өкүмдө туруу мааниси талаштуу"
+    }
+  ],
+  "translation": "Ошондуктан бузукулар өкүмдө турбайт, жана күнөөкөрлөр цадиктердин жыйынында ⟨турбайт⟩.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "7e04e106a071e4805e985b8f507baa435d69de80961220bb5df2be62ecdb2450",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/1\/5-6.1791215233044.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ушундан"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ошондуктан"
+    },
+    {
+      "surface": "לא",
+      "gloss": "эмес"
+    },
+    {
+      "surface": "יקמו",
+      "gloss": "турбайт"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "бузукулар"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "өкүмдө"
+    },
+    {
+      "surface": "וחטאים",
+      "gloss": "жана күнөөкөрлөр"
+    },
+    {
+      "surface": "בעדת",
+      "gloss": "жыйынында"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "цадиктердин"
+    }
+  ],
+  "timestamp": "2026-10-05T15:47:13.044796008Z",
+  "model": "glm-5.3"
+}

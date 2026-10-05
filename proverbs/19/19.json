@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 19:19",
+  "book": "proverbs",
+  "lang": "ky",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "גרל",
+      "rationale": "бул сөз Танахта ушул жерде гана кездешет; мааниси «катуу\/жакырыт» деген божомол"
+    },
+    {
+      "kind": "crux",
+      "subject": "דагы кошосуң",
+      "rationale": "KJV: «дагы бир жолу кылышың керек» менен JPS: «анын үстүнө кошосуң» — ким кошот, эмнени кошот деген талаш"
+    }
+  ],
+  "translation": "Катуу ачуу көтөргөн адам жаза тартат, анткени сен аны куткарсаң да, дагы кошосуң.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "bad42d7a68c4700fffe7c247ac07c1e0cb354901859946ed401a490fc0e3ff7c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/19\/17-20.1791218215861.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גרל",
+      "gloss": "катуу"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "ачуу"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "көтөргөн"
+    },
+    {
+      "surface": "ענеш",
+      "gloss": "жаза"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "אם",
+      "gloss": "…саң да"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "куткарсаң"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "дагы"
+    },
+    {
+      "surface": "תוסף",
+      "gloss": "кошосуң"
+    }
+  ],
+  "timestamp": "2026-10-05T16:36:55.862485508Z",
+  "model": "glm-5.3"
+}

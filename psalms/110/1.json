@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 110:1",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 110,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨айтылды⟩",
+      "rationale": "Еврей текстте айтылмыш этиш жок — нэум атамыр гана турат"
+    },
+    {
+      "kind": "crux",
+      "subject": "мырзамына",
+      "rationale": "לאדני: «менин мырзам» — адам (падыша) же Яхве өзү экени талаштуу; кийинки окуулар Машиахга таянат, бирок тексттин өзүндө бул жок"
+    },
+    {
+      "kind": "you",
+      "subject": "мырзамга",
+      "rationale": "Яхвенин сөзү тикелей үндөлгөн адамга — «отур» буйругу"
+    }
+  ],
+  "translation": "Давиддин ыры. Яхвенин сөзү мырзамына ⟨айтылды⟩: «Менин оң жагымда отур, душмандарыңды буттарыңдын жаздыгы кылганга чейин».",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "a9fc14d6108c4830e16e28557f49cfef27112e6db4f52b942264cdbdb7d92645",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/110\/1-4.1791217240374.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Давиддин"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "ыры"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "сөзү"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "мырзамына"
+    },
+    {
+      "surface": "שב",
+      "gloss": "отур"
+    },
+    {
+      "surface": "לימיני",
+      "gloss": "оң жагымда"
+    },
+    {
+      "surface": "עד",
+      "gloss": "чейин"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "кылганга"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "душмандарыңды"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "жаздык"
+    },
+    {
+      "surface": "לרגליך",
+      "gloss": "буттарыңдын"
+    }
+  ],
+  "timestamp": "2026-10-05T16:20:40.374642131Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 11:3",
+  "book": "proverbs",
+  "lang": "ky",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "аларды",
+      "rationale": "мүчөлөр אותם\/אותן текстте жок, кыргызча этиш талап кылат"
+    }
+  ],
+  "translation": "Тууралардын нактылыгы аларды жетектейт, ал эми чыккынчылардын бурмалангандыгы аларды жок кылат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "63d83c8e6d48e81c570f6aa8664cb0f6a93bb39b9ba2312fbfca03e5d2e79420",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/11\/1-4.1791217990234.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תמת",
+      "gloss": "нактылыгы"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "тууралардын"
+    },
+    {
+      "surface": "תנחם",
+      "gloss": "жетектейт"
+    },
+    {
+      "surface": "וסלף",
+      "gloss": "бурмалангандыгы"
+    },
+    {
+      "surface": "בוגדים",
+      "gloss": "чыккынчылардын"
+    },
+    {
+      "surface": "ושדם",
+      "gloss": "жок кылат"
+    }
+  ],
+  "timestamp": "2026-10-05T16:33:10.235786788Z",
+  "model": "glm-5.3"
+}

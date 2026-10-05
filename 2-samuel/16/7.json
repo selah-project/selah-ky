@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 16:7",
+  "book": "2-samuel",
+  "lang": "ky",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "איש הדמים",
+      "rationale": "«кан эртери» — «кан төккөн адам»; кыргызча «кан-жандуу адам» деп берилди"
+    },
+    {
+      "kind": "substitution",
+      "subject": "жарамсыз",
+      "rationale": "בליעל — «пайдасыз, накта жок нерселер»; кээ бир котормолор «Belial» деген ысым катары калтырат, бул жерде сыпат катары берилди"
+    },
+    {
+      "kind": "you",
+      "subject": "Давидге",
+      "rationale": "Шиминин падышага түз каргоосу — «чык, чык» буйругу менен айтылат"
+    }
+  ],
+  "translation": "Жана Шими каргаганда мындай деди: Чык, чык, кан-жандуу адам жана жарамсыз адам!",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "e8332458151d5a269c83129044611fd8d23856330c98a48e25b50557fd2ac38d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-samuel\/16\/5-8.1791207686845.json",
+    "code": "641241cf-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכה",
+      "gloss": "мындай"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "деди"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Шими"
+    },
+    {
+      "surface": "בקללו",
+      "gloss": "каргаганда"
+    },
+    {
+      "surface": "צא",
+      "gloss": "Чык"
+    },
+    {
+      "surface": "צא",
+      "gloss": "чык"
+    },
+    {
+      "surface": "איש",
+      "gloss": "адам"
+    },
+    {
+      "surface": "הדמים",
+      "gloss": "кан-жандуу"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "жана"
+    },
+    {
+      "surface": "הבליעל",
+      "gloss": "жарамсыз адам"
+    }
+  ],
+  "timestamp": "2026-10-05T13:41:26.846492233Z",
+  "model": "glm-5.3"
+}

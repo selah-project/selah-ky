@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 12:5",
+  "book": "1-samuel",
+  "lang": "ky",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ал \/ алар",
+      "rationale": "Кыргыз тили этиштин жөнөкөй өткөн чагына субъекти талап кылат; еврейче жок."
+    },
+    {
+      "kind": "substitution",
+      "subject": "кубан тыянагы",
+      "rationale": "עד — «кубаны, тыянак»; бүт сүйлөмдүн аяктагын билдирет."
+    }
+  ],
+  "translation": "Жана ал аларга айтты: Силерге каршы кубан тыянагы — Яхве, жана Анын майланганы бүгүн кубан тыянагы: анткени силер менин колумда эч нерсе тапкан жоксүңөр. Жана алар айтышты: Кубан тыянагы.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "ae5a6273aa88dc06720e31d00de57f6e449c243a088c53bd17b45b22adb3b622",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-samuel\/12\/5-8.1791206804205.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Жана ал айтты"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "аларга"
+    },
+    {
+      "surface": "עד",
+      "gloss": "кубан тыянагы"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "силерге каршы"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "жана кубан тыянагы"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "Анын майланганы"
+    },
+    {
+      "surface": "היום",
+      "gloss": "бүгүн"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ушул"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "מצאתם",
+      "gloss": "тапкан жоксүңөр"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "менин колумда"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "эч нерсе"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "жана алар айтышты"
+    },
+    {
+      "surface": "עד",
+      "gloss": "кубан тыянагы"
+    }
+  ],
+  "timestamp": "2026-10-05T13:26:44.206510830Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 9:5",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אדרש ×3",
+      "rationale": "«талап кылам» үч жолу кайталанат — Israeli нешеметинин күчтүү ритми сакталды"
+    },
+    {
+      "kind": "substitution",
+      "subject": "נפש",
+      "rationale": "נפש — «жан» эмес, «дем алуучу жандык, тирчилик күчү»; «жан» сөзү жакындаштыруу"
+    }
+  ],
+  "translation": "Жана чын эле ⟨את⟩ силердин каныңарды — жан-жаныңардыкыны — ар бир жаныбардын колунан талап кылам; ал эми адамдын колунан, ар бир адамдын бир тууганынын колунан адамдын ⟨את⟩ жанын талап кыламын.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "09c94cbdffc7e8f065de9626980ca30469f392f007bbe2f34846cf403b16608f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/9\/5-8.1791200808169.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואך",
+      "gloss": "жана чын эле"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "силердин каныңарды"
+    },
+    {
+      "surface": "דמכם",
+      "gloss": "силердин каныңарды"
+    },
+    {
+      "surface": "לנפשתיכם",
+      "gloss": "жан-жаныңардыкыны"
+    },
+    {
+      "surface": "אדרש",
+      "gloss": "талап кылам"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "колунан"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ар бир"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "жаныбардын"
+    },
+    {
+      "surface": "אדרשנו",
+      "gloss": "талап кылам"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "ал эми колунан"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "адамдын"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "колунан"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ар бир адамдын"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "бир тууганынын"
+    },
+    {
+      "surface": "אדרש",
+      "gloss": "талап кыламын"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "адамдын жанын"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "жанын"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "адамдын"
+    }
+  ],
+  "timestamp": "2026-10-05T11:46:48.170055415Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 8:14",
+  "book": "deuteronomy",
+  "lang": "ky",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ורם לבבך",
+      "rationale": "буквалдуу «жүрөгүң бийик болот» — кыргызча «жүрөгүң төбөңө тийип» деген идиома менен берилди"
+    },
+    {
+      "kind": "you",
+      "subject": "сени",
+      "rationale": "Исраилге түз кайрылуу — «сени Мицрайимден алып чыккан»"
+    }
+  ],
+  "translation": "жана жүрөгүң төбөңө тийип, сен ⟨את⟩ Яхвени, ⟨сенин⟩ Элохимиңди унутуп каласың — ал сени Мицрайим жеринен, кулдар үйүнөн алып чыккан.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "dd6fbb2a5ed679a18fc009a8b9828b2fe39d80c1b2a6f547c759f1104f1e8e45",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/8\/13-16.1791204860457.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ורם",
+      "gloss": "жана төбөңө тийип"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "жүрөгүң"
+    },
+    {
+      "surface": "ושכחת",
+      "gloss": "жана унутуп каласың"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яхвени"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвени"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Элохимиңди"
+    },
+    {
+      "surface": "המוציאך",
+      "gloss": "алып чыккан"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "жеринен"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицрайим"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "үйүнөн"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "кулдар"
+    }
+  ],
+  "timestamp": "2026-10-05T12:54:20.457816269Z",
+  "model": "glm-5.3"
+}

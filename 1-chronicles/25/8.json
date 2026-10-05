@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 25:8",
+  "book": "1-chronicles",
+  "lang": "ky",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "жребий ташташты",
+      "rationale": "הפילו גורלות 'жребий түшүрүштү' — таштар менен чечим чыгаруу салты"
+    },
+    {
+      "kind": "crux",
+      "subject": "мבין עם תלמיד",
+      "rationale": "KJV 'teacher as the scholar' — 'мугалим да окуучу да'; ивритте 'түшүнгөн' жөн гана билимдүү адам, мугалим деген сөз жок"
+    }
+  ],
+  "translation": "Жана алар күзөт боюнча жребий ташташты — кичинекей да, чоң да окшош, түшүнгөн да окуучу менен.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "a86308fc40aa8628645eda1de031fae1ac2ab8ecc7876c9fbd5117bb1ae0d20b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-chronicles\/25\/5-8.1791222356524.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויפילו",
+      "gloss": "ташташты"
+    },
+    {
+      "surface": "גורלות",
+      "gloss": "жребий"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "күзөт боюнча"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "өз ара"
+    },
+    {
+      "surface": "כקטן",
+      "gloss": "кичинекей да"
+    },
+    {
+      "surface": "כגדול",
+      "gloss": "чоң да"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "түшүнгөн"
+    },
+    {
+      "surface": "עם",
+      "gloss": "менен"
+    },
+    {
+      "surface": "תלמיד",
+      "gloss": "окуучу"
+    }
+  ],
+  "timestamp": "2026-10-05T17:45:56.525944796Z",
+  "model": "glm-5.3"
+}

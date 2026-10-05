@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "nehemiah 4:17",
+  "book": "nehemiah",
+  "lang": "ky",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "איש שלחו המים",
+      "rationale": "JPS: «сууга барган ар бирөө куралын алып жүрдү»; башкалары «шиш handful» деп окуйт — куралды кантип кармоо жөнүндө эки окуу бар."
+    },
+    {
+      "kind": "substitution",
+      "subject": "פשטים",
+      "rationale": "פשט — «жайып жиберүү, чечүү»; бизде «кийим чечкендер жок» деп берилди."
+    }
+  ],
+  "translation": "Мен да, бир туугандарым да, жигиттерим да, менин артымдагы күзөтчүлөр да — биздин ичibiзде кийимдерибизди чечкендер жок; ар бирөө курал-жарагын сууга ⟨менен⟩ алып бардуу.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "f9519dbd50501233146a8189dabccccc38a30f3ad296efe85560628bcb5b4a73",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/nehemiah\/4\/17-17.1791221270506.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואין",
+      "gloss": "жок"
+    },
+    {
+      "surface": "אני",
+      "gloss": "мен"
+    },
+    {
+      "surface": "ואחי",
+      "gloss": "бир туугандарым"
+    },
+    {
+      "surface": "ונערי",
+      "gloss": "жигиттерим"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "адамдары"
+    },
+    {
+      "surface": "המשמר",
+      "gloss": "күзөтчүлөрдүн"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "алар"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "артымдагы"
+    },
+    {
+      "surface": "אין",
+      "gloss": "жок"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "биз"
+    },
+    {
+      "surface": "פשטים",
+      "gloss": "чечкендер"
+    },
+    {
+      "surface": "בגדינו",
+      "gloss": "кийимдерибизди"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ар бирөө"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "курал-жарагын"
+    },
+    {
+      "surface": "המים",
+      "gloss": "сууга"
+    }
+  ],
+  "timestamp": "2026-10-05T17:27:50.507775060Z",
+  "model": "glm-5.3"
+}

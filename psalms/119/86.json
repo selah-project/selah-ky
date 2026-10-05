@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 86,
+  "ref": "psalms 119:86",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨менен⟩",
+      "rationale": "шекер 'жалган' — кыргызча 'жалган менен' деген工具 сөз керек"
+    },
+    {
+      "kind": "you",
+      "subject": "Яхвеге",
+      "rationale": "жардам сурап багышталган тике тиленүү"
+    }
+  ],
+  "translation": "Бардык буйруктарың чынчылдык; жалган менен мени куудулашты — мага жардам бер.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "8e03f311bbb937ffcb1e3d0c3a65cc4b4fa53d2c47c61faebecb9f7bbf051b71",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/119\/85-88.1791217376501.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "бардык"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "буйруктарың"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "чынчылдык"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "жалган"
+    },
+    {
+      "surface": "רדפוני",
+      "gloss": "мени куудулашты"
+    },
+    {
+      "surface": "עזרני",
+      "gloss": "мага жардам бер"
+    }
+  ],
+  "timestamp": "2026-10-05T16:22:56.502243464Z",
+  "model": "glm-5.3"
+}

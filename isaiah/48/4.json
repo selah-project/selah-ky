@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 48:4",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨бул⟩",
+      "rationale": "Copula supplied; Hebrew is verbless: 'an iron sinew your neck'"
+    },
+    {
+      "kind": "idiom",
+      "subject": "темир сөөк · жез маңдай",
+      "rationale": "Iron neck and bronze forehead — Hebrew idiom for stubbornness"
+    }
+  ],
+  "translation": "Билгеним үчүн: сен катуу сез, моюнуң темир сөөк ⟨бул⟩, жана маңдайың жез ⟨бул⟩.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "cda11b13bf2b36aefddd31eb661cddcb70e94a82672595102bb5f19d6e0e5692",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/48\/1-4.1791210266968.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מדעתי",
+      "gloss": "Билгеним үчүн"
+    },
+    {
+      "surface": "כי",
+      "gloss": ": … сенсиң"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "катуу"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "сен"
+    },
+    {
+      "surface": "וגיד",
+      "gloss": "жана сөөк"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "темир"
+    },
+    {
+      "surface": "ערפך",
+      "gloss": "моюнуң"
+    },
+    {
+      "surface": "ומצחך",
+      "gloss": "жана маңдайың"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "жез"
+    }
+  ],
+  "timestamp": "2026-10-05T14:24:26.970067336Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 118:24",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 118,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "кубанайлы жана сүйүнөлү",
+      "rationale": "Коомдук чакырык — 1-жамааттык буйрук формасы, окурманды тартат"
+    },
+    {
+      "kind": "substitution",
+      "subject": "кубанайлы",
+      "rationale": "גיל — 'айлануу, бийлөө' деген дене кыймылынан; кыргызча эмоция гана калды"
+    }
+  ],
+  "translation": "Бул — Яхве жасаган күн; аны менен кубанайлы жана сүйүнөлү.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "ea0889e6b7922f3ac1ab241b6b4c1bcce6469c0577eccbec01ccfa43351e2e85",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/118\/21-24.1791217276337.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "бул"
+    },
+    {
+      "surface": "היום",
+      "gloss": "күн"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "жасаган"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "נגילה",
+      "gloss": "кубанайлы"
+    },
+    {
+      "surface": "ונשמחה",
+      "gloss": "жана сүйүнөлү"
+    },
+    {
+      "surface": "בו",
+      "gloss": "аны менен"
+    }
+  ],
+  "timestamp": "2026-10-05T16:21:16.338783487Z",
+  "model": "glm-5.3"
+}

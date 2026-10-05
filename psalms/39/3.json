@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 39:3",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נאלמתי…דומיה…החשיתי",
+      "rationale": "Үч удаалаш тынчтык тамыры — үн чыгарбоонун чынжыры, котормодо «унчукпадым — унчукпай — үнүмдү тарттым» деп берилди."
+    },
+    {
+      "kind": "crux",
+      "subject": "נעכר",
+      "rationale": "Тамыр «сууну лаңдатуу» деген: «оорум дүүлүктү» же (JPS боюнча) «оорум кармалып турду» — эки окуу бар."
+    }
+  ],
+  "translation": "Мен унчукпадым, толук унчукпай калдым, жакшы сөздөн да үнүмдү тарттым — жана оорум дүүлүктү.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "7c2ab32a375ff9e54959f3239a0df1553b2b559a7759a3e1daabf1d04a1ed9fc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/39\/1-4.1791215982676.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נאלמתי",
+      "gloss": "мен унчукпадым"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "толук унчукпай"
+    },
+    {
+      "surface": "החשיתי",
+      "gloss": "үнүмдү тарттым"
+    },
+    {
+      "surface": "מטוב",
+      "gloss": "жакшы сөздөн да"
+    },
+    {
+      "surface": "וכאבי",
+      "gloss": "жана оорум"
+    },
+    {
+      "surface": "נעכר",
+      "gloss": "дүүлүктү"
+    }
+  ],
+  "timestamp": "2026-10-05T15:59:42.677539801Z",
+  "model": "glm-5.3"
+}

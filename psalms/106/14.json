@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 106:14",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 106,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Эл",
+      "rationale": "אֵל бул жерде Элохимдин аталышы — «кудат» эмес, ысым катары айтылышында жазылат"
+    },
+    {
+      "kind": "crux",
+      "subject": "ויתאוו תאавá",
+      "rationale": "этиш менен зат аты бир тамырдан кайра айтылат: «каалоо каалашты» — кыргызча окшоштук жоголду"
+    }
+  ],
+  "translation": "Жана алар чөлдө өтө каалашты жана Элди Ишимондо сынашты.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "6057f115937366e718ba43b3c279106224f51f088d9364b8175cbc3144ec018d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/106\/13-16.1791217110100.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתאוו",
+      "gloss": "каалашты"
+    },
+    {
+      "surface": "תאוה",
+      "gloss": "өтө каалоо боюнча"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "чөлдө"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "сынашты"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Элди"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "Ишимондо"
+    }
+  ],
+  "timestamp": "2026-10-05T16:18:30.103112872Z",
+  "model": "glm-5.3"
+}

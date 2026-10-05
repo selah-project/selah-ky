@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 89:9",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨окшойт⟩ сураштык структура",
+      "rationale": "еврейче «ким сендей күчтүү Ях» — кыргызча суроо түрүндө берилди"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Яхвеге карата суроо",
+      "rationale": "мактоо суроосу — эч ким Яхвеге окшобойт деген риторикалык чакырык"
+    }
+  ],
+  "translation": "Яхве, Элохим Цебаот! Ким Сага окшойт, күчтүү Ях? Сенин ишенимдүүлүгүң Сенин айланаңда.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "946c26a8e3e0ef41ad038276dce8d054dd3cefb110f3bc993fdc296222af6faa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/89\/9-12.1791216772277.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цебаот"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Ким"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "Сага окшойт"
+    },
+    {
+      "surface": "חסין",
+      "gloss": "күчтүү"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ях"
+    },
+    {
+      "surface": "ואמונתך",
+      "gloss": "ишенимдүүлүгүң"
+    },
+    {
+      "surface": "סביבותיך",
+      "gloss": "айланаңда"
+    }
+  ],
+  "timestamp": "2026-10-05T16:12:52.278003303Z",
+  "model": "glm-5.3"
+}

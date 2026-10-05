@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 14:1",
+  "book": "1-chronicles",
+  "lang": "ky",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "кедр дарактар",
+      "rationale": "עצי ארזים — кедр жыгачы, көчөт же бөлүклөр эмес, түз эле кедр дарактар"
+    },
+    {
+      "kind": "addition",
+      "subject": "жөнөттү (2-жолу)",
+      "rationale": "Ивритте бир гана וישלח бар; экинчи этиш кыргызча сүйлөм үчүн кошулду"
+    }
+  ],
+  "translation": "Жана Хирам, Цордун падышасы, Давидге элчилер жөнөттү, жана кedar дарактарды, дубал усталарын жана жыгач усталарын ага үй салуу үчүн жөнөттү.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "5a05b24d66802b8ea78d25fc4ed7186f6b3c885f9032bb61b508351b615b9246",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-chronicles\/14\/1-4.1791222126918.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "жөнөттү"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Хирам"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "падышасы"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Цордун"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "элчилер"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…га"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "ועצי",
+      "gloss": "жана дарактарды"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "кедр"
+    },
+    {
+      "surface": "וחרשי",
+      "gloss": "жана усталарын"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "дубал"
+    },
+    {
+      "surface": "וחרשי",
+      "gloss": "жана усталарын"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "жыгач"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "салуу үчүн"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ага"
+    },
+    {
+      "surface": "בית",
+      "gloss": "үй"
+    }
+  ],
+  "timestamp": "2026-10-05T17:42:06.918782839Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 24:3",
+  "book": "1-samuel",
+  "lang": "ky",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "על פני",
+      "rationale": "букв. ' бетинде\/үстүндө'; кыргызча 'үстүнөн' издөө багыты менен берилди"
+    },
+    {
+      "kind": "measurement",
+      "subject": "үч миң",
+      "rationale": "тандалган аскерлердин саны эсепке алынат"
+    }
+  ],
+  "translation": "Шаул бүт Йисраэлден үч миң тандалган адам алып, жапайы эчкилердин аскаларынын үстүнөн ⟨את⟩ Давидди жана анын кишилерин издеп жөнөдү.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "f87057065c432e457da7a07668390ef5126ec80feb3d6ba74b30131f2e9b59ae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-samuel\/24\/1-4.1791207135680.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "алды"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "үч"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "миң"
+    },
+    {
+      "surface": "איש",
+      "gloss": "адам"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "тандалган"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "бүт...ден"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэл"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "жөнөдү"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "издеп"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Давидди"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давидди"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "жана анын кишилерин"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстүнөн"
+    },
+    {
+      "surface": "פני",
+      "gloss": "…"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "аскаларынын"
+    },
+    {
+      "surface": "היעלים",
+      "gloss": "жапайы эчкилердин"
+    }
+  ],
+  "timestamp": "2026-10-05T13:32:15.681087067Z",
+  "model": "glm-5.3"
+}

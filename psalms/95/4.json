@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 95:4",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 95,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "תועפות",
+      "rationale": "Rare collective plural; 'heights\/summits' (from 'weariness' of climbing) rendered 'peaks'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "терең жерлери",
+      "rationale": "מחקרי literally 'searched-out places', i.e. recesses\/depths"
+    }
+  ],
+  "translation": "Анын колунда жердин терең жерлери бар, тоолордун бийиктиктери Аныкы",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "10d86986e2ff93155526143b6e52afb9b7bf2e9ef6d05a572507347523f37b71",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/95\/1-4.1791216898234.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Анын"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "колунда"
+    },
+    {
+      "surface": "מחקרי",
+      "gloss": "терең жерлери"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "жердин"
+    },
+    {
+      "surface": "ותועפות",
+      "gloss": "бийиктиктери"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "тоолордун"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Аныкы"
+    }
+  ],
+  "timestamp": "2026-10-05T16:14:58.235694261Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "leviticus 14:52",
+  "book": "leviticus",
+  "lang": "ky",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "тазаласын",
+      "rationale": "וְחִטֵּא «күнөөдөн тазартсын» — тазалоо маанисинде"
+    }
+  ],
+  "translation": "Жана канаттуунун каны менен, тирүү суу менен, тирүү канаттуу менен, кедр дарагы менен, исоп менен жана кызыл курт боегу менен ⟨את⟩ үйдү тазаласын.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "40d35f14f2a96ee4d1e5992fa4ad20c76471b4c87d68286aad855c925eca8384",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/14\/49-52.1791203054894.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וחטא",
+      "gloss": "жана тазаласын"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "үйдү"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "үйдү"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "каны менен"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "канаттуунун"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "жана суу менен"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "тирүү"
+    },
+    {
+      "surface": "ובצפר",
+      "gloss": "жана канаттуу менен"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "тирүү"
+    },
+    {
+      "surface": "ובעץ",
+      "gloss": "жана дарагы менен"
+    },
+    {
+      "surface": "הארז",
+      "gloss": "кедр"
+    },
+    {
+      "surface": "ובאזב",
+      "gloss": "жана исоп менен"
+    },
+    {
+      "surface": "ובשני",
+      "gloss": "жана кызыл боек менен"
+    },
+    {
+      "surface": "התולעת",
+      "gloss": "курт боегу"
+    }
+  ],
+  "timestamp": "2026-10-05T12:24:14.896042659Z",
+  "model": "glm-5.3"
+}

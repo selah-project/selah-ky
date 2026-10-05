@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 5:1",
+  "book": "leviticus",
+  "lang": "ky",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жан",
+      "rationale": "נפש — дем алуучу жандык, жүрөк-каалоо жана жашоо күчү жакын; «жан» кеңири"
+    },
+    {
+      "kind": "crux",
+      "subject": "קול אלה",
+      "rationale": "«каргыштын үнү» (коомдук ант-каргыш уккан күбө) же жалпы «ант укса» — котормолор бөлүнөт"
+    }
+  ],
+  "translation": "Жана жан, эгер күнөө кылса жана каргыштын үнүн укса, ал күбө болуп — же көрсө, же билсе — эгер билдирбесе, анда ал өз айып-күнөөсүн көтөрөт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "73b542981217c30cb37207bdfa4217c6be4f5330c0d1e24b87987c8142263341",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/5\/1-4.1791202944757.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונפש",
+      "gloss": "Жана жан"
+    },
+    {
+      "surface": "כי",
+      "gloss": "эгер"
+    },
+    {
+      "surface": "תחטא",
+      "gloss": "күнөө кылса"
+    },
+    {
+      "surface": "ושמעה",
+      "gloss": "укса"
+    },
+    {
+      "surface": "קול",
+      "gloss": "үнүн"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "каргыштын"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ал"
+    },
+    {
+      "surface": "עד",
+      "gloss": "күбө"
+    },
+    {
+      "surface": "או",
+      "gloss": "же"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "көрсө"
+    },
+    {
+      "surface": "או",
+      "gloss": "же"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "билсе"
+    },
+    {
+      "surface": "אם",
+      "gloss": "эгер"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "билдирбесе"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "көтөрөт"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "өз айып-күнөөсүн"
+    }
+  ],
+  "timestamp": "2026-10-05T12:22:24.757867072Z",
+  "model": "glm-5.3"
+}

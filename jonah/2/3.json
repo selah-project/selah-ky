@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jonah 2:3",
+  "book": "jonah",
+  "lang": "ky",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Шеол",
+      "rationale": "שאול — тозок эмес, өлгөндөрдүн дүйнөсү; Шеол катары сакталды."
+    },
+    {
+      "kind": "you",
+      "subject": "Йонанын Яхвеге сыйынуусу",
+      "rationale": "Йона Яхвени «Сен» деп түз кайрылат."
+    },
+    {
+      "kind": "elision",
+      "subject": "לי",
+      "rationale": "Ивриттин «мага» деген этишке тутумдаш мүчөсү кыргызча этиштин өзүндө камтылды."
+    }
+  ],
+  "translation": "Жана ал айтты: Кыйынчылыгымда мен Яхвеге кыйкырдым, жана Ал мени жооп берди; Шеолдун курсагынан мен кыйкырдым — Сен менин үнүмдү уктуң.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "118e8c25bb755b9b1bb5b1e3152ed62f6bef5e7c9c225726f5754065ba2f1e62",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/jonah\/2\/1-4.1791214466272.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ал айтты"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "мен кыйкырдым"
+    },
+    {
+      "surface": "מצרה",
+      "gloss": "Кыйынчылыгымда"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мага"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвеге"
+    },
+    {
+      "surface": "ויענני",
+      "gloss": "Ал мени жооп берди"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "курсагынан"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шеолдун"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "мен кыйкырдым"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "Сен уктуң"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "үнүмдү"
+    }
+  ],
+  "timestamp": "2026-10-05T15:34:26.273440242Z",
+  "model": "glm-5.3"
+}

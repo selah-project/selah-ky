@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 21:21",
+  "book": "2-samuel",
+  "lang": "ky",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Давиддин бир тууганы",
+      "rationale": "אחי דוד Шимиге (ASV, JPS: 'Давиддин бир тууганы Шими') же Йехонатанга (KJV: 'Шими, Давиддин бир тууганы') тиешелүү болушу мүмкүн."
+    },
+    {
+      "kind": "substitution",
+      "subject": "шылдыңдады",
+      "rationale": "ויחרף туурасы 'сындырды, кор кылды' — кыргызча 'шылдыңдоо' эң жакын маани."
+    }
+  ],
+  "translation": "жана ал ⟨את⟩ Йисраэлди шылдыңдады; аны Давиддин бир тууганы Шиминин уулу Йехонатан чаап жыгды.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "6ff426822879c8fbe098491b5a97b5e53f082195e3555d74bc3018968e39526f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-samuel\/21\/21-22.1791207739229.json",
+    "code": "641241cf-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחרף",
+      "gloss": "шылдыңдады"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Йисраэлди"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэлди"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "чаап жыгды"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Йехонатан"
+    },
+    {
+      "surface": "בן",
+      "gloss": "уулу"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Шиминин"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "бир тууганы"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давиддин"
+    }
+  ],
+  "timestamp": "2026-10-05T13:42:19.230494406Z",
+  "model": "glm-5.3"
+}

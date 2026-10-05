@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 25:17",
+  "book": "deuteronomy",
+  "lang": "ky",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "Эсте",
+      "rationale": "Сенин Израилге багытталган буйрук, ачык кайрылуу."
+    },
+    {
+      "kind": "you",
+      "subject": "сага",
+      "rationale": "Кайрылуу Израилге — «сенин» 2-жаңге бирлик."
+    },
+    {
+      "kind": "substitution",
+      "subject": "Амалек",
+      "rationale": "Этноним еврейче айтылышында кармалды."
+    }
+  ],
+  "translation": "Эсте, ⟨את⟩ нерсени Амалек сага жолдо жасаган, Мицрайимден чыгып баратканыңарда.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "0d587a611ce6b42080e05f531a9eef60016013debea04f41561d6deae8b5db96",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/25\/17-19.1791205201573.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "Эсте"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "нерсени"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "нерсени"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "жасаган"
+    },
+    {
+      "surface": "לך",
+      "gloss": "сага"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Амалек"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "жолдо"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "чыгып баратканыңарда"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Мицрайимден"
+    }
+  ],
+  "timestamp": "2026-10-05T13:00:01.573980906Z",
+  "model": "glm-5.3"
+}

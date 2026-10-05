@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 58:2",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 58,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אלם",
+      "rationale": "«Элем» сөзү «улугымар» (жол башчылар) деп да, «элдер» (жыйын) деп да окшош; KJV «congregation», BSB «rulers»."
+    },
+    {
+      "kind": "you",
+      "subject": "адам балдарына",
+      "rationale": "Аят жол башчыларга же жыйынга түз кайрылуу менен башталат."
+    },
+    {
+      "kind": "substitution",
+      "subject": "элдер",
+      "rationale": "אלם сөзү кыйын: «элдер», «улугумар» же «уугу» деп алынышы мүмкүн."
+    }
+  ],
+  "translation": "Чынбы эле, элдер, цедекти сүйлөйсүңөрбү? Адам балдары, түз өкүм чыгараасыңарбы?",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "476db0d769a2558c08b8fad5a679c3e9d65646bb14f5559487010d517925623f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/58\/1-4.1791216238561.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "האמנם",
+      "gloss": "чынбы эле"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "элдер"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "цедекти"
+    },
+    {
+      "surface": "תדברון",
+      "gloss": "сүйлөйсүңөрбү"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "түз"
+    },
+    {
+      "surface": "תשפטו",
+      "gloss": "өкүм чыгараасыңарбы"
+    },
+    {
+      "surface": "בני",
+      "gloss": "балдары"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "адам"
+    }
+  ],
+  "timestamp": "2026-10-05T16:03:58.562070005Z",
+  "model": "glm-5.3"
+}

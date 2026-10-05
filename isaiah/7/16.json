@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 7:16",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "rationale": "Кыргызча байланыштыргыч ат ачкыч жок — 'сен жек көргөн' деген PARTICIPLE түз байланат"
+    },
+    {
+      "kind": "idiom",
+      "subject": "эки падышасынын көзүнөн",
+      "rationale": "מפני 'йүзүнөн' — 'алардын йүзүнөн\/көзүнөн' деген идиома, 'себебинен' эмес"
+    },
+    {
+      "kind": "you",
+      "subject": "Ахазга",
+      "rationale": "קץ 'сен жек көресің' — кайрылуу Ахазга багытталат"
+    },
+    {
+      "kind": "measurement",
+      "subject": "эки падыша",
+      "rationale": "Айтылган убакыт чеги: баланын билимге жетиши — эки падышанын (Рацин менен Пекахтын) акыры"
+    }
+  ],
+  "translation": "Анткени бала жаманды четке кагууну жана жакшыны тандоону билгенче, сен жек көргөн ал жер эки падышасынын көзүнөн ташталып калат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "a6146c4e58a799711a253935b5c8021d72e44f34325de6d7f3a7ceed119778e2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/7\/13-16.1791209456864.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Анткени"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "билгенче"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "билүүнү"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "бала"
+    },
+    {
+      "surface": "מאס",
+      "gloss": "четке кагууну"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "жаманды"
+    },
+    {
+      "surface": "ובחר",
+      "gloss": "жана тандоону"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "жакшыны"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "ташталып калат"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ал жер"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "אתה",
+      "gloss": "сен"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "жек көргөн"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "көзүнөн"
+    },
+    {
+      "surface": "שני",
+      "gloss": "эки"
+    },
+    {
+      "surface": "מלכיה",
+      "gloss": "падышасынын"
+    }
+  ],
+  "timestamp": "2026-10-05T14:10:56.865780273Z",
+  "model": "glm-5.3"
+}

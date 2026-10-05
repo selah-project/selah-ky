@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 23:2",
+  "book": "deuteronomy",
+  "lang": "ky",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "шамал",
+      "rationale": "שפכה букв. «төккүч түтүк» — ыйгырык; эвфемизм сакталды, форма түшүрүлбөдү"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨эркек⟩",
+      "rationale": "Кыргызча сүйлөм ээни талап кылат; еврей текстте ээ жок"
+    },
+    {
+      "kind": "crux",
+      "subject": "бул аяттын ордогу",
+      "rationale": "Иврит нускаларында бул аят 23:1 деп эсептелет (ЖПС боюнча); кийинки нускаларда 23:2"
+    }
+  ],
+  "translation": "Яхвенин жыйынына майдаланган-жараланган, кесилген шамалдуу ⟨эркек⟩ кирбейт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "eb4129bc2faeda18b5719cfc8cacc7f6a8d82ee068b1a311486b76b946c1cbea",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/23\/1-4.1791205252330.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "кирбейт"
+    },
+    {
+      "surface": "פצוע",
+      "gloss": "жараланган"
+    },
+    {
+      "surface": "דכא",
+      "gloss": "майдаланган"
+    },
+    {
+      "surface": "וכרות",
+      "gloss": "жана кесилген"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "шамал (эрекече жолу)"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "жыйынга"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    }
+  ],
+  "timestamp": "2026-10-05T13:00:52.331404606Z",
+  "model": "glm-5.3"
+}

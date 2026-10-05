@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jonah 4:9",
+  "book": "jonah",
+  "lang": "ky",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "חרה",
+      "rationale": "Литералдуу «жанып кетүү\/кызуу болуу» — каардануу маанисинде; кыргызча «каардануу» деп берилди."
+    },
+    {
+      "kind": "crux",
+      "subject": "ההיטב חרה לך",
+      "rationale": "«Каардануу сага жакшыбы?» же YLT боюнча «Жакшылык кылуу мага жарабайбы?» — эки окшош окуу бар."
+    },
+    {
+      "kind": "elision",
+      "subject": "…га",
+      "rationale": "אל көрсөтүү алдындагы кыргызча мүчө менен берилди, өзүнчө сөз жок."
+    }
+  ],
+  "translation": "Элохим Йонага айтты: Кабак үчүн ушинчелейин каардануу сага жакшыбы? Ал айтты: Каардануу мага жакшы, өлгөнчө.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "66d4c6f21497030f10824e4d916018cd2d47e0ae7967b7a4c22e1e62b8fe2738",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/jonah\/4\/9-11.1791214486966.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…га"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Йона"
+    },
+    {
+      "surface": "ההיטב",
+      "gloss": "жакшыбы"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "каардануу"
+    },
+    {
+      "surface": "לך",
+      "gloss": "сага"
+    },
+    {
+      "surface": "על",
+      "gloss": "үчүн"
+    },
+    {
+      "surface": "הקיקיון",
+      "gloss": "кабак"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "היטב",
+      "gloss": "жакшы"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "каардануу"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мага"
+    },
+    {
+      "surface": "עד",
+      "gloss": "өлгөнчө"
+    },
+    {
+      "surface": "מות",
+      "gloss": "өлүм"
+    }
+  ],
+  "timestamp": "2026-10-05T15:34:46.966900556Z",
+  "model": "glm-5.3"
+}

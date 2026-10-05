@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 130:7",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 130,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "бар",
+      "rationale": "Еврей текстте «бар» деген these жок — «Яхвенин жанында хесед» деп турат; кыргызча атоочсуз сүйлөм бүтпөйт."
+    },
+    {
+      "kind": "you",
+      "subject": "Йисраэлге",
+      "rationale": "Ырчы Йисраэлди тикелей үндөп, Яхвеге үмүт кылсын деп чакырат."
+    },
+    {
+      "kind": "invitation",
+      "subject": "үмүт кылууга чакыруу",
+      "rationale": "Яхвеге үмүт кылууга чакырылуучу сөз-аракет."
+    }
+  ],
+  "translation": "Йисраэл Яхвеге үмүт менен күтсүн, анткени Яхвенин жанында хесед ⟨бар⟩, жана Анын жанында көп куткаруу.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "3696f5af547dcfc3c015564eab1208db384e056e1d7c5f57c7aadb843fdc2e37",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/130\/5-8.1791217477510.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יחל",
+      "gloss": "үмүт-менен-күтсүн"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэл"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Яхвеге"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвеге"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "עם",
+      "gloss": "жанында"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    },
+    {
+      "surface": "החסד",
+      "gloss": "хесед"
+    },
+    {
+      "surface": "והרבה",
+      "gloss": "жана-көп"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "Анын-жанында"
+    },
+    {
+      "surface": "פדות",
+      "gloss": "куткаруу"
+    }
+  ],
+  "timestamp": "2026-10-05T16:24:37.511980328Z",
+  "model": "glm-5.3"
+}

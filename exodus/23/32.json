@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 23:32",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כרת ברית",
+      "rationale": "'келишим кесүү' — жаныбар кесип, бөлүктөрүнүн ортосунан өтүү салтына байланыштуу; кыргызча 'түзүү' деп жумшартылды"
+    },
+    {
+      "kind": "you",
+      "subject": "буйрук",
+      "rationale": "Исраэлге багытталган тыюу — түз сүйлөм-кылык"
+    },
+    {
+      "surface": "note",
+      "kind": "substitution",
+      "subject": "кудайлары",
+      "rationale": "אלהיהם — башка элдердин кудайлары, кичине тамга менен 'кудайлары'"
+    }
+  ],
+  "translation": "Алар менен да, алардын кудайлары менен да келишим түзбө.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "09f9bd38b14ac0e4b199910d9d05b3e251dc8cdfc0c1a381399627334c710efe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/23\/29-32.1791202324402.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "түзбө"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "кесип түзбө"
+    },
+    {
+      "surface": "להם",
+      "gloss": "алар менен"
+    },
+    {
+      "surface": "ולאלהיהם",
+      "gloss": "алардын кудайлары менен"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "келишим"
+    }
+  ],
+  "timestamp": "2026-10-05T12:12:04.403977689Z",
+  "model": "glm-5.3"
+}

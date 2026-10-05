@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 36:20",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "хорей",
+      "rationale": "החרי — Эдомдун жергиликтүү эли; 'пещерада жашоочу' деген тамырдан болушу мүмкүн"
+    },
+    {
+      "kind": "measurement",
+      "subject": "генеалогия",
+      "rationale": "Сеирдин уулдары тизмеленип жатат — Эдомдун байыркы калкы"
+    }
+  ],
+  "translation": "Булар — жердин жашоочулары Сеир хорейдин уулдары: Лотан, Шовал, Цибон жана Ана.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "12e65595675d50c34a48f547fca8e3c9a84b16a0fa217c7570bfedcba2db3b47",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/36\/17-20.1791201456635.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "булар"
+    },
+    {
+      "surface": "בני",
+      "gloss": "уулдары"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Сеир"
+    },
+    {
+      "surface": "החרי",
+      "gloss": "хорейдин"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "жашоочулары"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "жердин"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "Лотан"
+    },
+    {
+      "surface": "ושובל",
+      "gloss": "жана Шовал"
+    },
+    {
+      "surface": "וצבעון",
+      "gloss": "жана Цибон"
+    },
+    {
+      "surface": "וענה",
+      "gloss": "жана Ана"
+    }
+  ],
+  "timestamp": "2026-10-05T11:57:36.636235235Z",
+  "model": "glm-5.3"
+}

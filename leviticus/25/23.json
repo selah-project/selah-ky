@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 25:23",
+  "book": "leviticus",
+  "lang": "ky",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לצמתת",
+      "rationale": "Сейрек сөз: «кесилүүгө \/ жок болууга» дегенди билдирет — «түбөлүккө» (KJV), «өчүрүлбөстүккө» (JPS) деген варианттар бар."
+    },
+    {
+      "kind": "you",
+      "subject": "Ысрайылга",
+      "rationale": "Яхве элге тикелей кайрылат: «силер Мен менен жат конокторсуңар»."
+    },
+    {
+      "kind": "substitution",
+      "subject": "Меники",
+      "rationale": "לי — «Мага (таандык)» деген этиштик конструкция; кыргызча ээлик формага алмаштырылды."
+    }
+  ],
+  "translation": "Жана жер түбөлүккө сатылбас, анткени жер Меники, анткени силер Мен менен жат коноктор жана жашоочуларсыңар.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "a916cf12e7db2a0d2cdbecc12e1341b5f6bfb6716806344a4c4ffbc3ee49b478",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/25\/22-23.1791223635392.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "жана жер"
+    },
+    {
+      "surface": "לא",
+      "gloss": "болбойт"
+    },
+    {
+      "surface": "תמכר",
+      "gloss": "сатылбас"
+    },
+    {
+      "surface": "לצמתת",
+      "gloss": "түбөлүккө"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Менин"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "жер"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "коноктор"
+    },
+    {
+      "surface": "ותושבים",
+      "gloss": "жана жашоочулар"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "силер"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "Мен менен"
+    }
+  ],
+  "timestamp": "2026-10-05T18:07:15.392814701Z",
+  "model": "glm-5.3"
+}

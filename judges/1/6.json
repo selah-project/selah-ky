@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "judges 1:6",
+  "book": "judges",
+  "lang": "ky",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "баш бармактарын жана чоң бармактарын",
+      "rationale": "בהנות бир эле сөз — колдун баш бармагы да, буттун чоң бармагы да; кыргызча эки сөз керек болду."
+    }
+  ],
+  "translation": "Жана Адони-Безек качты, алар анын артынан куушту, аны кармашты жана ⟨את⟩ колдорунун баш бармактарын жана буттарынын чоң бармактарын кесишти.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "ffe47007b9a925708348fd3e8d52e9a4269d343800f88cf0886fce1b62eced73",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/judges\/1\/5-8.1791206038577.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וינס",
+      "gloss": "качты"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адони-"
+    },
+    {
+      "surface": "בזק",
+      "gloss": "Безек"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "куушту"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "анын артынан"
+    },
+    {
+      "surface": "ויאחזו",
+      "gloss": "кармашты"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "аны"
+    },
+    {
+      "surface": "ויקצצו",
+      "gloss": "кесишти"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "баш бармактарын"
+    },
+    {
+      "surface": "בהנות",
+      "gloss": "бармактарын"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "колдорунун"
+    },
+    {
+      "surface": "ורגליו",
+      "gloss": "жана буттарынын"
+    }
+  ],
+  "timestamp": "2026-10-05T13:13:58.577973464Z",
+  "model": "glm-5.3"
+}

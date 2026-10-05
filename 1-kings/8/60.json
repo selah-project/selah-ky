@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "1-kings 8:60",
+  "book": "1-kings",
+  "lang": "ky",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "экенин",
+      "rationale": "Кыргызча атоочтук айтылыш үчүн кошулду, еврейче жок"
+    },
+    {
+      "kind": "you",
+      "subject": "жер жүзүндөгү элдерге",
+      "rationale": "Дубанын максаты — бүт элдер таанысын үчүн деген акыркы билдирүү"
+    }
+  ],
+  "translation": "Жер жүзүндөгү бардык элдер Яхве — ал Элохим экенин, башка эч ким жок экенин билиши үчүн.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "d611074c2dce6dc2205ae58c87777883de1ccc264ba1c45a58d28c1951626fb5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-kings\/8\/57-60.1791208213326.json",
+    "code": "641241cf-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "…үчүн"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "билиши"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бардык"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "элдер"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "жер жүзүндөгү"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…ни"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ал"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "אין",
+      "gloss": "жок"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "башка"
+    }
+  ],
+  "timestamp": "2026-10-05T13:50:13.328278033Z",
+  "model": "glm-5.3"
+}

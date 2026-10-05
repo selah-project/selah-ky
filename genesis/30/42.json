@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "genesis 30:42",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жабылып калгандар \/ байлангандар",
+      "rationale": "עטופים 'жабылгандар' (алсыздар) жана קשרים 'байлангандар' (күчтүүлөр) — салт котормолор 'алсыз\/күчтүү' деп берет, сөздүн сүрөтү сакталды"
+    },
+    {
+      "kind": "addition",
+      "subject": "кийинки нерселер",
+      "rationale": " ללבן жана ליעאקב 'ээлик кылуу үчүн' деген мааниде — кыргызча жөндөм гана көтөрдү"
+    }
+  ],
+  "translation": "Ал эми мал жабылып калганда койчу эмес, жана жабылып калгандар Лабанга, байлангандар Яаковго болду.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "7def11520fd0a55328150e46a9097a7845e15b54accd58f7ec7c6a23d8a0863c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/30\/41-43.1791201348250.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובהעטיף",
+      "gloss": "Ал эми... жабылып калганда"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "мал"
+    },
+    {
+      "surface": "לא",
+      "gloss": "эмес"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "койчу"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "жана болду"
+    },
+    {
+      "surface": "העטפים",
+      "gloss": "жабылып калгандар"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "Лабанга"
+    },
+    {
+      "surface": "והקשרים",
+      "gloss": "байлангандар"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Яаковго"
+    }
+  ],
+  "timestamp": "2026-10-05T11:55:48.250930238Z",
+  "model": "glm-5.3"
+}

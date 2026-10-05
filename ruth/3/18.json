@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ruth 3:18",
+  "book": "ruth",
+  "lang": "ky",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨бул⟩",
+      "rationale": "Ивритте аныктооч жок; кыргызча «адам» дегенге тиешелүүлүгүн тактоо үчүн кошулду"
+    },
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "rationale": "“Ымла... билгенге чейин” дегенде кыргызча өтмө конструкцияга сиңип кетти"
+    },
+    {
+      "kind": "idiom",
+      "subject": "יפל דבר",
+      "rationale": "Буквалдык “иш түшөт” — жыйынтык чыгаарын билдирүүчү иврит ыкмасы, кыргызча да “түшөөрүн” деп сакталды"
+    },
+    {
+      "kind": "you",
+      "subject": "кызым",
+      "rationale": "Нооми Руфага түз кайрылуу — “олтур, кызым”"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כי לא ... כי אם",
+      "rationale": "Эки “анткени” үндөштүгү кыргызча “жок... бүтүрбөй” деп айтылганда бир аз жумшарган"
+    }
+  ],
+  "translation": "Ал айтты: Олтур, кызым, иш кандай түшөөрүн билгенге чейин, анткени ⟨бул⟩ адам бүгүн ишти бүтүрбөй туруп тынч олтурбайт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "8b79d6671252cc70e70d92f5a878e4a10804c4669e95900236f8cebf299d2ebd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ruth\/3\/18-18.1791224539122.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "ал айтты"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "олтур"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "кызым"
+    },
+    {
+      "surface": "עד",
+      "gloss": "чейин"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "תדעין",
+      "gloss": "билгенге"
+    },
+    {
+      "surface": "איך",
+      "gloss": "кандай"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "түшөөрүн"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "иш"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "ישקט",
+      "gloss": "тынч олтурбайт"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "адам"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "אם",
+      "gloss": "бүтүрбөй"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "бүтүрүү"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ишти"
+    },
+    {
+      "surface": "היום",
+      "gloss": "бүгүн"
+    }
+  ],
+  "timestamp": "2026-10-05T18:22:19.122689577Z",
+  "model": "glm-5.3"
+}

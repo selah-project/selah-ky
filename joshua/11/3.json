@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 11:3",
+  "book": "joshua",
+  "lang": "ky",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "этегинде",
+      "rationale": "תחת literally 'under\/below' Hermon rendered 'at the foot of'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "тоодо",
+      "rationale": "verse maps peoples by geography: east, west, mountain, Hermon, Mizpah"
+    }
+  ],
+  "translation": "кананалыктарга чыгышта жана деңиз тарапта, жана эморлуктарга, хеттиктерге, периззтиктерге, жебустуктарга тоодо, жана хивтиктерге Хермондун этегинде, Мицпа жеринде.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "2bb57afbbfa1abd2ac78c0906fb572c214e6e9d1231cf9a306e5b478523f860c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/joshua\/11\/1-4.1791205789913.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הכנעני",
+      "gloss": "кананалыктарга"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "чыгышта"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "жана деңиз тарапта"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "жана эморлуктарга"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "жана хеттиктерге"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "жана периззтиктерге"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "жана жебустуктарга"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "тоодо"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "жана хивтиктерге"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "этегинде"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "Хермондун"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "жеринде"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "Мицпа"
+    }
+  ],
+  "timestamp": "2026-10-05T13:09:49.914587204Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 21:26",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "вשחתה",
+      "rationale": "«бузду\/чиритти» — кыргызча «сокур кылды» деп табигый берилди"
+    },
+    {
+      "kind": "elision",
+      "subject": "לחפשי",
+      "rationale": "«куулуктан\/салыктан бош» — «эркин» деп кыскартылды"
+    }
+  ],
+  "translation": "Жана эгер бир адам ⟨את⟩ кулунун көзүн же ⟨את⟩ кыз-кулушунун көзүн уруп, аны сокур кылса, ал аны ошол көзүнүн ордуна эркин жиберет.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "53e0b8cbd51981da536f2e3eda27d770934bb16c3914d1ab31d11e087bce34d4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/21\/25-28.1791202273403.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "жана эгер"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "уроп"
+    },
+    {
+      "surface": "איש",
+      "gloss": "адам"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "көзүн"
+    },
+    {
+      "surface": "עין",
+      "gloss": "көзүн"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "кулунун"
+    },
+    {
+      "surface": "או",
+      "gloss": "же"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "көзүн"
+    },
+    {
+      "surface": "עין",
+      "gloss": "көзүн"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "кыз-кулушунун"
+    },
+    {
+      "surface": "ושחתה",
+      "gloss": "сокур кылса"
+    },
+    {
+      "surface": "לחפשי",
+      "gloss": "эркин"
+    },
+    {
+      "surface": "ישלחנו",
+      "gloss": "жиберет"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ордуна"
+    },
+    {
+      "surface": "עינו",
+      "gloss": "көзүнүн"
+    }
+  ],
+  "timestamp": "2026-10-05T12:11:13.403940967Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 5:12",
+  "book": "1-samuel",
+  "lang": "ky",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "השמים",
+      "rationale": "«асманга чейин» — еврейче экилик сан (дуал) «асмандар»; кыргызча бир «асман» деп айтылды"
+    },
+    {
+      "kind": "crux",
+      "subject": "בעפלים",
+      "rationale": "9-аяттагыдай эле «шиштиктер» же «дөбөлөр» деген эки окуу бар"
+    }
+  ],
+  "translation": "Үлүп калбаган эркектер шиштиктер менен урулду, жана шаардын ыйлааганы асманга чейин көтөрүлдү.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "214fd0f7fd546aa03b1d5dd98ee4687b20e957345e093901c10e93d51f380221",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-samuel\/5\/9-12.1791206672374.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והאנשים",
+      "gloss": "эркектер"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…-ган"
+    },
+    {
+      "surface": "לא",
+      "gloss": "эмес"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "үлүп калгандар"
+    },
+    {
+      "surface": "הכו",
+      "gloss": "урулду"
+    },
+    {
+      "surface": "בעפלים",
+      "gloss": "шиштиктер менен"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "көтөрүлдү"
+    },
+    {
+      "surface": "שועת",
+      "gloss": "ыйлааганы"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "шаардын"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "асманга"
+    }
+  ],
+  "timestamp": "2026-10-05T13:24:32.375914372Z",
+  "model": "glm-5.3"
+}

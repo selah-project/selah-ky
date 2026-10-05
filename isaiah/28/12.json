@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 28:12",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ал⟩",
+      "rationale": "еврейче субъект кошулбастан калат, кыргызча ачык кылуу үчүн кошулду"
+    },
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "gloss": "аларга менен жутулду, айрым талдашын көтөрөт"
+    }
+  ],
+  "translation": "Аларга ⟨ал⟩ мыны айткан: бул — эс алуу; чарчаганга эс алдыргыла, жана бул — тынчтык берүүчү; бирок алар угууну каалашкан жок.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "a1e58da1d627cba7d7308cf88327d072fa531b1a05a0d6d50c9d2e528f7cdaa9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/28\/9-12.1791209801622.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "аларга"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "айткан"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "аларга"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "мыны"
+    },
+    {
+      "surface": "המנוחה",
+      "gloss": "эс алуу"
+    },
+    {
+      "surface": "הניחו",
+      "gloss": "эс алдыргыла"
+    },
+    {
+      "surface": "לעיף",
+      "gloss": "чарчаганга"
+    },
+    {
+      "surface": "וזאת",
+      "gloss": "жана бул"
+    },
+    {
+      "surface": "המרגעה",
+      "gloss": "тынчтык берүүчү"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "бирок жок"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "каалашкан"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "угууну"
+    }
+  ],
+  "timestamp": "2026-10-05T14:16:41.623304911Z",
+  "model": "glm-5.3"
+}

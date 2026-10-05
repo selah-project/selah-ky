@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "daniel 2:20",
+  "book": "daniel",
+  "lang": "ky",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨болсун⟩",
+      "rationale": "Арамейче лехвей (лхве) ысымдын башында турат — кыргызча «болсун» этиши кошулду"
+    },
+    {
+      "kind": "substitution",
+      "subject": "мүңөз",
+      "rationale": "עלמא «мезгилсиз убакыт, дүйнө» — «мүңөздүн мүңөзүнөн мүңөзгө чейин» дагы бир жолу"
+    },
+    {
+      "kind": "secret",
+      "subject": "сыр",
+      "rationale": "Бул ыраазычылык 19-аятта ачылган сырдын (раза) жообу катары"
+    }
+  ],
+  "translation": "Даниэль жооп берип айтты: Элахтын ысымы мүңөздүн мүңөзүнөн мүңөзгө чейин даңкталсын, анткени акылмандык жана күч-кудурет ⟨Ага⟩ тиешелүү.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "4e77167951aea20ec6134a049ed0b2cf5506d6ad5df5942747403efc0fa4d35b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/daniel\/2\/20-20.1791224535499.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "жооп берип"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Даниэль"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "להוא",
+      "gloss": "⟨болсун⟩"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ысымы"
+    },
+    {
+      "surface": "די",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "אלהא",
+      "gloss": "Элахтын"
+    },
+    {
+      "surface": "מברך",
+      "gloss": "даңкталсын"
+    },
+    {
+      "surface": "מן",
+      "gloss": "…дан"
+    },
+    {
+      "surface": "עלמא",
+      "gloss": "мүңөзүнүн"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "чейин"
+    },
+    {
+      "surface": "עלמא",
+      "gloss": "мүңөзгө"
+    },
+    {
+      "surface": "די",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "חכמתא",
+      "gloss": "акылмандык"
+    },
+    {
+      "surface": "וגבורתא",
+      "gloss": "күч-кудурет"
+    },
+    {
+      "surface": "די",
+      "gloss": "⟨итиш⟩"
+    },
+    {
+      "surface": "לה",
+      "gloss": "Ага"
+    },
+    {
+      "surface": "היא",
+      "gloss": "тиешелүү"
+    }
+  ],
+  "timestamp": "2026-10-05T18:22:15.499719515Z",
+  "model": "glm-5.3"
+}

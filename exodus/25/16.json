@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 25:16",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "secret",
+      "subject": "күбөлүк",
+      "rationale": "העדус — кээде «купуя күбөлүк» — али берилбеген, кийин гана сандыкка салынуучу жашырылган нерсе"
+    },
+    {
+      "kind": "addition",
+      "subject": "мен",
+      "rationale": "Ивритте жак тамгаларында айтылат — кыргызча өзүнчө жазылат"
+    }
+  ],
+  "translation": "Жана сандыкка ⟨את⟩ ⟨мен⟩ сага берген күбөлүктү сал.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "36f3a6f19dbb4f1cf5cf098f719e7612f82e54f2d4759005fde5a36f8a23ea87",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/25\/13-16.1791202411165.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "сал"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ка"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "сандыкка"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "күбөлүктү"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "күбөлүктү"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨котору⟩"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "берген"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "сага"
+    }
+  ],
+  "timestamp": "2026-10-05T12:13:31.166965334Z",
+  "model": "glm-5.3"
+}

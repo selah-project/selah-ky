@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 21:14",
+  "book": "deuteronomy",
+  "lang": "ky",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "לנפשה",
+      "rationale": "Нефеш — «жан, дем, эрк»; кыргызча «эркине жибер» деген эркин которуу."
+    },
+    {
+      "kind": "substitution",
+      "subject": "בכסף",
+      "rationale": "Кесеф — күмүш металл, ошол эле учурда акча; Д4 боюнча «күмүш»."
+    }
+  ],
+  "translation": "жана болот: эгерде сен аны каалабасаң, аны эркине жибер, күмүшкө сатуу менен аны сатпа, анткени сен аны басынтыканың үчүн аны кул катары карманба",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "2a32c3936654e6efe2a2ca34729192468634b9d0c6e697075eb4efbd5720e432",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/21\/13-16.1791205128339.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "жана болот"
+    },
+    {
+      "surface": "אם",
+      "gloss": "эгерде"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ба"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "каалабасаң"
+    },
+    {
+      "surface": "בה",
+      "gloss": "аны"
+    },
+    {
+      "surface": "ושלחתה",
+      "gloss": "жибер"
+    },
+    {
+      "surface": "לנפשה",
+      "gloss": "эркине"
+    },
+    {
+      "surface": "ומכר",
+      "gloss": "сатуу"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ба"
+    },
+    {
+      "surface": "תמכרנה",
+      "gloss": "сатпа"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "күмүшкө"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ба"
+    },
+    {
+      "surface": "תתעמר",
+      "gloss": "карманба"
+    },
+    {
+      "surface": "בה",
+      "gloss": "аны"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "үчүн"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "עניתה",
+      "gloss": "басынтыканың"
+    }
+  ],
+  "timestamp": "2026-10-05T12:58:48.340351554Z",
+  "model": "glm-5.3"
+}

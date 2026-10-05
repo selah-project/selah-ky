@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 68:16",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 68,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הר ×4",
+      "rationale": "«Тоо» сөзү төрт ирет кайталанат — ыр саптын курулушун түзөт"
+    },
+    {
+      "kind": "hapax",
+      "subject": "גבננים",
+      "rationale": "Бул сөз Танахта ушул жерде гана кездешет: тоонун чокулары, жондору"
+    }
+  ],
+  "translation": "Элохимдин тоосу — Башандын тоосу, чокулуу тоо — Башандын тоосу.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "332e26d3e902df686a11d308ceb207dbff09942d7d48b00832af7ed49536235d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/68\/13-16.1791216399060.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הר",
+      "gloss": "тоосу"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохимдин"
+    },
+    {
+      "surface": "הר",
+      "gloss": "тоосу"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "Башандын"
+    },
+    {
+      "surface": "הר",
+      "gloss": "тоо"
+    },
+    {
+      "surface": "גבнנים",
+      "gloss": "чокулуу"
+    },
+    {
+      "surface": "הר",
+      "gloss": "тоосу"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "Башандын"
+    }
+  ],
+  "timestamp": "2026-10-05T16:06:39.061087642Z",
+  "model": "glm-5.3"
+}

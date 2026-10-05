@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 34:6",
+  "book": "deuteronomy",
+  "lang": "ky",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨Ал⟩",
+      "rationale": "еврейский текст не называет субъекта погребения — по контексту это Яхве"
+    },
+    {
+      "kind": "secret",
+      "subject": "могила Моше",
+      "rationale": "место погребения намеренно скрыто: «никто не знает до сего дня»"
+    }
+  ],
+  "translation": "Жана ⟨Ал⟩ ⟨את⟩ аны Моаб жериндеги өрөөндө, Бейт-Пеордун каршысына койду; бүгүнкү күнгө чейин эч бир адам ⟨את⟩ анын күмбөзүн билген эмес.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "03f4fddf3f8c4eb367c85ded4bf2314bddad1e38aa2eb2110b57cdca35216597",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/34\/5-8.1791205479608.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקבבר",
+      "gloss": "койду"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "аны (Мошени)"
+    },
+    {
+      "surface": "בגי",
+      "gloss": "өрөөндө"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "жеринде"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моаб"
+    },
+    {
+      "surface": "מול",
+      "gloss": "каршысына"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бейт"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "Пеордун"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "жана эмес"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "билди"
+    },
+    {
+      "surface": "איש",
+      "gloss": "эч бир адам"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "анын күмбөзүн"
+    },
+    {
+      "surface": "קברתו",
+      "gloss": "күмбөзүн"
+    },
+    {
+      "surface": "עד",
+      "gloss": "чейин"
+    },
+    {
+      "surface": "היום",
+      "gloss": "күнгө"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "бүгүнкү"
+    }
+  ],
+  "timestamp": "2026-10-05T13:04:39.609104458Z",
+  "model": "glm-5.3"
+}

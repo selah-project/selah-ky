@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 2:11",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "падышаларга жана сотторго",
+      "rationale": "Буюрук уланып, 10-аяттагы кайрылууга багытталган."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "коркуу\/кубаныч",
+      "rationale": "יִרְאָה жана רְעָדָה бир ыргакта кошулуп, титирөөдө кубануу деген карама-каршылыктуу жуп түзөт."
+    }
+  ],
+  "translation": "Яхвени ⟨את⟩ коркуу менен кызмат кылгыла жана титирөө менен кубангыла.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "8d533ebe6cabfaf3f69d9f613443902ecf5dcc17aedfcc9ed447684e0a1ae411",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/2\/9-12.1791215272750.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עבדו",
+      "gloss": "кызмат кылгыла"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яхвени"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвени"
+    },
+    {
+      "surface": "ביראה",
+      "gloss": "коркуу менен"
+    },
+    {
+      "surface": "וגילו",
+      "gloss": "жана кубангыла"
+    },
+    {
+      "surface": "ברעדה",
+      "gloss": "титирөө менен"
+    }
+  ],
+  "timestamp": "2026-10-05T15:47:52.751598153Z",
+  "model": "glm-5.3"
+}

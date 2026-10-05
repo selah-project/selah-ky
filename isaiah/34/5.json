@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 34:5",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "тойду",
+      "rationale": "רותה 'ичип тойду' — кылыч асманда канды ичип тойгон; 'чейилди' же 'сууланды' деген альтернатив бар"
+    },
+    {
+      "kind": "substitution",
+      "subject": "херем",
+      "rationale": "חרמי — Яхвеге арналган жок кылынуучу нерсe; 'каргыш' же 'жок кылуу' деп да которулат"
+    }
+  ],
+  "translation": "Себеби асманда Медин кылычым тойду; карагыла, ал Эдомго жана Медин херем элиме өкүм чыгаруу үчүн түшөт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "51766db3d86bbdc89dfd6cee9811e070c6635de387aa77ff4ae8f89f0a4372ed",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/34\/5-8.1791210065304.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Себеби"
+    },
+    {
+      "surface": "רותה",
+      "gloss": "тойду"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "асманда"
+    },
+    {
+      "surface": "חרבי",
+      "gloss": "кылычым"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "карагыла"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстүнө"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Эдомго"
+    },
+    {
+      "surface": "תרד",
+      "gloss": "түшөт"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "жана үстүнө"
+    },
+    {
+      "surface": "עם",
+      "gloss": "элине"
+    },
+    {
+      "surface": "חרמי",
+      "gloss": "Медин херем"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "өкүм үчүн"
+    }
+  ],
+  "timestamp": "2026-10-05T14:21:05.305020740Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 30:10",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Шеол",
+      "rationale": "שחת бул жерде «чокур\/өлүм чөйрөсү» — Шеол маанисинде алынды, «тозок» эмес."
+    },
+    {
+      "kind": "addition",
+      "subject": "бар",
+      "rationale": "Кыргыз тили суроо түзүлүшү үчүн «бар» этишин талап кылат, еврейче жок."
+    },
+    {
+      "kind": "you",
+      "subject": "Яхвеге",
+      "rationale": "Суроолор Яхвеге багытталган — өлгөндөн кийин даазан жок деген далил."
+    }
+  ],
+  "translation": "Менин канымда кандай пайда бар, Шеолго түшкөндө? Чаң Сени даазан кылабы? Чындыгыңды жарыялайбы?",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "9868f0f34f6039889bf7a90527c922a354613e4b4377ce6cf4458660abda6040",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/30\/9-12.1791215682640.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "кандай"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "пайда"
+    },
+    {
+      "surface": "בדמי",
+      "gloss": "менин канымда"
+    },
+    {
+      "surface": "ברדתי",
+      "gloss": "түшкөндө"
+    },
+    {
+      "surface": "אל",
+      "gloss": "га"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "Шеол"
+    },
+    {
+      "surface": "היודך",
+      "gloss": "Сени даазан кылабы"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "чаң"
+    },
+    {
+      "surface": "היגיד",
+      "gloss": "жарыялайбы"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "чындыгыңды"
+    }
+  ],
+  "timestamp": "2026-10-05T15:54:42.641109764Z",
+  "model": "glm-5.3"
+}

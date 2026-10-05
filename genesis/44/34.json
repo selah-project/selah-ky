@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 44:34",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жамандыкты көрүп алам го",
+      "rationale": "פן אראה — 'көрбөйүн' деген коркуу, кыргызча 'болбосо... көрүп алам го' формасы менен берилди"
+    },
+    {
+      "kind": "idiom",
+      "subject": "атамга жолуккан жамандык",
+      "rationale": "ברע אשר ימצא את אבי буквал 'атамды тапкан жамандык' — жамандык атамдын башына түшөт"
+    },
+    {
+      "kind": "you",
+      "subject": "Жусупка",
+      "rationale": "Йауданын Жусупка айтылган өтүнүчүнүн аяктоосу, суроо түрүндө"
+    }
+  ],
+  "translation": "Анткени бала ⟨את⟩ менен жок болсо, кантип атамдын үстүнө барам? Болбосо ⟨את⟩ атамга жолуккан жамандыкты көрүп алам го.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "fa0c8d704f43963a6f42c30c7e381c6df34af9b7bd3ad0c7ec31ebd6138f9f2f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/44\/33-34.1791201689010.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "איך",
+      "gloss": "кантип"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "барам"
+    },
+    {
+      "surface": "אל",
+      "gloss": "үстүнө"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "атамдын"
+    },
+    {
+      "surface": "והנער",
+      "gloss": "бала"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "жок"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ менен"
+    },
+    {
+      "surface": "פן",
+      "gloss": "болбосо"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "көрүп алам"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "жамандыкты"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "эмне"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "жолуккан"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "атамга"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "атамга"
+    }
+  ],
+  "timestamp": "2026-10-05T12:01:29.011139193Z",
+  "model": "glm-5.3"
+}

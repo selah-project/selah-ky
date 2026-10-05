@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 50:22",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "נא",
+      "rationale": "тилек же буйрук мүчөсү; кыргызча буйрук формасына сиңдирилди"
+    },
+    {
+      "kind": "addition",
+      "subject": "ачкыч",
+      "rationale": "фигуранын таза болушу үчүн кошулду — текстики эмес, алып салууга болот"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Элохимди унуткандарга",
+      "rationale": "буйрук менен чакыруу: 'түшүнүңөр'"
+    }
+  ],
+  "translation": "Бул туура түшүнүңөр, Элохимди унуткандар, болбосо сүйрөп жуламын жана ⟨ачкыч⟩ жок болот — куткарчу жок.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "0a784174c6e3a3f00ade33c338f592b170b8b105e8e0e94a0586570cb2f92cfd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/50\/21-22.1791224455979.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בינו",
+      "gloss": "түшүнүңөр"
+    },
+    {
+      "surface": "נא",
+      "gloss": "-ғо"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "бул"
+    },
+    {
+      "surface": "שכחי",
+      "gloss": "унуткандар"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "פן",
+      "gloss": "болбосо"
+    },
+    {
+      "surface": "אטרף",
+      "gloss": "сүйрөп жуламын"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "жок"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "куткарчу"
+    }
+  ],
+  "timestamp": "2026-10-05T18:20:55.979875504Z",
+  "model": "glm-5.3"
+}

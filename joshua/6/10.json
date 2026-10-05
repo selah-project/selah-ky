@@ -1,0 +1,130 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 6:10",
+  "book": "joshua",
+  "lang": "ky",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "кижиңдөө",
+      "rationale": "רוע — «кулак жаруу» деген сөз; салттуу которууда «кыйкыруу», биз кижиңдөө дедик."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תריעו \/ הריעו \/ והריעתם",
+      "rationale": "Бир тамыр үч жолу кайталанат — тынчтык буйругу менен акыркы кыжалат буйругу бир эле сөз менен айкашат."
+    },
+    {
+      "kind": "you",
+      "subject": "Израилге (элге)",
+      "rationale": "Йехошуа элге түз кайрылат: «кижаңдагыла, угузбагыла»."
+    },
+    {
+      "kind": "addition",
+      "subject": "сөз\/да",
+      "rationale": "Ивритте «сөз» жалкы санда, кыргызча «бир да сөз» деп күчөтүлдү."
+    }
+  ],
+  "translation": "Жана Йехошуа ⟨את⟩ элге буйрук берип мындай деди: Кижаңдагыла, ⟨את⟩ добушуңарды угузбагыла, оозуңардан бир да сөз чыкпасын, мен силерге «Кижаңдагыла» деген күнгө чейин — ошондо кижаны Kundunuz.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "394fc078a3e4aedf636a5f5ce1cfef312692e2f6f9914fc4cf641908e055cffb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/joshua\/6\/9-12.1791205545845.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "элди"
+    },
+    {
+      "surface": "העם",
+      "gloss": "эл"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "буйрук берип"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Йехошуа"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "мындай деди"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "תריעו",
+      "gloss": "кижаңдагыла"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "жана жок"
+    },
+    {
+      "surface": "תשמיעו",
+      "gloss": "угузбагыла"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "добушуңарды"
+    },
+    {
+      "surface": "קולכם",
+      "gloss": "добушуңарды"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "жана жок"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "чыкпасын"
+    },
+    {
+      "surface": "מפיכם",
+      "gloss": "оозуңардан"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сөз"
+    },
+    {
+      "surface": "עד",
+      "gloss": "чейин"
+    },
+    {
+      "surface": "יום",
+      "gloss": "күнгө"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "мен деген"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "силерге"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "Кижаңдагыла"
+    },
+    {
+      "surface": "והריעתם",
+      "gloss": "кижаны Kundunuz"
+    }
+  ],
+  "timestamp": "2026-10-05T13:05:45.846698659Z",
+  "model": "glm-5.3"
+}

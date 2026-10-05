@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 1:8",
+  "book": "nehemiah",
+  "lang": "ky",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Яхвеге",
+      "rationale": "Неемия Яхвени Тора убадасын эстүүгө чакырат."
+    },
+    {
+      "kind": "crux",
+      "subject": "אתם תמעלו",
+      "rationale": "KJV 'if ye transgress' шарттуу мааниде; иврит жөн гана 'силер чыккынчылык кыласыңар' дейт — шарттуу ' −са' кыргызча кошулду."
+    },
+    {
+      "kind": "substitution",
+      "subject": "чачамын",
+      "rationale": "אפיץ — 'чече чабуу, чачуу' түз сүрөттөлүшү сакталды."
+    }
+  ],
+  "translation": "Кулуң Мошеге айткан сөзүңдү эстеп ал: Силер чыккынчылык кылсаңар — Мен силерди элдердин арасына чачамын.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "8f5a258e3e12b7cd256ccb241971e4e467dac2fb53bba301489757cc2f73152f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/nehemiah\/1\/5-8.1791221264744.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "эстеп ал"
+    },
+    {
+      "surface": "נא",
+      "gloss": "—"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сөзүңдү"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "сөзүң"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "айткан"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Мошени"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "кулуң"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "деп"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "силер"
+    },
+    {
+      "surface": "תמעלו",
+      "gloss": "чыккынчылык кылсаңар"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Мен"
+    },
+    {
+      "surface": "אפיץ",
+      "gloss": "чачамын"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ силерди",
+      "marks": "элдердин арасына"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "элдердин арасына"
+    }
+  ],
+  "timestamp": "2026-10-05T17:27:44.746980928Z",
+  "model": "glm-5.3"
+}

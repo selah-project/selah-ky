@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 15:1",
+  "book": "2-kings",
+  "lang": "ky",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "жыйырма жетиңинчи",
+      "rationale": "Еврейче «жыйырма жети жыл» — кыргызча жыл эсеби тараптардын катарын талап кылат"
+    },
+    {
+      "kind": "measurement",
+      "subject": "жыйырма жети жыл",
+      "rationale": "Падышачылык жылдарынын эсеби — хронологиялык формула"
+    }
+  ],
+  "translation": "Яровамдын, Йисраэлдин падышасынын жыйырма жетиңинчи жылында Ацария, Амацйанын уулу, Йехуданын падышасы, падыша болду.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "5978b57649c6e809a3ad668bc41722660e79c20bf15de7954aff80144b907496",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-kings\/15\/1-2.1791224031411.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "жылында"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "жыйырма"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "жети"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "жыл"
+    },
+    {
+      "surface": "לירבעם",
+      "gloss": "Яровамдын"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "падышасы"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэлдин"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "падыша болду"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Ацария"
+    },
+    {
+      "surface": "בן",
+      "gloss": "уулу"
+    },
+    {
+      "surface": "אמציה",
+      "gloss": "Амацйанын"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "падышасы"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Йехуданын"
+    }
+  ],
+  "timestamp": "2026-10-05T18:13:51.412233568Z",
+  "model": "glm-5.3"
+}

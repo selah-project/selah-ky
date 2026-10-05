@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "nahum 1:13",
+  "book": "nahum",
+  "lang": "ky",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מטהו",
+      "rationale": "מטה тамыры 'таяк\/танд' да, 'бойундургу' да маанисинде; котормолор бөлүнөт: 'rod' (ylt) же 'yoke' (kjd, jps)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "бойундургу",
+      "rationale": "מוט лит. 'каялган таяк', бул жерде кулчулуктун белгиси катары бойундургу маанисинде"
+    },
+    {
+      "kind": "you",
+      "subject": "сенден",
+      "rationale": "Кайрылуу Йыһуда элине (же Иерушалайимге) — 'менин жабырлануум то stop'"
+    }
+  ],
+  "translation": "Азыр Мен анын бойундургусун сенден сындырамын, жана байламдарыңды жулуп аламын.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "8443da1223ba5da0334f4933b316a08c28389ebf066da31cd32df899a90cc879",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/nahum\/1\/13-14.1791214592483.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Азыр"
+    },
+    {
+      "surface": "אשבר",
+      "gloss": "сындырамын"
+    },
+    {
+      "surface": "מטהו",
+      "gloss": "анын бойундургусун"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "сенден"
+    },
+    {
+      "surface": "ומוסרתיך",
+      "gloss": "жана байламдарыңды"
+    },
+    {
+      "surface": "אנתק",
+      "gloss": "жулуп аламын"
+    }
+  ],
+  "timestamp": "2026-10-05T15:36:32.484434530Z",
+  "model": "glm-5.3"
+}

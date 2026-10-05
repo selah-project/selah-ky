@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 38:9",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "жүз чыкан жери",
+      "rationale": "Короонун өлчөмдөрү саналып жатат."
+    },
+    {
+      "kind": "substitution",
+      "subject": "чыкан жери",
+      "rationale": "באמה — чыкан сөөгүнөн алынган өлчөм бирдиги."
+    }
+  ],
+  "translation": "Жана ал ⟨את⟩ короону жасады; түштүк тарапта, түштүкк карай, короонун чыттары чыдыралган ак кездемеден, жүз чыкан жери.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "9ddd22e2caac854851d8b578ff1bae338ba7cb37f957c495eb14b905c6ed51bd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/38\/9-12.1791202666461.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "жасады"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "короону"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "короону"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "тарапта"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "түштүк"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "түштүккө карай"
+    },
+    {
+      "surface": "קלעי",
+      "gloss": "чыттары"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "короонун"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ак кездеме"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "чыдыралган"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "жүз"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "чыкан жери"
+    }
+  ],
+  "timestamp": "2026-10-05T12:17:46.462124065Z",
+  "model": "glm-5.3"
+}

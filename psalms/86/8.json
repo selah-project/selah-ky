@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 86:8",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 86,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Элохимдер",
+      "rationale": "באלהих — 'кудайлардын ичинде' (көптүк сан, Чыгуу 15:11 менен салыштыр) же 'Элохимдин ичинде' деп бирле.catalog окшош"
+    }
+  ],
+  "translation": "Элохимдердин ичинде Сендей жок, Адонай, жана Сенин иштериңдей иштер жок.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "133a5716555a948c169a21ead9202567d83ea7b4b64b79463ae64f1592b09734",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/86\/5-8.1791216774252.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "жок"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "Сендей"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "Элохимдердин ичинде"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "жана жок"
+    },
+    {
+      "surface": "כמעשיך",
+      "gloss": "Сенин иштериңдей"
+    }
+  ],
+  "timestamp": "2026-10-05T16:12:54.253460085Z",
+  "model": "glm-5.3"
+}

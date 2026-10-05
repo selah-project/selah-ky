@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 15:20",
+  "book": "leviticus",
+  "lang": "ky",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ал",
+      "rationale": "Hebrew Subject_SUFFIX Suffiks –עליו- Windows ('анын үстүндө') субъектин 'ал' деп ачып берүү үчүн кошулду"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יטמא ... יטמא",
+      "rationale": "жаткан-отурун эки жарым сап бирдей 'таза эмес болсун' менен аяктайт — параллелдик структура"
+    }
+  ],
+  "translation": "Жана эмненин үстүндө ал өзүнүн бөлүнүүсүндө жатса, таза эмес болсун, жана эмненин үстүндө отурса, таза эмес болсун.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "0507b9d4c6b95eb36a58454fe5abd229dbb2aa011a4e4b9ef7680f3a9638fc03",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/15\/17-20.1791203208701.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "жана эмне"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "эмне"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "жатса"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "анын үстүндө"
+    },
+    {
+      "surface": "בנדתה",
+      "gloss": "өзүнүн бөлүнүүсүндө"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "таза эмес болсун"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "жана эмне"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "эмне"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "отурса"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "анын үстүндө"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "таза эмес болсун"
+    }
+  ],
+  "timestamp": "2026-10-05T12:26:48.702634251Z",
+  "model": "glm-5.3"
+}

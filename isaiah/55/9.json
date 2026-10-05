@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 55:9",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 55,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "גבהו...גבהו",
+      "rationale": "«бийик» сөзүнүн кайталанышы — асман менен жолдор параллели, кыргызча да сакталды."
+    },
+    {
+      "kind": "addition",
+      "subject": "турат",
+      "rationale": "Кыргызча этиш керек, еврейче этишсиз баям бар."
+    }
+  ],
+  "translation": "Анткени асман жерден бийик турат, ошондой эле Менин жолдорум силердин жолдоруңардан бийик, жана Менин ойлорум силердин ойлооруңардан бийик.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "707efe8e388b8ae14e06693c42ae6d0dfa4746f3c02ea6ebe683db593e287ae2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/55\/9-12.1791210401608.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "גבהו",
+      "gloss": "бийик турат"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "асман"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "жерден"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ошондой эле"
+    },
+    {
+      "surface": "גבהו",
+      "gloss": "бийик"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "Менин жолдорум"
+    },
+    {
+      "surface": "מדרכיכם",
+      "gloss": "силердин жолдоруңардан"
+    },
+    {
+      "surface": "ומחשבתי",
+      "gloss": "жана Менин ойлорум"
+    },
+    {
+      "surface": "ממחשבתיכם",
+      "gloss": "силердин ойлооруңардан"
+    }
+  ],
+  "timestamp": "2026-10-05T14:26:41.608704582Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 83:17",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 83,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ошондо",
+      "rationale": "Hebrew uses a simple waw; kyrgyz needs a connective to express purpose"
+    }
+  ],
+  "translation": "Алардын жүздөрүн уятка толтур, ошондо алар Сенин ысымыңды издешсин, Яхве.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "bd4516115cc63d0a08b483bfa52075d0eb3f5d7666104bd4b9dea63f603e1d86",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/83\/17-19.1791216642337.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מלא",
+      "gloss": "толтур"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "жүздөрүн"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "уятка"
+    },
+    {
+      "surface": "ויבקשו",
+      "gloss": "издешсин"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ысымыңды"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-10-05T16:10:42.337538108Z",
+  "model": "glm-5.3"
+}

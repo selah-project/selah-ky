@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 19:17",
+  "book": "proverbs",
+  "lang": "ky",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "карыз берет",
+      "rationale": "מלוה — «карыз берүү\/узатуу»; еврей текстте кедейге кылган жакшылык Яхвеге берилген карыз катары сүрөттөлөт"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ал⟩",
+      "rationale": "ивритте субъект ачык жазылган эмес — «Анын» ким экени контексттен келет"
+    }
+  ],
+  "translation": "Кедейге ырайым кылган адам Яхвеге карыз берет, жана Анын жакшылыгы ⟨ал〉 ага төлөп берет.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "bad42d7a68c4700fffe7c247ac07c1e0cb354901859946ed401a490fc0e3ff7c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/19\/17-20.1791218215861.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מלוה",
+      "gloss": "карыз берет"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвеге"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "ырайым кылат"
+    },
+    {
+      "surface": "דל",
+      "gloss": "кедейге"
+    },
+    {
+      "surface": "וגמלו",
+      "gloss": "жана анын жакшылыгын"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "төлөп берет"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ага"
+    }
+  ],
+  "timestamp": "2026-10-05T16:36:55.862053713Z",
+  "model": "glm-5.3"
+}

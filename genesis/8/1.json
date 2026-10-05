@@ -1,0 +1,122 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 8:1",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "кеме",
+      "rationale": "תבה буквалдуу түрдө «сандык» (ящик), кыргызча «кеме» кабыл алынган салттуу сөз"
+    },
+    {
+      "kind": "substitution",
+      "subject": "рух",
+      "rationale": "רוח бул жерде «шамал» да болушу мүмкүн — бир сөздүн үч мааниси, «рух» кармалды"
+    },
+    {
+      "kind": "elision",
+      "subject": "אתו",
+      "rationale": "бул את H854 «менен» предлогу, aleph-tav белгиси эмес"
+    }
+  ],
+  "translation": "Жана Элохим ⟨את⟩ Ноахты эстеди, жана ⟨את⟩ аны менен кемеде болгон бардык жаныбарларды жана ⟨את⟩ бардык мал-жаныбарларды; жана Элохим жер үстүнөн рух өткөрүп берди, жана суулар басаңдады.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "eeab0d0e7f65f5db27d4e71f64c6a9b1af13084f7a969ddbabff66685404b312",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/8\/1-4.1791200854002.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויזכר",
+      "gloss": "эстеди"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ноахты"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Ноахты"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "жана ⟨את⟩",
+      "marks": "бардык жаныбарларларды"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бардык"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "жаныбарларды"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "жана ⟨את⟩",
+      "marks": "бардык мал-жаныбарларды"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бардык"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "мал-жаныбарларды"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "болгон"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ аны менен"
+    },
+    {
+      "surface": "בתבה",
+      "gloss": "кемеде"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "өткөрүп берди"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "рух"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстүнөн"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "жер"
+    },
+    {
+      "surface": "וישכו",
+      "gloss": "басаңдады"
+    },
+    {
+      "surface": "המים",
+      "gloss": "суулар"
+    }
+  ],
+  "timestamp": "2026-10-05T11:47:34.003160145Z",
+  "model": "glm-5.3"
+}

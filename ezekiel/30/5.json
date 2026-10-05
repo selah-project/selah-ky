@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 30:5",
+  "book": "ezekiel",
+  "lang": "ky",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הערב",
+      "rationale": "'аралашкан эл' же 'калган эл' — ערב тамыры 'аралашуу' дегенди билдирет, Wycliffe 'калганы' деп берет."
+    },
+    {
+      "kind": "crux",
+      "subject": "בני ארץ הברית",
+      "rationale": "'келишим жеринин уулдары' — кимди түшүнүү керек: союздаш өлкөлөрбү, Израилдин өзүбү — котормочулар бөлүнөт."
+    },
+    {
+      "kind": "elision",
+      "subject": "אתם",
+      "rationale": "אתם бул жерде 'алар менен бирге' деген предлог; ⟨את⟩ маркери катары берилди."
+    }
+  ],
+  "translation": "Куш, жана Пут, жана Луд, жана аралашкан элдин баары, жана Куб, жана келишим жеринин уулдары — алар менен бирге кылыч менен кулашат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "062a46258268324527eb81dd531463b015fa738b518e1ad29dd9be386dd10c3f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ezekiel\/30\/5-8.1791213003227.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כוש",
+      "gloss": "Куш"
+    },
+    {
+      "surface": "ופוט",
+      "gloss": "жана Пут"
+    },
+    {
+      "surface": "ולוד",
+      "gloss": "жана Луд"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "жана баары"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "аралашкан элдин"
+    },
+    {
+      "surface": "וכוב",
+      "gloss": "жана Куб"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "жана уулдары"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "жеринин"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "келишим"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "алар менен бирге"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "кылыч менен"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "кулашат"
+    }
+  ],
+  "timestamp": "2026-10-05T15:10:03.227983310Z",
+  "model": "glm-5.3"
+}

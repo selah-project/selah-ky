@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 8:20",
+  "book": "judges",
+  "lang": "ky",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "бирок",
+      "rationale": "ולא 'жана эмес' — кыргызча терс каршылыкты 'бирок' көтөрөт."
+    },
+    {
+      "kind": "addition",
+      "subject": "едил",
+      "rationale": "Кыргызча өткөн чактын жумшак формасы талап кылат; эврейче этиш жок."
+    }
+  ],
+  "translation": "Жана ал Йетерге, тун уулуна айтты: Тур, ⟨את⟩ аларды өлтүр. Бирок жигит кылычын суурбады, анткени коркту, анткени ал дагы эле жаш едил.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "1f2e675e8619b8dcfb47faaa0eddca524b2e93d1893900a990aa4b144337b6ad",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/judges\/8\/17-20.1791206256556.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "ליתר",
+      "gloss": "Йетерге"
+    },
+    {
+      "surface": "בכורו",
+      "gloss": "тун уулуна"
+    },
+    {
+      "surface": "קום",
+      "gloss": "тур"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "өлтүр"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ аларды"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "бирок"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "суурбады"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "жигит"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "кылычын"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "коркту"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "עודנו",
+      "gloss": "дагы эле"
+    },
+    {
+      "surface": "נער",
+      "gloss": "жаш"
+    }
+  ],
+  "timestamp": "2026-10-05T13:17:36.558181586Z",
+  "model": "glm-5.3"
+}

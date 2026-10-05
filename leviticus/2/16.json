@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 2:16",
+  "book": "leviticus",
+  "lang": "ky",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "эскерүү бөлүгү",
+      "rationale": "אזכרתה — «эскерүү» деген аталыш, курмандыктын үстүнө өрттөлүүчү бөлүгүнүн аталышы."
+    },
+    {
+      "kind": "crux",
+      "subject": "אשה",
+      "rationale": "«От курмандыгы» же «ысык курмандыгы» деген талаш; от мааниси тандылды."
+    }
+  ],
+  "translation": "Жана коэн ⟨את⟩ анын эскерүү бөлүгүн — анын данагынан жана анын майдынан, анын бүт ладаны менен кошо — түтөтсүн: Яхвеге от курмандыгы.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "4bf049c7e6b94fc4688952fda3af1a3dd660aceba65beea823fc9a6f6b97c029",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/2\/13-16.1791202817442.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "жана түтөтсүн"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "коэн"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "анын эскерүү бөлүгүн"
+    },
+    {
+      "surface": "אזכרתה",
+      "gloss": "анын эскерүү бөлүгүн"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "анын данагынан"
+    },
+    {
+      "surface": "ומשמנה",
+      "gloss": "жана анын майдынан"
+    },
+    {
+      "surface": "על",
+      "gloss": "менен кошо"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүт"
+    },
+    {
+      "surface": "לבנתה",
+      "gloss": "анын ладанынын"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "от курмандыгы"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхвеге"
+    }
+  ],
+  "timestamp": "2026-10-05T12:20:17.443339776Z",
+  "model": "glm-5.3"
+}

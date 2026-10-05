@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 6:1",
+  "book": "2-kings",
+  "lang": "ky",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Элишага",
+      "rationale": "Пайгамбарлардын уулдары Элишага түз кайрылышат."
+    },
+    {
+      "kind": "substitution",
+      "subject": "сүйлөсөң",
+      "rationale": "נא — жумшартуучу бөлүкчө, кыргызча так туура келбейт."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ממנו",
+      "rationale": "עלינו\/ממנו варианттары байыркы котормолордо бөлүнөт: «бизге тар» же «андан тар»."
+    }
+  ],
+  "translation": "Пайгамбарлардын уулдары Элишага айтышты: Кара, сүйлөсөң, биз сенин алдыңда отурган жерибиз бизге тар.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "ec4418d02451f2c11171621883be98d05d20a2646d11941f87f9b0c06bdf6039",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-kings\/6\/1-4.1791208727818.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "айтышты"
+    },
+    {
+      "surface": "בני",
+      "gloss": "уулдары"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "пайгамбарлардын"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…га"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Элиша"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "кара"
+    },
+    {
+      "surface": "נא",
+      "gloss": "сүйлөсөң"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "жерибиз"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…ган жер"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "биз"
+    },
+    {
+      "surface": "ישבים",
+      "gloss": "отурган"
+    },
+    {
+      "surface": "שם",
+      "gloss": "анда"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "сенин алдыңда"
+    },
+    {
+      "surface": "צר",
+      "gloss": "тар"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "бизге"
+    }
+  ],
+  "timestamp": "2026-10-05T13:58:47.819601541Z",
+  "model": "glm-5.3"
+}

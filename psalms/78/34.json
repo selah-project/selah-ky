@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 78:34",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אם",
+      "rationale": "'эгерде' (шарт) же 'качан...анда' (убакыт): YLT 'If', KJV 'When'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "эрте",
+      "rationale": "ושחרу тамыры 'таң атканча' деген сүрөт — эртең менен эрте издөө"
+    }
+  ],
+  "translation": "Качан Ал аларды өлтүрсө, Аны издешти, жана кайтышты, жана Элди эрте издешти.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "2b971d857eeacbd88287acb27b1a30f59104f8a47b10e9f68508965e551653f6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/78\/33-36.1791216632894.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "качан"
+    },
+    {
+      "surface": "הרגם",
+      "gloss": "аларды өлтүрсө"
+    },
+    {
+      "surface": "ודרשוהו",
+      "gloss": "Аны издешти"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "кайтышты"
+    },
+    {
+      "surface": "ושחרו",
+      "gloss": "эрте издешти"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Элди"
+    }
+  ],
+  "timestamp": "2026-10-05T16:10:32.895069242Z",
+  "model": "glm-5.3"
+}

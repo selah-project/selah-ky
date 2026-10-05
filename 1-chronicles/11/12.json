@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 11:12",
+  "book": "1-chronicles",
+  "lang": "ky",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ичкилик",
+      "rationale": "Эврейче этиш жок — «болду» деген байланыш кыргызча түшүндүрмө катары кошулду"
+    },
+    {
+      "kind": "crux",
+      "subject": "דודו",
+      "rationale": "Додо — адамдын аты (Давид эмес); Wycliff «атасынын бир тууганы» деп каталган"
+    }
+  ],
+  "translation": "Жана анын артында Элазар, Додо уулу ахохиялык — ал үч баатырдын ичинде.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "1354ac7c1c1430906e4b2bc7ab8401232cc4fa9143bf634df1cad654c1633e12",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-chronicles\/11\/9-12.1791221989139.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואחריו",
+      "gloss": "Жана анын артында"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Элазар"
+    },
+    {
+      "surface": "בן",
+      "gloss": "уулу"
+    },
+    {
+      "surface": "דודו",
+      "gloss": "Додо"
+    },
+    {
+      "surface": "האחוחי",
+      "gloss": "ахохиялык"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ал"
+    },
+    {
+      "surface": "בשלושה",
+      "gloss": "үч… ичинде"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "баатырдын"
+    }
+  ],
+  "timestamp": "2026-10-05T17:39:49.140710639Z",
+  "model": "glm-5.3"
+}

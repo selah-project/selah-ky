@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 42:10",
+  "book": "ezekiel",
+  "lang": "ky",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "бар",
+      "rationale": "Ивритте этиш жок — байлам кошулду"
+    },
+    {
+      "kind": "substitution",
+      "subject": "бөлүнгөн жер",
+      "rationale": "הגזרה — 'кесилип алынган, бөлүнгөн аянт' сөзмө-сөз сакталды"
+    },
+    {
+      "kind": "measurement",
+      "subject": "калыңдык",
+      "rationale": "Ийбадаткананын өлчөөнүү контекстиндеги архитектуралык ченөө"
+    }
+  ],
+  "translation": "Коргоонун дубалынын калыңдыгында, чыгыш тарабында, бөлүнгөн жердин алдында жана имараттын алдында бөлмөлөр ⟨бар⟩.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "b8f39c89bfef2f80b61b2f71fced908760b0cb583a3282f129834c50ecf8e279",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ezekiel\/42\/10-11.1791224295713.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברחב",
+      "gloss": "калыңдыгында"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "дубалдын"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "коргоонун"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "тарабында"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "чыгыш"
+    },
+    {
+      "surface": "אל",
+      "gloss": "карай"
+    },
+    {
+      "surface": "פני",
+      "gloss": "алдында"
+    },
+    {
+      "surface": "הגזרה",
+      "gloss": "бөлүнгөн жердин"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "жана карай"
+    },
+    {
+      "surface": "пני",
+      "gloss": "алдында"
+    },
+    {
+      "surface": "הבנין",
+      "gloss": "имараттын"
+    },
+    {
+      "surface": "לשכות",
+      "gloss": "бөлмөлөр"
+    }
+  ],
+  "timestamp": "2026-10-05T18:18:15.714109954Z",
+  "model": "glm-5.3"
+}

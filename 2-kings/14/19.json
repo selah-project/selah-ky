@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-kings 14:19",
+  "book": "2-kings",
+  "lang": "ky",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "адамдарды",
+      "rationale": "Ивритте «жөнөттү» деген гана — кыргызча түшүнүктүү болушу үчүн объект кошулду"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לכישה … לכישה",
+      "rationale": "Лахиш эки жолу айтылат — куугунтуктун ритми, кыргызча да сакталды"
+    }
+  ],
+  "translation": "Жана ага каршы Йерушалайимде заговор уюштурдукун, ал Лахишага качты, алар анын артынан Лахишага ⟨адамдарды⟩ жөнөттүкун жана аны ошол жерде өлтүрүштүн.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "f16d4d807f00cb6cb707a265d0a1bf66383edb7201d90c42a461b3b11385246e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-kings\/14\/18-19.1791224048269.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקשרו",
+      "gloss": "жана уюштурдукун"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ага каршы"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "заговор"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Йерушалайимде"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "жана качты"
+    },
+    {
+      "surface": "לכישה",
+      "gloss": "Лахишага"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "жана жөнөттүкун"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "анын артынан"
+    },
+    {
+      "surface": "לכישה",
+      "gloss": "Лахишага"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "жана аны өлтүрүштүн"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ошол жерде"
+    }
+  ],
+  "timestamp": "2026-10-05T18:14:08.269821641Z",
+  "model": "glm-5.3"
+}

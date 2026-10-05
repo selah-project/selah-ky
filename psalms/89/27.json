@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 89:27",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Сен … сың",
+      "rationale": "Кыргыз тилинде атоочтук байланыш үчүн мүчө кошулду, еврейче жок"
+    },
+    {
+      "kind": "you",
+      "subject": "Яхвеге",
+      "rationale": "Падыша (Давид урпагы) Яхвени Атам деп直接 кайрылат"
+    }
+  ],
+  "translation": "Ал Мага чакырат: Сен Менин Атамсың, Менин Элим жана Менин куткаруунун аска-ташымсың.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "fa27ee0114a96624500b2d6b8ced6f447cfa0419fe34cc1e24ebe98391cdbf41",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/89\/25-28.1791216739133.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Ал"
+    },
+    {
+      "surface": "יקראני",
+      "gloss": "Мага чакырат"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "Менин Атамсың"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Сен"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Менин Элим"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "жана … аска-ташымсың"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "Менин куткаруунун"
+    }
+  ],
+  "timestamp": "2026-10-05T16:12:19.133953078Z",
+  "model": "glm-5.3"
+}

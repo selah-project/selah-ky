@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 27:17",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "курчалган",
+      "rationale": "מחושקים — 'чынжырланган\/курчалган', חשק тамырынан 'улануу'; жөнөкөй 'капталган' деп да которулат"
+    },
+    {
+      "kind": "addition",
+      "subject": "менен",
+      "rationale": "кыргызча этишке керектүү жardамчы сөз, еврейче жок"
+    }
+  ],
+  "translation": "Короонун тегерегиндеги бүт тиркүүлөр күмүш менен курчалган, алардын илгичтери күмүш, алардын пайдубалдары жез.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "f1398718c3bbea2402730bdb3602f357070127879906a933206daa8aa99117b7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/27\/17-20.1791202410011.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "бүт"
+    },
+    {
+      "surface": "עמודי",
+      "gloss": "тиркүүлөр"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "короонун"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "тегерегиндеги"
+    },
+    {
+      "surface": "מחשקים",
+      "gloss": "курчалган"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "күмүш"
+    },
+    {
+      "surface": "ושויהם",
+      "gloss": "алардын илгичтери"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "күмүш"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "алардын пайдубалдары"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "жез"
+    }
+  ],
+  "timestamp": "2026-10-05T12:13:30.012422990Z",
+  "model": "glm-5.3"
+}

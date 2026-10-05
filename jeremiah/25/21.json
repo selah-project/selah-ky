@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 25:21",
+  "book": "jeremiah",
+  "lang": "ky",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "уулдары",
+      "rationale": "בני עמו׬н — букв. «уулдары Аммондун», салттуу «аммониттер» ордуна форма сакталды"
+    }
+  ],
+  "translation": "Эдомду ⟨את⟩ жана Моабды ⟨את⟩ жана Аммондун уулдарын ⟨את⟩",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "e1b51c28eab451440b34b6a85e538d00829d1f35ff1be96fadeb38ee8e462046",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/jeremiah\/25\/21-24.1791211248649.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Эдомду"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Эдомду"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "жана ⟨את⟩",
+      "marks": "Моабды"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моабды"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "жана ⟨את⟩",
+      "marks": "Аммондун уулдарын"
+    },
+    {
+      "surface": "בני",
+      "gloss": "уулдарын"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Аммондун"
+    }
+  ],
+  "timestamp": "2026-10-05T14:40:48.650374488Z",
+  "model": "glm-5.3"
+}

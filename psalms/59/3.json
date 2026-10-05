@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 59:3",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 59,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жаман иштер",
+      "rationale": "און — «жок нерселүүлүк, бекерчилик, жамандык», кыргызча «жаман иш» менен берилди"
+    }
+  ],
+  "translation": "Мени жаман иштерди кылуучулардан куткар жана кан төккөн адамдардан мени аман сакта.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "161e5b2a0a73b0a2567e038eb3a269d37ec94c55d3b8572bc845b05c96e95c64",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/59\/1-4.1791216263506.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "мени куткар"
+    },
+    {
+      "surface": "מפעלי",
+      "gloss": "…кер кылуучулардан"
+    },
+    {
+      "surface": "און",
+      "gloss": "жаман иштер"
+    },
+    {
+      "surface": "ומאנשי",
+      "gloss": "жана …адамдардан"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "кан төккөн"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "мени аман сакта"
+    }
+  ],
+  "timestamp": "2026-10-05T16:04:23.507548373Z",
+  "model": "glm-5.3"
+}

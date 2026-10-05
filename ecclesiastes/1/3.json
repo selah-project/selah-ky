@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 1:3",
+  "book": "ecclesiastes",
+  "lang": "ky",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "күндүн астында",
+      "rationale": "תַּחַת הַשֶּׁמֶשׁ «күндүн астында» — Кохелеттин дайыма кайталануучу фразасы, бул дүйнөдөгү жашоону билдирет"
+    },
+    {
+      "kind": "invitation",
+      "subject": "суроо",
+      "rationale": "Китеп окурманга багытталган суроо менен башталат"
+    }
+  ],
+  "translation": "Күндүн астында эмгектенген адамга бардык эмгегинен кандай пайда бар?",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "afe5a10b8e4d5804652009388f716bf5e3c9dd731419a59f6bb831e8b5edcc8c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ecclesiastes\/1\/1-4.1791219986466.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "кандай"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "пайда"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "адамга"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "бардык"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "эмгегинен"
+    },
+    {
+      "surface": "שיעמל",
+      "gloss": "эмгектенген"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "астында"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "күндүн"
+    }
+  ],
+  "timestamp": "2026-10-05T17:06:26.467072489Z",
+  "model": "glm-5.3"
+}

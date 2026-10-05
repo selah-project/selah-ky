@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 59:4",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 59,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жан",
+      "rationale": "נפש — «дем алуучу жандык, жашоо күчү», «жан» кыргызча эң жакын сөз"
+    },
+    {
+      "kind": "you",
+      "subject": "Яхвеге",
+      "rationale": "аяттын аягы Ысымды чакыруу менен — Давид Яхвеге кайрылат"
+    },
+    {
+      "kind": "crux",
+      "subject": "עזים",
+      "rationale": "«күчтүүлөр» деген да, JPS «текеберлер» деген да окуу бар"
+    }
+  ],
+  "translation": "Анткени карачы, алар менин жаныманын астына тор бүтүштү; күчтүүлөр чогулушту мага каршы — менин баш көтөрүүм жок, күнөөм да жок, Яхве.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "161e5b2a0a73b0a2567e038eb3a269d37ec94c55d3b8572bc845b05c96e95c64",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/59\/1-4.1791216263506.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "карaчи"
+    },
+    {
+      "surface": "ארבו",
+      "gloss": "алар тор бүтүштү"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "менин жаныманын астына"
+    },
+    {
+      "surface": "יגורו",
+      "gloss": "чогулушту"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "мага каршы"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "күчтүүлөр"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "менин баш көтөрүүм"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "да жок"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "күнөөм"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-10-05T16:04:23.507734865Z",
+  "model": "glm-5.3"
+}

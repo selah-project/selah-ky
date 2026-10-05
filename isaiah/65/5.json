@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 65:5",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 65,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "мурнумда",
+      "rationale": "באפי 'аппай' — мурнум\/качымда; ачуу мааниси да бар, кыргызча 'ачуумда' дагы болмок"
+    },
+    {
+      "kind": "crux",
+      "subject": "кий кылдым",
+      "rationale": "קדשתיך: көпчүлүк котормолор 'Мен силерден ыйыгыраакмын' десе, קדש этиши 'ыйык деп жарыяладым' маанисинде да айтылат"
+    },
+    {
+      "kind": "you",
+      "subject": "бузуку элге",
+      "rationale": "Яхве бузукулардын сөзүнүн ичиндеги тике кайрылуу"
+    }
+  ],
+  "translation": "Алар «Мага жакын келбегиле, мага тийбегиле, анткени Мен силерди ыйык кылдым» дегендер — булар Менин мурнумда түтүн, күн бою күйгөн от.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "e7bd88e3842ec1d01587d8263bf059ee9b902f0d72dd433d5c487aa5e1dde629",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/65\/5-8.1791210633386.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "האמרים",
+      "gloss": "дегендер"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "жакын"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "силерге"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...бегиле"
+    },
+    {
+      "surface": "תגש",
+      "gloss": "тийбе"
+    },
+    {
+      "surface": "בי",
+      "gloss": "мага"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "קדשתיך",
+      "gloss": "ыйык кылдым"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "булар"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "түтүн"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "Менин мурнумда"
+    },
+    {
+      "surface": "אש",
+      "gloss": "от"
+    },
+    {
+      "surface": "יקדת",
+      "gloss": "күйгөн"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бою"
+    },
+    {
+      "surface": "היום",
+      "gloss": "күн"
+    }
+  ],
+  "timestamp": "2026-10-05T14:30:33.386973938Z",
+  "model": "glm-5.3"
+}

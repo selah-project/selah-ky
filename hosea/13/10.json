@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 13:10",
+  "book": "hosea",
+  "lang": "ky",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אהי",
+      "rationale": "«каякета» (ASV\/JPS\/BSB) же «Менмын» (Geneva, KJV «Мен падышаң боломун») — тамыры эки жол окуйт."
+    },
+    {
+      "kind": "you",
+      "subject": "Йисраэл",
+      "rationale": "Суроо-жооп формасында Йисраэлге түз кайрылуу."
+    },
+    {
+      "kind": "elision",
+      "subject": "אפוא",
+      "rationale": "«эми» деген бөлүкчө суроого сиңди."
+    }
+  ],
+  "translation": "Каякета падышаң, ал бардык шаарларыңда сени куткарат? Жана сотторуң, аларга айткансың: Мага падыша бергиле жана төрөлөрдү.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "e64b359583dd3d276a9cf5563011e7697cbbfa8712f4197d9a1858af11dcbd93",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/hosea\/13\/9-12.1791213971885.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אהי",
+      "gloss": "каякета"
+    },
+    {
+      "surface": "מלכך",
+      "gloss": "падышаң"
+    },
+    {
+      "surface": "אפוא",
+      "gloss": "эми"
+    },
+    {
+      "surface": "ויושיעך",
+      "gloss": "куткарат"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "бардык"
+    },
+    {
+      "surface": "עריך",
+      "gloss": "шаарларыңда"
+    },
+    {
+      "surface": "ושפטיך",
+      "gloss": "жана сотторуң"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "аларга"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "айткансың"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "бергиле"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Мага"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "падыша"
+    },
+    {
+      "surface": "ושרים",
+      "gloss": "жана төрөлөрдү"
+    }
+  ],
+  "timestamp": "2026-10-05T15:26:11.885886199Z",
+  "model": "glm-5.3"
+}

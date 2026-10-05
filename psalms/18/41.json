@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "psalms 18:41",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "тырсак",
+      "rationale": "ערף — «тырсак\/мойун арты»: душмандын тырсагын берүү — жеңилгенге бурулуп качуу деген идиома"
+    },
+    {
+      "kind": "crux",
+      "subject": "мен жок кылдым",
+      "rationale": "KJV «that I might destroy» (максат) деп түшүндүрөт; еврейче этиш 1-жак өткөн чак — «мен жок кылдым»"
+    }
+  ],
+  "translation": "Жана менин душмандарым — ⟨алардын⟩ тырсагын мага бердиң, мени жек көргөндөрдү мен жок кылдым.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "0a460fcaeb27057d7c4ab7987ab5e8a73976405710b9d6ddf737cd7530d95a60",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/18\/41-44.1791215596202.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואיבי",
+      "gloss": "Жана менин душмандарым"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "бердиң"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мага"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "тырсак"
+    },
+    {
+      "surface": "ומשנאי",
+      "gloss": "мени жек көргөндөрдү"
+    },
+    {
+      "surface": "אצמיתם",
+      "gloss": "мен жок кылдым"
+    }
+  ],
+  "timestamp": "2026-10-05T15:53:16.202565783Z",
+  "model": "glm-5.3"
+}

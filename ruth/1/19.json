@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ruth 1:19",
+  "book": "ruth",
+  "lang": "ky",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "аялдар",
+      "rationale": "ותאמרנה аял. көп сандагы этиш — «аялдар» субъекті кыргызчада түшүндүрмө катары кошулду"
+    },
+    {
+      "kind": "elision",
+      "subject": "ויהי",
+      "rationale": "«Болду» — баяндоо байламтасы, кыргызча «…де» түрүндө эркин берилди"
+    }
+  ],
+  "translation": "Экеөө Бейт-Лехемге келгенче жөнөштү. Алар Бейт-Лехемге келгенде, бүт шаар алардын үстүнөн кыймылдады, жана аялдар: «Бул Наомиби?» — дешти.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "a500b53b5273b6b6688b40b5ac70a6d5cffcc3c7ecd4b11bffc04e16985e652d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ruth\/1\/17-20.1791219748706.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותלכנה",
+      "gloss": "жөнөштү"
+    },
+    {
+      "surface": "שתיהם",
+      "gloss": "экеөө"
+    },
+    {
+      "surface": "עד",
+      "gloss": "келгенче"
+    },
+    {
+      "surface": "באנה",
+      "gloss": "келгенче"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бейт-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Лехем"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "болду"
+    },
+    {
+      "surface": "כבאנה",
+      "gloss": "келгенде"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бейт-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Лехем"
+    },
+    {
+      "surface": "ותהם",
+      "gloss": "кыймылдады"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүт"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "шаар"
+    },
+    {
+      "surface": "עליהן",
+      "gloss": "алардын үстүнөн"
+    },
+    {
+      "surface": "ותאמרנה",
+      "gloss": "жана дешти"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "бул"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "Наомиби"
+    }
+  ],
+  "timestamp": "2026-10-05T17:02:28.707367541Z",
+  "model": "glm-5.3"
+}

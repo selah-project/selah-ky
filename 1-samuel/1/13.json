@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 1:13",
+  "book": "1-samuel",
+  "lang": "ky",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "על לבה",
+      "rationale": "жүрөгүнө каршы — идиома, 'ичинен, өзүнчө' деген мааниде"
+    },
+    {
+      "kind": "addition",
+      "subject": "аял",
+      "rationale": "еврейче жок, 'мас' сөзүнүн анык маанисин ачып берет"
+    }
+  ],
+  "translation": "Жана Ханна жүрөгүндө сүйлөдү, эриндери гана кыймылдап жатты, үнү болсо угулган жок; Эли ⟨аны⟩ мас аял деп эсептеди.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "56a964ae5905dd4befa74b4b11a7d23deb74c15c4c379024b8d6e51e5ca0c379",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-samuel\/1\/13-16.1791206572551.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וחנה",
+      "gloss": "Жана Ханна"
+    },
+    {
+      "surface": "היא",
+      "gloss": "өзү"
+    },
+    {
+      "surface": "מדברת",
+      "gloss": "сүйлөп жатты"
+    },
+    {
+      "surface": "על",
+      "gloss": "боюнча"
+    },
+    {
+      "surface": "לבה",
+      "gloss": "жүрөгүндө"
+    },
+    {
+      "surface": "רק",
+      "gloss": "гана"
+    },
+    {
+      "surface": "שפתיה",
+      "gloss": "эриндери"
+    },
+    {
+      "surface": "נעות",
+      "gloss": "кыймылдап жатты"
+    },
+    {
+      "surface": "וקולה",
+      "gloss": "жана үнү"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "угулду"
+    },
+    {
+      "surface": "ויחשבה",
+      "gloss": "жана ⟨аны⟩ эсептеди"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Эли"
+    },
+    {
+      "surface": "לשכרה",
+      "gloss": "мас аял деп"
+    }
+  ],
+  "timestamp": "2026-10-05T13:22:52.551697246Z",
+  "model": "glm-5.3"
+}

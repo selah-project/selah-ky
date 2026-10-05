@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "habakkuk 1:6",
+  "book": "habakkuk",
+  "lang": "ky",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "משכנות",
+      "rationale": "D2 боюнча Мишкан — «чатыр» деген котормо катары берилген жок, туруктуу форма сакталды."
+    },
+    {
+      "kind": "addition",
+      "subject": "өзүнө тиешелүү эмес",
+      "rationale": "לא לо — «аныки эмес»; кыргызча түшүнүктүү болушу үчүн кеңейтилди."
+    }
+  ],
+  "translation": "анткени мына, Мен ⟨את⟩ касдимдерди турдурам — ачуу жана шашылак эл; ал жердин кеңдиктерине басып, өзүнө тиешелүү эмес Мишкандарды ээлеп алуучу.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "547d8f9fac122dc5605a508cfadacbc5242deb7f338d5dadf9e692987d96aac8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/habakkuk\/1\/5-8.1791214741216.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "мына, Мен"
+    },
+    {
+      "surface": "מקים",
+      "gloss": "турдурам"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "касдимдерди"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "касдимдерди"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "эл"
+    },
+    {
+      "surface": "המר",
+      "gloss": "ачуу"
+    },
+    {
+      "surface": "והנמהר",
+      "gloss": "жана шашылак"
+    },
+    {
+      "surface": "ההולך",
+      "gloss": "басып баруучу"
+    },
+    {
+      "surface": "למרחבי",
+      "gloss": "кеңдиктерине"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "жердин"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "ээлеп алуучу"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "Мишкандарды"
+    },
+    {
+      "surface": "לא",
+      "gloss": "баspi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "өзүнө тиешелүү эмес"
+    }
+  ],
+  "timestamp": "2026-10-05T15:39:01.216916945Z",
+  "model": "glm-5.3"
+}

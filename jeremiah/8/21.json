@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 8:21",
+  "book": "jeremiah",
+  "lang": "ky",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שבר\/השברתי",
+      "rationale": "Удашуу: элдин сыны (шебер) үчүн «мен сындым» (hишбарти) — бир тамыр эки жолу, кыргызча «сын\/сындым» менен сакталды."
+    },
+    {
+      "kind": "substitution",
+      "subject": "караңгыладым",
+      "rationale": "קדרתי букв. «күйүгөн, күл түстүү болдум» — азаны билдреet; караңгы болуу — азанын көрүнүшү."
+    }
+  ],
+  "translation": "Элимдин кызынын сыны үчүн мен да сындым, караңгыладым, коркунуч кармады мени.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "acb5b3cd3d21efab2b506d45b4e87f34cb07ab5fd115ec35ee4fe005956c2792",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/jeremiah\/8\/21-23.1791210877178.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "үчүн"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "сыны"
+    },
+    {
+      "surface": "בת",
+      "gloss": "кызынын"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "элимдин"
+    },
+    {
+      "surface": "השברתי",
+      "gloss": "сындым"
+    },
+    {
+      "surface": "קדרתי",
+      "gloss": "караңгыладым"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "коркунуч"
+    },
+    {
+      "surface": "החזקתני",
+      "gloss": "кармады мени"
+    }
+  ],
+  "timestamp": "2026-10-05T14:34:37.178763662Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 30:12",
+  "book": "proverbs",
+  "lang": "ky",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "бар",
+      "rationale": "Еврейче атоочтук сүйлөм; кыргызча ⟨бар⟩ кошулду."
+    },
+    {
+      "kind": "substitution",
+      "subject": "заң",
+      "rationale": "צואה жалаң эле «заң, чөк» деген сөз; көпчүлүк котормолор «кирен» деп жумшартып койгон."
+    }
+  ],
+  "translation": "Муун ⟨бар⟩ — өз көзүнчө таза, бирок өз заңынан жуулган эмес.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "d343f7d21d47d0dcc93b15c7d598a54b798a382d73f2a82b16355da7cfbe58d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/30\/9-12.1791218439789.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "муун"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "таза"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "өз көзүнчө"
+    },
+    {
+      "surface": "ומצאתו",
+      "gloss": "өз заңынан"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "רחץ",
+      "gloss": "жуулган"
+    }
+  ],
+  "timestamp": "2026-10-05T16:40:39.790078213Z",
+  "model": "glm-5.3"
+}

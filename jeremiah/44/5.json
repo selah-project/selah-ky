@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 44:5",
+  "book": "jeremiah",
+  "lang": "ky",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "башка кудайлар",
+      "rationale": "אלהים אחרים — башка элдердин кудайлары, ошондуктан кичине тамгалуу «кудайлар», Элохим эмес"
+    },
+    {
+      "kind": "elision",
+      "subject": "לבלתי",
+      "rationale": "терс максаттык бөлүкчө «токтотуу» этиши менен берилди"
+    }
+  ],
+  "translation": "Жана алар угушкан жок да, ⟨את⟩ кулактарын ийишкен жок да — жамандыктарынан кайтуу үчүн, башка кудайларга түтөтүү багыштоону токтотуу үчүн.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "39ec2f5d65db2f19a406fa4708ce109f38380bab8370d5ef5b45809204f599c5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/jeremiah\/44\/5-8.1791211838487.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "угушту"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "ийишти"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "кулактарын"
+    },
+    {
+      "surface": "אזנם",
+      "gloss": "кулактарын"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "кайтуу"
+    },
+    {
+      "surface": "מרעתם",
+      "gloss": "жамандыктарынан"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "токтотуу"
+    },
+    {
+      "surface": "קטר",
+      "gloss": "түтөтүү багыштоону"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "кудайларга"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "башка"
+    }
+  ],
+  "timestamp": "2026-10-05T14:50:38.488278844Z",
+  "model": "glm-5.3"
+}

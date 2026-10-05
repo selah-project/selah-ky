@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 17:11",
+  "book": "1-chronicles",
+  "lang": "ky",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "зера",
+      "rationale": "זרע — «үрөн»; урпак маанисинде кийинки жолу туюлат, бирок форма «үрөн» бойдон кармалды."
+    },
+    {
+      "kind": "addition",
+      "subject": "атаңдын атың",
+      "rationale": "אבתיך — көп сан «аталарың»; кыргызча «атаңдын атың» табигыйраак."
+    },
+    {
+      "kind": "you",
+      "subject": "Давидге",
+      "rationale": "Наатайын сереп: убада Давидге багытталган."
+    }
+  ],
+  "translation": "Жана болот: качан күндөрүң толгондо, атаңдын атың менен чогуу кетеэриңде, Мен сенден кийин сенин уулдарыңдан болгон ⟨את⟩ үрөнүңдү туургузам, жана анын ⟨את⟩ падышачылыгын бекемдейм.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "c38e68cae1293cc5cde40c214ebcc71b69d926a17a32f6dcbf8cf55fc953d0b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-chronicles\/17\/9-12.1791222200663.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "жана болот"
+    },
+    {
+      "surface": "כי",
+      "gloss": "качан"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "толгондо"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "күндөрүң"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "кетеэриңде"
+    },
+    {
+      "surface": "עם",
+      "gloss": "менен"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "атаңдын атың"
+    },
+    {
+      "surface": "והקימותי",
+      "gloss": "туургузам"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "үрөнүңдү"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "үрөнүңдү"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "сенден кийин"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "болгон"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "…"
+    },
+    {
+      "surface": "מבניך",
+      "gloss": "уулдарыңдан"
+    },
+    {
+      "surface": "והכינותי",
+      "gloss": "бекемдейм"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "падышачылыгын"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "падышачылыгын"
+    }
+  ],
+  "timestamp": "2026-10-05T17:43:20.664642187Z",
+  "model": "glm-5.3"
+}

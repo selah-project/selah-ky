@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 31:17",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "хесед",
+      "rationale": "חסד 'ырайым' гана эмес — ынтымактуу жакшылык; бир сөз катары сакталды"
+    },
+    {
+      "kind": "you",
+      "subject": "Яхвеге",
+      "rationale": "Тилек Ысымга тартууланган"
+    }
+  ],
+  "translation": "Жүзүңдү кулуңа нурландыр, мени хеседиң менен куткар.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "9b59587d797f302d4a591541f55483600804e5612d4c188375668f3d7f0833de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/31\/17-20.1791215705258.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "האירה",
+      "gloss": "нурландыр"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "жүзүңдү"
+    },
+    {
+      "surface": "על",
+      "gloss": "…га"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "кулуңа"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "мени куткар"
+    },
+    {
+      "surface": "בחסדך",
+      "gloss": "хеседиң менен"
+    }
+  ],
+  "timestamp": "2026-10-05T15:55:05.259152930Z",
+  "model": "glm-5.3"
+}

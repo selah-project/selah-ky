@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 7:16",
+  "book": "jeremiah",
+  "lang": "ky",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Иеремияге",
+      "rationale": "Прямое запрещение пророку молиться за народ — тройной запрет (тилебе, көтөрбө, жолугушпа)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "רנה",
+      "rationale": "Буквально «скрип\/пронзительный крик» (радости или горя); здесь передано «ыйлоо» как плач-ходатайство."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שמע",
+      "rationale": "Ирония-обратное: в 7:13 народ «не слушал» (לא שמעתם), теперь Яхве «не услышит» пророка — тот же глагол."
+    }
+  ],
+  "translation": "Сен болсо бул эл үчүн дубана тилебе, алар үчүн ыйлоо жана дубана көтөрбө, Мен менен жолугушпа, анткени Мен ⟨את⟩ сени укпайм.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "148b53a3ffc43a6f242cd69c674d393ef86f2b5435504d03917c67c5417e2985",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/jeremiah\/7\/13-16.1791210839062.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Сен болсо"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ба"
+    },
+    {
+      "surface": "תתפלל",
+      "gloss": "тиле"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "үчүн"
+    },
+    {
+      "surface": "העם",
+      "gloss": "эл"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "бул"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "жана …ба"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "көтөр"
+    },
+    {
+      "surface": "בעדם",
+      "gloss": "алар үчүн"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "ыйлоо"
+    },
+    {
+      "surface": "ותפלה",
+      "gloss": "жана дубана"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "жана …ба"
+    },
+    {
+      "surface": "תפגע",
+      "gloss": "жолугуш"
+    },
+    {
+      "surface": "בי",
+      "gloss": "Мен менен"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "אינני",
+      "gloss": "… эмесмин"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "укпайм"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "сени"
+    }
+  ],
+  "timestamp": "2026-10-05T14:33:59.063652024Z",
+  "model": "glm-5.3"
+}

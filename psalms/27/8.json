@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 27:8",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לך אמר לבי",
+      "rationale": "Ким кимге сүйлөйт: KJV 'Сен айтканда... жүрөгүм сага айтты'; JPS 'Сенин үчүн жүрөгүм айтты'; текст түшүнүксүз калды"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בקשו\/אבקש",
+      "rationale": "'издегиле' жана 'издеймин' — бир тамырдын кайталанышы, сакталды"
+    }
+  ],
+  "translation": "Сага айтты жүрөгүм: Менин жүзүмдү издегиле; ⟨את⟩ Сенин жүзүңдү, Яхве, издеймин.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "bfb86ccae671cc6f02ad03ad3f9e8963d96f8e6ab210d7fbd68bf39bd0fb6ad1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/27\/5-8.1791215722721.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "сага"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "жүрөгүм"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "издегиле"
+    },
+    {
+      "surface": "פני",
+      "gloss": "жүзүмдү"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Сенин жүзүңдү"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "Сенин жүзүңдү"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אבקש",
+      "gloss": "издеймин"
+    }
+  ],
+  "timestamp": "2026-10-05T15:55:22.722881485Z",
+  "model": "glm-5.3"
+}

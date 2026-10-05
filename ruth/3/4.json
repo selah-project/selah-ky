@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ruth 3:4",
+  "book": "ruth",
+  "lang": "ky",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "бут учтарын жаап турган жамынчы",
+      "rationale": "מרגלות — «бут учтары»; «ачуу» аракети менен кошулуп, жамылып жаткан жамынчыны ачуу мааниси берилди."
+    },
+    {
+      "kind": "addition",
+      "subject": "жамынчы",
+      "rationale": "מרגלות жалаң гана «бут учтары»; «жамынчы» сөзү контексттен кошулду."
+    },
+    {
+      "kind": "you",
+      "subject": "Рутка",
+      "rationale": "Наоминин Рутка нускасы уланууда."
+    }
+  ],
+  "translation": "Ал жатканда жаткан ⟨את⟩ жерин билгиң; анан кирип, анын бут учтарын жаап турган жамынчыны ачып, жат; ал сага ⟨את⟩ эмне кыларыңды айтат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "dbb9a084c7daf989b62d592c2865d0508d20dc6c9940d8b4588d0f3c0e417192",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ruth\/3\/1-4.1791219770262.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "— болот"
+    },
+    {
+      "surface": "בשכבו",
+      "gloss": "ал жатканда"
+    },
+    {
+      "surface": "וידעת",
+      "gloss": "билгиң"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "жерин"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "жерин"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "— "
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "жаткан"
+    },
+    {
+      "surface": "שם",
+      "gloss": "анда"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "кирип"
+    },
+    {
+      "surface": "וגלית",
+      "gloss": "ачып"
+    },
+    {
+      "surface": "מרגלתיו",
+      "gloss": "анын бут учтарын жаап турган жамынчыны"
+    },
+    {
+      "surface": "ושכבתי",
+      "gloss": "жат"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ал"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "айтат"
+    },
+    {
+      "surface": "לך",
+      "gloss": "сага"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "эмне кыларыңды"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "эмне"
+    },
+    {
+      "surface": "תעשין",
+      "gloss": "кыларыңды"
+    }
+  ],
+  "timestamp": "2026-10-05T17:02:50.263389732Z",
+  "model": "glm-5.3"
+}

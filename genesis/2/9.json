@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 2:9",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "бактын ортосунда жашоо дарагы",
+      "rationale": "Hebrew has no verb in the second half; Kyrgyz needs a location phrase with implied verb"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הדעת טוב ורע",
+      "rationale": "merism 'good and evil' — totality expressed by opposites, kept literal"
+    }
+  ],
+  "translation": "Жана Яхве Элохим жердин топурагынан көзгө жагымтуу жана тамакка жакшы ар кайсы даракты өстүрдү, жана бактын ортосунда жашоо дарагы, жана жакшылыкты жана жамандыкты билүү дарагы.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "b4cd62958375c9359b944679d157bf42a17e537c70d4a3e3bc7e8a8a53562873",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/2\/9-12.1791200709865.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצמח",
+      "gloss": "өстүрдү"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-нан"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "жердин топурагынан"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ар кайсы"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "даракты"
+    },
+    {
+      "surface": "נחмד",
+      "gloss": "жагымтуу"
+    },
+    {
+      "surface": "למראה",
+      "gloss": "көзгө"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "жана жакшы"
+    },
+    {
+      "surface": "למאכל",
+      "gloss": "тамакка"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "жана дарак"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "жашоо"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ортосунда"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "бактын"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "жана дарак"
+    },
+    {
+      "surface": "הדעת",
+      "gloss": "билүү"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "жакшылыкты"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "жана жамандыкты"
+    }
+  ],
+  "timestamp": "2026-10-05T11:45:09.866248860Z",
+  "model": "glm-5.3"
+}

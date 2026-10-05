@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 4:3",
+  "book": "2-kings",
+  "lang": "ky",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Элишанын буйругу",
+      "rationale": "Аялга түз кайрылуу: 'Бар... сурап ал... азайтпа' — бардык этиштер түз нускама."
+    },
+    {
+      "kind": "invitation",
+      "subject": "לכי שאלי",
+      "rationale": "Буйрук формасы аялды иш-аракетке чакырат."
+    },
+    {
+      "kind": "measurement",
+      "subject": "אל תמעיטי",
+      "rationale": "'Азын чогултпа' — идиштердин саны көзөмөлдөнөт, көп чогултуу талап кылынат."
+    }
+  ],
+  "translation": "Жана ал айтты: Бар, сырттан, бардык кошналарыңдан ⟨את⟩ идиштерди — бош идиштерди — өзүңө сурап ал, азын чогултпа.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "34b96aff5e0d92aa663c19127f3de23d637f9b405081a99da19e65d937d548d7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-kings\/4\/2-3.1791224061317.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Жана айтты"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "Бар"
+    },
+    {
+      "surface": "שאלי",
+      "gloss": "сурап ал"
+    },
+    {
+      "surface": "לך",
+      "gloss": "өзүңө"
+    },
+    {
+      "surface": "כלים",
+      "gloss": "идиштер"
+    },
+    {
+      "surface": "מן",
+      "gloss": "тартып"
+    },
+    {
+      "surface": "החוץ",
+      "gloss": "сырттан"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "идиштерди"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бардык"
+    },
+    {
+      "surface": "שכנכי",
+      "gloss": "кошналарыңдан"
+    },
+    {
+      "surface": "כלים",
+      "gloss": "идиштер"
+    },
+    {
+      "surface": "רקים",
+      "gloss": "бош"
+    },
+    {
+      "surface": "אל",
+      "gloss": "жок"
+    },
+    {
+      "surface": "תמעיטי",
+      "gloss": "азын чогултпа"
+    }
+  ],
+  "timestamp": "2026-10-05T18:14:21.318596375Z",
+  "model": "glm-5.3"
+}

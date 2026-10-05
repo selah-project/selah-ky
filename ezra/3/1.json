@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezra 3:1",
+  "book": "ezra",
+  "lang": "ky",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "бир адамдай",
+      "rationale": "כאיש אחד — бирдикти билдүүчү идиома, «бир ооздон» деген мааниде"
+    },
+    {
+      "kind": "addition",
+      "subject": "эле",
+      "rationale": "בערимдеги абалды билдирүү үчүн кошулган жardооч"
+    }
+  ],
+  "translation": "Жетинчи ай жеткенде, Йисраэлдин уулдары шаарларда эле, жана эл бир адамдай Йерушалайимге чогулду.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "1d66040f1b731ef9028b4cae650142809fe564e7ba8e19574869158ae90a5279",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ezra\/3\/1-4.1791221051835.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויגע",
+      "gloss": "жеткенде"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "ай"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "жетинчи"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "жана ... уулдары"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэлдин"
+    },
+    {
+      "surface": "בערים",
+      "gloss": "шаарларда"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "чогулду"
+    },
+    {
+      "surface": "העם",
+      "gloss": "эл"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "адамдай"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бир"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…га"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Йерушалайим"
+    }
+  ],
+  "timestamp": "2026-10-05T17:24:11.836358839Z",
+  "model": "glm-5.3"
+}

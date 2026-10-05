@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 2:16",
+  "book": "1-kings",
+  "lang": "ky",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "жүзүмдү тескери буруба",
+      "rationale": "אל תשיבי את פני — «жүзүмдү кайтарба», баш тартуу идиомасы"
+    },
+    {
+      "kind": "addition",
+      "subject": "жатам",
+      "rationale": "Кыргызча азыркы чак мамилеси үчүн кошулду"
+    }
+  ],
+  "translation": "«Азыр ⟨את⟩ сенден бир өтүнүч сурап жатам — ⟨את⟩ жүзүмдү тескери буруба». Ал аял ага айтты: «Айт».",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "821f81cb60b100be09e801f68e96ef2d54e7a9d5349f971f72540a75bf0b53c1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-kings\/2\/13-16.1791207971804.json",
+    "code": "641241cf-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "азыр"
+    },
+    {
+      "surface": "שאלה",
+      "gloss": "өтүнүч"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "бир"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "мен"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "сурап жатам"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "сенден ⟨את⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ба"
+    },
+    {
+      "surface": "תשבי",
+      "gloss": "буруба"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "жүзүмдү"
+    },
+    {
+      "surface": "פני",
+      "gloss": "жүзүмдү"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "ал аял айтты"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ага"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "айт"
+    }
+  ],
+  "timestamp": "2026-10-05T13:46:11.805878237Z",
+  "model": "glm-5.3"
+}

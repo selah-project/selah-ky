@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 32:18",
+  "book": "deuteronomy",
+  "lang": "ky",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "תשי",
+      "rationale": "ушул сөз Танахта ушул жерде гана кездешет, «эстен чыгаруу» маанисинде"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨сен⟩",
+      "rationale": "ивритте ээ жок, кыргыз сүйлөмү аны талап кылат"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Таш",
+      "rationale": "צור — Яхвенин аты-сүрөтү катары «аска\/зоо», катуу жана бекемдиктин белгиси"
+    }
+  ],
+  "translation": "Сени төрөгөн Ташты ⟨сен⟩ унуттуң, жана сени жараткан Элди унутуп калдың.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "9802b5cbc434c865019bf5cf55a1ba659a653328bc8124098fe7c4eef0bae27c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/32\/17-20.1791205467819.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צור",
+      "gloss": "Таш"
+    },
+    {
+      "surface": "ילדך",
+      "gloss": "сени төрөгөн"
+    },
+    {
+      "surface": "תשי",
+      "gloss": "унуттуң"
+    },
+    {
+      "surface": "ותשכח",
+      "gloss": "унутуп калдың"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эл"
+    },
+    {
+      "surface": "מחללך",
+      "gloss": "сени жараткан"
+    }
+  ],
+  "timestamp": "2026-10-05T13:04:27.820226878Z",
+  "model": "glm-5.3"
+}

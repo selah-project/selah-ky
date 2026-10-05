@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 14:4",
+  "book": "proverbs",
+  "lang": "ky",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בר",
+      "rationale": "בר — «таза» (кадок таза, бош) же «дан» (жем) деп окулат; KJV «clean», башкалары «эгин» деп берет."
+    },
+    {
+      "kind": "alternative",
+      "subject": "өгүздөр жок болсо",
+      "rationale": "Аят эмгек жана пайда жөнүндө: таза кадок — жокчулуктун белгиси, мол түшүм — өгүздүн күчүнөн."
+    }
+  ],
+  "translation": "Өгүздөр жок болсо — жем кадок таза, ал эми түшүмдүн молдугу өгүздүн күчү менен.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "92140400659569df3ba77072ccf0569b26db16f94ecfeaeb3693a617fe82ee6b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/14\/1-4.1791218027327.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "באין",
+      "gloss": "жок болсо"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "өгүздөр"
+    },
+    {
+      "surface": "אבוס",
+      "gloss": "жем кадок"
+    },
+    {
+      "surface": "בר",
+      "gloss": "таза"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "ал эми молдугу"
+    },
+    {
+      "surface": "תבואות",
+      "gloss": "түшүмдүн"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "күчү менен"
+    },
+    {
+      "surface": "שור",
+      "gloss": "өгүздүн"
+    }
+  ],
+  "timestamp": "2026-10-05T16:33:47.328344848Z",
+  "model": "glm-5.3"
+}

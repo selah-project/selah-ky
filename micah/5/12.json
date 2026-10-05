@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "micah 5:12",
+  "book": "micah",
+  "lang": "ky",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "פסיליך",
+      "rationale": "пысыл — «оюлган»: жыгачтан\/таштан оюлган бут, «оюлган бут» сөз камтыган сүрөттү сактайт"
+    },
+    {
+      "kind": "you",
+      "subject": "Йисраэлге",
+      "rationale": "айтылыш ачык эле «сен» (аттарың, колуң) — жамаатка багытталган"
+    }
+  ],
+  "translation": "Жана Мен оюлган буттарыңды жана тургузулган таштарыңды ичиңден кесип таштаймын, жана колуңдун ишине эми баш ийбейсин.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "061f9eb75352d907fb4f3b7870342027448b4e79d5f0d882d110e2b5204329a2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/micah\/5\/9-12.1791214440993.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והכרתי",
+      "gloss": "кесип таштаймын"
+    },
+    {
+      "surface": "פסיליך",
+      "gloss": "оюлган буттарыңды"
+    },
+    {
+      "surface": "ומצבותיך",
+      "gloss": "тургузулган таштарыңды"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "ичиңден"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "жана... баш ийбейсин"
+    },
+    {
+      "surface": "תשתחוה",
+      "gloss": "баш ийбейсин"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "эми"
+    },
+    {
+      "surface": "למעשה",
+      "gloss": "ишине"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "колуңдун"
+    }
+  ],
+  "timestamp": "2026-10-05T15:34:00.994211531Z",
+  "model": "glm-5.3"
+}

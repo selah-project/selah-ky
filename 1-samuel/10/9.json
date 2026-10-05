@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 10:9",
+  "book": "1-samuel",
+  "lang": "ky",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ийнин",
+      "rationale": "שכם буквально «плечо\/спина»; «ийнин» передаёт жест поворота при уходе"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨анын⟩",
+      "rationale": "местоименный суффикс לו требует явного притяжательного в кыргызском"
+    }
+  ],
+  "translation": "Болду: ал ийнин буруп Шемуэлдин алдынан кетүүгө аттанганда, Элохим ⟨анын⟩ жүрөгүн башкача кылды, жана бул белгилердин баары ошол күнү келди.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "a004ae1c86ab7e71dd760a3915358d6eaee7b31d1e41006ebb8fd68290b4adc2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-samuel\/10\/9-12.1791206770575.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Болду"
+    },
+    {
+      "surface": "כהפנתו",
+      "gloss": "ийнин буруп"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "ийнин"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "кетүүгө"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "алдынан"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Шемуэлдин"
+    },
+    {
+      "surface": "ויהפך",
+      "gloss": "кылды"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨анын⟩"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "לב",
+      "gloss": "жүрөгүн"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "башкача"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "келди"
+    },
+    {
+      "surface": "כל",
+      "gloss": "баары"
+    },
+    {
+      "surface": "האתות",
+      "gloss": "белгилердин"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "бул"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "күнү"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ошол"
+    }
+  ],
+  "timestamp": "2026-10-05T13:26:10.576459920Z",
+  "model": "glm-5.3"
+}

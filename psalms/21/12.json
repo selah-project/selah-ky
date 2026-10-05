@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 21:12",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "карадылар",
+      "rationale": "נָטוּ — 'жайып ташташты, бурушту' литералдуу; 'карадылар' ('кийилишти') идиома катары берилди."
+    },
+    {
+      "kind": "addition",
+      "subject": "жаман (ой)",
+      "rationale": "מְזִמָּה өзү 'оюн, амал' дейт; 'жаман' сөзү мажбурлоо үчүн кошулду."
+    }
+  ],
+  "translation": "Анткени алар сага жамандык карадылар, жаман ой ойлошту — бирок күчү жетпейт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "0e6ed9a1436b8b1ccc27f6c44575d05806433511d717f3dd94efe0a05a8c86ce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/21\/9-12.1791215542650.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Анткени"
+    },
+    {
+      "surface": "נטו",
+      "gloss": "карадылар"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "сага"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "жамандык"
+    },
+    {
+      "surface": "חשבו",
+      "gloss": "ойлошту"
+    },
+    {
+      "surface": "מזמה",
+      "gloss": "жаман ой"
+    },
+    {
+      "surface": "בל",
+      "gloss": "бирок ... жок"
+    },
+    {
+      "surface": "יוכלו",
+      "gloss": "күчү жетпейт"
+    }
+  ],
+  "timestamp": "2026-10-05T15:52:22.651060759Z",
+  "model": "glm-5.3"
+}

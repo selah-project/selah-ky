@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezekiel 41:13",
+  "book": "ezekiel",
+  "lang": "ky",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "үйдүн өлчөөсү",
+      "rationale": "Бүт аят храмдын чендерин санайт: жүз чырк узундук, эки жолу кайталанат."
+    },
+    {
+      "kind": "substitution",
+      "subject": "чырк",
+      "rationale": "אמה — чычкан жүк (лактын узундугу) өлчөө бирдиги; 'чырк' — кыргыздагы шарттуу туунды."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ארך מאה אמה",
+      "rationale": "«узундугу жүз чырк» сөз айкашы аятта эки жолу так кайталанат — өлчөөнүн ритмикалык жаңырыгы."
+    }
+  ],
+  "translation": "Жана ал ⟨את⟩ үйдү өлчөдү: узундугу жүз чырк; жана бөлүнгөн жай жана имарат жана анын дубалдары — узундугу жүз чырк.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "e20a09c63aa45f132c38cd9c079756d4d65c4cf64208f626f96d1a0750ba6def",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ezekiel\/41\/13-16.1791213510337.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומדד",
+      "gloss": "жана өлчөдү"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "үйдү"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "үйдү"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "узундугу"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "жүз"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "чырк"
+    },
+    {
+      "surface": "והגזרה",
+      "gloss": "жана бөлүнгөн жай"
+    },
+    {
+      "surface": "והבניה",
+      "gloss": "жана имарат"
+    },
+    {
+      "surface": "וקירותיה",
+      "gloss": "жана анын дубалдары"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "узундугу"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "жүз"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "чырк"
+    }
+  ],
+  "timestamp": "2026-10-05T15:18:30.338315611Z",
+  "model": "glm-5.3"
+}

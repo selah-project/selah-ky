@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 49:32",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "מאת",
+      "rationale": "H854 предлогу '-дан' жүлүнү менен берилип, ⟨את⟩ белгиси сакталды"
+    },
+    {
+      "kind": "addition",
+      "subject": "тиешелүүлүк",
+      "rationale": "Ат атооч конструкцияда этиш жок — кыргызча '-нын\/-ны' жүлүндөрү кошулду"
+    }
+  ],
+  "translation": "Талааны жана анын ичиндеги үңкүрдүн сатып алынышы — ⟨את⟩ хет уулдарынан.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "a33527899d60e9fdd3d1c851099961a8f996658e25a20fc2b16ee53ed9aa957a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/49\/29-32.1791201815968.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מקנה",
+      "gloss": "сатып алынышы"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "талаанын"
+    },
+    {
+      "surface": "והמערה",
+      "gloss": "жана үңкүрдүн"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "эмне"
+    },
+    {
+      "surface": "בו",
+      "gloss": "анын ичинде"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ -дан"
+    },
+    {
+      "surface": "בני",
+      "gloss": "уулдары"
+    },
+    {
+      "surface": "חת",
+      "gloss": "хет"
+    }
+  ],
+  "timestamp": "2026-10-05T12:03:35.970107348Z",
+  "model": "glm-5.3"
+}

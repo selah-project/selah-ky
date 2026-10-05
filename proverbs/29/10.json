@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 29:10",
+  "book": "proverbs",
+  "lang": "ky",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נפשו",
+      "rationale": "«Анын жанын издешет» — коргошотбу же жок кылышыбы (KJV «seek his soul») — эки окуу бар."
+    },
+    {
+      "kind": "substitution",
+      "subject": "жан",
+      "rationale": "נפש — «дем, жашоо күчү», «жан» деген түшүнүккө жакындатылды."
+    }
+  ],
+  "translation": "Кандуу адамдар бүтүндү жек көрөт, а түз жүргөндөр анын жанын издешет.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "347ef1b7fd26606cb72ca8827d1dac8af4e3dfd81df4fa4c33b5ccf0a2e8e397",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/29\/9-12.1791218383569.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "адамдар"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "кандуу"
+    },
+    {
+      "surface": "ישנאו",
+      "gloss": "жек көрөт"
+    },
+    {
+      "surface": "תם",
+      "gloss": "бүтүндү"
+    },
+    {
+      "surface": "וישרים",
+      "gloss": "түз жүргөндөр"
+    },
+    {
+      "surface": "יבקשו",
+      "gloss": "издешет"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "жанын"
+    }
+  ],
+  "timestamp": "2026-10-05T16:39:43.570348696Z",
+  "model": "glm-5.3"
+}

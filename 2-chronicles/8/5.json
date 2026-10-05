@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 8:5",
+  "book": "2-chronicles",
+  "lang": "ky",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bekemdelgen",
+      "rationale": "ערי מצור — сөзмө-сөз «камоо-шаарлар», мáцор — курчоо, чеп; «бекемделген» түшүнүктү берет"
+    },
+    {
+      "kind": "measurement",
+      "subject": "шаарлардын тизмеси",
+      "rationale": "Шломонун курган шаарларынын тизмеси — эсептөө контекст"
+    }
+  ],
+  "translation": "Жана ал ⟨את⟩ Жогорку Бейт-Хоронду жана ⟨את⟩ Төмөнкү Бейт-Хоронду курду — бекемделген шаарлар, дубалдар, дарбазалар жана шыргайлар менен.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "0cd70edb6853391723cb2988f4c5aaba27d706b0e18de56ecae86812517c383d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-chronicles\/8\/5-8.1791222817994.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "курду"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Жогорку Бейт-Хоронду"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бейт"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "Хорон"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "Жогорку"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "жана ⟨את⟩",
+      "marks": "Төмөнкү Бейт-Хоронду"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бейт"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "Хорон"
+    },
+    {
+      "surface": "התחתון",
+      "gloss": "Төмөнкү"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "шаарлар"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "бекемделген"
+    },
+    {
+      "surface": "חומות",
+      "gloss": "дубалдар"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "дарбазалар"
+    },
+    {
+      "surface": "ובריח",
+      "gloss": "жана шыргайлар"
+    }
+  ],
+  "timestamp": "2026-10-05T17:53:37.995301196Z",
+  "model": "glm-5.3"
+}

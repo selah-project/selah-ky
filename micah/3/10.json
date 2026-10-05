@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 3:10",
+  "book": "micah",
+  "lang": "ky",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Алар",
+      "rationale": "Атоочтун субъектти көрсөткөч «булар» мурунку аяттан келет; кыргызча этиш субъектти талап кылат."
+    },
+    {
+      "kind": "idiom",
+      "subject": "кан менен куруу",
+      "rationale": "Еврейча «кандын үстүнөн куруу» деген сүрөт — зордук-зомбулук менен байлык чогултуу."
+    }
+  ],
+  "translation": "Алар Сионду кан менен, Йерушалайимди зулумдук менен курушат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "8054e25b9379e10f4e79d295d88785af63e5dc9fa92df8248ac3686478ef1f17",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/micah\/3\/9-12.1791214466444.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בנה",
+      "gloss": "курушат"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Сионду"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "кан менен"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "Йерушалайимди"
+    },
+    {
+      "surface": "בעולה",
+      "gloss": "зулумдук менен"
+    }
+  ],
+  "timestamp": "2026-10-05T15:34:26.445454203Z",
+  "model": "glm-5.3"
+}

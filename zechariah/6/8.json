@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "zechariah 6:8",
+  "book": "zechariah",
+  "lang": "ky",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "тынчтатты",
+      "rationale": "הניחו: «тынчтатты» (KJV) же «эс алдырды» (BSB); «рухум жерге эс алды» деген маанида"
+    },
+    {
+      "kind": "substitution",
+      "subject": "рухум",
+      "rationale": "רוחי — «менин рухум\/шамалым»; D2 боюнча «рух» сакталат"
+    }
+  ],
+  "translation": "Жана ал мени ⟨את⟩ чакырып мага сөзүн айтты: көр, түндүк жерине бараткандар ⟨את⟩ менин рухумду түндүк жеринде тынчтатты.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "7df23a8c6f971657e148a061574fec0d51f6c80c97112701353658eaabe3b0df",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/zechariah\/6\/5-8.1791215051752.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויזעק",
+      "gloss": "чакырып"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "мени"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "сөзүн айтты"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "мага"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "деп"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "көр"
+    },
+    {
+      "surface": "היוצאים",
+      "gloss": "бараткандар"
+    },
+    {
+      "surface": "אל",
+      "gloss": "жерине"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "түндүк жери"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "түндүк"
+    },
+    {
+      "surface": "הניחו",
+      "gloss": "тынчтатты"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "менин рухумду"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "менин рухумду"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "жеринде"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "түндүк"
+    }
+  ],
+  "timestamp": "2026-10-05T15:44:11.753964713Z",
+  "model": "glm-5.3"
+}

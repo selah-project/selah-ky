@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 8:3",
+  "book": "ecclesiastes",
+  "lang": "ky",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תלך",
+      "rationale": "「你可以走」或「不要急忙离去」——动词或属上句（不要急忙离开）或为许可（可以走），各家分歧"
+    },
+    {
+      "kind": "elision",
+      "subject": "תלך",
+      "rationale": "按上句读法并入「急忙离开」，单列 gloss 为空"
+    },
+    {
+      "kind": "addition",
+      "subject": "нерсесинин",
+      "rationale": "אשר关系词以名词短语补出"
+    },
+    {
+      "kind": "you",
+      "subject": "падышага кызмат кылган адамга",
+      "rationale": "命令式直接对在王面前的人说话"
+    }
+  ],
+  "translation": "Анын жүзүнөн корбоо болуп кетпегин, жаман иште турбагын, анткени ал каалаган нерсесинин баарын жасайт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "ab5194fb5734e8ad5b6da3ed010248d0ee08189ca164c81a73ecc7e041f31d73",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ecclesiastes\/8\/1-4.1791220122676.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "болуп"
+    },
+    {
+      "surface": "תבהל",
+      "gloss": "корбоо… кетпегин"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "жүзүнөн"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "—"
+    },
+    {
+      "surface": "אל",
+      "gloss": "жаман"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "турбагын"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "иште"
+    },
+    {
+      "surface": "רע",
+      "gloss": "жаман"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "כל",
+      "gloss": "баарын"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "нерсесинин"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "каалаган"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "жасайт"
+    }
+  ],
+  "timestamp": "2026-10-05T17:08:42.677952679Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 18:9",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "איה",
+      "rationale": "Кытай тилинде атооч 'кайда' деген жоопту талап кылат, бирок 'бар' деген этиш жок — 'ал' кошулду"
+    },
+    {
+      "kind": "addition",
+      "subject": "ал",
+      "rationale": "'Мына, чаттарда' — Этиштин субъектиз сүйлөм, 'ал' кошулду"
+    }
+  ],
+  "translation": "Жана алар ага айтышты: Сара, аяң кайда? Ал айтты: Мына, чаттарда.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "e820b53fd274361f4d5b7cf316391f465c90ceff0fdcb837f058ce9bb1a386c3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/18\/9-12.1791200991625.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "алар айтышты"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ага"
+    },
+    {
+      "surface": "איה",
+      "gloss": "кайда"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Сара"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "аяң"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ал айтты"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "мына"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "чаттарда"
+    }
+  ],
+  "timestamp": "2026-10-05T11:49:51.626354815Z",
+  "model": "glm-5.3"
+}

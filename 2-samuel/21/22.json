@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-samuel 21:22",
+  "book": "2-samuel",
+  "lang": "ky",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Рапанын тукумунан",
+      "rationale": "להרפה — 'Рапага' (аты, өздөштүрүлгөн 'ал-Баатырлардын' аталышы) же жалпы 'бөй-дөө' сыяктуу; KJV 'the giant', BSB 'Rapha'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "кулаган",
+      "rationale": "ויפלו 'кулады' — идиома, 'колго кулаш' 'өлүмгө учураш' дегенди билдирет."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רפה",
+      "rationale": "Рапа аталышы 21-бап боюнча кайталанып, бүт аңгеменин байланышын түзөт."
+    },
+    {
+      "kind": "measurement",
+      "subject": "төртөө",
+      "rationale": "Бөй-дөөлөрдүн саны эсептелет — бул төртүнчүсү, баптын жыйынтык эсеби."
+    }
+  ],
+  "translation": "⟨את⟩ Бул төртөө Гатта Рапанын тукумунан туулган, жана алар Давиддин колуна жана анын кулдарынын колуна кулаган.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "6ff426822879c8fbe098491b5a97b5e53f082195e3555d74bc3018968e39526f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-samuel\/21\/21-22.1791207739229.json",
+    "code": "641241cf-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Бул төртөө"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "төртөө"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "бул"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "туулган"
+    },
+    {
+      "surface": "להרפה",
+      "gloss": "Рапанын тукумунан"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "Гатта"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "кулаган"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "колуна"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давиддин"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "жана колуна"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "анын кулдарынын"
+    }
+  ],
+  "timestamp": "2026-10-05T13:42:19.230738801Z",
+  "model": "glm-5.3"
+}

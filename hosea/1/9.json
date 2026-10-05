@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "hosea 1:9",
+  "book": "hosea",
+  "lang": "ky",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "силерге болбойм",
+      "rationale": "כי אתם לא עמי ואנכי לא אהיה לכם — текстте 'Элохим' деген сөз жок: 'Мен силер үчүн болбойм' (KJV 'your God' кошот), жөн гана 'мен силердики болбойм'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לא עמי \/ לא אהיה",
+      "rationale": "Эл аталышы לֹא־עַמִּי (Ло-Амми, 'менин элим эмес') аяттын ичинде эки жолу кайрылат — ат болуп да, өкүм болуп да."
+    },
+    {
+      "kind": "you",
+      "subject": "Йисраэлге",
+      "rationale": "Пайгамбар сөзү Израил элине түз кайрылуу: 'силер менин элим эмессиңер'."
+    }
+  ],
+  "translation": "Жана ал айтты: Анын атын Ло-Амми деп кой, анткени силер менин элим эмессиңер, жана Мен силерге болбойм.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "d0b80b7aeffca42215d533f24984fc8f564c28384dc661b562b9e97a36af51b4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/hosea\/1\/9-9.1791213761507.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Жана ал айтты"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "кой"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "атын"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Ло"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "Амми"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "силер"
+    },
+    {
+      "surface": "לא",
+      "gloss": "эмессиңер"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "менин элим"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "жана Мен"
+    },
+    {
+      "surface": "לא",
+      "gloss": "болбойм"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "⟨болбойм⟩"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "силерге"
+    }
+  ],
+  "timestamp": "2026-10-05T15:22:41.507612356Z",
+  "model": "glm-5.3"
+}

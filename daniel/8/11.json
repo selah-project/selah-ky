@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "daniel 8:11",
+  "book": "daniel",
+  "lang": "ky",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨курмандык⟩",
+      "rationale": "התמיד 'туруктуу' деген сөз гана — зат аты кошулду, анткени кыргызча 'туруктуу' жалаң жатык калат"
+    },
+    {
+      "kind": "crux",
+      "subject": "андан",
+      "rationale": "וממננו: 'андан (башкаруучудан) алынды' (JPS) же 'анын (мүйүздүн) аркасынан алынды' (KJV) — эки окумо бар"
+    }
+  ],
+  "translation": "Жана ал кошуундун башкаруучусуна карата да өзүн чоң тутту, андан туруктуу ⟨курмандык⟩ алынды, жана анын ыйык жайынын орду ыргытылды.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "376d211f1867062096337b7cbfcea7e76fc90344c2da29136bc265ad31e1cd16",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/daniel\/8\/9-12.1791220712198.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועד",
+      "gloss": "жана чейин"
+    },
+    {
+      "surface": "שר",
+      "gloss": "башкаруучусуна"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "кошуундун"
+    },
+    {
+      "surface": "הגדיל",
+      "gloss": "өзүн чоң тутту"
+    },
+    {
+      "surface": "וממנו",
+      "gloss": "жана андан"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "алынды"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "туруктуу ⟨курмандык⟩"
+    },
+    {
+      "surface": "והשלך",
+      "gloss": "жана ыргытылды"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "ордуну"
+    },
+    {
+      "surface": "מקדשו",
+      "gloss": "ыйык жайынын"
+    }
+  ],
+  "timestamp": "2026-10-05T17:18:32.199830112Z",
+  "model": "glm-5.3"
+}

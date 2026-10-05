@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 53:4",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 53,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "את",
+      "rationale": "Алеф-тав белгиси ⟨את⟩ катары текстте сакталды"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ענה",
+      "rationale": "ענה — «басынтуу, азап берүү» маанисинде, кыргызча «азап берген» деп берилди"
+    },
+    {
+      "kind": "addition",
+      "subject": "бирок",
+      "rationale": "אכן биринчи сүйлөмдө «чын эле», экинчи сүйлөмдө каршы мааниде «бирок» катары берилди"
+    }
+  ],
+  "translation": "Чын эле, ал ⟨את⟩ биздин ооруларыбызды көтөрдү жана биздин азаптарыбызды ал көтөрүп жүрдү; бирок биз аны Элохим урган, сурген, азап берген деп эсептедик.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "f06ac1b2740c2c949fd1a5161565fcadf36bcce1120272622dce2f66c3f191c2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/53\/4-4.1791224074248.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "чын эле"
+    },
+    {
+      "surface": "חלינו",
+      "gloss": "биздин ооруларыбызды"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ал"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "көтөрдү"
+    },
+    {
+      "surface": "ומכאבינו",
+      "gloss": "жана биздин азаптарыбызды"
+    },
+    {
+      "surface": "סבלם",
+      "gloss": "көтөрүп жүрдү"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "бирок биз"
+    },
+    {
+      "surface": "חשבנהו",
+      "gloss": "аны ... деп эсептедик"
+    },
+    {
+      "surface": "נגוע",
+      "gloss": "сурген"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "урган"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "ומענה",
+      "gloss": "азап берген"
+    }
+  ],
+  "timestamp": "2026-10-05T18:14:34.249348666Z",
+  "model": "glm-5.3"
+}

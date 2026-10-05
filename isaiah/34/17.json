@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 34:17",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "үлүш жана ченөө жип",
+      "rationale": "Бутум таш (גורל) жана ченөө жип (קו) менен бөлүү — жер ченөө тили."
+    },
+    {
+      "kind": "substitution",
+      "subject": "үлүш",
+      "rationale": "גורל лексикалык мааниси — бүтүм таш, үлүш тартуу үчүн майда таш."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חלקתה \/ גורל",
+      "rationale": "Эки дээрлик бирдей образ — таш тартуу жана таш менен бөлүү — кыргызча бир гана бөлүү сөзүнө кысылып калат."
+    }
+  ],
+  "translation": "Жана ал ⟨алар үчүн⟩ үлүш таштады, жана анын колу аны аларга ченөө жип менен бөлдү; түбөлүккө чейин алар аны мурастап алышат, муундан муунга чейин алар анда жашашат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "fffb6cfc2733b80b251cdcd4143e0078beace898975459aa4c7fd2687ea816a5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/34\/17-17.1791209987763.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "жана ал"
+    },
+    {
+      "surface": "הפיל",
+      "gloss": "таштады"
+    },
+    {
+      "surface": "להן",
+      "gloss": "алар үчүн"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "үлүш"
+    },
+    {
+      "surface": "וידו",
+      "gloss": "жана анын колу"
+    },
+    {
+      "surface": "חלקתה",
+      "gloss": "бөлдү"
+    },
+    {
+      "surface": "להם",
+      "gloss": "аларга"
+    },
+    {
+      "surface": "בקו",
+      "gloss": "ченөө жип менен"
+    },
+    {
+      "surface": "עד",
+      "gloss": "чейин"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "түбөлүккө"
+    },
+    {
+      "surface": "יירשוה",
+      "gloss": "аны мурастап алышат"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "муундан"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "муунга"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "жашашат"
+    },
+    {
+      "surface": "בה",
+      "gloss": "анда"
+    }
+  ],
+  "timestamp": "2026-10-05T14:19:47.763900061Z",
+  "model": "glm-5.3"
+}

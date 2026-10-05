@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 68:18",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 68,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שנאן",
+      "rationale": "«Кайталоо» (түрлөрү) же KJV «периштелердин миңдери» — тамыры түшүнүксүз."
+    },
+    {
+      "kind": "alternative",
+      "subject": "בם סיני בקדש",
+      "rationale": "«Адонай алардын арасында — Синайдагы ыйык жерде» деген окумо да мүмкүн."
+    }
+  ],
+  "translation": "Элохимдин арабалары сансыз көп — кайталоолордун миңдери; Адонай алардын арасында, Синай сыяктуу ыйыктыкта.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "b8db233452fd8e4af835b37129aed01f1c56633a7eca456d475864a089c608f7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/68\/17-20.1791216452190.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רכב",
+      "gloss": "арабалары"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохимдин"
+    },
+    {
+      "surface": "רבתים",
+      "gloss": "сансыз көп"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "миңдери"
+    },
+    {
+      "surface": "שנאן",
+      "gloss": "кайталоолордун"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "בם",
+      "gloss": "алардын арасында"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Синай сыяктуу"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "ыйыктыкта"
+    }
+  ],
+  "timestamp": "2026-10-05T16:07:32.191434604Z",
+  "model": "glm-5.3"
+}

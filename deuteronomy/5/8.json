@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 5:8",
+  "book": "deuteronomy",
+  "lang": "ky",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жасалма таш",
+      "rationale": "פסל — оюлган сөөк\/таш бейне; «бут» деген роль эмес, форма сакталды"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ממעל \/ מתחת",
+      "rationale": "Үчилтик структура: жогору — ылдый — ылдый (жердин астындагы суулар); ыргак кайталоо"
+    }
+  ],
+  "translation": "Өзүңө жасалма таш келтирбе, асманда жогоруда бар нерсенин, жерде ылдыйда бар нерсенин жана жердин астындагы сууларда бар нерсенин эч кандай бейнесин жасаба.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "1ab2b47b3bedfc51dff3f23060f3249dcc99b48e3c942b5e8b93855b84089811",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/5\/5-8.1791204755852.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "жасаба"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "жасаба"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Өзүңө"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "жасалма таш"
+    },
+    {
+      "surface": "כל",
+      "gloss": "эч кандай"
+    },
+    {
+      "surface": "תמונה",
+      "gloss": "бейнесин"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "деп"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "асманда"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "жогоруда"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "жана"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "жерде"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "ылдыйда"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "жана"
+    },
+    {
+      "surface": "במים",
+      "gloss": "сууларда"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "астындагы"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "жердин"
+    }
+  ],
+  "timestamp": "2026-10-05T12:52:35.854154197Z",
+  "model": "glm-5.3"
+}

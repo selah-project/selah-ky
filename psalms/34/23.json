@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 34:23",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жан",
+      "rationale": "נפש — 'дем алуучу жандык, жандуулук'; 'жан' кеңири кабыл алынган форма"
+    },
+    {
+      "kind": "you",
+      "subject": "кулдары",
+      "rationale": "Яхвеге паналагандарга үн катуу — псаломдун ички сүйлөө-актысы"
+    }
+  ],
+  "translation": "Яхве Өз кулдарынын жанын куткарат, жана Ага паналагандардын эч бири айыптуу болбойт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "d36f55ed0d71b2f1a8e2e25a2781e79b4d6736842c3e68296853adf2636c3455",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/34\/21-23.1791215808822.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "пודה",
+      "gloss": "куткарат"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "жанын"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "кулдарынын"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "жана эмес"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "айыптуу болбойт"
+    },
+    {
+      "surface": "כל",
+      "gloss": "эч бири"
+    },
+    {
+      "surface": "החסים",
+      "gloss": "паналагандардын"
+    },
+    {
+      "surface": "בו",
+      "gloss": "Ага"
+    }
+  ],
+  "timestamp": "2026-10-05T15:56:48.823923952Z",
+  "model": "glm-5.3"
+}

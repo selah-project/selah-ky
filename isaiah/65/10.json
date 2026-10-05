@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 65:10",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 65,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "rationale": "атылаштama үчүн тиешелүүлүк арткычка «издеген» аркылуу өттү, өзүнчө сөз катары жок"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עמק עכור",
+      "rationale": "«Акор өрөөнү» — Жошуа 7дөгү «тынчсыздык» өрөөнү деген аталыш менен угулат"
+    }
+  ],
+  "translation": "Жана Шарон койлор үчүн жайлоого айланат, жана Акор өрөөнү мал жатуучу жайга айланат — мени издеген элим үчүн.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "66a8d8bb9585ec4ed4f2166197f0e5f6ff7414decf13f2e137566e4ce5aa3afd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/65\/9-12.1791210634089.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "болот"
+    },
+    {
+      "surface": "השרון",
+      "gloss": "Шарон"
+    },
+    {
+      "surface": "לנוה",
+      "gloss": "жайлоого"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "койлор үчүн"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "жана өрөөнү"
+    },
+    {
+      "surface": "עכור",
+      "gloss": "Акор"
+    },
+    {
+      "surface": "לרבץ",
+      "gloss": "жатуучу жайга"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "мал"
+    },
+    {
+      "surface": "לעמי",
+      "gloss": "элим үчүн"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "дרשוני",
+      "gloss": "мени издеген"
+    }
+  ],
+  "timestamp": "2026-10-05T14:30:34.090347913Z",
+  "model": "glm-5.3"
+}

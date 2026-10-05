@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 28:6",
+  "book": "2-chronicles",
+  "lang": "ky",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "жүз жыйырма миң",
+      "rationale": "Количественный счёт убитых в один день."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אבותם",
+      "rationale": "‘Аталарынын’ — Kyrgyz requires the possessive plural; Hebrew אבותם is one word."
+    }
+  ],
+  "translation": "Жана Пеках, Ремалйаhунун уулу, Йеhудада бир күндө жүз жыйырма миң адамды өлтүрдү, баары эр жүрөк адамдар; анткени алар Яхвени, аталарынын Элохимин ⟨את⟩ таштап кетишкен.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "8dee184a6b1b54564e80b940c367f2109b38e290dd9fee73ef05f07a2b51ed34",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-chronicles\/28\/5-8.1791223206098.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהרג",
+      "gloss": "өлтүрдү"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "Пеках"
+    },
+    {
+      "surface": "בן",
+      "gloss": "уулу"
+    },
+    {
+      "surface": "רמליהו",
+      "gloss": "Ремалйаhунун"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "Йеhудада"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "жүз"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "жыйырма"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "миң"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "күндө"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бир"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "баары"
+    },
+    {
+      "surface": "בני",
+      "gloss": "адамдары"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "эр жүрөк"
+    },
+    {
+      "surface": "בעזבם",
+      "gloss": "таштап кетишкени үчүн"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яхвени"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвени"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Элохимин"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "ателарынын"
+    }
+  ],
+  "timestamp": "2026-10-05T18:00:06.107039152Z",
+  "model": "glm-5.3"
+}

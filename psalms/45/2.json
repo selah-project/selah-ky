@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 45:2",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "רחש",
+      "rationale": "Сейрек этиш — «кайнап агуу, көбүрүү»; кээ бир которуулар «даярдап жатат» деп алып барышат."
+    },
+    {
+      "kind": "substitution",
+      "subject": "מעשי",
+      "rationale": "«Иштеримди» — Ыйык Китептин текстиндеги конструкция «падыша жөнүндө» дегенди туюнтат."
+    }
+  ],
+  "translation": "Жүрөгүм жакшы сөздү көбүртөт, падыша жөнүндө ⟨мен⟩ ырдап жатам, тилим тез жазуучунун калеминин ⟨сыман⟩.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "2f0ced1bac9db241d0082f3c5f0d669dda6b700031a2644694911d4ac6ca1979",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/45\/1-4.1791216119049.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רחש",
+      "gloss": "көбүртөт"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "жүрөгүм"
+    },
+    {
+      "surface": "дבר",
+      "gloss": "сөздү"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "жакшы"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ырдап жатам"
+    },
+    {
+      "surface": "אני",
+      "gloss": "⟨мен⟩"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "жөнүндө"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "падыша"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "тилим"
+    },
+    {
+      "surface": "עט",
+      "gloss": "калеминин"
+    },
+    {
+      "surface": "סופר",
+      "gloss": "жазуучунун"
+    },
+    {
+      "surface": "מהיר",
+      "gloss": "тез"
+    }
+  ],
+  "timestamp": "2026-10-05T16:01:59.050624216Z",
+  "model": "glm-5.3"
+}

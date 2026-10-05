@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 7:2",
+  "book": "numbers",
+  "lang": "ky",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "төрө",
+      "rationale": "נשיא — «бийлеген, бийик адам»; «төрө» эң жакын кыргызча сөз"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨алар⟩",
+      "rationale": "сүйлөмдү бүтүрүү үчүн кошулду, анткени 7:3 тикеси кийин келет"
+    }
+  ],
+  "translation": "Ошондо Йисраэлдин төрөлөрү — аталарынын үй-бүлөлөрүнүн башчылары, алар уруулардын төрөлөрү, эсепке алынгандардын үстүнө турган адамдар — ⟨алар⟩ белек алып келишти.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "d5cc55c2a79dcb381523f4f66f3f12e8e39dcc53e70e5834d5e525e22028c3db",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/numbers\/7\/1-4.1791203643573.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקריבו",
+      "gloss": "белек алып келишти"
+    },
+    {
+      "surface": "נשיאי",
+      "gloss": "төрөлөрү"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэлдин"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "башчылары"
+    },
+    {
+      "surface": "בית",
+      "gloss": "үй-бүлөлөрүнүн"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "аталарынын"
+    },
+    {
+      "surface": "הם",
+      "gloss": "алар"
+    },
+    {
+      "surface": "נשיאי",
+      "gloss": "төрөлөрү"
+    },
+    {
+      "surface": "המטת",
+      "gloss": "уруулардын"
+    },
+    {
+      "surface": "הם",
+      "gloss": "алар"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "турган адамдар"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстүнө"
+    },
+    {
+      "surface": "הפקדים",
+      "gloss": "эсепке алынгандардын"
+    }
+  ],
+  "timestamp": "2026-10-05T12:34:03.574554951Z",
+  "model": "glm-5.3"
+}

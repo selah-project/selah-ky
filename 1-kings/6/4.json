@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 6:4",
+  "book": "1-kings",
+  "lang": "ky",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "шекуфим атумим",
+      "rationale": "KJV 'тар нурлуу терезелер', JPS 'ичинен кең, сыртынан тар' — так мааниси талаштуу; такталардын жантайышы жөнүндө сөз"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שקפים אטמים",
+      "rationale": "эки сын айкындыкка каршы турат — ачык-жабык чечмелөөсү кыргызча жооптомо менен берилди"
+    }
+  ],
+  "translation": "Жана ал үйгө какма-такталуу жабык терезелерди жасады.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "e8b4f11e5ecaef7ef0a274a91a39f1b36a52b0fe2af775b3739059800b6af621",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-kings\/6\/1-4.1791208090433.json",
+    "code": "641241cf-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "жана жасады"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "үйгө"
+    },
+    {
+      "surface": "חלוני",
+      "gloss": "терезелерди"
+    },
+    {
+      "surface": "שקפים",
+      "gloss": "какма-такталуу"
+    },
+    {
+      "surface": "אטמים",
+      "gloss": "жабык"
+    }
+  ],
+  "timestamp": "2026-10-05T13:48:10.434254595Z",
+  "model": "glm-5.3"
+}

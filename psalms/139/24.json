@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 139:24",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 139,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עצב",
+      "rationale": "«оору» же «бут» (жасалма идол) — «оор жол» же «жаман жол» деген варианттар"
+    },
+    {
+      "kind": "elision",
+      "subject": "בי",
+      "rationale": "«менде» деген предлог котормодо «менин ичимде» маанисинде берилди"
+    }
+  ],
+  "translation": "Жана көр, мени оор жол барбы, жана мени түбөлүктүү жол менен жүргүз.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "1eda32a22fb1984b335321c369a0668a3e2046fbbda41aff5c9a3b27e93e8ce0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/139\/21-24.1791217548299.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "жана көр"
+    },
+    {
+      "surface": "אם",
+      "gloss": "бекен"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "жол"
+    },
+    {
+      "surface": "עצב",
+      "gloss": "оор"
+    },
+    {
+      "surface": "בי",
+      "gloss": "менде"
+    },
+    {
+      "surface": "ונחני",
+      "gloss": "жана мени жүргүз"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "жол менен"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "түбөлүктүү"
+    }
+  ],
+  "timestamp": "2026-10-05T16:25:48.301318412Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 17:3",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "чөлгө",
+      "rationale": "בצמא — «чөлдө\/суусуздуктан»; кыргызча «чөлгө» инструментал мааниде берилди."
+    },
+    {
+      "kind": "crux",
+      "subject": "זה",
+      "rationale": "«Бул эмне үчүн?» — זה деме or кайрылуу; көпчүлүк котормолор «эмне үчүн» деп алат."
+    }
+  ],
+  "translation": "Жана эл ал жерде сууга чыдап, Мошеден нааразы болуп: «Бизди Мицрайимден алып чыгуу менен мени ⟨את⟩, уулдарымды ⟨את⟩ жана малымды ⟨את⟩ чөлгө өлтүрүү үчүнбү?» — деди.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "4e0cb33fb780de23a5457460b0fac974a3ed65f1b147121e73b186193c4b33d9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/17\/1-4.1791202241587.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצמא",
+      "gloss": "чыдап"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ал жерде"
+    },
+    {
+      "surface": "העם",
+      "gloss": "эл"
+    },
+    {
+      "surface": "למים",
+      "gloss": "сууга"
+    },
+    {
+      "surface": "וילן",
+      "gloss": "нааразы болуп"
+    },
+    {
+      "surface": "העם",
+      "gloss": "эл"
+    },
+    {
+      "surface": "על",
+      "gloss": "ден"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Мошеден"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "деди"
+    },
+    {
+      "surface": "למה",
+      "gloss": "эмне үчүн"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ушул"
+    },
+    {
+      "surface": "העליתנו",
+      "gloss": "алып чыгуу"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Мицрайимден"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "өлтүрүү үчүн"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "мени"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "уулдарымды"
+    },
+    {
+      "surface": "בני",
+      "gloss": "уулдарымды"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "малымды"
+    },
+    {
+      "surface": "מקני",
+      "gloss": "малымды"
+    },
+    {
+      "surface": "בצמא",
+      "gloss": "чөлгө"
+    }
+  ],
+  "timestamp": "2026-10-05T12:10:41.588806645Z",
+  "model": "glm-5.3"
+}

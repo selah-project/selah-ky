@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 25:7",
+  "book": "1-chronicles",
+  "lang": "ky",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "эки жүз сексен сегиз",
+      "rationale": "ырчылардын так саны — 288, 24 бөлүм × 12 адам"
+    },
+    {
+      "kind": "crux",
+      "subject": "түшүнгөндөрдүн баары",
+      "rationale": "המבין — 'түшүнгөн\/билгич' ырчылардын чеберлигин билдирет; KJV 'cunning', JPS 'skilful'"
+    }
+  ],
+  "translation": "Жана алардын саны, бир туугандары менен бирге, Яхвеге ырдоого үйрөтүлгөндөр — түшүнгөндөрдүн баары — эки жүз сексен сегиз болду.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "a86308fc40aa8628645eda1de031fae1ac2ab8ecc7876c9fbd5117bb1ae0d20b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-chronicles\/25\/5-8.1791222356524.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "болду"
+    },
+    {
+      "surface": "מספרם",
+      "gloss": "саны"
+    },
+    {
+      "surface": "עם",
+      "gloss": "менен бирге"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "бир туугандары"
+    },
+    {
+      "surface": "מלמדי",
+      "gloss": "үйрөтүлгөндөр"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "ырдоого"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхвеге"
+    },
+    {
+      "surface": "כל",
+      "gloss": "баары"
+    },
+    {
+      "surface": "המבין",
+      "gloss": "түшүнгөндөрдүн"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "эки жүз"
+    },
+    {
+      "surface": "שמונים",
+      "gloss": "сексен"
+    },
+    {
+      "surface": "ושמונה",
+      "gloss": "сегиз"
+    }
+  ],
+  "timestamp": "2026-10-05T17:45:56.525734766Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "amos 3:2",
+  "book": "amos",
+  "lang": "ky",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Йисраэл",
+      "rationale": "Яхве өз элине түз сөз айтууда — «силерди гана билдим»"
+    },
+    {
+      "kind": "crux",
+      "subject": "אפקד",
+      "rationale": "פקד «жоктоо\/кырып-жоюу» да, «эсептеп чыгуу» да — жазалоо мааниси көбүрөөк, бирок сөз өзү эки жактуу"
+    }
+  ],
+  "translation": "Жер үстүндөгү бүткүл үй-бүлөлөрдүн ичинен силерди гана билдим; ошондуктан силерден бүткүл күнөөлөрүңдү эсептеп чыгам.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "64c45bbf4869bdfa2c7d03960363dfce92ca8aaf04a119e88d65abe56f324c69",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/amos\/3\/1-4.1791214207436.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "гана"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ силерди",
+      "marks": "силерди — билдим тиги нерсе"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "билдим"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ичинен бүткүл"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "үй-бүлөлөрдүн"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "жер үстүндөгү"
+    },
+    {
+      "surface": "על",
+      "gloss": "ошондуктан үчүн"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ошондуктан"
+    },
+    {
+      "surface": "אפקד",
+      "gloss": "эсептеп чыгам"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "силерден"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "бүткүл күнөөлөрүңдү"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүткүл"
+    },
+    {
+      "surface": "עונתיכם",
+      "gloss": "күнөөлөрүңдү"
+    }
+  ],
+  "timestamp": "2026-10-05T15:30:07.437721511Z",
+  "model": "glm-5.3"
+}

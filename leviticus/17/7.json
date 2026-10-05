@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 17:7",
+  "book": "leviticus",
+  "lang": "ky",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לשעירם",
+      "rationale": "шаггый — «түктүү эчки»; KJV «шайтандар», JPS «сатирлер», YLT «эчкилер» — адамдын аты эмес, мифтик жандыкбы же жөн эле эчкиби деген талаш"
+    },
+    {
+      "kind": "substitution",
+      "subject": "оюна жүгөнгөндөрү",
+      "rationale": "זנים — «ойпулук кылуучулар» деген салттуу образ, кыргызча ушундай берилди"
+    }
+  ],
+  "translation": "Жана алар мындан ары ⟨את⟩ курмандыктарын эчки-бүтөйлөргө, алардын артынан оюна жүгөнгөндөрүнөн, чаппай калсын; бул аларга муунда-муунга түбөлүк мыйзам болот.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "de48ba182fb91562d1681de799cd0dbc1ad5ec98604db5f6aa1bb830053597a5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/17\/5-8.1791203238570.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "жана…байкайсың"
+    },
+    {
+      "surface": "יזבחו",
+      "gloss": "чаппай калсын"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "мындан ары"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "курмандыктарын"
+    },
+    {
+      "surface": "זבחיהם",
+      "gloss": "курмандыктарын"
+    },
+    {
+      "surface": "לשעירם",
+      "gloss": "эчки-бүтөйлөргө"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "הם",
+      "gloss": "алар"
+    },
+    {
+      "surface": "זנים",
+      "gloss": "оюна жүгөнгөндөрүнөн"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "артынан"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "мыйзам"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "түбөлүк"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "болот"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "бул"
+    },
+    {
+      "surface": "להם",
+      "gloss": "аларга"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "муунда-муунга"
+    }
+  ],
+  "timestamp": "2026-10-05T12:27:18.571535504Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 42:1",
+  "book": "ezekiel",
+  "lang": "ky",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "бөлүнгөн жер",
+      "rationale": "הגזרה — «кесилип алынган, өзүнчө бөлүнгөн аянт»; «короо» деп алуу да бар, бирок сөз түрүн сактадык"
+    },
+    {
+      "kind": "measurement",
+      "subject": "бөлмөлөрдүн жайгашуусу",
+      "rationale": "Иазекиелдин храм көрсөтмөсү — өлчөө жана архитектуралык сүрөттөмө"
+    }
+  ],
+  "translation": "Жана ал мени тышкы короого, түндүк тараптын жолу менен алып чыкты, жана мени бөлүнгөн жердин каршысындагы жана түндүк тараптагы имараттын каршысындагы бөлмөгө алып кирди.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "61363905da4a61e663605f2fda365cca3ac4473e4659fc84f2ab6b774a9c71d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ezekiel\/42\/1-4.1791213516995.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויוצאני",
+      "gloss": "алып чыкты"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-га"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "короого"
+    },
+    {
+      "surface": "החיצונה",
+      "gloss": "тышкы"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "жолу"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "тараптын жолу менен"
+    },
+    {
+      "surface": "הצפון",
+      "gloss": "түндүк"
+    },
+    {
+      "surface": "ויבאני",
+      "gloss": "алып кирди"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-га"
+    },
+    {
+      "surface": "הלשכה",
+      "gloss": "бөлмөгө"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ал"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "каршысындагы"
+    },
+    {
+      "surface": "הגזרה",
+      "gloss": "бөлүнгөн жердин"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "жана ал"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "каршысындагы"
+    },
+    {
+      "surface": "הבנין",
+      "gloss": "имараттын"
+    },
+    {
+      "surface": "אל",
+      "gloss": "тараптагы"
+    },
+    {
+      "surface": "הצפון",
+      "gloss": "түндүк"
+    }
+  ],
+  "timestamp": "2026-10-05T15:18:36.995849794Z",
+  "model": "glm-5.3"
+}

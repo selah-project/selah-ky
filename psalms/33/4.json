@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 33:4",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "алар жасалат",
+      "rationale": "Еврейде этиш жок — кыргызча сүйлөм толук болушу үчүн кошулду"
+    },
+    {
+      "kind": "elision",
+      "subject": "כל мүчөсү",
+      "rationale": "כל көптүк санда да колдонулат; кыргызча «бардык» дагы эле көптүк маанини берет"
+    }
+  ],
+  "translation": "Анткени Яхвенин сөзү түз, жана ⟨алар⟩ бардык иштери ишенимдүүлүктө жасалат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "ab40859690c4128c8ae290c36567ed12c75435f29ecc1b8fbe86578498f3149a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/33\/4-4.1791224427223.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "түз"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сөзү"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "жана бардык"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "иштери"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "ишенимдүүлүктө"
+    }
+  ],
+  "timestamp": "2026-10-05T18:20:27.223407847Z",
+  "model": "glm-5.3"
+}

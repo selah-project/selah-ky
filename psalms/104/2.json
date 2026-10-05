@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 104:2",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 104,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "чатыр кездемеси",
+      "rationale": "יריעה — « калтыраган илинчү» (чатырга илинген кездеме), кыргызча бир сөз жок"
+    }
+  ],
+  "translation": "Нурду кийимдей ороп алуучу, асмандарды чатыр кездемесиндей жайып чыгуучу.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "80e8b39750f89be9c4df9e4cea0680088468ffdd09e59397ae433aeecdae158c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/104\/1-4.1791217017847.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עטה",
+      "gloss": "ороп алуучу"
+    },
+    {
+      "surface": "אור",
+      "gloss": "нурду"
+    },
+    {
+      "surface": "כשלמה",
+      "gloss": "кийимдей"
+    },
+    {
+      "surface": "נוטה",
+      "gloss": "жайып чыгуучу"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "асмандарды"
+    },
+    {
+      "surface": "כיריעה",
+      "gloss": "чатыр кездемесиндей"
+    }
+  ],
+  "timestamp": "2026-10-05T16:16:57.848259661Z",
+  "model": "glm-5.3"
+}

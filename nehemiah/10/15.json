@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "nehemiah 10:15",
+  "book": "nehemiah",
+  "lang": "ky",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "башчылардын тизмеси",
+      "rationale": "Эл башчыларынын ысымдары тизмеленип жатат — келишимди колдогондорду саноо."
+    },
+    {
+      "kind": "substitution",
+      "subject": "Пахат-Моав",
+      "rationale": "Пахат-Моав — сынык формадагы ысым, «Моабтын башчысы» деген мааниде, бирок бул жерде ат катары айтылат."
+    }
+  ],
+  "translation": "Элдин башчылары: Парош, Пахат-Моав, Эйлам, Затту, Бани.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "2746760698a3a5d19696e44d5f80e244858eba04a56d3b0ef17fa1de179e6a84",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/nehemiah\/10\/13-16.1791221563885.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ראשי",
+      "gloss": "башчылары"
+    },
+    {
+      "surface": "העם",
+      "gloss": "элдин"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "Парош"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "Пахат"
+    },
+    {
+      "surface": "мואב",
+      "gloss": "Моав"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "Эйлам"
+    },
+    {
+      "surface": "זתוא",
+      "gloss": "Затту"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Бани"
+    }
+  ],
+  "timestamp": "2026-10-05T17:32:43.885792517Z",
+  "model": "glm-5.3"
+}

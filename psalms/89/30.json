@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 89:30",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "болот",
+      "rationale": "салыштыруу үчүн кыргызча этиш кошулду — ивритте жок"
+    },
+    {
+      "kind": "substitution",
+      "subject": "үрөн",
+      "rationale": "זרע — «үрөн\/тукум»; урпак маанисинде «тукум» да мүмкүн"
+    }
+  ],
+  "translation": "Жана анын үрөнүн түбөлүккө орнотмун, жана анын тактысы асман күндөрүндөй ⟨болот⟩.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "e9e1a2e0c333784325d655fe3bf086de94bcd239aa8dcd63e21aee150fdfff89",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/89\/29-32.1791216804386.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "жана орнотмун"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "түбөлүккө"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "анын үрөнүн"
+    },
+    {
+      "surface": "וכסאו",
+      "gloss": "жана анын тактысы"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "…күндөрүндөй"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "асман"
+    }
+  ],
+  "timestamp": "2026-10-05T16:13:24.387601841Z",
+  "model": "glm-5.3"
+}

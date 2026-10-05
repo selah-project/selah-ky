@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 102:11",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 102,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מפני",
+      "rationale": "Сөзмө-сөз «...жүзүнөн» — «...дан» деген мааниде кыргызча «жүзүңдөгү ...дан» деп берилди."
+    },
+    {
+      "kind": "crux",
+      "subject": "נשאתני",
+      "rationale": "«Көтөрдүң» же «алдың\/жоготтуң» — KJV «lifted me up», ASV «taken me up» деген эки окшуу окуу бар."
+    }
+  ],
+  "translation": "Сенин жүзүңдөгү ачууңдан жана каарыңдан, анткени Сен мени көтөрдүң жана таштап ыргыттың.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "0227110c390adaaa7c5e2a70efd5b076ef0c501814819534098c7735f020551f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/102\/9-12.1791216967671.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מפני",
+      "gloss": "жүзүңдөгү ...дан"
+    },
+    {
+      "surface": "זעמך",
+      "gloss": "ачууң"
+    },
+    {
+      "surface": "וקצפך",
+      "gloss": "каарың"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "נשאתני",
+      "gloss": "мени көтөрдүң"
+    },
+    {
+      "surface": "ותשליכני",
+      "gloss": "ыргыттың мени"
+    }
+  ],
+  "timestamp": "2026-10-05T16:16:07.672386971Z",
+  "model": "glm-5.3"
+}

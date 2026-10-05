@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 35:15",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "кийим тизмеси",
+      "rationale": "Мишкандын буюмдарынын тизмеси уланат."
+    },
+    {
+      "kind": "substitution",
+      "subject": "жыпар",
+      "rationale": "קטרת 'түтөтүү' маанисинде 'жыпар' деп берилди; הסמים — 'жыпар заттар'."
+    }
+  ],
+  "translation": "жана ⟨את⟩ түтөтүү мазарын жана ⟨את⟩ анын таяктарын, ⟨את⟩ майлоо майын, ⟨את⟩ жыпар жыпарларын жана ⟨את⟩ Мишкандын кире беришинин алдындагы чепти.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "721100d4fd704bab70b436b60f51e9ff3774907d6dc12a47d5887069d149b7d5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/35\/13-16.1791202574013.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "жана ⟨את⟩",
+      "marks": "мазарын"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "түтөтүү мазарын"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "түтөтүү"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "жана ⟨את⟩",
+      "marks": "таяктарын"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "анын таяктарын"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "жана ⟨את⟩",
+      "marks": "майын"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "майын"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "майлоо"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "жана ⟨את⟩",
+      "marks": "жыпарларын"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "жыпар"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "жыпарларын"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "жана ⟨את⟩",
+      "marks": "чепти"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "чепти"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "кире беришинин"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "кире беришинин алдындагы"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Мишкандын"
+    }
+  ],
+  "timestamp": "2026-10-05T12:16:14.014854603Z",
+  "model": "glm-5.3"
+}

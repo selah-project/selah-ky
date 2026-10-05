@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 143:6",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 143,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "чарчаган жер",
+      "rationale": "KJV 'жаным чоктой суусап' деп кошумча 'суусоо' кошот; иврит бир гана 'чарчаган\/куурган жер' дейт"
+    },
+    {
+      "kind": "substitution",
+      "subject": "нefesh",
+      "rationale": "נפש — жан\/дем\/тиричилик күчү; 'жан' кыргызча эң жакын форма"
+    }
+  ],
+  "translation": "Колдорумду Сага жайып жибердим, жаным Сага чарчаган жер сыяктуу. Селах.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "8819e593b95d1e83a7c349f50670be0586c1116177939e61aeaa365cf3685927",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/143\/5-8.1791217618079.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פרשתי",
+      "gloss": "жайып жибердим"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "колдорумду"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "Сага"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "жаным"
+    },
+    {
+      "surface": "כארץ",
+      "gloss": "жер сыяктуу"
+    },
+    {
+      "surface": "עיפה",
+      "gloss": "чарчаган"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Сага"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Селах"
+    }
+  ],
+  "timestamp": "2026-10-05T16:26:58.079688740Z",
+  "model": "glm-5.3"
+}

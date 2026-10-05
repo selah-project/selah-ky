@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 50:17",
+  "book": "jeremiah",
+  "lang": "ky",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "сөөктөрүн сындырып",
+      "rationale": "עצמו — жөн гана «сөөктөрүн сындыруу» эмес, «сынган сөөктөрүн ажыратуу\/талкалоо»; кыргызча бир сөзгө батпай калды"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שה\/אריות",
+      "rationale": "кой менен арыстандын карама-каршылыгы — ырайсыз элдер менен алсыз Йисраэлдин салыштыруусу"
+    }
+  ],
+  "translation": "Йисраэл — чачылган кой; арыстандар аны кууп чыгышты. Биринчи жеген Ашшур падышасы, ал эми акыркысын Небуходреццар, Бабыл падышасы, сөөктөрүн сындырып салган.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "08d29edd99006fd870efea385a8e3beff0458c5b1bf363ca6811b531ecce6b32",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/jeremiah\/50\/17-20.1791211937925.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שה",
+      "gloss": "кой"
+    },
+    {
+      "surface": "פזורה",
+      "gloss": "чачылган"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэл"
+    },
+    {
+      "surface": "אריות",
+      "gloss": "арыстандар"
+    },
+    {
+      "surface": "הדיחו",
+      "gloss": "кууп чыгышты"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "биринчи"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "жеген"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "падышасы"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ашшур"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "ал эми бул"
+    },
+    {
+      "surface": "האחרון",
+      "gloss": "акыркысын"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "сөөктөрүн сындырып"
+    },
+    {
+      "surface": "נבוכדראצר",
+      "gloss": "Небуходреццар"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "падышасы"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Бабыл"
+    }
+  ],
+  "timestamp": "2026-10-05T14:52:17.925832293Z",
+  "model": "glm-5.3"
+}

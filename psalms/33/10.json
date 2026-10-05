@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 33:10",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "הניא",
+      "rationale": "Лексема 'төкүн жасоо, четке кагуу' маанисинде — 'жокко чыгарат' деп берилди."
+    }
+  ],
+  "translation": "Яхве элдердин кеңешин талкалады, калайык элдердин ойлорун жокко чыгарат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "ec459b6d1061b212e6727725a9817f1cb65ce7e36288a40482e5131b10c94f0e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/33\/9-12.1791215794145.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "הפיר",
+      "gloss": "талкалады"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "кеңешин"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "элдердин"
+    },
+    {
+      "surface": "הניא",
+      "gloss": "жокко чыгарат"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "ойлорун"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "калайык элдердин"
+    }
+  ],
+  "timestamp": "2026-10-05T15:56:34.146379386Z",
+  "model": "glm-5.3"
+}

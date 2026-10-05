@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 31:6",
+  "book": "numbers",
+  "lang": "ky",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨алардын⟩",
+      "rationale": "בידו 'анын колунда' жекече — кимди билдиргени ачык болсун деп көптүк сан pronoun кошулду."
+    },
+    {
+      "kind": "elision",
+      "subject": "אתם қайталоосу",
+      "rationale": "'аларды' эки жолу айтылат — еврейченин баяндоо ритми, котормодо бир жолу көтөрүлдү."
+    }
+  ],
+  "translation": "Жана Моше ⟨את⟩ аларды ар бир уруудан миңден аскерге жөнөттү — ⟨את⟩ аларды жана ⟨את⟩ ыйык кызматкер Элазардын уулу Пинхасты аскерге; ыйык идиштер жана жаңырык чоорлору ⟨алардын⟩ колунда.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "fb41bd6be292e6fa64d8bf030d7b3e4512f2729431bb1e2288a54d3f1fe39442",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/numbers\/31\/5-8.1791204507403.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "жөнөттү"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "аларды"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "миң"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "урууга"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "аскерге"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "аларды"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Пинхасты"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Пинхасты"
+    },
+    {
+      "surface": "בן",
+      "gloss": "уулу"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Элазар"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ыйык кызматкер"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "аскерге"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "жана идиштер"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ыйык"
+    },
+    {
+      "surface": "וחצצרות",
+      "gloss": "жана чоорлор"
+    },
+    {
+      "surface": "התרועה",
+      "gloss": "жаңырыктын"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "колунда"
+    }
+  ],
+  "timestamp": "2026-10-05T12:48:27.404700928Z",
+  "model": "glm-5.3"
+}

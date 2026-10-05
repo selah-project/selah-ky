@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 37:13",
+  "book": "job",
+  "lang": "ky",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לשבט \/ לארצו \/ לחסד",
+      "rationale": "Үч максат талаштуу: жаза (таяк), жер үчүн (жамгыр) же ырайым үчүн — көпчүлүк котормо таякты «жаза» деп алат, бул сыпаттама, сөздүн өзү эмес."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨бул нерсени⟩",
+      "rationale": "Ивритте объекттин так ким экени айтылбайт — жамгыр\/булт контексттен; кыргызчага объект кошулду."
+    },
+    {
+      "kind": "substitution",
+      "subject": "хесед",
+      "rationale": "חסед «ырайым» гана эмес — берилгендик, ынтымак; д2 боюнча тамыр сөз калды."
+    }
+  ],
+  "translation": "Же таяк үчүн, же анын жери үчүн, же хесед үчүн — ал ⟨бул нерсени⟩ келтирет.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "8f2d6ac9930f7c890f8d93283c82a9027694557f29b444edcd63cf91a1d23f62",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/job\/37\/13-16.1791219391877.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "же"
+    },
+    {
+      "surface": "לשבט",
+      "gloss": "таяк үчүн"
+    },
+    {
+      "surface": "אם",
+      "gloss": "же"
+    },
+    {
+      "surface": "לארצו",
+      "gloss": "анын жери үчүн"
+    },
+    {
+      "surface": "אם",
+      "gloss": "же"
+    },
+    {
+      "surface": "לחסד",
+      "gloss": "хесед үчүн"
+    },
+    {
+      "surface": "ימצאהו",
+      "gloss": "ал аны келтирет"
+    }
+  ],
+  "timestamp": "2026-10-05T16:56:31.878448135Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 26:8",
+  "book": "leviticus",
+  "lang": "ky",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "беш — жүз — миң",
+      "rationale": "Сандардын өсүүчү чынжыры: бешөө жүздү, жүзү миңди (1:20 → 1:100) кубалайт."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ורדפו ... ירדפו",
+      "rationale": "'Кубалоо' этиши эки жолу кайталанат — алдыңкы аят менен бирдиктүү кайталоо, кыргызча сакталды."
+    }
+  ],
+  "translation": "Силерден бешөө жүздү кубалайт, жана силерден жүзү миңди кубалайт, жана душмандарыңар силердин алдыңарда кылычка кулашат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "870d0c3724ce02db0aea13fe0b82dfd693986f615f07c0d759671d188980ccba",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/26\/5-8.1791203466078.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ורדפו",
+      "gloss": "кубалайт"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "силерден"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "бешөө"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "жүздү"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "жүзү"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "силерден"
+    },
+    {
+      "surface": "רבבה",
+      "gloss": "миңди"
+    },
+    {
+      "surface": "ירדפו",
+      "gloss": "кубалайт"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "кулашат"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "душмандарыңар"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "силердин алдыңарда"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "кылычка"
+    }
+  ],
+  "timestamp": "2026-10-05T12:31:06.079678175Z",
+  "model": "glm-5.3"
+}

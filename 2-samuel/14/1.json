@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 14:1",
+  "book": "2-samuel",
+  "lang": "ky",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "жүрөгү Авшаломго багыталганы",
+      "rationale": "לב המелך על אבשלום — туура котормосу «падышанын жүрөгү Авшалом тарапта», б.а. Авшаломду сағынып турат."
+    },
+    {
+      "kind": "addition",
+      "subject": "Яхвенин элчиси эмес —",
+      "rationale": "Текстте жок, котормо кайрылбашы керек; түшүрүлсө сап таза калат."
+    }
+  ],
+  "translation": "Яхвенин элчиси эмес — Йоаб, Церуйанын уулу, падышанын жүрөгү Авшаломго багыталганын билди.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "372ea23b4c7856a668ad38eb43aa60b6ae69205f4ce510ad305ac0a78c71e955",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-samuel\/14\/1-4.1791207625240.json",
+    "code": "641241cf-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "билди"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Йоаб"
+    },
+    {
+      "surface": "בן",
+      "gloss": "уулу"
+    },
+    {
+      "surface": "צריה",
+      "gloss": "Церуйанын"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…нын"
+    },
+    {
+      "surface": "לב",
+      "gloss": "жүрөгү"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "падышанын"
+    },
+    {
+      "surface": "על",
+      "gloss": "Авшаломго багыталганы"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Авшалом"
+    }
+  ],
+  "timestamp": "2026-10-05T13:40:25.241486644Z",
+  "model": "glm-5.3"
+}

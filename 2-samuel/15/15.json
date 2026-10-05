@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 15:15",
+  "book": "2-samuel",
+  "lang": "ky",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "сиздин",
+      "rationale": "עבדיך «сенин кызматчыларың» — ээлик жалгоодогу 2-жак, урмат формасы менен берилди"
+    },
+    {
+      "kind": "elision",
+      "subject": "verb 'to do'",
+      "rationale": "Еврей текстте этиш жок: «тандаган нерсенин баарына — маа, кызматчыларың» — даяр экенин билдирет"
+    }
+  ],
+  "translation": "Падышанын кызматчылары падышага айтышты: Падыша-мырзам тандаган нерсенин баарына — маа, сиздин кызматчыларыңыз.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "19a1d22330635f4300dea5fe62eb52e33b4f4fa69f5028a74410113fb6ea966d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-samuel\/15\/13-16.1791207639162.json",
+    "code": "641241cf-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "айтышты"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "кызматчылары"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "падышанын"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…га"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "падышага"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "баарына"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…ны"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "тандаган"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "мырзам"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "падыша"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "маа"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "кызматчыларыңыз"
+    }
+  ],
+  "timestamp": "2026-10-05T13:40:39.163430406Z",
+  "model": "glm-5.3"
+}

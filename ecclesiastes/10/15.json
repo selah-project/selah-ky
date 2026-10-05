@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 10:15",
+  "book": "ecclesiastes",
+  "lang": "ky",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ал",
+      "rationale": "Жекече ээликтини так кылуу үчүн кошулган ат атооч, еврейче жок"
+    },
+    {
+      "kind": "crux",
+      "subject": "шаарга барууну билбейт",
+      "rationale": "«Шаарга барууну билбейт» — кадимки эле жөнөкөй нерсе; кээ бир котормочулар бул сөзсүз эле жаңылыштууну, башкача айтканда абдан акмактыкты көрсөтөт деп эсептешет"
+    }
+  ],
+  "translation": "Акмактардын эмгеги аларды чарчатат, анткени ⟨ал⟩ шаарга барууну билбейт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "a7bef985286695657c9a47bf990373100c1b6cd74c5cd2aa10812e10914e0dea",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ecclesiastes\/10\/13-16.1791220061834.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עמל",
+      "gloss": "эмгеги"
+    },
+    {
+      "surface": "הכסילים",
+      "gloss": "акмактардын"
+    },
+    {
+      "surface": "תיגענו",
+      "gloss": "аларды чарчатат"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "לא",
+      "gloss": "эмес"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "билбейт"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "барууну"
+    },
+    {
+      "surface": "אל",
+      "gloss": "карай"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "шаар"
+    }
+  ],
+  "timestamp": "2026-10-05T17:07:41.835607555Z",
+  "model": "glm-5.3"
+}

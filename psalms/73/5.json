@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 73:5",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 73,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "тийилген эмес",
+      "rationale": "נגע — кол салуу, тийүү; «сабалбайт» эмес, «кол тийбейт» деген сүрөт сакталды"
+    },
+    {
+      "kind": "crux",
+      "subject": "אינמו",
+      "rationale": "«алар жок» деп айтылат: өлгөн адамдын түйшүгүнө алар кошулбайт"
+    }
+  ],
+  "translation": "Адам баласынын түйшүгүндө алар жок, жана адамдардыкы менен алар тийилген эмес.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "8143da0610d57f3fc6288973516239412e8d24cdde86d572ca5b226efd6b77d4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/73\/5-8.1791216498251.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בעמל",
+      "gloss": "түйшүгүндө"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "өлгөн адам баласынын"
+    },
+    {
+      "surface": "אינמו",
+      "gloss": "алар жок"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "жана менен"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "адамдардыкы"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "ינגעו",
+      "gloss": "тийилген эмес"
+    }
+  ],
+  "timestamp": "2026-10-05T16:08:18.251514706Z",
+  "model": "glm-5.3"
+}

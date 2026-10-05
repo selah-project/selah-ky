@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 4:7",
+  "book": "1-samuel",
+  "lang": "ky",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אתמול שלשם",
+      "rationale": "литералдуу «кечээ жана андан мурдагы күнү» = «мурда эч качан»; идиома катары берилди"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אוי",
+      "rationale": "«оңбойт!» — кыргызча азар сөзү, еврейче «ваяй» ыйлоо кыйкыгы"
+    },
+    {
+      "kind": "you",
+      "subject": "Пелиштилилердин өз ара сөзү",
+      "rationale": "коркуу ичинде багыштоо"
+    }
+  ],
+  "translation": "Пелиштилилер коркту, анткени «Элохим лагерге келди» дешти. «Бизге оңбойт! — дешти алар, — анткени мындай нерсе кечээ да, мурдараак да болгон эмес.»",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "e22cc62d0726d92c285ce54fc5a4b4e97306e999a63b7ef63e166f9958f7657a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-samuel\/4\/5-8.1791206665224.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "коркту"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "Пелиштилилер"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "дешти"
+    },
+    {
+      "surface": "בא",
+      "gloss": "келди"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "лагерге"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "дешти"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "оңбойт"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "бизге"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "לא",
+      "gloss": "эмес"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "болгон"
+    },
+    {
+      "surface": "כזאת",
+      "gloss": "мындай нерсе"
+    },
+    {
+      "surface": "אתמול",
+      "gloss": "кечээ"
+    },
+    {
+      "surface": "שלשם",
+      "gloss": "мурдараак"
+    }
+  ],
+  "timestamp": "2026-10-05T13:24:25.225268368Z",
+  "model": "glm-5.3"
+}

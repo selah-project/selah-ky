@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 13:12",
+  "book": "1-samuel",
+  "lang": "ky",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "Яхвенин жүзүн жылытпадым",
+      "rationale": "לא חליתי את פני יהוה — 'жүздү жылытуу' идиомасы, 'ырайым издебедим' деген маани"
+    },
+    {
+      "kind": "crux",
+      "subject": "өзүмдү зордоп",
+      "rationale": "ואתאפק 'өзүмдү кармадым' — KJV 'I forced myself'; Шаулдын шылтоосу катары берилген"
+    }
+  ],
+  "translation": "Ошондуктун мен айттыым: Азыр пелиштиликтер Гилгалга мага түшүп келет, ал эми Яхвенин жүзүн жылытпадым; ошондуктан өзүмдү зордоп, өртүү курмандыкты өрдөттүм.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "e44bac68101a6d610ae204f3b0252869f1554c5f7a2954cfcbd37d3ab4409e56",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-samuel\/13\/9-12.1791206733126.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "мен айттыым"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "азыр"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "түшүп келет"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "пелиштиликтер"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "мага"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "Гилгалга"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "…жүзүн"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "חליתי",
+      "gloss": "жылытпадым"
+    },
+    {
+      "surface": "ואתאפק",
+      "gloss": "өзүмдү зордоп"
+    },
+    {
+      "surface": "ואעלה",
+      "gloss": "жана … өрдөттүм"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "өртүү курмандыкты"
+    }
+  ],
+  "timestamp": "2026-10-05T13:25:33.128302234Z",
+  "model": "glm-5.3"
+}

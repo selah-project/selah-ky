@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 135:21",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 135,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨Ал⟩",
+      "rationale": "שכן причастие — этиштин этишкери кыргызча айкын болушу үчүн кошулду"
+    },
+    {
+      "kind": "substitution",
+      "subject": "הללו יה",
+      "rationale": "«Халлелу-Ях» деген бүтүндөй өтмөк ордуна «Яхты мактагыла» деп ачылды"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Ырдын угуучусуна",
+      "rationale": "«Мактагыла» — чакыруу, бүт ырды жыйынтыктаган парс"
+    }
+  ],
+  "translation": "Яхве, Сиондон макталсын — Йерушалайимде жашаган ⟨Ал⟩. Яхты мактагыла!",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "10072aa7bab679e1cb7defa042c8456358e8ab948dd74b8e78f7f79bbbec6d4f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/135\/21-21.1791217506081.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "макталсын"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "Сиондон"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "жашаган"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Йерушалайимде"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "мактагыла"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Яхты"
+    }
+  ],
+  "timestamp": "2026-10-05T16:25:06.082125252Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "lamentations 1:11",
+  "book": "lamentations",
+  "lang": "ky",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жан",
+      "rationale": "נפש — 'дем алуучу, жашоо күчү' деген сөз, 'жан' катары берилди."
+    },
+    {
+      "kind": "crux",
+      "subject": "זוללה",
+      "rationale": "'кордолдум' деби, 'кадырыдан калдым' деби — тамыр זלל 'жеңил кароо, кордоо' маанисин берет."
+    },
+    {
+      "kind": "you",
+      "subject": "Яхвеге",
+      "rationale": "Сиондун үнү түз Яхвеге — 'Кара, Яхве' — кайрылуу."
+    }
+  ],
+  "translation": "Анын бүт эли нан издеп ыңыранышат; жанын кайтаруу үчүн баалуу нерселерин азыкка берип коюшту. Кара, Яхве, жана текшер, анткени мен кордолдум.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "1bb6e40adda72b8553ded6bc185f833659de476f7fab0e9d07457721a247c2c9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/lamentations\/1\/10-11.1791224565994.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "бүт"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "эли"
+    },
+    {
+      "surface": "נאנחים",
+      "gloss": "ыңыранышат"
+    },
+    {
+      "surface": "מבקשים",
+      "gloss": "издеп"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "нан"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "берип коюшту"
+    },
+    {
+      "surface": "מחמודיהם",
+      "gloss": "баалуу нерселерин"
+    },
+    {
+      "surface": "באכל",
+      "gloss": "азыкка"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "кайтаруу үчүн"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "жанын"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Кара"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "והביטה",
+      "gloss": "жана текшер"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "мен"
+    },
+    {
+      "surface": "זוללה",
+      "gloss": "кордолдум"
+    }
+  ],
+  "timestamp": "2026-10-05T18:22:45.995589993Z",
+  "model": "glm-5.3"
+}

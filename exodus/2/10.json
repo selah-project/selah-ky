@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 2:10",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "משה\/משיתהו",
+      "rationale": "Мошенин ысымы менен «тартып алдым» деген этиш тамырдаш — Моше = «суудан тартылган»"
+    },
+    {
+      "kind": "addition",
+      "subject": "анын",
+      "rationale": "לה לברUnauthorized конструкциясында ээлик мамилени тактоо үчүн кошулду"
+    }
+  ],
+  "translation": "Жана бала чоңоюп, аны Перохтун кызына алып келди, жана ал ⟨анын⟩ баласы болду. Жана ал анын атын Моше деп койду жана айтты: анткени мен аны суудан тартып алдым.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "5e9cb4295501a8af3766081dbb02b26e3a1b0e7edf8b284da679def5c9bc3663",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/2\/9-12.1791201842168.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "чоңоюп"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "бала"
+    },
+    {
+      "surface": "ותבאהו",
+      "gloss": "алып келди"
+    },
+    {
+      "surface": "לבת",
+      "gloss": "кызына"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Перохтун"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "болду"
+    },
+    {
+      "surface": "לה",
+      "gloss": "анын"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "баласы"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "койду"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "атын"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "жана айтты"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "מן",
+      "gloss": "суудан"
+    },
+    {
+      "surface": "המים",
+      "gloss": "суудан"
+    },
+    {
+      "surface": "משיתהו",
+      "gloss": "тартып алдым"
+    }
+  ],
+  "timestamp": "2026-10-05T12:04:02.169854216Z",
+  "model": "glm-5.3"
+}

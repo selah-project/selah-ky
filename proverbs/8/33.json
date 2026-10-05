@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 8:33",
+  "book": "proverbs",
+  "lang": "ky",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": " imperatives",
+      "rationale": "Мудрость чакырат: үч буйрук — угкула, болгула, какпа."
+    },
+    {
+      "kind": "you",
+      "subject": "балдарга",
+      "rationale": "8:32-ден уланган түз кайрылуу."
+    },
+    {
+      "kind": "substitution",
+      "subject": "четке какпа",
+      "rationale": "פרע — «бошотуу, ыргытуу»; кыргызча «четке какпа» деген эң жакын маани."
+    }
+  ],
+  "translation": "Тарбияны угкула жана акылман болгула, аны четке какпа.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "8cc56c21299aba6ea5c86e45f113c42bf0fce5c2d6d534b0979a02b4ae1051a0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/8\/33-36.1791217887833.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "угкула"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "тарбияны"
+    },
+    {
+      "surface": "וחכמו",
+      "gloss": "жана акылман болгула"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "…ба"
+    },
+    {
+      "surface": "תפרעו",
+      "gloss": "аны четке какпа"
+    }
+  ],
+  "timestamp": "2026-10-05T16:31:27.834052531Z",
+  "model": "glm-5.3"
+}

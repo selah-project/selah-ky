@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "amos 1:3",
+  "book": "amos",
+  "lang": "ky",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Мен аны кайтарбайм",
+      "rationale": "לא אשיבנו: 'Мен өкүмүн кайтарбайм' же 'Мен аларды кечирбейм' деген окумалар бар"
+    },
+    {
+      "kind": "substitution",
+      "subject": "көтөрүлүшү",
+      "rationale": "פשע — баш тартуу, чыккынчылык; 'күнөө' эмес, көтөрүлүү мааниси сакталды"
+    },
+    {
+      "kind": "measurement",
+      "subject": "үч... төрт",
+      "rationale": "Амосдун белгилүү 'үч үчүн, төрт үчүн' саналган формуласы"
+    }
+  ],
+  "translation": "Мындай дейт Яхве: Дамаскенин үч көтөрүлүшү үчүн, жана төртөөсү үчүн Мен аны кайтарбайм, анткени алар ⟨את⟩ Гилеадды темир тиштүү сабагычтар менен сабап таптаган.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "556b396dade6b4c5de378a20456f8a43db9a81aca80b568114318f8b13d623cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/amos\/1\/1-4.1791214254988.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Мындай"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "дейт"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "על",
+      "gloss": "үчүн"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "үч"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "көтөрүлүшү"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Дамаскенин"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "жана үчүн"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "төрт"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "אשיבנו",
+      "gloss": "Мен аны кайтарбайм"
+    },
+    {
+      "surface": "על",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "דושם",
+      "gloss": "сабап таптаган"
+    },
+    {
+      "surface": "בחרצות",
+      "gloss": "тиштүү сабагычтар менен"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "темир"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Гилеадды"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Гилеадды"
+    }
+  ],
+  "timestamp": "2026-10-05T15:30:54.989169973Z",
+  "model": "glm-5.3"
+}

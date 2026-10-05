@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 29:4",
+  "book": "job",
+  "lang": "ky",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חרפי",
+      "rationale": "«жаштык күндөрү» (KJV, JPS) менен «жетилгендик\/күз мезгили» (ASV «ripeness», тамыр — жыйым-күз) деген эки окуу бар"
+    },
+    {
+      "kind": "crux",
+      "subject": "סוד",
+      "rationale": "«сыр» (KJV), «достук» (ASV), «кеңеш» (YLТ) — жакын жашыруун жыйын мааниси"
+    },
+    {
+      "kind": "secret",
+      "subject": "סוד אלוה",
+      "rationale": "Элоахтын сыры — жашыруун жакындык, тааныштык"
+    }
+  ],
+  "translation": "Мен жетилгендигимдин күндөрүндө болгонумдай, Элоахтын сыры менин чатырымдын үстүндө эле.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "05ef4e52220b7dc15e8e21ecd887947a28bc1da1de39c45a09c0a686a16fe0c0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/job\/29\/1-4.1791219170572.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "…дай"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "болгонумдай"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "күндөрүндө"
+    },
+    {
+      "surface": "חרפי",
+      "gloss": "жетилгендигимдин"
+    },
+    {
+      "surface": "בסוד",
+      "gloss": "сыры"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Элоахтын"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "үстүндө"
+    },
+    {
+      "surface": "אהלי",
+      "gloss": "менин чатырымдын"
+    }
+  ],
+  "timestamp": "2026-10-05T16:52:50.573017578Z",
+  "model": "glm-5.3"
+}

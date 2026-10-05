@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 88:12",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 88,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חסד \/ אמונה",
+      "rationale": "Яхвенин эки туруктуу сапатынын параллелизми — хесед жана эмуна, кыргызча экөө тең сөз катары берилди"
+    },
+    {
+      "kind": "mystery",
+      "subject": "кабир жана Абадон",
+      "rationale": "Жоогу жок суроо: өлүм дүйнөсүндө Яхвенин жакшылыгы жарыяланабы"
+    }
+  ],
+  "translation": "Кабирде хеседиң айтылабы, Абадондо ишенимдүүлүгүң билдирилеби?",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "7202c5e9ab6c348b326964c2ce51f4edc620edd97d5875f8378fe4b1c8c4307c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/88\/9-12.1791216733805.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "היספר",
+      "gloss": "айтылабы"
+    },
+    {
+      "surface": "בקבר",
+      "gloss": "кабирде"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "хеседиң"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "ишенимдүүлүгүң"
+    },
+    {
+      "surface": "באבדון",
+      "gloss": "Абадондо"
+    }
+  ],
+  "timestamp": "2026-10-05T16:12:13.806238781Z",
+  "model": "glm-5.3"
+}

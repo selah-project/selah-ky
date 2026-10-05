@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 23:14",
+  "book": "proverbs",
+  "lang": "ky",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жан",
+      "rationale": "נפש — дем алуучу жандык, жаны-күч; «жан» кыргызча эң жакын, бирок нефш тамыры тамак\/дем маанисин да камтыйт."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "23:13–14 ылгап",
+      "rationale": "«Таяк менен ур» (תכנו בשבט) эки аятта кайталанып, 13-аяттагы «өлбөйт» 14-аяттагы «Шеолдон куткарасың» менен байланышат."
+    }
+  ],
+  "translation": "Аны таяк менен урасың жана ⟨את⟩ анын жанын Шеолдон куткарасың.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "96a9b9ddd36e1155736ed5332b558b0e743fad86951c86557d3ff0f5f9f724dd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/23\/13-16.1791218304941.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "сен"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "таяк менен"
+    },
+    {
+      "surface": "תכנו",
+      "gloss": "урасың"
+    },
+    {
+      "surface": "ונפשו",
+      "gloss": "жана анын жанын"
+    },
+    {
+      "surface": "משאול",
+      "gloss": "Шеолдон"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "куткарасың"
+    }
+  ],
+  "timestamp": "2026-10-05T16:38:24.942545473Z",
+  "model": "glm-5.3"
+}

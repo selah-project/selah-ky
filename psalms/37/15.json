@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 37:15",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "өздөрүнүн",
+      "rationale": "Еврейче 'алардын жүрөгүнө' дейт; өз-мүчөсү кыргызча ачыктык үчүн кошулду"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קשת\/שבר",
+      "rationale": "14-аяттагы куралдар тескери багытталат: кылыч жүрөккө, жаа сынат — хиазмдык түйүндөө"
+    }
+  ],
+  "translation": "Алардын кылычы ⟨өздөрүнүн⟩ жүрөгүнө кирет, алардын жаалары сынат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "7f39e792d4f5efedebbc23dec149e1cf447459271ba0112cc11d05abe51312f5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/37\/13-16.1791215896222.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חרבם",
+      "gloss": "Алардын кылычы"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "кирет"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "жүрөгүнө"
+    },
+    {
+      "surface": "וקשתותם",
+      "gloss": "жана алардын жаалары"
+    },
+    {
+      "surface": "תשברנה",
+      "gloss": "сынат"
+    }
+  ],
+  "timestamp": "2026-10-05T15:58:16.223040816Z",
+  "model": "glm-5.3"
+}

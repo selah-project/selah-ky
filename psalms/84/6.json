@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 84:6",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 84,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "жолдору",
+      "rationale": "מסלות — «дөңгөлөктүү жол \/ зыярат жолу»; КЖВ «ыктыярдуу жолдор» деп кыйшайт, бул жерде жөн гана жол берилди."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨алардын⟩",
+      "rationale": "Жекелик «адам» менен көптүк «алардын» ортосундагы еврейче өтүү кыргызча түшүнүктүү болсун деп коюлду."
+    }
+  ],
+  "translation": "Бактылуу адам — анын кубаты Сенде, жолдору ⟨алардын⟩ жүрөгүндө.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "7c26eed9bb9dc138c7e5a43ae00b8c0c9dfb838360c3a120f890190b9f9b63eb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/84\/5-8.1791216813537.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשрי",
+      "gloss": "Бактылуу"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "адам"
+    },
+    {
+      "surface": "עוז",
+      "gloss": "кубаты"
+    },
+    {
+      "surface": "לו",
+      "gloss": "анын"
+    },
+    {
+      "surface": "בך",
+      "gloss": "Сенде"
+    },
+    {
+      "surface": "מסלות",
+      "gloss": "жолдору"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "жүрөгүндө"
+    }
+  ],
+  "timestamp": "2026-10-05T16:13:33.538347035Z",
+  "model": "glm-5.3"
+}

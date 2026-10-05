@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "ezekiel 23:34",
+  "book": "ezekiel",
+  "lang": "ky",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תגרמי",
+      "rationale": "'Сөөктөрдөн ажыратуу\/чайноо' — KJV 'break', ASV 'gnaw': сыныктарды чайноо же майдалоо деген эки окуу"
+    },
+    {
+      "kind": "substitution",
+      "subject": "түбүнө чейин соросуң",
+      "rationale": "ומצים букв. 'сорууп чыгаруу' — чынынын калдыгын толук соруу"
+    }
+  ],
+  "translation": "Аны ичесиң жана түбүнө чейин соросуң, ⟨את⟩ анын сыныктарын чагасың жана эмчектериңди жулуп аласың, анткени Мен сүйлөдүм — Адонай Яхвенин сөзү.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "852751afbcddca23cfac2dfbf11e2e676cc248c145a3baa36d0f146b89d3d8e3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ezekiel\/23\/33-36.1791212799256.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושתית",
+      "gloss": "ичесиң"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩ аны"
+    },
+    {
+      "surface": "ומצית",
+      "gloss": "түбүнө чейин соросуң"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "сыныктарын"
+    },
+    {
+      "surface": "חרשיה",
+      "gloss": "чынынын сыныктары"
+    },
+    {
+      "surface": "תגרמי",
+      "gloss": "чагасың"
+    },
+    {
+      "surface": "ושדיך",
+      "gloss": "эмчектериңди"
+    },
+    {
+      "surface": "תנתקי",
+      "gloss": "жулуп аласың"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Мен"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "сүйлөдүм"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "сөзү"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    }
+  ],
+  "timestamp": "2026-10-05T15:06:39.257364290Z",
+  "model": "glm-5.3"
+}

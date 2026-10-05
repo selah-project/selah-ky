@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 11:7",
+  "book": "numbers",
+  "lang": "ky",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עינו\/כעין",
+      "rationale": "\"көрүнүш\" жана \"окшош\" деген сөздөр еврейче бир тамырдан (עין) — үнсүз калтыруу"
+    },
+    {
+      "kind": "hapax",
+      "subject": "בדלח",
+      "rationale": "бедолах — Танахта эки жерде гана кездешет, так зат белгисиз"
+    }
+  ],
+  "translation": "Манн болсо гад үрөнүндөй, ал эми анын көрүнүшү бедолахтын көрүнүшүндөй.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "73d9902b17819ec162fd40a284d040e9e9e0c134b0144232766925da6e66abb8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/numbers\/11\/5-8.1791203812745.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והמן",
+      "gloss": "манн болсо"
+    },
+    {
+      "surface": "כזרע",
+      "gloss": "үрөнүндөй"
+    },
+    {
+      "surface": "גד",
+      "gloss": "гад"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ал"
+    },
+    {
+      "surface": "ועינו",
+      "gloss": "жана анын көрүнүшү"
+    },
+    {
+      "surface": "כעין",
+      "gloss": "окшош"
+    },
+    {
+      "surface": "הבדלח",
+      "gloss": "бедолах"
+    }
+  ],
+  "timestamp": "2026-10-05T12:36:52.746853395Z",
+  "model": "glm-5.3"
+}

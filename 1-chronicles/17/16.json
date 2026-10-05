@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 17:16",
+  "book": "1-chronicles",
+  "lang": "ky",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "эй",
+      "gloss_off": true,
+      "rationale": "Чакыруу маанисиндеги «эй» кыргызча сүйлөмдө табигый, еврейче жок"
+    },
+    {
+      "kind": "addition",
+      "subject": "Мен киммин",
+      "rationale": "Копула жок: «ким мен» — кыргызча «Мен киммин» деп бурулду"
+    },
+    {
+      "kind": "you",
+      "subject": "Яхвеге",
+      "rationale": "Давид Яхвеге тикелей кайрылат"
+    }
+  ],
+  "translation": "Давид падыша кирип, Яхвенин алдында олтурду жана айтты: Мен киммин, эй Яхве Элохим, жана менин үй-бүлөм ким, сен мени мынчалык алып келгениң үчүн?",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "5b893a976ccf180e82bf5ea8607127b61dd5732d6e9d5f12c20924ae9d9a98d2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-chronicles\/17\/13-16.1791222206313.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "кирип"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "падыша"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "олтурду"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "алдында"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "жана айтты"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ким"
+    },
+    {
+      "surface": "אני",
+      "gloss": "мен"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "жана ким"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "менин үй-бүлөм"
+    },
+    {
+      "surface": "כי",
+      "gloss": "үчүн"
+    },
+    {
+      "surface": "הביאתני",
+      "gloss": "сен мени алып келгениң"
+    },
+    {
+      "surface": "עד",
+      "gloss": "мынчалык"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "мынча"
+    }
+  ],
+  "timestamp": "2026-10-05T17:43:26.314535088Z",
+  "model": "glm-5.3"
+}

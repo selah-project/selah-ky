@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 20:11",
+  "book": "leviticus",
+  "lang": "ky",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ערות גלה",
+      "rationale": " 'To uncover nakedness' is the regular Hebrew euphemism for sexual relations, kept literally here."
+    },
+    {
+      "kind": "substitution",
+      "subject": "атасынын аялы",
+      "rationale": " The Hebrew says 'his father's wife', not 'stepmother' — the wider term covers wife or concubine of the father."
+    }
+  ],
+  "translation": "Жана адам — ким атасынын аялы менен ⟨את⟩ жатса — атасынын жылаңайлактыгын ачты: экөө теши өлүм менен өлтүрүлөт, алардын кандары алардын өзүндө.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "a844ce22b4fa34641a2fe568b760467669534102fd89196864f1a58e13bb24e0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/20\/9-12.1791203326975.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Жана адам"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ким"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "жатса"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "аялы"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "аялы"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "атасынын"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "жылаңайлактыгын"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "атасынын"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "ачты"
+    },
+    {
+      "surface": "מות",
+      "gloss": "өлүм"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "өлтүрүлөт"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "экөө те"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "алардын кандары"
+    },
+    {
+      "surface": "בם",
+      "gloss": "алардын өзүндө"
+    }
+  ],
+  "timestamp": "2026-10-05T12:28:46.976280051Z",
+  "model": "glm-5.3"
+}

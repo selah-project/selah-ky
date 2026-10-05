@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 4:10",
+  "book": "leviticus",
+  "lang": "ky",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "түтөтөт",
+      "rationale": "הקטיר — түтүнгө айландыруу, жыт катары чыгаруу; 'өрттөө' да кеңири колдонулат"
+    },
+    {
+      "kind": "substitution",
+      "subject": "тынчтык курмандыгы",
+      "rationale": "שלמим — тамыры שלם 'бүтүндүк, тынчтык'; кээ 'доо кучук курмандыгы' деп берилет"
+    }
+  ],
+  "translation": "тынчтык курмандыгынын өгүзүнөн көтөрүлгөндөй; жана ыпын аларды өрттөлүүчү курмандыктын тактасында түтөтөт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "c21a666fa5d04805f516155a5295173a62db10644e0188ab5b80dc901a05221f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/4\/9-12.1791202857472.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "сыяктуу"
+    },
+    {
+      "surface": "יורם",
+      "gloss": "көтөрүлөт"
+    },
+    {
+      "surface": "משור",
+      "gloss": "өгүз"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "курмандык"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "тынчтык"
+    },
+    {
+      "surface": "והקטירם",
+      "gloss": "жана түтөтөт"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ыпын"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстүнө"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "курмандык такта"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "өрттөлүүчү курмандык"
+    }
+  ],
+  "timestamp": "2026-10-05T12:20:57.473585360Z",
+  "model": "glm-5.3"
+}

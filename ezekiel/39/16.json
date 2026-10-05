@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 39:16",
+  "book": "ezekiel",
+  "lang": "ky",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "המונה",
+      "rationale": "шаардын ысымы 'Мона' — 'көптүк, топон' деген сөз, 39:15теги Гог-Монун менен бир тамыр"
+    },
+    {
+      "kind": "fix",
+      "subject": "translation",
+      "rationale": "түзөтүлгөн текст: 'Мона болот'"
+    }
+  ],
+  "translation": "Жана ошондой эле шаардын ысымы Монa болот — ошентип алар жерди тазалашат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "f8a13aa95c731a54b0783a2efe3d7e3c11c17a09f55739be2ad7aba17e640759",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ezekiel\/39\/13-16.1791213327588.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Жана ошондой эле"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ысымы"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "шаардын"
+    },
+    {
+      "surface": "המונה",
+      "gloss": "Мона"
+    },
+    {
+      "surface": "וטהרו",
+      "gloss": "тазалашат"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "жерди"
+    }
+  ],
+  "timestamp": "2026-10-05T15:15:27.589492815Z",
+  "model": "glm-5.3"
+}

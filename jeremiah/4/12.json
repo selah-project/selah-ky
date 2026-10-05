@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 4:12",
+  "book": "jeremiah",
+  "lang": "ky",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "толгон рух",
+      "rationale": "מלא — 'толук\/күчтүү': KJV\/ASV 'толук шамал' vs JPS 'мындан да күчтүү шамал' дейт."
+    },
+    {
+      "kind": "substitution",
+      "subject": "рух",
+      "rationale": "רוח — рух\/шамал\/дем, бир сөз бойдон кармалды (D2)."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨аларга⟩",
+      "rationale": "אותם — את + алардын мүчөсү, кыргызча ⟨את⟩ белгиси менен берилди."
+    }
+  ],
+  "translation": "Булардан Мага толгон рух келет; азыр Мен да аларга ⟨את⟩ өкүмдөрдү айтаамын.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "a2f78d6e86809dcdd67d3fdc8769c9060c66c864b4be56b28bbb398ada105b38",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/jeremiah\/4\/12-12.1791224074639.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "рух"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "толгон"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "булардан"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "келет"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Мага"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "азыр"
+    },
+    {
+      "surface": "גם",
+      "gloss": "да"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Мен"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "айтамын"
+    },
+    {
+      "surface": "משפטים",
+      "gloss": "өкүмдөрдү"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "аларга"
+    }
+  ],
+  "timestamp": "2026-10-05T18:14:34.640413587Z",
+  "model": "glm-5.3"
+}

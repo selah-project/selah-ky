@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 30:20",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "олбосо",
+      "rationale": "ולא ימуту — 'жана өлүшпөйт' эмес, максатты терс мааниде: 'олбосо өлүшөт'"
+    },
+    {
+      "kind": "addition",
+      "subject": "менен",
+      "gloss": "",
+      "rationale": "מים — 'суу', кыргызча 'суу менен жуунуу' демөөрү талап кылынат"
+    }
+  ],
+  "translation": "Алар жыйын чатырына киргенде суу менен жуунушат, олбосо өлүшөт; же Яхвеге от курмандыгын түтөтүү үчүн, кызмат кылуу үчүн курмандык тактасына жакындаганда.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "c2a1a6f17bc6b39a011243e57844f42c9a959608cdec24de1bdf7f64c7fbbd8a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/30\/17-20.1791202508209.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בבאם",
+      "gloss": "киргенде"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ге"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "чатыр"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "жыйын"
+    },
+    {
+      "surface": "ירחצו",
+      "gloss": "жуунушат"
+    },
+    {
+      "surface": "מים",
+      "gloss": "суу менен"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "олбосо"
+    },
+    {
+      "surface": "ימתו",
+      "gloss": "өлүшөт"
+    },
+    {
+      "surface": "או",
+      "gloss": "же"
+    },
+    {
+      "surface": "בגשתם",
+      "gloss": "жакындаганда"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ге"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "курмандык тактасы"
+    },
+    {
+      "surface": "לשרת",
+      "gloss": "кызмат кылуу үчүн"
+    },
+    {
+      "surface": "להקטיר",
+      "gloss": "түтөтүү үчүн"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "от курмандыгын"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхвеге"
+    }
+  ],
+  "timestamp": "2026-10-05T12:15:08.210288418Z",
+  "model": "glm-5.3"
+}

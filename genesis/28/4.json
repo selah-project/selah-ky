@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 28:4",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ал⟩",
+      "rationale": "кыргызча өтмө сүйлөм үчүн көрсөтүүчү талап кылынат, еврейче אשер"
+    },
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "rationale": "еврейче байланыштыргычтын кыргызча айрым эквиваленти жок, сөз тартиби көтөрөт"
+    },
+    {
+      "kind": "you",
+      "subject": "Яаковка",
+      "rationale": "тилек-буйрук түрүндөгү түз кайрылуу уланат"
+    }
+  ],
+  "translation": "Жана сага Аврахамдын алкоосун ⟨את⟩ берсин, сага жана сен ⟨את⟩ менен болгон үрөнүңө, сен конгон жерлерди ⟨את⟩ мураска алууң үчүн — Элохим ⟨ал⟩ жерди Аврахамга берген.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "ee13c35ee2c7edeb1eac2cb5695306b4df08fdd7df8deae78d67fcd1d8de8ebc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/28\/1-4.1791201321056.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "берсин"
+    },
+    {
+      "surface": "לך",
+      "gloss": "сага"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Аврахамдын алкоосун"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "алкоосун"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Аврахамдын"
+    },
+    {
+      "surface": "לך",
+      "gloss": "сага"
+    },
+    {
+      "surface": "ולזרעך",
+      "gloss": "жана үрөнүңө"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ менен"
+    },
+    {
+      "surface": "לרשתך",
+      "gloss": "мураска алууң үчүн"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "жерлерди"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "жерлерди"
+    },
+    {
+      "surface": "מגריך",
+      "gloss": "сен конгон"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "נתן",
+      "gloss": "берген"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "Аврахамга"
+    }
+  ],
+  "timestamp": "2026-10-05T11:55:21.057263909Z",
+  "model": "glm-5.3"
+}

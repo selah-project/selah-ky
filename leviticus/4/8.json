@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 4:8",
+  "book": "leviticus",
+  "lang": "ky",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "күнөө курмандыгы",
+      "rationale": "החטאת — «күнөө»: бир эле сөз күнөөнү да, анын курмандыгын да туюнтат, формасы «күнөө» деп сакталды"
+    }
+  ],
+  "translation": "Жана күнөө курмандыгынын бугунунан ⟨את⟩ бардык майды алсын: ич костокторду жаап турган майды жана ич костоктордун үстүндөгү бардык майды.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "01074193af48863409aefde2dee522f4ce8d0e82d82ab34c8eae0a19360a99f9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/4\/5-8.1791202910036.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "бардык майды"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бардык"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "майды"
+    },
+    {
+      "surface": "פר",
+      "gloss": "бугунунан"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "күнөө курмандыгынын"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "алсын"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "…нан"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "майды"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "майды"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "жаап турган"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстүнө"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "ич костокторду"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "бардык майды"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бардык"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "майды"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…нын"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстүндөгү"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "ич костоктордун"
+    }
+  ],
+  "timestamp": "2026-10-05T12:21:50.037830346Z",
+  "model": "glm-5.3"
+}

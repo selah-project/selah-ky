@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 25:32",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "алты сап, үч + үч",
+      "rationale": "Меноранын бутактарынын саны так көрсөтүлөт: алты сап, эки капталга үчтөн бөлүнөт."
+    },
+    {
+      "kind": "substitution",
+      "subject": "קנים",
+      "gloss": "кургак чөп, сабак",
+      "rationale": "Камыш\/таякча деген сөз меноранын бутагы катары колдонулат; KJV 'branches'."
+    }
+  ],
+  "translation": "Жана алты сап анын капталдарынан чыгат: бир капталынан меноранын үч сабы, экинчи капталынан меноранын үч сабы.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "f5947f62cc4596e3f7127139b32075a25dcc30248ba32344938bbd6da22b407b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/25\/29-32.1791202431430.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וששה",
+      "gloss": "алты"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "сап"
+    },
+    {
+      "surface": "יצאים",
+      "gloss": "чыгат"
+    },
+    {
+      "surface": "מצדיה",
+      "gloss": "анын капталдарынан"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "үч"
+    },
+    {
+      "surface": "קני",
+      "gloss": "сабы"
+    },
+    {
+      "surface": "מנרה",
+      "gloss": "меноранын"
+    },
+    {
+      "surface": "מצדה",
+      "gloss": "капталынан"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "бир"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "үч"
+    },
+    {
+      "surface": "קני",
+      "gloss": "сабы"
+    },
+    {
+      "surface": "מנרה",
+      "gloss": "меноранын"
+    },
+    {
+      "surface": "מצדה",
+      "gloss": "капталынан"
+    },
+    {
+      "surface": "השני",
+      "gloss": "экинчи"
+    }
+  ],
+  "timestamp": "2026-10-05T12:13:51.431937510Z",
+  "model": "glm-5.3"
+}

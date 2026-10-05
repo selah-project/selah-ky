@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 11:23",
+  "book": "numbers",
+  "lang": "ky",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "кол кыска",
+      "rationale": "'Яхвенин колу кыска' — кубат жетпей калат деген идиома, букв. сүрөт сакталды."
+    },
+    {
+      "kind": "crux",
+      "subject": "היקרך דברי",
+      "rationale": "'Сөзүм сага туштайбы' — букв. 'сөзүм сага жолугабы'; көпчүлүк котормо 'аткарылабы' деп берет."
+    },
+    {
+      "kind": "you",
+      "subject": "Мошеге",
+      "rationale": "Яхве Мошени түз кайрылат — суроо-жооп формасында."
+    }
+  ],
+  "translation": "Яхве Мошеге айтты: Яхвенин колу кыскабы? Азыр көрөсүң — сөзүм сага туштайбы же жокп.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "9d5267a531f32f3e2aa8176723160c46e69f7b62e9a81990cfbd9c60a0a88e62",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/numbers\/11\/21-24.1791203839646.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ге"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "היד",
+      "gloss": "колу"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    },
+    {
+      "surface": "תקצר",
+      "gloss": "кыскабы"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "азыр"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "көрөсүң"
+    },
+    {
+      "surface": "היקרך",
+      "gloss": "туштайбы"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "сөзүм"
+    },
+    {
+      "surface": "אם",
+      "gloss": "же"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жокп"
+    }
+  ],
+  "timestamp": "2026-10-05T12:37:19.647745635Z",
+  "model": "glm-5.3"
+}

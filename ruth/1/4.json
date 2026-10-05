@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ruth 1:4",
+  "book": "ruth",
+  "lang": "ky",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "שנים",
+      "rationale": "«жыл» сөзү כעשר менен бирге «он жылча» деп берилди, өзүнчө глосса калтырилды"
+    },
+    {
+      "kind": "measurement",
+      "subject": "он жылча",
+      "rationale": "Версет жашоо мөөнөтүн санап эскерет — כ «-ча» салыштыруу предлогу менен"
+    }
+  ],
+  "translation": "Алар өздөрүнө моап аялдарын алышты: бирөөнүн аты Орфа, экинчисинин аты Рут; алар ошол жерде он жылча жашашты.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "9ba85873f7e43862b4af8929f849061e3a1ffc15c053bb06137f7e26cd893df9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ruth\/1\/1-4.1791219752549.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "алышты"
+    },
+    {
+      "surface": "להם",
+      "gloss": "өздөрүнө"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "аялдарын"
+    },
+    {
+      "surface": "мאביות",
+      "gloss": "моап"
+    },
+    {
+      "surface": "שם",
+      "gloss": "аты"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "бирөөнүн"
+    },
+    {
+      "surface": "ערפה",
+      "gloss": "Орфа"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "жана аты"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "экинчисинин"
+    },
+    {
+      "surface": "רות",
+      "gloss": "Рут"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "жашашты"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ошол жерде"
+    },
+    {
+      "surface": "כעשר",
+      "gloss": "он жылча"
+    },
+    {
+      "surface": "שנים",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-10-05T17:02:32.551085594Z",
+  "model": "glm-5.3"
+}

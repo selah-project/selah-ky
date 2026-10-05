@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 25:10",
+  "book": "2-kings",
+  "lang": "ky",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "башкы союучу",
+      "rationale": "רַב טַבָּחִים тамырынан туура сөз — «союучулардын башчысы»; салттуу котормолор «аскер башчысы» деп жумшартып коюшат."
+    }
+  ],
+  "translation": "Жана ⟨את⟩ Йерушалайимдин дубалдарын айланасы боюнча кулатты Кашдимдердин бүткүл аскери, алар башкы союучу менен бирге болгондор.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "650b1b5144749519842384e6b9d6ed3cc418075f9bdd6a7cf264c2824ea6e756",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-kings\/25\/9-12.1791209319849.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Йерушалайимдин дубалдарын"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "дубалдарын"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Йерушалайимдин"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "айланасы боюнча"
+    },
+    {
+      "surface": "נתצו",
+      "gloss": "кулатты"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүткүл"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "аскери"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "Кашдимдердин"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "алар"
+    },
+    {
+      "surface": "רב",
+      "gloss": "башкы"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "союучу"
+    }
+  ],
+  "timestamp": "2026-10-05T14:08:39.850303253Z",
+  "model": "glm-5.3"
+}

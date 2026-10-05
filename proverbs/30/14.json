@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 30:14",
+  "book": "proverbs",
+  "lang": "ky",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "מתלעתיו",
+      "rationale": "«тиш чыгаргычтар» — жегич тиштер, «жаагынын тиштери» деп берилди."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חרבות\/מאכלות",
+      "rationale": "Кылыч жана бычак — жегенге курал катары окшоштуруу, бүт сүрөт сакталды."
+    }
+  ],
+  "translation": "Дор — анын тиштери кылычтар, жаагынын тиштери бычактар — жардыларды жерден, жокчуларды адамдардан жегенге.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "f9cc896ce6865786110cb870fda9604836210d20694390a2de1670ed68190b5f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/30\/13-16.1791218445192.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "дор"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "кылычтар"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "анын тиштери"
+    },
+    {
+      "surface": "ומאכלות",
+      "gloss": "жана бычактар"
+    },
+    {
+      "surface": "מתלעתיו",
+      "gloss": "жаагынын тиштери"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "жегенге"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "жардыларды"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "жерден"
+    },
+    {
+      "surface": "ואביונים",
+      "gloss": "жана жокчуларды"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "адамдардан"
+    }
+  ],
+  "timestamp": "2026-10-05T16:40:45.193076041Z",
+  "model": "glm-5.3"
+}

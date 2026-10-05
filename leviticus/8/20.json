@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 8:20",
+  "book": "leviticus",
+  "lang": "ky",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "түтөттү",
+      "rationale": "ויקטר түтөн аркылуу жыт чыгаруу маанисинде; «өрттөдү» деген жөнөкөйлөштүрүү"
+    }
+  ],
+  "translation": "Жана ⟨את⟩ кочкорду бөлүктөргө бөлдү, жана Моше ⟨את⟩ анын башын, ⟨את⟩ бөлүктөрүн жана ⟨את⟩ майын түтөттү.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "cdcc32fdaa6fd5fce3931bc5577404b4845e3461ebe4387eb24531f412ee490f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/8\/17-20.1791202999636.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "кочкорду"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "кочкорду"
+    },
+    {
+      "surface": "נתח",
+      "gloss": "бөлдү"
+    },
+    {
+      "surface": "לנתחיו",
+      "gloss": "бөлүктөргө"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "түтөттү"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "башын"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "башын"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "бөлүктөрүн"
+    },
+    {
+      "surface": "הנתחים",
+      "gloss": "бөлүктөрүн"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "майын"
+    },
+    {
+      "surface": "הפדר",
+      "gloss": "майын"
+    }
+  ],
+  "timestamp": "2026-10-05T12:23:19.637205703Z",
+  "model": "glm-5.3"
+}

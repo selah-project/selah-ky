@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 149:8",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 149,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "байлоого (2-жолу)",
+      "rationale": "Еврей текстте бир гана לאסר бар; кыргызча эки сүйлөмдү байлоо үчүн этиш кайталанды."
+    },
+    {
+      "kind": "measurement",
+      "subject": "падышаларын байлоо",
+      "rationale": "Аскердик жеңиштин саналгыс буйругу: падышалар чынжырга, урматтуулар темир байламчага — бул сөзсүз чечимдин эсеби."
+    }
+  ],
+  "translation": "алардын падышаларын чынжырлар менен байлоого, урматтууларын темир байламчалар менен байлоого.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "138774c5926d3ebe1c2386901e2fdc7601bfdce21de5403bc196f06529cc508b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/149\/5-8.1791217657980.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לאסר",
+      "gloss": "байлоого"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "алардын падышаларын"
+    },
+    {
+      "surface": "בזקים",
+      "gloss": "чынжырлар"
+    },
+    {
+      "surface": "ונכבדיהם",
+      "gloss": "жана алардын урматтууларын"
+    },
+    {
+      "surface": "בכבלי",
+      "gloss": "байламчалар"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "темир"
+    }
+  ],
+  "timestamp": "2026-10-05T16:27:37.983692315Z",
+  "model": "glm-5.3"
+}

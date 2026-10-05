@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-chronicles 2:45",
+  "book": "1-chronicles",
+  "lang": "ky",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "болду",
+      "rationale": "еврей тилинде байламча жок, кыргызча тиешелүү этиш кошулду"
+    },
+    {
+      "kind": "measurement",
+      "subject": "тукум тизмеси",
+      "rationale": "аттар катары — өлчөө\/тизүү predicates тукум регистринде"
+    }
+  ],
+  "translation": "Жана Шаммайдын уулу Маон болду, жана Маон Бейт-Цурдун атасы ⟨болду⟩.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "c24f605f0a469022ebb629e60c61333846fee89895b7bcd7afabd0269efdeaee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-chronicles\/2\/45-48.1791221717814.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "уулу"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "Шаммай"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "Маон"
+    },
+    {
+      "surface": "ומעון",
+      "gloss": "Маон"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "атасы"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бейт-"
+    },
+    {
+      "surface": "צור",
+      "gloss": "Цур"
+    }
+  ],
+  "timestamp": "2026-10-05T17:35:17.814440102Z",
+  "model": "glm-5.3"
+}

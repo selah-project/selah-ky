@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-samuel 14:35",
+  "book": "1-samuel",
+  "lang": "ky",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אתו החל",
+      "rationale": "«ошо менен ал баштады» (YLТ) же «бул анын курган биринчи курмандык чыны болду» (KJV\/JPS): אתו атайын белгиси + החел «баштады» түшүндүрүүсү талаштуу"
+    },
+    {
+      "kind": "addition",
+      "subject": "ошону",
+      "rationale": "⟨…⟩ ичинде кошулган көрсөтүү — אתו белгисин көтөргөн объект"
+    }
+  ],
+  "translation": "Жана Шаул Яхвеге курмандык чыны курду; ⟨ошону⟩ ал Яхвеге курмандык чыны куррууну баштады.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "7cfc32342f75de7eefb0b4a1fe01cd740a7d761113f124e06367fe259a58c17e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-samuel\/14\/33-36.1791206974776.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "курду"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "курмандык чыны"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхвеге"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ошону (курмандык чыныны)"
+    },
+    {
+      "surface": "החל",
+      "gloss": "баштады"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "куррууну"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "курмандык чыны"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхвеге"
+    }
+  ],
+  "timestamp": "2026-10-05T13:29:34.777136100Z",
+  "model": "glm-5.3"
+}

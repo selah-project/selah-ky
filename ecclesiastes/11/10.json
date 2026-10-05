@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 11:10",
+  "book": "ecclesiastes",
+  "lang": "ky",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "хевел",
+      "rationale": "הבל literally breath\/vapor, rendered as the loanword хевел to keep Qohelet's refrain intact."
+    },
+    {
+      "kind": "crux",
+      "subject": "השחרות",
+      "rationale": "From שחר ”black\/dawn”: rendered literally ”darkness of countenance” (black hair of youth); versions differ — youth (KJV), dawn of life (ASV), vigor (BSB)."
+    },
+    {
+      "kind": "invitation",
+      "subject": "verse",
+      "rationale": "Imperatives continuing the direct address to the young man."
+    },
+    {
+      "kind": "you",
+      "subject": "to the young man",
+      "rationale": "Second-person singular imperatives carried over from v. 9."
+    }
+  ],
+  "translation": "Жана ачууланууну жүрөгүңдөн алып сал, жамандыкты денеңден өткөрүп жибер, анткени балалык жана өңдүн караңгылыгы — хевел.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "d0fe947a63be6ceb1beeb541f4064d9df7138f79485a4fdf75245efc0e57cfd8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ecclesiastes\/11\/9-10.1791220168818.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והסר",
+      "gloss": "алып сал"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "ачууланууну"
+    },
+    {
+      "surface": "מלבך",
+      "gloss": "жүрөгүңдөн"
+    },
+    {
+      "surface": "והעבר",
+      "gloss": "өткөрүп жибер"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "жамандыкты"
+    },
+    {
+      "surface": "מבשרך",
+      "gloss": "денеңден"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "הילדות",
+      "gloss": "балалык"
+    },
+    {
+      "surface": "והשחרות",
+      "gloss": "жана өңдүн караңгылыгы"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "хевел"
+    }
+  ],
+  "timestamp": "2026-10-05T17:09:28.819877270Z",
+  "model": "glm-5.3"
+}

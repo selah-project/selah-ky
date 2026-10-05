@@ -1,0 +1,118 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 21:7",
+  "book": "1-samuel",
+  "lang": "ky",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "לחם הפנים",
+      "rationale": "букв. «жүздөрдүн наны» — Яхвенин алдында турган нан, «жүз наны» катары берилди"
+    },
+    {
+      "kind": "idiom",
+      "subject": "כי אם",
+      "rationale": "еврейче «анткени эгер» — бул жерде «тек гана» деген чектөө туюнтмасы"
+    }
+  ],
+  "translation": "Жана ыйык кызмат кылуучу ага ыйык нанды берди, анткени анда нан жок эле, тек гана Яхвенин алдынан алынган жүз нан турган, алынган күнү ысык нан коюллу.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "ac874d98521f4f5c62fff1cc74f08e3de253099503cfacbe6efa48a6c66e1057",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-samuel\/21\/5-8.1791207170183.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "берди"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ага"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ыйык кызмат кылуучу"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ыйык нанды"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "היה",
+      "gloss": "эле"
+    },
+    {
+      "surface": "שם",
+      "gloss": "анда"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "нан"
+    },
+    {
+      "surface": "כי",
+      "gloss": "тек"
+    },
+    {
+      "surface": "אם",
+      "gloss": "гана"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "нан"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "жүз"
+    },
+    {
+      "surface": "המוסרים",
+      "gloss": "алынган"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "алдынан"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    },
+    {
+      "surface": "לשום",
+      "gloss": "коюлуу үчүн"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "нан"
+    },
+    {
+      "surface": "חם",
+      "gloss": "ысык"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "күнү"
+    },
+    {
+      "surface": "הלקחו",
+      "gloss": "алынган"
+    }
+  ],
+  "timestamp": "2026-10-05T13:32:50.185074297Z",
+  "model": "glm-5.3"
+}

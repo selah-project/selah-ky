@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 85:5",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 85,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ызаа",
+      "rationale": "כעס — нааразычылык, ызаа; 'каар' да мүмкүн"
+    },
+    {
+      "kind": "you",
+      "subject": "Элохимге",
+      "rationale": "Тилек Элохимге багытталган"
+    }
+  ],
+  "translation": "Бизди кайтаргын, биздин куткаруу Элохимүбүз, жана Сенин ызааңды биздин үстүбүздөн бузгун.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "9c504668f1ec6f906c0111504ba6a86c3b79b89e0ac4e761d44556398726e56f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/85\/5-8.1791216727087.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שובנו",
+      "gloss": "Бизди кайтаргын"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Элохимүбүз"
+    },
+    {
+      "surface": "ישענו",
+      "gloss": "биздин куткаруу"
+    },
+    {
+      "surface": "והפר",
+      "gloss": "жана бузгун"
+    },
+    {
+      "surface": "כעסך",
+      "gloss": "Сенин ызааңды"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "биздин үстүбүздөн"
+    }
+  ],
+  "timestamp": "2026-10-05T16:12:07.088295226Z",
+  "model": "glm-5.3"
+}

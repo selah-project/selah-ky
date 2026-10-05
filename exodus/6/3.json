@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 6:3",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "белгилүү болгон эмесмин",
+      "rationale": "נודעתי: Яхве ысымы аталарга такыр белгисиз белен (Кыт 15:7, 28:13 аны келтирет), же толук мааниси ачылган эмес — котормочулар бөлүнгөн жер."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ал элы",
+      "rationale": "«Ал эмы» котормо гана; еврейче эмне айтылганы белгисиз тыбыш (אֵלַי же אֵל), Д1 боюнча Ысым катары берилди."
+    }
+  ],
+  "translation": "Мен Аврахамга, Йицхакка жана Яаковка Эл Шаддай катары көрүндүм, ал элы ысымым Яхве мен аларга белгилүү болгон эмесмин.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "47f5036d9d5fff41d85a2809118984961297c6477a6077d7432dafcda44a2dae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/6\/1-4.1791201938397.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וארא",
+      "gloss": "көрүндүм"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Аврахамга"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Аврахам"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Йицхакка"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Йицхак"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "жана Яаковка"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаков"
+    },
+    {
+      "surface": "באל",
+      "gloss": "Эл"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Шаддай"
+    },
+    {
+      "surface": "ושמי",
+      "gloss": "ысымым"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "נודעתי",
+      "gloss": "белгилүү болгон эмесмин"
+    },
+    {
+      "surface": "להם",
+      "gloss": "аларга"
+    }
+  ],
+  "timestamp": "2026-10-05T12:05:38.398316142Z",
+  "model": "glm-5.3"
+}

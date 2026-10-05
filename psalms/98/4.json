@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 98:4",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 98,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "күү салгыла",
+      "rationale": "פצחו — 'жарып чыгуу' (үн менен); кыргызча 'күү салуу' идиомасы менен берилди"
+    },
+    {
+      "kind": "invitation",
+      "subject": "бүт жерге чакыруу",
+      "rationale": "Аят бүт жерди Яхвеге кыйкырып мактаноого чакырат — императивдер"
+    },
+    {
+      "kind": "you",
+      "subject": "бүт жер",
+      "rationale": "Тике кайрылуу — бүт жерге багытталган"
+    }
+  ],
+  "translation": "Яхвеге кыйкыргыла, бүт жер! Күү салгыла, кубанып ырдагыла жана аспап менен ойногула!",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "7764a32b7b3f2cabc92e5320a688c2164b99519af7c201b57a1e490b72ef7b2a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/98\/4-4.1791224478209.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הריעו",
+      "gloss": "кыйкыргыла"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхвеге"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүт"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "жер"
+    },
+    {
+      "surface": "פצחו",
+      "gloss": "күү салгыла"
+    },
+    {
+      "surface": "ורננו",
+      "gloss": "кубанып ырдагыла"
+    },
+    {
+      "surface": "וזמерו",
+      "gloss": "жана аспап менен ойногула"
+    }
+  ],
+  "timestamp": "2026-10-05T18:21:18.209940319Z",
+  "model": "glm-5.3"
+}

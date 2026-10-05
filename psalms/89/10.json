@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 89:10",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "тынчтандырасың",
+      "rationale": "תשבחם этиштин тамыры «катуу үн менен айтуу\/мактоо» — бул жерде «көтөрүлгөн толкундарды басуу» маанисинде"
+    },
+    {
+      "kind": "crux",
+      "subject": "בגאות הים",
+      "rationale": "«деңиздин текеберлениши» же «деңиздин дүүлүгүүсү» — бөркөтүү же үн мааниси талаштуу"
+    }
+  ],
+  "translation": "Сен деңиздин текеберленишине өкүм сүрөсүң; анын толкундары көтөрүлгөндө, Сен аларды тынчтандырасың.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "946c26a8e3e0ef41ad038276dce8d054dd3cefb110f3bc993fdc296222af6faa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/89\/9-12.1791216772277.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Сен"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "өкүм сүрөсүң"
+    },
+    {
+      "surface": "בגאות",
+      "gloss": "текеберленишине"
+    },
+    {
+      "surface": "הים",
+      "gloss": "деңиздин"
+    },
+    {
+      "surface": "בשוא",
+      "gloss": "көтөрүлгөндө"
+    },
+    {
+      "surface": "גליו",
+      "gloss": "толкундары"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Сен"
+    },
+    {
+      "surface": "תשבחם",
+      "gloss": "тынчтандырасың"
+    }
+  ],
+  "timestamp": "2026-10-05T16:12:52.278205720Z",
+  "model": "glm-5.3"
+}

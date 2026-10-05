@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 24:20",
+  "book": "leviticus",
+  "lang": "ky",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שבר תחת שבר · עין תחת עין · שן תחת שן",
+      "rationale": "Үч жолу кайталанган лекс талионис параллелизми — ошол эле ритм кыргызча сакталды"
+    },
+    {
+      "kind": "crux",
+      "subject": "сынык",
+      "rationale": "שבר — сөөктүн сыныгы (KJV «breach», JPS «breach»); айрымдар жалпы «жаракат» деп алат"
+    }
+  ],
+  "translation": "Сынык — сыныктын ордуна, көз — көздүн ордуна, тиш — тиштин ордуна: адамга кантип кемчил жасаган болсо, ага да ошентип жасалсын.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "eb6af1bfa56ffa5d9cb8971dfa10b84923673b11e7455c74754d0018e56990da",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/24\/17-20.1791203390445.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "сынык"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ордуна"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "сынык"
+    },
+    {
+      "surface": "עין",
+      "gloss": "көз"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ордуна"
+    },
+    {
+      "surface": "עין",
+      "gloss": "көз"
+    },
+    {
+      "surface": "שן",
+      "gloss": "тиш"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ордуна"
+    },
+    {
+      "surface": "שן",
+      "gloss": "тиш"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "кантип"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "жасаган"
+    },
+    {
+      "surface": "מום",
+      "gloss": "кемчил"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "адамга"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ошентип"
+    },
+    {
+      "surface": "ינתן",
+      "gloss": "жасалсын"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ага"
+    }
+  ],
+  "timestamp": "2026-10-05T12:29:50.446440640Z",
+  "model": "glm-5.3"
+}

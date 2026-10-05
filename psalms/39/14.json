@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 39:14",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "השע ממני",
+      "rationale": "'Менден көзүңдү бур' (жазалоодон алыс кароо) же 'мага карагын' (жардам) — лексика эки жакты тең укуят."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ואבליגה",
+      "rationale": "Булагы 'жарык болуу, кубанычка чыгуу' — кыргызча 'дааналануу' деп берилди."
+    },
+    {
+      "kind": "addition",
+      "subject": "көзүңдү",
+      "rationale": "Кыргызча 'бур' этиши нерсени талап кылат; ивритте 'карао' этиши гана турат."
+    },
+    {
+      "kind": "mystery",
+      "subject": "ואינני",
+      "rationale": "'Мен болбой калам' — өлгөндөн кийинки абалдын жабык, ачык айтылбаган сыпаттамасы."
+    }
+  ],
+  "translation": "Менден ⟨көзүңдү⟩ бур, дааналайын, кетмейинче жана ⟨мен⟩ болбой калмайынча.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "32dda2c6d6aa40aa90750d9eeee234d260e80059d32e31ad366d758851fa307d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/39\/13-14.1791215930238.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "השע",
+      "gloss": "бур"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "менден"
+    },
+    {
+      "surface": "ואבליגה",
+      "gloss": "дааналайын"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "...мейинче"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "кет"
+    },
+    {
+      "surface": "ואינני",
+      "gloss": "жана болбой калмайынча"
+    }
+  ],
+  "timestamp": "2026-10-05T15:58:50.239384165Z",
+  "model": "glm-5.3"
+}

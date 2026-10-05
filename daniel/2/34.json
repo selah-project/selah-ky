@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "daniel 2:34",
+  "book": "daniel",
+  "lang": "ky",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "сөлөмөт",
+      "rationale": "צלם 'образ, сөлөмөт' — сөлөмөттүн буттарына уруп"
+    },
+    {
+      "kind": "elision",
+      "subject": "על",
+      "rationale": "Предлог 'уна, үстүнө' кыргызча жөндөлүшкө сиңди"
+    }
+  ],
+  "translation": "Сен карап турдуң, ошентип колсуз кесилип алынган таш сөлөмөттүн темир жана чопо буттарына уруп, аларды талкалады.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "b3f21a18aa858514cdc96612dd693c8aa06e58184b79854e048b5865cb22d966",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/daniel\/2\/33-36.1791220517179.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חזה",
+      "gloss": "карап"
+    },
+    {
+      "surface": "הוית",
+      "gloss": "турдуң"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ошентип"
+    },
+    {
+      "surface": "די",
+      "gloss": "⟨ошентип⟩"
+    },
+    {
+      "surface": "התגזרת",
+      "gloss": "кесилип алынган"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "таш"
+    },
+    {
+      "surface": "די",
+      "gloss": "⟨таш⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "בידין",
+      "gloss": "колсуз"
+    },
+    {
+      "surface": "ומחת",
+      "gloss": "уруп"
+    },
+    {
+      "surface": "לצלמא",
+      "gloss": "сөлөмөттүн"
+    },
+    {
+      "surface": "על",
+      "gloss": "―"
+    },
+    {
+      "surface": "רגלוהי",
+      "gloss": "буттарына"
+    },
+    {
+      "surface": "די",
+      "gloss": "⟨буттарына⟩"
+    },
+    {
+      "surface": "פרזלא",
+      "gloss": "темир"
+    },
+    {
+      "surface": "וחספא",
+      "gloss": "жана чопо"
+    },
+    {
+      "surface": "והדקת",
+      "gloss": "талкалады"
+    },
+    {
+      "surface": "המון",
+      "gloss": "аларды"
+    }
+  ],
+  "timestamp": "2026-10-05T17:15:17.180429927Z",
+  "model": "glm-5.3"
+}

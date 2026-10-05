@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 56:12",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 56,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מה יעשה אדם לי",
+      "rationale": "Риторикалык суроо — 'адам мага эмне кыла алат' идиома катары, жооп күтүлбөйт."
+    },
+    {
+      "kind": "you",
+      "subject": "окурманга",
+      "rationale": "Суроо аят окурманды да тартат."
+    }
+  ],
+  "translation": "Элохимге таяндым, коркпойм: адам мага эмне кыла алат?",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "5ff76c2cb034a988f47868058ac67641d6da77698813e0a4ab6e6d8602138b8f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/56\/9-12.1791216181787.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "Элохимге"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "таяндым"
+    },
+    {
+      "surface": "לא",
+      "gloss": "коркпойм"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "корком"
+    },
+    {
+      "surface": "מה",
+      "gloss": "эмне"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "кыла алат"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "адам"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мага"
+    }
+  ],
+  "timestamp": "2026-10-05T16:03:01.788958007Z",
+  "model": "glm-5.3"
+}

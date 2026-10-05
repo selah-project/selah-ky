@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 8:3",
+  "book": "proverbs",
+  "lang": "ky",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "кыйкырат",
+      "rationale": "רנן — «кубаныч менен катуу үн чыгаруу», кыргызча бир сөз менен «кыйкырат» деген берилди"
+    },
+    {
+      "kind": "addition",
+      "subject": "ал",
+      "rationale": "ивритте этиштин формасы (ал кыйкырат) ээни көрсөтөт, кыргызча «ал» кошулду"
+    }
+  ],
+  "translation": "Дарбазалардын жанында, шаардын оозунун жанында, эшиктердин кире беришинде ал кыйкырат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "2ebf4a203f97e6c6dd408f833f771f5c873d60ebe2e728c12d425ba970159efa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/8\/1-4.1791217879615.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ליד",
+      "gloss": "жанында"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "дарбазалардын"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "оозунун жанында"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "шаардын"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "кире беришинде"
+    },
+    {
+      "surface": "פתחים",
+      "gloss": "эшиктердин"
+    },
+    {
+      "surface": "תרנה",
+      "gloss": "ал кыйкырат"
+    }
+  ],
+  "timestamp": "2026-10-05T16:31:19.616400142Z",
+  "model": "glm-5.3"
+}

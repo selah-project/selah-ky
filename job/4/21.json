@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 4:21",
+  "book": "job",
+  "lang": "ky",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "чатыр жиптери",
+      "rationale": "יתרם: ASV\/JPS 'tent-cord' (чатыр жиби), KJV 'excellency' (артыкчылык), YLT 'removed with them' — эки окуу бар"
+    },
+    {
+      "kind": "idiom",
+      "subject": "נסע",
+      "rationale": "чатырдын казыгын жипти чечип жолго чыгуу — жашоо аяктады деген образ"
+    },
+    {
+      "kind": "elision",
+      "subject": "בם",
+      "rationale": "'алардан' кыргызча багыт кошулду, еврейче жөн гана предлог"
+    }
+  ],
+  "translation": "Алардын чатыр жиптери алардан чечилип кетпейби? Алар өлүшөт жана акылмандыкта эмес.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "98c66a954ce7359a7b3be65c0b13aa5cd5d830fe48a913901c53f679bd8fd1cc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/job\/4\/21-21.1791218491850.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "бойбу?"
+    },
+    {
+      "surface": "נסע",
+      "gloss": "чечилип кетпейби"
+    },
+    {
+      "surface": "יתרם",
+      "gloss": "чатыр жиптери"
+    },
+    {
+      "surface": "בם",
+      "gloss": "алардан"
+    },
+    {
+      "surface": "ימותו",
+      "gloss": "өлүшөт"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "жана эмес"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "акылмандыкта"
+    }
+  ],
+  "timestamp": "2026-10-05T16:41:31.850683821Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 71:10",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 71,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жанымды",
+      "rationale": "נפש — дем\/жан-жүрөк, кыргызча «жан» жакын"
+    },
+    {
+      "kind": "crux",
+      "subject": "ושמרי נפשי",
+      "rationale": "«жанымды сактоочулар» же «жанымдан күзөткөндөр» — душмандык мааниде күзөтүү"
+    }
+  ],
+  "translation": "Анткени душмандарым мага айтышты, жанымды күзөткөндөр чогуу кеңештериңди курдту.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "0a567c5678e44f387d883d9244ab60c27e0aa82207404392feee9e08fb9363d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/71\/9-12.1791216410435.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "айтышты"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "душмандарым"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мага"
+    },
+    {
+      "surface": "ושמרי",
+      "gloss": "күзөткөндөр"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "жанымды"
+    },
+    {
+      "surface": "נועצו",
+      "gloss": "кеңештериңди курдту"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "чогуу"
+    }
+  ],
+  "timestamp": "2026-10-05T16:06:50.436464475Z",
+  "model": "glm-5.3"
+}

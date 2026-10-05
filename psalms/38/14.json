@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 38:14",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "לא",
+      "rationale": "экинчи ламед-алеф дубактын сыпаттамасына сиңип кетти; кыргызча «оозун ачпаган» деп берилди"
+    }
+  ],
+  "translation": "Ал эми мен дүлөй адам сыяктуу укпайм, жана дубак сыяктуу — оозун ачпаган.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "15ecc37329783fe2dd5340cf9baf2798718760c5537513fb17315b6ee0d50b2d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/38\/13-16.1791215982034.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ал эми мен"
+    },
+    {
+      "surface": "כחרש",
+      "gloss": "дүлөй сыяктуу"
+    },
+    {
+      "surface": "לא",
+      "gloss": "эмес"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "укпайм"
+    },
+    {
+      "surface": "וכאלם",
+      "gloss": "жана дубак сыяктуу"
+    },
+    {
+      "surface": "לא",
+      "gloss": "эмес"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "ачпаган"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "оозун"
+    }
+  ],
+  "timestamp": "2026-10-05T15:59:42.034988524Z",
+  "model": "glm-5.3"
+}

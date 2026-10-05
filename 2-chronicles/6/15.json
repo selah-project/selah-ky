@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 6:15",
+  "book": "2-chronicles",
+  "lang": "ky",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "сөзүңдү",
+      "rationale": "Hebrew את אשר alone; Kyrgyz needs the noun 'сөз' to carry the object"
+    },
+    {
+      "kind": "idiom",
+      "subject": "колуң менен аткардың",
+      "rationale": "'кол менен толтуруу' — ооз менен айтылганы кол менен аткарылды деген еврей ыкмасы"
+    }
+  ],
+  "translation": "Сен кулуң атам Давидге айткан ⟨את⟩ сөзүңдү сактадың; оозуң менен айтып, колуң менен бүгүнкү күндө аткарып бердиң.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "8cb3b022dfafc4545f4ef916adfbcd97a39cb0c515201ef917ce303806d61bdc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-chronicles\/6\/13-16.1791222663265.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "שמרת",
+      "gloss": "сактадың"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "кулуң"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "атам"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сөзүңдү"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "айткан"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "айтканың"
+    },
+    {
+      "surface": "לו",
+      "gloss": ""
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "айтып"
+    },
+    {
+      "surface": "בפיך",
+      "gloss": "оозуң менен"
+    },
+    {
+      "surface": "ובידך",
+      "gloss": "колуң менен"
+    },
+    {
+      "surface": "מלאת",
+      "gloss": "аткарып бердиң"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "күндө"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "бүгүнкү"
+    }
+  ],
+  "timestamp": "2026-10-05T17:51:03.266278645Z",
+  "model": "glm-5.3"
+}

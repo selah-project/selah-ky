@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 23:32",
+  "book": "leviticus",
+  "lang": "ky",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שבת שבתון",
+      "rationale": "Шаббат + шаббатон — бир тамырдын эки катталышы, kyrgyzда толук сакталбайт"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ערב מערב עד ערב",
+      "rationale": "«кечке» деген сөздүн үч жолу кайталанышы — үн окшоштук"
+    },
+    {
+      "kind": "measurement",
+      "subject": "кечкеден кечкеге чейин",
+      "rationale": "Шаббаттын чеги так өлчөнөт: кечке маалынан кечке маалына чейин"
+    },
+    {
+      "kind": "substitution",
+      "subject": "жандар",
+      "rationale": "נפש — дем алуучу тирүүлүк, «жан» деген жакын маани"
+    }
+  ],
+  "translation": "Бул — силерге Шаббат, толук эс алуу күнү; жана ⟨את⟩ жандарыңарды азап чегизгиле; айдын тогузунчу күнү кечке маалынан, кечкеден кечкеге чейин Шаббатыңарды кармагыла.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "0403cf303b488289d4083fa673329129a9d87f79d444d64c93e4d1d875bd3543",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/23\/29-32.1791203426003.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "Шаббат"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "толук эс алуу күнү"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "бул"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "силерге"
+    },
+    {
+      "surface": "ועניתם",
+      "gloss": "жана азап чегизгиле"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "жандарыңарды"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "жандарыңарды"
+    },
+    {
+      "surface": "בתשעה",
+      "gloss": "тогузунчу"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "айдын"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "кечке маалынан"
+    },
+    {
+      "surface": "מערב",
+      "gloss": "кесе… кечкеден"
+    },
+    {
+      "surface": "עד",
+      "gloss": "чейин"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "кес… кечкеге"
+    },
+    {
+      "surface": "תשבתו",
+      "gloss": "кармагыла"
+    },
+    {
+      "surface": "שבתכם",
+      "gloss": "Шаббатыңарды"
+    }
+  ],
+  "timestamp": "2026-10-05T12:30:26.004867686Z",
+  "model": "glm-5.3"
+}

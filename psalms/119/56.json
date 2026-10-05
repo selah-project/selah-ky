@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "psalms 119:56",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "זאת היתה לי",
+      "rationale": "«Бул менин үлүшүм болду» (жа_RESPONSEdeleted) деген окуу да бар — 57-аяттагы «үлүш» менен байланышынан"
+    },
+    {
+      "kind": "crux",
+      "subject": "זאת",
+      "rationale": "«Бул» эмнени көрсөтөт: сактагандыгыбы, же сый-эне? Текстте так айтылбайт"
+    }
+  ],
+  "translation": "Бул мага болду, анткени буйруктарыңды сактадым.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "9436762ab9cfb774137d9b4ea8f9a7e0d6bc0c56891c9a58eaa37b100b21d52c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/119\/53-56.1791217319694.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "бул"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "болду"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мага"
+    },
+    {
+      "surface": "кי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "буйруктарыңды"
+    },
+    {
+      "surface": "נצרתי",
+      "gloss": "сактадим"
+    }
+  ],
+  "timestamp": "2026-10-05T16:21:59.695936252Z",
+  "model": "glm-5.3"
+}

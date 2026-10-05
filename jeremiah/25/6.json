@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 25:6",
+  "book": "jeremiah",
+  "lang": "ky",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ошондо",
+      "rationale": "Kyrgyz needs a connective to make the consequence ('then I will not harm you') explicit; Hebrew juxtaposes clauses."
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "Direct second-person plural address: prohibitions and promise aimed at the people."
+    }
+  ],
+  "translation": "Жана башка кудайлардын артынан, аларды кызмат кылуу жана аларга сыйынуу үчүн жүбөйлө; ⟨את⟩ мени колдоруңуздун иштери менен каардантпаңыз, ошондо мен сизге жамандык кылбайм.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "18b14d631da41c438d4f0e8c27960140fe44b7e049e13d3788affe44bf04ec6c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/jeremiah\/25\/5-8.1791211280281.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "жана жок"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "жүбөйлө"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "артынан"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "кудайлар"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "башка"
+    },
+    {
+      "surface": "לעבדם",
+      "gloss": "аларды кызмат кылуу"
+    },
+    {
+      "surface": "ולהשתחות",
+      "gloss": "жана сыйынуу"
+    },
+    {
+      "surface": "להם",
+      "gloss": "аларга"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "жана жок"
+    },
+    {
+      "surface": "תכעיסו",
+      "gloss": "каардантпаңыз"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ мени"
+    },
+    {
+      "surface": "במעשה",
+      "gloss": "иштери менен"
+    },
+    {
+      "surface": "ידיכם",
+      "gloss": "колдоруңуздун"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "жана жок"
+    },
+    {
+      "surface": "ארע",
+      "gloss": "жамандык кылбайм"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "сизге"
+    }
+  ],
+  "timestamp": "2026-10-05T14:41:20.282098520Z",
+  "model": "glm-5.3"
+}

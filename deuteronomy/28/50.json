@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "deuteronomy 28:50",
+  "book": "deuteronomy",
+  "lang": "ky",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ישא פנים",
+      "rationale": "«жүз көтөрүү» — еврейче идиома «таануу жүзүн берүү, жактыруу»; 49-аяттагы «эл көтөрөт» менен тамырдаш."
+    },
+    {
+      "kind": "idiom",
+      "subject": "עז פנים",
+      "rationale": "букв. «катуу жүз» — ырайымсыз, боор оорутпаган маанисинде."
+    }
+  ],
+  "translation": "эл — катуу жүздүү, ал карыганга жүз көтөрбөйт, жашка ырайым кылбайт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "d9c1070918b948b1ffb6befc271e49ab0d5a64565aab3762e173bb32455e82f8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/28\/49-52.1791205370690.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גוי",
+      "gloss": "эл"
+    },
+    {
+      "surface": "עז",
+      "gloss": "катуу"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "жүздүү"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ал"
+    },
+    {
+      "surface": "לא",
+      "gloss": "эмес"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "көтөрбөйт"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "жүз"
+    },
+    {
+      "surface": "לזקן",
+      "gloss": "карганга"
+    },
+    {
+      "surface": "ונער",
+      "gloss": "жана жашка"
+    },
+    {
+      "surface": "לא",
+      "gloss": "эмес"
+    },
+    {
+      "surface": "יחן",
+      "gloss": "ырайым кылбайт"
+    }
+  ],
+  "timestamp": "2026-10-05T13:02:50.691276983Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 3:1",
+  "book": "lamentations",
+  "lang": "ky",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨бул⟩",
+      "rationale": "Еврейче атоочтук жок; кыргызча «Мен — бул адам» деген байланыш талап кылат"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גבר",
+      "rationale": "Байыркы үндөөсүз жазууда הגבר — «эркек\/батыр» деген сөз, атайын эркек формасы: аялдын үнүнөн (Эйха 1–2) эркектинкине өтүү"
+    }
+  ],
+  "translation": "Мен — ⟨бул⟩ адам: Анын каарынын таяны астында азап көрдүм.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "cd7b0b8efa22676419bf13ef797ee7b9369fbcf8377f072e991a2e6bb886e6f6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/lamentations\/3\/1-4.1791219816862.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Мен"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "адам"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "көрдүм"
+    },
+    {
+      "surface": "עני",
+      "gloss": "азап"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "таяны астында"
+    },
+    {
+      "surface": "עברתו",
+      "gloss": "Анын каарынын"
+    }
+  ],
+  "timestamp": "2026-10-05T17:03:36.863316799Z",
+  "model": "glm-5.3"
+}

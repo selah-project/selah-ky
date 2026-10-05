@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 33:15",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "биз менен",
+      "rationale": "14-аяттагы «сага» дегенге каршы Моше «биз» дейт; кыргызча «бара жаткан» сүйлөмү «биз менен» дегенди талап кылат, ал ишарат катары кошулду."
+    },
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "rationale": "Анткор бөлүкчөсү «алып чыкпа» этиштин терс формасына сиңдирилип, өзүнчө сөз катары көрүнбөйт."
+    }
+  ],
+  "translation": "Жана ал ага айтты: Эгер Сенин жүзүң биз менен бара жаткан болбосо, бизди мындан алып чыкпа.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "a50943af0ba1e4122df30205c0af43598c53a6af008cc33aa6af33a2c3f02d26",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/33\/13-16.1791202640312.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "жана айтты"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ага"
+    },
+    {
+      "surface": "אם",
+      "gloss": "эгер"
+    },
+    {
+      "surface": "אין",
+      "gloss": "жок болсо"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "жүзүң"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "бара жаткан"
+    },
+    {
+      "surface": "אל",
+      "gloss": "анткор (баш тарт)"
+    },
+    {
+      "surface": "תעלנו",
+      "gloss": "бизди алып чыкпа"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "мындан"
+    }
+  ],
+  "timestamp": "2026-10-05T12:17:20.313530385Z",
+  "model": "glm-5.3"
+}

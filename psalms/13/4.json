@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 13:4",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Яхвеге, Элохимге",
+      "rationale": "Давид Яхвеге түз кире тиленет"
+    },
+    {
+      "kind": "idiom",
+      "subject": "өлүм уйкусуна кетемин",
+      "rationale": "אישן המות — «өлүмдүн уйкусунда уктайм»; кыргызча «өлүм уйкусуна кетемин» деп берилди"
+    }
+  ],
+  "translation": "Карап кой мага, жооп бер мага, Яхве, Элохимим! Көзүмдү жарык кыл, айтпесе өлүм уйкусуна кетемин.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "efb8878d0b1df9c3cf30654fe996d1340f7774bfcdc4f52894d25d7b511b3322",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/13\/1-4.1791215482658.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הביטה",
+      "gloss": "Карап кой"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "жооп бер мага"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Элохимим"
+    },
+    {
+      "surface": "האירה",
+      "gloss": "жарык кыл"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "көзүмдү"
+    },
+    {
+      "surface": "פן",
+      "gloss": "айтпесе"
+    },
+    {
+      "surface": "אישן",
+      "gloss": "кетемин"
+    },
+    {
+      "surface": "המות",
+      "gloss": "өлүм"
+    }
+  ],
+  "timestamp": "2026-10-05T15:51:22.659673845Z",
+  "model": "glm-5.3"
+}

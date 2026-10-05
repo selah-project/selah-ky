@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 17:16",
+  "book": "job",
+  "lang": "ky",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בדי",
+      "rationale": "«Шеолдин жыгачтары\/тосмолору» (KJV: bars) же «Шеолдин боору» (borders) — котормочулар бөлүнөт"
+    },
+    {
+      "kind": "crux",
+      "subject": "נחת",
+      "rationale": "«түшүү» же «тынычтык\/эс алуу» — YLT «эс алабыз», KJV «тынычтык» дейт"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨алар⟩",
+      "rationale": "түшүүчүлөр (үмүттөр) кыргызда так көрүнүшү үчүн кошулду"
+    }
+  ],
+  "translation": "Шеолдун тосмолоруна түшөт ⟨алар⟩; эгерде бирге топурак үстүндө тынычтайбыз.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "fe5141f07b75dc90736924856e52d130f83b18dea4313cb1d640d618a6f614e8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/job\/17\/13-16.1791218928906.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בדי",
+      "gloss": "тосмолоруна"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "Шеолдун"
+    },
+    {
+      "surface": "תרדנה",
+      "gloss": "түшөт"
+    },
+    {
+      "surface": "אם",
+      "gloss": "эгерде"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "бирге"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстүндө"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "топурак"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "тынычтайбыз"
+    }
+  ],
+  "timestamp": "2026-10-05T16:48:48.907281040Z",
+  "model": "glm-5.3"
+}

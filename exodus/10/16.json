@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 10:16",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "кашы",
+      "rationale": "חטאתי 'күнөө кылдым' — кыргызча 'кашы' предлоги талап кылат, еврейче ламед 'менен' маанисинде"
+    },
+    {
+      "kind": "you",
+      "subject": "Мошеге жана Ахаронго",
+      "rationale": "Фараондун түз кайрылуусу — 'силердин Элохимиңер' деген ачык айткыч"
+    }
+  ],
+  "translation": "Жана Фараон Мошени жана Ахаронду чакырууга ашыкты жана айтты: Мен силердин Элохимиңер Яхвеге жана силерге каршы күнөө кылдым.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "47566f15c7f90355fe94e5101cacfceb4db6b43ec8f1c5f2fe6e9d5cb34cb414",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/10\/13-16.1791202043137.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימהר",
+      "gloss": "ашыкты"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Фараон"
+    },
+    {
+      "surface": "לקרא",
+      "gloss": "чакырууга"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Мошени"
+    },
+    {
+      "surface": "ולאהרן",
+      "gloss": "жана Ахаронду"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "жана айтты"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "күнөө кылдым"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхвеге"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Элохимиңер"
+    },
+    {
+      "surface": "ולכם",
+      "gloss": "жана силерге"
+    }
+  ],
+  "timestamp": "2026-10-05T12:07:23.138601240Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 13:13",
+  "book": "leviticus",
+  "lang": "ky",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "цараат",
+      "rationale": "צרעת — байыркы еврейче жара\/жугуштуу оору, көп учурда 'проказа' деп берилет, бирок ал анын так экени белгисиз"
+    },
+    {
+      "kind": "crux",
+      "subject": "бүтү акка айланса — таза",
+      "rationale": "жара бүт денени каптаса таза деп жарыяланат: бүтү ак болсо булганақ тараган, ал эми жаңы тирүү эт пайда болсо кайра булганақ"
+    }
+  ],
+  "translation": "Ырамат көрөт, жана мына, цараат ⟨את⟩ анын бүт этин каптаса, ырамат ⟨את⟩ жараганды таза деп жарыялайт — бүтү акка айланган, ал таза.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "5ad1b29ac8e96399573dfb9b157c5675ed88159750ad6ea54d145a21e503c971",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/13\/13-16.1791203058880.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "ырамат көрөт"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ырамат"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "жана мына"
+    },
+    {
+      "surface": "כסתה",
+      "gloss": "каптаса"
+    },
+    {
+      "surface": "הצרעת",
+      "gloss": "цараат"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "анын бүт этин"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүт"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "анын этин"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "таза деп жарыялайт"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "жараганды"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "жара"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "бүтү"
+    },
+    {
+      "surface": "הפך",
+      "gloss": "айланган"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "ак"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "таза"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ал"
+    }
+  ],
+  "timestamp": "2026-10-05T12:24:18.880784394Z",
+  "model": "glm-5.3"
+}

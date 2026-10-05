@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 10:16",
+  "book": "2-kings",
+  "lang": "ky",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "«Мен менен кел жана көр»",
+      "rationale": "Йехунун чакырыгы — өлтүрүүгө чакыруу экени окурманга али белгисиз."
+    },
+    {
+      "kind": "crux",
+      "subject": "кызуулук",
+      "rationale": "קנאה — «кызуулук\/кызганчаактык»; Яхвенин өзүнүн атрибуту бул жерде адамга таңылат."
+    }
+  ],
+  "translation": "Жана ал айтты: «Мен ⟨את⟩ менен кел, Яхвеге болгон кызуулугумду көр». Алар аны ⟨את⟩ анын арабасына мингизишти.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "cb0993fa46ab74349bd70a6958a8e262ac5f7b40d4123f3fa7db8bf9af49e82a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-kings\/10\/13-16.1791208897502.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "кел"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ менен"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "көр"
+    },
+    {
+      "surface": "בקנאתי",
+      "gloss": "кызуулугумду"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхвеге"
+    },
+    {
+      "surface": "וירכבו",
+      "gloss": "мингизишти"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "аны"
+    },
+    {
+      "surface": "ברכבו",
+      "gloss": "анын арабасына"
+    }
+  ],
+  "timestamp": "2026-10-05T14:01:37.504037189Z",
+  "model": "glm-5.3"
+}

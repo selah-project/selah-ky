@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 27:12",
+  "book": "deuteronomy",
+  "lang": "ky",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "урук аттарынын тизмеси",
+      "rationale": "Аят алты уруктун аттарын тизмелеп эсептейт — баталоочу тайпанын составы."
+    },
+    {
+      "kind": "elision",
+      "subject": "על",
+      "rationale": "על 'үстүндө\/…да' предлогу кыргызча '-да' мүчөсүнө жутулду."
+    }
+  ],
+  "translation": "Мінилєр Иорданды кечип өткөндөңор, элди баталоо үчүн Геризим тоосунда турат: Шимеон, Леби, Йеhуда, Иссахар, Йосеф жана Биньямин.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "067d4af2e1957db62c121d77c44686d2707ab9150a65358c2df8578eca05212d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/27\/9-12.1791205223931.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Мінилєр"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "турат"
+    },
+    {
+      "surface": "לברך",
+      "gloss": "баталоо үчүн"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "элди"
+    },
+    {
+      "surface": "העם",
+      "gloss": "элди"
+    },
+    {
+      "surface": "על",
+      "gloss": "…да"
+    },
+    {
+      "surface": "הר",
+      "gloss": "тоосунда"
+    },
+    {
+      "surface": "גרזים",
+      "gloss": "Геризим"
+    },
+    {
+      "surface": "בעברכם",
+      "gloss": "кечип өткөндө"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Иорданды"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Иорданды"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Шимеон"
+    },
+    {
+      "surface": "ולוי",
+      "gloss": "жана Леби"
+    },
+    {
+      "surface": "והודה",
+      "gloss": "жана Йеhуда"
+    },
+    {
+      "surface": "ויששכר",
+      "gloss": "жана Иссахар"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "жана Йосеф"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "жана Биньямин"
+    }
+  ],
+  "timestamp": "2026-10-05T13:00:23.933346240Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 17:9",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Аврахамга",
+      "rationale": "Элохим кайрылуусу — келишимди сактоо буйругу Аврахамга жана анын үрөнүнө багытталат."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ואתה … אתה",
+      "rationale": "«Сен болсо … сен» — эврей текстинт өзүнчө бөлүп коюучу кайталоосу, басым сөздөрү."
+    },
+    {
+      "kind": "measurement",
+      "subject": "לדרתם",
+      "rationale": "«муунда-муунуна» — келишим убакыттын муундары боюнча ченелет."
+    }
+  ],
+  "translation": "Элохим Аврахамга айтты: Сен болсо ⟨את⟩ менин келишимимди сактайсың — сен жана сенин үрөнүң сенден кийин, алардын муунда-муунуна.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "830bf8de48cd4b90be25c13d566580a155d0cba7b29fc22b571c328057bde33b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/17\/9-12.1791200986512.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "אל",
+      "gloss": "га"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Аврахам"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "Сен болсо"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "менин келишимимди"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "келишимимди"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "сактайсың"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "сен"
+    },
+    {
+      "surface": "וזרעך",
+      "gloss": "жана сенин үрөнүң"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "сенден кийин"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "алардын муунда-муунуна"
+    }
+  ],
+  "timestamp": "2026-10-05T11:49:46.512901651Z",
+  "model": "glm-5.3"
+}

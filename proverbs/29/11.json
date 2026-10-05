@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 29:11",
+  "book": "proverbs",
+  "lang": "ky",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ישבחנה",
+      "rationale": "Шавах: «т.stop\/carмайт» (ASV\/JPS) же «кечиктирет» (KJV) — тамыр талаштуу."
+    },
+    {
+      "kind": "substitution",
+      "subject": "рух",
+      "rationale": "רוח — «шамал\/дем\/каар» маанисинде; бир сөз катары «рух» кармалды."
+    }
+  ],
+  "translation": "Акмак бүт рухун чыгарат, даанышман болсо аны кечигип турат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "347ef1b7fd26606cb72ca8827d1dac8af4e3dfd81df4fa4c33b5ccf0a2e8e397",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/29\/9-12.1791218383569.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "бүт"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "рухун"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "чыгарат"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "акмак"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "даанышман"
+    },
+    {
+      "surface": "באחור",
+      "gloss": "кечигип"
+    },
+    {
+      "surface": "ישבחנה",
+      "gloss": "турат"
+    }
+  ],
+  "timestamp": "2026-10-05T16:39:43.570483082Z",
+  "model": "glm-5.3"
+}

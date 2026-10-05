@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 116:11",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 116,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "шашылышымда",
+      "rationale": "בחפזי: 'шашкалокоо' (KJV), 'коркуу\/дардан' (Geneva, BSB) — экөө тең мүмкүн; 'шашылышымда' дедим."
+    },
+    {
+      "kind": "addition",
+      "subject": "ар бир",
+      "rationale": "עם כל жөнөкөйлөтүлүп 'бүт адамдар' деп да болот; жекелик 'жалганчы' сөзүнө ылайык 'ар бир' кошулду."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אני אמרתי ... אני עניתי",
+      "rationale": "116:10–11 'мен айттым \/ мен азап тарттым' деген ыр саптарынын кайталоосу — кыргызчада жарым-жартылай сакталат."
+    }
+  ],
+  "translation": "Мен шашылышымда айттым: ар бир адам жалганчы.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "ae42fb3227c048238160b2f0388b798661bc3a8745bac96c3f1b06c1094a8c3a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/116\/10-11.1791224514599.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Мен"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "айттым"
+    },
+    {
+      "surface": "בחפזי",
+      "gloss": "шашылышымда"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ар бир"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "адам"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "жалганчы"
+    }
+  ],
+  "timestamp": "2026-10-05T18:21:54.600289292Z",
+  "model": "glm-5.3"
+}

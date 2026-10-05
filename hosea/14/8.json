@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 14:8",
+  "book": "hosea",
+  "lang": "ky",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ישבו ישבי",
+      "rationale": "Эки тыным окшош сөздөн турат: שוב «кайтуу» жана ישב «отуруу» — KJV «отургандар кайтышат», JPS «отургандар кайра дан өстүрүшөт» деп бөлөкчө окуйт"
+    },
+    {
+      "kind": "crux",
+      "subject": "זכרו",
+      "rationale": "«Анын эстелиши\/аты» же шараптын «жыты» — котормочулар эки жолу окуп беришет"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ישבו · ישבי",
+      "rationale": "Шурут окшоштук (шин-бет тамырынан эки ар түрдүү этиш) — кыргызча жоголот"
+    }
+  ],
+  "translation": "Анын көлөкөсүндө отургандар кайтышат, буудайды жандандырышат жана жүзүмдөй гүлдөшөт, анын эстелиши Ливан шарабындай.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "33a70dbb1802f770e32d7c3d826afaea8dc33bfe9a56dc0f61b012e18af35e66",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/hosea\/14\/5-8.1791214007515.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישבו",
+      "gloss": "кайтышат"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "отургандар"
+    },
+    {
+      "surface": "בצלו",
+      "gloss": "анын көлөкөсүндө"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "жандандырышат"
+    },
+    {
+      "surface": "דגן",
+      "gloss": "буудайды"
+    },
+    {
+      "surface": "ויפרחו",
+      "gloss": "гүлдөшөт"
+    },
+    {
+      "surface": "כגפן",
+      "gloss": "жүзүмдөй"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "анын эстелиши"
+    },
+    {
+      "surface": "כיין",
+      "gloss": "шарабындай"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Ливан"
+    }
+  ],
+  "timestamp": "2026-10-05T15:26:47.516023672Z",
+  "model": "glm-5.3"
+}

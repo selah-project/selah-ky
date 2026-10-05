@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "esther 2:20",
+  "book": "esther",
+  "lang": "ky",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "карамагында",
+      "rationale": "באמנה «тарбия\/карамжорлук» деген — «чоңойгонубагында» салыштырууну берет, так «тарбияланган» эмес."
+    },
+    {
+      "kind": "secret",
+      "subject": "Эстэр өз элин айткан жок",
+      "rationale": "Эстэрдин туугандыгы жашырылган — китептин суспензиясы ушул жашыруунга курулган."
+    }
+  ],
+  "translation": "Эстэр өз тууганын жана ⟨את⟩ өз элин айткан жок, Мардохей ага буйругандай; жана Мардохейдин ⟨את⟩ буйругун Эстэр ал ⟨את⟩ аны менен чоңойгонубагындагыдай аткарып турду.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "6bede21f69033e33b95c7bed723836c3984a73a7ac87fecd5c08838fdd876f0b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/esther\/2\/17-20.1791220265934.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "жок"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Эстэр"
+    },
+    {
+      "surface": "מגדת",
+      "gloss": "айткан"
+    },
+    {
+      "surface": "מולדתה",
+      "gloss": "өз тууганын"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "өз элин"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "өз элин"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "…дай"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "буйруган"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ага"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Мардохей"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Мардохейдин буйругун"
+    },
+    {
+      "surface": "מאמר",
+      "gloss": "буйругун"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Мардохейдин"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Эстэр"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "аткарып турду"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "…дай"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "болгон"
+    },
+    {
+      "surface": "באמנה",
+      "gloss": "карамагында"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ аны менен"
+    }
+  ],
+  "timestamp": "2026-10-05T17:11:05.937729333Z",
+  "model": "glm-5.3"
+}

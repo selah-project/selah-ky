@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 11:14",
+  "book": "1-kings",
+  "lang": "ky",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "душман",
+      "rationale": "שטן букв. «карушы, тоскооч» — бул адам, кийинки «Шайтан» эмес"
+    }
+  ],
+  "translation": "Жана Яхве Шеломого каршы душман туурду — ⟨את⟩ Адад эдомдукту, ал Эдомдогу падышанын үрөнүнөн болчу.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "703b0e48ff8657bc1adbed01aac2320fc23f5f2a4be4a7b9285925df463ecb71",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-kings\/11\/13-16.1791208278973.json",
+    "code": "641241cf-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "туурду"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "душман"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "Шеломого каршы"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Адад эдомдукту"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Адад"
+    },
+    {
+      "surface": "האדמי",
+      "gloss": "эдомдукту"
+    },
+    {
+      "surface": "מזרע",
+      "gloss": "үрөнүнөн"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "падышанын"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ал"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "Эдомдогу"
+    }
+  ],
+  "timestamp": "2026-10-05T13:51:18.974005515Z",
+  "model": "glm-5.3"
+}

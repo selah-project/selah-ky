@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 15:25",
+  "book": "2-samuel",
+  "lang": "ky",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "והשיבני\/והראני",
+      "rationale": "жетишкендик мамиле: 'ал мени кайтарат' же буйрук мааниси 'мени кайтаргыла' деген эки окуу бар."
+    },
+    {
+      "kind": "addition",
+      "subject": "аны",
+      "rationale": "אֹתו ээлик белгиси κasha文中 ⟨аны⟩ катары кошулду."
+    }
+  ],
+  "translation": "Падыша Цадокко айтты: Элохимдин сандыгын шаарга кайтаркыла. Эгерде Яхвенин көздөрүндө ырайым тапсам, ал мени кайтарып, ⟨аны⟩ жана анын жайын мага көрсөтөт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "cc210c487d4ce651afe49f709d9a132c8e32cef78414f62baffeb3269c679849",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-samuel\/15\/25-28.1791207712234.json",
+    "code": "641241cf-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "падыша"
+    },
+    {
+      "surface": "לצדוק",
+      "gloss": "Цадокко"
+    },
+    {
+      "surface": "השב",
+      "gloss": "кайтар"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Элохимдин сандыгын"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "сандыгын"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Элохимдин"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "шаарга"
+    },
+    {
+      "surface": "אם",
+      "gloss": "эгерде"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "тапсам"
+    },
+    {
+      "surface": "חן",
+      "gloss": "ырайым"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "көздөрүндө"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    },
+    {
+      "surface": "והשבני",
+      "gloss": "мени кайтарып"
+    },
+    {
+      "surface": "והראני",
+      "gloss": "мага көрсөтөт"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "аны"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "жана ⟨את⟩",
+      "marks": "анын жайын"
+    },
+    {
+      "surface": "נוהו",
+      "gloss": "анын жайын"
+    }
+  ],
+  "timestamp": "2026-10-05T13:41:52.235754826Z",
+  "model": "glm-5.3"
+}

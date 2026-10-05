@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 104:3",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 104,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "өйдөркана",
+      "rationale": "עליותיו — «үстүнкү бөлмөлөрү\/баскычтары», кыргызча үч сөз менен берилди"
+    },
+    {
+      "kind": "addition",
+      "subject": "Ал",
+      "rationale": "Кыргызча сүйлөм башына субъект кошулду, ивритте жок"
+    }
+  ],
+  "translation": "Ал өйдөрканаларынын шыраларын сууларга орнотуучу, булуттарды өз арабасы кылуучу, рухтун канаттарынын үстүндө басуучу.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "80e8b39750f89be9c4df9e4cea0680088468ffdd09e59397ae433aeecdae158c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/104\/1-4.1791217017847.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "המקרה",
+      "gloss": "шыраларын орнотуучу"
+    },
+    {
+      "surface": "бмайим",
+      "gloss": "сууларга"
+    },
+    {
+      "surface": "עליותיו",
+      "gloss": "өйдөрканааларынын"
+    },
+    {
+      "surface": "השם",
+      "gloss": "кылуучу"
+    },
+    {
+      "surface": "עבים",
+      "gloss": "булуттарды"
+    },
+    {
+      "surface": "רכובו",
+      "gloss": "өз арабасы"
+    },
+    {
+      "surface": "המהלך",
+      "gloss": "басуучу"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстүндө"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "канаттарынын"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "рухтун"
+    }
+  ],
+  "timestamp": "2026-10-05T16:16:57.848456211Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 123:4",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 123,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "לה",
+      "rationale": "этишке кошулган предлог-мүчө кыргызча мазмунда айрыкча берилген жок"
+    },
+    {
+      "kind": "substitution",
+      "subject": "жаныбыз",
+      "rationale": "נפשנו — дем алуучу жандык, жан-күч; 'жан' кыргызча эң жакын форма"
+    },
+    {
+      "kind": "crux",
+      "subject": "השאננים",
+      "rationale": "'тынч жаткандар' (бай-байбактар) же 'шейтандык коопсуздарда жаткандар' — терс мааниде"
+    }
+  ],
+  "translation": "Өтө эле эси толо токтук биздин жаныбыз тынч жаткандардын шылдыңынан, текеберлердин жек көрүүсүнөн.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "b940ae7a5741c67fdb66bf9a0a43c479c2ac46c9bafbf8d8c21e016cd422eae0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/123\/4-4.1791224478260.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "өтө эле"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "эси толо токтук"
+    },
+    {
+      "surface": "לה",
+      "gloss": ""
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "жаныбыз"
+    },
+    {
+      "surface": "הלעג",
+      "gloss": "шылдыңынан"
+    },
+    {
+      "surface": "השאננים",
+      "gloss": "тынч жаткандардын"
+    },
+    {
+      "surface": "הבוז",
+      "gloss": "жек көрүүсүнөн"
+    },
+    {
+      "surface": "לגאיונים",
+      "gloss": "текеберлердин"
+    }
+  ],
+  "timestamp": "2026-10-05T18:21:18.261206198Z",
+  "model": "glm-5.3"
+}

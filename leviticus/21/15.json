@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 21:15",
+  "book": "leviticus",
+  "lang": "ky",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨аны⟩",
+      "rationale": "מקדשו үчүнчү жактык толуктоочго тутум талап кылат; еврейче аяктоочу жок."
+    },
+    {
+      "kind": "crux",
+      "subject": "үрөнүн бузбайт",
+      "rationale": "זרעו — 'үрөн\/урпак': бул ыйык кызматкер өз урпагын бузбашы керекпи, же өз элинин ичинде урпак калтырбашы керекпи — котормочулар талашышат."
+    }
+  ],
+  "translation": "жана ал өз элинин ичинде өз үрөнү бузбайт; анткени Мен — Яхве, ⟨аны⟩ ыйыктоочу.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "9140dfa80f81c9a79f810af57a24a5fca1dcc9dd36c07f61470c19e049437d50",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/21\/13-16.1791203292250.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "жана... бузбайт"
+    },
+    {
+      "surface": "יחלל",
+      "gloss": "бузбайт"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "өз үрөнү"
+    },
+    {
+      "surface": "בעמיו",
+      "gloss": "өз элинин ичинде"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Мен"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "מקדשו",
+      "gloss": "ыйыктоочу"
+    }
+  ],
+  "timestamp": "2026-10-05T12:28:12.251023567Z",
+  "model": "glm-5.3"
+}

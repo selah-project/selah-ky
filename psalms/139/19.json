@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 139:19",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 139,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Эгер Сен өлтүрсөң",
+      "rationale": "אִם תִּקְטֹל: шарттуу тилек («өлтүрсөңчү», JPS, YLT) же ишенимдүү жыйынтыык («Сен албат өлтүрөсүң», KJV)"
+    },
+    {
+      "kind": "you",
+      "subject": "кан адамдары",
+      "rationale": "Түз кайрылуу — ырчы жаман адамдарга багытталат"
+    }
+  ],
+  "translation": "Эгер Сен, Элоах, жинди өлтүрсөң — кан адамдары, магдан четте болгула!",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "5f1308854f1c29eb210d34e9b38332f8fcb9733b46c0dfa608ccb6c3073ebdf5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/139\/17-20.1791217572404.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Эгер"
+    },
+    {
+      "surface": "תקטל",
+      "gloss": "өлтүрсөң"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Элоах"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "жинди"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "жана... адамдары"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "кан"
+    },
+    {
+      "surface": "סורו",
+      "gloss": "четте болгула"
+    },
+    {
+      "surface": "מני",
+      "gloss": "магдан"
+    }
+  ],
+  "timestamp": "2026-10-05T16:26:12.405212460Z",
+  "model": "glm-5.3"
+}

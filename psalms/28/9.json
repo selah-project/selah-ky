@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 28:9",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "аларды",
+      "rationale": "Ивритте 3-жак мүчө -ам ורעם\/ונשאם ичинде бар, кыргызча так көрсөтүү үчүн толук айтылды"
+    },
+    {
+      "kind": "substitution",
+      "subject": "түбөлүккө",
+      "rationale": "העולם 'жашырылган, эстен чыгып бараткан учур' — убакыттын чексиздиги, 'дүйнө' эмес"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Яхвеге",
+      "rationale": "Зордук-тилек: буйрук формалары менен Кудайга багытталган"
+    }
+  ],
+  "translation": "Элиңди куткар, ⟨את⟩ мурасыңды батала, аларды багып жүр жана аларды көтөрүп жүр түбөлүккө чейин.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "148f3cb8edf9a33d506ebfe46cde3702e171ff4e49225e6ff3010540e0c90737",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/28\/9-9.1791215650604.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הושיעה",
+      "gloss": "куткар"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "элиңди"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "элиңди"
+    },
+    {
+      "surface": "וברך",
+      "gloss": "батала"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "мурасыңды"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "мурасыңды"
+    },
+    {
+      "surface": "ורעם",
+      "gloss": "аларды багып жүр"
+    },
+    {
+      "surface": "ונשאם",
+      "gloss": "аларды көтөрүп жүр"
+    },
+    {
+      "surface": "עד",
+      "gloss": "чейин"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "түбөлүккө"
+    }
+  ],
+  "timestamp": "2026-10-05T15:54:10.604785433Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 13:3",
+  "book": "2-kings",
+  "lang": "ky",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ачуусу күйө түштү",
+      "rationale": "Иврит 'ачуусу күйгөн' — бүт күндөр бою күйөт."
+    },
+    {
+      "kind": "substitution",
+      "subject": "баркыт күндөрү",
+      "rationale": "Иврит 'бардык күндөрү' — 'үзгүлтүксүз' маанисинде."
+    }
+  ],
+  "translation": "Жана Яхвенин ачуусу Йисраэлге күйө түштү, жана аларды Арам падышасы Хазаэлдин колуна жана Хазаэлдин уулу Бен-Хададдын колуна баркыт күндөрү берди.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "03b9f9c9d9298eb2810642908d702e3f68bc60e87e0c50a20643d7fa406224bc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-kings\/13\/1-4.1791209005341.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "күйө түштү"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ачуусу"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Йисраэлге"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "берди"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "колуна"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "Хазаэлдин"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "падышасы"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Арам"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "жана колуна"
+    },
+    {
+      "surface": "בן",
+      "gloss": "уулу"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Хададдын"
+    },
+    {
+      "surface": "בן",
+      "gloss": "уулу"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "Хазаэлдин"
+    },
+    {
+      "surface": "כל",
+      "gloss": "баркыт"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "күндөрү"
+    }
+  ],
+  "timestamp": "2026-10-05T14:03:25.343004576Z",
+  "model": "glm-5.3"
+}

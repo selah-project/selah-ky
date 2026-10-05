@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 15:15",
+  "book": "2-kings",
+  "lang": "ky",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "וקשרו … קשר",
+      "rationale": "Зат equalTo этиш бир тамырдан — «анын төңкөрүшү … төңкөрүп» — уйкаш катмар."
+    },
+    {
+      "kind": "substitution",
+      "subject": "төңкөрүш",
+      "rationale": "קשר — байланыш\/уйгулашуу деген тамыр; саясий «төңкөрүш» мааниси контексттен келет."
+    }
+  ],
+  "translation": "Жана Шаллумдун калган сөздөрү жана ал жасаган төңкөрүшү — алар Йисраэл падышаларынын күндөрүнүн сөздөрүнүн китебине жазылган.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "3c184e8d47edc1543aa1e10f050bd311954b0cfab9943c891f8c67bfbdb7494f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-kings\/15\/13-16.1791209035028.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "жана калганы"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "сөздөрү"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Шаллумдун"
+    },
+    {
+      "surface": "וקשרו",
+      "gloss": "жана анын төңкөрүшү"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ал"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "жасаган"
+    },
+    {
+      "surface": "הנם",
+      "gloss": "алар"
+    },
+    {
+      "surface": "כתבים",
+      "gloss": "жазылган"
+    },
+    {
+      "surface": "על",
+      "gloss": "ичине"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "китебине"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "сөздөрүнүн"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "күндөрүнүн"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "падышаларынын"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэл"
+    }
+  ],
+  "timestamp": "2026-10-05T14:03:55.029273348Z",
+  "model": "glm-5.3"
+}

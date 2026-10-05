@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "joshua 21:30",
+  "book": "joshua",
+  "lang": "ky",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "шаар тизмеси",
+      "rationale": "Левийлерге берилген шаарлардын санак тизмеси: бул аятта эки шаар."
+    },
+    {
+      "kind": "substitution",
+      "subject": "мегрéштер",
+      "rationale": "מגרש — шаардын айланасындагы ачык жайыт жери; «пригород» деген заманбап маани толук эмес."
+    }
+  ],
+  "translation": "Жана Ашер уруусунан ⟨את⟩ Мишалды мегрéштери менен, ⟨את⟩ Абдонду мегрéштери менен.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "54f54ee6f3be70b970de1e36768518d4b6406e29fb9632b25a47a0d01bf229eb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/joshua\/21\/30-31.1791223768534.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "уруусунан"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Ашер"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Мишалды"
+    },
+    {
+      "surface": "משאל",
+      "gloss": "Мишалды"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ жана",
+      "marks": "мегрéштери"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "мегрéштери менен"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Абдонду"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "Абдонду"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ жана",
+      "marks": "мегрéштери"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "мегрéштери менен"
+    }
+  ],
+  "timestamp": "2026-10-05T18:09:28.534749577Z",
+  "model": "glm-5.3"
+}

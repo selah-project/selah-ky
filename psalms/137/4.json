@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 137:4",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 137,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "окурманга",
+      "rationale": "суроо түрүндөгү сөз: байыркы Вавилондогу туткундардын өзүнө-өзү берилген суроосу"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שיר",
+      "rationale": "שיר этиши менен שיר зат аты (poliptoton) бир эле тамырдан — 'ырдайбыз ырды'"
+    }
+  ],
+  "translation": "Яхвенин ⟨את⟩ ырын бөтөн жерде кантип ырдайбыз?",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "695f6efe1d325141a86ae1555f2ec173d783ea81ef847cce39ea48f3f357b923",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/137\/3-4.1791224526998.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "кантип"
+    },
+    {
+      "surface": "נשיר",
+      "gloss": "ырдайбыз"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яхвенин ырын"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "ырын"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстүндө"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "жеринде"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "бөтөн"
+    }
+  ],
+  "timestamp": "2026-10-05T18:22:06.999507825Z",
+  "model": "glm-5.3"
+}

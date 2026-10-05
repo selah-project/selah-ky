@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 21:16",
+  "book": "2-chronicles",
+  "lang": "ky",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "рух",
+      "rationale": "רוח — «шамал\/рух» деген бир сөз; бул жерде элдердин жүрөгүн козгоо мааниси"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ойготту",
+      "rationale": "ויער — «ойготту» деген эң жакын форма; көпчүлүк котормолор «козгоду» деп ийкемдейт"
+    }
+  ],
+  "translation": "Жана Яхве Йорамга каршы ⟨את⟩ пелиштилердин рухун жана кушиттердин жанында турган арабдардын рухун ойготту.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "270b1372386bdb0e525b25a281ff27f89f3e0f1a81a0b28b0c138fc987c6f5ee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-chronicles\/21\/13-16.1791223034572.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויער",
+      "gloss": "ойготту"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "על",
+      "gloss": "каршы"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Йорамга"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "пелиштилердин рухун"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "рухун"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "пелиштилердин"
+    },
+    {
+      "surface": "והערבים",
+      "gloss": "жана арабдардын"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "על",
+      "gloss": "жанында"
+    },
+    {
+      "surface": "יד",
+      "gloss": "жаны"
+    },
+    {
+      "surface": "כושים",
+      "gloss": "кушиттердин"
+    }
+  ],
+  "timestamp": "2026-10-05T17:57:14.574365500Z",
+  "model": "glm-5.3"
+}

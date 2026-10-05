@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "hosea 14:9",
+  "book": "hosea",
+  "lang": "ky",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עניתי",
+      "rationale": "'жооп бердим' (KJV\/JPS) менен 'жазаладым' (YLT) — тамыр ענה эки мааниде колдонулат."
+    },
+    {
+      "kind": "substitution",
+      "subject": "кипарис",
+      "rationale": "כברוש дарактын так түрү белгисиз — кипарис, кызыл карагай же эмен болушу мүмкүн."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨Аны⟩",
+      "rationale": "Ивритте объект коэффициенти жок, кыргызча талап кылат."
+    }
+  ],
+  "translation": "Эфрайим: Мага эмне дагы буттар менен? Мен жооп бердим жана ⟨Аны⟩ көзөмөлдөймүн. Мен жашыл кипариске окшошмун — Менден табылат Сенин мөмөң.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "2ce9cf812abc2731870860f7871dfbf41f17365849ede2823967bad4a3198f7f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/hosea\/14\/9-10.1791213937858.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אפרים",
+      "gloss": "Эфрайим"
+    },
+    {
+      "surface": "מה",
+      "gloss": "эмне"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мага"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "дагы"
+    },
+    {
+      "surface": "לעצבים",
+      "gloss": "буттар менен"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Мен"
+    },
+    {
+      "surface": "עניתי",
+      "gloss": "жооп бердим"
+    },
+    {
+      "surface": "ויבן ואשורנו",
+      "gloss": "жана көзөмөлдөймүн"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Мен"
+    },
+    {
+      "surface": "כברוש",
+      "gloss": "кипариске окшош"
+    },
+    {
+      "surface": "רעанן",
+      "gloss": "жашыл"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "Менден"
+    },
+    {
+      "surface": "פריך",
+      "gloss": "Сенин мөмөң"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "табылат"
+    }
+  ],
+  "timestamp": "2026-10-05T15:25:37.858911224Z",
+  "model": "glm-5.3"
+}

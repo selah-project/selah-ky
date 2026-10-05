@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 7:11",
+  "book": "ezekiel",
+  "lang": "ky",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "кошок",
+      "rationale": "נה — өлгөндөр үчүн кошок жок деген мааниде"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מהם \/ מהמונם \/ מהמהם",
+      "rationale": "үч ми тарабынан түзүлгөн ыргактуу кайталоо — дүүлүккөн үн окшоштугу кыргызча жоголгон"
+    },
+    {
+      "kind": "alternative",
+      "subject": "таягы болуш үчүн",
+      "rationale": "«жамандыктын таягына чейин көтөрүлдү» деген окууга да болот"
+    }
+  ],
+  "translation": "Зордук-зомбулук көтөрүлдү жамандыктын таягы болуш үчүн; алардан калбайт, алардын көпчүлүгүнөн да калбайт, байлыгынан да калбайт, алардын арасында кошок да болбойт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "232762dedd21c3c990a044103486afaaac48be51dd0ffe6bcb309677c34f8ebf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ezekiel\/7\/9-12.1791212117585.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "החמס",
+      "gloss": "зордук-зомбулук"
+    },
+    {
+      "surface": "קם",
+      "gloss": "көтөрүлдү"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "таягы болуш үчүн"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "жамандыктын"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "алардан"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "жана жок"
+    },
+    {
+      "surface": "מהמונם",
+      "gloss": "көпчүлүгүнөн"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "жана жок"
+    },
+    {
+      "surface": "מהמהם",
+      "gloss": "байлыгынан"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "жана жок"
+    },
+    {
+      "surface": "נה",
+      "gloss": "кошок"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "алардын арасында"
+    }
+  ],
+  "timestamp": "2026-10-05T14:55:17.586659003Z",
+  "model": "glm-5.3"
+}

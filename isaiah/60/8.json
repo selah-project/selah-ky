@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 60:8",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 60,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "окурманга",
+      "rationale": "Аят суроо менен окурманды тартат: 'Булар кимдер?' — жооп айтылбайт, күтүү жаралат."
+    },
+    {
+      "kind": "crux",
+      "subject": "ארבתיהם",
+      "rationale": "'Терезелер', 'көгүчкөн уялары' же 'тосмолор' (JPS 'cotes') деген окуулар бар."
+    }
+  ],
+  "translation": "Булар кимдер — булт сыяктуу учуп баратышат, көгүчкөндөр терезелеринин оюктарына сыяктуу?",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "00cb4385c2fef0c074be0944cca7dba7054fe21fb565244ba2bf8776676a51d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/60\/5-8.1791210534603.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "кимдер"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "булар"
+    },
+    {
+      "surface": "כעב",
+      "gloss": "булт сыяктуу"
+    },
+    {
+      "surface": "תעופינה",
+      "gloss": "учуп баратышат"
+    },
+    {
+      "surface": "וכיונים",
+      "gloss": "көгүчкөндөр"
+    },
+    {
+      "surface": "אל",
+      "gloss": "оюктарына"
+    },
+    {
+      "surface": "ארבתיהם",
+      "gloss": "терезелеринин"
+    }
+  ],
+  "timestamp": "2026-10-05T14:28:54.604733142Z",
+  "model": "glm-5.3"
+}

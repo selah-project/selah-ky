@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 13:20",
+  "book": "proverbs",
+  "lang": "ky",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ורעה\/ירוע",
+      "rationale": "эки тамырдын үндөштүгү: 'жайтоо' жана 'бузуу' — кыргызча жоголот"
+    },
+    {
+      "kind": "crux",
+      "subject": "ירוע",
+      "rationale": "'жаман болот' же 'жазык тартат' — KJV 'курат' дейт"
+    }
+  ],
+  "translation": "Даанышман менен бирге жүргөн ⟨את⟩ даанышман болот, ал эми наадандарды ээрчиген жаман болот.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "9f12e9deddf112db526c31462abd0a43af59dbbe6b903eddf374fc951026c0e8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/13\/17-20.1791217980324.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלוך",
+      "gloss": "жүргөн"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "даанышмандар"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "даанышман менен"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "даанышман болот"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "ал эми ээрчиген"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "наадандарды"
+    },
+    {
+      "surface": "ירוע",
+      "gloss": "жаман болот"
+    }
+  ],
+  "timestamp": "2026-10-05T16:33:00.325565452Z",
+  "model": "glm-5.3"
+}

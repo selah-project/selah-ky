@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 8:10",
+  "book": "2-kings",
+  "lang": "ky",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "жашап калбайсың",
+      "rationale": "לא חיה תחיה маселеси: КЖВ\/ЖВВ «албайсың, ай» оң окуу (эвфемизм), YLT «жашабайсың» терс окуу — еврей текстинде «жок» сөзү бар"
+    },
+    {
+      "kind": "secret",
+      "subject": "Яхве мага көрсөттү",
+      "rationale": "Элишага жашыруун билим ачылды — падышанын өлүмү күн мурунтан белгилүү"
+    }
+  ],
+  "translation": "Элиша ага айтты: Бар, ага айт: Жашап калбайсың. Бирок Яхве мага көрсөттү, анткени ал такыр өлөт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "ef3e1dd3ad2524176cd96db34c2bf7bee4578bd8e1282a9356eebfe0349daf89",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-kings\/8\/9-12.1791208862807.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ага"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Элиша"
+    },
+    {
+      "surface": "לך",
+      "gloss": "бар"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "айт"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "жашап"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "калбайсың"
+    },
+    {
+      "surface": "והראני",
+      "gloss": "мага көрсөттү"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "מות",
+      "gloss": "такыр"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "өлөт"
+    }
+  ],
+  "timestamp": "2026-10-05T14:01:02.808297243Z",
+  "model": "glm-5.3"
+}

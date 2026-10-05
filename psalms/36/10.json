@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 36:10",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "биз",
+      "rationale": "נראה этишдин көптүк сан 1-жаак мааниси кыргызча «биз» ат атоочун талап кылат"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨бар⟩",
+      "rationale": "ивритте «бар» деген связка жок, кыргызча сүйлөм аны талап кылат"
+    }
+  ],
+  "translation": "Себеби Сенин үстүңдө ⟨бар⟩ жашоонун булагы, Сенин жарыгыңда биз жарыкты көрөбүз.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "770e5f4e7b6cd2b3a2e29726d5bc1fe99ae4427a2ffaeba58196f77c6a6039b6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/36\/9-12.1791215813367.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "себеби"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "Сенин үстүңдө"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "булагы"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "жашоонун"
+    },
+    {
+      "surface": "באורך",
+      "gloss": "Сенин жарыгыңда"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "биз көрөбүз"
+    },
+    {
+      "surface": "אור",
+      "gloss": "жарыкты"
+    }
+  ],
+  "timestamp": "2026-10-05T15:56:53.368655519Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 27:8",
+  "book": "job",
+  "lang": "ky",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жан",
+      "rationale": "נפש is breathing creature \/ life-force, 'жан' is the nearest Kyrgyz equivalent"
+    },
+    {
+      "kind": "crux",
+      "subject": "יבצע",
+      "rationale": "'Cut off \/ plunder \/ gain (profit)': KJV 'gained' vs 'cut off' — rendered 'кесилип калса'"
+    },
+    {
+      "kind": "elision",
+      "subject": "כי (second)",
+      "rationale": "Second of three כי particles absorbed into the conditional clause"
+    }
+  ],
+  "translation": "Анткени экижүзөрдүн үмүтү эмне, кесилип калса, анткени Элоах анын жанын сууруп алса?",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "0934fe33eea176bbf262959dfada883b99561d0ad27bccec034829090a68ff18",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/job\/27\/5-8.1791219103784.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "מה",
+      "gloss": "эмне"
+    },
+    {
+      "surface": "תקות",
+      "gloss": "үмүтү"
+    },
+    {
+      "surface": "חנף",
+      "gloss": "экижүзөрдүн"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "יבצע",
+      "gloss": "кесилип калса"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "ישל",
+      "gloss": "сууруп алса"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Элоах"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "анын жанын"
+    }
+  ],
+  "timestamp": "2026-10-05T16:51:43.785519753Z",
+  "model": "glm-5.3"
+}

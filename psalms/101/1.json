@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 101:1",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 101,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "хесед",
+      "rationale": "חסед 'ырайым' гана эмес — өзөктүк берилгендик сөзү, транслитерациялоо тандоосу"
+    },
+    {
+      "kind": "you",
+      "subject": "Яхвеге",
+      "rationale": "Үн айтылуусу Сага, Яхве деп багытталган"
+    }
+  ],
+  "translation": "Давиддин мизмору. Хесед жана өкүм жөнүндө ырдайын, Сага, Яхве, аспап кошуп ырдайын.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "b37b7a31c7fe5bf7e64765e12cc69d9d01b60ee2f2abe042d573610044072146",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/101\/1-4.1791216996117.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Давиддин"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "мизмору"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "хесед"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "жана өкүм"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "ырдайын"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Сага"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "аспап кошуп ырдайын"
+    }
+  ],
+  "timestamp": "2026-10-05T16:16:36.117926201Z",
+  "model": "glm-5.3"
+}

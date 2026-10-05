@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 42:25",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "сак",
+      "rationale": "שַׂק — кесе кездеме, тыгыз байланган, «корпо» сөзүнүн жакын таржымасы"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨буйрук⟩",
+      "rationale": "инфинитивдер кыймылсыз этиштин ордуна кыргызча керек болчу, ויצו түрмөгүнөн берилген"
+    }
+  ],
+  "translation": "Жана Йосеф буйруктаган, жана алар ⟨את⟩ идиштерин дандын менен толтура турган болгон, жана ар бир киши өз корпосуна ⟨буйрук⟩ өз күмүшүн кайтарыла турган, жана жолго азык берилүүчү — жана аларга ошондой кылынган.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "5b2c2532268a728f4de13a3d490d068f1393487141b4259f70dc2c85d84a3278",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/42\/25-28.1791201664968.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "буйруктаган"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосеф"
+    },
+    {
+      "surface": "וימלאו",
+      "gloss": "толтура турган болгон"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "идиштерин"
+    },
+    {
+      "surface": "כליהם",
+      "gloss": "идиштерин"
+    },
+    {
+      "surface": "בר",
+      "gloss": "дан"
+    },
+    {
+      "surface": "ולהשיב",
+      "gloss": "кайтарыла турган"
+    },
+    {
+      "surface": "כספיהם",
+      "gloss": "күмүшүн"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ар бир киши"
+    },
+    {
+      "surface": "אל",
+      "gloss": "өз"
+    },
+    {
+      "surface": "שקו",
+      "gloss": "корпосуна"
+    },
+    {
+      "surface": "ולתת",
+      "gloss": "берилүүчү"
+    },
+    {
+      "surface": "להם",
+      "gloss": "аларга"
+    },
+    {
+      "surface": "צדה",
+      "gloss": "азык"
+    },
+    {
+      "surface": "לדרך",
+      "gloss": "жолго"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "кылынган"
+    },
+    {
+      "surface": "להם",
+      "gloss": "аларга"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ошондой"
+    }
+  ],
+  "timestamp": "2026-10-05T12:01:04.969643416Z",
+  "model": "glm-5.3"
+}

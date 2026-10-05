@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 105:42",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Өзүнүн",
+      "rationale": "Еврейче ээлик мүчө жок, кыргызча тактык үчүн кошулду"
+    }
+  ],
+  "translation": "Анткени Ал ⟨את⟩ Өзүнүн ыйык сөзүн эстеди, ⟨את⟩ кулу Аврахамды.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "3bcf3e91c9d8187e15f2e68267f20a63cb29afad7a7819666188127303ab1450",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/105\/41-44.1791217069139.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "эстеди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Өзүнүн ыйык сөзүн"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сөзүн"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "ыйык"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "кулу Аврахамды"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Аврахам"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "кулу"
+    }
+  ],
+  "timestamp": "2026-10-05T16:17:49.141830776Z",
+  "model": "glm-5.3"
+}

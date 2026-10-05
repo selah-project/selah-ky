@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 17:1",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "משא",
+      "rationale": "«Жүк» — пайгамбарлык оракулдин аталышы, бүтө турган жүк маанисинде."
+    },
+    {
+      "kind": "substitution",
+      "subject": "урандылардын дөбөсү",
+      "rationale": "מעי מפלа — эки сөз: «калаңдын урандысы, кулаган нерссе»; кыргызча бир аталыш менен берилди."
+    }
+  ],
+  "translation": "Дамаск жүгү. Макул, Дамаск шаар болуудан алынат жана ал урандылардын дөбөсү болот.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "33aebae5b3414892baed01785e786de29ff4cfa4e594b2de95438ce9123fbf95",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/17\/1-4.1791209724354.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "жүгү"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Дамаск"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Макул"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Дамаск"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "алынат"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "шаар болуудан"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "жана болот"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "урандылардын дөбөсү"
+    },
+    {
+      "surface": "מפלה",
+      "gloss": "кулаган жер"
+    }
+  ],
+  "timestamp": "2026-10-05T14:15:24.354772108Z",
+  "model": "glm-5.3"
+}

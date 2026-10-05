@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 40:15",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "גנב גנבתי",
+      "rationale": "этиштин абсолюттук инфинитиви + өткөн чак бир тамырды кайталоо — 'уурлап уурланыпмын', кыргызча бир этишге жыйылды"
+    },
+    {
+      "kind": "alternative",
+      "subject": "чуңкур",
+      "rationale": "בור — 'ор, чуңкур' да, 'абак' да мааниде; түпкү сөз жер оюгу болгондуктан 'чуңкур' тандылды"
+    }
+  ],
+  "translation": "Анткени мен еврейлердин жеринен уурланып алынганмын, жана бул жерде да эч нерсе кылган жокмун — анткени алар ⟨את⟩ мени чуңкурга салышты.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "39df6fa2df1ffe5b3e1206a49dcb5613fc19ead10ea9e416bc425122b612a1ec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/40\/13-16.1791201578410.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "уурлап"
+    },
+    {
+      "surface": "גנבתי",
+      "gloss": "уурланыпмын"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "жеринен"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "еврейлердин"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "да"
+    },
+    {
+      "surface": "פה",
+      "gloss": "бул жерде"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "кылган"
+    },
+    {
+      "surface": "мאומה",
+      "gloss": "эч нерсе"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "салышты"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "мени"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "чуңкурга"
+    }
+  ],
+  "timestamp": "2026-10-05T11:59:38.411147642Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 23:25",
+  "book": "deuteronomy",
+  "lang": "ky",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жан-жүрөгүңө ылайык",
+      "rationale": "כנפשך букв. 'жаныңа ылайык' — нефеш дем-жан маанисинде"
+    },
+    {
+      "kind": "elision",
+      "subject": "לא תתן",
+      "rationale": "'бербең' этүүчүсүз айтылган, объект (жүзүм) алдынкы аяттан келет"
+    }
+  ],
+  "translation": "Эгер түшкүң келсе жөнөсөң бир тууганыңдын жүзүм багына, жүзүм жесең жан-жүрөгүңө ылайык, ток тоюуга чейин, бирок идишиңе салба.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "46e2fc80679570dcdf66269e774d7577a2fdb49e2dfdec9b72811722e975a34d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/23\/25-26.1791205192610.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Эгер"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "килсең"
+    },
+    {
+      "surface": "בכרם",
+      "gloss": "жүзүм багына"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "бир тууганыңдын"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "жана жесең"
+    },
+    {
+      "surface": "ענבים",
+      "gloss": "жүзүм"
+    },
+    {
+      "surface": "кנפשך",
+      "gloss": "жан-жүрөгүңө ылайык"
+    },
+    {
+      "surface": "שבעך",
+      "gloss": "ток тоюуга чейин"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "бирок ... ичине"
+    },
+    {
+      "surface": "כליך",
+      "gloss": "идишиңе"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "салба"
+    }
+  ],
+  "timestamp": "2026-10-05T12:59:52.610619027Z",
+  "model": "glm-5.3"
+}

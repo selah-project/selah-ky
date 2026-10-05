@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "genesis 41:43",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "אברך",
+      "rationale": "Аврех — Танахта бир гана жерде кездешет; маанисе белгисиз, үн чакыруу катары калтырылды"
+    },
+    {
+      "kind": "crux",
+      "subject": "Аврех",
+      "rationale": "'тиз чөк' (KJV), 'сак бол' же египетче наам — котормочулар макул эмес"
+    },
+    {
+      "kind": "substitution",
+      "subject": "башчы кылып",
+      "rationale": "נתון 'коюу' — 'башчы кылып коюу' кыргызча туюм үчүн ачылып берилди"
+    }
+  ],
+  "translation": "Жана аны ⟨את⟩ өзүнүн экинчи арабасына мингизди, жана анын алдында Аврех деп кыйкырышты жана ⟨את⟩ аны бүткүл Мицрайим жерине башчы кылып койду.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "7f2d25a22a4a16c096db20bb15aa8f88dca21e5e26073dc87360a18dc3844d3f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/41\/41-44.1791201621053.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירכב",
+      "gloss": "Жана ... мингизди"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "аны"
+    },
+    {
+      "surface": "במרכבת",
+      "gloss": "...арабасына"
+    },
+    {
+      "surface": "המשנה",
+      "gloss": "экинчи"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "...нын"
+    },
+    {
+      "surface": "לו",
+      "gloss": "өзүнүн"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "жана ... кыйкырышты"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "анын алдында"
+    },
+    {
+      "surface": "אברך",
+      "gloss": "Аврех"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "жана ... койду"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "аны"
+    },
+    {
+      "surface": "על",
+      "gloss": "...не"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүткүл"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "жерине"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицрайим"
+    }
+  ],
+  "timestamp": "2026-10-05T12:00:21.054137726Z",
+  "model": "glm-5.3"
+}

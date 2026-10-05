@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 91:6",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 91,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "кыйроо",
+      "rationale": "מקטב «кыйроо» — бул сөз Танахта сейрек кездешет"
+    },
+    {
+      "kind": "addition",
+      "subject": "коркпойсүң",
+      "rationale": "Кыргызча сүйлөмдү бүтүрүү үчүн 5-аяттагы этиш кайра кошулду"
+    }
+  ],
+  "translation": "Караңгылыкта баскан көтөрүлүү оорудан да, түшкү чакта талкалоочу кыйроодан да коркпойсүң.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "82c889abb6220a00396e68e83043cf48610b5411a0092f94e088d667499849bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/91\/5-8.1791216905883.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מדבר",
+      "gloss": "көтөрүлүү оорудан"
+    },
+    {
+      "surface": "באפל",
+      "gloss": "караңгылыкта"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "баскан"
+    },
+    {
+      "surface": "מקטב",
+      "gloss": "кыйроодан"
+    },
+    {
+      "surface": "ישוד",
+      "gloss": "талкалоочудан"
+    },
+    {
+      "surface": "צהרים",
+      "gloss": "түшкү чакта"
+    }
+  ],
+  "timestamp": "2026-10-05T16:15:05.883945067Z",
+  "model": "glm-5.3"
+}

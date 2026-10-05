@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 55:19",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 55,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жанымды",
+      "rationale": "נפש — «дем алуучу жандык, жандуулук»; кыргызча «жан» эң жакын, бирок тамыры «тамак\/дем» маанисин да алып жүрөт"
+    },
+    {
+      "kind": "crux",
+      "subject": "מקרב לי",
+      "rationale": "«мага жакын болгон жоодон» — КЖВ «менге каршы согуштан»; башка окуу: «мага жакындагандан» жакын дос — байланыштын 55:13 менен"
+    }
+  ],
+  "translation": "Тынчтыкта жанымды мага жакын болгон жоодон куткарды, анткени көптөр мени менен болушту.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "03089fa690ceb4cc390aed7e37234b2d852d3d45d6ac9677d04381b2078298d5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/55\/18-19.1791224444419.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פדה",
+      "gloss": "куткарды"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "тынчтыкта"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "жанымды"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "жоодон"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мага"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "ברבים",
+      "gloss": "көптөр"
+    },
+    {
+      "surface": "היו",
+      "gloss": "болушту"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "мени менен"
+    }
+  ],
+  "timestamp": "2026-10-05T18:20:44.419773312Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 15:5",
+  "book": "1-kings",
+  "lang": "ky",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨Анын⟩",
+      "rationale": "еврейче жашыруун субъектти ачык кылуу үчүн ат атооч кошулду"
+    },
+    {
+      "kind": "idiom",
+      "subject": "כל ימי חייו",
+      "rationale": "өмүрүнүн бардык күндөрү — туура сакталды, бирок идиома катары түшүнүлөт"
+    }
+  ],
+  "translation": "анткени Давид Яхвенин көз алдында ⟨את⟩ түз жолду жасаган, жана ⟨Анын⟩ буйруктаган нерселеринин биринен да өмүрүнүн бардык күндөрүндө четке кагылган эмес, Урия хеттинин иши боюнча гана.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "592292ba27bbb9b76e475724a09624f5659062f79c10a8e0ba7b47de84c8c75f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-kings\/15\/5-8.1791208409862.json",
+    "code": "641241cf-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "жасаган"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "түз жолду"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "түз жолду"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "көз алдында"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "жана эмес"
+    },
+    {
+      "surface": "סר",
+      "gloss": "четке кагылган"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "биринен да"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "нерселеринин"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "буйруктаган"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бардык"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "күндөрүндө"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "өмүрүнүн"
+    },
+    {
+      "surface": "רק",
+      "gloss": "гана"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "ишинде"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Урия"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "хеттинин"
+    }
+  ],
+  "timestamp": "2026-10-05T13:53:29.863561207Z",
+  "model": "glm-5.3"
+}

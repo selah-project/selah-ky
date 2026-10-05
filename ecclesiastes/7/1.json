@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 7:1",
+  "book": "ecclesiastes",
+  "lang": "ky",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "מן сравнительный",
+      "rationale": "еврейче «майдан» \/ «күндөн» — салыштырма мүчө кыргызча -дан мүчөсү аркылуу берилди"
+    }
+  ],
+  "translation": "Жакшы ат жакшы майдан да жакшы, жана өлүм күнү төрөлгөн күндөн да жакшы.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "88416ebfdb9190a4ed711f197ac7969d1185e9aba19ea520cb1612e01ed1de8b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ecclesiastes\/7\/1-4.1791220107138.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "жакшы"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ат"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "жакшы майдан"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "жакшы"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "жана өлүм күнү"
+    },
+    {
+      "surface": "המות",
+      "gloss": "өлүм"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "…күндөн"
+    },
+    {
+      "surface": "הולדו",
+      "gloss": "төрөлгөн"
+    }
+  ],
+  "timestamp": "2026-10-05T17:08:27.139719490Z",
+  "model": "glm-5.3"
+}

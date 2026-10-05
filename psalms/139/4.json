@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 139:4",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 139,
+  "notes": [
+    {
+      "kind": "secret",
+      "subject": "айтылбаган сөз",
+      "rationale": "Сөз тилге келгенге чейин эле билинди — жашыруун нерсенин ачык билиниши."
+    }
+  ],
+  "translation": "Анткызы, тилимде бир да сөз жок — ана, Яхве, Сен анын баарын билесиң.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "a4b3baebe4f921a8458c1fba214a9e6e34489db7b93a8b2a4c0af9d83bb54218",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/139\/1-4.1791217538569.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "анткызы"
+    },
+    {
+      "surface": "אין",
+      "gloss": "жок"
+    },
+    {
+      "surface": "מלה",
+      "gloss": "бир да сөз"
+    },
+    {
+      "surface": "בלשוני",
+      "gloss": "тилимде"
+    },
+    {
+      "surface": "הן",
+      "gloss": "ана"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "Сен билесиң"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "анын баарын"
+    }
+  ],
+  "timestamp": "2026-10-05T16:25:38.570563933Z",
+  "model": "glm-5.3"
+}

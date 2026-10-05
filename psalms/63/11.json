@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 63:11",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 63,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יגירהו",
+      "rationale": "נגר «төкүү» — «кылычка төгүлөт» (JPS « hurl») же «кылычка берилүүт» (ASV); YLT «кылычтын мизинен куулуп барат» деп окуп чыгат"
+    },
+    {
+      "kind": "substitution",
+      "subject": "түлкүлөрдүн",
+      "rationale": "שועלים байыркы контекстте «карышкыр\/чөө» маанисинде да айтылат — чөлдөгы өлүктү жеген жаныбар"
+    }
+  ],
+  "translation": "Алар кылычка төгүлөт, түлкүлөрдүн үлүшү болушат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "a6bd11b0433fd2e8ac46bc2ccb62e89be14c7c212bf14565ba135586b13f9937",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/63\/9-12.1791216306682.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יגירהו",
+      "gloss": "төгүлөт"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨толуктап⟩"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "кылычка"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "кылыч"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "үлүшү"
+    },
+    {
+      "surface": "שעלים",
+      "gloss": "түлкүлөрдүн"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "болушат"
+    }
+  ],
+  "timestamp": "2026-10-05T16:05:06.683609613Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 86:15",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 86,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "арех апаим",
+      "rationale": "букм. «узун муртоктор» — ачуусу жай, кеч ачуулануучу деген идиома"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨сиң⟩",
+      "rationale": "жөнөкөй сүйлөм үчүн этиш мүчөсү кошулду"
+    }
+  ],
+  "translation": "Ал эми Сен, Адонай, боорукер жана ырайымдуу Элсиң, ачуусу жай, хеседи жана чындыкка бай.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "28e4508dd72a495706bf46f85e5fe8856fb730f4d487a8579c269f22b6899e6a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/86\/13-16.1791216749833.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Ал эми Сен"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эл"
+    },
+    {
+      "surface": "רחום",
+      "gloss": "боорукер"
+    },
+    {
+      "surface": "וחנון",
+      "gloss": "жана ырайымдуу"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "жай"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "ачуусу"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "жана бай"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "хеседи"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "жана чындыкка"
+    }
+  ],
+  "timestamp": "2026-10-05T16:12:29.834841216Z",
+  "model": "glm-5.3"
+}

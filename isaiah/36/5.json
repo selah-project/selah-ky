@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 36:5",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אמרתי אך דבר שפתים",
+      "rationale": "Ким айтып жатканы так эмес: Равшакең Хизкиянын сөзүн шылдыңдап айтып жаткан («Мен айттым: эриндердин сөзү гана») же Хизкия айткан деп салыштырып жаткан; KJV «I say, sayest thou» башка бөлүштүрөт."
+    },
+    {
+      "kind": "substitution",
+      "subject": "бул — эриндердин сөзү гана",
+      "rationale": "Кыргызча кошумча «бул» жана тынтык «—» коюлду; еврей текстинде айтылыш түз байланышкан."
+    },
+    {
+      "kind": "you",
+      "subject": "кимге таяндың",
+      "rationale": "Равшакең Хизкияга түз кайрылат."
+    }
+  ],
+  "translation": "Мен айттым: бул — эриндердин сөзү гана; согуш үчүн кеңеш жана күч керек. Азыр кимге таяндың, анткени менден көтөрүлдүң?",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "41d676a5ef2f3a0e6b03ec7bfe7ae42995ac5b051b28f26855d4c9caf65334d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/36\/5-8.1791210109300.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "Мен айттым"
+    },
+    {
+      "surface": "אך",
+      "gloss": "гана"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сөз"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "эриндердин"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "кеңеш"
+    },
+    {
+      "surface": "וגבורה",
+      "gloss": "жана күч"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "согуш үчүн"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "азыр"
+    },
+    {
+      "surface": "על",
+      "gloss": "…ге"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ким"
+    },
+    {
+      "surface": "בטחת",
+      "gloss": "таяндың"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "מרדת",
+      "gloss": "көтөрүлдүң"
+    },
+    {
+      "surface": "בי",
+      "gloss": "менден"
+    }
+  ],
+  "timestamp": "2026-10-05T14:21:49.300664271Z",
+  "model": "glm-5.3"
+}

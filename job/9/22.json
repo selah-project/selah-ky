@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 9:22",
+  "book": "job",
+  "lang": "ky",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Ал",
+      "rationale": "כלה этиштин ээси текстте ачык жок, ⟨Ал⟩ катары коюлду"
+    },
+    {
+      "kind": "crux",
+      "subject": "אחת היא",
+      "rationale": "«Бир нерсe» — «баары бир» же «бир чекит» катары да okулот (KJV\/Geneva)"
+    }
+  ],
+  "translation": "Баары бир — ошондуктан айттым: накты да, жаманды да ⟨Ал⟩ талкалайт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "9b6f0e8d0542a14d9beb5e377d417d830099ae0a355d847623f42790cc606821",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/job\/9\/21-24.1791218729760.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "Баары бир"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨бул⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "ошондуктан"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ошентип"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "айттым"
+    },
+    {
+      "surface": "תם",
+      "gloss": "накты"
+    },
+    {
+      "surface": "ורשע",
+      "gloss": "жаманды да"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Ал"
+    },
+    {
+      "surface": "מכלה",
+      "gloss": "талкалайт"
+    }
+  ],
+  "timestamp": "2026-10-05T16:45:29.761434750Z",
+  "model": "glm-5.3"
+}

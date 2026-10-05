@@ -1,0 +1,142 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 18:19",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "цедек",
+      "rationale": "צדקה rendered as loanword 'цедек' per discipline, not 'адилеттик'"
+    },
+    {
+      "kind": "crux",
+      "subject": "ידעתיו",
+      "rationale": "'I have known him' vs 'I have chosen him' (BSB); Hebrew ידע = intimate knowing"
+    },
+    {
+      "kind": "addition",
+      "subject": "алар",
+      "rationale": "Subject pronoun 'алар' added to clarify who keeps the way of YHWH; Hebrew leaves it implicit"
+    }
+  ],
+  "translation": "Анткени Мен аны билем — ошондуктан ал ⟨את⟩ уулдарына жана ⟨את⟩ өзүнөн кийинки үй-бүлөсүнө буйрук берет, алар Яхвенин жолун сактап, цедек жана өкүм жасашы үчүн; ошондуктан Яхве Аврахамга өзү тууралуу айткан ⟨את⟩ нерселерди алып келсин.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "30fc63de129fd5a53448b3993e9ed6eafa2881d3c70312d96c097918b8545aac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/18\/17-20.1791201025466.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Анткени"
+    },
+    {
+      "surface": "ידעתיו",
+      "gloss": "Мен аны билем"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ошондуктан"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "буйрук берет"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "уулдарына"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "уулдарына"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "жана ⟨את⟩",
+      "marks": "үй-бүлөсүнө"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "үй-бүлөсүнө"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "өзүнөн кийинки"
+    },
+    {
+      "surface": "ושמרו",
+      "gloss": "алар сактап"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "жолун"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "жасашы үчүн"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "цедек"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "жана өкүм"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ошондуктан"
+    },
+    {
+      "surface": "הביא",
+      "gloss": "алып келсин"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "על",
+      "gloss": "Аврахамга"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Аврахамга"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "нерселерди"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "нерселерди"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "айткан"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "өзү тууралуу"
+    }
+  ],
+  "timestamp": "2026-10-05T11:50:25.467702844Z",
+  "model": "glm-5.3"
+}

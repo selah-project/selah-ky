@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-samuel 15:29",
+  "book": "1-samuel",
+  "lang": "ky",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נצח",
+      "rationale": "Нецах — 'түбөлүктүүлүк\/белиги\/күчү': KJV 'Strength', JPS 'Glory', YLT 'Pre-eminence'; бул жерде Элохимдин наамы, ошондуктан транскрипция менен берилди"
+    },
+    {
+      "kind": "substitution",
+      "subject": "өкүнбөйт",
+      "rationale": "נחם — 'күңүлүн буруу, оор тартуу'; кыргызча 'өкүнүү' маанины бир аз тарлатат"
+    },
+    {
+      "kind": "alternative",
+      "subject": "Нецахы",
+      "rationale": "'Йисраэлдин кубаттуулугу' да мүмкүн, бирок неологиялык наам текстке жабылышы үчүн айтылышын сактадым"
+    }
+  ],
+  "translation": "жана дагы Йисраэлдин Нецахы жалган айтпайт жана өкүнбөйт, анткени ал — адам эмес, өкүнүү үчүн.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "3f18b0421dd3e0ed1bb12f5cd1505c7683195b2685a70c11b338d4a6e86b90ee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-samuel\/15\/29-32.1791206888805.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "жана дагы"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "Нецахы"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэлдин"
+    },
+    {
+      "surface": "לא",
+      "gloss": "антпайт"
+    },
+    {
+      "surface": "ישקר",
+      "gloss": "жалган"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "жана өкүнбөйт"
+    },
+    {
+      "surface": "ינחם",
+      "gloss": "өкүнбөйт"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "לא",
+      "gloss": "эмес"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "адам"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ал"
+    },
+    {
+      "surface": "להנחם",
+      "gloss": "өкүнүү үчүн"
+    }
+  ],
+  "timestamp": "2026-10-05T13:28:08.805734886Z",
+  "model": "glm-5.3"
+}

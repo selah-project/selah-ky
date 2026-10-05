@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 3:7",
+  "book": "1-kings",
+  "lang": "ky",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to YHWH",
+      "rationale": "Шломо Яхвеге — Өз Элохимине — түз кайрылат."
+    },
+    {
+      "kind": "idiom",
+      "subject": "чыгышымды жана кирүүмдү",
+      "rationale": "צאת ובא — башкаруу\/жүрүм-турум идиомасы, 'эмне кылууну билбейм' деген мааниде."
+    }
+  ],
+  "translation": "Жана азыр, Яхве, Элохимим, Сен ⟨את⟩ Өз кулуңду Давид — атамдын — ордуна падыша кылдың, ал эми мен кичине жаш бала катары чыгышымды жана кирүүмдү билбеймин.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "bccd5e60c117f8d7618d0255d2422c3d14fd8ae715829592ba9575c8d035ba84",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-kings\/3\/5-8.1791208011392.json",
+    "code": "641241cf-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Жана азыр"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Элохимим"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Сен"
+    },
+    {
+      "surface": "המלכת",
+      "gloss": "падыша кылдың"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Өз кулуңду"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "кулуңду"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ордуна"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "атамдын"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "ал эми мен"
+    },
+    {
+      "surface": "נער",
+      "gloss": "бала"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "кичине жаш"
+    },
+    {
+      "surface": "לא",
+      "gloss": "билбеймин — эмес"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "билбеймин"
+    },
+    {
+      "surface": "צאת",
+      "gloss": "чыгышымды"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "жана кирүүмдү"
+    }
+  ],
+  "timestamp": "2026-10-05T13:46:51.393092532Z",
+  "model": "glm-5.3"
+}

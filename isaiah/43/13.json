@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 43:13",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Ошол",
+      "rationale": "Еврейче эташ этүүчү этиш жок; Мен — Ошол деген конструкция керек"
+    },
+    {
+      "kind": "crux",
+      "subject": "אפעל",
+      "rationale": "'Мен иштеймин' (үчүнчү жак айтым, жөнөкөй келер чак) менен 'Мен кыламын' деген варианттар бар"
+    },
+    {
+      "kind": "mystery",
+      "subject": "аяттын өзү",
+      "rationale": "Kim аны артка бура алат — жоопсуз калган суроо, күч катары айтылган"
+    }
+  ],
+  "translation": "Дагы күндүн өзүнөн бери Мен — ⟨Ошол⟩, жана Менин колумдан куткара турган ⟨жок⟩; Мен иштеймин, жана ким аны артка бура алат?",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "a025a3c1177220ce017b475ab165d8d4b78e00be61537f3e97ad32d620f83671",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/43\/13-16.1791210157132.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Дагы"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "күндүн өзүнөн бери"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Мен"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Ошол"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "жана … жок"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "Менин колумдан"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "куткара турган"
+    },
+    {
+      "surface": "אפעל",
+      "gloss": "иштеймин"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "жана ким"
+    },
+    {
+      "surface": "ישיבנה",
+      "gloss": "аны артка бура алат"
+    }
+  ],
+  "timestamp": "2026-10-05T14:22:37.133207892Z",
+  "model": "glm-5.3"
+}

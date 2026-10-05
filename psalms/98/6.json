@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 98:6",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 98,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "күүлөп кыйкырыңар",
+      "rationale": "הריעו — букв. 'кулак уруп кыйкыруу', 'кулагды жарып'; кыргызча 'күүлөп кыйкыруу' деген эң жакын сөз"
+    },
+    {
+      "kind": "you",
+      "subject": "кыйкырыңар",
+      "rationale": "Көптүк санга берилген буйрук — ыйык кызмат кылуучуларга\/элге кайрылуу"
+    },
+    {
+      "kind": "elision",
+      "subject": "לפני",
+      "rationale": "Букв. 'жүзүнүн алдында' — 'алдында' кыскартылды"
+    }
+  ],
+  "translation": "Хацоцероттор менен жана шофар үнү менен падыша Яхвенин алдында күүлөп кыйкырыңар.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "33b4bb28e6b2a96085e66135eb8b56a4ceb013eedb672d80b0585bbc053d635b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/98\/6-7.1791224497875.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בחצצרות",
+      "gloss": "хацоцероттор менен"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "жана үнү"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "шофар"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "күүлөп кыйкырыңар"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "алдында"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "падыша"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    }
+  ],
+  "timestamp": "2026-10-05T18:21:37.876219089Z",
+  "model": "glm-5.3"
+}

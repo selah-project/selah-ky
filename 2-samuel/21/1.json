@@ -1,0 +1,150 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 21:1",
+  "book": "2-samuel",
+  "lang": "ky",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "бетин издеди",
+      "rationale": "literally 'sought the face of Яхве', an idiom for inquiring of God; kept partly literal"
+    },
+    {
+      "kind": "substitution",
+      "subject": "кан үй-бүлөсү",
+      "rationale": "בית הדמים is literally 'house of bloods', a construct chain rendered as one phrase"
+    },
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "rationale": "the preposition 'to\/at' is absorbed into the dative case ending -га on Шаул and rendered as the pause of the direct speech"
+    },
+    {
+      "kind": "measurement",
+      "subject": "үч жыл, жылдан кийин жыл",
+      "rationale": "counting of years, repeated שנה three times"
+    }
+  ],
+  "translation": "Давиддин күндөрүндө үч жыл ачарчылык болду, жылдан кийин жыл; жана Давид Яхвенин бетин издеди, жана Яхве айтты: Шаулга жана ⟨את⟩ анын кан үй-бүлөсүнө, анткени ал ⟨את⟩ гивониттерди өлтүргөн.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "20c2868b665c4622140a1657fb7101e51e5e4c34b72231e31306dcef9f9d3d92",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-samuel\/21\/1-4.1791207825033.json",
+    "code": "641241cf-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "болду"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "ачарчылык"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "күндөрүндө"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давиддин"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "үч"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "жыл"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "жыл"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "кийин"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "жыл"
+    },
+    {
+      "surface": "ויבקש",
+      "gloss": "издеди"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яхвенин бетин"
+    },
+    {
+      "surface": "פני",
+      "gloss": "бетин"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "жана айтты"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаулга"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "жана"
+    },
+    {
+      "surface": "בית",
+      "gloss": "үй-бүлөсүнө"
+    },
+    {
+      "surface": "הדמים",
+      "gloss": "кан"
+    },
+    {
+      "surface": "על",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "המית",
+      "gloss": "өлтүргөн"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "гивониттерди"
+    },
+    {
+      "surface": "הגבענים",
+      "gloss": "гивониттерди"
+    }
+  ],
+  "timestamp": "2026-10-05T13:43:45.034116051Z",
+  "model": "glm-5.3"
+}

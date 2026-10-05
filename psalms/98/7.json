@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 98:7",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 98,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "гүүлөсүн",
+      "rationale": "ירעם — күн күркүрөгөндөй 'күүлдөө, гүүлдөө'; деңиздин добушу катары"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ירעם \/ הריעו (98:6)",
+      "rationale": "Эки аяттагы 'кыйкыруу' жана 'гүүлдөө' бир тамырдан (רוע\/רעם) окшош үн берет"
+    },
+    {
+      "kind": "alternative",
+      "subject": "каалоо мааниси",
+      "rationale": "Ивритте жөнөкөй өткөн чак: 'деңиз гүүлдөйт' — котормо 'гүүлөсүн' деп буйрук-каалоо маанисин берет"
+    }
+  ],
+  "translation": "Деңиз жана анын толуктугу гүүлөсүн, дүйнө жана анын ичинде жашагандар.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "33b4bb28e6b2a96085e66135eb8b56a4ceb013eedb672d80b0585bbc053d635b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/98\/6-7.1791224497875.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ירעם",
+      "gloss": "гүүлөсүн"
+    },
+    {
+      "surface": "הים",
+      "gloss": "деңиз"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "жана анын толуктугу"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "дүйнө"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "жана ... жашагандар"
+    },
+    {
+      "surface": "בה",
+      "gloss": "анын ичинде"
+    }
+  ],
+  "timestamp": "2026-10-05T18:21:37.876414451Z",
+  "model": "glm-5.3"
+}

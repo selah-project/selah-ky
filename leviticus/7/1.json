@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 7:1",
+  "book": "leviticus",
+  "lang": "ky",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨—⟩",
+      "rationale": "Кыргыз тили ээлик байланыш үчүн тирек талап кылат, еврейче жок"
+    },
+    {
+      "kind": "substitution",
+      "subject": "айып курмандыгы",
+      "rationale": "האשם — айып жана ошол айып үчүн курмандык, эки маани бир сөздө"
+    }
+  ],
+  "translation": "Жана бул — айып курмандыгынын Торасы: ал ыйыктардын ыйыгы.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "000c27701f6384e678ace380bcde0df4f5c26af47cf542d345bf65d8bb2cc244",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/7\/1-4.1791202898564.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "жана бул"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Торасы"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "айып курмандыгынын"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ыйыгы"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "ыйыктардын"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ал"
+    }
+  ],
+  "timestamp": "2026-10-05T12:21:38.565384288Z",
+  "model": "glm-5.3"
+}

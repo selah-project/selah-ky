@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-samuel 19:32",
+  "book": "2-samuel",
+  "lang": "ky",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "את בירדן",
+      "rationale": "Кыргызча «Иордандын ары жагына» деген_preposition עבר жок — еврейче עבר את הירדן «Иордандын ары жагы» дегенди түшүндүрөт"
+    }
+  ],
+  "translation": "Жана Гиладдык Барзилай Рогелимден түшүп келди, жана ⟨את⟩ падышаны Иордандан өткөрдү, аны ⟨את⟩ Иордандын ары жагына узатуу үчүн.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "5140c72d81c8137d0ee21c34e9518fd493f18d22a66b04b0939440ead3661773",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-samuel\/19\/29-32.1791207807916.json",
+    "code": "641241cf-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וברזלי",
+      "gloss": "жана Барзилай"
+    },
+    {
+      "surface": "הגלעדי",
+      "gloss": "Гиладдык"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "түшүп келди"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "Рогелимден"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "жана өткөрдү"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "падышаны"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "падышаны"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Иордандан"
+    },
+    {
+      "surface": "לשלחו",
+      "gloss": "аны узатуу"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Иордандын ары жагына"
+    },
+    {
+      "surface": "בירדן",
+      "gloss": "Иордандын ары жагына"
+    }
+  ],
+  "timestamp": "2026-10-05T13:43:27.917864980Z",
+  "model": "glm-5.3"
+}

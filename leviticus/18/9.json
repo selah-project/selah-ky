@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 18:9",
+  "book": "leviticus",
+  "lang": "ky",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ачпоо керек",
+      "rationale": "Еврейче эмииттик буйрук түрүндө берилген, кыргызча инфинитив бекиткичи кошулду"
+    },
+    {
+      "kind": "substitution",
+      "subject": "жылаңачтык",
+      "rationale": "ערוה — жылаңачтык, көчү маанисе уяттуулук; «жылаңачтыкты ачуу» — жакындык үчүн еврейче эвфемизм"
+    },
+    {
+      "kind": "you",
+      "subject": "Исраэл элине",
+      "rationale": "Буйрук экинчи жөө мааниде, алып сүйлөгөн адамга багытталган"
+    }
+  ],
+  "translation": "Карындашыңдын — атанын кызы же эненин кызы, үйдө төрөлгөн же тышкары төрөлгөн — жылаңачтыгын ачпа; алардын жылаңачтыгын ачпоо керек.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "1024c7c36b88be9e668d61a1c67f471dcfdc591d7fed26ad0f667bdcf5c97d03",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/18\/9-12.1791203165164.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "жылаңачтыгын"
+    },
+    {
+      "surface": "אחותך",
+      "gloss": "карындашыңдын"
+    },
+    {
+      "surface": "בת",
+      "gloss": "кызы"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "атаңдын"
+    },
+    {
+      "surface": "או",
+      "gloss": "же"
+    },
+    {
+      "surface": "בת",
+      "gloss": "кызы"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "энеңдин"
+    },
+    {
+      "surface": "מולדת",
+      "gloss": "төрөлгөн"
+    },
+    {
+      "surface": "בית",
+      "gloss": "үйдө"
+    },
+    {
+      "surface": "או",
+      "gloss": "же"
+    },
+    {
+      "surface": "מולדת",
+      "gloss": "төрөлгөн"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "тышкары"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ачпа"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "⟨ачпоо керек⟩"
+    },
+    {
+      "surface": "ערותן",
+      "gloss": "алардын жылаңачтыгын"
+    }
+  ],
+  "timestamp": "2026-10-05T12:26:05.164723097Z",
+  "model": "glm-5.3"
+}

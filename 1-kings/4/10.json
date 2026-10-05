@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 4:10",
+  "book": "1-kings",
+  "lang": "ky",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "тиешелүү болгон",
+      "rationale": "Ивритте жөн гана לו — «ага», ээлик мааниси контексттен келет"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חסד \/ Бен-Хесед",
+      "rationale": "Аттын ичинде «хесед» — ырайым сөзү турат, кыргызчада байланыш жоголот"
+    },
+    {
+      "kind": "measurement",
+      "subject": "аймак тизмеси",
+      "rationale": "Башкаруу облустарынын чектери саналып жатат"
+    }
+  ],
+  "translation": "Бен-Хесед — Арубботто; ага Соко жана бүт Хефер жери тиешелүү болгон.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "7035d34557ff64cd5a83972db694a1f0a4cac4a69dffb39ca3d1a738d1b6e907",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-kings\/4\/9-12.1791207969959.json",
+    "code": "641241cf-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Бен-Хесед"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "Бен-Хесед"
+    },
+    {
+      "surface": "בארבות",
+      "gloss": "Арубботто"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ага"
+    },
+    {
+      "surface": "שכה",
+      "gloss": "Соко"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "жана бүт"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "жери"
+    },
+    {
+      "surface": "חפר",
+      "gloss": "Хефер"
+    }
+  ],
+  "timestamp": "2026-10-05T13:46:09.960164968Z",
+  "model": "glm-5.3"
+}

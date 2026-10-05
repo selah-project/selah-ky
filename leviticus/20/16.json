@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 20:16",
+  "book": "leviticus",
+  "lang": "ky",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מות יומתו",
+      "rationale": "Инфинитив абсолют + этиш — «өлүм менен өлтүрүлсүн» бекемдөө конструкциясы."
+    },
+    {
+      "kind": "substitution",
+      "subject": "לרבעה",
+      "rationale": "רבע — «жатып жатуу, чыңалуу» деген сөз; кыргызча «жатыш үчүн» деп ачылды."
+    }
+  ],
+  "translation": "Жана аял эгер каалаган малга жакындап, аны менен жатыш үчүн келсе — аялды да ⟨את⟩, малды да ⟨את⟩ өлтүргүлө; өлүм менен өлтүрүлсүндөр, алардын каны өздөрүнө.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "c1775b6ad8432818e1c1775a87fb886af9f222ace4b49003a5286bf898638547",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/20\/16-16.1791223608143.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואשה",
+      "gloss": "жана аял"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "эгер"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "жакындаса"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-га"
+    },
+    {
+      "surface": "כל",
+      "gloss": "каалаган"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "мал"
+    },
+    {
+      "surface": "לרבעה",
+      "gloss": "жатыш үчүн"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ аны"
+    },
+    {
+      "surface": "והרגת",
+      "gloss": "өлтүргүлө"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "аялды"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "аял"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "жана ⟨את⟩",
+      "marks": "малды"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "мал"
+    },
+    {
+      "surface": "מות",
+      "gloss": "өлүм"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "өлтүрүлсүндөр"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "алардын каны"
+    },
+    {
+      "surface": "בם",
+      "gloss": "өздөрүнө"
+    }
+  ],
+  "timestamp": "2026-10-05T18:06:48.144182179Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 9:13",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жаа",
+      "rationale": "קשת жаа (ок атуучу курал) деген сөз; «жaa-эңселис» (rainbow) деген кошумча эмес, башка сөз — жаа бойдон калды."
+    },
+    {
+      "kind": "addition",
+      "subject": "болот",
+      "rationale": "Ивритте бар болгон «ал» менен болочок маани кыргызча этиш менен берилди."
+    }
+  ],
+  "translation": "⟨את⟩ Менин жаамды булутко койдум, жана ал менин ортомдагы жана жердин ортосундагы келишимдин белгиси болот.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "1ea0350f8af6999ab766e11e294ca95ebbfac8f6da3d9600ababcd9775a0492d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/9\/13-16.1791200856623.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Менин жаамды"
+    },
+    {
+      "surface": "קשתי",
+      "gloss": "мүн жаамды"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "койдум"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "булутко"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "жана ал болот"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "белгиси"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "келишимдин"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "менин ортомдагы"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "жана ортасындагы"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "жердин"
+    }
+  ],
+  "timestamp": "2026-10-05T11:47:36.624446198Z",
+  "model": "glm-5.3"
+}

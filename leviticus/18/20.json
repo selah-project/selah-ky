@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 18:20",
+  "book": "leviticus",
+  "lang": "ky",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жатуу",
+      "rationale": "שכבת — '(жыныстык) жатуу'; 'жыныстык катнаш' деп жумшартып айтылышы мүмкүн"
+    },
+    {
+      "kind": "alternative",
+      "subject": "לזרע",
+      "rationale": "'урук чачуу үчүн' деп да окулат; YLT 'thy seed of copulation'"
+    }
+  ],
+  "translation": "Жана өз жолдошуңдун аялына өзүңдүн жатууңдун уругун булганыш үчүн бербе, аны менен.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "6a05889e1099dd6b5e49bc51fd66988a953cdf55fb93ed9cf36eb849d22b92d5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/18\/17-20.1791203194524.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "жана ... жакын"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "аялына"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "өз жолдошуңдун"
+    },
+    {
+      "surface": "לא",
+      "gloss": "эмес"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "бербе"
+    },
+    {
+      "surface": "שכבתך",
+      "gloss": "өзүңдүн жатууңдун"
+    },
+    {
+      "surface": "לזרע",
+      "gloss": "уругун"
+    },
+    {
+      "surface": "לטמאה",
+      "gloss": "булганыш үчүн"
+    },
+    {
+      "surface": "בה",
+      "gloss": "аны менен"
+    }
+  ],
+  "timestamp": "2026-10-05T12:26:34.525262734Z",
+  "model": "glm-5.3"
+}

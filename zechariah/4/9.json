@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zechariah 4:9",
+  "book": "zechariah",
+  "lang": "ky",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "аны бүтүрөт",
+      "rationale": "תבצענה 'кесип бүтүрүү' — колдор аны аягына чыгарат деген сүрөт"
+    },
+    {
+      "kind": "you",
+      "subject": "силерге",
+      "rationale": "Яхвенин сөзү Захария аркылуу элге — силерге — айтылат"
+    },
+    {
+      "kind": "elision",
+      "subject": "כי",
+      "rationale": "' себеби' байламтасы кыргызча айтылышта тишиштик үчүн эрип калды"
+    }
+  ],
+  "translation": "Зерубабелдин колдору бул үйдүн пайдубалын салды, жана анын колдору аны бүтүрөт, жана сен билесиң — Яхве Цебаот мени силерге жиберди.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "34aff854d5ad302eabf27a3b539f996d49ff0657e8793a1915a043110ee25697",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/zechariah\/4\/9-12.1791215035090.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ידי",
+      "gloss": "колдору"
+    },
+    {
+      "surface": "זרבבל",
+      "gloss": "Зерубабелдин"
+    },
+    {
+      "surface": "יסדו",
+      "gloss": "пайдубалын салды"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "бул үйдүн"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "бул"
+    },
+    {
+      "surface": "וידיו",
+      "gloss": "жана анын колдору"
+    },
+    {
+      "surface": "תבצענה",
+      "gloss": "аны бүтүрөт"
+    },
+    {
+      "surface": "וידעת",
+      "gloss": "жана сен билесиң"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цебаот"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "мени жиберди"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "силерге"
+    }
+  ],
+  "timestamp": "2026-10-05T15:43:55.091585258Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 40:1",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "למנצח",
+      "rationale": "тамга-белги кыймылды көрсөтүүчү атайын термин, музыкалык жетекчиге арноо"
+    }
+  ],
+  "translation": "Музыка жетекчисине. Давиддин мазмуру.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "f4a041793cd11dc515919b0af76eee375de4cb94fcaaa6ae4f2b7a65c0771316",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/40\/1-4.1791215985901.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "музыка жетекчисине"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давиддин"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "мазмур"
+    }
+  ],
+  "timestamp": "2026-10-05T15:59:45.901758092Z",
+  "model": "glm-5.3"
+}

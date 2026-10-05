@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 37:15",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨бир⟩",
+      "rationale": "еврейче эмес; аныксыз «адам» кыргызча «бир адам» болуп түшүнүктүү"
+    },
+    {
+      "kind": "elision",
+      "subject": "לאמר",
+      "rationale": "кыймыл аты «деп» деп берилди, өзүнчө сүйлөм эмес"
+    },
+    {
+      "kind": "invitation",
+      "subject": "мне",
+      "rationale": "адам Жүсүпкө түз суроо карайт: «Эмне издеп жүрөйсүң?»"
+    }
+  ],
+  "translation": "Жана ⟨бир⟩ адам аны таап калды, жана мына ал талаада адасып жүрөт, жана ал адам анан сурады: Эмне издеп жүрөйсүң?",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "f84d126d45a534925f2baa416c63cb5713ec45dc28bd363d4c574a627a18a56c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/37\/15-16.1791223574365.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימצאהו",
+      "gloss": "таап калды"
+    },
+    {
+      "surface": "איש",
+      "gloss": "адам"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "жана мына"
+    },
+    {
+      "surface": "תעה",
+      "gloss": "адасып жүрөт"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "талаада"
+    },
+    {
+      "surface": "וישאלהו",
+      "gloss": "анан сурады"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ал адам"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "деп"
+    },
+    {
+      "surface": "מה",
+      "gloss": "эмне"
+    },
+    {
+      "surface": "תבקש",
+      "gloss": "издеп жүрөйсүң"
+    }
+  ],
+  "timestamp": "2026-10-05T18:06:14.365774611Z",
+  "model": "glm-5.3"
+}

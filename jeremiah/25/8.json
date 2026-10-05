@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 25:8",
+  "book": "jeremiah",
+  "lang": "ky",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "rationale": "Relative particle absorbed into Kyrgyz causal clause; supplied as bracketed ⟨ошол⟩."
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "Second-person accusation opening the judgment oracle: 'you have not heard My words'."
+    }
+  ],
+  "translation": "Ошондуктан Яхве Цебаот мындай дейт: Себеби сиз ⟨את⟩ сөздөрүмдү угушкан жоксуңар —",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "18b14d631da41c438d4f0e8c27960140fe44b7e049e13d3788affe44bf04ec6c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/jeremiah\/25\/5-8.1791211280281.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "ошондуктан"
+    },
+    {
+      "surface": "כה",
+      "gloss": "мындай"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "дейт"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цебаот"
+    },
+    {
+      "surface": "יען",
+      "gloss": "себеби"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨ошол⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "угушкан"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сөздөрүмдү"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "сөздөрүмдү"
+    }
+  ],
+  "timestamp": "2026-10-05T14:41:20.282430923Z",
+  "model": "glm-5.3"
+}

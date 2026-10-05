@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 5:41",
+  "book": "1-chronicles",
+  "lang": "ky",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨алар менен⟩",
+      "rationale": "The Hebrew does not have a pronoun clarifying that Yehotsadak was exiled together with Judah"
+    },
+    {
+      "kind": "idiom",
+      "subject": "колу менен",
+      "rationale": "The Hebrew ביד literally means 'by the hand', that is, 'through the power of'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הלך בהגלות",
+      "rationale": "Literally: 'went into exile' — the figure of the exile as a journey is preserved"
+    }
+  ],
+  "translation": "Жана Яхве Йиһуданы жана Йерушалайимди Небухаднеццардын колу менен туткундап алып кеткенде, Яҳоцадак ⟨алар менен⟩ туткунга түштү.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "df82fd2be578c996086efc5cc820cc09626438414f658d37deb231d92a6418f4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-chronicles\/5\/41-41.1791221791520.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהוצדק",
+      "gloss": "Жеҳоцадак"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "барды"
+    },
+    {
+      "surface": "בהגלות",
+      "gloss": "туткунга түшкөндө"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яҳве"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Йиһуданы"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Йиһуда"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "жана Йерушалайим"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "колу менен"
+    },
+    {
+      "surface": "נבכדנאצר",
+      "gloss": "Небуҳаднеᴄцар"
+    }
+  ],
+  "timestamp": "2026-10-05T17:36:31.520950532Z",
+  "model": "glm-5.3"
+}

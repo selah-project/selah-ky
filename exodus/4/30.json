@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 4:30",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "האתת",
+      "rationale": "Белгилерди ким жасады — Моше (BSB) же Ахарон (KJV); еврей текстте этиштин субъектиси ачык берилген жок, салт боюнча Моше түшүнүлөт."
+    },
+    {
+      "kind": "substitution",
+      "subject": "белгилер",
+      "rationale": "האותות — «белги, айкын далил» деген сөз; «сыйкыр» же «кудурет» эмес."
+    }
+  ],
+  "translation": "Ахарон Яхвенин Мошеге айткан ⟨את⟩ бардык сөздөрүн айтып берди, жана элдин көз алдында белгилерди жасады.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "85f7d06f59d3feb765454cbdf374aabcfc3d4baccdffebe5d677e9a9488625e4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/4\/29-31.1791201916649.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "айтып берди"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Ахарон"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "бардык сөздөрүн"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бардык"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "сөздөрүн"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…ды"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "айткан"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ге"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Мошеге"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "жасады"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "белгилерди"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "көз алдында"
+    },
+    {
+      "surface": "העם",
+      "gloss": "элдин"
+    }
+  ],
+  "timestamp": "2026-10-05T12:05:16.649993402Z",
+  "model": "glm-5.3"
+}

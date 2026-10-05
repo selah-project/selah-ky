@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 90,
+  "ref": "psalms 119:90",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ал",
+      "rationale": "ותעמод этиши жердин өзүнө кайтып келаткан атоочту кыргызча ⟨ал⟩ аталык менен тактоону талап кылат"
+    },
+    {
+      "kind": "elision",
+      "subject": "copula",
+      "rationale": "«Сенин ишеничиң» — еврейче этиш жок, кыргызча атооч сүйлөм жетиштүү"
+    }
+  ],
+  "translation": "Урпактан урапакка чейин Сенин ишеничиң; Сен ⟨את⟩ жерди түптөдүң, жана ал турат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "98a14759d8aca89bd024f0b466bc6ff453bc4b3f2100e74ee4425717a4540894",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/119\/89-92.1791217365966.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לדר",
+      "gloss": "урпактан"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "урпакка чейин"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "ишеничиң"
+    },
+    {
+      "surface": "כוננת",
+      "gloss": "түптөдүң"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "жерди"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "жерди"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "жана ал турат"
+    }
+  ],
+  "timestamp": "2026-10-05T16:22:45.967773428Z",
+  "model": "glm-5.3"
+}

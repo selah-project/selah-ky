@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 57:1",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 57,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נאספים\/נאסף",
+      "rationale": "«жыйналды» үч жолу кайталанат — адилдер өлүм менен «жыйналып» алынат, кыргызча байланыш бир аз жумшарат"
+    },
+    {
+      "kind": "substitution",
+      "subject": "жоголду",
+      "rationale": "אבד — «адашып кетүү, жок болуу»; жөн гана «өлдү» эмес"
+    },
+    {
+      "kind": "idiom",
+      "subject": "жүрөгүнө алган жок",
+      "rationale": "שם על לеб — букм. «жүрөгүнө койгон жок», кыргызча «көңүл бурбады» мааниси"
+    }
+  ],
+  "translation": "Адил адам жоголду, эч ким жүрөгүнө алган жок, жана хесед ээлери жыйналды, түшүнбөгөн ар бирөө ⟨жок⟩, анткени жамандыктын жүзүнөн адил адам жыйналды.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "a16ad46f20c230db968f8e199dbba3b347de3fecb45966568471d792e936afd7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/57\/1-4.1791210437176.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הצדיק",
+      "gloss": "адил адам"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "жоголду"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "жана жок"
+    },
+    {
+      "surface": "איש",
+      "gloss": "эч ким"
+    },
+    {
+      "surface": "שם",
+      "gloss": "алган"
+    },
+    {
+      "surface": "על",
+      "gloss": "үчүн"
+    },
+    {
+      "surface": "לב",
+      "gloss": "жүрөгүнө"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "жана ээлери"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "хесед"
+    },
+    {
+      "surface": "נאספים",
+      "gloss": "жыйналды"
+    },
+    {
+      "surface": "באין",
+      "gloss": "жок"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "түшүнбөгөн"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "жүзүнөн"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "жамандыктын"
+    },
+    {
+      "surface": "נאסף",
+      "gloss": "жыйналды"
+    },
+    {
+      "surface": "הצדיק",
+      "gloss": "адил адам"
+    }
+  ],
+  "timestamp": "2026-10-05T14:27:17.176958152Z",
+  "model": "glm-5.3"
+}

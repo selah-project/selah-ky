@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 7:9",
+  "book": "2-samuel",
+  "lang": "ky",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жаныңда",
+      "rationale": "עמך 'менен' — кыргызча табигыйраак 'жаныңда болдум' формасында берилди"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שם \/ הגדלים",
+      "rationale": "шем гадоль — 'чоң ысым' деген сөз айкашы эки жолу кайталанат: ысым\/чоң — чоң\/ысым"
+    }
+  ],
+  "translation": "Мен сенин жаныңда болдум, сен кайсы жерге барсаң да, жана ⟨את⟩ бардык душмандарыңды сенин жүзүңдөн кесип таштадым, жана сага чоң ысым жасаймын, жер бетиндеги чоң адамдардын ысымындай.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "0c2973c82eb216851aa80de776f6caae6aafc2468c2e311d968eeaca611ecf25",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-samuel\/7\/9-12.1791207460457.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואהיה",
+      "gloss": "болдум"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "жаныңда"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "бардык"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "кайсы"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "барсаң"
+    },
+    {
+      "surface": "ואכרתה",
+      "gloss": "кесип таштадым"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "бардык душмандарыңды"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бардык"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "душмандарыңды"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "сенин жүзүңдөн"
+    },
+    {
+      "surface": "ועשתי",
+      "gloss": "жасаймын"
+    },
+    {
+      "surface": "לך",
+      "gloss": "сага"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ысым"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "чоң"
+    },
+    {
+      "surface": "כשם",
+      "gloss": "ысымындай"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "чоң адамдардын"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "кимдер"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "жер бетинде"
+    }
+  ],
+  "timestamp": "2026-10-05T13:37:40.458139527Z",
+  "model": "glm-5.3"
+}

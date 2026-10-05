@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 1:17",
+  "book": "joshua",
+  "lang": "ky",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "rationale": "Ивриттеги 'ал' ( багыттоо) кыргызча дееписине сиңип кетти."
+    },
+    {
+      "kind": "substitution",
+      "subject": "шамá",
+      "rationale": "Ивриттин 'шама' — угуу жана баш ийүүнү тең билдирет; кыргызча эки сөз керек болду."
+    }
+  ],
+  "translation": "Мошенин баарына канча угуп моюн сундук, сага да ошондой угуп моюн сунабыз; тек гана Яхве, сенин Элохимиң, сенин менен болсун, Моше менен болгондой.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "1424ec9bbd0116028b3a87ac960ed74f61349e11ba6a129914832263980a22c2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/joshua\/1\/17-18.1791205513360.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "канча баарына"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "эмнеге"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "угуп моюн сундук"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ошондой"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "угуп моюн сунабыз"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "сага да"
+    },
+    {
+      "surface": "רק",
+      "gloss": "тек гана"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "болсун"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "сенин Элохимиң"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "сенин менен"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "дайыма"
+    },
+    {
+      "surface": "היה",
+      "gloss": "болгондой"
+    },
+    {
+      "surface": "עם",
+      "gloss": "менен"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    }
+  ],
+  "timestamp": "2026-10-05T13:05:13.360868538Z",
+  "model": "glm-5.3"
+}

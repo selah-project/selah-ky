@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 25:3",
+  "book": "numbers",
+  "lang": "ky",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ויחר אף",
+      "rationale": "Literal 'the nose burned' — Hebrew idiom for anger flaring; rendered 'ачуусу күйө баштады'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "байланды",
+      "rationale": "ויצמד literally 'yoked\/clung' as an animal to a master; 'байланды' keeps the binding image."
+    }
+  ],
+  "translation": "Жана Йисраэл Баал-Пеорго байланды, жана Яхвенин ачуусу Йисраэлге күйө баштады.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "0343efe128faed1801f91b62bbdf3a0f38ec239c733469186c1b1a872c77b549",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/numbers\/25\/1-4.1791204162112.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצמד",
+      "gloss": "байланды"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэл"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "Баал"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "Пеорго"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "күйө баштады"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ачуусу"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Йисраэлге"
+    }
+  ],
+  "timestamp": "2026-10-05T12:42:42.112885632Z",
+  "model": "glm-5.3"
+}

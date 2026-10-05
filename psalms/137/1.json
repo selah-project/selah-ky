@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 137:1",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 137,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "жыйыртын",
+      "rationale": "בזכרנו — инфинитив мүчөсү 'эстегенибизде' кыргызчада этиш формасын талап кылат, еврейче бир сөз"
+    },
+    {
+      "kind": "you",
+      "subject": "биз",
+      "rationale": "Ырдагы 1-жамааттын үнү — сүргөндөгү Йисраэл эли"
+    }
+  ],
+  "translation": "Бабелдин дарыяларынын боюнда ошол жерде биз отурдук, ошондой эле жыйыртын эстегенибизде ыйладык ⟨את⟩ Цийонду.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "4c65906e1db54a229031e86eb14c64855ad561b837bad5ce4adc111a08134a57",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/137\/1-4.1791217525240.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "боюнда"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "дарыяларынын"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Бабелдин"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ошол жерде"
+    },
+    {
+      "surface": "ישבנו",
+      "gloss": "отурдук"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ошондой эле"
+    },
+    {
+      "surface": "בכינו",
+      "gloss": "ыйладык"
+    },
+    {
+      "surface": "בזכרנו",
+      "gloss": "жыйыртын эстегенибизде"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Цийонду"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Цийонду"
+    }
+  ],
+  "timestamp": "2026-10-05T16:25:25.240638564Z",
+  "model": "glm-5.3"
+}

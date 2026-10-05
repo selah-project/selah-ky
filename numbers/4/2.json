@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 4:2",
+  "book": "numbers",
+  "lang": "ky",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "көтөргүлө",
+      "rationale": "נשא את ראש 'башты көтөрүү' — эл каттоо, санап чыгуу идиомасы"
+    },
+    {
+      "kind": "invitation",
+      "subject": "көтөргүлө",
+      "rationale": "буйрук — Мошеге жана Ахаронго багытталат"
+    },
+    {
+      "kind": "measurement",
+      "subject": "башын көтөргүлө",
+      "rationale": "Левилердин катталышы — санап чыгуу"
+    }
+  ],
+  "translation": "Кехаттын уулдарынын башын ⟨את⟩ көтөргүлө, Левинин уулдарынын ичинен, алардын үй-бүлөлөрү боюнча, алардын аталарынын үйлөрү боюнча,",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "57300b1c0432575033b4d353c38165458a8d51ccacfdb52d04a6c05feee2fde0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/numbers\/4\/1-4.1791203608768.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נשא",
+      "gloss": "көтөргүлө"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "башын"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "башын"
+    },
+    {
+      "surface": "בני",
+      "gloss": "уулдарынын"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Кехат"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "ичинен"
+    },
+    {
+      "surface": "בני",
+      "gloss": "уулдарынын"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Леви"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "алардын үй-бүлөлөрү боюнча"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "…үйлөрү боюнча"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "алардын аталарынын"
+    }
+  ],
+  "timestamp": "2026-10-05T12:33:28.768815119Z",
+  "model": "glm-5.3"
+}

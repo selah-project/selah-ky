@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 30:31",
+  "book": "proverbs",
+  "lang": "ky",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "זרזיר",
+      "rationale": "Бул сөз Танахта тек гана бул жерде кездешет; мааниси так эмес."
+    },
+    {
+      "kind": "hapax",
+      "subject": "אלקום",
+      "rationale": "Тек бул аятта гана бар; «орундан тургызбас» деген сөз."
+    },
+    {
+      "kind": "crux",
+      "subject": "זרזיר",
+      "rationale": "Котормолор бөлүнөт: KJV\/JPS «тазы ит», BSB «така» (корак), YLT «белди байланган»; биз тамырдын сүрөтүн сактадык."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ага каршы",
+      "rationale": "עמו «аны менен» — кыргызча «ага каршы» деп тактоо зарыл болду."
+    }
+  ],
+  "translation": "Белди курчанган жүгүрүүчү, же теке, жана падыша — ага каршы ордунан турган жок.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "82c9688febfadef7e834a4b6436f2035da790c32aeda74d28568ab78124b6d12",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/30\/29-32.1791218462083.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זרזיר",
+      "gloss": "белди курчанган жүгүрүүчү"
+    },
+    {
+      "surface": "מתנים",
+      "gloss": "бел"
+    },
+    {
+      "surface": "או",
+      "gloss": "же"
+    },
+    {
+      "surface": "תיש",
+      "gloss": "теке"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "жана падыша"
+    },
+    {
+      "surface": "אלקום",
+      "gloss": "ордунан турган жок"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ага каршы"
+    }
+  ],
+  "timestamp": "2026-10-05T16:41:02.083886948Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 114,
+  "ref": "psalms 119:114",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨—⟩",
+      "rationale": "Кыргызча predicat үчүн '—' кошулду; еврейче айтылбайт, 'Сен жашыруун жайым' деген түз конструкция."
+    },
+    {
+      "kind": "substitution",
+      "subject": "סתרי",
+      "rationale": "Букв. 'менин жабуум\/жашыруун жерим' — коргонуу сүрөтү."
+    }
+  ],
+  "translation": "Сен — менин жашыруун жайым жана калкандым, сөзүңө үмүт токтодум.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "0012912ccfab3190faede15b8ae883b42dc59729d781b0882da2feb139e89989",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/119\/113-116.1791217401018.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "סתרי",
+      "gloss": "жашыруун жайым"
+    },
+    {
+      "surface": "ומגני",
+      "gloss": "жана калкандым"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Сен"
+    },
+    {
+      "surface": "לדברך",
+      "gloss": "сөзүңө"
+    },
+    {
+      "surface": "יחלתי",
+      "gloss": "үмүт токтодум"
+    }
+  ],
+  "timestamp": "2026-10-05T16:23:21.018993905Z",
+  "model": "glm-5.3"
+}

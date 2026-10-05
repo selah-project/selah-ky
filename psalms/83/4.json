@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 83:4",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 83,
+  "notes": [
+    {
+      "kind": "secret",
+      "subject": "סוד",
+      "rationale": "жашыруун кеңеш — жашыруу, жашырынган жыйын мааниси сакталды"
+    },
+    {
+      "kind": "crux",
+      "subject": "צפוניך",
+      "rationale": "'сенин жашырылгандарың' (цaфун — жашыруу тамыры): KJV 'hidden ones', JPS 'treasured ones', BSB 'those You cherish'"
+    },
+    {
+      "kind": "addition",
+      "subject": "чыгышат",
+      "rationale": "кыргыз тили этиштин жекече-көптүк формасын талап кылат"
+    }
+  ],
+  "translation": "Сенин элиңе каршы арам амал ойлоп чыгышат жана сенин жашырылгандарыңа каршы кеңеш курушат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "18dc01f36fc0027cc2965b36b3689f7a7b17178dd04e5a555344ee85ece7a7a6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/83\/4-4.1791224466034.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "каршы"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "сенин элиңе"
+    },
+    {
+      "surface": "יערימו",
+      "gloss": "арам амал ойлоп чыгышат"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "жашыруун кеңештен"
+    },
+    {
+      "surface": "ויתיעצו",
+      "gloss": "жана кеңеш курушат"
+    },
+    {
+      "surface": "על",
+      "gloss": "каршы"
+    },
+    {
+      "surface": "צפוניך",
+      "gloss": "сенин жашырылгандарыңа"
+    }
+  ],
+  "timestamp": "2026-10-05T18:21:06.035095687Z",
+  "model": "glm-5.3"
+}

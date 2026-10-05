@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 7:14",
+  "book": "2-samuel",
+  "lang": "ky",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "rationale": "байламта эреже боюнча «эгерде\/кезде» катары этиштин формасына сиңип кетти"
+    },
+    {
+      "kind": "substitution",
+      "subject": "хесед",
+      "rationale": "חסד — «ырайым» эмес, өзүнчө хесед түшүнүгү (D2)"
+    },
+    {
+      "kind": "crux",
+      "subject": "בהעותו והכחתיו",
+      "rationale": "жөнөкөй өткөн убакыт («кетирдим») же келерчи убакыт («кетиререм») — котормолор эки жолу бөлүнөт"
+    }
+  ],
+  "translation": "Мен ага ата боломун, ал Мага уул болот; ал бут кеткен кезде Мен аны адамдардын таягы менен жана адам балдарынын соккулары менен жазалаймын.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "c5ba03d44737e24847d5bc9e8df98784481d5fe6438ce01a5988df4883d7e33e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-samuel\/7\/14-15.1791223847081.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Мен"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "боломун"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ага"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "ата"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "жана ал"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "болот"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Мага"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "уул"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "–"
+    },
+    {
+      "surface": "בהעותו",
+      "gloss": "бут кеткен кезде"
+    },
+    {
+      "surface": "והכחתיו",
+      "gloss": "жазалаймын аны"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "таягы менен"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "адамдардын"
+    },
+    {
+      "surface": "ובנגעי",
+      "gloss": "жана соккулары менен"
+    },
+    {
+      "surface": "בני",
+      "gloss": "уулдарынын"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "адам"
+    }
+  ],
+  "timestamp": "2026-10-05T18:10:47.082473097Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,124 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 10:9",
+  "book": "1-kings",
+  "lang": "ky",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "цедек",
+      "rationale": "צדקה көбүнчө 'адилеттик' деп берилет, бирок сөз катары 'цедек' кармалды"
+    },
+    {
+      "kind": "you",
+      "subject": "Шеба ханышасы Сулайманга",
+      "rationale ": "альтернативный"
+    },
+    {
+      "kind": "elision",
+      "subject": "באהבת",
+      "rationale": "конструкция 'сүйүү менен' кыргызча 'анткени … сүйгөн' деп ачылды"
+    }
+  ],
+  "translation": "Яхве, сенин Элохимиң алкыштуу! Ал сенден ыраазы болуп, сени Йисраэлдин тактысына отургузуу үчүн, анткени Яхве ⟨את⟩ Йисраэлди түбөлүккө сүйгөн жана сени өкүм жана цедек иштөө үчүн падыша койду.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "9c899bbb411a0508bcf2e4f5f0c73c13e1985d326227a5f564dadd84415b0b00",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-kings\/10\/9-12.1791208178503.json",
+    "code": "641241cf-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "болсун"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "сенин Элохимиң"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "алкыштуу"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ал"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "ыраазы болуп"
+    },
+    {
+      "surface": "בך",
+      "gloss": "сенден"
+    },
+    {
+      "surface": "לתתך",
+      "gloss": "сени отургузуу үчүн"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстүнө"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "тактысынын"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэлдин"
+    },
+    {
+      "surface": "באהבת",
+      "gloss": "анткени … сүйгөн"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Йисраэлди"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэлди"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "түбөлүккө"
+    },
+    {
+      "surface": "וישימך",
+      "gloss": "жана сини койду"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "падыша"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "иштөө үчүн"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "өкүм"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "жана цедек"
+    }
+  ],
+  "timestamp": "2026-10-05T13:49:38.503879937Z",
+  "model": "glm-5.3"
+}

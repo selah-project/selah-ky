@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 5:4",
+  "book": "esther",
+  "lang": "ky",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "анын үчүн",
+      "rationale": "לו «ага» — кыргызча «анын үчүн» деп ачыкталды"
+    },
+    {
+      "kind": "you",
+      "subject": "падышага",
+      "rationale": "Эстердин падышага түз кайрылуусу — шарттуу урмат формасы менен"
+    }
+  ],
+  "translation": "Жана Эстер айтты: Эгер падышага жакса, падыша менен Аман бүгүн мен анын үчүн даярдаган тойго келсин.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "29e3799c896a39bf457a45426151d139dc646025fc5f205c2ec57f6d40267335",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/esther\/5\/1-4.1791220298018.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Эстер"
+    },
+    {
+      "surface": "אם",
+      "gloss": "эгер"
+    },
+    {
+      "surface": "על",
+      "gloss": "га"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "падыша"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "жакса"
+    },
+    {
+      "surface": "י בוא",
+      "gloss": "келсин"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "падыша"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "менен Аман"
+    },
+    {
+      "surface": "היום",
+      "gloss": "бүгүн"
+    },
+    {
+      "surface": "אל",
+      "gloss": "го"
+    },
+    {
+      "surface": "המשתה",
+      "gloss": "той"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ал"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "даярдаган"
+    },
+    {
+      "surface": "לו",
+      "gloss": "анын үчүн"
+    }
+  ],
+  "timestamp": "2026-10-05T17:11:38.019783389Z",
+  "model": "glm-5.3"
+}

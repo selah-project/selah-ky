@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 10:25",
+  "book": "1-kings",
+  "lang": "ky",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "דבר שנה בשנה",
+      "rationale": " litteraaluu 'жылдын иши жыл сайын' — 'жылдан жылга дайыма' деген кыргызча идиома менен берилди."
+    },
+    {
+      "kind": "substitution",
+      "subject": "минха",
+      "rationale": "מנחתו — бул жерде сыйлоо белеги\/тартуу; D2 боюнча 'минха' сакталды, 'салык' эмес."
+    }
+  ],
+  "translation": "Алар ар бир адам өз минхасын алып келишти — күмүш идиштер, алтын идиштер, кийимдер, курал-жарак, жыттуу заттар, жылкылар жана кашкалар — жылдан жылга дайыма.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "c8171e20d8316bc2cbb3fae2224e3cb7849598c946e5d9c0df32e23b56b911ec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-kings\/10\/25-28.1791208184415.json",
+    "code": "641241cf-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והמה",
+      "gloss": "Алар"
+    },
+    {
+      "surface": "מבאים",
+      "gloss": "алып келишти"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ар бир адам"
+    },
+    {
+      "surface": "מנחתו",
+      "gloss": "өз минхасын"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "идиштер"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "күмүш"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "жана идиштер"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "алтын"
+    },
+    {
+      "surface": "ושלמות",
+      "gloss": "жана кийимдер"
+    },
+    {
+      "surface": "ונשק",
+      "gloss": "жана курал-жарак"
+    },
+    {
+      "surface": "ובשמים",
+      "gloss": "жана жыттуу заттар"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "жылкылар"
+    },
+    {
+      "surface": "ופרדים",
+      "gloss": "жана кашкалар"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "дайыма"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "жылдан"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "жылга"
+    }
+  ],
+  "timestamp": "2026-10-05T13:49:44.416387821Z",
+  "model": "glm-5.3"
+}

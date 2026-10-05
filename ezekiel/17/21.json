@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 17:21",
+  "book": "ezekiel",
+  "lang": "ky",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "מברחו",
+      "rationale": "Качкын деген сейрек сөз — Танахта бир гана жерде ушул формада кездешет."
+    },
+    {
+      "kind": "substitution",
+      "subject": "рух",
+      "rationale": "רוח бул жерде 'шамал' маанисинде, бирок тил эрежеси боюнча бир сөз — рух — кармалды."
+    },
+    {
+      "kind": "addition",
+      "subject": "анткени",
+      "rationale": "כי байланыштырмаыч — кыргызча 'анткени' менен ачыкталды."
+    }
+  ],
+  "translation": "Жана ⟨את⟩ анын бардык качкындарын, бардык жанаактарында, кылыч менен кулашат, жана калгандары ар кайсы рух тарапка чачырашат, жана билесиңер: анткени мен — Яхве, мен сүйлөдүм.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "84c37229b2dcde023e9af65bd7093e8c064bc62e65d74d96cc2bc3cb50f9b8cb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ezekiel\/17\/21-24.1791212526078.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "бардык качкындарын"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бардык"
+    },
+    {
+      "surface": "מברחו",
+      "gloss": "качкындарын"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "бардык жанаактарында"
+    },
+    {
+      "surface": "אגפיו",
+      "gloss": "жанаактарында"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "кылыч менен"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "кулашат"
+    },
+    {
+      "surface": "והנשארים",
+      "gloss": "калгандары"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ар кайсы"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "рух"
+    },
+    {
+      "surface": "יפרשו",
+      "gloss": "чачырашат"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "билесиңер"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "אני",
+      "gloss": "мен"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "сүйлөдүм"
+    }
+  ],
+  "timestamp": "2026-10-05T15:02:06.079286776Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 119:3",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "алар",
+      "rationale": "Ат атооч 1–2 аяттагы адамдарга тиешелүү, кошулду"
+    },
+    {
+      "kind": "substitution",
+      "subject": "адилетсиздик",
+      "rationale": "עולה — 'кыйраш, бурмалангандык, адилетсиздик'"
+    }
+  ],
+  "translation": "Ошондуктан алар адилетсиздик кыла элек — Анын жолдорунда жүргөн.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "1ca400a8b5778fa3b05f7856fa7dcb1a3e57f659560ff763287bfb93529aef09",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/119\/1-4.1791217308213.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "ошондуктан"
+    },
+    {
+      "surface": "לא",
+      "gloss": "элек"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "кыла"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "адилетсиздик"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "Анын жолдорунда"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "жүргөн"
+    }
+  ],
+  "timestamp": "2026-10-05T16:21:48.213862599Z",
+  "model": "glm-5.3"
+}

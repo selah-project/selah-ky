@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 1:4",
+  "book": "leviticus",
+  "lang": "ky",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "күнөөдөн арылтуу",
+      "rationale": "כפר букв. «жабуу, каптоо» — күнөөнү жаап коюу сүрөтү"
+    },
+    {
+      "kind": "crux",
+      "subject": "ידו (жекече)",
+      "rationale": "«колун» жекече санда — бир кол катары же салтанаттуу сүрөт катары; кээ бир котормолор «колдорун» деп көптүк кылышат"
+    }
+  ],
+  "translation": "Жана колун өрттөлүүчү курмандыктын башына коюп, ал анын үчүн кабыл алынса, аны күнөөдөн арылтуу үчүн.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "271e943134384cca431a51033812d7f5c4fec488358c7486b921252955382514",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/1\/1-4.1791202834775.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וסמך",
+      "gloss": "жана коюп"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "колун"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстүнө"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "башына"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "өрттөлүүчү курмандыктын"
+    },
+    {
+      "surface": "ונרצה",
+      "gloss": "кабыл алынса"
+    },
+    {
+      "surface": "לו",
+      "gloss": "анын үчүн"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "күнөөдөн арылтуу үчүн"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "аны"
+    }
+  ],
+  "timestamp": "2026-10-05T12:20:34.776682342Z",
+  "model": "glm-5.3"
+}

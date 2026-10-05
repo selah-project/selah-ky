@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 51:10",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "чарчаткан",
+      "rationale": "דכה 'кулап түшүү, майдалоо' — 'сындырган' (KJV broken) же 'чарчаткан'; сөөктөр кыймылда турган сүрөт"
+    },
+    {
+      "kind": "you",
+      "subject": "Элохимге",
+      "rationale": "тиленүү уланат — Элохимге багытталган императив"
+    }
+  ],
+  "translation": "Мага сүйүнүч менен кубаныч уктур, Сен чарчаткан сөөктөрүм сүйүнсүн.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "fcfd381850c8a518c54c2a83a4ce83b479cb0cc31f557f8eedd98cc3183ecb09",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/51\/9-12.1791216175883.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תשמיעני",
+      "gloss": "уктур мага"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "сүйүнүч"
+    },
+    {
+      "surface": "ושמחה",
+      "gloss": "кубаныч"
+    },
+    {
+      "surface": "תגלנה",
+      "gloss": "сүйүнсүн"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "сөөктөрүм"
+    },
+    {
+      "surface": "דכית",
+      "gloss": "Сен чарчаткан"
+    }
+  ],
+  "timestamp": "2026-10-05T16:02:55.884525800Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 12:17",
+  "book": "job",
+  "lang": "ky",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שולל\/יהולל",
+      "rationale": "Ebeĭ kalkyŋyz dagy эллес: шолал — жылаңайлак\/олjo, йехалел — акмак кылат; кыргызча уңгудаштык жоголот"
+    },
+    {
+      "kind": "crux",
+      "subject": "שולל",
+      "rationale": "'жылаңайлак олjo\/эсир' же 'жылаңач'; KJV 'spoyled', BSB 'barefoot'"
+    }
+  ],
+  "translation": "Ал кеңешчилерди жылаңайлак кылып алып жүрөт, жана сотторду акмак кылат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "ede8b6815b72dbc58c01fa43dbc10c68f1e59806c58a29cd48e4fa74998a0c30",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/job\/12\/17-20.1791218738661.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מוליך",
+      "gloss": "алып жүрөт"
+    },
+    {
+      "surface": "יועצים",
+      "gloss": "кеңешчилерди"
+    },
+    {
+      "surface": "שולל",
+      "gloss": "жылаңайлак кылып"
+    },
+    {
+      "surface": "ושפטים",
+      "gloss": "жана сотторду"
+    },
+    {
+      "surface": "יהולל",
+      "gloss": "акмак кылат"
+    }
+  ],
+  "timestamp": "2026-10-05T16:45:38.661932245Z",
+  "model": "glm-5.3"
+}

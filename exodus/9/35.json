@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 9:35",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ויחזק לב",
+      "rationale": "Буквалдык — «жүрөк күчтүү болду»; бул бөлүмдө эч ким тарабынан көрсөтүлбөгөн пассив же өзүнчө бекемдөө — «жүрөгү бекем болду»."
+    },
+    {
+      "kind": "addition",
+      "subject": "колу аркылуу",
+      "rationale": "ביד משה — «Мошенин колу менен\/аркылуу» деген сөз айкашы кыргызча «аркылуу» предлогун талап кылат."
+    }
+  ],
+  "translation": "Пареанын жүрөгү бекем болду, жана ал ⟨את⟩ Йисраэл уулдарын жибербеди — Яхве Мошенин колу аркылуу сүйлөгөндөй.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "fdd47e6b7d4b94fd9974ecef5b7588f7a4c4048e0b5a6cf81bec5b7982bef6ec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/9\/33-35.1791201995367.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "бекем болду"
+    },
+    {
+      "surface": "לב",
+      "gloss": "жүрөк"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Пареанын"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "жана эмес"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "жибербеди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Йисраэл уулдарын"
+    },
+    {
+      "surface": "בני",
+      "gloss": "уулдарын"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэл"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "…дөй"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сүйлөгөндө"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "колу аркылуу"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Мошенин"
+    }
+  ],
+  "timestamp": "2026-10-05T12:06:35.368636395Z",
+  "model": "glm-5.3"
+}

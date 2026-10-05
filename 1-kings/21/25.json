@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 21:25",
+  "book": "1-kings",
+  "lang": "ky",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "בעיני יהוה",
+      "rationale": "букв. «Яхвенин көздөрүндө» — кыргызча «көз алдында» деген идиома менен берилди"
+    },
+    {
+      "kind": "substitution",
+      "subject": "התמכר",
+      "rationale": "букв. «өзүн сатуу» (хитпаэл формасы) — толук сөз айкашы менен сакталды"
+    }
+  ],
+  "translation": "Бир да Ахав сыяктуу болгон эмес — ал Яхвенин көз алдында жамандык кылууга өзүн сатып жиберген, аны Изебел аялы азгырып турду.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "977dcc9e3f4d10df9d2f858a83d3cf8d6755b0eaf067c115eb69c1bee39f6f62",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-kings\/21\/25-28.1791208589308.json",
+    "code": "641241cf-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "бир да"
+    },
+    {
+      "surface": "לא",
+      "gloss": "эмес"
+    },
+    {
+      "surface": "היה",
+      "gloss": "болгон"
+    },
+    {
+      "surface": "כאחאב",
+      "gloss": "Ахав сыяктуу"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ал"
+    },
+    {
+      "surface": "התמכר",
+      "gloss": "өзүн сатып жиберген"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "кылууга"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "жамандык"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "көз алдында"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "аны"
+    },
+    {
+      "surface": "הסתה",
+      "gloss": "азгырып турду"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "аны"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Изебел"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "аялы"
+    }
+  ],
+  "timestamp": "2026-10-05T13:56:29.308939101Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 46:15",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жаны",
+      "rationale": "נפש — дем алуучу жандык, кыкырдык\/жашоо күчү, «жан» дегендику "
+    },
+    {
+      "kind": "addition",
+      "subject": "кошкондо",
+      "rationale": "Ивритте «with Dinah» дегенди так билдирүү үчүн кошулду"
+    },
+    {
+      "kind": "measurement",
+      "subject": "отуз үч",
+      "rationale": "Леянын тукумунан саналган жандардин саны"
+    }
+  ],
+  "translation": "Булар Леянын уулдары, аларды Леяа Яаковка Падан-Арамда төрөдү, жана ⟨את⟩ анын кызы Динааны ⟨кошкондо⟩; анын уулдарынын жана кыздарынын бардык жаны отуз үч.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "2e719ea2bc3fb79024f1786a5a428969db43da06f7dd3aab4e296bf1cc46191b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/46\/13-16.1791201701935.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "булар"
+    },
+    {
+      "surface": "בני",
+      "gloss": "уулдары"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Леянын"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "аларды"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "төрөдү"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Яаковка"
+    },
+    {
+      "surface": "בפדן",
+      "gloss": "Падан-Арамда"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "⟨Арам⟩"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Динааны"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "Динааны"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "анын кызы"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бардык"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "жаны"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "анын уулдарынын"
+    },
+    {
+      "surface": "ובנותיו",
+      "gloss": "жана кыздарынын"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "отуз"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "үч"
+    }
+  ],
+  "timestamp": "2026-10-05T12:01:41.936112008Z",
+  "model": "glm-5.3"
+}

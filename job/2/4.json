@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 2:4",
+  "book": "job",
+  "lang": "ky",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жан",
+      "rationale": "נפש — жаны эмес, дем алуучу жандык, жашоо күчү; «жан» жакын маани"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עור בעד עור",
+      "rationale": "«Тери үчүн тери» — ылдыйкы макал, элестүү кайталоо кыргызча да сакталды"
+    }
+  ],
+  "translation": "Шатан Яхвени ⟨את⟩ жооп берип айтты: Тери үчүн тери, жана адамдын эмне бар болсо, баарын өз жан-жаны үчүн берет.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "cf9a90cd27c919e61e5f805101570ce0608272af93015226d9f070f033045f42",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/job\/2\/1-4.1791218586168.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "жооп берип"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "Шатан"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яхвени"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвени"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "עור",
+      "gloss": "тери"
+    },
+    {
+      "surface": "бעד",
+      "gloss": "үчүн"
+    },
+    {
+      "surface": "עור",
+      "gloss": "тери"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "баарын"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "эмне ... болсо"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "адамдын"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "берет"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "үчүн"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "жан-жаны"
+    }
+  ],
+  "timestamp": "2026-10-05T16:43:06.169646411Z",
+  "model": "glm-5.3"
+}

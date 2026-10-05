@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 5:16",
+  "book": "proverbs",
+  "lang": "ky",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "сунбу?",
+      "rationale": "יפוצו — жөн гана мааниде 'чачылсын' (KJV, JPS) же суроо-текширүү 'чачылсынбы?' (ASV, BSB) — эженин контекстине жараша эки окуу бар."
+    },
+    {
+      "kind": "idiom",
+      "subject": "булактарың",
+      "rationale": "Метафора: булактар — жубайынан таралган үрөн-тукум, 5:15-17 дегидей образдын уландысы."
+    }
+  ],
+  "translation": "Булактарың тышкары чачылып, суу агындылары кенң аянттарда болсунбу?",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "748318b3b54d52d1c30d26421f1c48bcc02a03a82e2ab02817d04b22aed23631",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/5\/13-16.1791217767834.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יפוצו",
+      "gloss": "чачылып"
+    },
+    {
+      "surface": "מעינתיך",
+      "gloss": "булактарың"
+    },
+    {
+      "surface": "חוצה",
+      "gloss": "тышкары"
+    },
+    {
+      "surface": "ברחבות",
+      "gloss": "кенң аянттарда"
+    },
+    {
+      "surface": "פלגי",
+      "gloss": "агындылары"
+    },
+    {
+      "surface": "מים",
+      "gloss": "суу"
+    }
+  ],
+  "timestamp": "2026-10-05T16:29:27.835414976Z",
+  "model": "glm-5.3"
+}

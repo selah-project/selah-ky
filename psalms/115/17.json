@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 115:17",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 115,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨даңазалабайт⟩",
+      "rationale": "Еврейче этиш вав менен уланган бир гана сүйлөмдө; экинчи этиш кыргызча кошулду"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Дума",
+      "rationale": "דומה — «тынчтык», өлүмдүн образдык аталышы; ысым катары айтылышы боюнча калды"
+    },
+    {
+      "kind": "you",
+      "subject": "община",
+      "rationale": "Аят жамаатка тикелей кайрылуунун бир бөлүгү"
+    }
+  ],
+  "translation": "Өлгөндөр Яхты даңазалабайт, жана Думага түшкөндөрдүн эч бири ⟨даңазалабайт⟩.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "7662961dd3dedde7f9f6b6bc6210fd78de76748a34b1961e1c014666ddffab1d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/115\/17-18.1791217248566.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "эмес"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "өлгөндөр"
+    },
+    {
+      "surface": "יהללו",
+      "gloss": "даңазалабайт"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ях"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "жана эмес"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүт"
+    },
+    {
+      "surface": "ירדי",
+      "gloss": "түшкөндөр"
+    },
+    {
+      "surface": "דומה",
+      "gloss": "Дума"
+    }
+  ],
+  "timestamp": "2026-10-05T16:20:48.566573612Z",
+  "model": "glm-5.3"
+}

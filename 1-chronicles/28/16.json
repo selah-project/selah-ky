@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 28:16",
+  "book": "1-chronicles",
+  "lang": "ky",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "המערכת",
+      "rationale": "«жайгаштыруу\/кыюу» — алдын ала коюлган нандардын үстөлдөрү; «тартуу нанынын үстөлдөрү» (KJV: shewbread) менен «кыюу үстөлдөрү» деген оккулууштар бар"
+    },
+    {
+      "kind": "measurement",
+      "subject": "салмагын",
+      "rationale": "алтын менен күмүштүн үстөлдөргө өлчөнгөн салмагы — өлчөө тизмесинин уландысы"
+    }
+  ],
+  "translation": "жана ⟨את⟩ алтынды — жайгаштыруу үстөлдөрүнүн салмагын, үстөл менен үстөлгө; жана күмүштү — күмүш үстөлдөрүнө.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "9618b62f233265ffe12f4dec4698e2faefc1363636d9a5cccf09305250c7ebeb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-chronicles\/28\/13-16.1791222475545.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "алтынды"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "алтынды"
+    },
+    {
+      "surface": "משקל",
+      "gloss": "салмагын"
+    },
+    {
+      "surface": "לשלחנות",
+      "gloss": "үстөлдөрүнүн"
+    },
+    {
+      "surface": "המערכת",
+      "gloss": "жайгаштыруу"
+    },
+    {
+      "surface": "לשלחן",
+      "gloss": "үстөлгө"
+    },
+    {
+      "surface": "ושלחן",
+      "gloss": "менен үстөлгө"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "жана күмүштү"
+    },
+    {
+      "surface": "לשלחנות",
+      "gloss": "үстөлдөрүнө"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "күмүш"
+    }
+  ],
+  "timestamp": "2026-10-05T17:47:55.547215731Z",
+  "model": "glm-5.3"
+}

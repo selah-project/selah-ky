@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 26:20",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "кабырга",
+      "rationale": "צלע is 'rib, side' (as curved); the body picture kept literally rather than 'side-wall'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "verse",
+      "rationale": "counts twenty boards for the second (north) side"
+    }
+  ],
+  "translation": "Жана Мишкандын экинчи кабыргасы үчүн — түндүк тарабына — жыйырма такта.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "4ba5905649043316d4b06920bdb369035029294b469f1c0299e63a9592c289f3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/26\/17-20.1791202436479.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולצלע",
+      "gloss": "кабыргасы үчүн"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Мишкандын"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "экинчи"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "тарабына"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "түндүк"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "жыйырма"
+    },
+    {
+      "surface": "קרש",
+      "gloss": "такта"
+    }
+  ],
+  "timestamp": "2026-10-05T12:13:56.480153693Z",
+  "model": "glm-5.3"
+}

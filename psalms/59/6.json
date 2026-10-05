@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 59:6",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 59,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לפקד",
+      "rationale": "'бардык элдерге келгин' — 'жазалоо үчүн келүү' жана 'текшерүү үчүн келүү' деген эки окуу бар"
+    },
+    {
+      "kind": "substitution",
+      "subject": "און",
+      "rationale": "אור сөзү 'боштук, залымдук' деген мааниде; 'ачкыздык' деп берилди"
+    },
+    {
+      "kind": "addition",
+      "subject": "бирөөсүнө да",
+      "rationale": "כל בגדי 'баары' дегенди кыргызча 'бирөөсүнө да... жок' формасы менен берүү үчүн кошулду"
+    }
+  ],
+  "translation": "Жана Сен, Яхве, Цебаот Элохими, Йисраэлдин Элохими, ойгонуп ⟨את⟩ бардык элдерге келгин; ачкыздыктын чыккынчыларынын бирөөсүнө да ырайым кылба. Селах.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "f6346044ff1dc462c3d4cadf63563d2af6a26fe5228a035985c55bfc7e775a7c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/59\/6-7.1791224462899.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Жана Сен"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цебаот"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Элохими"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэлдин"
+    },
+    {
+      "surface": "הקיצה",
+      "gloss": "ойгонуп"
+    },
+    {
+      "surface": "לפקד",
+      "gloss": "келгин"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бардык"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "элдерге"
+    },
+    {
+      "surface": "אל",
+      "gloss": "жок"
+    },
+    {
+      "surface": "תחן",
+      "gloss": "ырайым кылба"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бирөөсүнө да"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "чыккынчыларынын"
+    },
+    {
+      "surface": "און",
+      "gloss": "ачкыздыктын"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Селах"
+    }
+  ],
+  "timestamp": "2026-10-05T18:21:02.900090178Z",
+  "model": "glm-5.3"
+}

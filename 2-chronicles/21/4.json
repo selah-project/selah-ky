@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 21:4",
+  "book": "2-chronicles",
+  "lang": "ky",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "кээ бирөөлөрүн да",
+      "rationale": "משרי алдында сан жок; көпчүлүк котормолор 'кээ бирлерин' деп чечмелейт"
+    },
+    {
+      "kind": "crux",
+      "subject": "башчылары",
+      "rationale": "משרי 'башчылар, төрөлөр' — кимдер экени так эмес: аскер башчыларыбы, уруу башчыларыбы"
+    }
+  ],
+  "translation": "Жехорам атасынын падышалыгынын үстүнөн ордун басып, өзүн бекемдеди жана ⟨את⟩ бардык бир туугандарын кылыч менен өлтүрдү, ошондой эле Йисраэлдин башчыларынын кээ бирөөлөрүн да.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "5edf2710c0ba3cfebf1a05b84711c0ebac651764a80c40f50841ca305c57bc11",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-chronicles\/21\/1-4.1791223073827.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ордун басып"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Жехорам"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстүнөн"
+    },
+    {
+      "surface": "ממלכת",
+      "gloss": "падышалыгынын"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "атасынын"
+    },
+    {
+      "surface": "ויתחזק",
+      "gloss": "өзүн бекемдеди"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "өлтүрдү"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "бардык бир туугандарын"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бардык"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "бир туугандарын"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "кылыч менен"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ошондой эле"
+    },
+    {
+      "surface": "משרי",
+      "gloss": "башчыларынын"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэл"
+    }
+  ],
+  "timestamp": "2026-10-05T17:57:53.829242964Z",
+  "model": "glm-5.3"
+}

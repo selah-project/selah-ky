@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 23:27",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "мойун силерге берем",
+      "rationale": "ערף — 'моюн, жүзүн тескери буруу'; сөзмө-сөз 'мойун берем' — душман үркүп качат деген идиома"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Коркуу-үркүүмдү",
+      "rationale": "אימתי — 'коркуу, үркүү'; бир еврей сөзү эки сөз менен берилди"
+    }
+  ],
+  "translation": "⟨את⟩ Коркуу-үркүүмдү алдыңа жиберем, жана силер барган элдин ⟨את⟩ баарын өлтүрөм, жана ⟨את⟩ баардык душмандарыңдын мойун силерге берем.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "09aea98edcf83508f9a87ce90569f2bc5090005b642b125e73dd8042a31f12da",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/23\/25-28.1791202329847.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Коркуу-үркүүмдү"
+    },
+    {
+      "surface": "אימתי",
+      "gloss": "Коркуу-үркүүмдү"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "жиберем"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "алдыңа"
+    },
+    {
+      "surface": "והמתי",
+      "gloss": "өлтүрөм"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "элдин баарын"
+    },
+    {
+      "surface": "כל",
+      "gloss": "баарын"
+    },
+    {
+      "surface": "העם",
+      "gloss": "элдин"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…ган"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "барган"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "алардын ичине"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "берем"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "мойун"
+    },
+    {
+      "surface": "כל",
+      "gloss": "баардык"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "душмандарыңдын"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "силерге"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "мойун"
+    }
+  ],
+  "timestamp": "2026-10-05T12:12:09.848387305Z",
+  "model": "glm-5.3"
+}

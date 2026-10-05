@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "isaiah 10:28",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Ал",
+      "rationale": "Субъект (Ассирия аскери, 10:24 контекст) ивритте айтылбайт — кесип ташталган стил, кыргызча ⟨ал⟩ кошулду."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "жер аттарынын тизмеси",
+      "rationale": "Аят — Мигрон — Михмаш: Иерусалимге жакындап бараткан жөнөкөй жер аттарынын ыргактуу тизмеси, басып бараткан аскердин кадамындай."
+    },
+    {
+      "kind": "crux",
+      "subject": "יפקיד",
+      "rationale": "'шаймандарын тапшырды' же 'коюп берди' (KJV 'carriages'); b§פקד көп маанилүү — 'көзөмөлгө берүү', 'эсепке алуу' да болот."
+    }
+  ],
+  "translation": "Ал Аятка келди, Мигрондон өттү, Михмашта шаймандарын тапшырды.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "438a605020493ef5f74ec52fb910c7bb1b24fe4985580ad1fe993c939d1c7771",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/10\/25-28.1791209554570.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בא",
+      "gloss": "келди"
+    },
+    {
+      "surface": "על",
+      "gloss": "жакка"
+    },
+    {
+      "surface": "עית",
+      "gloss": "Аят"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "өттү"
+    },
+    {
+      "surface": "במגרון",
+      "gloss": "Мигрондон"
+    },
+    {
+      "surface": "למכמש",
+      "gloss": "Михмашта"
+    },
+    {
+      "surface": "יפקיד",
+      "gloss": "тапшырды"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "шаймандарын"
+    }
+  ],
+  "timestamp": "2026-10-05T14:12:34.572053111Z",
+  "model": "glm-5.3"
+}

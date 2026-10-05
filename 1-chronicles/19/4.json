@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 19:4",
+  "book": "1-chronicles",
+  "lang": "ky",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "המפשעה",
+      "rationale": "буквалдык «кадам аралыгы\/чат» — уяң айтылыш; «өтө-бут» деп берилди"
+    },
+    {
+      "kind": "addition",
+      "subject": "сакалдарын",
+      "rationale": "ויגלחפ — «кырды» этиши; кыргызча объектсиз түшүнүксүз болгондуктан «сакалдарын» кошулду"
+    }
+  ],
+  "translation": "Ошентип Ханун ⟨את⟩ Давидтин кулдарын кармап, сакалдарын кырып, ⟨את⟩ кийимдерин белинен өтө-буттарына чейин кесип, аларды жөнөтүп жиберди.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "be16f8b43491578d4fce48d2323a0323be521e080bd1693bd8c2498cff97e28a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-chronicles\/19\/1-4.1791222213780.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "кармап алды"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "Ханун"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Давидтин кулдарын"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "кулдарын"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давидтин"
+    },
+    {
+      "surface": "ויגלחם",
+      "gloss": "сакалдарын кырды"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "кесип"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "кийимдерин"
+    },
+    {
+      "surface": "מדויהם",
+      "gloss": "кийимдерин"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "белинин ортосунан"
+    },
+    {
+      "surface": "עד",
+      "gloss": "чейин"
+    },
+    {
+      "surface": "המפשעה",
+      "gloss": "өтө-бутуна"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "жөнөтүп жиберди"
+    }
+  ],
+  "timestamp": "2026-10-05T17:43:33.781937304Z",
+  "model": "glm-5.3"
+}

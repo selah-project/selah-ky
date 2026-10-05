@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 7:17",
+  "book": "ecclesiastes",
+  "lang": "ky",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בלא עתך",
+      "rationale": "'убактыңан мурда' (KJV, JPS) менен YLTдин 'убактың ичинде' дегени ортосунда талаш; бул жерде көпчүлүк котормолордогу окшоштуу кабыл алынды"
+    },
+    {
+      "kind": "invitation",
+      "subject": "окурманга",
+      "rationale": "Тыюу багыттуу императивдер ('кылба', 'болбо') менен кайрылуу"
+    }
+  ],
+  "translation": "Ашыкча жамандык кылба, жана акмак болбо, эмне үчүн өз убактыңан мурда ⟨өлөсүң⟩?",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "2557af873b79a113d2c0b5b4a800dd0c24aaa3eba285baa3b813dd49599827d7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ecclesiastes\/7\/17-20.1791220106730.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "кылба"
+    },
+    {
+      "surface": "תרשע",
+      "gloss": "жамандык кыл"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "ашыкча"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "жана … болбо"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "бол"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "акмак"
+    },
+    {
+      "surface": "למה",
+      "gloss": "эмне үчүн"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "өлөсүң"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "сыз"
+    },
+    {
+      "surface": "עתך",
+      "gloss": "убактың"
+    }
+  ],
+  "timestamp": "2026-10-05T17:08:26.731604781Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 10:8",
+  "book": "proverbs",
+  "lang": "ky",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ילבט",
+      "rationale": "Лемма לבט өтө сейрек: «кулат» (KJV, JPS) же «тепет» (YLT, LXX тыянагы); «жыгылат» деген жакын маани тандалды"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חכם לב \/ אויל שפתים",
+      "rationale": "Жүрөк менен эриндин карама-каршылыгы: акыл жүрөктө, акылсыздык эринде"
+    }
+  ],
+  "translation": "Акылман жүрөк буйруктарды кабыл алат, ал эми эриндери көп аңгемелеген акылсыз кулат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "36b0543c3ca8a3601ea51b94f7f80f707c801c1018dd861a1a59b95dd93270bb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/10\/5-8.1791217913316.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חכם",
+      "gloss": "акылман"
+    },
+    {
+      "surface": "לב",
+      "gloss": "жүрөк"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "кабыл алат"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "буйруктарды"
+    },
+    {
+      "surface": "ואויל",
+      "gloss": "ал эми акылсыз"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "эриндери көп аңгемелеген"
+    },
+    {
+      "surface": "ילבט",
+      "gloss": "кулат"
+    }
+  ],
+  "timestamp": "2026-10-05T16:31:53.317636067Z",
+  "model": "glm-5.3"
+}

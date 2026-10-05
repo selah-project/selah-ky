@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 68:20",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 68,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יעמס לנו",
+      "rationale": "«Биздин жүктү көтөрөт» (ASV\/JPS) же «бизге жүктөйт» — бизге пайда берет (KJV)."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יום יום",
+      "rationale": "«күнүгө күнүгө» — еврейче экиликтин кайталоосу сакталды."
+    }
+  ],
+  "translation": "Мактоолуу Адонай — күнүгө күнүгө биздин жүгүбүздү көтөрөт; биздин куткаруубуз ⟨бул⟩ Эл. Селах.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "b8db233452fd8e4af835b37129aed01f1c56633a7eca456d475864a089c608f7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/68\/17-20.1791216452190.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Мактоолуу"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יום",
+      "gloss": "күнүгө"
+    },
+    {
+      "surface": "יום",
+      "gloss": "күнүгө"
+    },
+    {
+      "surface": "יעמס",
+      "gloss": "жүгүбүздү көтөрөт"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "биздин"
+    },
+    {
+      "surface": "האל",
+      "gloss": "Эл"
+    },
+    {
+      "surface": "ישועתנו",
+      "gloss": "биздин куткаруубуз"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Селах"
+    }
+  ],
+  "timestamp": "2026-10-05T16:07:32.191742420Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 8:6",
+  "book": "proverbs",
+  "lang": "ky",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "угуучуга",
+      "rationale": "Императив 'угулар' — Хакимат окурманды тартат"
+    },
+    {
+      "kind": "crux",
+      "subject": "נגידים",
+      "rationale": "'эржүүл\/эл башчыларга тиешелүү' — 'улуу нерселер' же 'княздар жөнүндө' деп да которулат"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨чыгат⟩",
+      "rationale": "Ивритте этиш жок; кыргыз сүйлөмү толук болушу үчүн этиш кошулду"
+    }
+  ],
+  "translation": "Угулар, анткени мен эржүүл сөздөрдү айтам, жана эрнимдин ачылышынан түз нерселер ⟨чыгат⟩.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "36ae12da5af4eda7756e58ab2915263cb2f32db96f4eabd271b33e76a79c6854",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/8\/5-8.1791217851347.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "угулар"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "נגידים",
+      "gloss": "эржүүл сөздөрдү"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "айтам"
+    },
+    {
+      "surface": "ומפתח",
+      "gloss": "жана ачылышынан"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "эрнимдин"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "түз нерселер"
+    }
+  ],
+  "timestamp": "2026-10-05T16:30:51.348656198Z",
+  "model": "glm-5.3"
+}

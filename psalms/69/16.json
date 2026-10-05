@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 69:16",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 69,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "rationale": "Үч болбоочу жалгаоо ואל кыргызча терс этиш формасына сиңди, өзүнчө жазылган жок."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שבלת",
+      "rationale": "Шиболет — 'агын суу' деген сөз 'эгиз дандын сабагы' дегенди да туюнтат; кыргызча бул эки маани жоголду."
+    }
+  ],
+  "translation": "Суу ташкыны мени каптабасын, тереңдик мени жутуп албасын, кудук оозун үстүмдөн жаап салбасын.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "47969150fa716fb6d3c0651bb4d6a5c51568d472cd91d13850f2a329461459bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/69\/13-16.1791216426798.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "תשטפני",
+      "gloss": "каптабасын"
+    },
+    {
+      "surface": "שבолת",
+      "gloss": "ташкыны"
+    },
+    {
+      "surface": "מים",
+      "gloss": "суу"
+    },
+    {
+      "surface": "ואל",
+      "gloss": ""
+    },
+    {
+      "surface": "תבלעני",
+      "gloss": "жутуп албасын"
+    },
+    {
+      "surface": "מצולה",
+      "gloss": "тереңдик"
+    },
+    {
+      "surface": "ואל",
+      "gloss": ""
+    },
+    {
+      "surface": "תאטר",
+      "gloss": "жаап салбасын"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "үстүмдөн"
+    },
+    {
+      "surface": "באר",
+      "gloss": "кудук"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "оозун"
+    }
+  ],
+  "timestamp": "2026-10-05T16:07:06.799050438Z",
+  "model": "glm-5.3"
+}

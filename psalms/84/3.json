@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 84:3",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 84,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жаным",
+      "rationale": "נפש — дем алуучу жандык, кеңири «жан-жалкоо», кыргызча «жан» менен берилди"
+    },
+    {
+      "kind": "alternative",
+      "subject": "талып бүттү",
+      "rationale": "כלתה: «бүттү\/өлдү» же «куштарлойт» — узак күтүүдөн талуу мааниси тандылды"
+    }
+  ],
+  "translation": "Сансыз арман кылды, ошондой эле талып бүттү жаным Яхвенин ичкі аянттарына; жүрөгүм жана денем тирүү Элге карата ырдап куранды.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "e0bbe97ccb636b5c7414918b9b102d28318473676f617e6b66fb0bc1a4d14788",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/84\/1-4.1791216809827.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נכספה",
+      "gloss": "арман кылды"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ошондой эле"
+    },
+    {
+      "surface": "כלתה",
+      "gloss": "талып бүттү"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "жаным"
+    },
+    {
+      "surface": "לחצרות",
+      "gloss": "ичкі аянттарына"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "жүрөгүм"
+    },
+    {
+      "surface": "ובשרי",
+      "gloss": "жана денем"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "ырдап куранды"
+    },
+    {
+      "surface": "אל",
+      "gloss": "карата"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Элге"
+    },
+    {
+      "surface": "חי",
+      "gloss": "тирүү"
+    }
+  ],
+  "timestamp": "2026-10-05T16:13:29.828217919Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 25:12",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "Ким бул адам",
+      "rationale": "окурманга багытталган суроо — текст чакырат"
+    },
+    {
+      "kind": "crux",
+      "subject": "יבחר",
+      "rationale": "«ал (адам) тандаган жол» же «Анын (Яхвенин) тандаган жолу» — ээси так эмес"
+    },
+    {
+      "kind": "addition",
+      "subject": "Анын",
+      "rationale": "жолдун ээсин тактоо үчүн кошулду"
+    }
+  ],
+  "translation": "Ким бул адам — Яхведен коркгон? Ага Анын тандаган жолун үйрөтөт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "a30d850e7a42832cef0ccd636d9eca98b1382e0264ff2f0b03c1f9c58ef415c2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/25\/9-12.1791215660297.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ким"
+    },
+    {
+      "surface": "זה",
+      "gloss": "бул"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "адам"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "коркгон"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхведен"
+    },
+    {
+      "surface": "יורנו",
+      "gloss": "Ага үйрөтөт"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "жолун"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "тандаган"
+    }
+  ],
+  "timestamp": "2026-10-05T15:54:20.298860413Z",
+  "model": "glm-5.3"
+}

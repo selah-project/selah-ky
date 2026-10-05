@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 29:3",
+  "book": "proverbs",
+  "lang": "ky",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "хохма",
+      "rationale": "חכמה 'даанышмандык' — еврейче айтылышы сакталды, жалпы 'акыл' дегенге кыскартылган жок"
+    },
+    {
+      "kind": "idiom",
+      "subject": "багып жүргөн",
+      "rationale": "רעה 'жайытоо\/багуу' — мал багуу сөзү ойунчуларга карата идиома катары"
+    }
+  ],
+  "translation": "Хохманы сүйгөн киши атасын кубантат, ал эми ойунчуларды багып жүргөн адам байлыгын жоготот.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "2b8336082e41c1b0d1af0495e2a2ea5050121a3e7d3fea4beab8ffad2195df0a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/29\/1-4.1791218428609.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "киши"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "сүйгөн"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "хохманы"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "кубантат"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "атасын"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "багып жүргөн"
+    },
+    {
+      "surface": "זונות",
+      "gloss": "ойунчуларды"
+    },
+    {
+      "surface": "יאבד",
+      "gloss": "жоготот"
+    },
+    {
+      "surface": "הון",
+      "gloss": "байлыгын"
+    }
+  ],
+  "timestamp": "2026-10-05T16:40:28.610743126Z",
+  "model": "glm-5.3"
+}

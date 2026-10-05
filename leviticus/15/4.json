@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 15:4",
+  "book": "leviticus",
+  "lang": "ky",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "болот",
+      "rationale": "кыргызча этиш системасы аныктык талап кылат, ивритте יטמא жөн гана абалды билдирет"
+    },
+    {
+      "kind": "substitution",
+      "subject": "буюм",
+      "rationale": "「כלי» — жабилге ар кандай буюм-тайым; «отургуч» деп тактап алуу текстти тар]датып жиберет"
+    }
+  ],
+  "translation": "Агуу бөлүп жаткан адам жаткан ар бир төшөк булганган болот, жана ал отурган ар бир буюм булганган болот.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "f7d8388bac6284fb4da5c44f4b5e5a5d5c612bb1133e19fbf128272f46f0c857",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/15\/1-4.1791203148637.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ар бир"
+    },
+    {
+      "surface": "המשכב",
+      "gloss": "төшөк"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…ган"
+    },
+    {
+      "surface": "יישכב",
+      "gloss": "жаткан"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "анын үстүндө"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "агуу бөлүп жаткан адам"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "булганган болот"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "жана ар бир"
+    },
+    {
+      "surface": "הכלי",
+      "gloss": "буюм"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…ган"
+    },
+    {
+      "surface": "יישב",
+      "gloss": "отурган"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "анын үстүндө"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "булганган болот"
+    }
+  ],
+  "timestamp": "2026-10-05T12:25:48.638692993Z",
+  "model": "glm-5.3"
+}

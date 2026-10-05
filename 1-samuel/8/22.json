@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 8:22",
+  "book": "1-samuel",
+  "lang": "ky",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Яхве → Шемуэл",
+      "rationale": "Direct divine address commanding Samuel to heed the people's demand."
+    },
+    {
+      "kind": "substitution",
+      "subject": "такка отургуз",
+      "rationale": "והמלכת is causative 'cause to reign'; 'appoint\/install as king', one causative verb rendered by phrase."
+    }
+  ],
+  "translation": "Жана Яхве Шемуэлге айтты: Алардын үнүн ук, жана аларга падыша такка отургуз. Жана Шемуэл Йисраэл эркектерине айтты: Ар бирөө өз шаарына баргыла.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "d3eb7e4b44ba0b829a1bbccd09231d9fb26635d9405c441e351427190658a5c8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-samuel\/8\/21-22.1791206611913.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Жана ... айтты"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…га"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Шемуэл"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ук"
+    },
+    {
+      "surface": "בקולם",
+      "gloss": "алардын үнүн"
+    },
+    {
+      "surface": "והמלכת",
+      "gloss": "жана ... такка отургуз"
+    },
+    {
+      "surface": "להם",
+      "gloss": "аларга"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "падыша"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Жана ... айтты"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Шемуэл"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…га"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "эркектерине"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэл"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "баргыла"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ар бирөө"
+    },
+    {
+      "surface": "לעירו",
+      "gloss": "өз шаарына"
+    }
+  ],
+  "timestamp": "2026-10-05T13:23:31.914115786Z",
+  "model": "glm-5.3"
+}

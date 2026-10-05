@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 3:20",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "בתי הנפש",
+      "rationale": "Буккал «нефештин үйлөрү» — KJV «таблеткалар», ASV «жыт идиштери»; биз «жыт сактагычтар» дедик, нефеш сөзү сакталды."
+    },
+    {
+      "kind": "crux",
+      "subject": "הלחשים",
+      "rationale": "«шыбырагандар» — KJV «кулагаптар», ASV «тумарлар»; лахаш — шыбыроо\/сыйкыр, биз «сыйкыр тумарлар» дедик."
+    }
+  ],
+  "translation": "баш кооздуктарын, аяк шынгаарларын, курларды, жыт сактагычтарды жана сыйкыр тумарларды.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "08761c1d77bb90d66ae3ee5e89da76a7cc74d48af1e64381aed32daadb8e865e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/3\/17-20.1791209416866.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הפארים",
+      "gloss": "баш кооздуктарын"
+    },
+    {
+      "surface": "והצעדות",
+      "gloss": "жана аяк шынгаарларын"
+    },
+    {
+      "surface": "והקשרים",
+      "gloss": "жана курларды"
+    },
+    {
+      "surface": "ובתי",
+      "gloss": "жана ... үйлөрүн"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "нефештин (жыт сактагычтарды)"
+    },
+    {
+      "surface": "והלחשים",
+      "gloss": "жана сыйкыр тумарларды"
+    }
+  ],
+  "timestamp": "2026-10-05T14:10:16.867230848Z",
+  "model": "glm-5.3"
+}

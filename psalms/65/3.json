@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 65:3",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 65,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "эт",
+      "rationale": "בשар — 'эт\/дене' деген сөз, бүт адамзат маанисинде; 'эл' эмес"
+    }
+  ],
+  "translation": "Дуба угуучу, сага бардык эт келет.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "d3aff8c50347acb0f564b73a480599286c9e131652b5fb885b167de99e50ebde",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/65\/1-4.1791216336207.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "угуучу"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "дуба"
+    },
+    {
+      "surface": "עדיך",
+      "gloss": "сага"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бардык"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "эт"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "келет"
+    }
+  ],
+  "timestamp": "2026-10-05T16:05:36.208010301Z",
+  "model": "glm-5.3"
+}

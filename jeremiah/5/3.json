@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 5:3",
+  "book": "jeremiah",
+  "lang": "ky",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "эмунага",
+      "rationale": "אמונה — «бектүүлүк, ишенимчилдик»; 1-аяттагы издөө менен кайра жарышат."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מאנו ... מאנו",
+      "rationale": "Эки «баш тартты» — тарбиядан жана кайрылуудан — ыр саптарын кайталоо менен бекемдейт."
+    }
+  ],
+  "translation": "Яхве, көздөрүң эмунага карабайбы? Сен ⟨את⟩ аларды сабадың, бирок алар кайгырабады; аларды жок кылдың — тарбияны кабыл алуудан баш тартышты; беттерин аскадан да катуу кылышты, кайрылуудан баш тартышты.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "2e0583fbe851d60ac959a36a15d5909c8da036636b92ef5971297f3a5e69aebd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/jeremiah\/5\/1-4.1791210845605.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "көздөрүң"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "эмес беле"
+    },
+    {
+      "surface": "לאמונה",
+      "gloss": "эмунага"
+    },
+    {
+      "surface": "הכיתה",
+      "gloss": "сабадың"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "аларды"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "бирок жок"
+    },
+    {
+      "surface": "חלו",
+      "gloss": "кайгырабады"
+    },
+    {
+      "surface": "כליתם",
+      "gloss": "жок кылдың"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "баш тартты"
+    },
+    {
+      "surface": "קחת",
+      "gloss": "алуудан"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "тарбия"
+    },
+    {
+      "surface": "חזקו",
+      "gloss": "катуу кылышты"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "беттерин"
+    },
+    {
+      "surface": "מסלע",
+      "gloss": "аскадан"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "баш тартышты"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "кайрылуудан"
+    }
+  ],
+  "timestamp": "2026-10-05T14:34:05.606589313Z",
+  "model": "glm-5.3"
+}

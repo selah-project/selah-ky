@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 10:4",
+  "book": "ezra",
+  "lang": "ky",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Эзрага",
+      "rationale": "Шеханья Эзрага түз кайрылуу менен буйрук берет: «Тур... бекем бол жана жаса»."
+    },
+    {
+      "kind": "addition",
+      "subject": "тиешелүү",
+      "rationale": "Ивритте «иш сенин үстүңдө» деген түз эмес туюнтма; кыргызча «сага тиешелүү» деп ачыкталды."
+    }
+  ],
+  "translation": "Тур, анткени иш сага тиешелүү, жана биз сени менен биргебиз; бекем бол жана жаса.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "6731ef52a71b0236679f1e24b1892bf70b9acb474bd0a3431715e44e7a152789",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ezra\/10\/1-4.1791221185915.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "Тур"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "сага"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "иш"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "жана биз"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "сени менен биргебиз"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "бекем бол"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "жана жаса"
+    }
+  ],
+  "timestamp": "2026-10-05T17:26:25.917495165Z",
+  "model": "glm-5.3"
+}

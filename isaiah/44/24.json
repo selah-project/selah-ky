@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 44:24",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨бар⟩",
+      "rationale": "Ивритте «Мен менен ким?» деген кошумча этишсиз суроо; кыргызча «бар» сөзү кошулду."
+    },
+    {
+      "kind": "crux",
+      "subject": "מי אתי",
+      "rationale": "KJV\/JPS: «Мен өзүм менен» (жайылуунун ыкмасы катары); YLT\/ASV: «Мен менен ким?» (суроо)."
+    },
+    {
+      "kind": "you",
+      "subject": "Йисраэлге",
+      "rationale": "«Сенин Куткаруучуң» — Яхвенин сөзү Йисраэлге багытталган."
+    }
+  ],
+  "translation": "Мындай дейт Яхве, сенин Куткаруучуң жана курсактан калаганың: Мен — Яхве, баарын жасаган, асмандарды жалгыз өзүм жайган, жерди жайып чыккан — Мен менен ким ⟨бар⟩?",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "9bbce83601a6c1ef4d4e2a5fad2000ed029a3995d92e0f95cc470a58d266240f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/44\/21-24.1791210254777.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "мындай"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "дейт"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "גאלך",
+      "gloss": "Куткаруучуң"
+    },
+    {
+      "surface": "ויצרך",
+      "gloss": "жана калаганың"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "курсактан"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Мен"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "жасаган"
+    },
+    {
+      "surface": "כל",
+      "gloss": "баарын"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "жайган"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "асмандарды"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "жалгыз өзүм"
+    },
+    {
+      "surface": "רקע",
+      "gloss": "жайып чыккан"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "жерди"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ким"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "Мен менен (ким бар)"
+    }
+  ],
+  "timestamp": "2026-10-05T14:24:14.778416891Z",
+  "model": "glm-5.3"
+}

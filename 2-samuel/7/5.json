@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 7:5",
+  "book": "2-samuel",
+  "lang": "ky",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "сөздөрдүн тизмеги",
+      "rationale": "кыргызча дативтик «Давидге» жөнөкөй эле一人一人 «э»预position жок — эки אל өзүнчө глоссасыз калды"
+    },
+    {
+      "kind": "you",
+      "subject": "Давидге (Натан аркылуу)",
+      "rationale": "Яхвенин сөзү Давидге багытталган суроо-тикаа"
+    }
+  ],
+  "translation": "Бар да менин кулум Давидге айт: «Мындай дейт Яхве: Мага жашоо үчүн үй тургузасыңбы?",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "b1ef885071b0e92929955911a85d1e3be452551a1c2c5ffcb0af6c864f7f98f3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-samuel\/7\/5-8.1791207514389.json",
+    "code": "641241cf-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "бар"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "да айт"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "кулум"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "כה",
+      "gloss": "мындай"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "дейт"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "האתה",
+      "gloss": "сен"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "тургузасыңбы"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мага"
+    },
+    {
+      "surface": "בית",
+      "gloss": "үй"
+    },
+    {
+      "surface": "לשבתי",
+      "gloss": "жашоо үчүн"
+    }
+  ],
+  "timestamp": "2026-10-05T13:38:34.390199233Z",
+  "model": "glm-5.3"
+}

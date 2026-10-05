@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "judges 3:14",
+  "book": "judges",
+  "lang": "ky",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "он сегиз жыл",
+      "rationale": "көз карандылыктын мөөнөтү саналып берилген"
+    },
+    {
+      "kind": "addition",
+      "subject": "го",
+      "rationale": "кыргызча датив мүчөсү, еврейче את түз объектти көрсөтөт"
+    }
+  ],
+  "translation": "Жана Йисраэлдин уулдары ⟨את⟩ Моаб падышасы Эглонго он сегиз жыл кызмат кылышты.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "e1a914e3c3918ffd16a357e472d87ac5ba08ac687e189319c20d5939bdc05333",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/judges\/3\/13-16.1791206132872.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "кызмат кылышты"
+    },
+    {
+      "surface": "בני",
+      "gloss": "уулдары"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэлдин"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Эглонду"
+    },
+    {
+      "surface": "עגלון",
+      "gloss": "Эглон"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "падышасы"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моаб"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "он"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "сегиз"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "жыл"
+    }
+  ],
+  "timestamp": "2026-10-05T13:15:32.873020631Z",
+  "model": "glm-5.3"
+}

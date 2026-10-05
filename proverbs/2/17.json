@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 2:17",
+  "book": "proverbs",
+  "lang": "ky",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ал⟩",
+      "rationale": "Еврейче аялча жекече причастие; кыргызча жыныс көрсөтүлбөгөндүктөн ⟨ал⟩ кошулду"
+    },
+    {
+      "kind": "crux",
+      "subject": "אלוף",
+      "rationale": "'жолдош' (ASV\/BSB) же 'эгеси\/жол башчысы' (KJV\/JPS 'guide\/lord') — үй-бүлөлүк же ээлик маани"
+    }
+  ],
+  "translation": "Таштап кеткен ⟨ал⟩ өспүрүмдүгүнүн жолдошун, жана ⟨את⟩ өз Элохиминин келишимин унуткан.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "e9a0b7110083cd112e2542f5a96157b4409c2b841884b13041db69e657ce1932",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/2\/17-20.1791217763430.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "העזבת",
+      "gloss": "таштап кеткен"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "жолдош"
+    },
+    {
+      "surface": "נעוריה",
+      "gloss": "өспүрүмдүгүнүн"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "жана ⟨את⟩",
+      "marks": "өз Элохиминин келишимин"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "келишим"
+    },
+    {
+      "surface": "אלהיה",
+      "gloss": "өз Элохиминин"
+    },
+    {
+      "surface": "שכחה",
+      "gloss": "унуткан"
+    }
+  ],
+  "timestamp": "2026-10-05T16:29:23.431250859Z",
+  "model": "glm-5.3"
+}

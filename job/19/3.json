@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 19:3",
+  "book": "job",
+  "lang": "ky",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "он жолу",
+      "rationale": "саналган көрсөтмө — 'он жолу' — кабыл алуунун чени"
+    },
+    {
+      "kind": "crux",
+      "subject": "תהכרו",
+      "rationale": "הָכַר — бул жерде гана кездешет: 'мени жат көрсөтөсүңөр' (KJV) же 'мени зыянкачтык кыласыңар' (JPS) деген варианттар бар"
+    }
+  ],
+  "translation": "Муну он жолу мени кор кылдыңар; уялбайсыңар, мени жат көрсөтөсүңөр.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "772b40919c30e9bed244a051291c604f7267bd8bf9a13ac44c6bc8834ba540d0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/job\/19\/1-4.1791218953824.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "муну"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "он"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "жолу"
+    },
+    {
+      "surface": "תכלימוני",
+      "gloss": "мени кор кылдыңар"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "תבשу",
+      "gloss": "уялбайсыңар"
+    },
+    {
+      "surface": "תהכרו",
+      "gloss": "жат көрсөтөсүңөр"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мага"
+    }
+  ],
+  "timestamp": "2026-10-05T16:49:13.825054006Z",
+  "model": "glm-5.3"
+}

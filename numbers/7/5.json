@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 7:5",
+  "book": "numbers",
+  "lang": "ky",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Мошеге",
+      "rationale": "Яхве Мошеге буйрук берет — эгеси так белгилүү."
+    },
+    {
+      "kind": "idiom",
+      "subject": "כפי עבדתו",
+      "rationale": "буквалдуу «өз кызматынын оозу боюнча» — кызмат көлөмүнүн өлчөмү, «жараша» деп берилди."
+    },
+    {
+      "kind": "elision",
+      "subject": "מאתם",
+      "rationale": "H854 жакындык предлогу — ⟨את⟩ белгиси менен берилди, кыргызча «арысынан» кошулду."
+    }
+  ],
+  "translation": "Алардын арысынан ⟨את⟩ ал, алар Чолок кездешүү чатырынын кызматын аткаруу үчүн болсун, жана сен аларды левилерге бер, ар бир адам өз кызматынын оозуна жараша.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "0f020e2e348987bdef70a7abbb8253a45b96f56840c3b1b57f7cce81ec9c9314",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/numbers\/7\/5-8.1791203659202.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "ал"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "⟨את⟩ алардын арысынан"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "жана болсун"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "аткаруу үчүн"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "кызмат"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "кызматын"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "чатыры"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Чолок кездешүү"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "жана сен бер"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ аларды",
+      "marks": "левилерге"
+    },
+    {
+      "surface": "אל",
+      "gloss": "левилерге"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "левилерге"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ар бир адам"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "оозуна жараша"
+    },
+    {
+      "surface": "עבדתו",
+      "gloss": "өз кызматынын"
+    }
+  ],
+  "timestamp": "2026-10-05T12:34:19.203474552Z",
+  "model": "glm-5.3"
+}

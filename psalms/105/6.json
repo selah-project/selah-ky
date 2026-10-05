@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 105:6",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "к Израилю",
+      "rationale": "прямое именное обращение — восклицательный вокатив"
+    },
+    {
+      "kind": "substitution",
+      "subject": "тукуму",
+      "rationale": "זרע буквально 'үрөн'; здесь потомки Аврахама"
+    }
+  ],
+  "translation": "Аврахамдын, Анын кулунун тукуму, Яаковтун уулдары, Анын тандалгандары!",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "f9375e1b687a7059db0197c0fb73fffc6371e415f950beb4ed1390fbe2cc10b5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/105\/5-8.1791217076857.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זרע",
+      "gloss": "тукуму"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Аврахамдын"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "Анын кулунун"
+    },
+    {
+      "surface": "בני",
+      "gloss": "уулдары"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаковтун"
+    },
+    {
+      "surface": "בחיריו",
+      "gloss": "Анын тандалгандары"
+    }
+  ],
+  "timestamp": "2026-10-05T16:17:56.859628012Z",
+  "model": "glm-5.3"
+}

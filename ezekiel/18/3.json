@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 18:3",
+  "book": "ezekiel",
+  "lang": "ky",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "חי אני",
+      "rationale": "«Мен жашап турмун» — ант берүү идиомасы, кыргызча «жашым менен ант берем» деген мааниде."
+    },
+    {
+      "kind": "elision",
+      "subject": "אם",
+      "rationale": "Тигил эмес ултан («эгерде…болбойт») кыргызча «дагы…болбойт» деп жуурулуп кетти."
+    }
+  ],
+  "translation": "Мен жашап турмун — Адонай Яхвенин айтымы — бул ылакап дагы силерде Йисраэлде болбойт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "37c954b77d810f2558a0a7017a85a33c382d44539968be6d59854323a5d712d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ezekiel\/18\/1-4.1791212534621.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חי",
+      "gloss": "жашап турмун"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Мен"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "айтымы"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨эгерде⟩"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "болбойт"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "силерде"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "дагы"
+    },
+    {
+      "surface": "משל",
+      "gloss": "айтуу"
+    },
+    {
+      "surface": "המשל",
+      "gloss": "ылакап"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "бул"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Йисраэлде"
+    }
+  ],
+  "timestamp": "2026-10-05T15:02:14.622599579Z",
+  "model": "glm-5.3"
+}

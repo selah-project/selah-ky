@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 32:11",
+  "book": "2-chronicles",
+  "lang": "ky",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "азгырып",
+      "rationale": "מסית: «азгыруу» (жаман ниет менен) же «ынандыруу» (KJV «persuade») — Санхериб Хизкиянын сөзүн жаман көрсөтүп жатат"
+    },
+    {
+      "kind": "substitution",
+      "subject": "колунан",
+      "rationale": "מכף букв. «алакандан» — кыргызча «колдон» деген идиома менен берилди"
+    },
+    {
+      "kind": "you",
+      "subject": "to Judah in Jerusalem",
+      "rationale": "Суранып суроо түрүндөгү түз кайрылуу — Йерушалаймдагы элге"
+    }
+  ],
+  "translation": "Хизкия ⟨את⟩ силерди ачтан жана суусоодон өлүүгө берүүгө азгырып жатпайбы, мындай деп: Яхве, Элохимибиз, бизди Ашшур падышасынын колунан куткарат?",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "f5b2461bedbbfc4c7304bd2800811e4406f61ab5b00a00492134a7754f044b94",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-chronicles\/32\/10-11.1791224694066.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "жатпайбы"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Хизкия"
+    },
+    {
+      "surface": "מסית",
+      "gloss": "азгырып"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "силерди"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "берүүгө"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "силерди"
+    },
+    {
+      "surface": "למות",
+      "gloss": "өлүүгө"
+    },
+    {
+      "surface": "ברעב",
+      "gloss": "ачтан"
+    },
+    {
+      "surface": "ובצמא",
+      "gloss": "жана суусоодон"
+    },
+    {
+      "surface": "לאмר",
+      "gloss": "мындай деп"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Элохимибиз"
+    },
+    {
+      "surface": "יצילנו",
+      "gloss": "куткарат"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "колунан"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "падышасы"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ашшур"
+    }
+  ],
+  "timestamp": "2026-10-05T18:24:54.067374689Z",
+  "model": "glm-5.3"
+}

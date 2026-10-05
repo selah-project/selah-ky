@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 22:12",
+  "book": "numbers",
+  "lang": "ky",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ага",
+      "rationale": "Кыргыз тили айтты этишине алыс сөздү талап кылат, ивритте אל жөн гана предлог"
+    },
+    {
+      "kind": "substitution",
+      "subject": "карга",
+      "rationale": "אָרַר — тамыры «тескери багыштоо» деген; кыргызча «каргоо» эң жакын түшүнүк"
+    },
+    {
+      "kind": "you",
+      "subject": "Биламга",
+      "rationale": "Элохимдин сөзү түз Биламга багытталган — тыюу сөзүнөн турган буйрук"
+    }
+  ],
+  "translation": "Жана Элохим Биламга айтты: Алар менен барба, ⟨את⟩ элди каргаба, анткени ал алкышталган.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "a4e9e63b98dbaee88c8bf6d1670929103913d6d44317dd8db58ef5aa5a0ff226",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/numbers\/22\/12-12.1791223666559.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "жана айтты"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ага"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Биламга"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ба"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "бар"
+    },
+    {
+      "surface": "עמהם",
+      "gloss": "алар менен"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ба"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "карга"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "элди"
+    },
+    {
+      "surface": "העם",
+      "gloss": "элди"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "алкышталган"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ал"
+    }
+  ],
+  "timestamp": "2026-10-05T18:07:46.560164991Z",
+  "model": "glm-5.3"
+}

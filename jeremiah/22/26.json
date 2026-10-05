@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "jeremiah 22:26",
+  "book": "jeremiah",
+  "lang": "ky",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "бир",
+      "rationale": "«башка бир жер» — кыргызча анык мүнөз үчүн кошулду"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ילדתך \/ ילדתם",
+      "rationale": "«төрөгөн \/ төрөлбөгөн» тамыры кайталанат: төрөлгөн жер эмес, төрөлбөгөн жер"
+    }
+  ],
+  "translation": "Жана Мен ⟨את⟩ сени жана ⟨את⟩ сени төрөгөн энеңди силер төрөлбөгөн башка бир жерге ыргытамын, жана ошол жерде өлөсүңөр.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "7dce5e5e6a31edbf5377f2a598f7a8ebe8c61129553c3b68cda6dbecd4dac821",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/jeremiah\/22\/25-28.1791211174522.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והטלתי",
+      "gloss": "Ыргытамын"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "сени"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "жана ⟨את⟩",
+      "marks": "энеңди"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "энеңди"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ал"
+    },
+    {
+      "surface": "ילדתך",
+      "gloss": "сени төрөгөн"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстүнө"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "жерге"
+    },
+    {
+      "surface": "אחרת",
+      "gloss": "башка"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "айланасы"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "ילדתם",
+      "gloss": "төрөлбөгөн"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ошол жерде"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "жана ошол жерде"
+    },
+    {
+      "surface": "תמותו",
+      "gloss": "өлөсүңөр"
+    }
+  ],
+  "timestamp": "2026-10-05T14:39:34.523259308Z",
+  "model": "glm-5.3"
+}

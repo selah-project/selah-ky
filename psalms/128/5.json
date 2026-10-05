@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 128:5",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 128,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жыргалчылык",
+      "rationale": "טוב — «жакшылык, игилик»; «жыргалчылык» — жыйынды котормо"
+    },
+    {
+      "kind": "addition",
+      "subject": "силага",
+      "rationale": "יברכך — «ал сени баталайт»; кыргызча These формасы кошулду"
+    },
+    {
+      "kind": "you",
+      "subject": "Яхвеге корккон адамга",
+      "rationale": "Аят түз багытталган тилек"
+    }
+  ],
+  "translation": "Яхве Сиондон силага берекет берсе, Йерушалайимдин жыргалчылыгын өмүрүңдүн бардык күндөрүндө көрсөң.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "e206f8ef259e99df1014c7f33292f5f6536466b405d31c30e8d72f2affd7a24e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/128\/5-6.1791217424361.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יברכך",
+      "gloss": "берекет берсе"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "Сиондон"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "жана көрсөң"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "жыргалчылыгын"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Йерушалайимдин"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бардык"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "күндөрүндө"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "өмүрүңдүн"
+    }
+  ],
+  "timestamp": "2026-10-05T16:23:44.362141211Z",
+  "model": "glm-5.3"
+}

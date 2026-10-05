@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "ecclesiastes 7:28",
+  "book": "ecclesiastes",
+  "lang": "ky",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жаным",
+      "rationale": "נפש — 'жан\/дем\/тиричилик күчү', кыргызча 'жан' эң жакын сөз"
+    },
+    {
+      "kind": "crux",
+      "subject": "אדם אחד",
+      "rationale": "'бир адам' (KJV, JPS) же 'бир устат' (YLT: 'a teacher') — кайсы окуу талаштуу"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מצאתי ×3",
+      "rationale": "эттиш үч жолу кайталанат — издөө жана табуу ритми, котормодо үчөө тең сакталды"
+    }
+  ],
+  "translation": "Муну жаным дагы издеп жатат, бирок таппадым: миң адамдын ичинен бир адам таптым, ал эми аялды булардын баарынан таппадым.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "3d474424923a8292c6343630255688c999b43b85905b99af76c33b7d44472762",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ecclesiastes\/7\/28-28.1791224550954.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "муну"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "дагы"
+    },
+    {
+      "surface": "בקשה",
+      "gloss": "издеп жатат"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "жаным"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "бирок"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "таппадым"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "адам"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бир"
+    },
+    {
+      "surface": "מאלף",
+      "gloss": "миңдин ичинен"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "таптым"
+    },
+    {
+      "surface": "ואשה",
+      "gloss": "ал эми аялды"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "баарынан"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "булардын"
+    },
+    {
+      "surface": "לא",
+      "gloss": "таппадым (болбойт)"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "таппадым"
+    }
+  ],
+  "timestamp": "2026-10-05T18:22:30.954619426Z",
+  "model": "glm-5.3"
+}

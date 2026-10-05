@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 29:7",
+  "book": "1-samuel",
+  "lang": "ky",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "בשלום",
+      "rationale": "букв. «тынчтыкта» — кыргызча «тынчтык менен жүр» деген даяр мааниде"
+    },
+    {
+      "kind": "you",
+      "subject": "Давидге",
+      "rationale": "буйрук формасы — Акиш Давидге түз кайрылуусун улантат"
+    }
+  ],
+  "translation": "Азыр кайтып бар да, тынчтык менен жүр, пелишти серенлеринин көзүнө жамандык кылба».",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "f6dc2ce8cb87cc278937aa53dba9e6a36ab3d2273f3f64f561bcec0ab1fc0616",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-samuel\/29\/5-8.1791207319908.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "азыр"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "кайтып бар"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "жана жүр"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "тынчтык менен"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "жана ... ба"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "кыл"
+    },
+    {
+      "surface": "רע",
+      "gloss": "жамандык"
+    },
+    {
+      "surface": "бעיני",
+      "gloss": "көзүнө"
+    },
+    {
+      "surface": "סרני",
+      "gloss": "серенлеринин"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "пелишти"
+    }
+  ],
+  "timestamp": "2026-10-05T13:35:19.910066379Z",
+  "model": "glm-5.3"
+}

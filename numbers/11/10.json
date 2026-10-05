@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 11:10",
+  "book": "numbers",
+  "lang": "ky",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ויחר אף",
+      "rationale": "Буквалдуу 'муруту күйөт' — кыргызча 'ачуусу кайнады' идиомасы менен берилди"
+    },
+    {
+      "kind": "addition",
+      "subject": "бул",
+      "rationale": "Еврейче רע этиш жок, 'жаман болду' дегенде ⟨бул⟩ субъекти кошулду"
+    }
+  ],
+  "translation": "Жана Моше ⟨את⟩ элдин үй-бүлөлөрү боюнча, ар бир адам өз чатырынын алдында ыйлап жатканын укту; жана Яхвенин ачуусу абдан кайнады, жана Мошенин көзүнө бул жаман болду.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "bdc90ea0a233af4e250a640c7550a15c9f3099261afe6f903a03455e4748a37c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/numbers\/11\/9-12.1791203876179.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "укту"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "элдин"
+    },
+    {
+      "surface": "העם",
+      "gloss": "элдин"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "ыйлап жатканын"
+    },
+    {
+      "surface": "למשפחתיו",
+      "gloss": "үй-бүлөлөрү боюнча"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ар бир адам"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "алдында"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "өз чатырынын"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "кайнады"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ачуусу"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "абдан"
+    },
+    {
+      "surface": "ובעיני",
+      "gloss": "көзүнө"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Мошенин"
+    },
+    {
+      "surface": "רע",
+      "gloss": "жаман болду"
+    }
+  ],
+  "timestamp": "2026-10-05T12:37:56.180513606Z",
+  "model": "glm-5.3"
+}

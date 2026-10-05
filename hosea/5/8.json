@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 5:8",
+  "book": "hosea",
+  "lang": "ky",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "кагыңар ... кыйкырыңар",
+      "rationale": "буйрук мүнөздөгү чакыруу — согуш добулбасы, окурманды аралаштырат"
+    },
+    {
+      "kind": "you",
+      "subject": "эй Бинйамин",
+      "rationale": "түз кайрылуу — Бинйамин уруусуна"
+    },
+    {
+      "kind": "crux",
+      "subject": "Артыңдан",
+      "rationale": "אחריך: «артыңдан» (куугун) же «алдыңда жүр» (баштат) — KJV «after thee», BSB «lead on»"
+    }
+  ],
+  "translation": "Гиваада шофарды, Рамада кернейди кагыңар; Бейт-Авенде кыйкырыңар: «Артыңдан, эй Бинйамин!»",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "33bc10890e812f1962563ffdd9e8a23024e53304a18fe3407db9381355926979",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/hosea\/5\/5-8.1791213866729.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תקעו",
+      "gloss": "кагыңар"
+    },
+    {
+      "surface": "шופר",
+      "gloss": "шофарды"
+    },
+    {
+      "surface": "בגבעה",
+      "gloss": "Гиваада"
+    },
+    {
+      "surface": "חצצרה",
+      "gloss": "кернейди"
+    },
+    {
+      "surface": "ברמה",
+      "gloss": "Рамада"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "кыйкырыңар"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бейт-"
+    },
+    {
+      "surface": "און",
+      "gloss": "Авенде"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "артыңдан"
+    },
+    {
+      "surface": "בנימין",
+      "gloss": "эй Бинйамин"
+    }
+  ],
+  "timestamp": "2026-10-05T15:24:26.730402551Z",
+  "model": "glm-5.3"
+}

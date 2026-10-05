@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 4:11",
+  "book": "ecclesiastes",
+  "lang": "ky",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "бар",
+      "rationale": "‘аларга жылуулук бар’ — кыргызча ‘бар’ этиши талап кылынат"
+    },
+    {
+      "kind": "substitution",
+      "subject": "жалгыз",
+      "rationale": "ולאחד — жөн гана ‘бирөөгө’; ‘жалгыз’ контексттен кошулду, салыштыруу маанисин ачып"
+    }
+  ],
+  "translation": "Дагы эгер экөө жатып калышса, аларга жылуулук бар; ал эми жалгыз бирөө кантип жылууйт?",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "da31e3970c32c59c4f9f012eaedb32f6b05f7cec520d2046e0f09b862f94130b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ecclesiastes\/4\/9-12.1791219974665.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "дагы"
+    },
+    {
+      "surface": "אם",
+      "gloss": "эгер"
+    },
+    {
+      "surface": "ישכבו",
+      "gloss": "жатып калышса"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "экөө"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "жана жылуулук"
+    },
+    {
+      "surface": "להם",
+      "gloss": "аларга"
+    },
+    {
+      "surface": "ולאחד",
+      "gloss": "жалгыз бирөөгө"
+    },
+    {
+      "surface": "איך",
+      "gloss": "кантип"
+    },
+    {
+      "surface": "יחם",
+      "gloss": "жылууйт"
+    }
+  ],
+  "timestamp": "2026-10-05T17:06:14.666097020Z",
+  "model": "glm-5.3"
+}

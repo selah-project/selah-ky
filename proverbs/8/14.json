@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 8:14",
+  "book": "proverbs",
+  "lang": "ky",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "бар",
+      "rationale": "Hebrew lacks copula; кыргызча «менде кеңеш бар» конструкциясын талап кылат"
+    }
+  ],
+  "translation": "Менде кеңеш бар жана ишенимдүү даналык; мен — түшүнүү, меникү — күч-кудурет.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "5298c9b4aa4fdca0ae007e485b353920cb2b5e71d3e467f379336aacbc41cf6c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/8\/13-16.1791217896145.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "менде"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "кеңеш"
+    },
+    {
+      "surface": "ותושיה",
+      "gloss": "ишенимдүү даналык"
+    },
+    {
+      "surface": "אני",
+      "gloss": "мен"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "түшүнүү"
+    },
+    {
+      "surface": "לי",
+      "gloss": "меникү"
+    },
+    {
+      "surface": "גבורה",
+      "gloss": "күч-кудурет"
+    }
+  ],
+  "timestamp": "2026-10-05T16:31:36.145679386Z",
+  "model": "glm-5.3"
+}

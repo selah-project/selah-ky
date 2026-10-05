@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 1:16",
+  "book": "2-samuel",
+  "lang": "ky",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "דמיך על ראשך",
+      "rationale": "«Каның башыңдын үстүндө» — жоопкерчилик өзүңдө деген еврей идиомасы, кыргызча да сөзмө-сөз сакталды."
+    },
+    {
+      "kind": "you",
+      "subject": "to the Amalekite",
+      "rationale": "Давидтин өлүм үкүгү түз жашырага айтылат."
+    },
+    {
+      "kind": "substitution",
+      "subject": "Машиах",
+      "rationale": "משיח — «майланган», бул жерде падыша Шаул жөнүндө."
+    }
+  ],
+  "translation": "Давид ага айтты: «Каның өз башыңдын үстүндө, анткени оозуң өзүңө каршы күбөлөндү, деп: «Мен Яхвенин Машиахын ⟨את⟩ өлтүрдүм» деп айттың».",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "b7b729e46a591d540646099deee06688839aefa1921c663221c56e711027b9ad",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-samuel\/1\/13-16.1791207353131.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ага"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "דמיך",
+      "gloss": "каның"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстүндө"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "башыңдын"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "оозуң"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "күбөлөндү"
+    },
+    {
+      "surface": "בך",
+      "gloss": "өзүңө каршы"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "деп айтуу"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "мен"
+    },
+    {
+      "surface": "מתתי",
+      "gloss": "өлтүрдүм"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яхвенин Машиахын"
+    },
+    {
+      "surface": "משיח",
+      "gloss": "Машиахын"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    }
+  ],
+  "timestamp": "2026-10-05T13:35:53.132392048Z",
+  "model": "glm-5.3"
+}

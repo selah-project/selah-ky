@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 68:5",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 68,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "Ырдаңар… ырдаңар",
+      "rationale": "Аят көп санга буйрук менен кайрылат — ырдоого, мактап ырдоого чакыруу."
+    },
+    {
+      "kind": "crux",
+      "subject": "чөлдөрдө",
+      "rationale": "ערבות: 'чөлдөр' (литералдык) же 'асмандарда' (KJV\/Таргум салты) — эки окуу бар."
+    },
+    {
+      "kind": "substitution",
+      "subject": "Ях — ⟨бул⟩ Анын аты",
+      "rationale": "Жүйө сөзү (бул) ивритте жок, кыргыз тилине керек болду."
+    }
+  ],
+  "translation": "Ырдаңар Элохимге, Анын атын мактап ырдаңар; чөлдөрдө минүүчүнү дайындагыла — Ях — ⟨бул⟩ Анын аты, Анын алдында сүйүнкүлөңгүлө.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "d0d34de8574f5ca09af12f3c917fe14629431bc70132e977351d89f717c99169",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/68\/5-8.1791216396221.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Ырдаңар"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Элохимге"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "мактап ырдаңар"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "Атын"
+    },
+    {
+      "surface": "סלו",
+      "gloss": "дайындагыла"
+    },
+    {
+      "surface": "לרכב",
+      "gloss": "минүүчүнү"
+    },
+    {
+      "surface": "בערבות",
+      "gloss": "чөлдөрдө"
+    },
+    {
+      "surface": "ביה",
+      "gloss": "Ях"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "Анын аты"
+    },
+    {
+      "surface": "ועלזו",
+      "gloss": "сүйүнкүлөңгүлө"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "Анын алдында"
+    }
+  ],
+  "timestamp": "2026-10-05T16:06:36.222008317Z",
+  "model": "glm-5.3"
+}

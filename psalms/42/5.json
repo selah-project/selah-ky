@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 42:5",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жан",
+      "rationale": "נפש — дем алуучу жандуулук, кеңири мааниси бар"
+    },
+    {
+      "kind": "alternative",
+      "subject": "אדדם",
+      "rationale": "«аларды жетектеймин» (KJV\/ASV) же «алар менен жүрөм» (JPS) — эки окуу бар"
+    }
+  ],
+  "translation": "Буларды эстеп, жаныбындагы жанды өзүмдүн үстүмө төгөмүн, анткени топтун ичинен өтүп, аларды Элохимдин үйүнө чейин акырын жетектеп барам, ырдоо жана алкоо добушу менен, майрамды белгилеген көп толкун ⟨менен⟩.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "f45caec732fda1f80e58f5b86b9c1a8e0682bd37b7506f36e4c28ce33b1b1447",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/42\/5-8.1791216017378.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "буларды"
+    },
+    {
+      "surface": "אזכרה",
+      "gloss": "эстеп"
+    },
+    {
+      "surface": "ואשפכה",
+      "gloss": "төгөмүн"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "өзүмдүн үстүмө"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "жаныбындагы жанды"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "אעבר",
+      "gloss": "өтүп"
+    },
+    {
+      "surface": "בסך",
+      "gloss": "топтун ичинен"
+    },
+    {
+      "surface": "אדדם",
+      "gloss": "акырын жетектеп барам"
+    },
+    {
+      "surface": "עד",
+      "gloss": "чейин"
+    },
+    {
+      "surface": "בית",
+      "gloss": "үйүнө"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохимдин"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "добушу менен"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "ырдоо"
+    },
+    {
+      "surface": "ותודה",
+      "gloss": "жана алкоо"
+    },
+    {
+      "surface": "המון",
+      "gloss": "көп толкун"
+    },
+    {
+      "surface": "חוגג",
+      "gloss": "майрамды белгилеген"
+    }
+  ],
+  "timestamp": "2026-10-05T16:00:17.379365537Z",
+  "model": "glm-5.3"
+}

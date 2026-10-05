@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 22:16",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨Сен⟩",
+      "rationale": "ך ты 'Сен' этиштин ээси кыргызча ачык көрүнүшү үчүн кошулду"
+    },
+    {
+      "kind": "crux",
+      "subject": "כארי \/ כרו",
+      "rationale": "'каапырлар мени колун чаапты' деген окуу (כרו LXXде) менен масoretтик 'арстандай' (כארי) талаш-тартыштуу, бирок бул аятта анын формасы жок"
+    }
+  ],
+  "translation": "Күч-кубатым чөкөдөй кургады, тилим жаактарыма жабышып калды, жана өлүм топурагына ⟨Сен⟩ мени жаткырдың.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "91233f5f52ffdf9ce5a2a3268ee7b28cec21719b3776c1eb5cb7f68dec3f8a7f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/22\/13-16.1791215596922.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "кургады"
+    },
+    {
+      "surface": "כחרש",
+      "gloss": "чөкөдөй"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "күч-кубатым"
+    },
+    {
+      "surface": "ולשוני",
+      "gloss": "жана тилим"
+    },
+    {
+      "surface": "מדבק",
+      "gloss": "жабышып калды"
+    },
+    {
+      "surface": "מלקוחי",
+      "gloss": "жаактарыма"
+    },
+    {
+      "surface": "ולעפר",
+      "gloss": "жана топурагына"
+    },
+    {
+      "surface": "מות",
+      "gloss": "өлүм"
+    },
+    {
+      "surface": "תשפתני",
+      "gloss": "мені жаткырдың"
+    }
+  ],
+  "timestamp": "2026-10-05T15:53:16.923414265Z",
+  "model": "glm-5.3"
+}

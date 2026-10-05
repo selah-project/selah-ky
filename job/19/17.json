@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 19:17",
+  "book": "job",
+  "lang": "ky",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "זרה",
+      "rationale": "'жат болду' (бөтөн болуп калды) же 'жийиркенди' (JPS 'abhorred') — эки окуу бар"
+    },
+    {
+      "kind": "substitution",
+      "subject": "рух",
+      "rationale": "רוח — 'дем' маанисинде да; бир сөз, үч маани"
+    }
+  ],
+  "translation": "Менин рухум аялымга жат болду, жана мен ичимдеги балдарым ⟨үчүн⟩ жалындым.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "0a1dd68ddaf6b1b486b359db961adea4a7cac95176dd7be16d3b2a88faa964f1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/job\/19\/17-20.1791218958500.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רוחי",
+      "gloss": "рухум"
+    },
+    {
+      "surface": "זרה",
+      "gloss": "жат болду"
+    },
+    {
+      "surface": "לאשתי",
+      "gloss": "аялымга"
+    },
+    {
+      "surface": "וחנתי",
+      "gloss": "жана жалындым"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "балдарым"
+    },
+    {
+      "surface": "בטני",
+      "gloss": "ичимдин"
+    }
+  ],
+  "timestamp": "2026-10-05T16:49:18.501108072Z",
+  "model": "glm-5.3"
+}

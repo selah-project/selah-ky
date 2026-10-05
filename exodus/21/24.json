@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 21:24",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "повтор",
+      "rationale": "Ар бир мүчө эки жолу айтылып, төрт жуптык параллелизм түзөт — lex talionis түзүү формуласы."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ордунан",
+      "rationale": "תחת көчмө маанисинде «...нын ордунан\/ордуна» дегенди билдирет; туура түшүнүү үчүн кыргызча «ордунан» түрүндө берилди."
+    }
+  ],
+  "translation": "Көз ордунан көз, тиш ордунан тиш, кол ордунан кол, бут ордунан бут.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "8b9c1ca8768a0a65ee9f57c849485b5b71faf234b1a02801b2e40790f74c9214",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/21\/24-24.1791223539309.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עין",
+      "gloss": "көз"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ордунан"
+    },
+    {
+      "surface": "עין",
+      "gloss": "көз"
+    },
+    {
+      "surface": "שן",
+      "gloss": "тиш"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ордунан"
+    },
+    {
+      "surface": "שן",
+      "gloss": "тиш"
+    },
+    {
+      "surface": "יד",
+      "gloss": "кол"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ордунан"
+    },
+    {
+      "surface": "יד",
+      "gloss": "кол"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "бут"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ордунан"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "бут"
+    }
+  ],
+  "timestamp": "2026-10-05T18:05:39.309743137Z",
+  "model": "glm-5.3"
+}

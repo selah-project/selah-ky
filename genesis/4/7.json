@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 4:7",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שאת",
+      "rationale": "'көтөрүлүү' (жүз көтөрүлүү, KJV 'accepted') же 'алачыгы жокко чыгуу' — эки окуу бар"
+    },
+    {
+      "kind": "crux",
+      "subject": "חטאת",
+      "rationale": "'күнөө' же 'күнөө үчүн курмандык' (YLT) — бир сөз эки мааниде"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תשוקתו",
+      "rationale": "Башталыш 3:16 дагы аялдын эркегине болгон תשוקה менен жаңырышат — эки жерде бир эле сөз"
+    },
+    {
+      "kind": "alternative",
+      "subject": "вassy",
+      "rationale": "терминалдык תמשל בו — буйрук ('анын үстүнөн өкүм сүр') да, жөнөкөй келерчек да болушу мүмкүн"
+    }
+  ],
+  "translation": "Жакшы кылсаң — көтөрүлүү ⟨жок⟩ беле? Жана жакшы кылбасаң, күнөө эшиктин алдында жата турат; анын каалоосу сага багытталат, бирок сен анын үстүнөн өкүм сүрөсүң.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "845bf8e1b65f7b4778feae68e057396bb8546e6b8d5ea994c34b51979077c292",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/4\/5-8.1791200718774.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "эмес беле"
+    },
+    {
+      "surface": "אם",
+      "gloss": "эгер"
+    },
+    {
+      "surface": "תיטיב",
+      "gloss": "жакшы кылсаң"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "көтөрүлүү"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "жана эгер"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "תיטיב",
+      "gloss": "жакшы кылсаң"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "эшиктин алдында"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "күнөө"
+    },
+    {
+      "surface": "רבץ",
+      "gloss": "жата турат"
+    },
+    {
+      "surface": "ואליך",
+      "gloss": "сага"
+    },
+    {
+      "surface": "תשוקתו",
+      "gloss": "анын каалоосу"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "бирок сен"
+    },
+    {
+      "surface": "תמשל",
+      "gloss": "өкүм сүрөсүң"
+    },
+    {
+      "surface": "בו",
+      "gloss": "анын үстүнөн"
+    }
+  ],
+  "timestamp": "2026-10-05T11:45:18.775336652Z",
+  "model": "glm-5.3"
+}

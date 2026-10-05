@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 10:4",
+  "book": "ezekiel",
+  "lang": "ky",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "את булуттан",
+      "rationale": "Бул жерде את көбүнчө бем-эссенция катары түшүнүлөт ('булут менен толду', KJV), бирок Selah аны ⟨את⟩ белгиси катары сактайт."
+    },
+    {
+      "kind": "substitution",
+      "subject": "урмат",
+      "rationale": "כבוד 'оорлук, жалпак даңк' деген сөз; 'урмат' бул сөздүн салтанат маанисинин бир гана бөлүгүн берет."
+    },
+    {
+      "kind": "alternative",
+      "subject": "токтоду",
+      "rationale": "Еврей тексти 'үйдүн босогосуна үстүнө' дейт; KJV 'stood over' — туруктуу турмуш, жөн гана жайгашуу да болушу мүмкүн."
+    }
+  ],
+  "translation": "Жана Яхвенин урматы керубдан көтөрүлдү, үйдүн босогосунун үстүнө токтоду; жана үй ⟨את⟩ булуттан, короо болсо ⟨את⟩ Яхвенин урматынын жалтыроосунан толду.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "f719189840129fc2207b8faeff97ad5f1014dd9e9f404b0a6fdf2bc2044970f0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ezekiel\/10\/1-4.1791212313904.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירם",
+      "gloss": "көтөрүлдү"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "урматы"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "…дан"
+    },
+    {
+      "surface": "הכרוב",
+      "gloss": "керубдан"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстүнө"
+    },
+    {
+      "surface": "מפתן",
+      "gloss": "босогосунун"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "үйдүн"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "толду"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "үй"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "булуттан"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "булуттан"
+    },
+    {
+      "surface": "והחצר",
+      "gloss": "короо болсо"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "толду"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яхвенин урматынын жалтыроосунан"
+    },
+    {
+      "surface": "נגה",
+      "gloss": "жалтыроосунан"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "урматынын"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    }
+  ],
+  "timestamp": "2026-10-05T14:58:33.905952366Z",
+  "model": "glm-5.3"
+}

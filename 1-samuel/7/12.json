@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 7:12",
+  "book": "1-samuel",
+  "lang": "ky",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Жардам ташы",
+      "rationale": "Эвен-Хаэзер деген аталыштын мааниси окурманга берилди — таштын өзү аталышынан кийин түшүндүрмө катары"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אבן העזר \/ עזרנו",
+      "rationale": "аталыштагы 'эзер' (жардам) сөзү 'Яхве бизге жардам берди' деген сүйлөмдө кайталанат — бул аталышты жаратуучу жөнөкөй"
+    }
+  ],
+  "translation": "Анан Шемуел бир таш алып, аны Мицпа менен Шендин ортосуна коюп, анын ⟨את⟩ атын Эвен-Хаэзер — Жардам ташы — деп атады жана айтты: Ошол жерге чейин Яхве бизге жардам берди.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "122c78d6215d0cdeba1c2e8fa9c9236865495a04f3d9be1499e0c668f109a78c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-samuel\/7\/9-12.1791206650393.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "алып"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Шемуел"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "таш"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "бир"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "коюп"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ортосуна"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "Мицпа"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "менен"
+    },
+    {
+      "surface": "השן",
+      "gloss": "Шендин"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "атады"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "атын"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "атын"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "Эвен"
+    },
+    {
+      "surface": "העזר",
+      "gloss": "Хаэзер"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "жана айтты"
+    },
+    {
+      "surface": "עד",
+      "gloss": "чейин"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ошол жерге"
+    },
+    {
+      "surface": "עזרנו",
+      "gloss": "бизге жардам берди"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-10-05T13:24:10.395067200Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 84:8",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 84,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מחיל אל חיל",
+      "rationale": "Окшош үндүү «хайильдэн хайылга» — күчөй бергенин айткан ыргак, кыргызча «кубаттан кубатка» менен берилди."
+    },
+    {
+      "kind": "addition",
+      "subject": "-га\/-ка",
+      "rationale": "Кыргызча жөндөмө мүчөлөрү אל предлогдун ордуна жуурулду."
+    }
+  ],
+  "translation": "Алар кубаттан кубатка барышат, Элохимге Сиондо көрүнүшөт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "7c26eed9bb9dc138c7e5a43ae00b8c0c9dfb838360c3a120f890190b9f9b63eb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/84\/5-8.1791216813537.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ילכו",
+      "gloss": "барышат"
+    },
+    {
+      "surface": "מחיל",
+      "gloss": "кубаттан"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-га"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "кубатка"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "көрүнүшөт"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-га"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохимге"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "Сиондо"
+    }
+  ],
+  "timestamp": "2026-10-05T16:13:33.538646749Z",
+  "model": "glm-5.3"
+}

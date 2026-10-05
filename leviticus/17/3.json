@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 17:3",
+  "book": "leviticus",
+  "lang": "ky",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אישׁ אישׁ",
+      "rationale": "Эки катар айтылышы — «ар бир киши», өздүк жоопкерчиликти баса белгилөө"
+    },
+    {
+      "kind": "measurement",
+      "subject": "жаныбар тизмеси",
+      "rationale": "Бука, козу, эчки — курмандыкка тийиштүү жаныбарлардын так тизмеси"
+    }
+  ],
+  "translation": "Йисраэл үйүнөн ар бир киши, бука же козу же эчки кыргындаса — лагерде же лагерден тышкары кыргындаса:",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "099d492f34fa04e734d9a1ad81d559d49e38d47b540d08250c582873476ab5ed",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/17\/1-4.1791203231612.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "ар бир"
+    },
+    {
+      "surface": "איש",
+      "gloss": "киши"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "...дин үйүнөн"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэл"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "...к"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "кыргындаса"
+    },
+    {
+      "surface": "שור",
+      "gloss": "бука"
+    },
+    {
+      "surface": "או",
+      "gloss": "же"
+    },
+    {
+      "surface": "כשב",
+      "gloss": "козу"
+    },
+    {
+      "surface": "או",
+      "gloss": "же"
+    },
+    {
+      "surface": "עז",
+      "gloss": "эчки"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "лагерде"
+    },
+    {
+      "surface": "או",
+      "gloss": "же"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "...к"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "кыргындаса"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "тышкары"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "лагерден"
+    }
+  ],
+  "timestamp": "2026-10-05T12:27:11.613646360Z",
+  "model": "glm-5.3"
+}

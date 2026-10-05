@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 17:7",
+  "book": "judges",
+  "lang": "ky",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "леби",
+      "rationale": "Леби Леби уруусунан (Йехудадан эмес) болуш керек — текст 'Йехуда уруусунан' деп айтканы боюнча карама-каршылык катары белгилүү."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨болду⟩",
+      "rationale": "Еврейче этих копий нет; Еврейче copula жок."
+    }
+  ],
+  "translation": "Жана Бейт-Лехем Йехудадан, Йехуда уруусунан болгон жаш жигит ⟨болду⟩; ал — леби, жана ал ал жерде конок болуп жашаган.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "b6b144170cf71367ccda2ef8b3b9c78618466219a8ac9ac7b6131b6bc303e828",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/judges\/17\/5-8.1791206408664.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "жана болду"
+    },
+    {
+      "surface": "נער",
+      "gloss": "жаш жигит"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "Бейт-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Лехем"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Йехудадан"
+    },
+    {
+      "surface": "ממשפחת",
+      "gloss": "уруусунан"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Йехуда"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ал"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "леби"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "жана ал"
+    },
+    {
+      "surface": "גר",
+      "gloss": "конок болуп жашаган"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ал жерде"
+    }
+  ],
+  "timestamp": "2026-10-05T13:20:08.665372712Z",
+  "model": "glm-5.3"
+}

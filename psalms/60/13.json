@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 60:13",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 60,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жок нерсе",
+      "rationale": "шоъ — «жалган, бош»; кыргызча «жок нерсе» \/ «текке» деп берилди"
+    },
+    {
+      "kind": "crux",
+      "subject": "מצר",
+      "rationale": "«кысынчылык» же «душман» (цар); ЛХ «душманга каршы» деп алган"
+    }
+  ],
+  "translation": "Бизге кысынчылыктан жардам бер, анткени адамдын kutkarууусu — жок нерсе.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "d68e83efc903ae7fe44dd33932e52d81132b5b7547f878a3e0fd048430ffa7d8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/60\/13-14.1791216264654.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הבה",
+      "gloss": "бер"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "бизге"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "жардам"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "кысынчылыктан"
+    },
+    {
+      "surface": "ושוא",
+      "gloss": "жок нерсе"
+    },
+    {
+      "surface": "תשועת",
+      "gloss": "күтөрүү"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "адамдын"
+    }
+  ],
+  "timestamp": "2026-10-05T16:04:24.654639450Z",
+  "model": "glm-5.3"
+}

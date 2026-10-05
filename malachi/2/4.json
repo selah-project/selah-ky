@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "malachi 2:4",
+  "book": "malachi",
+  "lang": "ky",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "את לוי",
+      "rationale": "Бул את (H854) — алеф-тав маркери эмес, «менен» предлогу; ошондуктан ⟨את⟩ белгиси коюлган жок"
+    },
+    {
+      "kind": "you",
+      "subject": "койнуларга",
+      "rationale": "Буйрук дагы эле ыйык кызмат кылуучуларга багытталган"
+    }
+  ],
+  "translation": "Жана билесиңер, анткени Мен силерге бул буйрукту жибердим — Менин келишимим Леви ⟨את⟩ менен болушу үчүн, — дейт Яхве Цебаот.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "dd82bcdabdf8b43f73f4a7e460cc05ae7a0ccce12245284aef255edbfdcdd1c6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/malachi\/2\/1-4.1791215234990.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידעתם",
+      "gloss": "жана билесиңер"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "жибердим"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "силерге"
+    },
+    {
+      "surface": "את",
+      "gloss": "<את>",
+      "marks": "буйрукту"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "буйрукту"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "бул"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "болушу үчүн"
+    },
+    {
+      "surface": "бריתי",
+      "gloss": "Менин келишимим"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ менен"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Леви"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "дейт"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цебаот"
+    }
+  ],
+  "timestamp": "2026-10-05T15:47:14.991606580Z",
+  "model": "glm-5.3"
+}

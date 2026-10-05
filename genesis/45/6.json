@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 45:6",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨болду⟩ · ⟨калды⟩",
+      "rationale": "еврей номинальное предложение без глагола; кыргыз тилине этиш кошулду."
+    },
+    {
+      "kind": "measurement",
+      "subject": "эки жыл + беш жыл",
+      "rationale": "счёт лет голода — точное исчисление времени."
+    }
+  ],
+  "translation": "Анткени бул эки жыл ачарчылык жердин ичинде ⟨болду⟩, жана дагы беш жыл ⟨калды⟩, алардын ичинде айдоо да жок, оруу да жок.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "dea7e4ff419f0823b042d7d48b058c5fdfcfcfff3ad6b3fe05709c1876e82a91",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/45\/5-8.1791201758075.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Анткени"
+    },
+    {
+      "surface": "זה",
+      "gloss": "бул"
+    },
+    {
+      "surface": "שנתים",
+      "gloss": "эки жыл"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "ачарчылык"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "ичинде"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "жердин"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "жана дагы"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "беш"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "жыл"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "алар"
+    },
+    {
+      "surface": "אין",
+      "gloss": "жок"
+    },
+    {
+      "surface": "חריש",
+      "gloss": "айдоо"
+    },
+    {
+      "surface": "וקציר",
+      "gloss": "жана оруу"
+    }
+  ],
+  "timestamp": "2026-10-05T12:02:38.076682517Z",
+  "model": "glm-5.3"
+}

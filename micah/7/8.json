@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "micah 7:8",
+  "book": "micah",
+  "lang": "ky",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "душманга",
+      "rationale": "Айткан адам өз душманына тике кайрылат"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נפלתי\/קמתי",
+      "rationale": "Кулап-туруу карама-каршылыгы — аяттын өзөгү, кыргызча да сакталды"
+    },
+    {
+      "kind": "elision",
+      "subject": "כי",
+      "rationale": "Экөөнчү כי кыргызча 'анткени' болоп айтылбай, тынтыш белгиси менен берилди"
+    }
+  ],
+  "translation": "Менин душманым, мenden кубанба: мен куладым — турдум; мен караңгыда отурсам — Яхве мага жарык.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "6fb42ba567955f16c666c145c444f7fed2cb1743d17213a26e829831390c00c8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/micah\/7\/5-8.1791214696903.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "эч"
+    },
+    {
+      "surface": "תשמחי",
+      "gloss": "кубанба"
+    },
+    {
+      "surface": "איבתי",
+      "gloss": "душманым"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мenden"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "נפלתי",
+      "gloss": "куладым"
+    },
+    {
+      "surface": "קמתי",
+      "gloss": "турдум"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "אשב",
+      "gloss": "отурсам"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "караңгыда"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אור",
+      "gloss": "жарык"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мага"
+    }
+  ],
+  "timestamp": "2026-10-05T15:38:16.904630915Z",
+  "model": "glm-5.3"
+}

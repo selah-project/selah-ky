@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 118:28",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 118,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨сиң⟩",
+      "rationale": "Ивритте жок жөнөкөй өтмө мүчө — кыргызча жандооч аныктоо үчүн кошулду."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "Эл \/ Элохим",
+      "rationale": "Эки ысым тең Эл деген тамырдан — чынжырдын үч мүчөсүндө (Эл, Элохим, Яхве) ыр саптарынын кайталоосу."
+    }
+  ],
+  "translation": "Сен — менин Элимсиң, жана сени алкыштайм; менин Элохимимсиң, сени бийиктеймин.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "423fcb5bb7c63838a43f11f8960499c7c60d08c01731e006547b6ef3b81f10a3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/118\/25-28.1791217287299.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלי",
+      "gloss": "менин Элимсиң"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨Сен⟩"
+    },
+    {
+      "surface": "ואодך",
+      "gloss": "жана сени алкыштайм"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "менин Элохимимсиң"
+    },
+    {
+      "surface": "ארוממך",
+      "gloss": "сени бийиктеймин"
+    }
+  ],
+  "timestamp": "2026-10-05T16:21:27.301082156Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 1:16",
+  "book": "leviticus",
+  "lang": "ky",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "מראתו",
+      "rationale": "ׄмурאה 'жуткунтургу' деген сөз Танахта тек гана ушул жерде кездешет"
+    },
+    {
+      "kind": "crux",
+      "subject": "מראתו",
+      "rationale": "'Жуткунтургу' деби 'ичиндеги нерселери менен' деби — котормочулар талашкан жер"
+    }
+  ],
+  "translation": "Жана ал ⟨את⟩ анын жуткунтургусун канаттары менен алып таштасын жана аны курмандык чарасынын чыгыш жагындагы күл төгүлүүчү жайга ыргытсын.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "8274a7219c2d6dc9f2d6bb90c82f52c357fcabf3663bc7c07cf77f9391902909",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/1\/13-16.1791202830141.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והסיר",
+      "gloss": "алып таштасын"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "жуткунтургусун"
+    },
+    {
+      "surface": "מראתו",
+      "gloss": "жуткунтургусун"
+    },
+    {
+      "surface": "בנצתה",
+      "gloss": "канаттары менен"
+    },
+    {
+      "surface": "והשליך",
+      "gloss": "ыргытсын"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "аны"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "жанына"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "курмандык чарасынын"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "чыгыш жагындагы"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…га"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "жайга"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "күл төгүлүүчү"
+    }
+  ],
+  "timestamp": "2026-10-05T12:20:30.142743712Z",
+  "model": "glm-5.3"
+}

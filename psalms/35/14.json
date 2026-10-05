@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 35:14",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "караанып",
+      "rationale": "קדר — 'куңур түсөө', кебез кийип азалуу маанисинде; кыргызча 'караанып' азаны билдирет"
+    },
+    {
+      "kind": "addition",
+      "subject": "кошоктоочу",
+      "rationale": "כאבל אם — 'энени азалуучу'; кыргызча 'кошоктоочу' кошулду"
+    }
+  ],
+  "translation": "Досуна окшоп, бир тууганыма окшоп жүрдүм, энесин кошокточу азалуучудай караанып ийилдим.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "1842c0a78bc403ba192c1e93d5d063e626a9f2b51a241a50d61b744a063ac05e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/35\/13-16.1791215855084.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כרע",
+      "gloss": "досуна окшоп"
+    },
+    {
+      "surface": "כאח",
+      "gloss": "бир тууганыма окшоп"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мага"
+    },
+    {
+      "surface": "התהלכתי",
+      "gloss": "жүрдүм"
+    },
+    {
+      "surface": "כאבל",
+      "gloss": "азалуучудай"
+    },
+    {
+      "surface": "אם",
+      "gloss": "энесин"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "караанып"
+    },
+    {
+      "surface": "שחותי",
+      "gloss": "ийилдим"
+    }
+  ],
+  "timestamp": "2026-10-05T15:57:35.085212663Z",
+  "model": "glm-5.3"
+}

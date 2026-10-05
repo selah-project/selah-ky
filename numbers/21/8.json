@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 21:8",
+  "book": "numbers",
+  "lang": "ky",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "сараф",
+      "rationale": "שרף — «күйгүзүүчү\/от жылан» же Ышаядагы сераф түрүндөгы ыйык жандык; 21:9 дагы жез ден коюлганын эске салат"
+    },
+    {
+      "kind": "substitution",
+      "subject": "туу",
+      "rationale": "נס — белек\/туу\/жыйнак сигналы; «туу» кеңири кабыл алынган сүрөт"
+    },
+    {
+      "kind": "addition",
+      "subject": "киши",
+      "rationale": "הנשוך — «чагылган» (родителдик орнотуу), «киши» кыргызча ачыктык үчүн кошулду"
+    }
+  ],
+  "translation": "Жана Яхве Мошеге айтты: Өзүңө сараф жаса жана аны тууга кой; жана болот: чагылган ар бир киши аны көрсө — тирүү болот.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "974bebcc9ae6c61854be7cea6eabdf8c3e39e2ac1182f605aed4ef5efd6015b5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/numbers\/21\/5-8.1791204104296.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "жана ... айтты"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ге"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Мошеге"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "жаса"
+    },
+    {
+      "surface": "לך",
+      "gloss": "өзүңө"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "сараф"
+    },
+    {
+      "surface": "ושים",
+      "gloss": "жана ... кой"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ аны",
+      "marks": "сарафты"
+    },
+    {
+      "surface": "על",
+      "gloss": "-га"
+    },
+    {
+      "surface": "נס",
+      "gloss": "тууга"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "жана болот"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ар бир"
+    },
+    {
+      "surface": "הנשוך",
+      "gloss": "чагылган киши"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "жана ... көрсө"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ аны",
+      "marks": "сарафты"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "жана ... тирүү болот"
+    }
+  ],
+  "timestamp": "2026-10-05T12:41:44.297574049Z",
+  "model": "glm-5.3"
+}

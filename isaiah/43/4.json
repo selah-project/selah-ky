@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 43:4",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жан",
+      "rationale": "נפש — «дем алуу, тирилук, жүрөккө тамган» дегенге жакын; «жан» тар мааниде эмес"
+    },
+    {
+      "kind": "addition",
+      "subject": "ошондуктан",
+      "rationale": "Ивриттин салыштырма түзүлүшүнөн келип чыккан байланыш кыргызча байламта менен берилди"
+    }
+  ],
+  "translation": "Себеби Сен Менин көзүмө баалуу, урматтуусуң, жана Мен сени сүйөм; ошондуктан адамдарды сенин ордуңа, элдерди сенин жаныңа береём.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "75c3a2509528dd63c405c304ddb61b0e9f530593919ccff20410724249b9bfa3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/43\/1-4.1791210204775.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מאשר",
+      "gloss": "себеби"
+    },
+    {
+      "surface": "יקרת",
+      "gloss": "баалуусуң"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "Менин көзүмө"
+    },
+    {
+      "surface": "נכבדת",
+      "gloss": "урматтуусуң"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "жана Мен"
+    },
+    {
+      "surface": "אהבתיך",
+      "gloss": "сени сүйөм"
+    },
+    {
+      "surface": "ואתן",
+      "gloss": "ошондуктан береём"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "адамдарды"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "сенин ордуңа"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "жана элдерди"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ордуна"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "сенин жаныңа"
+    }
+  ],
+  "timestamp": "2026-10-05T14:23:24.776590851Z",
+  "model": "glm-5.3"
+}

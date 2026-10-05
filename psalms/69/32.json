@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 69:32",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 69,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "משור",
+      "rationale": "бул сөз Танахта ушул жерде гана кездешет; өгүз деген маани болжолдуу"
+    },
+    {
+      "kind": "crux",
+      "subject": "бука-өгүз",
+      "rationale": "משור жана פר эки сөзүн кимдир бир 'өгүз' деп, кимдир эки мал катары которот"
+    }
+  ],
+  "translation": "Жана бул Яхвеге мүйүздүү, туяктуу бука-өгүздөн да жагымдуураак.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "47865d8ec3d4b9028876d8ffb565712845c9506c7c941151964d2ec4f4dc58b1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/69\/29-32.1791216468371.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותיטב",
+      "gloss": "жана жагымдуураак"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхвеге"
+    },
+    {
+      "surface": "משור",
+      "gloss": "өгүз"
+    },
+    {
+      "surface": "פר",
+      "gloss": "бука"
+    },
+    {
+      "surface": "מקרן",
+      "gloss": "мүйүздүү"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "туяктуу"
+    }
+  ],
+  "timestamp": "2026-10-05T16:07:48.372801557Z",
+  "model": "glm-5.3"
+}

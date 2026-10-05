@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 8:6",
+  "book": "1-kings",
+  "lang": "ky",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "דביר",
+      "rationale": "«Двир» — үйдүн эң ички ыйык жайы; «ичинки ыйык жай» деген да варианты бар"
+    }
+  ],
+  "translation": "Жана ыйык кызматкерлер Яхвенин келишиминин сандыгын ⟨את⟩ анын ордуна алып келишти — үйдүн Двирине, ыйыктардын ыйыгына, керубтардын канаттарынын астына.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "5debe3e4ed32217bf843fe82ab49ce537f7e98583486509e81228d12e603efb3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-kings\/8\/5-8.1791208206588.json",
+    "code": "641241cf-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "алып келишти"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ыйык кызматкерлер"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яхвенин келишиминин сандыгын"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "сандыгын"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "келишиминин"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    },
+    {
+      "surface": "אל",
+      "gloss": "анын"
+    },
+    {
+      "surface": "мקומו",
+      "gloss": "ортуна"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ичини"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "Двирине"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "үйдүн"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ичини"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ыйыгына"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "ыйыктардын"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ичини"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "астына"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "канаттарынын"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "керубтардын"
+    }
+  ],
+  "timestamp": "2026-10-05T13:50:06.589570174Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezra 3:6",
+  "book": "ezra",
+  "lang": "ky",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨али⟩",
+      "rationale": "Еврей текстинде «али» жок; Ибадатканага «жок» деп гана айтылат"
+    },
+    {
+      "kind": "substitution",
+      "subject": "עלה\/להעלות",
+      "rationale": "Тамыр «жогору чыгуу» деген сөз; курмандык түтүнү менен көккө «жогору чыгат» деген сүрөт сакталбай калат"
+    }
+  ],
+  "translation": "Жетинчи айдын биринчи күнүнөн алар Яхвеге өрттөлүүчү курмандыктарды тартуулай башташты; бирок Яхвенин ибадатканасынын пайдубалы ⟨али⟩ түшүрүлгөн эмес.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "51a95af595ec64a53451fff6268b72a2a16b0354979a6905650df2c3a63407a5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ezra\/3\/5-8.1791221125846.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מיום",
+      "gloss": "күнүнөн"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "биринчи"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "айдын"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "жетинчи"
+    },
+    {
+      "surface": "החלו",
+      "gloss": "башташты"
+    },
+    {
+      "surface": "להעלות",
+      "gloss": "тартуулай"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "өрттөлүүчү курмандыктарды"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхвеге"
+    },
+    {
+      "surface": "והיכל",
+      "gloss": "бирок ибадатканасынын"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    },
+    {
+      "surface": "לא",
+      "gloss": "эмес"
+    },
+    {
+      "surface": "יסד",
+      "gloss": "негизделген"
+    }
+  ],
+  "timestamp": "2026-10-05T17:25:25.847704382Z",
+  "model": "glm-5.3"
+}

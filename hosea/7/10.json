@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 7:10",
+  "book": "hosea",
+  "lang": "ky",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "וענה",
+      "rationale": "ענה I «күбөлүк берүү» (KJV, JPS) же ענה II «чөгөрүлүү» (YLT) — тексттин айтылышына жараша; бул жерде күбөлүк берүү тандылды."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨Аны⟩",
+      "rationale": "בקשהו — «издешти Аны» жекече жалгыз этиш, кыргызча объект ⟨Аны⟩ катары кошулду."
+    }
+  ],
+  "translation": "Йисраэлдин текебери анын жүзүнө каршы күбөлүк берет, алар Яхве Элохимдерине кайтышкан жок да, бардык ушундай нерселерге карабай ⟨Аны⟩ издешпеген.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "cfde5f849d4996def4e03f402c04a2ec9fe783d9e7a33fcaa386535dd6b9d0fa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/hosea\/7\/9-12.1791213952826.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וענה",
+      "gloss": "күбөлүк берет"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "текебери"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэлдин"
+    },
+    {
+      "surface": "בפניו",
+      "gloss": "анын жүзүнө каршы"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "жок да"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "кайтышкан"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Элохимдерине"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "בקשהו",
+      "gloss": "издешпеген"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "бардык"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ушундай нерселерге"
+    }
+  ],
+  "timestamp": "2026-10-05T15:25:52.827589411Z",
+  "model": "glm-5.3"
+}

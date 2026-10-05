@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 47:21",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 47,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "העביר",
+      "rationale": "'көчүрдү' (KJV\/JPS, шаарларга) же 'кул кылды' (BSB, еврей מעבר бир нече кололжу маниси) — котормочулар эки жолду карашат."
+    },
+    {
+      "kind": "measurement",
+      "subject": "Мицрайимдин чеги",
+      "rationale": "Аян бир учтан экинчи учка чейин өлчөнөт."
+    }
+  ],
+  "translation": "Жана ⟨את⟩ элди ал шаарларга көчүрдү, Мицрайимдин чегинин бир учунан анын экинчи учуна чейин.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "bf3f40d7eca66694789e66df893918a6e0f79f9cc5762ba3e0926ba158ac96bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/47\/21-24.1791201769124.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "элди"
+    },
+    {
+      "surface": "העם",
+      "gloss": "элди"
+    },
+    {
+      "surface": "העביר",
+      "gloss": "көчүрдү"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ аларды",
+      "marks": "шаарларга"
+    },
+    {
+      "surface": "לערים",
+      "gloss": "шаарларга"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "бир учунан"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "чегинин"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицрайимдин"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "чейин"
+    },
+    {
+      "surface": "קצהו",
+      "gloss": "анын экинчи учуна"
+    }
+  ],
+  "timestamp": "2026-10-05T12:02:49.125432325Z",
+  "model": "glm-5.3"
+}

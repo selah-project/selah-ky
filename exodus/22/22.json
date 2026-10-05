@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 22:22",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ענה תענה \/ צעק יצעק \/ שמע אשמע",
+      "rationale": "Эттилдин кайталанышы (инфинитив + предикатив), кыргызча бир этиш менен берилди, бөлүнгөн форманын күчү жоголду"
+    },
+    {
+      "kind": "elision",
+      "subject": "כי אם",
+      "rationale": "«анткени эгер» деген бекем шарттуу конструкция кыргызча «анткени... —са» менен кыскартылды"
+    }
+  ],
+  "translation": "Эгер аны корлосоң — анткени ал Мага кыйкырса, Мен анын кыйкырыгын угамын.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "9d0cc3bbf40d6230cab9c525993394b79a1b331df03b195daefc77b66308228a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/22\/21-24.1791202267560.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Эгер"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "корлоо"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "корлосоң"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "аны"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "אם",
+      "gloss": "—"
+    },
+    {
+      "surface": "צעק",
+      "gloss": "кыйкырса"
+    },
+    {
+      "surface": "יצעק",
+      "gloss": "кыйкырса"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Мага"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "угуу"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "угамын"
+    },
+    {
+      "surface": "צעקתו",
+      "gloss": "кыйкырыгын"
+    }
+  ],
+  "timestamp": "2026-10-05T12:11:07.561737678Z",
+  "model": "glm-5.3"
+}

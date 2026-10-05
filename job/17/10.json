@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 17:10",
+  "book": "job",
+  "lang": "ky",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "силердин",
+      "rationale": "כלם «алардын баары» деп окулушу мүмкүн, бирок контекст досторго айтылган сөз — «силердин баарыңар»"
+    },
+    {
+      "kind": "you",
+      "subject": "Ийбуттун досторуна",
+      "rationale": "Ийбут үчүн тамаша айтып жаткан дос-сүйлөшүүчүлөргө түз кайрылуу"
+    }
+  ],
+  "translation": "Бирок силердин баарыңар кайрылып келгиле, азыр — жана силердин араныздан данышман таппайм.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "050969a89630496a4744c107a379889634846bc987949476ecb337d38f01da9a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/job\/17\/9-12.1791218858529.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "бирок"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "баарыңар"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "кайрылып"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "келгиле"
+    },
+    {
+      "surface": "נא",
+      "gloss": "азыр"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "жана таппайм"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "таппайм"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "силердин араныздан"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "данышман"
+    }
+  ],
+  "timestamp": "2026-10-05T16:47:38.529913641Z",
+  "model": "glm-5.3"
+}

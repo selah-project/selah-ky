@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 72:2",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 72,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Ал",
+      "rationale": "Этиштин ээси еврейчеде көрсөтүлбөгөн, кыргызча талап кылынат."
+    },
+    {
+      "kind": "addition",
+      "subject": "Элинин",
+      "rationale": "Аталык мамиле кыргызча ээни тактоо үчүн кошулду."
+    }
+  ],
+  "translation": "Ал Элинин элин цедек менен соттойт, жана Өзүңдүн жардыларыңды өкүм менен.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "a48fef1a85418dbb54979a0547751fddc0df576b4ea71bd982194e4e10d4ed60",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/72\/1-4.1791216477365.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ידין",
+      "gloss": "соттойт"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "элин"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "цедек менен"
+    },
+    {
+      "surface": "וענייך",
+      "gloss": "жана жардыларыңды"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "өкүм менен"
+    }
+  ],
+  "timestamp": "2026-10-05T16:07:57.366558530Z",
+  "model": "glm-5.3"
+}

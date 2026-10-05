@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-kings 22:28",
+  "book": "1-kings",
+  "lang": "ky",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שוב תשוב",
+      "rationale": "этиштин эки жолу кайталануусу — «чын эле кайтсаң» деген бекемдөө маанини берет"
+    },
+    {
+      "kind": "invitation",
+      "subject": "шмеру — угкула",
+      "rationale": "Микаяху чакырык менен элге кайрылат: «Угкула, элдер, баарыңар!»"
+    },
+    {
+      "kind": "you",
+      "subject": "элдерге",
+      "rationale": "акыркы буйрук бардык элге — чогулган элге түз кайрылуу"
+    }
+  ],
+  "translation": "Жана Микаяху айтты: Эгерде сен чын эле тынчтык менен кайтсаң — Яхве менин аркым менен сүйлөгөн эмес. Жана ал айтты: Угкула, элдер, баарыңар!",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "46c7a989be45396f2f12da7e0ec0e7388384be2a5439b56948d2f2b6ebcf3c5f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-kings\/22\/25-28.1791208605314.json",
+    "code": "641241cf-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "жана айтты"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "Микаяху"
+    },
+    {
+      "surface": "אם",
+      "gloss": "эгерде"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "чын эле"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "кайтсаң"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "тынчтык менен"
+    },
+    {
+      "surface": "לא",
+      "gloss": "эмес"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сүйлөгөн"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "בי",
+      "gloss": "менин аркым менен"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "жана айтты"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "угкула"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "элдер"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "баарыңар"
+    }
+  ],
+  "timestamp": "2026-10-05T13:56:45.315776087Z",
+  "model": "glm-5.3"
+}

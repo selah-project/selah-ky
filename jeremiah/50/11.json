@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 50:11",
+  "book": "jeremiah",
+  "lang": "ky",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Вавилонго (Кашдимге)",
+      "rationale": "Аят Бабилге — «тоноочу» деген аял жыныстагы адресте тикелей кайрылат."
+    },
+    {
+      "kind": "crux",
+      "subject": "כעגלה דשה",
+      "rationale": "«жаш чөптөгү музоодой» (KJV, JPS) же «дан баскан музоодой» (ASV, דשה ← דוש) — эки окуу бар."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תשמחי \/ תעלזי",
+      "rationale": "Эки синоним этиштик кайрылуу — «кубандың \/ шаттандың», үч жолу кайталанган כי менен күчөтүлгөн."
+    }
+  ],
+  "translation": "Анткени сен кубандың, анткени сен шаттандың, менин мурасымды тоноочу, анткени сен жаш чөптөгү музоодой шапалактаis — жана күчтүү букалардай үйүрөсүң.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "cd30bd39cc9dcdf3e39c21ba13c902a8dba2733121b373c16a1dc264771e6fb1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/jeremiah\/50\/9-12.1791211915982.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Анткени"
+    },
+    {
+      "surface": "תשמחי",
+      "gloss": "сен кубандың"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "תעלזי",
+      "gloss": "сен шаттандың"
+    },
+    {
+      "surface": "שסי",
+      "gloss": "тоноочу"
+    },
+    {
+      "surface": "נחלתי",
+      "gloss": "менин мурасымды"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "תפושי",
+      "gloss": "сен шапалактаis"
+    },
+    {
+      "surface": "כעגלה",
+      "gloss": "музоодой"
+    },
+    {
+      "surface": "דשה",
+      "gloss": "жаш чөптөгү"
+    },
+    {
+      "surface": "ותצהלי",
+      "gloss": "жана үйүрөсүң"
+    },
+    {
+      "surface": "כאברים",
+      "gloss": "күчтүү букалардай"
+    }
+  ],
+  "timestamp": "2026-10-05T14:51:55.983654905Z",
+  "model": "glm-5.3"
+}

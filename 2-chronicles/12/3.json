@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 12:3",
+  "book": "2-chronicles",
+  "lang": "ky",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "1200 араба, 60000 атчан",
+      "rationale": "Шишактын аскеринин так саны келтирилет"
+    },
+    {
+      "kind": "substitution",
+      "subject": "сан жок эле",
+      "rationale": "אין מספר букв. «сан жок» — элсиз көп деген маани"
+    }
+  ],
+  "translation": "Миң эки жүз араба менен жана алтымыш миң атчан аскер менен; жана аны менен Мицрайимден келген элге сан жок эле — лувийлер, суккийлер жана кушиттер.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "0335d5440a18d7dc4dcd9d32c47047f3fc45861eb7b5f25379bbf32a4c2c7da1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-chronicles\/12\/1-4.1791222798516.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "באלף",
+      "gloss": "миң"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "эки жүз"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "араба"
+    },
+    {
+      "surface": "ובששים",
+      "gloss": "алтымыш"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "миң"
+    },
+    {
+      "surface": "פרשים",
+      "gloss": "атчан аскер"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "жок эле"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "сан"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "элге"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "באו",
+      "gloss": "келген"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "аны менен"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Мицрайимден"
+    },
+    {
+      "surface": "לובים",
+      "gloss": "лувийлер"
+    },
+    {
+      "surface": "סכיים",
+      "gloss": "суккийлер"
+    },
+    {
+      "surface": "וכושים",
+      "gloss": "кушиттер"
+    }
+  ],
+  "timestamp": "2026-10-05T17:53:18.517941542Z",
+  "model": "glm-5.3"
+}

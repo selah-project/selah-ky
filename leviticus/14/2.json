@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 14:2",
+  "book": "leviticus",
+  "lang": "ky",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "цараат",
+      "rationale": "צרעת — «проказа» же «теринин оорусу» эмес, байыркы ыйык таза эмес белги; туура эмес «тозок» деген менен чаташтырбоо керек"
+    },
+    {
+      "kind": "measurement",
+      "subject": "күнү",
+      "rationale": "тазалануунун күнү белгиленет — ыйык ченем убакыт менен аныкталат"
+    }
+  ],
+  "translation": "Бул — таза болгон күнү цараатка кабылган адамдын Торасы: ал ыйык кызмат кылуучуга алынып келинет.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "29ea0b6cc3e237a0c5c80aeead6d0d66e658116bace6411366c1a37b165328d6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/14\/1-4.1791203078983.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "бул"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "болот"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Торасы"
+    },
+    {
+      "surface": "המצרע",
+      "gloss": "цараатка кабылган адамдын"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "күнү"
+    },
+    {
+      "surface": "טהרתו",
+      "gloss": "таза болгон"
+    },
+    {
+      "surface": "והובא",
+      "gloss": "алынып келинет"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…га"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ыйык кызмат кылуучуга"
+    }
+  ],
+  "timestamp": "2026-10-05T12:24:38.984589120Z",
+  "model": "glm-5.3"
+}

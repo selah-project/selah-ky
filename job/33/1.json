@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 33:1",
+  "book": "job",
+  "lang": "ky",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "Ийовго",
+      "rationale": "Элиху Ийовду тике кайрылып, угууга чакырат."
+    },
+    {
+      "kind": "idiom",
+      "subject": "האזינה",
+      "rationale": "Кыргызча «кулак төшө» — еврейче «кулагын кеңайт» деген сөзмө-сөз сүрөттүн идиомасы."
+    }
+  ],
+  "translation": "Бирок сөзүмдү угу, суранам, Ийов, менин сөздөрүмдү, баарын кулак төшө.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "c95f0e869cbb0b60370b3167500d79a829f2ac3535c5bf511a253f5553f34934",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/job\/33\/1-4.1791219272845.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "бирок"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "угу"
+    },
+    {
+      "surface": "נא",
+      "gloss": "суранам"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ийов"
+    },
+    {
+      "surface": "מלי",
+      "gloss": "сөздөрүмдү"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "баарын"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "сөздөрүмдү"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "кулак төшө"
+    }
+  ],
+  "timestamp": "2026-10-05T16:54:32.846577926Z",
+  "model": "glm-5.3"
+}

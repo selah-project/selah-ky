@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 69:13",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 69,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ונגינות",
+      "rationale": "'Аспап музыкасы' — айрымдар бул сөздү 'мен ыр болдум' деген мааниде алат (KJV 'song'), башкалары 'ачкыч аскерлер аспапташат' (YLT)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "שכר",
+      "rationale": "Бул — күчтүү алкоголь ичимдиги, жөн гана 'шарап' эмес."
+    }
+  ],
+  "translation": "Дарбазада отургандар жөнүмдө сүйлөшөт, ичимдик ичүүчүлөр мени музыка кылып ойношот.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "47969150fa716fb6d3c0651bb4d6a5c51568d472cd91d13850f2a329461459bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/69\/13-16.1791216426798.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישיחו",
+      "gloss": "сүйлөшөт"
+    },
+    {
+      "surface": "בי",
+      "gloss": "жөнүмдө"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "отургандар"
+    },
+    {
+      "surface": "שער",
+      "gloss": "дарбазада"
+    },
+    {
+      "surface": "ונגינות",
+      "gloss": "музыка"
+    },
+    {
+      "surface": "שותי",
+      "gloss": "ичүүчүлөр"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "ичимдик"
+    }
+  ],
+  "timestamp": "2026-10-05T16:07:06.798580437Z",
+  "model": "glm-5.3"
+}

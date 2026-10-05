@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 60:21",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 60,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "болот",
+      "rationale": "Еврейче этиштин ордуна кыргызча ⟨болот⟩ кошулду"
+    },
+    {
+      "kind": "substitution",
+      "subject": "көчөтү",
+      "rationale": "נצר — бул акырын чыккан жалбырак көчөт, келечектеги уруунун сүрөтү"
+    },
+    {
+      "kind": "crux",
+      "subject": "להתפאר",
+      "rationale": "«даңкталышы» (YLT, JPS: өзүм даңктанам) же «даңазаланышым үчүн» (KJV: менин сыймыктанышым) деген эки окуу бар"
+    }
+  ],
+  "translation": "Жана ⟨את⟩ элиңдин баары цадиктер болот — түбөлүккө ⟨את⟩ жерди мураска алышат, менин отургузгандарымын көчөтү, менин колдордун иши, ⟨даңкталышы⟩ үчүн.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "fb7108b4f69f7d3a7bf06b03d9fc21ca27a2a6eb29965b2bda7f0825b097292f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/60\/21-22.1791210494415.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועמך",
+      "gloss": "жана элиңдин"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "баары"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "цадиктер"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "түбөлүккө"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "мураска алышат"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "жерди"
+    },
+    {
+      "surface": "נצר",
+      "gloss": "көчөтү"
+    },
+    {
+      "surface": "מטעו",
+      "gloss": "отургузгандарымын"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "иши"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "колдордун"
+    },
+    {
+      "surface": "להתפאר",
+      "gloss": "даңкталышы үчүн"
+    }
+  ],
+  "timestamp": "2026-10-05T14:28:14.416348858Z",
+  "model": "glm-5.3"
+}

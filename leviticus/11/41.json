@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "leviticus 11:41",
+  "book": "leviticus",
+  "lang": "ky",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "השרץ השרץ",
+      "rationale": "Оксүмөр менен этиштин кайталануусу (шерет\/шарац) — үн жарашуу кыргызча жоголду."
+    },
+    {
+      "kind": "substitution",
+      "subject": "сойлоочу",
+      "rationale": "שקץ — бул 8318\/8317 тамыры: «кыймылдап чыгуучу, көп болуучу жандык»."
+    },
+    {
+      "kind": "elision",
+      "subject": "הוא",
+      "rationale": "Басымдуу «ал» кыргызча «жийиркеничтүү» сыяктуу баяндоочко сиңип кетти."
+    }
+  ],
+  "translation": "Жана жер үстүндө сойлогон ар кайсы сойлоочу — жийиркеничтүү, ал жешке болбойт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "7b4d210d5793c08495c8e54945a539d24a0a45922915dc4af6935680cbe5b0b1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/11\/41-44.1791203004098.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "жана ар кайсы"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "сойлоочу"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "сойлогон"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстүндө"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "жер"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "жийиркеничтүү"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ал"
+    },
+    {
+      "surface": "לא",
+      "gloss": "болбойт"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "жешке"
+    }
+  ],
+  "timestamp": "2026-10-05T12:23:24.099478027Z",
+  "model": "glm-5.3"
+}

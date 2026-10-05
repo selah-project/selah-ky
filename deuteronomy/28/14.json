@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 28:14",
+  "book": "deuteronomy",
+  "lang": "ky",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "кудайлар",
+      "rationale": "אלהים אחרים — «башка кудайлар», кичине тамгалуу «кудай», анткени бул Элохим эмес"
+    },
+    {
+      "kind": "elision",
+      "subject": "אתכם",
+      "rationale": "Алеф-тав көрсөткүчү жамаыланган жөндөмө менен берилди, өзүнчө сөз катары жок"
+    }
+  ],
+  "translation": "Жана бүгүн Мен ⟨את⟩ силерге буйрук кылган бардык сөздөрдөн оңго да, солго да жылбай, башка кудайлардын артынан ээрчип, аларга кызмат кылуу үчүн четке кагылбасың.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "d11719aa63fd31fbce0f707cee1bccf32c215b86e3fad413e2241fc9ef0e0879",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/28\/13-16.1791205309569.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "жана эмес"
+    },
+    {
+      "surface": "תסור",
+      "gloss": "четке кагылбасың"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "бардык"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "сөздөрдөн"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "аны"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Мен"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "буйрук кылган"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "силерге"
+    },
+    {
+      "surface": "היום",
+      "gloss": "бүгүн"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "оңго"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "жана солго"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "жүрүү үчүн"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "артынан"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "кудайлардын"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "башка"
+    },
+    {
+      "surface": "לעבדם",
+      "gloss": "аларга кызмат кылуу"
+    }
+  ],
+  "timestamp": "2026-10-05T13:01:49.570372922Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 22:5",
+  "book": "jeremiah",
+  "lang": "ky",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "чөлгө",
+      "rationale": "לחרבה тамыры «кургакчылык, түзөлгөн жер» дегенди билдирет; жөн гана «чөл» дегенге кыскартылды"
+    },
+    {
+      "kind": "addition",
+      "subject": "Мен Өзүмчө",
+      "rationale": "בי кыргызча «ант» маанисин толук берүү үчүн «Өзүмчө» менен күчөтүлдү"
+    },
+    {
+      "kind": "elision",
+      "subject": "כי",
+      "rationale": "ант формуласындагы כי («чын эле») кыргызча сүйлөмдө берилген жок"
+    }
+  ],
+  "translation": "Жана эгер бул ⟨את⟩ сөздөрдү укпасаңар, Мен Өзүмчө ант берем, Яхвенин сөзү, бул үй чөлгө айланат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "7659308ea3c4c45316df6ee9f47188b8e136340c2c1f6690740a94f93200b579",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/jeremiah\/22\/5-8.1791211148483.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Жана эгер"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "укпасаңар"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "бул сөздөрдү"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "сөздөрдү"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "бул"
+    },
+    {
+      "surface": "בי",
+      "gloss": "Мен Өзүмчө"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "ант берем"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "сөзү"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "לחרבה",
+      "gloss": "чөлгө"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "айланат"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "үй"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "бул"
+    }
+  ],
+  "timestamp": "2026-10-05T14:39:08.483913998Z",
+  "model": "glm-5.3"
+}

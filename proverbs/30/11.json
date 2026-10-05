@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 30:11",
+  "book": "proverbs",
+  "lang": "ky",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "бар",
+      "rationale": "Еврейче «муун — атасын каргайт» деген атоочтук сүйлөм; кыргызча ⟨бар⟩ байланыштыргычы кошулду."
+    },
+    {
+      "kind": "crux",
+      "subject": "каргоо",
+      "rationale": "קלל «жеңил жасоо»: YLT «lightly esteem» (жек көрүү) менен «каргоо» ортосунда талаш бар."
+    }
+  ],
+  "translation": "Ошондой муун ⟨бар⟩ — атасын каргайт, жана ⟨את⟩ энесин баталабайт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "d343f7d21d47d0dcc93b15c7d598a54b798a382d73f2a82b16355da7cfbe58d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/30\/9-12.1791218439789.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "муун"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "атасын"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "каргайт"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "жана ⟨את⟩",
+      "marks": "энесин"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "энесин"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "баталайт"
+    }
+  ],
+  "timestamp": "2026-10-05T16:40:39.789948647Z",
+  "model": "glm-5.3"
+}

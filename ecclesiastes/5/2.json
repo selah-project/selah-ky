@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 5:2",
+  "book": "ecclesiastes",
+  "lang": "ky",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "чыгат",
+      "rationale": "Экинчи жарым кыялда этиш жок, кыргызча айтым талап кылат"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ברב ... ברב",
+      "rationale": "Кайталанган 'көп... көп' параллелизм — түш\/акмак үндөштүгү сакталды"
+    }
+  ],
+  "translation": "Анткени түш көп иштен келет, жана акмактын добушу көп сөздөн ⟨чыгат⟩.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "673c0bdcb3d48faa53297bc9d5e2aee1f7d214ecc60a1d397cb7399cae0c6460",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ecclesiastes\/5\/1-4.1791220069549.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "בא",
+      "gloss": "келет"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "түш"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "көп"
+    },
+    {
+      "surface": "ענין",
+      "gloss": "иштен"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "жана добушу"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "акмактын"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "көп"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "сөздөн"
+    }
+  ],
+  "timestamp": "2026-10-05T17:07:49.551322570Z",
+  "model": "glm-5.3"
+}

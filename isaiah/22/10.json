@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 22:10",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "санадыңар",
+      "rationale": "Йерушалайимдин үйлөрү эсепке алынат — коргоо үчүн саналуучу материал"
+    },
+    {
+      "kind": "crux",
+      "subject": "לבצר",
+      "rationale": "тамыры «бекемдөө» же «чогултуу»; салттуу окуу — дубалды бекемдөө"
+    }
+  ],
+  "translation": "Жана ⟨את⟩ Йерушалайимдин үйлөрүн санадыңар, жана дубалды бекемдөө үчүн үйлөрдү буздуңар.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "a8df3a0bd92b14c5d595ea3309762a66406f5ac26837093517551adb04537708",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/22\/9-12.1791209694009.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "жана ⟨את⟩",
+      "marks": "Йерушалайимдин үйлөрүн"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "үйлөрүн"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Йерушалайимдин"
+    },
+    {
+      "surface": "ספרתם",
+      "gloss": "санадыңар"
+    },
+    {
+      "surface": "ותתצו",
+      "gloss": "буздуңар"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "үйлөрдү"
+    },
+    {
+      "surface": "לבצר",
+      "gloss": "бекемдөө үчүн"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "дубалды"
+    }
+  ],
+  "timestamp": "2026-10-05T14:14:54.010330532Z",
+  "model": "glm-5.3"
+}

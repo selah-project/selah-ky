@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 20:16",
+  "book": "2-samuel",
+  "lang": "ky",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "шамеу шамеу",
+      "rationale": "הבעה: угуу буйругунун эки жолу кайталанышы — кыргызча «Угкула, угкула» сакталды."
+    },
+    {
+      "kind": "addition",
+      "subject": "сенин менен",
+      "rationale": "Ивритте אליך «сага» дейт; «сенин менен сүйлөшөйүн» — кыргызча табигый форма."
+    },
+    {
+      "kind": "invitation",
+      "subject": "аялдын үнү",
+      "rationale": "Аял шаардан Йоабды жана элди тикелей чакырып, кайрылып сүйлөйт."
+    }
+  ],
+  "translation": "Жана акылман аял шаардан кыйкырды: Угкула, угкула! Сураныч, Йоабга айткыла: «Бул жакка жакында, мен сенин менен сүйлөшөйүн».",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "956a147fb123f70f27aab65dbc29f9d585cb901c1712df27acb1b18cbdadc9c9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-samuel\/20\/16-16.1791223905310.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותקרא",
+      "gloss": "кыйкырды"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "аял"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "акылман"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-дан"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "шаар"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "Угкула"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "угкула"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "айткыла"
+    },
+    {
+      "surface": "נא",
+      "gloss": "сураныч"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-га"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Йоаб"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "жакында"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-ча"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "бул жакка"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "сүйлөшөйүн"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "сенин менен"
+    }
+  ],
+  "timestamp": "2026-10-05T18:11:45.311027881Z",
+  "model": "glm-5.3"
+}

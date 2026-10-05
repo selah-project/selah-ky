@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 116:4",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 116,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жан",
+      "rationale": "נפש — жан эмес, дем алуучу жандуулук, жашоо күчү; кыргызча «жан» эң жакын сөз"
+    },
+    {
+      "kind": "you",
+      "subject": "Яхвеге",
+      "rationale": "Тикелей чакырык — ырчы Яхвеге кайрылат"
+    }
+  ],
+  "translation": "Жана Яхвенин ысымы менен чакырдым: Оо, азыр, Яхве, жанымды куткар!",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "5897e4c1e51bf2c50d80e75a595ba47d56c93cfae3d2e2a5233a0143986693db",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/116\/1-4.1791217293598.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובשם",
+      "gloss": "ысымы менен"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "чакырдым"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "Оо, азыр"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "מלטה",
+      "gloss": "куткар"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "жанымды"
+    }
+  ],
+  "timestamp": "2026-10-05T16:21:33.599521090Z",
+  "model": "glm-5.3"
+}

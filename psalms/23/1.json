@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 23:1",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "—",
+      "rationale": "Еврей тилинде байламча жок; кыргызча айкындоо үчүн коюлду"
+    },
+    {
+      "kind": "you",
+      "subject": "Давид өзү жөнүндө",
+      "rationale": "Аят — жүрөк сөзү, окурманга чакырык катары да угулат"
+    }
+  ],
+  "translation": "Мазмур Давидге. Яхве — менин чабаным, мен жетишпеймин.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "30dcf7afd1bdf981fb4c49a20047dc0199dc32abf65a7c8632038662ed306b48",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/23\/1-4.1791215635463.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Мазмур"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давидге"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "менин чабаным"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "אחסר",
+      "gloss": "жетишпеймин"
+    }
+  ],
+  "timestamp": "2026-10-05T15:53:55.463921131Z",
+  "model": "glm-5.3"
+}

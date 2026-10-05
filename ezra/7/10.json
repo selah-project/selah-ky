@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 7:10",
+  "book": "ezra",
+  "lang": "ky",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "изилдөөгө",
+      "rationale": "דרש 'изилдөө, издөө, түшүнүү үчүн кынуу' — жөн гана окуу эмес"
+    },
+    {
+      "kind": "addition",
+      "subject": "аны",
+      "rationale": "аткаруунун объектиси (Тора) экинчи жолу айтылбайт, кыргызча такташ үчүн кошулду"
+    }
+  ],
+  "translation": "анткени Эзра жүрөгүн Яхвенин ⟨את⟩ Торасын изилдөөгө, аны аткарууга жана Йисраэлде токтомдорду жана өкүмдөрдү үйрөтүүгө даярдаган.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "bf6b3023363d6023ee68fb5b385ae3967faa4c90e2c6faf4aafa857302e022ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ezra\/7\/9-12.1791221049057.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "Эзра"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "даярдаган"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "жүрөгүн"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "изилдөөгө"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яхвенин Торасын"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Торасын"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    },
+    {
+      "surface": "ולעשת",
+      "gloss": "жана аткарууга"
+    },
+    {
+      "surface": "וללמד",
+      "gloss": "жана үйрөтүүгө"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Йисраэлде"
+    },
+    {
+      "surface": "חק",
+      "gloss": "токтомдорду"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "жана өкүмдөрдү"
+    }
+  ],
+  "timestamp": "2026-10-05T17:24:09.058635081Z",
+  "model": "glm-5.3"
+}

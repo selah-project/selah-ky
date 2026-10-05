@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 21:19",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "акаланат",
+      "rationale": "ונקה «таза болот, күнөөсүз деп табылат» — соттук термин, кыргызча акалоо жакындатылды"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ורפא ירפא",
+      "rationale": "Инфинитивдин абсолюттук кайрылуусу: «дарылоо менен дарылат» — толук айыкканга чейин деген күчөтүү"
+    }
+  ],
+  "translation": "эгер ал турса жана таянына таянып сыртта баса алса, урган адам акаланат; анын жатып калган убактысын гана төлөйт, жана дарылоо менен дарылат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "d5352c7f5f844fac632059f2264444e8979e24fa55031a1f48b238c59e18606d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/21\/17-20.1791202332715.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "эгер"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "турса"
+    },
+    {
+      "surface": "והתהלך",
+      "gloss": "жана… баса алса"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "сыртта"
+    },
+    {
+      "surface": "על",
+      "gloss": "таянып"
+    },
+    {
+      "surface": "משענתו",
+      "gloss": "таянына"
+    },
+    {
+      "surface": "ונקה",
+      "gloss": "акаланат"
+    },
+    {
+      "surface": "המכה",
+      "gloss": "урган адам"
+    },
+    {
+      "surface": "רק",
+      "gloss": "гана"
+    },
+    {
+      "surface": "שבתו",
+      "gloss": "жатып калган убактысын"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "төлөйт"
+    },
+    {
+      "surface": "ורפא",
+      "gloss": "дарылоо"
+    },
+    {
+      "surface": "ירפא",
+      "gloss": "дарылат"
+    }
+  ],
+  "timestamp": "2026-10-05T12:12:12.716509168Z",
+  "model": "glm-5.3"
+}

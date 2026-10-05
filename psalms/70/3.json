@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 70:3",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 70,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "мени",
+      "rationale": "נפשי — «жаныбышым\/жаным», дем-алыш, жандоо күчү; «мени» деп кыскартылды."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יבשו\/ויחפרו\/ויכלמו",
+      "rationale": "Үч синонимдүү «уят» этиши бир сапта топтолгон — еврейчеси катмарлуу, бир гана «уят» сөзү кайталанат."
+    }
+  ],
+  "translation": "Мени издегендер уят болсун жана жан санаа тартсын; жамандыгымды каалагандар артка чегинишсип, уятка калышсын.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "7460f835e149b447375fa1fedeeda630ef165f4394ff2d5a21b9823cfa1060d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/70\/1-4.1791216452560.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יבשу",
+      "gloss": "уят болсун"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "жана жан санаа тартсын"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "издегендер"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "мени"
+    },
+    {
+      "surface": "יסגו",
+      "gloss": "чегинишси"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "артка"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "жана уятка калышсын"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "каалагандар"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "жамандыгымды"
+    }
+  ],
+  "timestamp": "2026-10-05T16:07:32.560829113Z",
+  "model": "glm-5.3"
+}

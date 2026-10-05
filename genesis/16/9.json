@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 16:9",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "периште",
+      "rationale": "מלאך — кабарчы; периште — кеңири таанылган форма"
+    },
+    {
+      "kind": "you",
+      "subject": "Хаарга",
+      "rationale": "периште качкын кул аялга түз кайрылат"
+    },
+    {
+      "kind": "alternative",
+      "subject": "кечилип жаша",
+      "rationale": "והתעני — «зордук көрүү, басмырлануу» дагы болот; KJV 'submit'"
+    }
+  ],
+  "translation": "Жана Яхвенин периштеси ага айтты: Эжекеңе кайтып бар жана анын колу астында кечирилип жаша.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "d697c83e17a8a50085f6be7eebdddbe18419fc96e1e975979a913746ab4c4ca9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/16\/9-12.1791200984458.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "жана айтты"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ага"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "периштеси"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    },
+    {
+      "surface": "שובי",
+      "gloss": "кайтып бар"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ке"
+    },
+    {
+      "surface": "גברתך",
+      "gloss": "эжекеңе"
+    },
+    {
+      "surface": "והתעני",
+      "gloss": "кечилип жаша"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "астында"
+    },
+    {
+      "surface": "ידיה",
+      "gloss": "анын колу"
+    }
+  ],
+  "timestamp": "2026-10-05T11:49:44.459470831Z",
+  "model": "glm-5.3"
+}

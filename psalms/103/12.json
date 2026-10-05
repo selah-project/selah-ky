@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 103:12",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 103,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "רחק\/הרחיק",
+      "rationale": "Салыштыруу 'алыс' деген тамыр менен кайталанат: алыстык — күнөөлөрдүн алыстыги."
+    },
+    {
+      "kind": "alternative",
+      "subject": "פשע",
+      "rationale": "'Көтөрүлүү, баш тартуу' маанисинде 'нааразылык' деп алынды; 'күнөө' да мүмкүн."
+    }
+  ],
+  "translation": "Чыгыш батыштан канча алыс болсо, ал биздин ⟨את⟩ нааразылыктарыбызды бизден ошончо алыс кылды.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "5eace37ea168adbb12bf2cd218734c76da5492dcc98c24c42bbb589000dc3e43",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/103\/9-12.1791216947580.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כרחק",
+      "gloss": "канча алыс болсо"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "чыгыш"
+    },
+    {
+      "surface": "ממערב",
+      "gloss": "батыштан"
+    },
+    {
+      "surface": "הרחיק",
+      "gloss": "ошончо алыс кылды"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "бизден"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "нааразылыктарыбызды"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "биздин нааразылыктарыбызды"
+    }
+  ],
+  "timestamp": "2026-10-05T16:15:47.582027095Z",
+  "model": "glm-5.3"
+}

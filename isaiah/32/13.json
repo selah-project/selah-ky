@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 32:13",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨да тикен өсүп чыгат⟩",
+      "rationale": "Hebrew implies the verb from v.13 clause; the bracketed phrase supplies the elliptical second occurrence"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קוץ שמיר",
+      "rationale": "thorn-and-briar pair, a fixed duplex of desolation (Hos 10:8), collapsed into near-synonyms in Kyrgyz"
+    }
+  ],
+  "translation": "Элимдин жеринен тикен жана курч тикен өсүп чыгат, анткени кубанычтын бардык үйлөрүнө, шаң-шаттуу шаарга ⟨да тикен өсүп чыгат⟩.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "54a4ee93ff5d9edc23a90bf916d9c00ba12541e2f3e4a68dd9dc01f389597b7b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/32\/13-16.1791209875648.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "үстүнө"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "жеринен"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "элимдин"
+    },
+    {
+      "surface": "קוץ",
+      "gloss": "тикен"
+    },
+    {
+      "surface": "שמיר",
+      "gloss": "курч тикен"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "өсүп чыгат"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстүнө"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бардык"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "үйлөрүнө"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "кубанычтын"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "шаарга"
+    },
+    {
+      "surface": "עליזה",
+      "gloss": "шаң-шаттуу"
+    }
+  ],
+  "timestamp": "2026-10-05T14:17:55.649290850Z",
+  "model": "glm-5.3"
+}

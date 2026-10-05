@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 47:4",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 47,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ידבר",
+      "rationale": "Давар — «сүйлөйт» же « багындырат\/жайгаштырат»; Piel мааниси боюнча талаш; ЛXX «калды» дегенди тандаган"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עמים \/ לאמים",
+      "rationale": "Элдер\/калайыктар — синонимдүү параллелизм, кыргызча эки сөз менен сакталды"
+    }
+  ],
+  "translation": "Ал ⟨את⟩ элдерди биздин астыбызга багындырат жана калайыктарды бутубуздун астына.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "4e35d3bd082dfc77ec5d1f114acc86320c6840fd651e2d44f6628c221c9b47a3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/47\/1-4.1791216110767.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ידבר",
+      "gloss": "багындырат"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "элдерди"
+    },
+    {
+      "surface": "תחתינו",
+      "gloss": "биздин астыбызга"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "жана калайыктарды"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "астына"
+    },
+    {
+      "surface": "רגלינו",
+      "gloss": "бутубуздун"
+    }
+  ],
+  "timestamp": "2026-10-05T16:01:50.768811454Z",
+  "model": "glm-5.3"
+}

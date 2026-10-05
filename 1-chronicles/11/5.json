@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 11:5",
+  "book": "1-chronicles",
+  "lang": "ky",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "бекет",
+      "rationale": "מצדה — «тор, бекем жай»; салттуу «чатыр» эмес, чеп-бекет мааниси"
+    },
+    {
+      "kind": "elision",
+      "subject": "הנה",
+      "rationale": "«бул жерге» деп кеңейтилди; лексикалык «ушул жакка»"
+    }
+  ],
+  "translation": "Жебустун жашоочулары Давидге айтышты: «Сен бул жерге кирбейсің». Давид ⟨את⟩ Цийондун бекетин басып алды — ал Давиддин шаары.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "bf42fe82564cd90bb7094ae0b6525e82e59150da7fd1cb154340ca67bd9ca598",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-chronicles\/11\/5-8.1791221967033.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "айтышты"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "жашоочулары"
+    },
+    {
+      "surface": "יבוס",
+      "gloss": "Жебустун"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "Давидге"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "кирбейсің"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "бул жерге"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "басып алды"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Цийондун бекетин"
+    },
+    {
+      "surface": "מצדת",
+      "gloss": "бекетин"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Цийондун"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ал"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "шаары"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давиддин"
+    }
+  ],
+  "timestamp": "2026-10-05T17:39:27.034915631Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 4:15",
+  "book": "1-samuel",
+  "lang": "ky",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "эди",
+      "rationale": "еврейде copula жок, кыргызча жаш айтканда керек"
+    },
+    {
+      "kind": "idiom",
+      "subject": "көздөрү тургун",
+      "rationale": "ивритче קמה 'турду' — көздөрү 'тургун болду' деген идиома, көрбөй калды деген маани"
+    }
+  ],
+  "translation": "Жана Эли токсон сегиз жашта ⟨эди⟩, жана анын көздөрү ⟨катуу⟩ тургун, көрө албай калды.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "0becea4886cd5c0a9e5c9479a9c3b10214b386ebf21c684f7ec3b5805680c977",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-samuel\/4\/14-15.1791223859988.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועלי",
+      "gloss": "Жана Эли"
+    },
+    {
+      "surface": "בן",
+      "gloss": "жашта"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "токсон"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "сегиз"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "жаш"
+    },
+    {
+      "surface": "ועיניו",
+      "gloss": "жана анын көздөрү"
+    },
+    {
+      "surface": "קמה",
+      "gloss": "тургун"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "жана эмес"
+    },
+    {
+      "surface": "יכול",
+      "gloss": "албай"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "көрө"
+    }
+  ],
+  "timestamp": "2026-10-05T18:10:59.989450495Z",
+  "model": "glm-5.3"
+}

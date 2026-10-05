@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 33:2",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "מלאך",
+      "rationale": "«периште» — еврейче «элчи» деген сөз; кыргызча периште образы күчтүү"
+    }
+  ],
+  "translation": "Жана Мен сенин жүзүңдүн алдына периште жиберем жана ⟨את⟩ кенаандыкты, эморийликтин, хетликтин, периззиликтин, хиввликтин жана йебусиликти кууп чыгармын.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "0d2e37adbf7fcef459d792ef55cf27f9fda58bb2b78b2bd66a50665f6acd799a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/33\/1-4.1791202642604.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "Жана Мен … жиберем"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "сенин жүзүңдүн алдына"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "периште"
+    },
+    {
+      "surface": "וגרשתי",
+      "gloss": "жана … кууп чыгармын"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "кенаандыкты"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "кенаандыкты"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "эморийликтин"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "хетликтин"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "периззиликтин"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "хиввликтин"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "йебусиликти"
+    }
+  ],
+  "timestamp": "2026-10-05T12:17:22.605868288Z",
+  "model": "glm-5.3"
+}

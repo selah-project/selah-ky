@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 3:34",
+  "book": "numbers",
+  "lang": "ky",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "эсептөө",
+      "rationale": "Мерари уруусунун эркектери саналып жатат: 6200"
+    },
+    {
+      "kind": "substitution",
+      "subject": "בן חדש",
+      "rationale": "кыргызча «бир айлык бала» — туура, бирок «айдын уулу» деген жышаандуу түзүлүш жоголду"
+    }
+  ],
+  "translation": "Алардын эсепке алынгандары саны боюнча, бир айлык баладан жогорку бардык эркеги — алты миң эки жүз.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "94ee822ea1cd080e82a9c3ae4a973c6189d57b7663fc238297908529d0a9476f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/numbers\/3\/33-36.1791203578151.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ופקדיהם",
+      "gloss": "Алардын эсепке алынгандары"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "саны боюнча"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бардык"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "эркеги"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "баладан"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "бир айлык"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "жогорку"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "алты"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "миң"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "жана эки жүз"
+    }
+  ],
+  "timestamp": "2026-10-05T12:32:58.152433518Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 4:26",
+  "book": "leviticus",
+  "lang": "ky",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "וכפר",
+      "rationale": "Букмалчыл мааниси 'жаюу\/жабуу'; кыргызча 'жазыкты жаап' формуласы менен жаап-жабуу сүрөтү сакталды."
+    },
+    {
+      "kind": "elision",
+      "subject": "עליו",
+      "rationale": "'Анын үстүнөн' — ыйык кызматкердин аракети кимге багытталганын көрсөтөт, кыргызча так орунда тургузулду."
+    }
+  ],
+  "translation": "Жана ⟨את⟩ анын бардык майын мизберге түтөтөт, салымдар курмандыгынын майы сыяктуу, жана ыйык кызматкер анын күнөөсү үчүн ага жазыкты жаап, ага кечирим берилет.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "f3de7bc05e6a09352645a24e433fe137da922cc9cdf8fa7bdd64fe6a44ff8020",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/4\/25-28.1791202864513.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "анын бардык майын"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бардык"
+    },
+    {
+      "surface": "חלבו",
+      "gloss": "майын"
+    },
+    {
+      "surface": "יקטיר",
+      "gloss": "түтөтөт"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "мизберге"
+    },
+    {
+      "surface": "כחלב",
+      "gloss": "майы сыяктуу"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "курмандыгынын"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "салымдардын"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "жана жаайт"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "анын үстүнөн"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ыйык кызматкер"
+    },
+    {
+      "surface": "מחטאתו",
+      "gloss": "күнөөсүнөн"
+    },
+    {
+      "surface": "ונסלח",
+      "gloss": "жана кечирилет"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ага"
+    }
+  ],
+  "timestamp": "2026-10-05T12:21:04.514570907Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ruth 4:9",
+  "book": "ruth",
+  "lang": "ky",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "карыларга жана элге",
+      "rationale": "Боаз дарбазадагы карыларды жана бүт элди тикелей\/address кылат."
+    },
+    {
+      "kind": "elision",
+      "subject": "כי",
+      "rationale": "'анткени' табигый болуу үчүн тиркемеде айкын байламта катары алынды."
+    }
+  ],
+  "translation": "Жана Боаз карыларга жана бүт элге айтты: Силер бүгүн күбөлөрсүңөр — мен Нооминин колунан ⟨את⟩ Элимелектин бардыгын жана ⟨את⟩ Кильон менен Махлондун бардыгын сатып алдым.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "f26ac8c083d5a83602c82603c52767dc310490448be8f98ec5d8ce37a3758df8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ruth\/4\/9-12.1791219800699.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "жана айтты"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Боаз"
+    },
+    {
+      "surface": "לזקנים",
+      "gloss": "карыларга"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "жана бүт"
+    },
+    {
+      "surface": "העם",
+      "gloss": "эл"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "күбөлөр"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "силер"
+    },
+    {
+      "surface": "היום",
+      "gloss": "бүгүн"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "קניתי",
+      "gloss": "сатып алдым"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Элимелектин бардыгын"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бардыгын"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "эмне"
+    },
+    {
+      "surface": "לאלימלך",
+      "gloss": "Элимелектин"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "жана ⟨את⟩",
+      "marks": "Кильон менен Махлондун бардыгын"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бардыгын"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "эмне"
+    },
+    {
+      "surface": "לכליון",
+      "gloss": "Кильондун"
+    },
+    {
+      "surface": "ומחלון",
+      "gloss": "жана Махлондун"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "колунан"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "Нооминин"
+    }
+  ],
+  "timestamp": "2026-10-05T17:03:20.699976914Z",
+  "model": "glm-5.3"
+}

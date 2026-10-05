@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 63:2",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 63,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨сің⟩",
+      "rationale": "Еврейче копула жок; кыргызча «Элимсің» көтөрүп турат"
+    },
+    {
+      "kind": "substitution",
+      "subject": "жаным",
+      "rationale": "נפש — дем алуучу жандык, жанык күч; кыргызча «жан» эң жакын сөз"
+    },
+    {
+      "kind": "you",
+      "subject": "Элохимге",
+      "rationale": "Давид өз сөзүн түз Элохимге багыттайт"
+    }
+  ],
+  "translation": "Элохим, Сен менин Элимсің, Сени таңдаван издеймин; жаным Сага чөкпөй суусады, денем Сага зар болду — кургак, чарчаган, суусуз жерде.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "dc79e24376d86015fac8a97b52f20ca2365d9ec20f1fd7deb0321802bda5c305",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/63\/1-4.1791216358787.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "менин Элим"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Сен"
+    },
+    {
+      "surface": "אשחרך",
+      "gloss": "Сени таңдаван издеймин"
+    },
+    {
+      "surface": "צמאה",
+      "gloss": "суусады"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Сага"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "жаным"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "зар болду"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Сага"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "денем"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "жерде"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "кургак"
+    },
+    {
+      "surface": "ועיף",
+      "gloss": "чарчаган"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "суусуз"
+    },
+    {
+      "surface": "מים",
+      "gloss": "суу"
+    }
+  ],
+  "timestamp": "2026-10-05T16:05:58.788204781Z",
+  "model": "glm-5.3"
+}

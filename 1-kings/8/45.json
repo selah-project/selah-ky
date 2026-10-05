@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-kings 8:45",
+  "book": "1-kings",
+  "lang": "ky",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Анда",
+      "rationale": "ב жок, бирок контексттеги шарттуу сүйлөмдү байланыштыруу үчүн кошулду"
+    }
+  ],
+  "translation": "Анда Сен асманда ⟨את⟩ алардын дубасын жана ⟨את⟩ өтүнүчүн ук, жана алардын өкүмүн кыл.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "d6160e1ef828706a10b06127e43a290a55bfe81c2f2ce9f5db7bb2c0ca8b0b11",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-kings\/8\/45-48.1791208226979.json",
+    "code": "641241cf-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "Анда Сен... ук"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "асманда"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "алардын дубасын"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "алардын дубасын"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "жана ⟨את⟩",
+      "marks": "өтүнүчүн"
+    },
+    {
+      "surface": "תחנתם",
+      "gloss": "өтүнүчүн"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "жана ... кыл"
+    },
+    {
+      "surface": "משפטם",
+      "gloss": "алардын өкүмүн"
+    }
+  ],
+  "timestamp": "2026-10-05T13:50:26.980079847Z",
+  "model": "glm-5.3"
+}

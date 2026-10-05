@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "hosea 8:9",
+  "book": "hosea",
+  "lang": "ky",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "התנו אהבים",
+      "rationale": "תנה эшек жалдоо маанисинде — жапайы эшек менен сүйүүчү жалдоо образы бири-бирине байланган"
+    },
+    {
+      "kind": "substitution",
+      "subject": "сүйүүчүлөрдү",
+      "rationale": "אהבים — 'сүйүүлөр'; саясий өнөктөштордү (элдерди) да түшүндүрөт"
+    }
+  ],
+  "translation": "Анткени алар Ашшурга көтөрүлдү — Эфраим өзүнө жалгыз жапайы эшек; ал сүйүүчүлөрдү жалдады.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "bdd7f16393960f98e197408f3975b6cbb5a5c5f0b8ab21fea4e055a4a71b03a4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/hosea\/8\/9-12.1791213951041.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "המה",
+      "gloss": "алар"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "көтөрүлдү"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ашшурга"
+    },
+    {
+      "surface": "פרא",
+      "gloss": "жапайы эшек"
+    },
+    {
+      "surface": "בודד",
+      "gloss": "жалгыз"
+    },
+    {
+      "surface": "לו",
+      "gloss": "өзүнө"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Эфраим"
+    },
+    {
+      "surface": "התנו",
+      "gloss": "жалдады"
+    },
+    {
+      "surface": "אהבים",
+      "gloss": "сүйүүчүлөрдү"
+    }
+  ],
+  "timestamp": "2026-10-05T15:25:51.041887015Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 50:8",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨Ал⟩",
+      "rationale": "Субъектти ачык көрсөтүү үчүн кошулду"
+    },
+    {
+      "kind": "crux",
+      "subject": "בעל משפטי",
+      "rationale": "'өкүмүмдүн эеси' — даавасы бар адам, башка чечме: 'каршылашым'"
+    },
+    {
+      "kind": "invitation",
+      "subject": "туралы",
+      "rationale": "Сөздөр эки тарапка да чакыруу: ким талаша алса, бирге туралы"
+    }
+  ],
+  "translation": "Мени актаган ⟨Ал⟩ жакын; ким ⟨את⟩ мен менен талаша алат? Бирге туралы. Ким менин өкүмүмдүн эеси? Мага жакын келсин.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "dff9c400a81395bdfcc8f441a8bd90c315af5b27d9b90942648b13aecd7d3f88",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/50\/5-8.1791210405801.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "жакын"
+    },
+    {
+      "surface": "מצדיקי",
+      "gloss": "мени актаган"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ким"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "талаша алат"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ мен менен",
+      "marks": "мен"
+    },
+    {
+      "surface": "נעмדה",
+      "gloss": "туралы"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "бирге"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ким"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "эеси"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "өкүмүмдүн"
+    },
+    {
+      "surface": "יגש",
+      "gloss": "жакын келсин"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "мага"
+    }
+  ],
+  "timestamp": "2026-10-05T14:26:45.802734413Z",
+  "model": "glm-5.3"
+}

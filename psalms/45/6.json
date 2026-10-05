@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 45:6",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "сөз тартиби",
+      "rationale": "KJV боюнча жебелер душмандардын жүрөгүнө батат, элдер астында кулашат; JPS боюнча жебелер өткүр, элдер кулашат, алар жүрөккө чүпүрөк."
+    },
+    {
+      "kind": "addition",
+      "subject": "≤батышат≥",
+      "rationale": "Еврей текст жөн гана 'жүрөгүнө' дейт; этиш кыргызча толо үчүн кошулду."
+    }
+  ],
+  "translation": "Сенин жебелериң өткүр, элдер сенин астыңда кулашат, алар падышанын душмандарынын жүрөгүнө ≤батышат≥.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "629bded34f53d67fc575652ae2097649e1ec92627abe711e50b62f34c967bf30",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/45\/5-8.1791216138075.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חציך",
+      "gloss": "сенин жебелериң"
+    },
+    {
+      "surface": "שנונим",
+      "gloss": "өткүр"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "элдер"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "сенин астыңда"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "кулашат"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "жүрөк...ө"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "душмандары"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "падышанын"
+    }
+  ],
+  "timestamp": "2026-10-05T16:02:18.076012537Z",
+  "model": "glm-5.3"
+}

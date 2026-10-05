@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 28:1",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "תחרש\/תחשה",
+      "rationale": "Дээрлик бирдей эки тамыр (улуусуң\/үнсүзсүң) кайталанат — «кулак какпа»\/«үнсүз калсаң» айырмасы кыргызча толук берилбейт."
+    },
+    {
+      "kind": "crux",
+      "subject": "תחרש",
+      "rationale": "Чыгыш 22:11 менен салыштырып «кулак какпа» же жөн гана «унчукпа» деген эки окуу бар."
+    },
+    {
+      "kind": "you",
+      "subject": "Яхвеге",
+      "rationale": "Тилеке түз Яхвеге кайрылуу менен башталат."
+    },
+    {
+      "kind": "alternative",
+      "subject": "теңделерим",
+      "rationale": "נמשלתי ошондой эле «аларга окшоп каламын» деген мааниде да окулуп келген."
+    }
+  ],
+  "translation": "Давидге. Сага, Яхве, чакырам; аскым, менден кулак какпа, болбосо менден үнсүз калсаң, чуңкурга түшүүчүлөр менен теңделерим.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "eb3f4f252bb359ff9fdb16a2681476aec7732d081f81c05ff2e41348fc5a2108",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/28\/1-4.1791215779029.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Давидге"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "Сага"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "чакырам"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "аскым"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "кулак какпа"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "менден"
+    },
+    {
+      "surface": "פן",
+      "gloss": "болбосо"
+    },
+    {
+      "surface": "תחשה",
+      "gloss": "үнсүз калсаң"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "менден"
+    },
+    {
+      "surface": "ונמשלתי",
+      "gloss": "теңделерим"
+    },
+    {
+      "surface": "עם",
+      "gloss": "менен"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "түшүүчүлөр"
+    },
+    {
+      "surface": "בור",
+      "gloss": "чуңкурга"
+    }
+  ],
+  "timestamp": "2026-10-05T15:56:19.030035602Z",
+  "model": "glm-5.3"
+}

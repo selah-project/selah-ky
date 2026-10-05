@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 13:9",
+  "book": "numbers",
+  "lang": "ky",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "уруу тизмеси",
+      "rationale": "Аят чабуулчулардын уруу боюнча саналуусунан тизме."
+    },
+    {
+      "kind": "substitution",
+      "subject": "matteh → уруу",
+      "rationale": "למטה сөзү-түз «таяк\/бутак», бирок бул жерде уруу маанисинде."
+    }
+  ],
+  "translation": "Бинъямин уруусунан — Палти, Рафунун уулу.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "d4f4e41b28025210266f7ab59e24d28b44e5452414612de979bf1d86cd9a9cd5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/numbers\/13\/9-12.1791203828300.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "уруусунан"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Бинъямин"
+    },
+    {
+      "surface": "פלטי",
+      "gloss": "Палти"
+    },
+    {
+      "surface": "בן",
+      "gloss": "уулу"
+    },
+    {
+      "surface": "רפוא",
+      "gloss": "Рафунун"
+    }
+  ],
+  "timestamp": "2026-10-05T12:37:08.300650532Z",
+  "model": "glm-5.3"
+}

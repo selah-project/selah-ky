@@ -1,0 +1,126 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 12:14",
+  "book": "1-kings",
+  "lang": "ky",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жүк",
+      "rationale": "על 'myун жүгү (чыкан)' — кыйноо жүгү катары"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בשוטים \/ בעקרבים",
+      "rationale": "камчыдан чаян камчыга өсүү — накта курчутулган параллелизм"
+    },
+    {
+      "kind": "you",
+      "subject": "элге",
+      "rationale": "Рехабам элге түз кайрылат"
+    }
+  ],
+  "translation": "Жана аларга жаштардын кеңеши боюнча сүйлөдү, мыны деди: Атам силердин жүгүңөрдү оордутту, мен силердин жүгүңөргө кошомун; атам силерди камчы менен жазалады, мен болсо силерди чаян камчы менен жазалайм.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "a2fa3beeb925950d30a41a739fbcd841451edf473b4cfd29b99a7f1de437cc84",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-kings\/12\/13-16.1791208336736.json",
+    "code": "641241cf-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "жана сүйлөдү"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "аларга"
+    },
+    {
+      "surface": "כעצת",
+      "gloss": "кеңеши боюнча"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "жаштардын"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "мыны деди"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "атам"
+    },
+    {
+      "surface": "הכביד",
+      "gloss": "оордутту"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "жүгүңөрдү"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "жүгүңөрдү"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "мен"
+    },
+    {
+      "surface": "אסיף",
+      "gloss": "кошомун"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстүнө"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "жүгүңөргө"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "атам"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "жазалады"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ силерди",
+      "marks": "камчы"
+    },
+    {
+      "surface": "בשוטים",
+      "gloss": "камчы менен"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "мен болсо"
+    },
+    {
+      "surface": "איסר",
+      "gloss": "жазалайм"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ силерди",
+      "marks": "чаян камчы"
+    },
+    {
+      "surface": "בעקרבים",
+      "gloss": "чаян камчы менен"
+    }
+  ],
+  "timestamp": "2026-10-05T13:52:16.737851625Z",
+  "model": "glm-5.3"
+}

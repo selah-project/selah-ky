@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 30:8",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אתם",
+      "rationale": "Бул H854 «алар менен» предлогу (түз толуктоо белгиси H853 эмес); айрым котормолор «алардын алдында» деп окушат."
+    },
+    {
+      "kind": "addition",
+      "subject": "күбө",
+      "rationale": "לעד бул жерде «күбө» маанисинде; кыргызча сүйлөмдү толуктоо үчүн ⟨күбө⟩ кошулду."
+    },
+    {
+      "kind": "secret",
+      "subject": "жазуу буйругу",
+      "rationale": "Аят келечек үчүн жазылып, мөөрлөнгөн күбө катары сакталат — жашырын билим мотиви."
+    }
+  ],
+  "translation": "Азыр бар, аны тактага жаз — алар менен ⟨את⟩ — жана китепке чегер, ал акыркы күнгө, түбөлүккө, түбөлүккө чейин ⟨күбө⟩ болсун.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "f86a79f441d015c3194ba0b934e700b3fb902f89c004290e4fd563b6b813f74a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/30\/5-8.1791209974009.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "Азыр"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "бар"
+    },
+    {
+      "surface": "כתבה",
+      "gloss": "жаз"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстүнө"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "тактага"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "алар менен"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "жана үстүнө"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "китепке"
+    },
+    {
+      "surface": "חקה",
+      "gloss": "чегер"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "болсун"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "күнгө"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "акыркы"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "түбөлүккө"
+    },
+    {
+      "surface": "עד",
+      "gloss": "чейин"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "түбөлүккө"
+    }
+  ],
+  "timestamp": "2026-10-05T14:19:34.010939622Z",
+  "model": "glm-5.3"
+}

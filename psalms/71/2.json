@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 71:2",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 71,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "צדקתך",
+      "rationale": "цедек сөзү 'адилеттик' деп да которулат, бирок D2 боюнча тамыр цедек формасы сакталды."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תצילני ... והושיעני",
+      "rationale": "Эки синонимдүү 'куткар' этиши риторикалык кайталоо түзөт."
+    }
+  ],
+  "translation": "Өз цедегиң менен мени куткар жана качырып чыгар; кулагыңды мага жакындат жана мени куткар.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "38058d90d99057f2165ca77799e41e1aa7540a660bf582d3cd81aac6bf69eb7d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/71\/1-4.1791216433229.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בצדקתך",
+      "gloss": "Өз цедегиң менен"
+    },
+    {
+      "surface": "תצילני",
+      "gloss": "мени куткар"
+    },
+    {
+      "surface": "ותפלטני",
+      "gloss": "жана качырып чыгар"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "жакындат"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "мага"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "кулагыңды"
+    },
+    {
+      "surface": "והושיעני",
+      "gloss": "жана мени куткар"
+    }
+  ],
+  "timestamp": "2026-10-05T16:07:13.229827162Z",
+  "model": "glm-5.3"
+}

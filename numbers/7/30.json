@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 7:30",
+  "book": "numbers",
+  "lang": "ky",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨курмандык чекті⟩",
+      "rationale": "Ивритте этиш жок — айтылыш жок, тизменин уландысы гана; кыргыз сүйлөмү этишти талап кылат."
+    },
+    {
+      "kind": "measurement",
+      "subject": "төртүнчү күн",
+      "rationale": "Күндөр саналып берилген — ыйык чыйырдын өлчөөсү."
+    }
+  ],
+  "translation": "Төртүнчү күнү Реувендин уулдарынын жолбашчысы Шедеурдун уулу Элицур ⟨курмандык чекті⟩.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "ac7dece286d1d88ce78e8e99ad7953941de6778744787fe13133774503074d19",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/numbers\/7\/29-32.1791203668561.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "…күнү"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "төртүнчү"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "жолбашчысы"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "уулдарынын"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Реувен"
+    },
+    {
+      "surface": "אליצור",
+      "gloss": "Элицур"
+    },
+    {
+      "surface": "בן",
+      "gloss": "уулу"
+    },
+    {
+      "surface": "שדיאור",
+      "gloss": "Шедеур"
+    }
+  ],
+  "timestamp": "2026-10-05T12:34:28.562360090Z",
+  "model": "glm-5.3"
+}

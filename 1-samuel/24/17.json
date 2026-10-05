@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 24:17",
+  "book": "1-samuel",
+  "lang": "ky",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "өз",
+      "rationale": "Үнүн көтөрүү — идиома, ээлик мүчө кыргызча талап кылат"
+    },
+    {
+      "kind": "idiom",
+      "subject": "көтөрүп",
+      "rationale": "ונשא קול — «үнүн көтөрүү» = катуу ыйлоо, кыргызчада да түз калды"
+    },
+    {
+      "kind": "you",
+      "subject": "Шаул Давидге",
+      "rationale": "«Бул сениң үнүңбү, уулум Давид?» — түз кире сөз"
+    }
+  ],
+  "translation": "Давид бул ⟨את⟩ сөздөрдү Шаулга айтып бүткөндө, Шаул айтты: Бул сениң үнүңбү, уулум Давид? Жана Шаул үнүн көтөрүп, ыйлады.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "833ee93192eea437ad869212c20946797a9d837a6c4eace053f6233870a0f2a7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-samuel\/24\/17-20.1791207122782.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "болду"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "бүткөндө"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "айтып"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "бул сөздөрдү"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "сөздөрдү"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "бул"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…га"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаулга"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "жана айтты"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "הקלך",
+      "gloss": "сениң үнүң"
+    },
+    {
+      "surface": "זה",
+      "gloss": "бул"
+    },
+    {
+      "surface": "בני",
+      "gloss": "уулум"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "жана көтөрүп"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "өз үнүн"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "ыйлады"
+    }
+  ],
+  "timestamp": "2026-10-05T13:32:02.782828910Z",
+  "model": "glm-5.3"
+}

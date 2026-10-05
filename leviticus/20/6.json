@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 20:6",
+  "book": "leviticus",
+  "lang": "ky",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "неге жан",
+      "rationale": "נפש — «дем алуучу жандык, жашоо күчү»; кыргызча «жан» эң жакын."
+    },
+    {
+      "kind": "crux",
+      "subject": "האבת · הידענים",
+      "rationale": "KJV «familiar spirits\/wizards», JPS «ghosts\/familiar spirits»: арбак чакыруучулар жана жашыруун билим ээлери деп айтылат."
+    }
+  ],
+  "translation": "Жана жан, ал эгер арбак чакыруучуларга жана билим ээлерине буруп, алардын артынан зынаа кылуу үчүн барса — Мен Өз жүзүмдү ошол жандын үстүнө коюп, аны элинин ортосунан кыям.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "81eae7be84484b6eb4f18765251f4c3fc88d7fb023e0e78a42d6038537726f15",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/20\/5-8.1791203312004.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והנפש",
+      "gloss": "жана жан"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ал эгер"
+    },
+    {
+      "surface": "תפנה",
+      "gloss": "буруп"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...га"
+    },
+    {
+      "surface": "האבת",
+      "gloss": "арбак чакыруучуларга"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "жана"
+    },
+    {
+      "surface": "הידענים",
+      "gloss": "билим ээлерине"
+    },
+    {
+      "surface": "לזנות",
+      "gloss": "зынаа кылуу үчүн"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "алардын артынан"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "Мен...коюп"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "жүзүмдү"
+    },
+    {
+      "surface": "פני",
+      "gloss": "жүзүмдү"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "жандын үстүнө"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ошол"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "жана...кыям"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "аны"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "ортосунан"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "элинин"
+    }
+  ],
+  "timestamp": "2026-10-05T12:28:32.005692575Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 17:16",
+  "book": "1-samuel",
+  "lang": "ky",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "кечке да",
+      "rationale": "הערב — «кечки караңгы түшкөндө» деген этиш, кыргызча убакыт үчүн ат атоочго айланды"
+    },
+    {
+      "kind": "measurement",
+      "subject": "кырк күн",
+      "rationale": "Санап көрсөтүлгөн мөөнөт"
+    }
+  ],
+  "translation": "Пелиштилик эртең менен да, кечке да жакындап келип, кырк күн бою түз турду.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "23aa79b4a96161e2fdadfdecfcc3ea83e6a7faa6eb8a60af0439364dbbfbb56a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-samuel\/17\/13-16.1791206939662.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "жакындап келип"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "Пелиштилик"
+    },
+    {
+      "surface": "השכם",
+      "gloss": "эртең менен"
+    },
+    {
+      "surface": "והערב",
+      "gloss": "кечке да"
+    },
+    {
+      "surface": "ויתיצב",
+      "gloss": "түз турду"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "кырк"
+    },
+    {
+      "surface": "יום",
+      "gloss": "күн"
+    }
+  ],
+  "timestamp": "2026-10-05T13:28:59.663292509Z",
+  "model": "glm-5.3"
+}

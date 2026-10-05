@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 47:10",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 47,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "алдынан",
+      "rationale": "מלפני 'жүзүнөн\/алдынан' — кыргызча 'жүзүнөн' так окшош, 'алдынан' табигыйраак"
+    }
+  ],
+  "translation": "Яаков ⟨את⟩ Фараонго батасын берип, Фараондун алдынан чыгып кетти.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "9693dc305891facffcf29817cb52e3235e55f9a7ad44916777d3b594403fb01a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/47\/9-12.1791201712964.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "батасын берип"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаков"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Фараонго"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Фараонго"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "чыгып кетти"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "алдынан"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Фараондун"
+    }
+  ],
+  "timestamp": "2026-10-05T12:01:52.965256999Z",
+  "model": "glm-5.3"
+}

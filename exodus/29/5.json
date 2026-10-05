@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 29:5",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "эфод, хошен",
+      "rationale": "Ыйык кийимдердин аталыштары еврейче айтылышында сакталды, анткени кыргызча так эквиваленти жок."
+    },
+    {
+      "kind": "crux",
+      "subject": "חשב",
+      "rationale": "KJV 'curious girdle', жөн гана 'чебер токулган кур' да бар — биз literals жакынын тандадык."
+    }
+  ],
+  "translation": "Жана сен ⟨את⟩ кийимдерди алып, Ахаронго ⟨את⟩ көйнөктү кийгиз, ⟨את⟩ эфоддун жамынысын, ⟨את⟩ эфодду жана ⟨את⟩ хошенди, жана аны эфоддун чебер куру менен курчагын.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "e0b179099b0afd145625d1f19bd8acc874ef4663746197638099005a56b00c0c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/29\/5-8.1791202484205.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "алып"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "кийимдерди"
+    },
+    {
+      "surface": "הבגדים",
+      "gloss": "кийимдерди"
+    },
+    {
+      "surface": "והלבשת",
+      "gloss": "кийгиз"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ахаронго"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Ахаронго"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "көйнөктү"
+    },
+    {
+      "surface": "הכתנת",
+      "gloss": "көйнөктү"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "эфоддун жамынысын"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "жамынысын"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "эфоддун"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "эфодду"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "эфодду"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "хошенди"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "хошенди"
+    },
+    {
+      "surface": "ואפדת",
+      "gloss": "курчагын"
+    },
+    {
+      "surface": "לו",
+      "gloss": "аны"
+    },
+    {
+      "surface": "בחשב",
+      "gloss": "чебер кур менен"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "эфоддун"
+    }
+  ],
+  "timestamp": "2026-10-05T12:14:44.206408405Z",
+  "model": "glm-5.3"
+}

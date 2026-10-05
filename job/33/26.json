@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "job 33:26",
+  "book": "job",
+  "lang": "ky",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "цедек",
+      "rationale": "צדקה — «түздүк, адилеттик»; буйрук боюнча цедек деген тамыр сөзү сакталды"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨Ал⟩ ⟨Анын⟩",
+      "rationale": "Еврейче这些 ат атоочтор жок; кыргызча сүйлөм ээси так болушу үчүн кошулду"
+    }
+  ],
+  "translation": "Ал Элоахка жалынат, ⟨Ал⟩ аны жактырат, ал ⟨Анын⟩ жүзүн кубаныч кыйкырыгы менен көрөт, жана ⟨Ал⟩ адамга анын цедегин кайтарат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "5c40663e9b049011f83a61f4f0770d7ed7994842b61788ac66cda02c7bc8d9a8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/job\/33\/25-28.1791219297587.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יעתר",
+      "gloss": "жалынат"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ка"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Элоах"
+    },
+    {
+      "surface": "וירצהו",
+      "gloss": "аны жактырат"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "көрөт"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "жүзүн"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "кубаныч кыйкырыгы менен"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "кайтарат"
+    },
+    {
+      "surface": "לאנוש",
+      "gloss": "адамга"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "анын цедеги"
+    }
+  ],
+  "timestamp": "2026-10-05T16:54:57.588125059Z",
+  "model": "glm-5.3"
+}

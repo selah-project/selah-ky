@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 21:14",
+  "book": "1-samuel",
+  "lang": "ky",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "ויתו",
+      "rationale": "This form of תוה occurs only here in the Tanakh; meaning 'scratched\/marked', rendered as 'жазып түштү'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "טעמו",
+      "rationale": "Literally 'his taste'; here his demeanor, rendered 'өз жүрүш-турушун'."
+    },
+    {
+      "kind": "crux",
+      "subject": "ויתהלל",
+      "rationale": "Hitpael of הלל, literally 'made himself mad\/acted mad' vs 'acted insane'; rendered 'жинди болуп калды'."
+    }
+  ],
+  "translation": "Жана ал алардын көз алдында ⟨את⟩ өз жүрүш-турушун өзгөрттү, алардын колунда жинди болуп калды, дарбазанын эшиктерине жазып түштү жана шилекейин сакалына агызды.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "fc1b27828201017ca6ac03a4aaffd8c28de1cdbaadc29d9854a75bf5d26798cb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-samuel\/21\/13-16.1791207096325.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישנו",
+      "gloss": "жана өзгөрттү"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "өз жүрүш-турушун"
+    },
+    {
+      "surface": "טעמו",
+      "gloss": "өз жүрүш-турушун"
+    },
+    {
+      "surface": "בעיניהם",
+      "gloss": "алардын көз алдында"
+    },
+    {
+      "surface": "ויתהלל",
+      "gloss": "жинди болуп калды"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "алардын колунда"
+    },
+    {
+      "surface": "ויתו",
+      "gloss": "жазып түштү"
+    },
+    {
+      "surface": "על",
+      "gloss": "-га"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "эшиктерине"
+    },
+    {
+      "surface": "השער",
+      "gloss": "дарбазанын"
+    },
+    {
+      "surface": "ויורד",
+      "gloss": "жана агызды"
+    },
+    {
+      "surface": "רירו",
+      "gloss": "шилекейин"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-га"
+    },
+    {
+      "surface": "זקנו",
+      "gloss": "сакалына"
+    }
+  ],
+  "timestamp": "2026-10-05T13:31:36.326728632Z",
+  "model": "glm-5.3"
+}

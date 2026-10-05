@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 42:14",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אשם ואשאף",
+      "rationale": "KJV\/ geneva \"жок кылам, жутам\" (бузуу мааниси), ASV\/JPS \"дем салам, үңкүрөйөм\" (дем алуу мааниси) — бул жерде төрөт азабынын дем алуусу катары алынды"
+    },
+    {
+      "kind": "substitution",
+      "subject": "күңөлдөп",
+      "rationale": "אשם кайра-кайра күчтүү дем алуу; төрөт азабынын үнү"
+    }
+  ],
+  "translation": "Мен байыртадан бери унчукпадым, унчукпай турам, өзүмдү кармап турдум; бала төрөгөн аял сыяктуу дем салам, күңөлдөп, бирге дем алам.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "ce744ac742634978006c718f1e4652dc374f105280324f4ffb59f3d4c75d46e7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/42\/13-16.1791210186121.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "החשיתי",
+      "gloss": "унчукпадым"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "байыртадан бери"
+    },
+    {
+      "surface": "אחריש",
+      "gloss": "унчукпай турам"
+    },
+    {
+      "surface": "אתאפק",
+      "gloss": "өзүмдү кармап турдум"
+    },
+    {
+      "surface": "כיולדה",
+      "gloss": "бала төрөгөн аял сыяктуу"
+    },
+    {
+      "surface": "אפעה",
+      "gloss": "дем салам"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "күңөлдөп"
+    },
+    {
+      "surface": "ואשאף",
+      "gloss": "дем алам"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "бирге"
+    }
+  ],
+  "timestamp": "2026-10-05T14:23:06.122275130Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 15:25",
+  "book": "1-samuel",
+  "lang": "ky",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Шемуэлге",
+      "rationale": "Шаул Шемуэлге тартуу менен багынып жатат, түз кайрылуу."
+    },
+    {
+      "kind": "substitution",
+      "subject": "көтөрүп ал",
+      "rationale": "נשא 'көтөрүү' — 'кечир' маанисинде; еврей этиши күнөөнү көтөрүү сүрөтүн сактайт."
+    }
+  ],
+  "translation": "Азыр, суранам, ⟨את⟩ меним күнөөмдү көтөрүп ал, жана мен менен кайтып бар, ошондо Яхвеге бас ийейин.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "73b0da0a52185a0dbc56080644a165955a2842b281fbe3342d099fe0d263981e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-samuel\/15\/25-28.1791206860843.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Азыр"
+    },
+    {
+      "surface": "שא",
+      "gloss": "көтөрүп ал"
+    },
+    {
+      "surface": "נא",
+      "gloss": "суранам"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "меним күнөөмдү"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "меним күнөөмдү"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "кайтып бар"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "мен менен"
+    },
+    {
+      "surface": "ואשתחוה",
+      "gloss": "бас ийейин"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхвеге"
+    }
+  ],
+  "timestamp": "2026-10-05T13:27:40.843949919Z",
+  "model": "glm-5.3"
+}

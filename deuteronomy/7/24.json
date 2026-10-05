@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 7:24",
+  "book": "deuteronomy",
+  "lang": "ky",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "эч",
+      "rationale": "«Жок адам турбайт» болушу үчүн кыргызча «эч» керек"
+    },
+    {
+      "kind": "elision",
+      "subject": "אתם",
+      "gloss-rationale": "vv. 22–24 degi את маркерлери сакталды, булакта эч нерсе түшүрүлгөн жок"
+    }
+  ],
+  "translation": "Жана алардын падышаларын колуңа берет, жана сен ⟨את⟩ алардын ысымдарын асмандын астынан жок кыласың — сенин алдыңда эч бир адам турбайт, сен ⟨את⟩ аларды жок кылганча.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "1d989ccd62863d365d2f782a116dc1b23206af0a32478de209e8c43a99747356",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/7\/21-24.1791204837404.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "жана берет"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "алардын падышаларын"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "колуңа"
+    },
+    {
+      "surface": "והאבדת",
+      "gloss": "жана жок кыласың"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "алардын ысымдарын"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "алардын ысымдарын"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "астынан"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "асмандын"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "יתיצב",
+      "gloss": "турбайт"
+    },
+    {
+      "surface": "איש",
+      "gloss": "эч бир адам"
+    },
+    {
+      "surface": "בפניך",
+      "gloss": "сенин алдыңда"
+    },
+    {
+      "surface": "עד",
+      "gloss": "чейин"
+    },
+    {
+      "surface": "השמדך",
+      "gloss": "сен жок кылганча"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "аларды"
+    }
+  ],
+  "timestamp": "2026-10-05T12:53:57.406003766Z",
+  "model": "glm-5.3"
+}

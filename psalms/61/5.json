@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 61:5",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 61,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "кономун",
+      "rationale": "גור бул жерде 'убактылуу жашоо' деген сүрөттү сактайт; КЖВдин 'абайд' кеңири мааниде"
+    }
+  ],
+  "translation": "Мен түбөлүккө Сенин чатырыңда кономун, Сенин канаттарыңдын жашыруун жеринде баш паанемди тиемин. Селах.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "e514c71f90a4fc1c9677f6e8e9538a38e3818fd64769b312040f215d9a183196",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/61\/5-8.1791216357968.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אגורה",
+      "gloss": "кономун"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "чатырыңда"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "түбөлүккө"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "баш паанемди тиемин"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "жашыруун жеринде"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "канаттарыңдын"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Селах"
+    }
+  ],
+  "timestamp": "2026-10-05T16:05:57.969447750Z",
+  "model": "glm-5.3"
+}

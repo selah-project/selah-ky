@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 41:25",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "бирөөнү",
+      "rationale": "Еврей текстте «бирөө» деген жок — «Мен түндүктөн ойготтом» деп турат, объект кошулду"
+    },
+    {
+      "kind": "crux",
+      "subject": "түндүктөн",
+      "rationale": "Ким ойготулганы так айтылбайт — Күрөш (Persия) же жөн гана тандалган кызмат кылуучу"
+    }
+  ],
+  "translation": "Мен түндүктөн ⟨бирөөнү⟩ ойготтом, жана ал келди; күндүн чыгышынан ал Менин атымды чакырайт; жана ал өкүм ээлерине чоподой келет, чоподон жасоочу балчыкты баскандай басып өтөт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "a09f07d396d533f7285340e02f5f4ad4ca0be6e152799e9cc41cde617b223b18",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/41\/25-28.1791210206298.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "העירותי",
+      "gloss": "ойготтом"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "түндүктөн"
+    },
+    {
+      "surface": "ויאת",
+      "gloss": "жана келди"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "күндүн чыгышынан"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "күн"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "чакырайт"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "Менин атымды"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "жана келет"
+    },
+    {
+      "surface": "סגנים",
+      "gloss": "өкүм ээлери"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "чоподой"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "чопо"
+    },
+    {
+      "surface": "וכמו",
+      "gloss": "жана ...дай"
+    },
+    {
+      "surface": "יוצר",
+      "gloss": "чоподон жасоочу"
+    },
+    {
+      "surface": "ירמס",
+      "gloss": "басып өтөт"
+    },
+    {
+      "surface": "טיט",
+      "gloss": "балчык"
+    }
+  ],
+  "timestamp": "2026-10-05T14:23:26.299461967Z",
+  "model": "glm-5.3"
+}

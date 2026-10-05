@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 56:10",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 56,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Анын",
+      "rationale": "Ивритте «анын» жок — ээлик мамиле контексттен (Йисраэлдин караучулары), кыргызча түшүнүктүү болушу үчүн кошулду."
+    },
+    {
+      "kind": "crux",
+      "subject": "הזים",
+      "rationale": "הזה «түш көрүү» (орус «видения») деген тамыр; кээ бир котормолор «жалган көрүнүштөрдү көрүүчүлөр» деп берет — бул жерде «түш көрүүчүлөр» деп алынды."
+    }
+  ],
+  "translation": "Анын караучулары сокур, баары билишпейт, баары дөөлөс иттер, үрө алышпайт; түш көрүүчүлөр, жаткандар, уктоону сүйүүчүлөр.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "f935ac1ebd796e2ebd9258ba87f2a9fc9e1ea4cc8af1004bb213a40f5b71460d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/56\/9-12.1791210376241.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צפו",
+      "gloss": "караучулары"
+    },
+    {
+      "surface": "עורים",
+      "gloss": "сокур"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "баары"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "билишет"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "баары"
+    },
+    {
+      "surface": "כלבים",
+      "gloss": "иттер"
+    },
+    {
+      "surface": "אלמים",
+      "gloss": "дөөлөс"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "יוכלו",
+      "gloss": "жөндөрү"
+    },
+    {
+      "surface": "לנבח",
+      "gloss": "үрүүгө"
+    },
+    {
+      "surface": "הזים",
+      "gloss": "түш көрүүчүлөр"
+    },
+    {
+      "surface": "שכבים",
+      "gloss": "жаткандар"
+    },
+    {
+      "surface": "אהבי",
+      "gloss": "сүйүүчүлөр"
+    },
+    {
+      "surface": "לנום",
+      "gloss": "уктоону"
+    }
+  ],
+  "timestamp": "2026-10-05T14:26:16.242294786Z",
+  "model": "glm-5.3"
+}

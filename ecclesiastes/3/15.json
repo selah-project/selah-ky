@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 3:15",
+  "book": "ecclesiastes",
+  "lang": "ky",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נרדף",
+      "rationale": "«Кубалып жүргөн нерсени» (YLT, JPS) менен «өтүп кеткен өткөндү» (KJV) ортосундагы белгилүү талаш; пассивдүү тамыр лексикалык жактан «куугунтукталган»"
+    },
+    {
+      "kind": "alternative",
+      "subject": "кубалып жүргөндү",
+      "rationale": "Экинчи окумуша: «өткөндү кайрадан издейт» — убакыт маанисинде"
+    }
+  ],
+  "translation": "Болгон нерсе — ал мурда эле бар; жана боло турган нерсе — ал мурда эле болгон; жана Элохим ⟨את⟩ кубалып жүргөндү издейт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "c6c49b0ed4f8eb5ffb6acb03b211f58ace8c4d0db71e5c9824917b1ab8699991",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ecclesiastes\/3\/13-16.1791220014722.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "эмне"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "болгон нерсе"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "мурда эле"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ал"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "жана боло турган нерсе"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "боло турган"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "мурда эле"
+    },
+    {
+      "surface": "היה",
+      "gloss": "болгон"
+    },
+    {
+      "surface": "והאלהים",
+      "gloss": "жана Элохим"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "издет"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "кубалып жүргөндү"
+    },
+    {
+      "surface": "נרדף",
+      "gloss": "кубалып жүргөндү"
+    }
+  ],
+  "timestamp": "2026-10-05T17:06:54.723352859Z",
+  "model": "glm-5.3"
+}

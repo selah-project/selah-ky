@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 17:6",
+  "book": "1-samuel",
+  "lang": "ky",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨болду⟩",
+      "rationale": "Кыргыз тили этишти талап кылат, еврейче жок."
+    },
+    {
+      "kind": "crux",
+      "subject": "וכידון",
+      "rationale": "'Найза' же 'калкан' (KJV 'target') — LXX боюнча айрымдар калкан деп окушат."
+    }
+  ],
+  "translation": "Жана буттарына жез саялар, жана далысынын ортосунда жез найза.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "8866e59e1f1a781d96d653628d7ce65d84c51ed008f113b2c0f4dedf9fecaf51",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-samuel\/17\/5-8.1791206912931.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומצחת",
+      "gloss": "жана саялар"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "жез"
+    },
+    {
+      "surface": "על",
+      "gloss": "буттарына"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "анын буттары"
+    },
+    {
+      "surface": "וכידון",
+      "gloss": "жана найза"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "жез"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ортосунда"
+    },
+    {
+      "surface": "כתפיו",
+      "gloss": "анын далыларынын"
+    }
+  ],
+  "timestamp": "2026-10-05T13:28:32.931877254Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 30:12",
+  "book": "jeremiah",
+  "lang": "ky",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אנוש",
+      "rationale": "Сөзмө-сөз «жаны чыккыс, алсыз» — «айыктыгы жок» деп берилди."
+    },
+    {
+      "kind": "substitution",
+      "subject": "נחלה",
+      "rationale": "Сөзмө-сөз «оорулуу, начар» — «оор» деп кыскартылды."
+    }
+  ],
+  "translation": "Анткени мындай деди Яхве: сенин сыныгың айыктыгы жок, сенин соккуң оор.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "04f41b180d6a472b099f07457115631a99cd14550794c54f4428d9b1bb359a5a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/jeremiah\/30\/9-12.1791211388754.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "כה",
+      "gloss": "мындай"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "деди"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "айыктыгы жок"
+    },
+    {
+      "surface": "לשברך",
+      "gloss": "сенин сыныгың"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "оор"
+    },
+    {
+      "surface": "מכתך",
+      "gloss": "сенин соккуң"
+    }
+  ],
+  "timestamp": "2026-10-05T14:43:08.755832582Z",
+  "model": "glm-5.3"
+}

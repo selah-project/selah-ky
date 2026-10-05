@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 19:10",
+  "book": "deuteronomy",
+  "lang": "ky",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "דמים",
+      "rationale": "«Кандар» — кандын көп сан формасы, күнөөсүз кандын жоопкерчилиги деген мааниде; кыргызча жөн гана «кан» болуп калды."
+    },
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "gloss-rationale": "салыштырма байландыргыч кыргызча тартипте талап кылынбай калды",
+      "rationale": "Салыштырма байландыргыч кыргызча тартипте талап кылынбай калды."
+    }
+  ],
+  "translation": "Күнөөсүз кан Яхвенин, Элохиміңдин сага мурас катары берген жериңдин ичинде төгүлбөсүн, жана кан сенин үстүңө болбосун.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "4531df5ee5afc40666663fe120caa595057588c3bb70abc79d9329dd61003470",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/19\/9-12.1791205133108.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "жана ... болбосун"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "төгүлбөсүн"
+    },
+    {
+      "surface": "דם",
+      "gloss": "кан"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "күнөөсүз"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "ичинде"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "жериңдин"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Элохиміңдин"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "берген"
+    },
+    {
+      "surface": "לך",
+      "gloss": "сага"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "мурас катары"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "жана болот"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "сенин үстүңө"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "кандар"
+    }
+  ],
+  "timestamp": "2026-10-05T12:58:53.109453896Z",
+  "model": "glm-5.3"
+}

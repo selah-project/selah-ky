@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 30:19",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨Ал⟩",
+      "rationale": "Субъект ачык айтылбаган — кыргызча талап кылат"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בכו\/תבכה · חנון\/יחנך",
+      "rationale": "Ыйлау эки формада, ырайым тамыры эки формада — инфинитивди бекемдөө стили"
+    },
+    {
+      "kind": "you",
+      "subject": "Цийондогу элге",
+      "rationale": "Аят Цийондо жашаган элге түз кайрылат"
+    }
+  ],
+  "translation": "Анткени Цийондогу эл Йерушалайимде жашайт; ыйлаба — ыйлабайсың; ырайымдуу ⟨Ал⟩ кыйкырган үнүңдүн далайында сага ырайым кылат, уккан эле жооп берет.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "ce0d117dd7d1a210b0d0787adc9b6ed73292ece1350c86805544117343893056",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/30\/17-20.1791209964734.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "עם",
+      "gloss": "эл"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "Цийондогу"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "жашайт"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Йерушалайимде"
+    },
+    {
+      "surface": "בכו",
+      "gloss": "ыйлаба"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "תבכה",
+      "gloss": "ыйлабайсың"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "ырайымдуу"
+    },
+    {
+      "surface": "יחנך",
+      "gloss": "ырайым кылат"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "үнүңдүн далайында"
+    },
+    {
+      "surface": "זעקך",
+      "gloss": "кыйкырганың"
+    },
+    {
+      "surface": "כשמעתו",
+      "gloss": "уккан эле"
+    },
+    {
+      "surface": "ענך",
+      "gloss": "жооп берет"
+    }
+  ],
+  "timestamp": "2026-10-05T14:19:24.735180526Z",
+  "model": "glm-5.3"
+}

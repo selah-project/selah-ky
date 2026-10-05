@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 4:6",
+  "book": "joshua",
+  "lang": "ky",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "кийинчерээк",
+      "rationale": "מחר 'эртең' — келечекти белгилөө үчүн, бул жерде 'кийин' маанисинде"
+    },
+    {
+      "kind": "invitation",
+      "subject": "суроо",
+      "rationale": "текст окурманды сурамжылоо аркылуу тартат: бул таштар эмне?"
+    }
+  ],
+  "translation": "Бул силердин араңарда белги болушу үчүн: кийинчерээк уулдарыңар сурап: бул таштар силерге эмне? — дегенде.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "473862c6670429e30330a4fc36247e2b467a0d15e48910621c866c3b70799cb7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/joshua\/4\/5-8.1791205581996.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "үчүн"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "болсун"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "бул"
+    },
+    {
+      "surface": "אות",
+      "gloss": "белги"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "араңарда"
+    },
+    {
+      "surface": "כי",
+      "gloss": "кого"
+    },
+    {
+      "surface": "ישאלון",
+      "gloss": "сураганда"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "уулдарыңар"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "кийинчерээк"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "деп айтышканда"
+    },
+    {
+      "surface": "מה",
+      "gloss": "эмне"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "бул таштар"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "бул"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "силерге"
+    }
+  ],
+  "timestamp": "2026-10-05T13:06:21.997840821Z",
+  "model": "glm-5.3"
+}

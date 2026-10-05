@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "micah 6:8",
+  "book": "micah",
+  "lang": "ky",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "адамга",
+      "rationale": "«Эй адам» — жалпы адамзатка тикелей кайрылуу."
+    },
+    {
+      "kind": "substitution",
+      "subject": "хесед",
+      "rationale": "חסед — «ырайым» гана эмес, убадалашкан берилген жакшылык; сөз катары сакталды."
+    },
+    {
+      "kind": "elision",
+      "subject": "כי אם",
+      "rationale": "«чын эми», «болгону» деген байланыштык киринди кыскача «гана» менен берилди."
+    }
+  ],
+  "translation": "Айтты саа, эй адам, эмне жакшы экенин; жана Яхве сенден эмнени талап кылат: өкүм жүргүзүү, хеседди сүйүү жана Элохимең менен жабылып жүрүү гана.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "dc496f949c71ee693c20fa9167001a0e4d13552e18c0a3a5077de089ee6d3871",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/micah\/6\/5-8.1791214735730.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הגיד",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "לך",
+      "gloss": "саа"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "эй адам"
+    },
+    {
+      "surface": "מה",
+      "gloss": "эмне"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "жакшы"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "жана эмне"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "דורש",
+      "gloss": "талап кылат"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "сенден"
+    },
+    {
+      "surface": "כי",
+      "gloss": "гана"
+    },
+    {
+      "surface": "אם",
+      "gloss": "-"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "жүргүзүү"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "өкүм"
+    },
+    {
+      "surface": "ואהבת",
+      "gloss": "сүйүү"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "хеседди"
+    },
+    {
+      "surface": "והצנע",
+      "gloss": "жабылып"
+    },
+    {
+      "surface": "לכת",
+      "gloss": "жүрүү"
+    },
+    {
+      "surface": "עם",
+      "gloss": "менен"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Элохимең"
+    }
+  ],
+  "timestamp": "2026-10-05T15:38:55.731709005Z",
+  "model": "glm-5.3"
+}

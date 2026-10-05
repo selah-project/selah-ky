@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 58:10",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 58,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "казандар жана чырпы",
+      "rationale": "Салыштыруу талаштуу: казан отко коюлганча чырпы тез күйүп бүтөт — жамандар жазасын тартканча кырылып калат; KJV 'чийки жана күйгөн' дейт, башкалар 'добул' деп берет"
+    },
+    {
+      "kind": "substitution",
+      "subject": "добулу менен алып кетет",
+      "rationale": "ישערנו 'добул\/бороон сыяктуу алып кетет' — шторм менен капталган сүрөт"
+    }
+  ],
+  "translation": "Казандарыңар чырпыны билгенче, Ал аны чийки да, күйгөн да сыяктуу өз каарынын добулу менен алып кетет.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "ea2bc0f6056bf10dd255aee67c697fe854f5f7cff9f4b2e24ed5ae95ffd77e08",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/58\/9-12.1791216211377.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "билгенче"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "түшүнүшөт"
+    },
+    {
+      "surface": "סירתיכם",
+      "gloss": "казандарыңар"
+    },
+    {
+      "surface": "אטד",
+      "gloss": "чырпыны"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "сыяктуу"
+    },
+    {
+      "surface": "חי",
+      "gloss": "чийки да"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "сыяктуу"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "каарынын"
+    },
+    {
+      "surface": "ישערנו",
+      "gloss": "добулу менен алып кетет"
+    }
+  ],
+  "timestamp": "2026-10-05T16:03:31.378630157Z",
+  "model": "glm-5.3"
+}

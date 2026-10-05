@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 16:2",
+  "book": "1-samuel",
+  "lang": "ky",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "secret",
+      "subject": "курмандык жапырыгы",
+      "rationale": "Яхвенин буйругу — чыныгы максатты (майлоо) жашыруучу жабуу катары курмандык"
+    },
+    {
+      "kind": "substitution",
+      "subject": "мындай дегин",
+      "rationale": "ивритте 'жана айтасың' — оозеки түрмөктү кыргызча табигый кылыш үчүн ушундай"
+    }
+  ],
+  "translation": "Жана Шемуэл айтты: Кантип барам? Шаул укса, мени өлтүрөт. Жана Яхве айтты: Колуңа уйдун букачасын ал да, мындай дегин: Яхвеге курмандык чалууга келдим.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "6cff96d454d016e01c77892dd5e25096fa8ea6673eb0cbbf5617ef551412177e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-samuel\/16\/1-4.1791206960275.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Жана … айтты"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Шемуэл"
+    },
+    {
+      "surface": "איך",
+      "gloss": "Кантип"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "барам"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "укса"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "והרגני",
+      "gloss": "мени өлтүрөт"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Жана … айтты"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "עגלת",
+      "gloss": "букача"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "уйдун"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "ал"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "колуңа"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "жана дегин"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "курмандык чалууга"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхвеге"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "келдим"
+    }
+  ],
+  "timestamp": "2026-10-05T13:29:20.276900188Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 82:8",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 82,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "Тур, Элохим",
+      "rationale": "Забур аягы Элохимге буйрук-тилек менен бүтөт — ырчынын чакырыгы."
+    },
+    {
+      "kind": "alternative",
+      "subject": "мураска аласың",
+      "rationale": "תנחל — «мураска алуу» же «ээлик кылуу»; «бардык элдерди мураска аласың» деген көчүрмө биринчи тандоо."
+    }
+  ],
+  "translation": "Тур, Элохим, жерди сотто, анткени Сен бардык элдерди мураска аласың.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "6f972571f395cfa69c2527edd4cb4ba091101b8c270fb4620dab6a5222be85bc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/82\/5-8.1791216653891.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Тур"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "שפטה",
+      "gloss": "сотто"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "жерди"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Сен"
+    },
+    {
+      "surface": "תנחל",
+      "gloss": "мураска аласың"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "бардык"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "элдерди"
+    }
+  ],
+  "timestamp": "2026-10-05T16:10:53.892159802Z",
+  "model": "glm-5.3"
+}

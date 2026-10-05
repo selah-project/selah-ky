@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 21:18",
+  "book": "deuteronomy",
+  "lang": "ky",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "да",
+      "rationale": "жейинлик былыкты (мыкты котормо) «жазалаганда да» — үндөштүктү билдирүүчү «да» сөзү еврейчеде жок"
+    }
+  ],
+  "translation": "Эгер бир кишидин тартынбаган жана каршы чыккан уулу болсо — ал атасынын үнүнө да, энесинин үнүнө да угуучу эмес, алар ⟨את⟩ аны жазалаганда да аларга угуп бербейт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "0318a50caa5066129ab87ff107c42a9ae2653e60d5306603e729f4b5da763c3c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/21\/17-20.1791205139680.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "эгер"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "болсо"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "бир кишидин"
+    },
+    {
+      "surface": "בן",
+      "gloss": "уулу"
+    },
+    {
+      "surface": "сורר",
+      "gloss": "тартынбаган"
+    },
+    {
+      "surface": "ומורה",
+      "gloss": "жана каршы чыккан"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "ал эмес"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "угуучу"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "үнүнө"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "атасынын"
+    },
+    {
+      "surface": "ובקול",
+      "gloss": "жана үнүнө"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "энесинин"
+    },
+    {
+      "surface": "ויסרו",
+      "gloss": "жазалаганда да"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ аны"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "жана эмес"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "угуп бербейт"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "аларга"
+    }
+  ],
+  "timestamp": "2026-10-05T12:58:59.681800223Z",
+  "model": "glm-5.3"
+}

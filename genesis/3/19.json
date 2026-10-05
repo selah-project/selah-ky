@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 3:19",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "сың",
+      "rationale": "«сен топураксың» — еврейче жок мүчө, кыргызча атооч аякталуусу талап кылат."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עפר … עפר",
+      "rationale": "«топураксың — топуракка кайтасың» деген кайрылуу, еврейче ыр саптын чыгырыгы."
+    }
+  ],
+  "translation": "Чурайыңдын теринен нан жейсің, топуракка кайтканыңа чейин, анткени ал топурактан алынгансың; анткени сен топураксың, жана топуракка кайтасың.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "3fdb2e879de77b297ff306e1421934778d6cc48151c070d6e5dfa39e976115e8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/3\/17-20.1791200765185.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בזעת",
+      "gloss": "теринен"
+    },
+    {
+      "surface": "אפיך",
+      "gloss": "чурайыңдын"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "жейсиң"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "нан"
+    },
+    {
+      "surface": "עד",
+      "gloss": "…га чейин"
+    },
+    {
+      "surface": "שובך",
+      "gloss": "кайтканың"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ка"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "топурак"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "ал…тан"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "алынгансың"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "топурак"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "сен…сың"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "жана…ка"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "топурак"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "кайтасың"
+    }
+  ],
+  "timestamp": "2026-10-05T11:46:05.186204154Z",
+  "model": "glm-5.3"
+}

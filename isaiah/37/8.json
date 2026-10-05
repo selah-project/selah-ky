@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 37:8",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "нын \/ анын",
+      "rationale": "Кыргызча ылымый ийлик билдирүүчү мүчөлөр еврейче атоочтук конструкцияда жок — «согушуп жатканын тапты» деген формада кошулду"
+    },
+    {
+      "kind": "elision",
+      "subject": "экінчи כי",
+      "rationale": "Экинчи כי кыргызча текстте бир гана «анткени» менен берилип, так кайталанбай калды"
+    }
+  ],
+  "translation": "Рабшаке кайтып келди жана Ашшур падышасын Ливнага каршы согушуп жатканын тапты, анткени ал анын Лакиштен жөнөп кеткенин уккан.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "c95b485a048099cfa3190e07ce0f4071ac795e26a850026d01de9b54e3765f81",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/37\/8-8.1791224088488.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "кайтып келди"
+    },
+    {
+      "surface": "רב",
+      "gloss": "Рабшаке"
+    },
+    {
+      "surface": "שקה",
+      "gloss": "Рабшаке"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "тапты"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ашшур падышасы"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "падышасы"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ашшур"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "согушуп жаткан"
+    },
+    {
+      "surface": "על",
+      "gloss": "каршы"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Ливнага"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "уккан"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "נסע",
+      "gloss": "жөнөп кеткенин"
+    },
+    {
+      "surface": "מלכיש",
+      "gloss": "Лакиштен"
+    }
+  ],
+  "timestamp": "2026-10-05T18:14:48.488588761Z",
+  "model": "glm-5.3"
+}

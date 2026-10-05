@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "daniel 2:33",
+  "book": "daniel",
+  "lang": "ky",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "чопо",
+      "rationale": "חסף букв. 'ком, топурак кесеги' — 'чопо' катары берилди"
+    },
+    {
+      "kind": "elision",
+      "subject": "די",
+      "rationale": "Арамейче байламта די кыргызча ат атоочко сиңип кетти"
+    }
+  ],
+  "translation": "Анын сандалдары темир, анын буттары — бир бөлүгү темир, бир бөлүгү чопо.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "b3f21a18aa858514cdc96612dd693c8aa06e58184b79854e048b5865cb22d966",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/daniel\/2\/33-36.1791220517179.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שקוהי",
+      "gloss": "сандалдары"
+    },
+    {
+      "surface": "די",
+      "gloss": "⟨сандалдары⟩"
+    },
+    {
+      "surface": "פרזל",
+      "gloss": "темир"
+    },
+    {
+      "surface": "רגלוהי",
+      "gloss": "буттары"
+    },
+    {
+      "surface": "מנהון",
+      "gloss": "бир бөлүгү"
+    },
+    {
+      "surface": "די",
+      "gloss": "⟨бөлүгү⟩"
+    },
+    {
+      "surface": "פרזל",
+      "gloss": "темир"
+    },
+    {
+      "surface": "ומנהון",
+      "gloss": "жана бир бөлүгү"
+    },
+    {
+      "surface": "די",
+      "gloss": "⟨бөлүгү⟩"
+    },
+    {
+      "surface": "חסף",
+      "gloss": "чопо"
+    }
+  ],
+  "timestamp": "2026-10-05T17:15:17.180202994Z",
+  "model": "glm-5.3"
+}

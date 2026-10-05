@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 25:22",
+  "book": "1-samuel",
+  "lang": "ky",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "дубалга заара учураткан эркек",
+      "rationale": "משתין בקיר — эркек жаныбарларды\/eркектер белгилөөчү идиома; көп котормолор 'эркек балага' жумшартат"
+    },
+    {
+      "kind": "elision",
+      "subject": "משתין בקיר",
+      "rationale": "BSB сыяктуу котормолор бул сөздөрдү толук алып салышат"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אם",
+      "rationale": "шарттуу ант формасы: 'Элохим ушинтсе... эгер... калса' — анттын бүтүмү кийинки окуялар менен аткарылат"
+    }
+  ],
+  "translation": "Элохим Давидтин душмандарына ушинтсе жана дагы ушинтсе, эгер таң атканча анын нерселеринен эсепке алсам — дубалга заара учураткан ⟨эркек⟩ калса.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "e5f6e5097240e80c2f77db70cbb33114dfb26b5dee2f116c70cf3eb7afbc373b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-samuel\/25\/21-24.1791207121999.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "ушинтсе"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "Элохим ... кылса"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "לאיבי",
+      "gloss": "душмандарына"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давидтин"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "жана ушинтсе"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "дагы"
+    },
+    {
+      "surface": "אם",
+      "gloss": "эгер"
+    },
+    {
+      "surface": "אשאיר",
+      "gloss": "калтырсам"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "нин ичинен"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "эмне"
+    },
+    {
+      "surface": "לו",
+      "gloss": "анын"
+    },
+    {
+      "surface": "עד",
+      "gloss": "чынчы"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "таң атканча"
+    },
+    {
+      "surface": "משתין",
+      "gloss": "заара учураткан"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "дубалга"
+    }
+  ],
+  "timestamp": "2026-10-05T13:32:02.000638797Z",
+  "model": "glm-5.3"
+}

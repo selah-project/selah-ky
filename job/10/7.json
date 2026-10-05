@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 10:7",
+  "book": "job",
+  "lang": "ky",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "על דעתך",
+      "rationale": "'Билимиңе карабай' (KJV\/ASV) же 'билимиң менен' — эки окуу бар"
+    },
+    {
+      "kind": "you",
+      "subject": "Яхвеге (Июб аркылуу)",
+      "rationale": "Июбдун Сөзгө карата нааразылык суроосу"
+    }
+  ],
+  "translation": "бирок Сенин билимиң менен — мен жоктуу эмесмин, жана Сенин колуңдан арачалоочу ⟨жок⟩.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "6b666e50d6e5b6572b005bbb1a968f6147846d232114fd153962d4a1ac8d498a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/job\/10\/5-8.1791218765038.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "бирок"
+    },
+    {
+      "surface": "דעתך",
+      "gloss": "Сенин билимиң"
+    },
+    {
+      "surface": "כי",
+      "gloss": "мени"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жоктуу эмесмин"
+    },
+    {
+      "surface": "ארשע",
+      "gloss": "⟨жоктуу эмесмин⟩"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "жана арачалоочу жок"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "Сенин колуңдан"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "арачалоочу"
+    }
+  ],
+  "timestamp": "2026-10-05T16:46:05.039681112Z",
+  "model": "glm-5.3"
+}

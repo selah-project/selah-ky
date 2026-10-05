@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 26:1",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "тайманбайм",
+      "rationale": "אמעד 'таймано' этиши азыркы убакта берилди, ивриттин убактысы так эмес"
+    },
+    {
+      "kind": "substitution",
+      "subject": "сотло",
+      "rationale": "שפטני 'мени сотто' дегенди да билдирет — Давид актоону суранат"
+    }
+  ],
+  "translation": "Давидге. Мени сотло, Яхве, анткени мен таза жүрөмдө жүрдүм жана Яхвеге таяндым, тайманбайм.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "c1625a3339a801d19092547c4881464665dc0a2dd25d9b8e187962f73e39d976",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/26\/1-4.1791215709824.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Давидге"
+    },
+    {
+      "surface": "שפטני",
+      "gloss": "мени сотло"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "אני",
+      "gloss": "мен"
+    },
+    {
+      "surface": "בתמי",
+      "gloss": "таза жүрөмдө"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "жүрдүм"
+    },
+    {
+      "surface": "וביהוה",
+      "gloss": "Яхвеге"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "таяндым"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "אמעד",
+      "gloss": "тайманбайм"
+    }
+  ],
+  "timestamp": "2026-10-05T15:55:09.824777886Z",
+  "model": "glm-5.3"
+}

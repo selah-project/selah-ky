@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 1:17",
+  "book": "numbers",
+  "lang": "ky",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "некебу бешемот",
+      "rationale": "адамдар ысымдары менен атайын дайындалып, каттоого даярдалуу"
+    },
+    {
+      "kind": "substitution",
+      "subject": "дайындалгандар",
+      "rationale": "נקבו букв. 'тешилген\/белги коюлган' — ысым менен так көрсөтүлгөн"
+    }
+  ],
+  "translation": "Жана Моше менен Ахарон ⟨את⟩ бул адамдарды алышты, алар ысымдары менен дайындалгандар.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "5838d805e1730833b235a238c4f25a536657472b152ade4d3e2413dec3bff45d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/numbers\/1\/17-20.1791203557967.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "алышты"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "Ахарон"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "бул адамдарды"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "адамдарды"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "бул"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "алар"
+    },
+    {
+      "surface": "נקבו",
+      "gloss": "дайындалгандар"
+    },
+    {
+      "surface": "בשמות",
+      "gloss": "ысымдары менен"
+    }
+  ],
+  "timestamp": "2026-10-05T12:32:37.968410483Z",
+  "model": "glm-5.3"
+}

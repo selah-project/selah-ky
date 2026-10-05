@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 2:6",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "бири",
+      "rationale": "Еврейче 'бул — иврилердин балдарынын' деп ачык 'бири' дейт, кыргызча такташ үчүн кошулду."
+    },
+    {
+      "kind": "you",
+      "subject": "ханышага",
+      "rationale": "Сөз ичиндүү сүйлөм — ханыша фараондун кызы өзүнө өзү сүйлөйт."
+    }
+  ],
+  "translation": "Ал ачты да ⟨את⟩ баланы көрдү — карса, ыйлаган бала! Анын жаны ачыды жана ал айтты: Бул иврилердин балдарынын бири.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "8eee566e5f8f23e3b1a4dcb351a140b6581aa29c78e4363d985e073f2e6763e3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/2\/5-8.1791201863991.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותפתח",
+      "gloss": "ачты"
+    },
+    {
+      "surface": "ותראהו",
+      "gloss": "көрдү"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "баланы"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "баланы"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "карса"
+    },
+    {
+      "surface": "נער",
+      "gloss": "бала"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "ыйлаган"
+    },
+    {
+      "surface": "ותחמל",
+      "gloss": "жаны ачыды"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "анын"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "מילדי",
+      "gloss": "балдарынын бири"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "иврилердин"
+    },
+    {
+      "surface": "זה",
+      "gloss": "бул"
+    }
+  ],
+  "timestamp": "2026-10-05T12:04:23.992462336Z",
+  "model": "glm-5.3"
+}

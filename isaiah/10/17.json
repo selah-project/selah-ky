@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 10:17",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "нур → от",
+      "rationale": "Йисраэлдин нуру өзү от болот — жарык менен жок кылуу биригип кеткен образ"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ал⟩",
+      "rationale": "этиштин ээси текстте жок, кыргызча талап кылат"
+    }
+  ],
+  "translation": "Жана Йисраэлдин нуру отко айланат, анын Ыйыгы жалынга, жана ⟨ал⟩ күйөт жана анын бадалдарын жана тикендерин бир күндө жутуп жиберет.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "4bc9b5de38965dfef11b1e500e368265414ef18bcf16d2956eea5a830091ebce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/10\/17-20.1791209613307.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Жана болот"
+    },
+    {
+      "surface": "אור",
+      "gloss": "нур"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэлдин"
+    },
+    {
+      "surface": "לאש",
+      "gloss": "отко"
+    },
+    {
+      "surface": "וקדושו",
+      "gloss": "анын Ыйыгы"
+    },
+    {
+      "surface": "ללהבה",
+      "gloss": "жалынга"
+    },
+    {
+      "surface": "וּבָעֲרָה",
+      "gloss": "жана күйөт"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "жана жутуп жиберет"
+    },
+    {
+      "surface": "שיתו",
+      "gloss": "анын бадалдарын"
+    },
+    {
+      "surface": "ושמירו",
+      "gloss": "анын тикендерин"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "күндө"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бир"
+    }
+  ],
+  "timestamp": "2026-10-05T14:13:33.307992031Z",
+  "model": "glm-5.3"
+}

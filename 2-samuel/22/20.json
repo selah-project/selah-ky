@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 22:20",
+  "book": "2-samuel",
+  "lang": "ky",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "бошотту",
+      "rationale": "חלץ — кысып жаткандан сузуп алуу, куткаруу маанисинде"
+    }
+  ],
+  "translation": "Жана ал мени ⟨את⟩ кеңдикке алып чыкты, мени бошотту, анткени ал мени каалады.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "322f4695f62187937a5e88e2c99bd9a4b80b355dee0e0e3204e251d20701d0ce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-samuel\/22\/17-20.1791207861394.json",
+    "code": "641241cf-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "алып чыкты"
+    },
+    {
+      "surface": "למרחב",
+      "gloss": "кеңдикке"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "мени"
+    },
+    {
+      "surface": "יחלצני",
+      "gloss": "мени бошотту"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "каалады"
+    },
+    {
+      "surface": "בי",
+      "gloss": "мени"
+    }
+  ],
+  "timestamp": "2026-10-05T13:44:21.395497161Z",
+  "model": "glm-5.3"
+}

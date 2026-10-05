@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 86:5",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 86,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "-сың",
+      "rationale": "Еврейче этиш жок — кыргызча атоочтук баяндоо мүчө талап кылат"
+    },
+    {
+      "kind": "substitution",
+      "subject": "хесед",
+      "rationale": "חסד 'ырайым' деп да которулат, бирок D2 боюнча хесед кармалат"
+    }
+  ],
+  "translation": "Анткени Сен, Адонай, жакшысың жана кечирүүчүсүң, жана чакыргандардын баарына хеседиң мол.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "133a5716555a948c169a21ead9202567d83ea7b4b64b79463ae64f1592b09734",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/86\/5-8.1791216774252.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Сен"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "жакшысың"
+    },
+    {
+      "surface": "וסלח",
+      "gloss": "жана кечирүүчүсүң"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "жана мол"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "хесед"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "баарына"
+    },
+    {
+      "surface": "קראיך",
+      "gloss": "Сени чакыргандардын"
+    }
+  ],
+  "timestamp": "2026-10-05T16:12:54.252955789Z",
+  "model": "glm-5.3"
+}

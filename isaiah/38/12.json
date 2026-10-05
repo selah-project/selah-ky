@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 38:12",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "דורי",
+      "rationale": "'менин муунум\/курагым' (KJV) же 'менин конушум' (JPS, ASV) — лемма эки маанини берет; чатыр контекстинен конуш тандалды"
+    },
+    {
+      "kind": "crux",
+      "subject": "מדלה",
+      "rationale": "эң көп талашкан сөз: 'жиптен' (JPS 'from the thrum'), KJV 'with pining sickness' ('оору менен'), YLT 'слабость менен'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ал⟩",
+      "rationale": "יבצעני этиштин субъектиси кыргызча так болушу үчүн кошулду"
+    }
+  ],
+  "translation": "Менин конушум көчүрүлдү жана менин үстүмөн алынып кетти, чабандын чатыры сыяктуу; мен токумчу сыяктуу жашоомду жыйнадым — жиптен ⟨ал⟩ мени үзөт; күндөн түнгө чейин сен мени бүтүрөсүң.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "cda6e8ea69d874cf94bb15dcdaf05d9a4186cfad16b52c799adcdf706b23607c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/38\/12-12.1791224100124.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דורי",
+      "gloss": "менин конушум"
+    },
+    {
+      "surface": "נסע",
+      "gloss": "көчүрүлдү"
+    },
+    {
+      "surface": "ונגלה",
+      "gloss": "жана алынып кетти"
+    },
+    {
+      "surface": "מני",
+      "gloss": "менин үстүмөн"
+    },
+    {
+      "surface": "כאהל",
+      "gloss": "чатыры сыяктуу"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "чабандын"
+    },
+    {
+      "surface": "קפדתי",
+      "gloss": "жыйнадым"
+    },
+    {
+      "surface": "כארג",
+      "gloss": "токумчу сыяктуу"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "жашоомду"
+    },
+    {
+      "surface": "מדלה",
+      "gloss": "жиптен"
+    },
+    {
+      "surface": "יבצעני",
+      "gloss": "мени үзөт"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "күндөн"
+    },
+    {
+      "surface": "עד",
+      "gloss": "чейин"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "түнгө"
+    },
+    {
+      "surface": "תשלימני",
+      "gloss": "мени бүтүрөсүң"
+    }
+  ],
+  "timestamp": "2026-10-05T18:15:00.125161456Z",
+  "model": "glm-5.3"
+}

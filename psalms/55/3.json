@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 55:3",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 55,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "הקשיבה",
+      "rationale": "буквально «насторожь уши» — идиома внимания"
+    },
+    {
+      "kind": "crux",
+      "subject": "אריד",
+      "rationale": "редкий корень «бродить, метаться»: KJV «печалюсь», ASV «беспокоен», JPS «в смятении»"
+    },
+    {
+      "kind": "you",
+      "subject": "к Элохиму",
+      "rationale": "прямое обращение с императивами «мене»"
+    }
+  ],
+  "translation": "Мага кулак сал жана мага жооп бер, мен өз байланымда аңтарылып кыйкырам.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "9f9f9c4459b166fd97f326903e0ba2b93be2fe3517e13adec64c86534668204f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/55\/2-3.1791224434041.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הקשיבה",
+      "gloss": "кулак сал"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мага"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "жана мага жооп бер"
+    },
+    {
+      "surface": "אריד",
+      "gloss": "аңтарылып"
+    },
+    {
+      "surface": "בשיחי",
+      "gloss": "өз байланымда"
+    },
+    {
+      "surface": "ואהימה",
+      "gloss": "кыйкырам"
+    }
+  ],
+  "timestamp": "2026-10-05T18:20:34.041912070Z",
+  "model": "glm-5.3"
+}

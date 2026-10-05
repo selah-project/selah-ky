@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 9:2",
+  "book": "1-chronicles",
+  "lang": "ky",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨эли⟩",
+      "rationale": "Тизме түрүндөгү «Йисраэл» өздөштүрүлгөн сөз; кыргызча тактоо кошулду"
+    },
+    {
+      "kind": "substitution",
+      "subject": "коэндер",
+      "rationale": "הכהנים — еврейче айтылышта сакталды; кыргызча диний кызматкер деген титул колдонулган жок"
+    }
+  ],
+  "translation": "Жана өз ээликтеринде, өз шаарларында биринчи жашагандар — Йисраэл ⟨эли⟩, коэндер, Левилер жана нетинимдер.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "2df7aaf7c48fc87de764cdb4d2a3aa6747580e35f083c11a658e0dbd29fcb53b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-chronicles\/9\/1-4.1791222036157.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיושבים",
+      "gloss": "жана жашагандар"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "биринчи"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨алар⟩"
+    },
+    {
+      "surface": "באחזתם",
+      "gloss": "өз ээликтеринде"
+    },
+    {
+      "surface": "בעריהם",
+      "gloss": "өз шаарларында"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэл"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "коэндер"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Левилер"
+    },
+    {
+      "surface": "והנתינים",
+      "gloss": "жана нетинимдер"
+    }
+  ],
+  "timestamp": "2026-10-05T17:40:36.158059862Z",
+  "model": "glm-5.3"
+}

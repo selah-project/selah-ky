@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 27:8",
+  "book": "1-chronicles",
+  "lang": "ky",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "адам",
+      "rationale": "Ивритте жок, миң эсептөөнүн объектиси кошулду"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Зерахтын урпагынан",
+      "rationale": "היזרח — Зерахтын тукумуна тиешелүү атагы, топономикалык ысым катары берилди"
+    },
+    {
+      "kind": "measurement",
+      "subject": "жыйырма төрт миң",
+      "rationale": "Аскер бөлүгүнүн саны"
+    }
+  ],
+  "translation": "Бешинчиси бешинчи ай үчүн — башчы Шамхут, Зерахтын урпагынан; жана анын бөлүгүндө жыйырма төрт миң ⟨адам⟩ бар эле.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "94387d202d325cb132713675be5619be152cd2f6f8fb26669100ff5487a2df2a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-chronicles\/27\/5-8.1791222427018.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "החמישי",
+      "gloss": "Бешинчиси"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ай үчүн"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "бешинчи"
+    },
+    {
+      "surface": "השר",
+      "gloss": "башчы"
+    },
+    {
+      "surface": "שמהות",
+      "gloss": "Шамхут"
+    },
+    {
+      "surface": "היזרח",
+      "gloss": "Зерахтын урпагынан"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "жана анын"
+    },
+    {
+      "surface": "מחלקתו",
+      "gloss": "бөлүгүндө"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "жыйырма"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "төрт"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "миң"
+    }
+  ],
+  "timestamp": "2026-10-05T17:47:07.020408713Z",
+  "model": "glm-5.3"
+}

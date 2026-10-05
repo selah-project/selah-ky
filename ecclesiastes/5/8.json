@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 5:8",
+  "book": "ecclesiastes",
+  "lang": "ky",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ויתרון ארץ בכל היא",
+      "rationale": "Эң кыйын аят: «жердин пайдасы баарында ал» — падыша талаага кызмат кылат (JPS) же падышаны талаа тейтейт (LXX\/КЖВ багыты)."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨турат⟩",
+      "rationale": "Еврей текстте эташ жок; кыргызча сүйлөм толук болушу үчүн кошулду."
+    }
+  ],
+  "translation": "Жана жердин пайдасы — баарында ⟨турат⟩: падыша да талаага кызмат кылынат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "3bb4f776930c8569185c768a12a7729af61f2e989338b1c8829e9a8722be85ae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ecclesiastes\/5\/5-8.1791220150679.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתרון",
+      "gloss": "Жана пайдасы"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "жердин"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "баарында"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨турат⟩"
+    },
+    {
+      "surface": "мелех",
+      "gloss": "падыша"
+    },
+    {
+      "surface": "לשדה",
+      "gloss": "талаага"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "кызмат кылынат"
+    }
+  ],
+  "timestamp": "2026-10-05T17:09:10.681154199Z",
+  "model": "glm-5.3"
+}

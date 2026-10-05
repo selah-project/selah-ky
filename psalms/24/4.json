@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 24:4",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "адам",
+      "rationale": "Еврейче сын атооч гана — кыргызча сүйлөм ⟨адам⟩ деген ат атоочту талап кылат"
+    },
+    {
+      "kind": "substitution",
+      "subject": "жан",
+      "rationale": "נפש — жан эмес, «дем, жашоо күчү, боор ооруу» дегенге жакын кеңири түшүнүк"
+    },
+    {
+      "kind": "crux",
+      "subject": "нefesh-ти көтөрүү",
+      "rationale": "JPS «Менин ысымымды бекер алган эмес» деп окуйт — жөнөкөй текст «жанын жалганга көтөргөн эмес»"
+    }
+  ],
+  "translation": "Колдору таза жана жүрөгү таза ⟨адам⟩ — жанын жалганга көтөргөн эмес жана адашуу менен ант бербеген.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "7f3f28bc1f22822331da424a7de5c649ad10418c3a0fa7ffef219a870f546dca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/24\/1-4.1791215728642.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נקי",
+      "gloss": "таза"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "колдору"
+    },
+    {
+      "surface": "ובר",
+      "gloss": "жана таза"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "жүрөк"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨адам⟩ — ал"
+    },
+    {
+      "surface": "לא",
+      "gloss": "эмес"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "көтөргөн"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "жалганга"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "жанын"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "жана жок"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "ант бербеген"
+    },
+    {
+      "surface": "למרמה",
+      "gloss": "адашуу менен"
+    }
+  ],
+  "timestamp": "2026-10-05T15:55:28.644134582Z",
+  "model": "glm-5.3"
+}

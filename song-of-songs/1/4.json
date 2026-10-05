@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 1:4",
+  "book": "song-of-songs",
+  "lang": "ky",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "мישרים",
+      "rationale": "Сөзмө-сөз «түздүк \/ түз жүрүү» — адилеттик-түз жүрүүчүлөр деген маани берилди"
+    },
+    {
+      "kind": "addition",
+      "subject": "көбүрөөк",
+      "rationale": "Салыштыруу «арактан» деген салыштырмалуу даражаны кыргызча ачып берүү үчүн кошулду"
+    },
+    {
+      "kind": "you",
+      "subject": "to the beloved",
+      "rationale": "Аят сүйүүчүгө тикелей кайрылуу менен башталат"
+    }
+  ],
+  "translation": "Мени өзүңдүн артыңа тарт, чогуу жүгүрөлү; падыша мени бөлмөлөрүнө алып келди; сенин ичиңде кубанабыз жана сүйүнөбүз; сүйүүлөрүңдү арактан көбүрөөк эстеибиз; түз жүргөндөр сени сүйөт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "708639b00a5304c6985f489c6d7714dab9c2c2bae967edba93b746438fe76cd3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/song-of-songs\/1\/1-4.1791219532188.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משכני",
+      "gloss": "Мени... тарт"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "өзүңдүн артыңа"
+    },
+    {
+      "surface": "נרוצה",
+      "gloss": "чогуу жүгүрөлү"
+    },
+    {
+      "surface": "הביאני",
+      "gloss": "мени... алып келди"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "падыша"
+    },
+    {
+      "surface": "חדריו",
+      "gloss": "бөлмөлөрүнө"
+    },
+    {
+      "surface": "נגילה",
+      "gloss": "кубанабыз"
+    },
+    {
+      "surface": "ונשמחה",
+      "gloss": "жана сүйүнөбүз"
+    },
+    {
+      "surface": "בך",
+      "gloss": "сенин ичиңде"
+    },
+    {
+      "surface": "נזכירה",
+      "gloss": "эстеибиз"
+    },
+    {
+      "surface": "דדיך",
+      "gloss": "сүйүүлөрүңдү"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "арактан"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "түз жүргөндөр"
+    },
+    {
+      "surface": "אהבוך",
+      "gloss": "сени сүйөт"
+    }
+  ],
+  "timestamp": "2026-10-05T16:58:52.190367591Z",
+  "model": "glm-5.3"
+}

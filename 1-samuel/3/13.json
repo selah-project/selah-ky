@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 3:13",
+  "book": "1-samuel",
+  "lang": "ky",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מקללים",
+      "rationale": "«каргыш келтирүү» (JPS) менен «өздөрүн жек көрүнүктүү кылуу» (KJV «made themselves vile») деген варианттар бар; тамыр «жеңил болуу» деген мааниде."
+    },
+    {
+      "kind": "crux",
+      "subject": "כהה",
+      "rationale": "букма мааниси «күңүрт болуу»; «тыюу салуу» (KJV) же «сөгүндүрбөө» (JPS «rebuked not») деген түшүндүрмөлөр бар."
+    },
+    {
+      "kind": "substitution",
+      "subject": "тыя элек",
+      "rationale": "כהה букмада «начарлай баштады» деген сөз; котормодо «тыюу салган жок» катары берилди."
+    }
+  ],
+  "translation": "Мен ага билдирдим: анткени Мен ⟨את⟩ анын үйүнө түбөлүккө чейин өкүм чыгарамын — ал билген күнөө үчүн, анткени анын уулдары өздөрүнө каргыш келтиришти, жана ал аларды тыя элек.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "6be9d30d54d0c5465046f4359c8277051c27800fa5fa082cc075ef720b31d282",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-samuel\/3\/13-16.1791206645773.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והגדתי",
+      "gloss": "билдирдим"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ага"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "өкүм чыгарамын"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Мен"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "анын үйүн"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "анын үйүн"
+    },
+    {
+      "surface": "עד",
+      "gloss": "чейин"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "түбөлүк"
+    },
+    {
+      "surface": "בעון",
+      "gloss": "күнөө"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "билди"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "מקללים",
+      "gloss": "каргыш келтиришти"
+    },
+    {
+      "surface": "להם",
+      "gloss": "өздөрүнө"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "анын уулдары"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "жана жок"
+    },
+    {
+      "surface": "כהה",
+      "gloss": "тыя элек"
+    },
+    {
+      "surface": "בם",
+      "gloss": "аларды"
+    }
+  ],
+  "timestamp": "2026-10-05T13:24:05.773786379Z",
+  "model": "glm-5.3"
+}

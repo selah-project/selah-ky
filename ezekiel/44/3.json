@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 44:3",
+  "book": "ezekiel",
+  "lang": "ky",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "нааси",
+      "rationale": "נשיא — башкача айтканда 'көтөрүлгөн, урматтуу' — падыша же башкаруучу; 'князь' эмес"
+    },
+    {
+      "kind": "addition",
+      "subject": "башкача айтканда",
+      "rationale": "נשיא הוא кайра айтылышын бөлүп көрсөтүү үчүн кошулду"
+    }
+  ],
+  "translation": "Наси — башкача айтканда, наси өзү ⟨את⟩ ал жерде Яхвенин алдында нан жей турган болуп отурат; дарбазанын эшигинин жолу менен кирет жана өз жолу менен чыгат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "511ad6149298f0bd907607dc5f53c7ce7c5afad3f60f7ea0e428da23a129fe80",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ezekiel\/44\/1-4.1791213645531.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "наасини"
+    },
+    {
+      "surface": "הנשיא",
+      "gloss": "нааси"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "нааси"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "өзү"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "отурат"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ал жерде"
+    },
+    {
+      "surface": "לאכול",
+      "gloss": "жей турган"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "нан"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "алдында"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "жолу менен"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "эшигинин"
+    },
+    {
+      "surface": "השער",
+      "gloss": "дарбазанын"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "кирет"
+    },
+    {
+      "surface": "ומדרכו",
+      "gloss": "жана өз жолу менен"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "чыгат"
+    }
+  ],
+  "timestamp": "2026-10-05T15:20:45.532986964Z",
+  "model": "glm-5.3"
+}

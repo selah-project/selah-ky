@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 106:33",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 106,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ачуулантышты",
+      "rationale": "המרו букв. 'ачуу кылдышты' (мара — ачуу), расмий 'козгодушту' дегенге караганда сөздүн формасын сактайт"
+    },
+    {
+      "kind": "crux",
+      "subject": "сүйлөдү",
+      "rationale": "ויבטא: 'ороо\/акылсыз сүйлөдү' же 'ачуу менен кыйкырды' — котормочулар бөлүнүшөт"
+    }
+  ],
+  "translation": "Анткени алар ⟨את⟩ анын рухун ачуулантышты, жана ал эриндери менен орой сүйлөдү.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "bc1945d688b20fc5f89cfc6c0c2511330e5a2c83611c2f56f83df6d2cd8e68de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/106\/33-36.1791217114155.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "המרו",
+      "gloss": "ачуулантышты"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "анын рухун"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "анын рухун"
+    },
+    {
+      "surface": "ויבטא",
+      "gloss": "жана орой сүйлөдү"
+    },
+    {
+      "surface": "בשפתיו",
+      "gloss": "эриндери менен"
+    }
+  ],
+  "timestamp": "2026-10-05T16:18:34.157682579Z",
+  "model": "glm-5.3"
+}

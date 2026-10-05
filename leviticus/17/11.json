@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 17:11",
+  "book": "leviticus",
+  "lang": "ky",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жан",
+      "rationale": "נפש «жан» эмес, кекиртек\/дем\/жашоо күчү маанисинде"
+    },
+    {
+      "kind": "crux",
+      "subject": "בנפש יכפר",
+      "rationale": "«жан менен кечирим кылат» (кан жан болгону үчүн) же «жан үчүн кечирим кылат» — котормочулар бөлүнгөн жер (KJV vs ASV\/JPS)"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נפש ... כפר ... נפשתיכם ... נפש",
+      "rationale": "נפש сөзү аятта төрт жолу кайталанып, кан-жан-кечирим байланышын бекемдейт; кыргызча узак саптарда жумшарат"
+    }
+  ],
+  "translation": "анткени эттин жаны канда, жана Мен аны силерге курмандыкчылык ортосуна силердин жандарыңар үчүн каптоо-кечирим болсун деп бердим; анткени кан бул — жан менен каптоо-кечирим кылат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "f19a24019036afff89b4c8810e97f6bf4a2359bc1cad1336dfeb65665e507cfe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/17\/9-12.1791203244007.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "жаны"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "эттин"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "канда"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "бул"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "жана Мен"
+    },
+    {
+      "surface": "נתתיו",
+      "gloss": "аны бердим"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "силерге"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстүнө"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "курмандыкчылык ортосуна"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "каптоо-кечирим болсун деп"
+    },
+    {
+      "surface": "על",
+      "gloss": "үчүн"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "жандарыңар"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "кан"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "бул"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "жан менен"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "каптоо-кечирим кылат"
+    }
+  ],
+  "timestamp": "2026-10-05T12:27:24.008648614Z",
+  "model": "glm-5.3"
+}

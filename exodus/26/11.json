@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 26:11",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "элүө илгич",
+      "rationale": "Илгичтердүн так саны берилген."
+    },
+    {
+      "kind": "substitution",
+      "subject": "жез",
+      "rationale": "נחשת — жез\/бронза; бул 'бронза' эмес, жез металы."
+    }
+  ],
+  "translation": "Жана сен жезден элүө илгич жасайсың, жана ⟨את⟩ илгичтерди илмектерге киргизип, ⟨את⟩ чатырды бириктиресиң, жана ал бир болот.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "c80ce229d4e1a8e74b8b138ebabeac435779e4bd19481db70400f827c66d0cc9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/26\/9-12.1791202410803.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "жана жасайсың"
+    },
+    {
+      "surface": "קרסי",
+      "gloss": "илгичтер"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "жезден"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "элүө"
+    },
+    {
+      "surface": "והבאת",
+      "gloss": "жана киргизип"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "илгичтер"
+    },
+    {
+      "surface": "הקרסים",
+      "gloss": "илгичтерди"
+    },
+    {
+      "surface": "בללאת",
+      "gloss": "илмектерге"
+    },
+    {
+      "surface": "וחברת",
+      "gloss": "жана бириктиресиң"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "чатыр"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "чатырды"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "жана болот"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бир"
+    }
+  ],
+  "timestamp": "2026-10-05T12:13:30.804350702Z",
+  "model": "glm-5.3"
+}

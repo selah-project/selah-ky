@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 33:8",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "rationale": "Относительное слово передано порядком слов, отдельного эквивалента нет"
+    },
+    {
+      "kind": "idiom",
+      "subject": "מצא חן בעיני",
+      "rationale": "Буквально «найти благоволение в глазах»: кыргызча сохранён образ «көздөрүндө ырайым табуу»"
+    },
+    {
+      "kind": "you",
+      "subject": "Мырзамдын көздөрүндө",
+      "rationale": "Яаков смиренно обращается к Исаву как «мырзам»"
+    }
+  ],
+  "translation": "Жана ал айтты: Мага жолуккан бул бүт лагерь сеники эмне? Жана ал айтты: Мырзамдын көздөрүндө ырайым табуу үчүн.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "d0f088c14713ea7b7d97d322f77f4948647adf8d2b0b06bc8ad28d07f6d4b4d7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/33\/5-8.1791201359695.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "מי",
+      "gloss": "эмне"
+    },
+    {
+      "surface": "לך",
+      "gloss": "сеники"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүт"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "лагерь"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "бул"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "פגשתי",
+      "gloss": "мага жолуккан"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "табуу үчүн"
+    },
+    {
+      "surface": "חן",
+      "gloss": "ырайым"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "көздөрүндө"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "мырзамдын"
+    }
+  ],
+  "timestamp": "2026-10-05T11:55:59.697252945Z",
+  "model": "glm-5.3"
+}

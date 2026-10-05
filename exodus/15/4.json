@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 15:4",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "үчтүк башчылары",
+      "rationale": "שלישים — «үчтүк», жоокерлик наам (шашка же үч кишilik бөлүк башчысы); жөн гана «башчылар» деген форма жоголот."
+    },
+    {
+      "kind": "substitution",
+      "subject": "Камыш деңизи",
+      "rationale": "ים סוף — букв. «камыш деңизи»; «Кызыл деңиз» — кийинки салттык аталыш."
+    }
+  ],
+  "translation": "Параонун арабаларын жана аскерин деңизге таштады, анын тандмалдык үчтүк башчылары Камыш деңизине чөктү.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "bdfb3a96fc3cb785010d36ed133e28ef776ab7e63c92c2856664559acd0cb367",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/15\/1-4.1791202120634.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מרכבת",
+      "gloss": "арабаларын"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Параонун"
+    },
+    {
+      "surface": "וחילו",
+      "gloss": "жана аскерин"
+    },
+    {
+      "surface": "ירה",
+      "gloss": "таштады"
+    },
+    {
+      "surface": "בים",
+      "gloss": "деңизге"
+    },
+    {
+      "surface": "ומבחר",
+      "gloss": "тандмалдык"
+    },
+    {
+      "surface": "שלשיו",
+      "gloss": "үчтүк башчылары"
+    },
+    {
+      "surface": "טבעו",
+      "gloss": "чөктү"
+    },
+    {
+      "surface": "בים",
+      "gloss": "деңизине"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Камыш"
+    }
+  ],
+  "timestamp": "2026-10-05T12:08:40.636210866Z",
+  "model": "glm-5.3"
+}

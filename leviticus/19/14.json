@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 19:14",
+  "book": "leviticus",
+  "lang": "ky",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "тоскоол",
+      "rationale": "מכשל лит. «жыгылтуучу таш» — айланбада кетип бараткан адам жыгыла турган нерсe"
+    },
+    {
+      "kind": "addition",
+      "subject": "коюу",
+      "rationale": "ивриттеги תתן «бер» дегени кыргызча «тоскоол коюу» түрүндө берилди"
+    }
+  ],
+  "translation": "Дүлөйгө каргыш айтпа, сокурдун алдына тоскоол коюу⟨ну⟩ жасаба, Элохимиңден корк — Мен Яхве.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "0a7e723a21e15a976512eebd512f16781d6869e8b95bf9fd8821088a8d87f9c9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/19\/13-16.1791203286306.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ба"
+    },
+    {
+      "surface": "תקלל",
+      "gloss": "каргыш айтпа"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "дүлөйгө"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "алдына"
+    },
+    {
+      "surface": "עור",
+      "gloss": "сокурдун"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ба"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "жасаба"
+    },
+    {
+      "surface": "מכשל",
+      "gloss": "тоскоол"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "корк"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "Элохимиңден"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Мен"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-10-05T12:28:06.307836302Z",
+  "model": "glm-5.3"
+}

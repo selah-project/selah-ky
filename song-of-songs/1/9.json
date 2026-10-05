@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "song-of-songs 1:9",
+  "book": "song-of-songs",
+  "lang": "ky",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "беа",
+      "rationale": "סוסה — ургаачы жылкы (беа); көпчүлүк котормолор «жылкы» деп жалпылап алат, бирок ургаачы форма атайын: арабалардын ортосундагы беа жылкыларды алып качат деген байыркы тушунуу"
+    },
+    {
+      "kind": "crux",
+      "subject": "жанымдын жары",
+      "rationale": "רעיתי — «достум, жарым»; аял жанга айтылат, кыргызча «достум» жүзөөсүз, «жанымдын жары» тандылды"
+    }
+  ],
+  "translation": "Параонун арабаларынын ичиндеги беага окшоттум сени, жанымдын жары.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "13e9e8b6262b0ed6d7ff456ea667cf58fd281141f55283d6b7e286d8310f1f0c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/song-of-songs\/1\/9-12.1791219506294.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לססתי",
+      "gloss": "беама"
+    },
+    {
+      "surface": "ברכבי",
+      "gloss": "арабаларынын ичиндеги"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Параонун"
+    },
+    {
+      "surface": "דמיתיך",
+      "gloss": "окшоттум сени"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "жанымдын жары"
+    }
+  ],
+  "timestamp": "2026-10-05T16:58:26.295352501Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 22:12",
+  "book": "leviticus",
+  "lang": "ky",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨түшсө⟩",
+      "rationale": "תהיה לאיש — 'киши болуу' идиомасы 'турмушка чыгуу' маанисинде; кыргызча 'түшүү' кошулду"
+    },
+    {
+      "kind": "idiom",
+      "subject": "киши болуу",
+      "rationale": "עהיה לאיש — күйөөгө баруу деген иврит турактуу сөз айкашы"
+    }
+  ],
+  "translation": "Жана коэндун кызы, эгер чет элдик кишисине ⟨түшсө⟩, ал ыйык нерселердин терумасынан жебейт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "6e0c20a625c02a9ab1204dc5535f25c3a5b7dd17d6317f56c63cc264a730844d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/22\/11-12.1791223655259.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובת",
+      "gloss": "жана кызы"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "коэн"
+    },
+    {
+      "surface": "כי",
+      "gloss": "эгер"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "болсо"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "кишисине"
+    },
+    {
+      "surface": "זר",
+      "gloss": "чет элдик"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ал"
+    },
+    {
+      "surface": "בתרומת",
+      "gloss": "терумасынан"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "ыйык нерселердин"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жебейт"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "жебейт"
+    }
+  ],
+  "timestamp": "2026-10-05T18:07:35.262485030Z",
+  "model": "glm-5.3"
+}

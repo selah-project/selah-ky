@@ -1,0 +1,133 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 15:19",
+  "book": "1-kings",
+  "lang": "ky",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨бар⟩",
+      "rationale": "Еврейче байлама жок — «келишим …ортосунда» деп турат, кыргызча үчүн байлама кошулду"
+    },
+    {
+      "kind": "substitution",
+      "subject": "белек",
+      "rationale": "שחד — кайыр-садака эмес, сатып алуучу «пара» маанисинде да колдонулат; бул жерде дипломатиялык белек"
+    },
+    {
+      "kind": "you",
+      "subject": "Бен-Хададка",
+      "rationale": "Асанын кат айтканы түз карап айтылат"
+    }
+  ],
+  "translation": "«Менин жана сенин, менин атамдын жана сенин атаңдын ортосунда келишим ⟨бар⟩; мына, мен сага күмүш жана алтын белек жөнөттүм; бар, Ысраэлдин падышасы Баша менен болгон келишимиңди буз, жана ал мenden кетсин.»",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "9344ec42730eadce2f499cd0a6e092ea1b6f13d4309e740b868f84d460134a5c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-kings\/15\/17-20.1791208452194.json",
+    "code": "641241cf-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברית",
+      "gloss": "келишим"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "менин"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "жана сенин"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ортосунда"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "атамдын"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "жана"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "атаңдын"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "мына"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "жөнөттүм"
+    },
+    {
+      "surface": "לך",
+      "gloss": "сага"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "белек"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "күмүш"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "жана алтын"
+    },
+    {
+      "surface": "לך",
+      "gloss": "бар"
+    },
+    {
+      "surface": "הפרה",
+      "gloss": "буз"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "келишимиңди"
+    },
+    {
+      "surface": "בריתך",
+      "gloss": "келишимиңди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ⟨менен⟩",
+      "marks": "Баша менен"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Баша"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "падышасы"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ысраэлдин"
+    },
+    {
+      "surface": "ויעלה",
+      "gloss": "кетсин"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "мenden"
+    }
+  ],
+  "timestamp": "2026-10-05T13:54:12.195633116Z",
+  "model": "glm-5.3"
+}

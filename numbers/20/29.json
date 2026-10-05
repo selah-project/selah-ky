@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "numbers 20:29",
+  "book": "numbers",
+  "lang": "ky",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "өлгөнүн",
+      "rationale": "גוע — «дем чыгаруу, көз жумуу»,literal дыхание чыкты"
+    },
+    {
+      "kind": "measurement",
+      "subject": "отуз күн",
+      "rationale": "Ахарон үчүн отуз күнлүк жоктоо мөөнөтү саналат"
+    },
+    {
+      "kind": "idiom",
+      "subject": "בית ישראל",
+      "rationale": "«Йисраэлдин үйү» — үй-бүлөө эмес, эл маанисинде"
+    }
+  ],
+  "translation": "Жана бүт жамаат Ахарон өлгөнүн көрдү, жана бүт Йисраэл үй-бүлөөсү ⟨את⟩ Ахаронду отуз күн коштошту.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "1afc16078d5eed10d75ef3a62fbc9b14ac05cb7ae2481611c738119bc9ddaef4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/numbers\/20\/29-29.1791204016922.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "көрдү"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүт"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "жамаат"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…нын"
+    },
+    {
+      "surface": "גוע",
+      "gloss": "өлгөнүн"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Ахарон"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "жана коштошту"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ахаронду"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Ахаронду"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "отуз"
+    },
+    {
+      "surface": "יום",
+      "gloss": "күн"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүт"
+    },
+    {
+      "surface": "בית",
+      "gloss": "үй-бүлөөсү"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэл"
+    }
+  ],
+  "timestamp": "2026-10-05T12:40:16.922608878Z",
+  "model": "glm-5.3"
+}

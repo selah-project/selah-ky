@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 15:5",
+  "book": "2-chronicles",
+  "lang": "ky",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "болчу",
+      "rationale": "Кыргыз тили талап кылган копула, еврейче жок"
+    },
+    {
+      "kind": "substitution",
+      "subject": "чаңкосуулар",
+      "rationale": "מהומה — чатаң, тартипсиздик, үй-жай; бир сөзгө батпаган сүрөт"
+    }
+  ],
+  "translation": "Ал күндөрдө чыкканга да, киргенге да тынчтык жок болчу, анткени жерлердин бардык жашоочуларына көп чаңкосуулар түшкөн.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "80a3343f9f00aac97a097218f227622ce7de8e108ab271d069251c8ffdadd1fa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-chronicles\/15\/5-8.1791222906669.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובעתים",
+      "gloss": "ал күндөрдө"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "ал"
+    },
+    {
+      "surface": "אין",
+      "gloss": "жок"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "тынчтык"
+    },
+    {
+      "surface": "ליוצא",
+      "gloss": "чыкканга"
+    },
+    {
+      "surface": "ולבא",
+      "gloss": "киргенге да"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "מהומת",
+      "gloss": "чаңкосуулар"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "көп"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстүнө"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бардык"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "жашоочуларына"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "жерлердин"
+    }
+  ],
+  "timestamp": "2026-10-05T17:55:06.670326152Z",
+  "model": "glm-5.3"
+}

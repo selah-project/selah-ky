@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 38:10",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "турат",
+      "rationale": "ивритте этиш жок; кыргызча байланыштыргыч этиш кошулду"
+    },
+    {
+      "kind": "you",
+      "subject": "Адонай",
+      "rationale": "түз багыттуу табынуу, Адонайга айтылат"
+    }
+  ],
+  "translation": "Адонай, менин бүткүл каалоом Сенин алдыңда турат, жана менин күбүрөгөнүм Сенден жашырылган жок.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "0c9ba66623936e037b65b452ee7069c760922e6092b3a233072f9b81bc112027",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/38\/9-12.1791215956638.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "Сенин алдыңда"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүткүл"
+    },
+    {
+      "surface": "תאותי",
+      "gloss": "каалоом"
+    },
+    {
+      "surface": "ואנחתי",
+      "gloss": "жана күбүрөгөнүм"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "Сенден"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "נסתרה",
+      "gloss": "жашырылган"
+    }
+  ],
+  "timestamp": "2026-10-05T15:59:16.639285516Z",
+  "model": "glm-5.3"
+}

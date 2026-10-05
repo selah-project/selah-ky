@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 140:3",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 140,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יגורו",
+      "rationale": "тамыр גור: «чогула турган жерине бурулушат» (KJV: gathered) же «козгоп турушат» (JPS: stir up) — экөө тең мүмкүн, мен «даярлашат» деген орто чечимди алдым"
+    },
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "rationale": "салыштырма «алар» деген байланыштык сөз кыргызча сүйлөмдүн түзүлүшүндө ачык формада берилди"
+    }
+  ],
+  "translation": "Алар жүрөгүндө жаманчылыктарды ойлоп чыгышат, күнү-түнү согуштарды даярлашат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "32e3063b81051368d8f9b67f6dc106f4a46ecb935a48160577bf6111a226253f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/140\/1-4.1791217556399.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "алар"
+    },
+    {
+      "surface": "חשבו",
+      "gloss": "ойлоп чыгышат"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "жаманчылыктарды"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "жүрөгүндө"
+    },
+    {
+      "surface": "כל",
+      "gloss": "күнү-түнү"
+    },
+    {
+      "surface": "יום",
+      "gloss": "күн"
+    },
+    {
+      "surface": "יגורו",
+      "gloss": "даярлашат"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "согуштарды"
+    }
+  ],
+  "timestamp": "2026-10-05T16:25:56.401045467Z",
+  "model": "glm-5.3"
+}

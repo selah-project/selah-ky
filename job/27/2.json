@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 27:2",
+  "book": "job",
+  "lang": "ky",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "חי אל",
+      "rationale": "oath formula 'as El lives', rendered as an oath clause"
+    },
+    {
+      "kind": "substitution",
+      "subject": "жан",
+      "rationale": "נפש is throat\/life-force, not an immaterial 'soul'"
+    }
+  ],
+  "translation": "Жаш Эл жашайт — ал менин өкүмүмдү алып салды, жана Шаддай менин жаныма ачуу татырды.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "d6412e9fc0059d6fe7bd8e695fbe47f8d2dc1094142e5433c7fbf63cd7dfb9da",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/job\/27\/1-4.1791219132928.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חי",
+      "gloss": "жашайт"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эл"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "алып салды"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "менин өкүмүмдү"
+    },
+    {
+      "surface": "ושדי",
+      "gloss": "жана Шаддай"
+    },
+    {
+      "surface": "המר",
+      "gloss": "ачуу татырды"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "менин жаныма"
+    }
+  ],
+  "timestamp": "2026-10-05T16:52:12.928684970Z",
+  "model": "glm-5.3"
+}

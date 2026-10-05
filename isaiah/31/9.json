@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 31:9",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "анын аскасы",
+      "rationale": "וסלעו — «анын аскасы (бекаркору)» кимди билдирет: Ассириянын күчүбү, Ассириянын кудайларыбы (KJV «his strong hold» vs JPS «his rock») — текстте так айтылбайт."
+    },
+    {
+      "kind": "substitution",
+      "subject": "меши",
+      "rationale": "ותנור — букв. «от идиш (тандыр)», «меш» — ошол эле сүрөттү кыргызча берет."
+    },
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "rationale": "«ал ким» деген байланыштык Kyrgyz тилинде ээликтик «Анын» мүчөсү менен берилди, өзүнчө сөз катары жок."
+    }
+  ],
+  "translation": "Жана анын аскасы коркуудан өтүп кетет, жана анын төрөлөрү жалаңдан үрөйлөнүшөт — Яхвенин сөзү, Анын оту Цийондо, Анын меши Йерушалайимде.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "cbabc08e2aad7e74e0ba3d32b7e9fecc2130778bd6527655d781a279576904f7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/31\/9-9.1791209853422.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וסלעו",
+      "gloss": "жана анын аскасы"
+    },
+    {
+      "surface": "ממגור",
+      "gloss": "коркуудан"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "өтүп кетет"
+    },
+    {
+      "surface": "ו חתו",
+      "gloss": "жана үрөйлөнүшөт"
+    },
+    {
+      "surface": "מנס",
+      "gloss": "жалаңдан"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "анын төрөлөрү"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "сөзү"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Анын"
+    },
+    {
+      "surface": "אור",
+      "gloss": "оту"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨Анын⟩"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "Цийондо"
+    },
+    {
+      "surface": "ותנור",
+      "gloss": "жана Анын меши"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨Анын⟩"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Йерушалайимде"
+    }
+  ],
+  "timestamp": "2026-10-05T14:17:33.423131992Z",
+  "model": "glm-5.3"
+}

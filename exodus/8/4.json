@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 8:4",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Пара → Моше жана Ахарон",
+      "rationale": "Пара элчилерге түз кайрылат: «жалыныңар» буйругу менен"
+    },
+    {
+      "kind": "substitution",
+      "subject": "жалыныңар",
+      "rationale": "העתירү буквалдуу түрдө «зийнет чыгаруу\/сүйөө» — тиленүүнүн өзгөчө формасы, «жалынуу» катары берилди"
+    }
+  ],
+  "translation": "Пара Мошени жана Ахаронду чакырды жана айтты: Яхвеге жалыныңар, бакаларды менден жана элимден алып кетсин, ошондо ⟨את⟩ элди жиберем жана алар Яхвеге курман чалышсын.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "f1e9202d68b1d591ac3d1dc5fe442b34cbc91c94738930af88ff747b008fc086",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/8\/1-4.1791202012719.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "жана чакырды"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Пара"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Мошени"
+    },
+    {
+      "surface": "ולאהרן",
+      "gloss": "жана Ахаронду"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "жана айтты"
+    },
+    {
+      "surface": "העתירו",
+      "gloss": "жалыныңар"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ге"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвеге"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "жана алып кетсин"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "бакаларды"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "менден"
+    },
+    {
+      "surface": "ומעמי",
+      "gloss": "жана элимден"
+    },
+    {
+      "surface": "ואשלחה",
+      "gloss": "ошондо жиберем"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "элди"
+    },
+    {
+      "surface": "העם",
+      "gloss": "элди"
+    },
+    {
+      "surface": "ויזבחו",
+      "gloss": "жана курман чалышсын"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхвеге"
+    }
+  ],
+  "timestamp": "2026-10-05T12:06:52.720791888Z",
+  "model": "glm-5.3"
+}

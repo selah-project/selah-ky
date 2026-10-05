@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 14:5",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жек көргөндөр",
+      "rationale": "רשעим — «жаман адамдар»; жек көрүү тамыры D3 боюнча кармалды"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מטה\/שבט",
+      "rationale": "эки сөз тең «таяк» — жаза таягы жана башкаруу асасы, кыргызча эки сөз менен берилди"
+    }
+  ],
+  "translation": "Яхве жек көргөндөрдүн таягын, башкаруучулардын асасын сындырды.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "07c977385d7b59558e92bc3fbceea69f239d8635ff3966db3fe7ac4bd4ff2e5c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/14\/5-8.1791209548132.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "сындырды"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "таягын"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "жек көргөндөрдүн"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "асасын"
+    },
+    {
+      "surface": "משלים",
+      "gloss": "башкаруучулардын"
+    }
+  ],
+  "timestamp": "2026-10-05T14:12:28.133062696Z",
+  "model": "glm-5.3"
+}

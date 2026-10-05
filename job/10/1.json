@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 10:1",
+  "book": "job",
+  "lang": "ky",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жан",
+      "rationale": "נפש — дем алуучу жандык, жоогазын\/жан-күч; «жан» жакын, бирок кеңири мааниси жоголот"
+    },
+    {
+      "kind": "you",
+      "subject": "Иов өзүнө",
+      "rationale": "Иов өз жанына кайрылып сүйлөйт"
+    }
+  ],
+  "translation": "Жаныбын жек көрөм өз жашоомду; өзүмдүн сырымды өзүмө таштайын, жандагы ачуулугумда сүйлөйүн.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "5c6d878a811646b7a88878299167ae17e98b8886ae2974951a2f13d18b536515",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/job\/10\/1-4.1791218818867.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נקטה",
+      "gloss": "жек көрөм"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "жаныбын"
+    },
+    {
+      "surface": "בחיי",
+      "gloss": "өз жашоомду"
+    },
+    {
+      "surface": "אעזבה",
+      "gloss": "таштайын"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "өзүмө"
+    },
+    {
+      "surface": "שיחי",
+      "gloss": "сырымды"
+    },
+    {
+      "surface": "אדברה",
+      "gloss": "сүйлөйүн"
+    },
+    {
+      "surface": "במר",
+      "gloss": "ачуулугумда"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "жандагы"
+    }
+  ],
+  "timestamp": "2026-10-05T16:46:58.868070996Z",
+  "model": "glm-5.3"
+}

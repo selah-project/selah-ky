@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 1:6",
+  "book": "1-kings",
+  "lang": "ky",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "кайгырткан",
+      "rationale": "עצב — 'оору тийгизүү, кайгыртуу'; 'сөзүн айтпаган' эмес, так мааниси физикалык оору"
+    },
+    {
+      "kind": "addition",
+      "subject": "апасы",
+      "rationale": "יָלְדָה аял жак сандагы этиш, субъект ачык айтылган эмес — апасы (Хаггит)"
+    }
+  ],
+  "translation": "Атасы аны бүт күндөрүндө «Эмне үчүн мындай кылдың?» деп кайгырткан эмес. Ал ошондой эле өтө келбеттүү эле; жана аны апасы Авшаломдон кийин төрөгөн.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "125f51d37982b445ba9b65e316efa7f3b9cace9beb9bf84d25d2aa20ad1723a0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-kings\/1\/5-8.1791207935548.json",
+    "code": "641241cf-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "עצבו",
+      "gloss": "кайгырткан"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "Атасы"
+    },
+    {
+      "surface": "מימיו",
+      "gloss": "бүт күндөрүндө"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "деп"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "Эмне үчүн"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "мындай"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "кылдың"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "Ал ошондой эле"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ал"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "жакшы"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "келбеттүү"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "өтө"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩",
+      "marks": "аны"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "төрөгөн"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "кыйин"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Авшаломдон"
+    }
+  ],
+  "timestamp": "2026-10-05T13:45:35.549510336Z",
+  "model": "glm-5.3"
+}

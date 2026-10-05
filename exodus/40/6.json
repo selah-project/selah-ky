@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 40:6",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "мизбеах",
+      "rationale": "מזבח еврейче айтылышы боюнча — 'курмандык чырагы' түшүндүрмө кошулду, бир сөз катары кармалды"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "משכן אהל מועד",
+      "rationale": "Мишкан — ыйык аты бойдон сакталды, 'чатыр' гана деп койулган жок"
+    }
+  ],
+  "translation": "Жана ⟨את⟩ өрттөлүүчү курмандыктын миzbachын Мишкандын, жыйналыш чатырынын кире беришинин алдына коюп кой.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "86d1594f40b328ea6dd4d8a095e615ebb5929ba9d943a6085ffdc05687c803e9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/40\/6-7.1791223625969.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "коюп кой"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "өрттөлүүчү курмандыктын miзбехин"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "курмандык чырагы (мизбеах)"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "өрттөлүүчү"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "алдына"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "кире бериши"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "Мишкан"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "чатыры"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "жыйналыш"
+    }
+  ],
+  "timestamp": "2026-10-05T18:07:05.970638565Z",
+  "model": "glm-5.3"
+}

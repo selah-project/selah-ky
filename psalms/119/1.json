@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 119:1",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "таза",
+      "rationale": "תמימי — 'бүтүн, толук, бузулбаган' маанисинде; 'таза' жакын аткаруу"
+    },
+    {
+      "kind": "addition",
+      "subject": "кармагандар",
+      "rationale": "בתורת жөндөмүн ачык кылуу үчүн кошулду"
+    }
+  ],
+  "translation": "Канча бактылуу жолдо таза жүргөндөр — Тораны Яхвенин Торасын кармагандар!",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "1ca400a8b5778fa3b05f7856fa7dcb1a3e57f659560ff763287bfb93529aef09",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/119\/1-4.1791217308213.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "канча бактылуу"
+    },
+    {
+      "surface": "תמימי",
+      "gloss": "таза"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "жолдо"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "жүргөндөр"
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "Торасын кармагандар"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    }
+  ],
+  "timestamp": "2026-10-05T16:21:48.213499046Z",
+  "model": "glm-5.3"
+}

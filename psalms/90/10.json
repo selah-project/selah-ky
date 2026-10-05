@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 90:10",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 90,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "жетимиш · сексен жыл",
+      "rationale": "Адам өмүрүнүн саны — өмүрдү өлчөө."
+    },
+    {
+      "kind": "crux",
+      "subject": "רהבם",
+      "rationale": "KJV 'күчүбүз' деп окуп, 'текеберлигибиз' деп которот; сөз өзү — текеберлик\/аскалык."
+    },
+    {
+      "kind": "substitution",
+      "subject": "уучupoо → учуп кеттик",
+      "rationale": "ונעפה — 'учуу' жана 'эсин жоготуу' эки мааниде; 'учуп кеттик' сүрөттү сактайт."
+    }
+  ],
+  "translation": "Биздин жылдарыбыздын күндөрү — жетимиш жыл, күч-кайратыбыз болсо — сексен жыл; алардын текеберлиги болсо эмгек жана азап, анткени ал тез кесилип кетти, жана биз учуп кеттик.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "e8d35c5276801861d77025b06d962e2cbdd4216f10d07a46f999dedc0d1c6252",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/90\/9-12.1791216846362.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ימי",
+      "gloss": "күндөрү"
+    },
+    {
+      "surface": "שנותינו",
+      "gloss": "биздин жылдарыбыздын"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "алардын ичинде"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "жетимиш"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "жыл"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "жана эгер"
+    },
+    {
+      "surface": "בגבורת",
+      "gloss": "күч-кайратыбыз болсо"
+    },
+    {
+      "surface": "שמונים",
+      "gloss": "сексен"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "жыл"
+    },
+    {
+      "surface": "ורהבם",
+      "gloss": "алардын текеберлиги"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "эмгек"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "жана азап"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "גז",
+      "gloss": "кесилип кетти"
+    },
+    {
+      "surface": "חיש",
+      "gloss": "тез"
+    },
+    {
+      "surface": "ונעפה",
+      "gloss": "жана биз учуп кеттик"
+    }
+  ],
+  "timestamp": "2026-10-05T16:14:06.362904639Z",
+  "model": "glm-5.3"
+}

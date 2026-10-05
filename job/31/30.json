@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "job 31:30",
+  "book": "job",
+  "lang": "ky",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жаны",
+      "rationale": "נפש — «жан» эмес, дем\/тамак\/жашоо күчү; кыргызча «жаны» эң жакын сөз"
+    },
+    {
+      "kind": "crux",
+      "subject": "каргыш менен сурап",
+      "rationale": "באלה: KJV\/ASV «каргыш тилеп», YLT «ант менен сурап» — айрым которуулар бул аятты жок деп да окушат (LXX тутуму)"
+    }
+  ],
+  "translation": "жана оозумду күнөө кылууга берген жокмун — анын жанын каргыш менен сурабайын деп.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "4e6cc594f7ee3be3defcec783a65169fc297ee1fe60f2886bb09280cf9ef6d87",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/job\/31\/29-32.1791219284030.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "жана жок"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "берген жокмун"
+    },
+    {
+      "surface": "לחטא",
+      "gloss": "күнөө кылууга"
+    },
+    {
+      "surface": "חכי",
+      "gloss": "оозумду"
+    },
+    {
+      "surface": "לשאל",
+      "gloss": "сурабайын деп"
+    },
+    {
+      "surface": "באלה",
+      "gloss": "каргыш менен"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "анын жанын"
+    }
+  ],
+  "timestamp": "2026-10-05T16:54:44.031819062Z",
+  "model": "glm-5.3"
+}

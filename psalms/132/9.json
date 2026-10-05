@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 132:9",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 132,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "цедек",
+      "rationale": "צדק — цедек сөзү катары сакталды, «адилеттик» гана деп которулган жок"
+    },
+    {
+      "kind": "addition",
+      "subject": "кийсин",
+      "rationale": "Этиш желиниш маанисинде болгондуктан, буйрук мааниси берилди"
+    }
+  ],
+  "translation": "Сенин ыйкышындардын кадыр-баркы цедек кийсин, жана сенин ырайымдууларың шаттык менен ырдашсын.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "21d3a7d3ece29d0a1dc515129376c18e919ada20b7608f0a39f18748c174d874",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/132\/9-12.1791217442917.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כהניך",
+      "gloss": "сенин ыйкышындардын"
+    },
+    {
+      "surface": "ילבשו",
+      "gloss": "кийсин"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "цедек"
+    },
+    {
+      "surface": "וחסידיך",
+      "gloss": "жана сенин ырайымдууларың"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "шаттык менен ырдашсын"
+    }
+  ],
+  "timestamp": "2026-10-05T16:24:02.918556052Z",
+  "model": "glm-5.3"
+}

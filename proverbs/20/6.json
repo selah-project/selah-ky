@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 20:6",
+  "book": "proverbs",
+  "lang": "ky",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "жар салат",
+      "rationale": "יקרא: 'proclaims\/boasts' (his own kindness) vs 'is called\/proclaimed' (kind by others); context favors self-proclamation"
+    },
+    {
+      "kind": "you",
+      "subject": "ким таба алат?",
+      "rationale": "rhetorical question addresses the reader directly"
+    }
+  ],
+  "translation": "Көп адам ⟨ар бири⟩ өз хеседин жар салат, бирок ишенимдүү адамды ким таба алат?",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "941bd61dde4f75908ca4d36b5958c69d6aa15fd18098bb525ec322de6b2868ba",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/20\/5-8.1791218161506.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רב",
+      "gloss": "көп"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "адам"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "жар салат"
+    },
+    {
+      "surface": "איש",
+      "gloss": "адам"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "өз хеседин"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "бирок адам"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "ишенимдүү"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ким"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "таба алат"
+    }
+  ],
+  "timestamp": "2026-10-05T16:36:01.507359356Z",
+  "model": "glm-5.3"
+}

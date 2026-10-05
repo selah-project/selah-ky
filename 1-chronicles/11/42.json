@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-chronicles 11:42",
+  "book": "1-chronicles",
+  "lang": "ky",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "адам",
+      "rationale": "Ивритте «отуз» деген сан аталыш жок, кыргызча тактык үчүн кошулду"
+    },
+    {
+      "kind": "measurement",
+      "subject": "отуз",
+      "rationale": "Адамдардын саны эсептелет"
+    }
+  ],
+  "translation": "Адина Шизанын уулу, рувениликтердин башчысы, жана анын жанында отуз ⟨адам⟩.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "2137c8e017716119b537ce52944969bde687bea3baeace731e790fc9e2268976",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-chronicles\/11\/41-44.1791221946446.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עדינא",
+      "gloss": "Адина"
+    },
+    {
+      "surface": "בן",
+      "gloss": "уулу"
+    },
+    {
+      "surface": "שיזא",
+      "gloss": "Шиза"
+    },
+    {
+      "surface": "הראובני",
+      "gloss": "рувениликтердин"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "башчысы"
+    },
+    {
+      "surface": "לראובני",
+      "gloss": "рувениликтердин"
+    },
+    {
+      "surface": "ועליו",
+      "gloss": "жанында"
+    },
+    {
+      "surface": "שלושים",
+      "gloss": "отуз"
+    }
+  ],
+  "timestamp": "2026-10-05T17:39:06.447425668Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "habakkuk 1:10",
+  "book": "habakkuk",
+  "lang": "ky",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ал⟩",
+      "rationale": "Хивий басымдуу 'ал' кыргызча сүйлөмдө айкындамалаш үчүн кашаада берилди"
+    },
+    {
+      "kind": "idiom",
+      "subject": "топурак чогултуп",
+      "rationale": "צבר עפר — курчоо дөбөсүн (осада rampa) тургузуу ишаары; көчмөн аскердин салышы"
+    }
+  ],
+  "translation": "Жана ал падышаларды шылдыңайт, бийлер анын күлкүзү болот; ⟨ал⟩ ар бир бекем коргону күлөт, топурак чогултуп ⟨את⟩ аны басып алат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "9345e1ebc330672f932df8b1ebe6c9bdfa629c393adc2096027e5bb6d4cf8073",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/habakkuk\/1\/9-10.1791224393553.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "жана ал"
+    },
+    {
+      "surface": "במלכים",
+      "gloss": "падышаларды"
+    },
+    {
+      "surface": "יתקלס",
+      "gloss": "шылдыңайт"
+    },
+    {
+      "surface": "ורזנים",
+      "gloss": "бийлер"
+    },
+    {
+      "surface": "משחק",
+      "gloss": "күлкүзү"
+    },
+    {
+      "surface": "לו",
+      "gloss": "анын...болот"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ал⟩"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ар бир"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "бекем коргону"
+    },
+    {
+      "surface": "ישחק",
+      "gloss": "күлөт"
+    },
+    {
+      "surface": "ויצבор",
+      "gloss": "чогултуп"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "топурак"
+    },
+    {
+      "surface": "וילכדה",
+      "gloss": "аны басып алат"
+    }
+  ],
+  "timestamp": "2026-10-05T18:19:53.554078238Z",
+  "model": "glm-5.3"
+}

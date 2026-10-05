@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "job 13:18",
+  "book": "job",
+  "lang": "ky",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "נא",
+      "rationale": "Тилектеш бөлүкчө нא таза котормо бербейт, эки чекит менен алмашты"
+    },
+    {
+      "kind": "crux",
+      "subject": "акман боломун",
+      "rationale": "אצדק: 'мен акман боломун' (YLT, ASV) же 'мен акталамын' (KJV, JPS) — соттук же адеп-ахлактык маани"
+    }
+  ],
+  "translation": "Азирээ, мен өкүмүмдү тизип койдум, мен билдим: мен акман боломун.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "af8155e1ebacaefae083116b7972d514a09ef593f1a17cd829fbf19eda2cc4e8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/job\/13\/17-20.1791218803568.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Азирээ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨эми⟩"
+    },
+    {
+      "surface": "ערכתי",
+      "gloss": "тизип койдум"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "өкүмүмдү"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "мен билдим"
+    },
+    {
+      "surface": "כי",
+      "gloss": ":"
+    },
+    {
+      "surface": "אני",
+      "gloss": "мен"
+    },
+    {
+      "surface": "אצדק",
+      "gloss": "акман боломун"
+    }
+  ],
+  "timestamp": "2026-10-05T16:46:43.569585404Z",
+  "model": "glm-5.3"
+}

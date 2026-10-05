@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 22:7",
+  "book": "1-kings",
+  "lang": "ky",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "האין ... עוד",
+      "rationale": "«Жок беле ... дагы» — өтүнүч билдирүүчү сурам; Йеошафат төрт жүз пайгамбарга ишенбейт."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דרש",
+      "rationale": "5-аяттагы дареш этиши кайра келет — изилдөө темасы чыңдалат."
+    }
+  ],
+  "translation": "Жана Йеошафат айтты: Мында Яхвенин дагы бир пайгамбары жок беле, биз ⟨את⟩ аны андан сураайын?",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "371f3e4948ddd1ebaba1a10e65f7045631d0bd27df869e45a6ceaa1bef07d569",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-kings\/22\/5-8.1791208639807.json",
+    "code": "641241cf-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "жана ... айтты"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Йеошафат"
+    },
+    {
+      "surface": "האין",
+      "gloss": "жок беле"
+    },
+    {
+      "surface": "פה",
+      "gloss": "мында"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "пайгамбары"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхвенин"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "дагы"
+    },
+    {
+      "surface": "ונדרשה",
+      "gloss": "сураайын"
+    },
+    {
+      "surface": "מאותו",
+      "gloss": "⟨את⟩ аны андан",
+      "marks": "аны"
+    }
+  ],
+  "timestamp": "2026-10-05T13:57:19.808129290Z",
+  "model": "glm-5.3"
+}

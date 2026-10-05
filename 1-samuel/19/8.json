@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 19:8",
+  "book": "1-samuel",
+  "lang": "ky",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "анын жүзүнөн",
+      "rationale": "מפניו — 'анын жүзүнөн', кыргызча табигыйраагы 'андан', бирок сүрөт сакталды"
+    },
+    {
+      "kind": "substitution",
+      "subject": "өлтүрдү",
+      "rationale": "КЖВ 'slew' дейт; иврит ויך — 'соккулады', өлтүрүү айтылбайт"
+    }
+  ],
+  "translation": "Жана согуш кайра боло бердүү, жана Давид чыгып, пелштиктерге каршы согушту, жана аларды чоң сокку менен соккулады, жана алар анын жүзүнөн качып кетишти.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "93b61dc700d1f3f9b8c84bf8bda5e2a6fee13c935846209be3bf674ebf45ffbc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-samuel\/19\/5-8.1791207044098.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותוסף",
+      "gloss": "кайра"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "согуш"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "боло"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "чыгып"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "согушту"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "пелштиктерге каршы"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "соккулады"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "аларды"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "сокку"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "чоң"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "качып кетишти"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "анын жүзүнөн"
+    }
+  ],
+  "timestamp": "2026-10-05T13:30:44.099558932Z",
+  "model": "glm-5.3"
+}

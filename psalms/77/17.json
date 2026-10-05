@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 77:17",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 77,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ראוך מים ... ראוך מים",
+      "rationale": "Кайрылуунун кайталанышы — суулардын Элохимди эки жолу көрүшү — кыргызча да сакталды"
+    },
+    {
+      "kind": "substitution",
+      "subject": "тереңдиктер",
+      "rationale": "תהמות — күйүп турган суу массасы, чексиз тереңдик, «абисс» деген сөз оордураак"
+    }
+  ],
+  "translation": "Суулар Сени көрдү, Элохим, суулар Сени көрдү, алар калтырады, анын үстүнө тереңдиктер титирешти.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "237a6ef3212480a073053ad2f6687c93a9331e9aa81b618ee548636cfbb71808",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/77\/17-20.1791216540443.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ראוך",
+      "gloss": "Сени көрдү"
+    },
+    {
+      "surface": "מים",
+      "gloss": "суулар"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "ראוך",
+      "gloss": "Сени көрдү"
+    },
+    {
+      "surface": "מים",
+      "gloss": "суулар"
+    },
+    {
+      "surface": "יחילו",
+      "gloss": "алар калтырады"
+    },
+    {
+      "surface": "אף",
+      "gloss": "анын үстүнө"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "титирешти"
+    },
+    {
+      "surface": "תהמות",
+      "gloss": "тереңдиктер"
+    }
+  ],
+  "timestamp": "2026-10-05T16:09:00.444046871Z",
+  "model": "glm-5.3"
+}

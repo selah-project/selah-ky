@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 9:15",
+  "book": "2-chronicles",
+  "lang": "ky",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "алты жүз шекел",
+      "rationale": "ар бир калкандын алтын салмагы эсептелген."
+    },
+    {
+      "kind": "addition",
+      "subject": "<шекел>",
+      "rationale": "ивритте сан гана айтылат, чен бирдиги кошулду."
+    },
+    {
+      "kind": "substitution",
+      "subject": "жумшалды",
+      "rationale": "יעלה literally 'көтөрүлөт' — калканга алтын 'жогору чыгат'."
+    }
+  ],
+  "translation": "Жана падыша Шеломо соккуланган алтындан эки жүз чоң калкан жасады — соккуланган алтындан алты жүз <шекел> ар бир чоң калканга жумшалды.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "ed74386c79c2606b92095c6a3600b2c60dbc8c86ace6139c53df08e99eb51652",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-chronicles\/9\/13-16.1791222753859.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "жасады"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "падыша"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шеломо"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "эки жүз"
+    },
+    {
+      "surface": "צנה",
+      "gloss": "чоң калкан"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "алтын"
+    },
+    {
+      "surface": "שחוט",
+      "gloss": "соккуланган"
+    },
+    {
+      "surface": "שש",
+      "gloss": "алты"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "жүз"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "алтын"
+    },
+    {
+      "surface": "שחוט",
+      "gloss": "соккуланган"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "жумшалды"
+    },
+    {
+      "surface": "על",
+      "gloss": "ар"
+    },
+    {
+      "surface": "הצנה",
+      "gloss": "чоң калканга"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "бир"
+    }
+  ],
+  "timestamp": "2026-10-05T17:52:33.861713281Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "job 40:24",
+  "book": "job",
+  "lang": "ky",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בעיניו יקחנו",
+      "rationale": "«Анын көзүнө (ачык кароодо) аны кармоого болобу» же KJV боюнча «ал аны көзү менен алат»: суроо же баяндоо экени белгисиз."
+    },
+    {
+      "kind": "elision",
+      "subject": "суроо интонациясы",
+      "rationale": "Ивритте суроо сөзү жок; KJV баяндоо катары окуйт, ASV\/JPS суроо катары — кыргызча суроо түрүндө берилди."
+    }
+  ],
+  "translation": "Анын көзүнө карап турганда эле кармоого болобу, же илгичтер менен мурдун тешип болобу?",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "2336e67332002e5d068d402d141cc2f33e3c706c3c3e388a955550e28122c99f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/job\/40\/21-24.1791219417327.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בעיניו",
+      "gloss": "анын көзүнө карап турганда"
+    },
+    {
+      "surface": "יקחנу",
+      "gloss": "кармоого болобу"
+    },
+    {
+      "surface": "במוקשים",
+      "gloss": "илгичтер менен"
+    },
+    {
+      "surface": "ינקב",
+      "gloss": "тешип болобу"
+    },
+    {
+      "surface": "אף",
+      "gloss": "мурдун"
+    }
+  ],
+  "timestamp": "2026-10-05T16:56:57.328627276Z",
+  "model": "glm-5.3"
+}

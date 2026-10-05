@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 41:9",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "אציליה",
+      "rationale": "Бул сөз Танахта бир гана бул жерде кездешет (Исайа 41:9)."
+    },
+    {
+      "kind": "crux",
+      "subject": "ומאציליה",
+      "rationale": "«Анын эң чет жакаларынан» же «анын төрөлөрүнөн» (ачаыл — «негизги» мааниси да бар) — KJV «chief men», JPS «uttermost parts»."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨сенин⟩",
+      "rationale": "Еврейче «кулум сенин» — ээлик мамилени көрсөтүүчү аталык атооч, кыргызча тактоо талап кылат."
+    }
+  ],
+  "translation": "Мен сени жердин учунан кармап алдым жана анын эң чет жакаларынан чакырдым; сага айттым: Менин кулум ⟨сенин⟩, Мен сени тандадым жана четке какпадым.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "a802bdd6320629de330a8399533296e8db58c5bf8f4d88c3f450882af6f2e8cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/41\/9-12.1791210159483.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Мен"
+    },
+    {
+      "surface": "החזקתיך",
+      "gloss": "сени кармап алдым"
+    },
+    {
+      "surface": "מקצות",
+      "gloss": "учунан"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "жердин"
+    },
+    {
+      "surface": "ומאציליה",
+      "gloss": "жана анын эң чет жакаларынан"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "сени чакырдым"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "жана айттым"
+    },
+    {
+      "surface": "לך",
+      "gloss": "сага"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "Менин кулум"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨сенин⟩"
+    },
+    {
+      "surface": "בחרתיך",
+      "gloss": "сени тандадым"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "жана эмес"
+    },
+    {
+      "surface": "מאסתיך",
+      "gloss": "сени четке какпадым"
+    }
+  ],
+  "timestamp": "2026-10-05T14:22:39.483709707Z",
+  "model": "glm-5.3"
+}

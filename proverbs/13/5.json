@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 13:5",
+  "book": "proverbs",
+  "lang": "ky",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "יבאיש",
+      "rationale": "бул этиш Танахта ушул жерде гана кездешет — букв. «жаман жыт чыгаруу», адепсиздикти тартуу маанисинде"
+    },
+    {
+      "kind": "crux",
+      "subject": "יבאיש ויחפיר",
+      "rationale": "KJV «is loathsome, and cometh to shame» (өзү жаңырат); JPS «behaveth vilely» (башкаларды жаңырат) — экөө тең мүмкүн"
+    }
+  ],
+  "translation": "Жалган сөздү цадик жек көрөт, ал эми жаман киши жаңыртат жана уялып калат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "681d23404d87e076aca5c7ec2700c89b2de65f149e5d9a23ca74e428611d6a9a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/13\/5-8.1791217949999.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "сөздү"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "жалган"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "жек көрөт"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "цадик"
+    },
+    {
+      "surface": "ורשע",
+      "gloss": "ал эми жаман киши"
+    },
+    {
+      "surface": "יבאיש",
+      "gloss": "жаңыртатыт"
+    },
+    {
+      "surface": "ויחפיר",
+      "gloss": "жана уялып калат"
+    }
+  ],
+  "timestamp": "2026-10-05T16:32:30.000433582Z",
+  "model": "glm-5.3"
+}

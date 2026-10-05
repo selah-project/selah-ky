@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "lamentations 1:9",
+  "book": "lamentations",
+  "lang": "ky",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Яхвеге",
+      "rationale": "Кайгысын Яхвеге багыштап сүйлөйт: «Көр, Яхве»."
+    },
+    {
+      "kind": "addition",
+      "subject": "ошондуктан",
+      "rationale": "Причинная связка ивритте «כי» аркылуу билинбейт, маани кошулду."
+    },
+    {
+      "kind": "crux",
+      "subject": "פלאים",
+      "rationale": "«Кереметтүү» — көп сандагы פלא: түшүүнүн өлчөмсүз-таң каларлыгыгы."
+    }
+  ],
+  "translation": "Анын кирдүүлүгү анын жакасында; ал өзүнүн акырын эстебеди, ошондуктан ал кереметтүү түштү, ага жубатуучу жок. Көр, Яхве, ⟨את⟩ менин кайгым, анткени душман улуулук кылды.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "b06e9ec64673604ad70a1d7e07ef63215918f44796f7c02b3ddc823fa7e0a590",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/lamentations\/1\/9-12.1791219856561.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טמאתה",
+      "gloss": "кирдүүлүгү"
+    },
+    {
+      "surface": "בשוליה",
+      "gloss": "жакасында"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "זכרה",
+      "gloss": "эстебеди"
+    },
+    {
+      "surface": "אחריתה",
+      "gloss": "акырын"
+    },
+    {
+      "surface": "ותרד",
+      "gloss": "түштү"
+    },
+    {
+      "surface": "פלאים",
+      "gloss": "кереметтүү"
+    },
+    {
+      "surface": "אין",
+      "gloss": "жок"
+    },
+    {
+      "surface": "מנחם",
+      "gloss": "жубатуучу"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ага"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Көр"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "менин кайгым"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "кайгым"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "הגדיל",
+      "gloss": "улуулук кылды"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "душман"
+    }
+  ],
+  "timestamp": "2026-10-05T17:04:16.561767469Z",
+  "model": "glm-5.3"
+}

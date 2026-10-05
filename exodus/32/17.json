@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 32:17",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ырдаган",
+      "rationale": "ברעה — кыйкырык, дүбүрт; ырдоо мааниси контексттен"
+    },
+    {
+      "kind": "addition",
+      "subject": "Лагерде согуштун добушу!",
+      "rationale": "Йегошуанын сөзү атооч сүйлөм катары берилди, еврейче этиш жок"
+    }
+  ],
+  "translation": "Жана Йегошуа элдин ырдаган ⟨את⟩ добушун уккудан кийин, Мошеге айтты: Лагерде согуштун добушу!",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "cff607322605c9c984e162cb98a6b84bb49d83a375f9b50d2c00781276694261",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/32\/17-20.1791202605533.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "уккудан кийин"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Йегошуа"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "добушту"
+    },
+    {
+      "surface": "קול",
+      "gloss": "добушун"
+    },
+    {
+      "surface": "העם",
+      "gloss": "элдин"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "ырдаган"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…га"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Мошеге"
+    },
+    {
+      "surface": "קול",
+      "gloss": "добушу"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "согуштун"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "лагерде"
+    }
+  ],
+  "timestamp": "2026-10-05T12:16:45.534877548Z",
+  "model": "glm-5.3"
+}

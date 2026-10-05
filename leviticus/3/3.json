@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 3:3",
+  "book": "leviticus",
+  "lang": "ky",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ички органдар",
+      "rationale": "הקרב 'карев' — 'ички жак, ички органдар'; 'боор-өпкө' деп да берилет"
+    }
+  ],
+  "translation": "Жана тынчтык курмандыгынын ичинен от курмандыгы катары Яхвеге алып келсин: ⟨את⟩ ички органдарды жапкан майды жана жана ⟨את⟩ ички органдардын үстүндөгү бардык майды.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "3bba28306a52eec2db1ebbbd3645931648e80204eacb9d8f139da4f597db29b1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/3\/1-4.1791202852857.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "Жана алып келсин"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "курмандыгынын ичинен"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "тынчтык"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "от курмандыгы"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхвеге"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "май"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "майды"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "жапкан"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ички органдар"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "ички органдарды"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "жана ⟨את⟩",
+      "marks": "бардык май"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бардык"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "май"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…нын"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстүндөгү"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "ички органдардын"
+    }
+  ],
+  "timestamp": "2026-10-05T12:20:52.858854183Z",
+  "model": "glm-5.3"
+}

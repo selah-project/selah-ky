@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 20:13",
+  "book": "jeremiah",
+  "lang": "ky",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жан",
+      "rationale": "נפש — көкүрөк\/дем\/жашоо күчү, «жан» кыргызча кадимки эң жакын сөз"
+    },
+    {
+      "kind": "invitation",
+      "subject": "ырдагыла · даңазтагыла",
+      "rationale": "Көптүк буйрук менен элди Яхвени даңазтоого чакыруу"
+    }
+  ],
+  "translation": "Яхвеге ырдагыла, ⟨את⟩ Яхвени даңазтагыла, анткени ал жакырдын ⟨את⟩ жанын жаман иш кылгандардын колунан куткарып алды.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "96109cf15cb70129ebffec679f2187f019f3c01ca858f244b51c13d0f36597bc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/jeremiah\/20\/13-16.1791211125506.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "ырдагыла"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхвеге"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "даңазтагыла"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яхвени"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвени"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "куткарып алды"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "жанын"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "жанын"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "жакырдын"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "колунан"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "жаман иш кылгандардын"
+    }
+  ],
+  "timestamp": "2026-10-05T14:38:45.506937980Z",
+  "model": "glm-5.3"
+}

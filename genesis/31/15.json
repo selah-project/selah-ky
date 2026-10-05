@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 31:15",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ויאכל גם אכול",
+      "rationale": "Этиштин чыныгы инфинитиви (אכול) менен күчөтүлгөн эки катмарлуу айтылыш — «толук жеп койду»."
+    },
+    {
+      "kind": "crux",
+      "subject": "כספנו",
+      "rationale": "«Биздин күмүшүбүз» же «биздин баабыз» (JPS «наш price») — Лаван аларды саткан акча же анын өзүнө тийген наркы."
+    },
+    {
+      "kind": "substitution",
+      "subject": "жат эл",
+      "rationale": "נכריות «жат, бөтөн» — үй-бүлө мүчөсү эмес, бөтөн адам катары."
+    }
+  ],
+  "translation": "Атабыз бизди жат эл катары санабайбы? Анткени ал бизди сатты жана ⟨את⟩ биздин күмүшүбүздү да жеп койду.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "633d0f13da6bc9e250ee29bcf281bed18956cf82d707e27cb1fba260ef9f2862",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/31\/13-16.1791201391760.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "…эмеспи"
+    },
+    {
+      "surface": "нכריות",
+      "gloss": "жат эл катары"
+    },
+    {
+      "surface": "נחשבנו",
+      "gloss": "саналдык"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ал үчүн"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "мכרנו",
+      "gloss": "саттык"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "жеди"
+    },
+    {
+      "surface": "גם",
+      "gloss": "да"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "жеп койдy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "биздин күмүшүбүздү"
+    },
+    {
+      "surface": "כספנו",
+      "gloss": "биздин күмүшүбүздү"
+    }
+  ],
+  "timestamp": "2026-10-05T11:56:31.761683693Z",
+  "model": "glm-5.3"
+}

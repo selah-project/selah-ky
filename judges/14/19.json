@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "judges 14:19",
+  "book": "judges",
+  "lang": "ky",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "олжолор",
+      "rationale": "חליצות — сүрүүлгөн кийим-олжо; кийимдерди тартып алуу деген сүрөт сакталды"
+    },
+    {
+      "kind": "addition",
+      "subject": "күч менен",
+      "rationale": "«to come mightily» — ותצלח — these verbs are impersonal, in translation they are rendered as «күч менен келди»"
+    }
+  ],
+  "translation": "Жана Яхвенин руху анын үстүнө күч менен келди, ал Ашкалонго түштү жана алардан отуз кишини сүрдү, жана ⟨את⟩ алардын олжолорун алды, кийим-алмаштырыштарды жумакты айткандарга берди. Анын ачуусу күйөт, ал атасынын үйүнө көтөрүлдү.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "9d41a8fcca041cfb8ab91094f5330d4ea66f805def89192946cfd1118c0e6ed5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/judges\/14\/18-19.1791223875864.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותצלח",
+      "gloss": "күч менен келди"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "анын үстүнө"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "руху"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "түштү"
+    },
+    {
+      "surface": "אשקלון",
+      "gloss": "Ашкалонго"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "сүрдү"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "алардан"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "отуз"
+    },
+    {
+      "surface": "איש",
+      "gloss": "кышыны"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "алды"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "алардын олжолорун"
+    },
+    {
+      "surface": "חליצותם",
+      "gloss": "олжолорун"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "берди"
+    },
+    {
+      "surface": "החליפות",
+      "gloss": "кийим-алмаштырыштарды"
+    },
+    {
+      "surface": "למגידי",
+      "gloss": "айткандарга"
+    },
+    {
+      "surface": "החידה",
+      "gloss": "жумакты"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "күйөт"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "ачуусу"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "көтөрүлдү"
+    },
+    {
+      "surface": "בית",
+      "gloss": "үйүнө"
+    },
+    {
+      "surface": "אביהו",
+      "gloss": "атасынын"
+    }
+  ],
+  "timestamp": "2026-10-05T18:11:15.865823621Z",
+  "model": "glm-5.3"
+}

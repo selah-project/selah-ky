@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 19:16",
+  "book": "leviticus",
+  "lang": "ky",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לא תעמד על דם רעך",
+      "rationale": "«жакыныңдын каны үчүн турба»: же «кан төгүлүшүнө жеткирбе» (тыюу), же «кан үчүн бейкапар турба» (көрүп туруп жардам бербе) — JPS «stand idly by» вариант"
+    },
+    {
+      "kind": "substitution",
+      "subject": "רכיל",
+      "rationale": "лит. «айланып жүргөн ушакчы» — жаман кабар таратуучу, кыргызча «ушак таратуу»"
+    }
+  ],
+  "translation": "Элиңдин арасында ушак таратпай жүрбө, жакыныңдын каны үчүн бейкапар турба — Мен Яхве.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "0a7e723a21e15a976512eebd512f16781d6869e8b95bf9fd8821088a8d87f9c9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/19\/13-16.1791203286306.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ба"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "жүрбө"
+    },
+    {
+      "surface": "רכיל",
+      "gloss": "ушак таратпай"
+    },
+    {
+      "surface": "בעמיך",
+      "gloss": "элиңдин арасында"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ба"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "турба"
+    },
+    {
+      "surface": "על",
+      "gloss": "үчүн"
+    },
+    {
+      "surface": "דם",
+      "gloss": "каны"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "жакыныңдын"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Мен"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-10-05T12:28:06.308145026Z",
+  "model": "glm-5.3"
+}

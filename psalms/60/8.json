@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 60:8",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 60,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "Шехем · Суккот",
+      "rationale": "Жер өлчөө жана бөлүштүрүү тили — Шехемди бөлүү, Суккот өрөөнүн өлчөө"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אעלזה … אחלקה … אמדед",
+      "rationale": "Кошума cohortатив формаларынын үндөштүгү (а-…-ээ) — үч ырастоону ритмдик тизмекке байлайт, кыргызчада жоготот"
+    }
+  ],
+  "translation": "Элохим ыйыктыгында сүйлөдү: мен кубанам, Шехемди бөлүшөм, жана Суккот өрөөнүн өлчөйтмүн.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "84865b9bc7ed5901f6561e9ff6231f3a2236584bb0617519ad72f3b3def82612",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/60\/5-8.1791216320750.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сүйлөдү"
+    },
+    {
+      "surface": "בקדשו",
+      "gloss": "ыйыктыгында"
+    },
+    {
+      "surface": "אעלזה",
+      "gloss": "кубанам"
+    },
+    {
+      "surface": "אחלקה",
+      "gloss": "бөлүшөм"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Шехемди"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "жана өрөөнүн"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Суккот"
+    },
+    {
+      "surface": "אמדד",
+      "gloss": "өлчөйтмүн"
+    }
+  ],
+  "timestamp": "2026-10-05T16:05:20.751793309Z",
+  "model": "glm-5.3"
+}

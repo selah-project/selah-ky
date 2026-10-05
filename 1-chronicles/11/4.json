@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 11:4",
+  "book": "1-chronicles",
+  "lang": "ky",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "болду",
+      "rationale": "Еврей текстисинде этиш жок — «ал жерде йебустуктар» деген атооч сүйлөм кыргызча этишти талап кылат"
+    },
+    {
+      "kind": "elision",
+      "subject": "היא",
+      "rationale": "Бөлүп турган «ал» — Йерушалайим менен Йебусту байланыштырган байланыштык "
+    }
+  ],
+  "translation": "Жөнөдү Давид жана бүткүл Йисраэл Йерушалайимге — ал Йебус — жана ал жерде йебустуктар болду, жердин жашоочулары.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "1ab3c6a75df0418b514d27dbd805a185cfaecfe0292cf8464c3bc59c55d304f4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-chronicles\/11\/4-4.1791224639772.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "жөнөдү"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "жана бүткүл"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэл"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Йерушалайимге"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ал"
+    },
+    {
+      "surface": "יבוס",
+      "gloss": "Йебус"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "жана ал жерде"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "йебустуктар"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "жашоочулары"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "жердин"
+    }
+  ],
+  "timestamp": "2026-10-05T18:23:59.773166061Z",
+  "model": "glm-5.3"
+}

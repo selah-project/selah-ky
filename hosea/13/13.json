@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "hosea 13:13",
+  "book": "hosea",
+  "lang": "ky",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "туруп",
+      "rationale": "Ивриттеги עמד 'туруу' этишине татаал формалаштыруу үчүн кошулду"
+    },
+    {
+      "kind": "idiom",
+      "subject": "толгоолору",
+      "rationale": "חבלי יולדה — төрөт толгоолору; Эфрайымдын кыйналуусунун образы"
+    },
+    {
+      "kind": "alternative",
+      "subject": "убакта",
+      "rationale": "כי עת — 'анткени убактысы келди' деп да окулат"
+    }
+  ],
+  "translation": "Төрөт аялдын толгоолору анын үстүнө келет; ал — акылсыз уул, анткени ал балдардын жаралышуу убагында туруп турбайт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "5598ed3bafb309bd18a2ce30f873958ce9d718627ef7bab56bdcdb0c13571ba7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/hosea\/13\/13-15.1791213963612.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חבלי",
+      "gloss": "толгоолору"
+    },
+    {
+      "surface": "יולדה",
+      "gloss": "төрөт аялдын"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "келет"
+    },
+    {
+      "surface": "לו",
+      "gloss": "анын үстүнө"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ал"
+    },
+    {
+      "surface": "בן",
+      "gloss": "уул"
+    },
+    {
+      "surface": "לא",
+      "gloss": "эмес"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "акылдуу"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "עת",
+      "gloss": "убакта"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "турбайт"
+    },
+    {
+      "surface": "במשבר",
+      "gloss": "жаралууда"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "балдардын"
+    }
+  ],
+  "timestamp": "2026-10-05T15:26:03.613158652Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 1:6",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "өлдү (экинчи)",
+      "rationale": "Еврей текстинен экинчи этиш жок; кыргызча тизме ачык болушу үчүн кайталанды"
+    },
+    {
+      "kind": "addition",
+      "subject": "анын",
+      "rationale": "אחיו — «анын бир туугандары», кыргызча ат атооч талап кылат"
+    }
+  ],
+  "translation": "Жана Йосеф өлдү, анын бардык бир туугандары жана ошол муундуун баары да өлдү.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "406f8d910e217f78ee0f790cebd8359187c427da38e49e31dbe924665a71ba69",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/1\/5-8.1791201835366.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "өлдү"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосеф"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "жана бардык"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "анын бир туугандары"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "жана баары"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "ошол муун"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ошол"
+    }
+  ],
+  "timestamp": "2026-10-05T12:03:55.366846117Z",
+  "model": "glm-5.3"
+}

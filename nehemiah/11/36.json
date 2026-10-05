@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "nehemiah 11:36",
+  "book": "nehemiah",
+  "lang": "ky",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "болду",
+      "rationale": "Еврей текстинде этиш жок; тизме стили"
+    },
+    {
+      "kind": "crux",
+      "subject": "לבנימין",
+      "rationale": "KJV «Бинйаминде бөлүктөр» деп окуп, ASV\/JPS «Йегуданын айрым бөлүктөрү Бинйаминге кошулду» дешет"
+    }
+  ],
+  "translation": "Жана лебилердин бөлүктөрү Йегудада жана Бинйаминде ⟨болду⟩.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "005a2e9b8f48a86d48acab406213812259dcc0bee79ffa78fdd678b30110199c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/nehemiah\/11\/33-36.1791221612053.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "жана"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "лебилердин"
+    },
+    {
+      "surface": "מחלקות",
+      "gloss": "бөлүктөрү"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Йегудада"
+    },
+    {
+      "surface": "לבנימין",
+      "gloss": "Бинйаминде"
+    }
+  ],
+  "timestamp": "2026-10-05T17:33:32.053873786Z",
+  "model": "glm-5.3"
+}

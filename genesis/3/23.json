@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 3:23",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "аны",
+      "rationale": "Объект ачык болушу үчүн pronoun кошулду; וישלחהו суффикси «аны» камтыйт"
+    }
+  ],
+  "translation": "Яхве Элохим аны Эден бакчасынан ал алынган ⟨את⟩ топуракты иштөө үчүн жиберди.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "74471a1707e533cf2913e04fc2c47140a8a0ac7bf873fcde31c9c5cf5a07ce03",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/3\/21-24.1791200764374.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלחהו",
+      "gloss": "жиберди"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "бакчасынан"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Эден"
+    },
+    {
+      "surface": "лעבד",
+      "gloss": "иштөө үчүн"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "топуракты"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "топуракты"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ал"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "алынган"
+    },
+    {
+      "surface": "משם",
+      "gloss": "андыктан"
+    }
+  ],
+  "timestamp": "2026-10-05T11:46:04.376076048Z",
+  "model": "glm-5.3"
+}

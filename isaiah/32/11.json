@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 32:11",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "על חלצים",
+      "rationale": "Предлог 'белди курчагула' ичине сиңди."
+    },
+    {
+      "kind": "crux",
+      "subject": "פשטה וערה וחגורה",
+      "rationale": "KJV\/ASV 'жүгөн кийиуни курчагула' — 'жүгөн' текстте жок; YLT 'курча' деп гана коёт."
+    }
+  ],
+  "translation": "Титирегиле, тынч жаткандар; коркугула, ишенгендер; чечинип, жылаңач болгула жана белди курчагула.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "7c511c6a17fc7bd099fb8f980d19dbf99caba575bc91838a22dfe6706c83e9d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/32\/9-12.1791209862300.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חרדו",
+      "gloss": "титирегиле"
+    },
+    {
+      "surface": "שאננות",
+      "gloss": "тынч жаткандар"
+    },
+    {
+      "surface": "רגזה",
+      "gloss": "коркугула"
+    },
+    {
+      "surface": "בטחות",
+      "gloss": "ишенгендер"
+    },
+    {
+      "surface": "פשטה",
+      "gloss": "чечинип"
+    },
+    {
+      "surface": "וערה",
+      "gloss": "жылаңач болгула"
+    },
+    {
+      "surface": "וחגורה",
+      "gloss": "белди курчагула"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "חלצים",
+      "gloss": "бел"
+    }
+  ],
+  "timestamp": "2026-10-05T14:17:42.301685487Z",
+  "model": "glm-5.3"
+}

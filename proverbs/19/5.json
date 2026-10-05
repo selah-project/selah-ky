@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 19:5",
+  "book": "proverbs",
+  "lang": "ky",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "לא ינקה",
+      "rationale": "лит. «таза болбойт» — кыргызча эрежениктерди бузбай «жаза тартпай калбайт» кылдык"
+    },
+    {
+      "kind": "substitution",
+      "subject": "пайда кылуучу",
+      "rationale": "יפיח лит. «дем чыгаруучу» — жалган сөздөрдү дем менен чыгаруу сүрөттөлөт"
+    }
+  ],
+  "translation": "Жалган куу жаза тартпай калбайт, жана жалган сөздөрдү пайда кылуучу качып кутулбайт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "f45880f55fe88e537138ea8f0c89b986e33915e4ec5c7c3e59e736c14ca7e073",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/19\/5-8.1791218209918.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "куу"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "жалган"
+    },
+    {
+      "surface": "לא",
+      "gloss": "эмес"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "жаза тартпай калбайт"
+    },
+    {
+      "surface": "ויפיח",
+      "gloss": "жана пайда кылуучу"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "жалган сөздөрдү"
+    },
+    {
+      "surface": "לא",
+      "gloss": "эмес"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "качып кутулбайт"
+    }
+  ],
+  "timestamp": "2026-10-05T16:36:49.919097852Z",
+  "model": "glm-5.3"
+}

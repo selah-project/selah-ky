@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 2:12",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בר",
+      "rationale": "«Мураскор\/уул» (бар) же «таза болуп» (JPS «ikip тазалык менен таазим») же «уул» (KJV, арамейче бар) — байыркы котормчулар бөлүнгөн жер."
+    },
+    {
+      "kind": "crux",
+      "subject": "כמעט",
+      "rationale": "«Аз эле убакта» (кары көпкө жайылбайт) же «бир аз эле ачуудан» (KJV) — эки окуу бар."
+    },
+    {
+      "kind": "substitution",
+      "subject": "каары",
+      "rationale": "אַף буквально «мурун\/бурон» — ачуу мурундан « Dem » чыккан дем катары; кыргызча «каар» берилди."
+    },
+    {
+      "kind": "invitation",
+      "subject": "Мураскорду сүйгүлө",
+      "rationale": "Аят түз буюрук менен чакырыкка аяктайт, акырында бактылуулук жарыяланат."
+    }
+  ],
+  "translation": "Мураскорду сүйгүлө, антпесе ал ачуланып, жолдо жок болосуңар, анткени анын каары аз эле убакта күйөт. Ага баш калкайткан бардыктар бактылуу!",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "8d533ebe6cabfaf3f69d9f613443902ecf5dcc17aedfcc9ed447684e0a1ae411",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/2\/9-12.1791215272750.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נשקו",
+      "gloss": "сүйгүлө"
+    },
+    {
+      "surface": "בר",
+      "gloss": "мураскорду"
+    },
+    {
+      "surface": "פן",
+      "gloss": "антпесе"
+    },
+    {
+      "surface": "יאנף",
+      "gloss": "ачуланып"
+    },
+    {
+      "surface": "ותאבדו",
+      "gloss": "жок болосуңар"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "жолдо"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "יבער",
+      "gloss": "күйөт"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "аз эле убакта"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "анын каары"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "бактылуу"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бардыктар"
+    },
+    {
+      "surface": "חוסי",
+      "gloss": "баш калкайткан"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ага"
+    }
+  ],
+  "timestamp": "2026-10-05T15:47:52.751772421Z",
+  "model": "glm-5.3"
+}

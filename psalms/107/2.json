@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 107:2",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "душман",
+      "rationale": "צר — «тар жер», «кыйынчылык», ошондой эле «душман»; кеңири кабыл алынган мааниси берилди"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גאולי\/גאלם",
+      "rationale": "גאל тамыры эки жолу кайталанат — куткарылгандар\/куткарган; кыргызча өз ара уйкаштык сакталды"
+    }
+  ],
+  "translation": "Яхвенин куткарылгандары айтсын, анын душманынын колунан куткаргандары",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "d9140e39ef3ab1a1c18ad99e6f9c6a87ba0ea4d72d4b275cb29a212149e09013",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/107\/1-4.1791217136599.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יאמרו",
+      "gloss": "айтсын"
+    },
+    {
+      "surface": "גאולי",
+      "gloss": "куткарылгандары"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "анын"
+    },
+    {
+      "surface": "גאלם",
+      "gloss": "куткаргандары"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "колунан"
+    },
+    {
+      "surface": "צר",
+      "gloss": "душманынын"
+    }
+  ],
+  "timestamp": "2026-10-05T16:18:56.602765612Z",
+  "model": "glm-5.3"
+}

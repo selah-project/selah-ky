@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 5:25",
+  "book": "leviticus",
+  "lang": "ky",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ашам",
+      "rationale": "אָשָׁמְ — күнөө да, ошол күнөөнүн курмандыгы да; бир сөз эки маанини көтөрөт"
+    },
+    {
+      "kind": "substitution",
+      "subject": "кочкор",
+      "rationale": "אַיִל букв. «күч» — бул жерде койдин эркеги"
+    }
+  ],
+  "translation": "Жана ⟨את⟩ анын ашам күнөөсүн Яхвеге алып келсин — койлорунан анын баасы боюнча ашам курмандыгы үчүн кемчилигисиз бир кочкор һкөөнүн алдына.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "e72e9be578792134e9626e8076cc5fa5751bd4834d83410a45040802ed2338b8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/5\/25-26.1791202837885.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "анын ашам күнөөсүн"
+    },
+    {
+      "surface": "אשמו",
+      "gloss": "анын ашам күнөөсүн"
+    },
+    {
+      "surface": "יביא",
+      "gloss": "алып келсин"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхвеге"
+    },
+    {
+      "surface": "איל",
+      "gloss": "кочкор"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "кемчилигисиз"
+    },
+    {
+      "surface": "מן",
+      "gloss": "…дан"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "койлорунан"
+    },
+    {
+      "surface": "בערכך",
+      "gloss": "анын баасы боюнча"
+    },
+    {
+      "surface": "לאשם",
+      "gloss": "ашам курмандыгы үчүн"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…га"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "көөнүн алдына"
+    }
+  ],
+  "timestamp": "2026-10-05T12:20:37.885539976Z",
+  "model": "glm-5.3"
+}

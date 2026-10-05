@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 83:19",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 83,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "כי",
+      "rationale": "Conjunction כי rendered by kyrgyz punctuation (colon), not a separate word"
+    },
+    {
+      "kind": "crux",
+      "subject": "שמך יהוה",
+      "rationale": "'Thy name is YHWH' vs 'whose name alone is the LORD' (KJV) vs 'Thou whose name is HaShem' (JPS); word order allows several parses"
+    }
+  ],
+  "translation": "Жана алар билишсин: Сен — Сенин ысымың Яхве — Сен жалгыз Өздөрүң жогорку ⟨жана⟩ бүт жер үстүндө.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "bd4516115cc63d0a08b483bfa52075d0eb3f5d7666104bd4b9dea63f603e1d86",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/83\/17-19.1791216642337.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "билишсин"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨cejéчилди жок⟩"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Сен"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ысымың"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "жалгыз Өзүң"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "жогорку"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстүндө"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүт"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "жер"
+    }
+  ],
+  "timestamp": "2026-10-05T16:10:42.337882594Z",
+  "model": "glm-5.3"
+}

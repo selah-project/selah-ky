@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 47:8",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 47,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "муну ук",
+      "rationale": "«Ук» деген буйрук менен окурмандын көңүлү бурулат."
+    },
+    {
+      "kind": "you",
+      "subject": "ырахатка берилген",
+      "rationale": "Тике кайрылуу — Вавилон-аялга."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ואפסי עוד",
+      "rationale": "Литералдуу «жана менин бүтүшүм жок»; «мындан башка эч ким жокпун» деген мааниде."
+    }
+  ],
+  "translation": "Эми муну ук, ырахатка берилген, коопсуз отурган, жүрөгүндө «Менмин, мындан башка эч ким жокпун» деген аял: «Жесир болуп отурбайм, бала жоготууну да билбейм».",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "907573ff3d314b66abf3ee49a641c6fed5d20e777e0aa95f7a67dea234ff0132",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/47\/5-8.1791210337522.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "эми"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "ук"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "муну"
+    },
+    {
+      "surface": "עדינה",
+      "gloss": "ырахатка берилген"
+    },
+    {
+      "surface": "היושבת",
+      "gloss": "отурган"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "коопсуз"
+    },
+    {
+      "surface": "האמרה",
+      "gloss": "деген"
+    },
+    {
+      "surface": "בלבבה",
+      "gloss": "жүрөгүндө"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Менмин"
+    },
+    {
+      "surface": "ואפסי",
+      "gloss": "жана... жокпун (функциясында: башка эч ким)"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "эч ким (кошулуп)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "אשב",
+      "gloss": "отурбайм"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "жесир болуп"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "жана жок"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "билбейм"
+    },
+    {
+      "surface": "שכול",
+      "gloss": "бала жоготууну"
+    }
+  ],
+  "timestamp": "2026-10-05T14:25:37.524141237Z",
+  "model": "glm-5.3"
+}

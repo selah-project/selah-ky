@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 20:10",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "анда",
+      "rationale": "«Анын ичинде» деген тишиштирүү кошулду; еврей текстте айтылбайт, «анда» деген маани этиштен келет."
+    },
+    {
+      "kind": "you",
+      "subject": "Йисраэлге",
+      "rationale": "Парханга жана бүт элге айтылган буйрук — түз кайрылуу."
+    }
+  ],
+  "translation": "Ал эми жетинчи күн — Яхве, Элохимиңдин Шаббаты; анда эч кандай иш жасабайсың: ⟨сен⟩, уулуң да, кызың да, кулуң да, кыз кулуң да, малың да, дарбазаларыңдын ичиндеги конокуң да.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "337709d88430ef699d043eaf84815bcb5628e8010c210e650de3c8ef37ad7842",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/20\/9-12.1791202228054.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויום",
+      "gloss": "ал эми күн"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "жетинчи"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Шаббат"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхвеге"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Элохимиң"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "жасабайсың"
+    },
+    {
+      "surface": "כל",
+      "gloss": "эч кандай"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "иш"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨сен⟩"
+    },
+    {
+      "surface": "ובנך",
+      "gloss": "уулуң да"
+    },
+    {
+      "surface": "ובתך",
+      "gloss": "кызың да"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "кулуң да"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "кыз кулуң да"
+    },
+    {
+      "surface": "ובהמתך",
+      "gloss": "малың да"
+    },
+    {
+      "surface": "וגרך",
+      "gloss": "конокуң да"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ким"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "дарбазаларыңдын ичинде"
+    }
+  ],
+  "timestamp": "2026-10-05T12:10:28.055713966Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 3:1",
+  "book": "numbers",
+  "lang": "ky",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "тукум-тарыхы",
+      "rationale": "תולדת — «туулгандар, урпактар» деген сөз, бул жерде «тукум-тарых \/ санжыра» маанисинде"
+    }
+  ],
+  "translation": "Булар — Ахарон менен Мошенин тукум-тарыхы, Яхвенин Синай тоосундо Моше менен ⟨את⟩ сүйлөгөн күнү.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "b057f9d76185fe46654cff1b73d4a321140324addc8a04cf0bb39e10e821d27c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/numbers\/3\/1-4.1791203608555.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "булар"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "тукум-тарыхы"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Ахарон"
+    },
+    {
+      "surface": "ומשה",
+      "gloss": "Моше менен"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "күнү"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сүйлөгөн"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Моше"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "тоосундо"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Синай"
+    }
+  ],
+  "timestamp": "2026-10-05T12:33:28.556634055Z",
+  "model": "glm-5.3"
+}

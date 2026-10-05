@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 42:4",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אסון",
+      "rationale": "Сейрек сөз: 'жараат, жок болуу, өлүм' — КЖВ 'mischief', башкалары 'жок болуу' деп беришет."
+    },
+    {
+      "kind": "addition",
+      "subject": "бир тууганын",
+      "rationale": "אחי конструкту — 'анын тууганы' бириктирилген, кыргызча ээлик мүчө кошулду."
+    }
+  ],
+  "translation": "А Яаков ⟨את⟩ Вениаминди, Йосефтин бир тууганын, ⟨את⟩ бир туугандары менен жиберген жок, анткени: Ага бүтүндөй жок болуу жолукпасын, — деген.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "547d547c27efad83795ca3814cf075a8efaa862db5947442577c73cf11dec6d9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/42\/1-4.1791201665899.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Вениаминди"
+    },
+    {
+      "surface": "בנימין",
+      "gloss": "Вениаминди"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "бир тууганын"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосефтин"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "жиберген"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаков"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "бир туугандары"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "бир туугандары"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "деген"
+    },
+    {
+      "surface": "פן",
+      "gloss": "...пасын"
+    },
+    {
+      "surface": "יקראנו",
+      "gloss": "жолукпасын"
+    },
+    {
+      "surface": "אסון",
+      "gloss": "бүтүндөй жок болуу"
+    }
+  ],
+  "timestamp": "2026-10-05T12:01:05.900459294Z",
+  "model": "glm-5.3"
+}

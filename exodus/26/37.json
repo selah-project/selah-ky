@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "exodus 26:37",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жез",
+      "rationale": "נחשת — жез\/коло; байыркы текстте айрым ажыратуу жок"
+    },
+    {
+      "kind": "addition",
+      "subject": "болсун",
+      "rationale": "Еврейче этиштин атынан алынган копула сунушталды"
+    }
+  ],
+  "translation": "Жана парда үчүн беш акация түркүгүн жаса, аларды алтын менен капта, алардын илгичтери алтын болсун, жана аларга беш жез негиз куюрсуң.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "6fd89f2242ad5ed448d7d7851e5776c762e569c2bcb336fbac1c32c3742ab346",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/26\/37-37.1791202373533.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "жана жаса"
+    },
+    {
+      "surface": "למסך",
+      "gloss": "парда үчүн"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "беш"
+    },
+    {
+      "surface": "עמודי",
+      "gloss": "түркүк"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "акация"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "жана капта"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "аларды"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "алтын"
+    },
+    {
+      "surface": "וכיהם",
+      "gloss": "алардын илгичтери"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "алтын"
+    },
+    {
+      "surface": "ויצקת",
+      "gloss": "жана куюрсуң"
+    },
+    {
+      "surface": "להם",
+      "gloss": "аларга"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "беш"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "негиз"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "жез"
+    }
+  ],
+  "timestamp": "2026-10-05T12:12:53.533855164Z",
+  "model": "glm-5.3"
+}

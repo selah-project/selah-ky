@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 6:20",
+  "book": "2-kings",
+  "lang": "ky",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "экен",
+      "rationale": "ийрик туюк сүйлөм; кыргызча байланыштыруучу «экен» кошулду"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "пקח…ויפקח",
+      "rationale": "17-аят менен 20-аятта көз ачуу этиши кайталанып, чөйрө түзөт"
+    }
+  ],
+  "translation": "Алар Шомронго киргенде, Элиша айтты: Яхве, ⟨את⟩ булардын көздөрүн ач, көрүшсүн. Жана Яхве ⟨את⟩ алардын көздөрүн ачты, алар көрдү — жана караса, Шомрондун ичинде экен.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "677dd9e7162bd760a52af816469ff67cad88492fb583f9e63928584f72bf634a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-kings\/6\/17-20.1791208757910.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "болду"
+    },
+    {
+      "surface": "כבאם",
+      "gloss": "киргенде"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Шомронго"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Элиша"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "ач"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "булардын көздөрүн"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "көздөрүн"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "булардын"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "көрүшсүн"
+    },
+    {
+      "surface": "ויפקח",
+      "gloss": "ачты"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "алардын көздөрүн"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "көздөрүн"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "көрдү"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "караса"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ичинде"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Шомрондун"
+    }
+  ],
+  "timestamp": "2026-10-05T13:59:17.911943179Z",
+  "model": "glm-5.3"
+}

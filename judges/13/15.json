@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "judges 13:15",
+  "book": "judges",
+  "lang": "ky",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "сени",
+      "rationale": "Кыргызча этиш объектини талап кылат; ⟨את⟩ белгиси ошону көрсөтөт."
+    },
+    {
+      "kind": "idiom",
+      "subject": "לפניך",
+      "rationale": "'Сенин жүзүңдүн алдында' — кыргызча 'сенин алдыңда' идиомасы менен берилди."
+    }
+  ],
+  "translation": "Жана Маноах Яхвенин периштесине айтты: Сураныч, ⟨את⟩ сени токтотуп туралы, жана сенин алдыңда эчкинин улагын даярдайлы.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "964bde9e6ed31603fd2f7ba0a91557700d8d8edbb5573a0bb75fda4177fbe5b7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/judges\/13\/13-16.1791206323117.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Жана ... айтты"
+    },
+    {
+      "surface": "מנוח",
+      "gloss": "Маноах"
+    },
+    {
+      "surface": "אל",
+      "gloss": "→"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "периштесине"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    },
+    {
+      "surface": "נעצרה",
+      "gloss": "токтотуп туралы"
+    },
+    {
+      "surface": "נא",
+      "gloss": "сураныч"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩",
+      "marks": "сени"
+    },
+    {
+      "surface": "ונעשה",
+      "gloss": "жана ... даярдайлы"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "сенин алдыңда"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "улагын"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "эчкинин"
+    }
+  ],
+  "timestamp": "2026-10-05T13:18:43.118338890Z",
+  "model": "glm-5.3"
+}

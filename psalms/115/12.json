@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 115:12",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 115,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ал бата берет",
+      "rationale": "Биринчи יברך кимге багытталганы ачык эмес: «бизге бата берет» (KJV) же абсолюттуу «бата берет» (YLT, JPS) — экинчиси тандалды."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יברך יברך ... יברך",
+      "rationale": "Бата берүү этиши үч жолу катар кайталанат — күчөтүү ыргагы кыргызча сакталды."
+    }
+  ],
+  "translation": "Яхве бизди эстеди; бата берет — Йисраэлдин үй-бүлөсүнө ⟨את⟩ бата берет, Ахарондун үй-бүлөсүнө ⟨את⟩ бата берет.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "8c8b486acabcd6c65fbb9711d225a56314fbaa84265560a66c475cee8e99090a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/115\/9-12.1791217263344.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "זכרנו",
+      "gloss": "бизди эстеди"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "бата берет"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "бата берет"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Йисраэлдин үй-бүлөсүнө"
+    },
+    {
+      "surface": "בית",
+      "gloss": "үй-бүлөсүнө"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэлдин"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "бата берет"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ахарондун үй-бүлөсүнө"
+    },
+    {
+      "surface": "בית",
+      "gloss": "үй-бүлөсүнө"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Ахарондун"
+    }
+  ],
+  "timestamp": "2026-10-05T16:21:03.345876550Z",
+  "model": "glm-5.3"
+}

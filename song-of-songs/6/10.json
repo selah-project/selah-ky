@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 6:10",
+  "book": "song-of-songs",
+  "lang": "ky",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הנשקפה",
+      "rationale": "«Терезеден көз сүзүү» сөзү — жашырынган жерден сыртка караган сүрөт, кыргызча «көз сүзүү» кармалат"
+    },
+    {
+      "kind": "crux",
+      "subject": "כנדגלות",
+      "rationale": "«Желек көтөргөндөр» — аскерлер (KJV) же жылдыздар катары (BSB); тамыр «желек\/белек болуп көрүнүү» деген мааниде"
+    }
+  ],
+  "translation": "Бул ким — таң сыяктуу көз сүзүп турган, ай сыяктуу кооз, күн сыяктуу таза, желек көтөргөн аскерлердей коркунучтуу?",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "6f38d403ae09845fc89e09fc897603b7a6828239b85cf63706400c3330e480dd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/song-of-songs\/6\/9-12.1791219522007.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ким"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "бул"
+    },
+    {
+      "surface": "הנשкפה",
+      "gloss": "көз сүзүп турган"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "сыяктуу"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "таң"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "кооз"
+    },
+    {
+      "surface": "כלבנה",
+      "gloss": "ай сыяктуу"
+    },
+    {
+      "surface": "ברה",
+      "gloss": "таза"
+    },
+    {
+      "surface": "כחמה",
+      "gloss": "күн сыяктуу"
+    },
+    {
+      "surface": "אימה",
+      "gloss": "коркунучтуу"
+    },
+    {
+      "surface": "כנדגלות",
+      "gloss": "желек көтөргөн аскерлердей"
+    }
+  ],
+  "timestamp": "2026-10-05T16:58:42.007906818Z",
+  "model": "glm-5.3"
+}

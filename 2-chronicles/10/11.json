@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 10:11",
+  "book": "2-chronicles",
+  "lang": "ky",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "בעקרבים",
+      "rationale": "этиш кайталанбай «мен болсо чаян камчы менен» деп калды — еврейче да этишсиз"
+    },
+    {
+      "kind": "substitution",
+      "subject": "עקרבים",
+      "rationale": "«чаяндар» — чогула түйүлгөн камчынын аты, жаныбар эмес"
+    }
+  ],
+  "translation": "Эми атам силерге оор алд жүктөдү, мен болсо силердин алдыңарга кошомун; атам ⟨את⟩ силерди камчы менен тарбиялады, мен болсо чаян камчы менен.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "f88176b44a6d2a9f09a34db517896b256b1709b9215f0d40ba610adbec4bdba9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-chronicles\/10\/9-12.1791222779035.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "эми"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "атам"
+    },
+    {
+      "surface": "העמיס",
+      "gloss": "жүктөдү"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "силерге"
+    },
+    {
+      "surface": "על",
+      "gloss": "алд"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "оор"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "мен болсо"
+    },
+    {
+      "surface": "אסיף",
+      "gloss": "кошомун"
+    },
+    {
+      "surface": "על",
+      "gloss": "…га"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "алдыңарга"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "атам"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "тарбиялады"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ силерди",
+      "marks": "камчы"
+    },
+    {
+      "surface": "בשוטים",
+      "gloss": "камчы менен"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "мен болсо"
+    },
+    {
+      "surface": "בעקרбים",
+      "gloss": "чаян камчы менен"
+    }
+  ],
+  "timestamp": "2026-10-05T17:52:59.037430598Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 3:4",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "Моше, Моше",
+      "rationale": "аттын кайталанышы — чакырууну баса белгилөө; кыргызча да кайталанган"
+    },
+    {
+      "kind": "you",
+      "subject": "Моше, Моше!",
+      "rationale": "Элохим Мошени тике атап чакырат"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Мынамын",
+      "rationale": "הנני — «мына, мен»; даяр турат деген мааниде"
+    }
+  ],
+  "translation": "Яхве ал караганы көрүп, Элохим бадалдын ортосунан аны чакырды: Моше, Моше! Ал айтты: Мынамын.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "c635f4f1e84e7914295bea088596bb7b31b5dd6ecd2d278b0de0f11859a0f5aa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/3\/1-4.1791201866143.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "көрүп"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "כי",
+      "gloss": "-ны"
+    },
+    {
+      "surface": "סר",
+      "gloss": "ча广告канды"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "караганы"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "чакырды"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "аны"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "ортосунан"
+    },
+    {
+      "surface": "הסנה",
+      "gloss": "бадалдын"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Мынамын"
+    }
+  ],
+  "timestamp": "2026-10-05T12:04:26.144946691Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 137:8",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 137,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "Вавилон кызы",
+      "rationale": "בת בבל — «Вавилон кызы» деген элдин аты, кыргызча «Вавилон эли» дегенди билдирет, элести сакталды."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שישלם \/ גמלת",
+      "rationale": "שלם (кайтарып берүү) жана גמל (жооп кайтаруу) тамырлары бири-бирин чагылдырат — «сен кайтарсаң, сага да кайтарышат» деген ыргак."
+    }
+  ],
+  "translation": "Вавилон кызы, талкалануучу! Бакыттуу ал — сага ⟨את⟩ жообуңду кайтарып берген, сен бизге кылгандын өзүн.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "25d1b7e231f2a191d3639ebda193d3e341c19ea442e0f03606e1ccc2d8c1cf26",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/137\/5-8.1791217602556.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בת",
+      "gloss": "кызы"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Вавилон"
+    },
+    {
+      "surface": "השדודה",
+      "gloss": "талкалануучу"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "Бакыттуу"
+    },
+    {
+      "surface": "שישלם",
+      "gloss": "жообун кайтарып берет"
+    },
+    {
+      "surface": "לך",
+      "gloss": "сага"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "жообуңду"
+    },
+    {
+      "surface": "גמולך",
+      "gloss": "жообуңду"
+    },
+    {
+      "surface": "שגמלт",
+      "gloss": "кылгандын"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "бизге"
+    }
+  ],
+  "timestamp": "2026-10-05T16:26:42.557250425Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 33:24",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "кечирилет",
+      "rationale": "נשא עון сөзмө-сөз «күнөөнү көтөрүү\/алып кетүү» — кечирим еврейче образы жоголот"
+    },
+    {
+      "kind": "you",
+      "subject": "жашоочу",
+      "rationale": "Сиондун жашоочусуна түздөн-түз кайрылуу контекстте (33:20)"
+    }
+  ],
+  "translation": "Жана жашоочу «Мен оорудамын» дебейт; анда жашаган элдин күнөөсү кечирилет.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "49c1de37dc4119e929af2fe40b9b7dbaf8bc094d55cfddf2587564292760bbbd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/33\/21-24.1791209901292.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובל",
+      "gloss": "жана... дебейт"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "айтпайт"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "жашоочу"
+    },
+    {
+      "surface": "חליתי",
+      "gloss": "Мен оорудамын"
+    },
+    {
+      "surface": "העם",
+      "gloss": "элдин"
+    },
+    {
+      "surface": "הישב",
+      "gloss": "анда жашаган"
+    },
+    {
+      "surface": "בה",
+      "gloss": "анда"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "көтөрүлгөн ⟨кечирилет⟩"
+    },
+    {
+      "surface": "עון",
+      "gloss": "күнөөсү"
+    }
+  ],
+  "timestamp": "2026-10-05T14:18:21.293974221Z",
+  "model": "glm-5.3"
+}

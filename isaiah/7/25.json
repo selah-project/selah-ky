@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 7:25",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "тике жана бадал коркуудан",
+      "rationale": "יראת שמיר ושית букв. 'тике жана бадалдын коркуусу' — кыргызча 'коркуудан' идиома катары берилди"
+    },
+    {
+      "kind": "crux",
+      "subject": "לא תבוא",
+      "rationale": "'сен келбейсің' (JPS, ASV — арыз айткан адамга) же 'ал жерге коркуу келбейт' (KJV) — субъекти ким экени талаштуу"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨эч ким⟩",
+      "rationale": "этиштин субъектин ачык кылуу үчүн кошулду, еврейче жок"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שמיר\/ושית",
+      "rationale": "ם-байланышкан 'шамир вашайит' үндөштүгү — 7:23–24 менен кайталанып, кыргызча жоголот"
+    }
+  ],
+  "translation": "Жана бүт тоолор — кетмен менен иштелгендер — ал жакка тикен жана бадал коркуудан ⟨эч ким⟩ бар болбойт; ал өгүз жайытына жана кой басууга болот.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "17bb0abbcffbc4a2278e931452eab3736fb615fd513cb298f3f7e0251fd3ff3b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/7\/25-25.1791209411610.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "жана бүт"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "тоолор"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ал"
+    },
+    {
+      "surface": "במעדר",
+      "gloss": "кетмен менен"
+    },
+    {
+      "surface": "יעדרון",
+      "gloss": "иштелет"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "бар болбойт"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ал жакка"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "коркуу"
+    },
+    {
+      "surface": "שמיר",
+      "gloss": "тикен"
+    },
+    {
+      "surface": "ושית",
+      "gloss": "жана бадал"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "болот"
+    },
+    {
+      "surface": "למешלח",
+      "gloss": "жайытына"
+    },
+    {
+      "surface": "שור",
+      "gloss": "өгүз"
+    },
+    {
+      "surface": "ולמרמס",
+      "gloss": "жана басууга"
+    },
+    {
+      "surface": "שה",
+      "gloss": "кой"
+    }
+  ],
+  "timestamp": "2026-10-05T14:10:11.611422526Z",
+  "model": "glm-5.3"
+}

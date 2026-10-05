@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 19:11",
+  "book": "leviticus",
+  "lang": "ky",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "чындыкты жашырабагыла",
+      "rationale": "כחש — жокко чыгаруу, антташуу, чечимден кайтуу; жалгыз «жалган айтуу» деген ачык эмес"
+    }
+  ],
+  "translation": "Уурдабагыла, жана чындыкты жашырабагыла, жана ар бир адам өз жакынына жалган айтпасын.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "040d901e7cfb789fef6d2f0069f1e70b1c123c92e4e9db9f1e3ea02e9fa0a875",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/19\/9-12.1791203206841.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "תגנבו",
+      "gloss": "уурдабагыла"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "жана жок"
+    },
+    {
+      "surface": "תכחשו",
+      "gloss": "чындыкты жашырабагыла"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "жана жок"
+    },
+    {
+      "surface": "תשקרו",
+      "gloss": "жалган айтпасын"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ар бир адам"
+    },
+    {
+      "surface": "בעמיתו",
+      "gloss": "өз жакынына"
+    }
+  ],
+  "timestamp": "2026-10-05T12:26:46.842667980Z",
+  "model": "glm-5.3"
+}

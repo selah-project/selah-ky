@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 14:2",
+  "book": "2-kings",
+  "lang": "ky",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "болгон",
+      "rationale": "Hebrew בן עשרים...שנה is a nominal phrase; Kyrgyz requires a copula."
+    },
+    {
+      "kind": "measurement",
+      "subject": "ages and reign length",
+      "rationale": "Accession age 25 and reign length 29 years counted."
+    }
+  ],
+  "translation": "Падышачылык кылганда ал жыйырма беш жашта ⟨болгон⟩, жана Йерушалайимде жыйырма тогуз жыл падышачылык кылды; анын апасынын аты Йехоаддан, ал Йерушалайимден ⟨болгон⟩.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "2118a771d23c9a05eace2d12e7b9db3b6054d3f2dc63ad781e6f9a6698ac1592",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-kings\/14\/1-4.1791208973482.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "жашта"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "жыйырма"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "беш"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "жыл"
+    },
+    {
+      "surface": "היה",
+      "gloss": "болгон"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "падышачылык кылганда"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "жана жыйырма"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "тогуз"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "жыл"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "падышачылык кылды"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Йерушалайимде"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "жана аты"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "апасынын"
+    },
+    {
+      "surface": "יהועדין",
+      "gloss": "Йехоаддан"
+    },
+    {
+      "surface": "מן",
+      "gloss": "−дан"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Йерушалайим"
+    }
+  ],
+  "timestamp": "2026-10-05T14:02:53.483546369Z",
+  "model": "glm-5.3"
+}

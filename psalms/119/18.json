@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 119:18",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ач",
+      "rationale": "גל тамыры «жабууну алуу, ачуу» — көздөрдүн жабуусун ачуу деген сүрөт"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Көздөрүмдү ач",
+      "rationale": "Тиленүү-буйрук, Яхвеге багытталган"
+    }
+  ],
+  "translation": "Көздөрүмдү ач, мен Тордон чыккан кереметтерди көрөйүн.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "8410f7721cca6dca8b2bfa92cb74b33b0734243193ac14728053acf7f8f0f115",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/119\/17-20.1791217298577.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גל",
+      "gloss": "ач"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "көздөрүмдү"
+    },
+    {
+      "surface": "ואביטה",
+      "gloss": "көрөйүн"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "кереметтерди"
+    },
+    {
+      "surface": "מתורתך",
+      "gloss": "Тордон чыккан"
+    }
+  ],
+  "timestamp": "2026-10-05T16:21:38.578070170Z",
+  "model": "glm-5.3"
+}

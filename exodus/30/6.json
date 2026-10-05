@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 30:6",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "капкак",
+      "rationale": "הכפרת — «ырайым тактасы» деген атакаттуу котормо бар, бирок сөздүн мааниси — сандыктын капкагы"
+    },
+    {
+      "kind": "addition",
+      "subject": "керек",
+      "rationale": "Еврейче буйрук этиши кыргызча «…керек» мүчөсү менен берилди"
+    }
+  ],
+  "translation": "Жана сен ⟨את⟩ аны күбөлүктүн сандыгынын үстүндөгү парданын алдына, күбөлүктүн үстүндөгү капкагынын алдына коюшуң керек — ал жерде Мен сен менен жолугамын.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "8b6e00aac884210ceacd4f25a5f108db61ed176ab43c081fe6b915267a3f4691",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/30\/5-8.1791202488046.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "коюшуң керек"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "аны"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "алдына"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "парданын"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ал"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстүндөгү"
+    },
+    {
+      "surface": "ארן",
+      "gloss": "сандыгынын"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "күбөлүктүн"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "алдына"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "капкагынын"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ал"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстүндөгү"
+    },
+    {
+      "surface": "העдת",
+      "gloss": "күбөлүктүн"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ал жерде"
+    },
+    {
+      "surface": "אועד",
+      "gloss": "жолугамын"
+    },
+    {
+      "surface": "לך",
+      "gloss": "сен"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ал жерде"
+    }
+  ],
+  "timestamp": "2026-10-05T12:14:48.047136558Z",
+  "model": "glm-5.3"
+}

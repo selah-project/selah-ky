@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 25:25",
+  "book": "proverbs",
+  "lang": "ky",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жан",
+      "rationale": "נפש — дем алуучу жандык, жаны; бир катар котормолор 'чычкаган' деп берет, бул жерде 'чарчаган'"
+    },
+    {
+      "kind": "addition",
+      "subject": "сыяктуу",
+      "rationale": "салыштыруу мамилеси еврейче текстте ачык айтылбайт, кыргызча салыштырма керек"
+    }
+  ],
+  "translation": "Чарчаган жанга муздак суу — алыс жерден келген жакшы кабар ⟨сыяктуу⟩.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "2591fc4176d9e4fb80ba66b9151bd1e46b9d17ed4724f704e8e94bd45e83f85d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/25\/25-28.1791218345153.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "суу"
+    },
+    {
+      "surface": "קרים",
+      "gloss": "муздак"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстүнө"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "жан"
+    },
+    {
+      "surface": "עיפה",
+      "gloss": "чарчаган"
+    },
+    {
+      "surface": "ושמועה",
+      "gloss": "жана кабар"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "жакшы"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "жерден"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "алыс"
+    }
+  ],
+  "timestamp": "2026-10-05T16:39:05.154423884Z",
+  "model": "glm-5.3"
+}

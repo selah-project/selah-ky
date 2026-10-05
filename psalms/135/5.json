@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 135:5",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 135,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "элохим",
+      "rationale": "אלהים бул жерде башка элдердин кудайлары жөнүндө — кичине тамга менен \"элохим\" деп калды, \"кудайлар\" да мүмкүн"
+    },
+    {
+      "kind": "you",
+      "subject": "билермин",
+      "rationale": "окурманга же Израелге багытталган ырастоо: мен билермин"
+    }
+  ],
+  "translation": "Анткени мен билермин: Яхве улуу, жана Адонайибиз бардык элохимден жогору.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "2c8d0cf40b55764252320e6ad325a99cc1e16cb19ce165ced00faf90961ee08f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/135\/5-8.1791217495170.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "אני",
+      "gloss": "мен"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "билермин"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "улуу"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ואדנינו",
+      "gloss": "жана Адонайибиз"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "бардык ... ден"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "элохим"
+    }
+  ],
+  "timestamp": "2026-10-05T16:24:55.170630432Z",
+  "model": "glm-5.3"
+}

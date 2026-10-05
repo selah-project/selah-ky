@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 22:5",
+  "book": "proverbs",
+  "lang": "ky",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жанын",
+      "rationale": "נפש — дем алуучу жан, жүрөк-калоо; кыргызча «жан» эң жакыны"
+    },
+    {
+      "kind": "addition",
+      "subject": "болот",
+      "rationale": "Ивритте этиш жок, «алыс болот» деген айтым кошулду"
+    }
+  ],
+  "translation": "Тикенектер жана торлор бурмалуу жолдо; өз жанын сактоочу алардан алыс болот.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "a94d4f014936ccd737a6609728fa6b191e542030b13b836339044a022b2fb8ca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/22\/5-8.1791218233787.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צנים",
+      "gloss": "тикенектер"
+    },
+    {
+      "surface": "פחים",
+      "gloss": "торлор"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "жолдо"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "бурмалуу"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "сактоочу"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "жанын"
+    },
+    {
+      "surface": "ירחק",
+      "gloss": "алыс болот"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "алардан"
+    }
+  ],
+  "timestamp": "2026-10-05T16:37:13.788480665Z",
+  "model": "glm-5.3"
+}

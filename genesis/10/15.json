@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 10:15",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "уулу",
+      "rationale": "בכרו «тунчосу» дейт; кыргызча «тун уулу» табигый, «уулу» сөзү кошулду."
+    }
+  ],
+  "translation": "Жана Кнаан ⟨את⟩ тун уулу Цидонду жана ⟨את⟩ Хетти тууду.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "75e77547bbff0e24042c6599703ac4c211014f2daa7cfcd03d16908797e2754a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/10\/13-16.1791200893654.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכנען",
+      "gloss": "Жана Кнаан"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "тууду"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Цидонду"
+    },
+    {
+      "surface": "צידן",
+      "gloss": "Цидонду"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "тун уулу"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "жана ⟨את⟩",
+      "marks": "Хетти"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Хетти"
+    }
+  ],
+  "timestamp": "2026-10-05T11:48:13.655727044Z",
+  "model": "glm-5.3"
+}

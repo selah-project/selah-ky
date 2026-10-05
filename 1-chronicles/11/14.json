@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 11:14",
+  "book": "1-chronicles",
+  "lang": "ky",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "куткарылды",
+      "rationale": "вайошиа Яхве тшуа гдола — 'Яхве чоң куткаруу кылды' же 'Яхве аларды чоң куткаруу менен куткарды'; объект текстте жок"
+    },
+    {
+      "kind": "substitution",
+      "subject": "сүрүштү",
+      "rationale": "нака — 'урду\/чабуулады'; кыргызча контекст 'сүрүштү' деп берилди"
+    }
+  ],
+  "translation": "Алар талаанын бөлүгүнүн ортосунда турушту жана аны сактап калышты жана ⟨את⟩ плиштилерди сүрүштү, жана Яхве ⟨аларды⟩ чоң куткаруу менен куткарылды.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "22d440ec4a6060a87c4b2926313b4cea8703a87c3fe8834e7183dd762b571829",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-chronicles\/11\/13-16.1791221985006.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתיצבו",
+      "gloss": "турушту"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ортосунда"
+    },
+    {
+      "surface": "החלקה",
+      "gloss": "талаанын бөлүгүнүн"
+    },
+    {
+      "surface": "ויצילוה",
+      "gloss": "сактап калышты"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "сүрүштү"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "плиштилерди"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "плиштилерди"
+    },
+    {
+      "surface": "ויושע",
+      "gloss": "куткарылды"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "куткаруу"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "чоң"
+    }
+  ],
+  "timestamp": "2026-10-05T17:39:45.007720029Z",
+  "model": "glm-5.3"
+}

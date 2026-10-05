@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 27:17",
+  "book": "job",
+  "lang": "ky",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "цедек",
+      "rationale": "צדיק — цедек сөзү сакталды, «адил» деп которулган жок"
+    },
+    {
+      "kind": "addition",
+      "subject": "бирок",
+      "rationale": "Ивритте «бирок» жок; вав байламтасы карама-каршылыкты билдирет"
+    }
+  ],
+  "translation": "Ал даярдайт, бирок цедек адам аны кийет, жана күмүштү наакый адам бөлүшөт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "24fc5a709e77503ddc4f71ba9a6dd18a8a312680d14654d7ec564172bd51f070",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/job\/27\/17-20.1791219137868.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יכין",
+      "gloss": "даярдайт"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "бирок цедек адам"
+    },
+    {
+      "surface": "ילבש",
+      "gloss": "кийет"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "жана күмүштү"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "наакый адам"
+    },
+    {
+      "surface": "יחלק",
+      "gloss": "бөлүшөт"
+    }
+  ],
+  "timestamp": "2026-10-05T16:52:17.868846842Z",
+  "model": "glm-5.3"
+}

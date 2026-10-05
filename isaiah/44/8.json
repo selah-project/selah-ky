@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 44:8",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "күбөлөрүмсүңөр",
+      "rationale": "кыргызча этиштин жетишсиздиги, бул айкын coplanın жоктугу"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Таш",
+      "rationale": "צור — «аска-таш», Элохимдин образдуу аты, ат катары чоң тамга менен"
+    },
+    {
+      "kind": "you",
+      "subject": "Йисраэлге",
+      "rationale": "«коркпоңуз ... силер Менин күбөлөрүмсүңөр» — Яхве Йисраэл элине кайрылуу"
+    },
+    {
+      "kind": "crux",
+      "subject": "Жана Таш жок — Мен билбейм",
+      "rationale": "ואין צור בל ידעתי: «Мен билген Таш жок» (ASV) же «жок, Мен билбейм» (KJV) — экөө тең"
+    }
+  ],
+  "translation": "Коркпоңуз, жана үрөйлөнбөңуз: антана бери силерге угузбадым беле, жана баяндабадым беле? Силер Менин күбөлөрүмсүңөр. Менден башка Элоах барбы? Жана Таш жок — Мен билбейм.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "3bf59ca5bf086dee7b94323cac2f2c1b0f193fae9112a49c689d8c3dc528bee3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/44\/5-8.1791210217154.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "תפחדו",
+      "gloss": "коркпоңуз"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "жана —"
+    },
+    {
+      "surface": "תרהו",
+      "gloss": "үрөйлөнбөңуз"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "беле"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "антана бери"
+    },
+    {
+      "surface": "השמעתיך",
+      "gloss": "угузбадым"
+    },
+    {
+      "surface": "והגדתי",
+      "gloss": "жана баяндабадым"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "жана силер"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "Менин күбөлөрүм"
+    },
+    {
+      "surface": "היש",
+      "gloss": "барбы"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Элоах"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "Менден башка"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "жана жок"
+    },
+    {
+      "surface": "צור",
+      "gloss": "Таш"
+    },
+    {
+      "surface": "בל",
+      "gloss": "—"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "Мен билбейм"
+    }
+  ],
+  "timestamp": "2026-10-05T14:23:37.155158197Z",
+  "model": "glm-5.3"
+}

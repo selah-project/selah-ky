@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 18:13",
+  "book": "job",
+  "lang": "ky",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בדי עורו",
+      "rationale": "בד: 'теринин бутактары' (мүчөлөрү) же 'теринин тактары' же 'ички жерлери' — котормочулар бөлүшкөн"
+    },
+    {
+      "kind": "substitution",
+      "subject": "бутактарын → аны",
+      "rationale": "экинчи בדיв — 'анын бутактарын' кайталоосу; кыргызча экинчи жолу 'аны' кылынган"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יאכל ... יאכל",
+      "rationale": "эки жолу 'жейт' — параллелизм, күчтүү кайталоо"
+    }
+  ],
+  "translation": "Анын терисинин бутактарын жейт, аны өлүмдүн тун уулу жейт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "4c21c97e0e3f769364baf790ca4100270aa0cfc9e9ec601ab23cda20209ccfcc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/job\/18\/13-16.1791218920160.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יאכל",
+      "gloss": "жейт"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "бутактарын"
+    },
+    {
+      "surface": "עורו",
+      "gloss": "терисинин"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "жейт"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "аны"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "тун уулу"
+    },
+    {
+      "surface": "мות",
+      "gloss": "өлүмдүн"
+    }
+  ],
+  "timestamp": "2026-10-05T16:48:40.161570311Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 45:2",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "והדורים",
+      "rationale": "Кыйын сөз: KJV 'crooked places' (кыйшык жерлер), BSB 'mountains' (тоолор); тамыр 'дөөлөнүү' деген мааниде — дөңсөөлөр\/буктоолор ыктымал."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אושר\/ישר",
+      "rationale": "Тамыр 'түз болуу' — жол түзөлүү темасы кайталанат."
+    }
+  ],
+  "translation": "Мен сенин алдыңда барам, кыйшык жерлерди түзөйүн, жез эшиктерди сындырам, темир шыркайларды кесерем.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "bfb5e328863bc5c10f3423b869dfd9974b044f381c91465cf9d2c0c5b2c5afb3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/45\/1-4.1791210322249.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Мен"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "сенин алдыңда"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "барам"
+    },
+    {
+      "surface": "והדורים",
+      "gloss": "кыйшык жерлерди"
+    },
+    {
+      "surface": "אושר",
+      "gloss": "түзөйүн"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "эшиктерди"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "жез"
+    },
+    {
+      "surface": "אשבר",
+      "gloss": "сындырам"
+    },
+    {
+      "surface": "ובריחי",
+      "gloss": "шыркайларын"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "темир"
+    },
+    {
+      "surface": "אגדע",
+      "gloss": "кесерем"
+    }
+  ],
+  "timestamp": "2026-10-05T14:25:22.250702692Z",
+  "model": "glm-5.3"
+}

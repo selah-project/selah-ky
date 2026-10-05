@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 12:19",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Фараон Аврахамга",
+      "rationale": "Буйрук формалары менен түз кат: «ал», «жөнө»"
+    },
+    {
+      "kind": "addition",
+      "subject": "ал да сеники",
+      "rationale": "Еврейче текстики «каялың — ал» деген эллипсис; кыргызча туюм үчүн ээлик кошулду"
+    }
+  ],
+  "translation": "«Эмне үчүн „ал менин сиңдим“ деп айттың, ошентип мен ⟨את⟩ аны өзүмө аял кылып алдым? Эми кар — аялың: ал да сеники, ал да жөнө».",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "a4dd18830dc8f9f85311a466f04aac5c84f97876a68ccd7dd995aaa03281a13f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/12\/17-20.1791200937506.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "эмне үчүн"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "айттың"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "сиңдим"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ал"
+    },
+    {
+      "surface": "ואקח",
+      "gloss": "алдым"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "аны"
+    },
+    {
+      "surface": "לי",
+      "gloss": "өзүмө"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "аял кылып"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "эми"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "кар"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "аялың"
+    },
+    {
+      "surface": "קח",
+      "gloss": "ал"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "жөнө"
+    }
+  ],
+  "timestamp": "2026-10-05T11:48:57.507763480Z",
+  "model": "glm-5.3"
+}

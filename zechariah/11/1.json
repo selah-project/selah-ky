@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 11:1",
+  "book": "zechariah",
+  "lang": "ky",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Ливан",
+      "rationale": "Версия Ливанга тікелей karys uroot — door ачууга чакырат."
+    },
+    {
+      "kind": "addition",
+      "subject": "эй",
+      "rationale": "Кыргыз тилинде чакыруу үчүн кошулду; еврейче текстте жок."
+    }
+  ],
+  "translation": "Эй Ливан, эшиктериңди ач, жана от сенин арчаларыңды жесин.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "4d06c052a5d3288cae7056fae9d50b3aab8cc71684e5f2d5bbc3d4156d482f88",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/zechariah\/11\/1-4.1791215107310.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "ач"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Ливан"
+    },
+    {
+      "surface": "דלתיך",
+      "gloss": "эшиктериңди"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "жана жесин"
+    },
+    {
+      "surface": "אש",
+      "gloss": "от"
+    },
+    {
+      "surface": "בארזיך",
+      "gloss": "сенин арчаларыңды"
+    }
+  ],
+  "timestamp": "2026-10-05T15:45:07.310836556Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 27:3",
+  "book": "1-samuel",
+  "lang": "ky",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨менен⟩",
+      "rationale": "«Ар бир кишиси өз үй-бүлөөсү ⟨менен⟩» — еврейче жок нерссе, этиштин тактыгы үчүн кошулду."
+    },
+    {
+      "kind": "crux",
+      "subject": "הכרמלית",
+      "rationale": "«Кармелдик» Абигайлга же Набалга тиешелүү болушу мүмкүн; еврей тартиби боюнча экөөнө да дал келет."
+    }
+  ],
+  "translation": "Давид Акиш менен Гатта жашап калды — ал жана анын кишileri, ар бир кишиси өз үй-бүлөөсү менен, Давид жана анын эки аялы: жизреелдик Ахиноам жана Набалдын аялы, кармелдик Абигайл.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "527976c3c2d06e0af59fec4758d4ad651b778cfebf7d4266e8a548d0d226bce6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-samuel\/27\/1-4.1791207279562.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "жашап калды"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "עם",
+      "gloss": "менен"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Акиш"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "Гатта"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ал"
+    },
+    {
+      "surface": "וישב ואנשיו",
+      "gloss": "жана анын кишileri"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ар бир кишиси"
+    },
+    {
+      "surface": "וביתו",
+      "gloss": "өз үй-бүлөөсү менен"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "эки"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "аялы"
+    },
+    {
+      "surface": "אחינעם",
+      "gloss": "Ахиноам"
+    },
+    {
+      "surface": "היזרעאלית",
+      "gloss": "жизреелдик"
+    },
+    {
+      "surface": "ואביגיל",
+      "gloss": "жана Абигайл"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "аялы"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Набалдын"
+    },
+    {
+      "surface": "הכרמלית",
+      "gloss": "кармелдик"
+    }
+  ],
+  "timestamp": "2026-10-05T13:34:39.563714907Z",
+  "model": "glm-5.3"
+}

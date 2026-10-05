@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 2:10",
+  "book": "1-chronicles",
+  "lang": "ky",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "төрөсү",
+      "rationale": "נשיא — бийлик ээси, найман же падыша маанисинде; «төрө» жакын туюнтма."
+    },
+    {
+      "kind": "measurement",
+      "subject": "genealogy",
+      "rationale": "Tuugandar tizmesi — Daviddin urpagi."
+    }
+  ],
+  "translation": "Жана Рам ⟨את⟩ Амминадавды тууду, жана Амминадав ⟨את⟩ Нахшонду тууду — Йехуда уулдарынын төрөсү.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "01d11bfd31e4082d34566e18918f3bdd765a5de5f63c42a85b856346cc97b460",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-chronicles\/2\/9-12.1791221708066.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ורם",
+      "gloss": "жана Рам"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "тууду"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Амминадавды"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "Амминадавды"
+    },
+    {
+      "surface": "ועמינדב",
+      "gloss": "жана Амминадав"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "тууду"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Нахшонду"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "Нахшонду"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "төрөсү"
+    },
+    {
+      "surface": "בני",
+      "gloss": "уулдарынын"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Йехуда"
+    }
+  ],
+  "timestamp": "2026-10-05T17:35:08.067284387Z",
+  "model": "glm-5.3"
+}

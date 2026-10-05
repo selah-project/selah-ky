@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 20:17",
+  "book": "1-kings",
+  "lang": "ky",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨жебөрүлгөндөрдү⟩",
+      "rationale": "еврей тексти «жиберди» деп гана айтат, эмне жибергени айтылбайт, болжол менен кошулду"
+    },
+    {
+      "kind": "alternative",
+      "subject": "жаш жоокерлер",
+      "rationale": "נערי — «жаштар, кызматчылар»; КJV «young men», Женева «servants»"
+    }
+  ],
+  "translation": "Жана облустардын башчыларынын жаш жоокерлери алгач чыгышты, жана Бен-Хадад ⟨жебөрүлгөндөрдү⟩ жиберди, жана ага айтышты: Шомрондон адамдар чыгып келишти.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "5f5bdb97ea07a41ac4c5c839b48a3919a649ae3cbb4d6e15ce7a2a64f0f365d2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-kings\/20\/17-20.1791208533778.json",
+    "code": "641241cf-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "чыгышты"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "жаш жоокерлери"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "башчыларынын"
+    },
+    {
+      "surface": "המדינות",
+      "gloss": "облустардын"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "алгач"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "жиберди"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Бен-"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Хадад"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "жана айтышты"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ага"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "деп"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "адамдар"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "чыгып келишти"
+    },
+    {
+      "surface": "משמרון",
+      "gloss": "Шомрондон"
+    }
+  ],
+  "timestamp": "2026-10-05T13:55:33.778843900Z",
+  "model": "glm-5.3"
+}

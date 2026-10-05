@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 9:17",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מסתולל",
+      "rationale": "Бир гана жерде кездешкен_hitpa'ель формасы: 'өзүн бийик көрүү' же 'тосуп турмуш' — Wycliff 'тосуп турат', KJV 'өзүн бийик көрөт' дейт."
+    },
+    {
+      "kind": "addition",
+      "subject": "менин",
+      "rationale": "עמי — 'менин элим', кыргызча ээлик мүчөсү талап кылат."
+    }
+  ],
+  "translation": "Сен дагы эле ⟨менин⟩ элиме тебеленип турасың, аларды жибербей коюу үчүн.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "fa10d8b2c4d577dcada5a42380744f250c4b7dba3d345b71496d6615b1339f1c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/9\/17-20.1791202016432.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עודך",
+      "gloss": "дагы эле"
+    },
+    {
+      "surface": "מסתולל",
+      "gloss": "тебеленип турасың"
+    },
+    {
+      "surface": "בעמי",
+      "gloss": "элиме"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "жибербей коюу үчүн"
+    },
+    {
+      "surface": "שלחם",
+      "gloss": "аларды жиберүү"
+    }
+  ],
+  "timestamp": "2026-10-05T12:06:56.433090040Z",
+  "model": "glm-5.3"
+}

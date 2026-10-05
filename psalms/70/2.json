@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 70:2",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 70,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Яхвеге",
+      "rationale": "Давид Элохимге жана Яхвеге түз кайрылуу."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חושה",
+      "rationale": "Бүт залкырдын жүрөгү болгон «шашыл» деген буйрук — Псалом 70 душмандын шашылбасынан кайчы турат."
+    }
+  ],
+  "translation": "Элохим, мени куткар; Яхве, жардамыма шашыл!",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "7460f835e149b447375fa1fedeeda630ef165f4394ff2d5a21b9823cfa1060d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/70\/1-4.1791216452560.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "להצילני",
+      "gloss": "мени куткар"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "жардамыма"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "шашыл"
+    }
+  ],
+  "timestamp": "2026-10-05T16:07:32.560684041Z",
+  "model": "glm-5.3"
+}

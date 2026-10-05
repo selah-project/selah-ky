@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 45:7",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אלהים",
+      "rationale": "Вокатив 'эй Элохим' (KJV, LXX) же 'Элохимдин берген тахтың' (JPS 'given of God') — атактуу талаш."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שבט...שבט",
+      "rationale": "Эки жолу кайталанган 'таяк' — параллелизм, кыргызча да сакталды."
+    }
+  ],
+  "translation": "Тахтың, эй Элохим, түбөлүккө жана дайыма; түздүктүн таягы — сенин падышачылыгыңдын таягы.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "629bded34f53d67fc575652ae2097649e1ec92627abe711e50b62f34c967bf30",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/45\/5-8.1791216138075.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כסאך",
+      "gloss": "сенин тахтың"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "эй Элохим"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "түбөлүккө"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "жана дайыма"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "таягы"
+    },
+    {
+      "surface": "מישר",
+      "gloss": "түздүктүн"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "таягы"
+    },
+    {
+      "surface": "מלכותך",
+      "gloss": "сенин падышачылыгыңдын"
+    }
+  ],
+  "timestamp": "2026-10-05T16:02:18.076161101Z",
+  "model": "glm-5.3"
+}

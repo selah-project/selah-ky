@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 7:6",
+  "book": "1-chronicles",
+  "lang": "ky",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "уулдары",
+      "rationale": "Еврейче тек ат гана, тизме түрүндөгү урпак катмары кыргызча ачык айтылды"
+    },
+    {
+      "kind": "measurement",
+      "subject": "үчөө",
+      "rationale": "Аттардын саны эсептелген"
+    }
+  ],
+  "translation": "Биньяминдин уулдары: Бела, жана Бехер, жана Йедиаэл — үчөө.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "16a83c5671b50257faeb8a4104133a0e7c802c08886cdec2cdfb1842521e4cff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-chronicles\/7\/5-8.1791221935542.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בנימן",
+      "gloss": "Биньяминдин"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "Бела"
+    },
+    {
+      "surface": "ובכר",
+      "gloss": "жана Бехер"
+    },
+    {
+      "surface": "וידיעאל",
+      "gloss": "жана Йедиаэл"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "үчөө"
+    }
+  ],
+  "timestamp": "2026-10-05T17:38:55.542836994Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 48:10",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ולא בכסף",
+      "rationale": "«күмүштөй эмес»: «күмүш баасы менен эмес» же «күмүштү эриткендей толук эмес» деп окулат"
+    },
+    {
+      "kind": "hapax",
+      "subject": "בכור",
+      "rationale": "«печ» деген мааниде бул сөз Танахта дээрлик эки жерде гана кездешет"
+    }
+  ],
+  "translation": "Кара, Мен сени тазаладым, бирок күмүштөй эмес; Мен сени азап печинде тандап алдым.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "aea10bb6079315e970392956cb073072c25df5b44bc079eeca30aeaf70c2eb1a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/48\/9-12.1791210240691.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Кара"
+    },
+    {
+      "surface": "צרפתיך",
+      "gloss": "Мен сени тазаладым"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "бирок эмес"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "күмүштөй"
+    },
+    {
+      "surface": "בחרתיך",
+      "gloss": "Мен сени тандап алдым"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "печинде"
+    },
+    {
+      "surface": "עני",
+      "gloss": "азап"
+    }
+  ],
+  "timestamp": "2026-10-05T14:24:00.691904307Z",
+  "model": "glm-5.3"
+}

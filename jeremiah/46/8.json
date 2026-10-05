@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 46:8",
+  "book": "jeremiah",
+  "lang": "ky",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨анын⟩",
+      "rationale": "еврейче מים ээлик жок жөн гана «суулар» — кыргызча тактоо үчүн кошулду"
+    },
+    {
+      "kind": "crux",
+      "subject": "מים",
+      "rationale": "«суулары» кимдики — Мицрайимдиби же Нилдиби, эки окуу бар; Мицрайимге каратылды"
+    },
+    {
+      "kind": "alternative",
+      "subject": "עיר",
+      "rationale": "жекече «шаарды» (KJV\/JPS) же көптүк «шаарларды» (ASV «cities») — жекече форма тандылды"
+    }
+  ],
+  "translation": "Мицрайим Нил сыяктуу көтөрүлөт, ⟨анын⟩ суулары дарыялар сыяктуу толкундайт; ал айтты: Мен көтөрүлөм, жерди жаап алам, шаарды жана анын ичиндегилерди жок кылам.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "099de369b38be0297e87452360f8fd24011f05e5a0d1937fbdce116c97513186",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/jeremiah\/46\/5-8.1791211747146.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מצרים",
+      "gloss": "Мицрайим"
+    },
+    {
+      "surface": "כיאר",
+      "gloss": "Нил сыяктуу"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "көтөрүлөт"
+    },
+    {
+      "surface": "וכנהרות",
+      "gloss": "жана дарыялар сыяктуу"
+    },
+    {
+      "surface": "יתגעשו",
+      "gloss": "толкундайт"
+    },
+    {
+      "surface": "מים",
+      "gloss": "суулары"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "жана айтты"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "Мен көтөрүлөм"
+    },
+    {
+      "surface": "אכסה",
+      "gloss": "жаап алам"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "жерди"
+    },
+    {
+      "surface": "אבידה",
+      "gloss": "жок кылам"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "шаарды"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "жана ичиндегилерди"
+    },
+    {
+      "surface": "בה",
+      "gloss": "анын"
+    }
+  ],
+  "timestamp": "2026-10-05T14:49:07.147414202Z",
+  "model": "glm-5.3"
+}

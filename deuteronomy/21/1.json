@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 21:1",
+  "book": "deuteronomy",
+  "lang": "ky",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "сайылган адам",
+      "rationale": "חלל — 'сандалган\/сайылган өлү'; көп котормолор жөн гана 'өлтүрүлгөн' деп жүтуп коёт"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨адам⟩",
+      "rationale": "חלל өзүнчө 'сандалган' деген тутумда; кыргызча 'адам' сөзү кошулду"
+    }
+  ],
+  "translation": "Эгер Яхве Элохиң сага ⟨את⟩ аны ээлөө үчүн берген жерде, талаага жыгылып жаткан сайылган ⟨адам⟩ табылса жана ким урганы белгисиз болсо,",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "155665aeda6c0c7eb5d3a392461b1cd0ca1678c7cd555bd2c52b3f0e5b579546",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/21\/1-4.1791205147230.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Эгер"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "табылса"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "сайылган"
+    },
+    {
+      "surface": "באדמה",
+      "gloss": "жерде"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Элохиң"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "берген"
+    },
+    {
+      "surface": "לך",
+      "gloss": "сага"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "ээлөө үчүн аны"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "жыгылып жаткан"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "талаага"
+    },
+    {
+      "surface": "לא",
+      "gloss": "эмес"
+    },
+    {
+      "surface": "נודע",
+      "gloss": "белгисиз"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ким"
+    },
+    {
+      "surface": "הכהו",
+      "gloss": "урганы"
+    }
+  ],
+  "timestamp": "2026-10-05T12:59:07.231027913Z",
+  "model": "glm-5.3"
+}

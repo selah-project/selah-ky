@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 37:4",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אהב \/ שנא",
+      "rationale": "сүйүү менен жек көрүүнүн карама-каршылыгы 3–4 аяттарда кайталанып турат — ата сүйөт, агалары жек көрөт"
+    },
+    {
+      "kind": "idiom",
+      "subject": "דברו לשלום",
+      "rationale": "буквалдуу «тынчтыкка сүйлөшкөн» — кыргызча «тынч сөз айтуу» идиомасы менен берилди"
+    }
+  ],
+  "translation": "Агалары атасы аны бардык бир туугандарынан ашык жактырганын көрүштү, жана аны ⟨את⟩ жек көрүштү, ага тынч сөз айта алышчу эмес.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "72b6973ed3bb683749f37a9efc5286c33fb0be434f30b0084174ae02a374dd18",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/37\/1-4.1791201516642.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "көрүштү"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "агалары"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…ганын"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "аны"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "жактырганын"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "атасы"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "бардык"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "бир туугандарынан"
+    },
+    {
+      "surface": "וישנאו",
+      "gloss": "жек көрүштү"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ аны",
+      "marks": "аны"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "жана … эмес"
+    },
+    {
+      "surface": "יכלу",
+      "gloss": "алышкан жок"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "сөз айта"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "тынч"
+    }
+  ],
+  "timestamp": "2026-10-05T11:58:36.643681573Z",
+  "model": "glm-5.3"
+}

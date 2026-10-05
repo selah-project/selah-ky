@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 31:30",
+  "book": "proverbs",
+  "lang": "ky",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "הבל",
+      "rationale": "'дем-убакыт' сөзү 'бекер нерсе' кылынды; литералдык «дем» мааниси жоголду."
+    },
+    {
+      "kind": "crux",
+      "subject": "תתהלל",
+      "rationale": "'даңкталат' (пассив) же 'өзүн даңктайт' — эки окуу бар."
+    }
+  ],
+  "translation": "Жагымдуулук — алдамча, сулуулук — бекер нерсе; Яхведен корккон аял — дал ошол даңкталат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "07edb7f87577324bea021f95e54fa2a37428de599886e4ee14f692a189de3177",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/31\/29-31.1791218486375.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שקר",
+      "gloss": "алдамча"
+    },
+    {
+      "surface": "החן",
+      "gloss": "жагымдуулук"
+    },
+    {
+      "surface": "והבל",
+      "gloss": "бекер нерсе"
+    },
+    {
+      "surface": "היפי",
+      "gloss": "сулуулук"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "аял"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "корккон"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхведен"
+    },
+    {
+      "surface": "היא",
+      "gloss": "дал ошол"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "даңкталат"
+    }
+  ],
+  "timestamp": "2026-10-05T16:41:26.376341623Z",
+  "model": "glm-5.3"
+}

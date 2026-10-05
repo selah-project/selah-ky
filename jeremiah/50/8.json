@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 50:8",
+  "book": "jeremiah",
+  "lang": "ky",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "качкыла, чыгкыла, болгула",
+      "rationale": "Бабылдан чыгууга багытталган үч императив — чакыруу"
+    },
+    {
+      "kind": "you",
+      "subject": "Исраил элине",
+      "rationale": "айтылган адресат — туткундагы эл, качууга чакырылат"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כעתודים לפני צאן",
+      "rationale": "эч ким баштабаган койлорду тизгиндеген эркек текелер — алдын ала билинбеген образ, эл баштоочулук кылсын деген чакыруу"
+    }
+  ],
+  "translation": "Бабылдын ортосунан качкыла, калдейлердин жеринен чыгкыла, жана койлордун алдында текелер сыяктуу болгула.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "ae20984ed204bbc34470735ddd9616be01060af876641dbfecb30157f0a9feee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/jeremiah\/50\/5-8.1791211942279.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נדו",
+      "gloss": "качкыла"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "ортосунан"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Бабылдын"
+    },
+    {
+      "surface": "ומארץ",
+      "gloss": "жана жеринен"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "калдейлердин"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "чыгкыла"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "жана болгула"
+    },
+    {
+      "surface": "כעתודים",
+      "gloss": "текелер сыяктуу"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "алдында"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "койлор"
+    }
+  ],
+  "timestamp": "2026-10-05T14:52:22.281006730Z",
+  "model": "glm-5.3"
+}

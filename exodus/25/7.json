@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 25:7",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "מלאים",
+      "rationale": "милуим — 'коюлчу таштар' көп сандагы сейрек сөз, так мааниси 'толтурулган, орнотулган'."
+    },
+    {
+      "kind": "crux",
+      "subject": "שהם",
+      "rationale": "шохам ташынын түрү так эмес: оникс же берилл сунушталат, аты бойдон калды."
+    }
+  ],
+  "translation": "шохам таштары жана коюлчу таштар — эфод үчүн жана хошен үчүн.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "ce374d366a2422946f1f8f97cc652ca891669dfe885052eeb4aaad6b2a1594a4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/25\/7-8.1791223554096.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אבני",
+      "gloss": "таштары"
+    },
+    {
+      "surface": "שהם",
+      "gloss": "шохам"
+    },
+    {
+      "surface": "ואבני",
+      "gloss": "жана таштар"
+    },
+    {
+      "surface": "מלאים",
+      "gloss": "коюлчу"
+    },
+    {
+      "surface": "לאפד",
+      "gloss": "эфод үчүн"
+    },
+    {
+      "surface": "ולחשן",
+      "gloss": "жана хошен үчүн"
+    }
+  ],
+  "timestamp": "2026-10-05T18:05:54.096788795Z",
+  "model": "glm-5.3"
+}

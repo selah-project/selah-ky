@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 28:4",
+  "book": "deuteronomy",
+  "lang": "ky",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "עשתרות",
+      "rationale": "Сөз «көбөйүү, туу» деген мааниде, бирок үн ашер — Ашторет кудайынын аты менен жакындашат; кээ бир котормочулар байланышты баса белгилейт"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "при — үч жолу",
+      "rationale": "«Мөмөсү» үч сапта кайталанып, берекеттин үч чөйрөсүн (тукум, жер, мал) бириктирет"
+    }
+  ],
+  "translation": "Бактылуу ичегиңдин мөмөсү, жана жериңдин мөмөсү, жана малыңдын мөмөсү — уйларыңдын төлү жана койлоруңдун көбөйүшү.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "21703a1de4c5c76889f90533aabee9bce3b6a78509f504cbd8998e0c2c42a2d4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/28\/1-4.1791205336607.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Бактылуу"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "мөмөсү"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "ичегиңдин"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "жана мөмөсү"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "жериңдин"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "жана мөмөсү"
+    },
+    {
+      "surface": "בהמתך",
+      "gloss": "малыңдын"
+    },
+    {
+      "surface": "שגר",
+      "gloss": "төлү"
+    },
+    {
+      "surface": "אלפיך",
+      "gloss": "уйларыңдын"
+    },
+    {
+      "surface": "ועשתרות",
+      "gloss": "жана көбөйүшү"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "койлоруңдун"
+    }
+  ],
+  "timestamp": "2026-10-05T13:02:16.608617210Z",
+  "model": "glm-5.3"
+}

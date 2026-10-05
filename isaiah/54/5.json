@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 54:5",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 54,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Куткаруучу",
+      "rationale": "גואל — туугандык укук боюнча жакын тууган, кудай менен карызын төлөп бошотуучу; «куткаруучу» роли катары берилди"
+    },
+    {
+      "kind": "crux",
+      "subject": "бүт жердин Элохими",
+      "rationale": "יקרא аяктык аталыш: «бүт жердин Элохими деп аталат» же «ал бүт жердин Элохими болот» деген варианттар бар"
+    }
+  ],
+  "translation": "Анткени сенин күйөөң — сени жараткан Яхве Цебаот, анын ысымы ошол, жана сенин Куткаруучуң — Ыйык Йисраэл, бүт жердин Элохими деп аталат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "e7d414f47096a4f253e65e462e261a681cb96d6a240a59df6707c891915566fb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/54\/5-8.1791210375605.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "בעליך",
+      "gloss": "сенин күйөөң"
+    },
+    {
+      "surface": "עשיך",
+      "gloss": "сени жараткан"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цебаот"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "анын ысымы"
+    },
+    {
+      "surface": "וגאלך",
+      "gloss": "жана сенин Куткаруучуң"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Ыйык"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэл"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Элохими"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүт"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "жердин"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "деп аталат"
+    }
+  ],
+  "timestamp": "2026-10-05T14:26:15.606123581Z",
+  "model": "glm-5.3"
+}

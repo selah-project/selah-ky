@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 17:3",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "על פניו",
+      "rationale": "«Анын жүзүнө» — бошонуу жана сый-урмат идиомасы; кыргызча «жүзү бүтүндөй жыгылды»."
+    },
+    {
+      "kind": "crux",
+      "subject": "אתו",
+      "rationale": "Бул жерде את — H854 «менен» предлогу, H853 объектилик белгиси эмес; структуралык талап боюнча ⟨את⟩ сакталды."
+    }
+  ],
+  "translation": "Жана Аврам жүзү бүтүндөй жыгылды, жана Элохим ⟨את⟩ аны менен сүйлөштү, мындай деп:",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "c3f455925860c7df0473f4311fd73884dc70291116a043b520133c978c318489",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/17\/2-3.1791223591989.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "жыгылды"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Аврам"
+    },
+    {
+      "surface": "על",
+      "gloss": "жүзү бүтүндөй"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "жүзүнө"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "сүйлөштү"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "аны менен"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "мындай деп"
+    }
+  ],
+  "timestamp": "2026-10-05T18:06:31.990101780Z",
+  "model": "glm-5.3"
+}

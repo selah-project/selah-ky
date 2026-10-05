@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 23:15",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "төрт жүз шекел күмүш",
+      "rationale": "Баа өлчөмү: талаанын наркы төрт жүз шекел күмүш деп саналат."
+    },
+    {
+      "kind": "idiom",
+      "subject": "מה הוא ביני ובינך",
+      "rationale": "«Менин жана сенин ортоңдагы эмне гана?» — еврейче кайрымдуулук идиомасы: бул чакан сумма деген маани."
+    },
+    {
+      "kind": "you",
+      "subject": "Эфрон Аврахамга",
+      "rationale": "Эфрон Аврахамга түз кайрылат: «Мырзам, мени уккула»."
+    }
+  ],
+  "translation": "Мырзам, мени уккула: жер төрт жүз шекел күмүш турат — менин жана сенин ортоңдагы эмне гана? Сен ⟨את⟩ өлгөнүңдү көмгула.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "d24cd75364b275d884ce75ebe797df1be05c710570fb1cce1de5f5ef114f5af1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/23\/13-16.1791201085251.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Мырзам"
+    },
+    {
+      "surface": "שמעני",
+      "gloss": "мени уккула"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "жер"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "төрт"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "жүз"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "шекел"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "күмүш"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "менин"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "сенин ортоңдагы"
+    },
+    {
+      "surface": "מה",
+      "gloss": "эмне"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "гана"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "жана ⟨את⟩",
+      "marks": "өлгөнүңдү"
+    },
+    {
+      "surface": "מתך",
+      "gloss": "өлгөнүңдү"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "көмгула"
+    }
+  ],
+  "timestamp": "2026-10-05T11:51:25.252115870Z",
+  "model": "glm-5.3"
+}

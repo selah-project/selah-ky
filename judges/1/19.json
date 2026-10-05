@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "judges 1:19",
+  "book": "judges",
+  "lang": "ky",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "את יהודה",
+      "rationale": "Бул жерде את — «менен» деген жандооч; ⟨…⟩ белгиси менен берилди, анткени кыргызча жандооч кошулду."
+    },
+    {
+      "kind": "crux",
+      "subject": "כי ... לא",
+      "rationale": "«анткени ал кууп чыга алган жок» же «бирок»; ким кууп чыккан жок — Яхве же Йегуда деген талаш бар."
+    }
+  ],
+  "translation": "Жана Яхве ⟨את⟩ Йегуда менен болду, жана ал ⟨את⟩ тоону ээлеп алды, бирок өрөөндүн ⟨את⟩ жашоочуларын кууп чыга алган жок, анткени алардын темир арабалары бар эле.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "290862e9a05af5639074b8211d654953005dcbf5ebb379d23f7a2e84bd7a776f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/judges\/1\/17-20.1791206046253.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "болду"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ⟨менен⟩"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Йегуда"
+    },
+    {
+      "surface": "וירש",
+      "gloss": "ээлеп алды"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "тоо"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "тоону"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бирок"
+    },
+    {
+      "surface": "לא",
+      "gloss": "алган жок"
+    },
+    {
+      "surface": "להוריש",
+      "gloss": "кууп чыга"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "жашоочулары"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "жашоочуларын"
+    },
+    {
+      "surface": "העמק",
+      "gloss": "өрөөндүн"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "арбалары"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "темир"
+    },
+    {
+      "surface": "להם",
+      "gloss": "алардын"
+    }
+  ],
+  "timestamp": "2026-10-05T13:14:06.254533893Z",
+  "model": "glm-5.3"
+}

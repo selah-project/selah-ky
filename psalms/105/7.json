@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 105:7",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨бул⟩",
+      "rationale": "кыргызский требует связки, еврейский текст её не имеет"
+    },
+    {
+      "kind": "addition",
+      "subject": "связка",
+      "rationale": "во второй части стиха именное предложение без глагола"
+    }
+  ],
+  "translation": "Ал ⟨бул⟩ Яхве, биздин Элохимубуз; бүт жерде Анын өкүмдөрү.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "f9375e1b687a7059db0197c0fb73fffc6371e415f950beb4ed1390fbe2cc10b5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/105\/5-8.1791217076857.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Ал"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "биздин Элохимубуз"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "бүт"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "жерде"
+    },
+    {
+      "surface": "משפטיו",
+      "gloss": "Анын өкүмдөрү"
+    }
+  ],
+  "timestamp": "2026-10-05T16:17:56.860130003Z",
+  "model": "glm-5.3"
+}

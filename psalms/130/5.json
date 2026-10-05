@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 130:5",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 130,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "קויתי\/קותה",
+      "rationale": "קוה этиши эки жолу кайталанат — күтүүнүн күчү; кыргызча «күтөм\/күтөт» деген кайталоо менен берилди."
+    },
+    {
+      "kind": "substitution",
+      "subject": "жаныым",
+      "rationale": "נפש — «дем алуучу жандык, жашоо күчү»; «жан» — жакын, бирок бирдей эмес."
+    }
+  ],
+  "translation": "Күтөм Яхвени, күтөт жаныым, жана Анын сөзүнө үмүт менен күтөм.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "3696f5af547dcfc3c015564eab1208db384e056e1d7c5f57c7aadb843fdc2e37",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/130\/5-8.1791217477510.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קויתי",
+      "gloss": "Күтөм"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвени"
+    },
+    {
+      "surface": "קותה",
+      "gloss": "күтөт"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "жаныым"
+    },
+    {
+      "surface": "ולדברו",
+      "gloss": "жана-Анын-сөзүнө"
+    },
+    {
+      "surface": "הוחלתי",
+      "gloss": "үмүт-менен-күтөм"
+    }
+  ],
+  "timestamp": "2026-10-05T16:24:37.511597217Z",
+  "model": "glm-5.3"
+}

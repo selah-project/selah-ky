@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 18:17",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "кайнена",
+      "rationale": "חתן туугандык мамилесин билдирет — 'кайненa' аталышы, титул эмес"
+    },
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "rationale": "кыргызча салыштырма атооч мүчө (-ган) менен берилди, өзүнчө сөз жок"
+    }
+  ],
+  "translation": "Мошенин кайненасы ага айтты: Сен жасап жаткан иш жакшы эмес.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "904584ff265917df7da43c1dd71bb2889f05b0fdfe3ce740ed80cf750d7055db",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/18\/17-20.1791202241121.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Жана айтты"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "кайнена"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Мошенин"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ага"
+    },
+    {
+      "surface": "לא",
+      "gloss": "эмес"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "жакшы"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "иш"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "‑ган"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "сен"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "жасап жаткан"
+    }
+  ],
+  "timestamp": "2026-10-05T12:10:41.122378207Z",
+  "model": "glm-5.3"
+}

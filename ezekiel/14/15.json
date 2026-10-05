@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 14:15",
+  "book": "ezekiel",
+  "lang": "ky",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жансыз калтырса",
+      "rationale": "ושכלתה — «баласынан ажыратуу, куртка калтыруу» деген тамыр; жердин перзенттери жок болот деген сүрөт."
+    },
+    {
+      "kind": "idiom",
+      "subject": "מפני",
+      "rationale": "«жүзүнөн» — еврейче «ашкере беттин алдында» деген маани «коркунучунан» дегенди билдирет."
+    }
+  ],
+  "translation": "Эгерде Мен жерге жаман жаныбар өткөрсөм жана ал аны жансыз калтырса, жер жаныбардын жүзүнөн өтүүчүсүз чөлгө айланат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "9ada75d7026277a8bce8fbae95557a9db7684eec9b55b682374edd127488af07",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ezekiel\/14\/13-16.1791212476361.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לו",
+      "gloss": "эгерде"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "жаныбар"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "жаман"
+    },
+    {
+      "surface": "אעביר",
+      "gloss": "өткөрсөм"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "жерге"
+    },
+    {
+      "surface": "ושכלתה",
+      "gloss": "жансыз калтырса"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "болот"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "чөл"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "жок"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "өтүүчү"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "жүзүнөн"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "жаныбардын"
+    }
+  ],
+  "timestamp": "2026-10-05T15:01:16.362704829Z",
+  "model": "glm-5.3"
+}

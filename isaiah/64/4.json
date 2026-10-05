@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 64:4",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 64,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "פגעת",
+      "rationale": "JPS 'алдың алып' (каршы алдың) — KJV башка бөлүккө кошот; 'жолуктуң\/жок кылдың' деген альтернатива бар"
+    },
+    {
+      "kind": "crux",
+      "subject": "בהם עולם",
+      "rationale": "'ошол жолдордо бир топ убакыт' — KJV 'in them is continuance'; түшүнүксүз түзүлүш"
+    },
+    {
+      "kind": "substitution",
+      "subject": "цедек",
+      "rationale": "צדק сөзү которулбайт — 'адилеттик' гана эмес, туура турмуш мааниси бар"
+    }
+  ],
+  "translation": "Сен ⟨את⟩ кубанычтууну жана цедек кылганды жолуңда эстегенди каршы алдың; мына, Сен ачууландың, жана биз күнөө кылдык; ошол жолдордо ⟨биз⟩ байыркы убакта болобуз да, куткарылабыз.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "fe4dfc82da3d97c8f4d128d680314a8745bc027acab1784efe46624721794721",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/64\/1-4.1791210535007.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פגעת",
+      "gloss": "каршы алдың"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "кубанычтууну"
+    },
+    {
+      "surface": "שש",
+      "gloss": "кубанычтууну"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "жана кылганды"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "цедек"
+    },
+    {
+      "surface": "בדרכיך",
+      "gloss": "жолуңда"
+    },
+    {
+      "surface": "יזכרוך",
+      "gloss": "эстегенди"
+    },
+    {
+      "surface": "הן",
+      "gloss": "мына"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Сен"
+    },
+    {
+      "surface": "קצפת",
+      "gloss": "ачууландың"
+    },
+    {
+      "surface": "ונחטא",
+      "gloss": "жана күнөө кылдык"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ошол жолдордо"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "байыркы убакта"
+    },
+    {
+      "surface": "ונושע",
+      "gloss": "куткарылабыз"
+    }
+  ],
+  "timestamp": "2026-10-05T14:28:55.008965241Z",
+  "model": "glm-5.3"
+}

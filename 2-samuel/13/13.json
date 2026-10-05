@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 13:13",
+  "book": "2-samuel",
+  "lang": "ky",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "болсо",
+      "rationale": "ивритте жок контрасттив белгиси, кыргызча эмфаза үчүн кошулду"
+    },
+    {
+      "kind": "crux",
+      "subject": "кайда алып барайын",
+      "rationale": "אנה אוליך: 'кайда алып барам' — риторикалык суроо, жооп күтүлбөйт"
+    },
+    {
+      "kind": "you",
+      "subject": "Тамар Амнонго",
+      "rationale": "Тамардын андан баш тартуу өтүнүчү, түз кайрылуу"
+    }
+  ],
+  "translation": "Мен болсо, ⟨את⟩ кордугумду кайда алып барайын? Сен болсо Йисраэлдеги наадайлардын бирине окшош болуп каласың. Эми, сураныч, падышага айт, анткени ал мени сенден кармабайт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "2496d8f639a5dc886c2bcfbe91c6ec9c8e5c1283ac95f9f8883eda7ab9970723",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-samuel\/13\/13-16.1791207555642.json",
+    "code": "641241cf-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Мен болсо"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "кайда"
+    },
+    {
+      "surface": "אוליך",
+      "gloss": "алып барайын"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "кордугумду"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "кордугумду"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "сен болсо"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "болосуң"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "бирине окшош"
+    },
+    {
+      "surface": "הנבלים",
+      "gloss": "наадайлардын"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Йисраэлдеги"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "эми"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "айт"
+    },
+    {
+      "surface": "נא",
+      "gloss": "сураныч"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-га"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "падыша"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "לא",
+      "gloss": "эмес"
+    },
+    {
+      "surface": "ימנעני",
+      "gloss": "кармабайт"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "сенден"
+    }
+  ],
+  "timestamp": "2026-10-05T13:39:15.643000792Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 97:2",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 97,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Анын",
+      "rationale": "Кыргызча ээлик мамилеси үчүн ⟨Анын⟩ жана «пайдубалы» түшүндүрмөсү кошулду; кашаасыз — тизмелеш конструктор «тактысынын пайдубалы» түзүлүшүнө айланды."
+    },
+    {
+      "kind": "crux",
+      "subject": "מכון",
+      "rationale": "«пайдубал» (ASV\/JPS) же «жайлашкан жери» (KJV «habitation»); сөздүн өзү «бекем негиз, орун» деген."
+    }
+  ],
+  "translation": "Булут жана караңгылык Анын тегерегинде, цедек жана өкүм Анын тактысынын пайдубалы.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "6132a85d5aeea181f6f17975a173e10a5836314319f892a36c13ee769dc04cf5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/97\/1-4.1791216892527.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ענן",
+      "gloss": "булут"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "жана караңгылык"
+    },
+    {
+      "surface": "סביביו",
+      "gloss": "Анын тегерегинде"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "цедек"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "жана өкүм"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "пайдубалы"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "Анын тактысынын"
+    }
+  ],
+  "timestamp": "2026-10-05T16:14:52.528010204Z",
+  "model": "glm-5.3"
+}

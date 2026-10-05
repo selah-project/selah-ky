@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 2:13",
+  "book": "1-kings",
+  "lang": "ky",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "тынч",
+      "rationale": "השלום\/שלום — шалом «тынчтык, эсендик» деген сөз; суроо-жооп шалом менен бүтөт"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "השלום\/שלום",
+      "rationale": "Шалом сөзү суроода да, жоопто да кайталанат — риторикалык кайталоо"
+    },
+    {
+      "kind": "you",
+      "subject": "Бат-Шебага",
+      "rationale": "Адонийа Бат-Шебага түз кайрылат"
+    }
+  ],
+  "translation": "Адонийа, Хаггиттин уулу, Шломонун энеси Бат-Шебага келди. Ал аял: «Келүүң тынчпы?» — деди. Ал: «Тынч», — деди.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "821f81cb60b100be09e801f68e96ef2d54e7a9d5349f971f72540a75bf0b53c1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-kings\/2\/13-16.1791207971804.json",
+    "code": "641241cf-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "келди"
+    },
+    {
+      "surface": "אדניהו",
+      "gloss": "Адонийа"
+    },
+    {
+      "surface": "בן",
+      "gloss": "уулу"
+    },
+    {
+      "surface": "חגית",
+      "gloss": "Хаггиттин"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…га"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Бат-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Шебага"
+    },
+    {
+      "surface": "אם",
+      "gloss": "энеси"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шломонун"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "ал аял айтты"
+    },
+    {
+      "surface": "השלום",
+      "gloss": "тынчпы"
+    },
+    {
+      "surface": "באך",
+      "gloss": "келүүң"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ал айтты"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "тынч"
+    }
+  ],
+  "timestamp": "2026-10-05T13:46:11.805299624Z",
+  "model": "glm-5.3"
+}

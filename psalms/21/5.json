@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 21:5",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨аны⟩",
+      "rationale": "Ивритте тике объект белгиси жок, кыргызча ачык айтуу үчүн кошулду"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עולם ועד",
+      "rationale": "Эки синонимдүү убакыт сөзүнүн кайталоосу — «түбөлүк жана дайыма», кыргызча бир эле сөз менен берилди"
+    }
+  ],
+  "translation": "Сенден өмүр сурады, Сен ага ⟨аны⟩ бердиң — күндөрдүн узактыгын, толук өмүр боюна, түбөлүккө.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "9140d3c7680f8657d0052707d2e345ceeb481beecb6969b3c1527dbe66c04aad",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/21\/5-8.1791215588661.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חיים",
+      "gloss": "өмүр"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "сурады"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "сенден"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "бердиң"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ага"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "узактыгын"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "күндөрдүн"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "түбөлүккө"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "жана-түбөлүк"
+    }
+  ],
+  "timestamp": "2026-10-05T15:53:08.661871676Z",
+  "model": "glm-5.3"
+}

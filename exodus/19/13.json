@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 19:13",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "סקול יסקל",
+      "rationale": "Инфинитивдин абсолюттуу кайталоосу — «албаты ташталат» деген бекемдөө; кыргызча «таш барк этилет» деп берилди."
+    },
+    {
+      "kind": "substitution",
+      "subject": "йовел",
+      "rationale": "היבל — кочкордун карнысынын узун үнү; кийин «жубилей» деген атка айланган сөз."
+    },
+    {
+      "kind": "elision",
+      "subject": "במשך",
+      "rationale": "«Тартуу\/чertүү» деген тамыр «үнү узаганда» деген туюлма менен берилди."
+    }
+  ],
+  "translation": "Ага кол тийгизилбесин, анткени ал таш барк этилет же жебе менен атылат; мал болобу, адам болобу — жашабайт; йовелдин үнү узаганда алар тоого чыгышат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "f44a019e4fb83735145b00c9c7f001bc980c12004bfd3329979dfc71dfd20e9d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/19\/13-16.1791202201562.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "תגע",
+      "gloss": "тийгизилбесин"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ага"
+    },
+    {
+      "surface": "יד",
+      "gloss": "кол"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "סקול",
+      "gloss": "таш барк"
+    },
+    {
+      "surface": "יסקל",
+      "gloss": "этилет"
+    },
+    {
+      "surface": "או",
+      "gloss": "же"
+    },
+    {
+      "surface": "ירה",
+      "gloss": "атылат"
+    },
+    {
+      "surface": "יירה",
+      "gloss": "жебе менен атылат"
+    },
+    {
+      "surface": "אם",
+      "gloss": "болобу"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "мал"
+    },
+    {
+      "surface": "אם",
+      "gloss": "болобу"
+    },
+    {
+      "surface": "איש",
+      "gloss": "адам"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "жашабайт"
+    },
+    {
+      "surface": "במשך",
+      "gloss": "үнү узаганда"
+    },
+    {
+      "surface": "היבל",
+      "gloss": "йовелдин"
+    },
+    {
+      "surface": "המה",
+      "gloss": "алар"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "чыгышат"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "тоого"
+    }
+  ],
+  "timestamp": "2026-10-05T12:10:01.563547844Z",
+  "model": "glm-5.3"
+}

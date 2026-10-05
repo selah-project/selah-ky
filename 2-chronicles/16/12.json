@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 16:12",
+  "book": "2-chronicles",
+  "lang": "ky",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "отуз тогузунчу жыл",
+      "rationale": "падышачылыктын жылы эсепке алынат"
+    },
+    {
+      "kind": "crux",
+      "subject": "עד למעלה",
+      "rationale": "сөзмө-сөз «жогору чейин» — «өтө оор болгонго чейин» же «өлгөнгө чейин» деген чечмелөөлөр бар"
+    },
+    {
+      "kind": "substitution",
+      "subject": "דרש",
+      "rationale": "«издеди\/артынан жүрдү» — Яхвеге кайрылуунун салттуу идиомасы"
+    }
+  ],
+  "translation": "Аса өз падышачылыгынын отуз тогузунчу жылында буттарында ооруп калды, оорусу өтө оор болгонго чейин; ошондой эле оорусунда да ал Яхвени ⟨את⟩ издеген жок, анткени дарыгерлерден издеди.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "08f198e1710aeb747a7ae9759d89a5ce523faea7a582f32a034497206961695a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-chronicles\/16\/9-12.1791222913940.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחלא",
+      "gloss": "ооруп калды"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Аса"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "жылында"
+    },
+    {
+      "surface": "שלושים",
+      "gloss": "отуз"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "тогуз"
+    },
+    {
+      "surface": "למלכותו",
+      "gloss": "падышачылыгынын"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "буттарында"
+    },
+    {
+      "surface": "עד",
+      "gloss": "чейин"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "өтө"
+    },
+    {
+      "surface": "חליו",
+      "gloss": "оорусу"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ошондой эле"
+    },
+    {
+      "surface": "בחליו",
+      "gloss": "оорусунда"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "издеген"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яхвени"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвени"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "ברפאים",
+      "gloss": "дарыгерлерден"
+    }
+  ],
+  "timestamp": "2026-10-05T17:55:13.941821308Z",
+  "model": "glm-5.3"
+}

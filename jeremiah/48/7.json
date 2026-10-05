@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 48:7",
+  "book": "jeremiah",
+  "lang": "ky",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "тыйык кызмат кылуучу",
+      "rationale": "כהן — Кемоштун ыйык кызмат кылуучусу; «диний кызматкер» деген класс эмес, кызматтын сүрөтү."
+    },
+    {
+      "kind": "addition",
+      "subject": "өз",
+      "rationale": "Кемоштун ыйык кызмат кылуучулары экенин тактоо үчүн «өз» сөзү берилди (Hebrew притяжательная форма)."
+    }
+  ],
+  "translation": "Себеби өз иштериңе жана казыналарыңа таянганың үчүн сен да кармаласың, жана Кемош өз ыйык кызмат кылуучулары менен өз башкаруучулары бирге сүргүнгө чыгат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "1bd702915308c080e1922b71845522e5735df76a06fd7ae090e738d852032e34",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/jeremiah\/48\/5-8.1791211818642.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "себеби"
+    },
+    {
+      "surface": "יען",
+      "gloss": "…үчүн"
+    },
+    {
+      "surface": "בטחך",
+      "gloss": "таянганың"
+    },
+    {
+      "surface": "במעשיך",
+      "gloss": "өз иштериңе"
+    },
+    {
+      "surface": "ובאוצרותיך",
+      "gloss": "жана казыналарыңа"
+    },
+    {
+      "surface": "גם",
+      "gloss": "да"
+    },
+    {
+      "surface": "את",
+      "gloss": "сен"
+    },
+    {
+      "surface": "תלכדי",
+      "gloss": "кармаласың"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "жана … чыгат"
+    },
+    {
+      "surface": "כמיש",
+      "gloss": "Кемош"
+    },
+    {
+      "surface": "בגולה",
+      "gloss": "сүргүнгө"
+    },
+    {
+      "surface": "כהניו",
+      "gloss": "өз ыйык кызмат кылуучулары"
+    },
+    {
+      "surface": "ושריו",
+      "gloss": "жана өз башкаруучулары"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "бирге"
+    }
+  ],
+  "timestamp": "2026-10-05T14:50:18.644064961Z",
+  "model": "glm-5.3"
+}

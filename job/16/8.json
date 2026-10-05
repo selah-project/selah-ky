@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 16:8",
+  "book": "job",
+  "lang": "ky",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ותקמטני",
+      "rationale": "KJV\/JPS ‹бырыштырдың› (каррыккан терини сүрөттөйт), ASV ‹катып кармадың› — лителалдык мааниси талаштуу"
+    },
+    {
+      "kind": "substitution",
+      "subject": "כחשי",
+      "rationale": "Сөз ‹эттин жоктугу› — арыкташ; кээ бир котормолор ‹жалганчылык› (моралдык маани) деп алышат"
+    },
+    {
+      "kind": "addition",
+      "subject": "Сен",
+      "rationale": "Ивритте субъект жок — витик жактын аялдык формасы гана Сенди көрсөтөт"
+    }
+  ],
+  "translation": "Жана ⟨Сен⟩ мени бырыштырдың — кубарлактыкка айланды, жана арыктыгым мага каршы туруп, бетиме каршы күбөлөк кылат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "2b6058477af1c51aa8945a59328f7198c46bc683b356ae84f066428ba4864521",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/job\/16\/5-8.1791218908728.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותקמטני",
+      "gloss": "жана-бырыштырдың-мени"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "кубарлактыкка"
+    },
+    {
+      "surface": "היה",
+      "gloss": "айланды"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "жана-туруп"
+    },
+    {
+      "surface": "בי",
+      "gloss": "мага-каршы"
+    },
+    {
+      "surface": "כחשי",
+      "gloss": "арыктыгым"
+    },
+    {
+      "surface": "בפני",
+      "gloss": "бетиме-каршы"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "күбөлөк-кылат"
+    }
+  ],
+  "timestamp": "2026-10-05T16:48:28.729527639Z",
+  "model": "glm-5.3"
+}

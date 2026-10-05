@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "leviticus 14:54",
+  "book": "leviticus",
+  "lang": "ky",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨—⟩",
+      "rationale": "Кыргыз тилинде ээлик байланыш үчүн кошулчу белги; еврейче жок"
+    },
+    {
+      "kind": "substitution",
+      "subject": "цараат",
+      "rationale": "צרעת — термин катары айтылышы боюнча сакталды; 'проказа' деген медициналык аталыш эмес"
+    }
+  ],
+  "translation": "Бул — ар бир жарааттын, царааттын жана натактын Торасы.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "6f488ff715578c94b3a1054d484d5f471288246f2b65cbc9925e17dde7764593",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/14\/53-56.1791203086992.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Бул"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Тора"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ар бир"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "жарааттын"
+    },
+    {
+      "surface": "הצרעת",
+      "gloss": "царааттын"
+    },
+    {
+      "surface": "ולנתק",
+      "gloss": "жана натактын"
+    }
+  ],
+  "timestamp": "2026-10-05T12:24:46.993325323Z",
+  "model": "glm-5.3"
+}

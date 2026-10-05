@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 18:12",
+  "book": "numbers",
+  "lang": "ky",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "эӊ жакшысы",
+      "rationale": "חלב латында «май», бул жерде «эң жакшы, таза бөлүгү» деген мааниде"
+    },
+    {
+      "kind": "addition",
+      "subject": "нерселер",
+      "rationale": "אשер байламтасы кыргызча атооч талап кылат"
+    }
+  ],
+  "translation": "Жарык майдын бардык эӊ жакшысы, жаңы шараптын жана дандын бардык эӊ жакшысы — алардын алгачкы түшүмдөрү, алар Яхвеге берген нерселер — сага бердим.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "39d83533cd78079dc6f863f9860ab51678f75e536738270b83267cd983e126c0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/numbers\/18\/9-12.1791204024323.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "бардык"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "эӊ жакшысы"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "жарык майдын"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "жана бардык"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "эӊ жакшысы"
+    },
+    {
+      "surface": "תירוש",
+      "gloss": "жаңы шараптын"
+    },
+    {
+      "surface": "ודגן",
+      "gloss": "жана дандын"
+    },
+    {
+      "surface": "ראשיתם",
+      "gloss": "алгачкы түшүмдөрү"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "алар"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "берген"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхвеге"
+    },
+    {
+      "surface": "לך",
+      "gloss": "сага"
+    },
+    {
+      "surface": "נתתים",
+      "gloss": "бердим"
+    }
+  ],
+  "timestamp": "2026-10-05T12:40:24.325024643Z",
+  "model": "glm-5.3"
+}

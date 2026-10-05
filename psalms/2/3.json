@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 2:3",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "мөсэротим \/ авотим",
+      "rationale": "байлам жана аркан — бийлик жана чектөөнүн образы; буга чейинки аяттагы падышалардын сөзү катары берилди"
+    },
+    {
+      "kind": "addition",
+      "subject": "«»",
+      "rationale": "бул аят 2:2 дөгү кеңештин сөзү — кыргызча тырмакча кошулду"
+    }
+  ],
+  "translation": "«Алардын байламдарын ⟨את⟩ үзөлү, бизден алардын аркандарын таштайлы».",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "da8a75b40a107b51d77aecac28add6566eac14ccbded1c29b7ae567704b28035",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/2\/1-4.1791215320419.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ננתקה",
+      "gloss": "үзөлү"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "байламдарын"
+    },
+    {
+      "surface": "מוסרותימו",
+      "gloss": "алардын байламдарын"
+    },
+    {
+      "surface": "ונשליכה",
+      "gloss": "жана таштайлы"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "бизден"
+    },
+    {
+      "surface": "עבתימו",
+      "gloss": "алардын аркандарын"
+    }
+  ],
+  "timestamp": "2026-10-05T15:48:40.420577618Z",
+  "model": "glm-5.3"
+}

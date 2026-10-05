@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 37:1",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "rationale": "Еврейче «ачык эле» болтоо сөзү кыргызча этиштин «-ба» мүчөсүнө сиңди"
+    },
+    {
+      "kind": "invitation",
+      "subject": "каарданба, кызганба",
+      "rationale": "Аят окурманга багытталган буйрук менен башталат"
+    }
+  ],
+  "translation": "Давидге таандык. Жамандык кылгандарга каарданба, залымдык кылуучуларга кызганба.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "2fb92fe0b5b9a22c03a7f2fe40733beeaa14e477302e81f9dfacd73e3f5316ec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/37\/1-4.1791215886088.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Давидге таандык"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ба"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "каардан"
+    },
+    {
+      "surface": "במרעים",
+      "gloss": "жамандык кылгандарга"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ба"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "кызган"
+    },
+    {
+      "surface": "בעשי",
+      "gloss": "залымдык кылуучуларга"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "залымдык"
+    }
+  ],
+  "timestamp": "2026-10-05T15:58:06.089553229Z",
+  "model": "glm-5.3"
+}

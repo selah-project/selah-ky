@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 15:25",
+  "book": "job",
+  "lang": "ky",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Эл",
+      "rationale": "אֵל 'кубат' деген сөз Элохим эмес, жөнөкөй 'Эл' түрүндө каралды"
+    },
+    {
+      "kind": "alternative",
+      "subject": "өзүн күчтүү кылды",
+      "rationale": "יתגבר ошондой эле 'текеберленип иш кылды' дегенди билдириши мүмкүн"
+    }
+  ],
+  "translation": "анткени ал Эл үстүнө колун сунду жана Шаддайдын үстүнө өзүн күчтүү кылды.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "5ec23ff52b7d8459c06b636b6d2235e6251f95f4be6e0ebfa915365ade9ab0c1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/job\/15\/25-28.1791218926276.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "сунду"
+    },
+    {
+      "surface": "אל",
+      "gloss": "үстүнө"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эл"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "колун"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "жана үстүнө"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Шаддайдын"
+    },
+    {
+      "surface": "יתגבר",
+      "gloss": "өзүн күчтүү кылды"
+    }
+  ],
+  "timestamp": "2026-10-05T16:48:46.277268902Z",
+  "model": "glm-5.3"
+}

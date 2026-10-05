@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 2:1",
+  "book": "jonah",
+  "lang": "ky",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "үч күн жана үч түн",
+      "rationale": "Йонанын балыктын ичинде болгон мөөнөтүнүн так эсеби."
+    },
+    {
+      "kind": "elision",
+      "subject": "את",
+      "rationale": "עבрык тилинин түз объект маркери ⟨את⟩ катары сакталды."
+    }
+  ],
+  "translation": "Жана Яхве Йонаны жутуу үчүн чоң балыкты дайындады, жана ⟨את⟩ Йона балыктын ичинде үч күн жана үч түн болду.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "118e8c25bb755b9b1bb5b1e3152ed62f6bef5e7c9c225726f5754065ba2f1e62",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/jonah\/2\/1-4.1791214466272.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימן",
+      "gloss": "дайындады"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "דג",
+      "gloss": "балык"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "чоң"
+    },
+    {
+      "surface": "לבלע",
+      "gloss": "жутуу үчүн"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Йонаны"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Йона"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "болду"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Йона"
+    },
+    {
+      "surface": "במעי",
+      "gloss": "ичинде"
+    },
+    {
+      "surface": "הדג",
+      "gloss": "балыктын"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "үч"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "күн"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "жана үч"
+    },
+    {
+      "surface": "לילות",
+      "gloss": "түн"
+    }
+  ],
+  "timestamp": "2026-10-05T15:34:26.273075081Z",
+  "model": "glm-5.3"
+}

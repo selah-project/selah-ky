@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 128:1",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 128,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אשרי",
+      "rationale": "Мактау междометие «кандай бактылуу» — эсепсиз көптүк формада, бүт өрөөлдөр ырларынын байланыштыруучу сөзү."
+    },
+    {
+      "kind": "addition",
+      "subject": "Анын",
+      "rationale": "Ивритте «жолдорунда» дегенде ээлик жок, кыргызча тактык үчүн кошулду."
+    }
+  ],
+  "translation": "Өрөөлдөр ыры. Кандай бактылуу ар ким Яхведен корксо, Анын жолдорунда басса!",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "d7566107d30fc2a0d4cee36675931758fde9a219fd50cc777995d4bd37a500fa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/128\/1-4.1791217431816.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "ыры"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "Өрөөлдөр"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "Кандай бактылуу"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ар ким"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "корксо"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхведен"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "басса"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "Анын жолдорунда"
+    }
+  ],
+  "timestamp": "2026-10-05T16:23:51.817144410Z",
+  "model": "glm-5.3"
+}

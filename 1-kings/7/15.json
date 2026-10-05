@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 7:15",
+  "book": "1-kings",
+  "lang": "ky",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "өлчөмдөр",
+      "rationale": "он сегиз чыканак бийиктик, он эки чыканак жип менен айланма — храм тирөндөрүнүн өлчөмдөрү"
+    },
+    {
+      "kind": "alternative",
+      "subject": "он сегиз",
+      "rationale": "жогорудагы сан атоочтор 'сегиз' жана 'он' катары берилди, сан түрүндө 'он сегиз' деген бирдикти түзөт"
+    }
+  ],
+  "translation": "Жана ал ⟨את⟩ эки тирөнү жезден куйду; бир тирөнүн бийиктиги он сегиз чыканак, экинчи ⟨את⟩ тирөндү он эки чыканак жип ороп турат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "7ebbcfcafde2ec3f44535ec4d5af3406182a8e9527a34f23a26eb69a3789fad1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-kings\/7\/13-16.1791208132669.json",
+    "code": "641241cf-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצר",
+      "gloss": "куйду"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "эки тирөнү"
+    },
+    {
+      "surface": "שני",
+      "gloss": "эки"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "тирөнү"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "жезден"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "он"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "сегиз"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "чыканак"
+    },
+    {
+      "surface": "קומת",
+      "gloss": "бийиктиги"
+    },
+    {
+      "surface": "העמוד",
+      "gloss": "тирөнүн"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "бир"
+    },
+    {
+      "surface": "וחוט",
+      "gloss": "жип"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "он"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "эки"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "чыканак"
+    },
+    {
+      "surface": "יסב",
+      "gloss": "ороп турат"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "тирөндү"
+    },
+    {
+      "surface": "העמוד",
+      "gloss": "тирөндү"
+    },
+    {
+      "surface": "השני",
+      "gloss": "экинчи"
+    }
+  ],
+  "timestamp": "2026-10-05T13:48:52.670979489Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "micah 1:12",
+  "book": "micah",
+  "lang": "ky",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חלה לטוב",
+      "rationale": "'жакшылык үчүн күттү' (KJV, JPS) же 'жакшылыктан ооруп калды' (тамыр 'толгонуу, оорунуу' дегенди да берет)"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מרות \/ רע",
+      "rationale": "'Марот' шаарынын аты 'ачуу' деген тамыр менен байланышкан — жаманлык ачуулук келаткан шаарга тийет"
+    }
+  ],
+  "translation": "Анткени Маротту мекендеген жакшылык үчүн күтүп жатат; анткени жаманлык Яхвенин ⟨את⟩ тарабынан түштү, Йерушалайымдын дарбазасына чейин.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "9ce02155f0e33ba268fedde2089f8bf098254b91ec642424832b75a8400d1fb7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/micah\/1\/9-12.1791214467683.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "күтүп жатат"
+    },
+    {
+      "surface": "לטוב",
+      "gloss": "жакшылык үчүн"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "мекендеген"
+    },
+    {
+      "surface": "מרות",
+      "gloss": "Маротту"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "түштү"
+    },
+    {
+      "surface": "רע",
+      "gloss": "жаманлык"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ тарабынан",
+      "marks": "Яхве"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    },
+    {
+      "surface": "לשער",
+      "gloss": "дарбазасына"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Йерушалайымдын"
+    }
+  ],
+  "timestamp": "2026-10-05T15:34:27.684335992Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 3:9",
+  "book": "joshua",
+  "lang": "ky",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "rationale": "Ивриттин «ага» деген предлогу кыргызча «айтты + дательный жөнөкөй менен» берилди, өзүнчө сөз катары жок"
+    },
+    {
+      "kind": "invitation",
+      "subject": "жакын келгиле да уггула",
+      "rationale": "Иехошуа элди чакырып, буйрук менен кайрылат"
+    }
+  ],
+  "translation": "Иехошуа Йисраэлдин уулдарына айтты: «Бул жакка жакын келгиле да Яхве, силердин Элохим ⟨את⟩ сөздөрүн уггула».",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "1d0fbf667007d680180461f4b1ceb7d6b3aee445e88d29bf4e15165544d46e69",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/joshua\/3\/9-12.1791205535728.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "жана айтты"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Иехошуа"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "בני",
+      "gloss": "уулдарына"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэлдин"
+    },
+    {
+      "surface": "גשו",
+      "gloss": "жакын келгиле"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "бул жакка"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "да уггула"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сөздөрүн"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "сөздөрүн"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "силердин Элохим"
+    }
+  ],
+  "timestamp": "2026-10-05T13:05:35.728607571Z",
+  "model": "glm-5.3"
+}

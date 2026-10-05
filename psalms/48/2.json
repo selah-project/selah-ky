@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 48:2",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨есть⟩",
+      "rationale": "Кыргыз тилине ээлик атооч кошуу керек, еврейче текстте жок"
+    }
+  ],
+  "translation": "Улуу ⟨есть⟩ Яхве жана өтө даңазалануучу, биздин Элохимдин шаарында, анын ыйык тоосунда.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "28f4083d8d3b98147ca1e9642c468f8f7ce93a957e56d8149347d86db5af5978",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/48\/1-4.1791216111404.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "Улуу"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "жана даңазалануучу"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "өтө"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "шаарында"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "биздин Элохимдин"
+    },
+    {
+      "surface": "הר",
+      "gloss": "тоосунда"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "анын ыйык"
+    }
+  ],
+  "timestamp": "2026-10-05T16:01:51.405228592Z",
+  "model": "glm-5.3"
+}

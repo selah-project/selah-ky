@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 7:15",
+  "book": "ezekiel",
+  "lang": "ky",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "דבר",
+      "gloss-decision": null,
+      "rationale": "\"דבר\" — көчкө (чабуул оорусу); көчкө\/кылыч\/ачарчылык үчилтиги Эзекиелдин стили."
+    }
+  ],
+  "translation": "Кылыч сыртта, ал эми көчкө менен ачарчылык ичинде; талаада жүргөн кылычтан өлөт, ал эми шаарда жүргөндү ачарчылык менен көчкө жеп коёт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "cf9721e4dacf5dabed144d5e47944140e38dd0231524cad43881d6aa5abfc196",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ezekiel\/7\/13-16.1791212141349.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "החרב",
+      "gloss": "кылыч"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "сыртта"
+    },
+    {
+      "surface": "והדבר",
+      "gloss": "жана көчкө"
+    },
+    {
+      "surface": "והרעב",
+      "gloss": "жана ачарчылык"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ичинде"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "жүргөн"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "талаада"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "кылычтан"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "өлөт"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "жана жүргөндү"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "шаарда"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "ачарчылык"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "менен көчкө"
+    },
+    {
+      "surface": "יאכלנו",
+      "gloss": "жеп коёт"
+    }
+  ],
+  "timestamp": "2026-10-05T14:55:41.351034016Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 24:7",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "жасайбыз жана угабыз",
+      "rationale": "נעשה ונשמע — «угабыз жана жасайбыз» эмес, тескери тартип: эң белгилүү котормо талашы"
+    },
+    {
+      "kind": "idiom",
+      "subject": "кулактарына",
+      "rationale": "«элдин кулактарында» — еврейче «эстүүлүк менен уктугу» деген туруктуу туюм"
+    }
+  ],
+  "translation": "Жана ал келишим китебин алып, элдин кулактарына окуп берди, жана алар айтышты: Яхве сүйлөгөн нерсенин баарын жасайбыз жана угабыз.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "22a3052ee3f3567c28faa99eb03be029a34293926c7209b9edd06eb62f17fc57",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/24\/5-8.1791202350182.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "алды"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "китебин"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "келишим"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "окуп берди"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "кулактарына"
+    },
+    {
+      "surface": "העם",
+      "gloss": "элдин"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "айтышты"
+    },
+    {
+      "surface": "כל",
+      "gloss": "баарын"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "нерсенин"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сүйлөгөн"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "жасайбыз"
+    },
+    {
+      "surface": "ונשמע",
+      "gloss": "угабыз"
+    }
+  ],
+  "timestamp": "2026-10-05T12:12:30.183805005Z",
+  "model": "glm-5.3"
+}

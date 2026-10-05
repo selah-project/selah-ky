@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 8:13",
+  "book": "1-chronicles",
+  "lang": "ky",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "—",
+      "rationale": "Hebrew lacks a copula; Kyrgyz requires one between the names and their apposition"
+    },
+    {
+      "kind": "measurement",
+      "subject": "genealogy",
+      "rationale": "the verse counts and names the family heads of the Ajalon settlers"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הבריחו \/ בריעה",
+      "rationale": "the verb 'they put to flight' echoes the name Beriah; lost in Kyrgyz"
+    }
+  ],
+  "translation": "жана Бериа жана Шема — алар Аялондун жашоочуларынын ата-бabalарынын башчылары; алар ⟨את⟩ Гаттын жашоочуларын кубалап качырды.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "595d79ef62734dfa2fec266e5f21b8aa9ef0b3750e8286b8f271ed8071427810",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-chronicles\/8\/13-16.1791221932312.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובריעה",
+      "gloss": "жана Бериа"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "жана Шема"
+    },
+    {
+      "surface": "המה",
+      "gloss": "алар"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "башчылары"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "ата-бabalардын"
+    },
+    {
+      "surface": "ליושבי",
+      "gloss": "жашоочуларынын"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "Аялондун"
+    },
+    {
+      "surface": "המה",
+      "gloss": "алар"
+    },
+    {
+      "surface": "הבריחו",
+      "gloss": "кубалап качырды"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Гаттын жашоочуларын"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "жашоочуларын"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Гаттын"
+    }
+  ],
+  "timestamp": "2026-10-05T17:38:52.313311081Z",
+  "model": "glm-5.3"
+}

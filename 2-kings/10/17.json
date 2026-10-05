@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 10:17",
+  "book": "2-kings",
+  "lang": "ky",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אשר אל",
+      "rationale": "относительное слово и предлог слиты с «айткан» — отдельно турат эмес"
+    }
+  ],
+  "translation": "Жана Шомронго келди, Ахавга таандык Шомрондогу калгандардын баарын ⟨את⟩ сүрүп өлтүрдү, аны толук жок кылганга чейин, Яхвенин Элияхуга айткан сөзү боюнча.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "5580af0de05d8ee291a2c4de481d2fdd6403a012009a58abb0d0de12c7e193b5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-kings\/10\/17-20.1791208836070.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "келди"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Шомронго"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "сүрүп өлтүрдү"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "калгандардын баарын"
+    },
+    {
+      "surface": "כל",
+      "gloss": "баарын"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "калгандардын"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "Ахавга таандык"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "Шомрондо"
+    },
+    {
+      "surface": "עד",
+      "gloss": "чейин"
+    },
+    {
+      "surface": "השמידו",
+      "gloss": "толук жок кылганга"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "сөзү боюнча"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "דבר",
+      "gloss": "айткан"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Элияхуга"
+    }
+  ],
+  "timestamp": "2026-10-05T14:00:36.071366033Z",
+  "model": "glm-5.3"
+}

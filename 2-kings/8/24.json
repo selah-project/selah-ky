@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 8:24",
+  "book": "2-kings",
+  "lang": "ky",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "וישכב עם אבתיו",
+      "rationale": "«Ата-бабалары менен жатты» — өлгөн жөнүндөгү салттуу иврит эвфемизми."
+    },
+    {
+      "kind": "substitution",
+      "subject": "בעיר דוד",
+      "rationale": "«Давид шаары» — Иерусалимдеги Сион аянтчасы; аталыш сөзмө-сөз сакталды."
+    }
+  ],
+  "translation": "Йорам ата-бабаларынын жанына узатты жана Давид шаарында ата-бабаларынын жанына коюлду; анын ордуна уулу Ахазйа падыша болду.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "ddc49e6e68c6f8b137e7a74fcbeef09cc9ef6bea5f0ddce0ff496ffa6bd58c5e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-kings\/8\/21-24.1791208788295.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "узатты"
+    },
+    {
+      "surface": "יורם",
+      "gloss": "Йорам"
+    },
+    {
+      "surface": "עם",
+      "gloss": "жанына"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "ата-бабаларынын"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "жана коюлду"
+    },
+    {
+      "surface": "עם",
+      "gloss": "жанына"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "ата-бабаларынын"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "шаарында"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "падыша болду"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "Ахазйа"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "уулу"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "анын ордуна"
+    }
+  ],
+  "timestamp": "2026-10-05T13:59:48.296442304Z",
+  "model": "glm-5.3"
+}

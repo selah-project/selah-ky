@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 33:11",
+  "book": "deuteronomy",
+  "lang": "ky",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "מן",
+      "rationale": "Минה «-дан\/-ден» предлогу кыргызча «кайра турбашсын» сүйлөмүндө эришсиз жумшалды."
+    },
+    {
+      "kind": "you",
+      "subject": "Яхвеге",
+      "rationale": "Бата-тилек Яхвеге багытталган түз сүйлөө."
+    }
+  ],
+  "translation": "Яхве, анын күчүн батала бер, колдорунун ишинен ыраазы бол; ага каршы турушкандардын белдерин талкала, аны жек көргөндөр кайра турбашсын.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "77d40ea29f102d9d8aff5a4584383bf911f798bf42e0cebab41778bb53c3cc1e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/33\/9-12.1791205414533.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברך",
+      "gloss": "батала бер"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "анын күчүн"
+    },
+    {
+      "surface": "ופעל",
+      "gloss": "жана ишин"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "колдорунун"
+    },
+    {
+      "surface": "תרצה",
+      "gloss": "ыраазы бол"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "талкала"
+    },
+    {
+      "surface": "מתנים",
+      "gloss": "белдерин"
+    },
+    {
+      "surface": "קמיו",
+      "gloss": "ага каршы турушкандардын"
+    },
+    {
+      "surface": "ומשנאיו",
+      "gloss": "жана аны жек көргөндөр"
+    },
+    {
+      "surface": "מן",
+      "gloss": ""
+    },
+    {
+      "surface": "יקומון",
+      "gloss": "кайра турбашсын"
+    }
+  ],
+  "timestamp": "2026-10-05T13:03:34.534751461Z",
+  "model": "glm-5.3"
+}

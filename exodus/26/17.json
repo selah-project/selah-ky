@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 26:17",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אשה אל אחתה",
+      "rationale": "literally 'woman to her sister' — Hebrew idiom for 'one to another', matching pieces paired; literal kept to preserve the picture"
+    },
+    {
+      "kind": "substitution",
+      "subject": "кол",
+      "rationale": "יד is 'hand'; here it names the tenon-peg of the board, rendered with the body-part word kept literal"
+    },
+    {
+      "kind": "measurement",
+      "subject": "verse",
+      "rationale": "construction instruction specifying the number and fitting of tenons per board"
+    }
+  ],
+  "translation": "Бир тактанын эки колу болсун, бири бири менен ашташкан — аял өз эжесине карата; Мишкандын бардык такталарына да ушинтип жаса.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "4ba5905649043316d4b06920bdb369035029294b469f1c0299e63a9592c289f3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/26\/17-20.1791202436479.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שתי",
+      "gloss": "эки"
+    },
+    {
+      "surface": "ידות",
+      "gloss": "кол"
+    },
+    {
+      "surface": "לקרש",
+      "gloss": "тактага"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "бир"
+    },
+    {
+      "surface": "משלבת",
+      "gloss": "ашташкан"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "аял"
+    },
+    {
+      "surface": "אל",
+      "gloss": "карата"
+    },
+    {
+      "surface": "אחתה",
+      "gloss": "өз эжесине"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ушинтип"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "жаса"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "бардык"
+    },
+    {
+      "surface": "קרשי",
+      "gloss": "такталарына"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Мишкандын"
+    }
+  ],
+  "timestamp": "2026-10-05T12:13:56.479619921Z",
+  "model": "glm-5.3"
+}

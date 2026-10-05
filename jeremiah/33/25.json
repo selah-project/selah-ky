@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 33:25",
+  "book": "jeremiah",
+  "lang": "ky",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "турбаса",
+      "rationale": "ивритте копула жок; шарттын этиши кошулду"
+    },
+    {
+      "kind": "idiom",
+      "subject": "эгер ... жокмун",
+      "rationale": "эгер-жок шартты түрү: «күндүз-түн келишимим болбосо, асман-жер токтомдорун да жок эле» — анткези 26-аятта"
+    },
+    {
+      "kind": "substitution",
+      "subject": "токемдор",
+      "rationale": "חקות — бекитилген ченемдер, орнотулган жобо"
+    }
+  ],
+  "translation": "Мынти айтты Яхве: эгер күндүз жана түн менен болгон келишимим турбаса, анда асман менен жердин токемдорун да Мен белгилеген жокмун —",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "7d5fd3a2c059d096e7708b9bd2d1893957ba6421ab2b8532a493d0fd7413930d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/jeremiah\/33\/25-26.1791211481644.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "мынти"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אם",
+      "gloss": "эгер"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "келишимим"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "күндүз"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "жана түн"
+    },
+    {
+      "surface": "חקות",
+      "gloss": "токемдор"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "асман"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "жана жер"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "שמתי",
+      "gloss": "белгилеген жокмун"
+    }
+  ],
+  "timestamp": "2026-10-05T14:44:41.645334818Z",
+  "model": "glm-5.3"
+}

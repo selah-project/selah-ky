@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 17:2",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "במאד מאד",
+      "rationale": "Эвфатикалык кайталоо — «өтө эле көп, абдан» — кыргызча бир гана күчөтүү сөз менен берилген."
+    },
+    {
+      "kind": "addition",
+      "subject": "Өз",
+      "rationale": "Биринчи жекече кайрылуу үчүн өздүк мүчө кошулду; еврейче текстте жок."
+    }
+  ],
+  "translation": "Жана Мен Өз келишимимди Менин жана сенин ортоңузда түзөйүн, жана ⟨את⟩ сени өтө эле көп көбөйтөйүн.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "c3f455925860c7df0473f4311fd73884dc70291116a043b520133c978c318489",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/17\/2-3.1791223591989.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "түзөйүн"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "келишимимди"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "Менин"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "жана сенин ортоңузда"
+    },
+    {
+      "surface": "וארבה",
+      "gloss": "көбөйтөйүн"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ сени"
+    },
+    {
+      "surface": "במאד",
+      "gloss": "өтө эле көп"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "абдан"
+    }
+  ],
+  "timestamp": "2026-10-05T18:06:31.989889445Z",
+  "model": "glm-5.3"
+}

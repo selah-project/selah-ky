@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 11:12",
+  "book": "deuteronomy",
+  "lang": "ky",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "דרש",
+      "rationale": "«издөө\/текшерүү» же «көңүл буруу\/түшүм издөө» — жерди Яхвенин үзгүлтүксүз камкордугу"
+    },
+    {
+      "kind": "measurement",
+      "subject": "жылдын башталышынан аягына чейин",
+      "rationale": "жылдын башынан аягына чейинки толук өлчөө — камкордуктун үзгүлтүксүздүгү"
+    },
+    {
+      "kind": "elision",
+      "subject": "אלהיך мурунку жөмөктө",
+      "rationale": "2-жөмөктө «Яхвенин, Элохимдин» — эки жолу ысым ээлик түрдө"
+    }
+  ],
+  "translation": "Яхве Элохим ⟨את⟩ ага дайыма көңүл бурган жер; Яхвенин, Элохимдин көздөрү анын үстүндө — жылдын башталышынан жылдын аягына чейин.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "db4dfcdad3c819a9537fd2b2c9973dcb811aaea221269d18f1b4194efe16277c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/11\/9-12.1791204864785.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "жер"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "кайсы"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "көңүл бурган"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ага (жерге)"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "дайыма"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "көздөрү"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Элохимдин"
+    },
+    {
+      "surface": "בה",
+      "gloss": "анын үстүндө"
+    },
+    {
+      "surface": "מרשית",
+      "gloss": "башталышынан"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "жылдын"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "чейин"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "аягына"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "жылдын"
+    }
+  ],
+  "timestamp": "2026-10-05T12:54:24.787043127Z",
+  "model": "glm-5.3"
+}

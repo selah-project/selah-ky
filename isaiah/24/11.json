@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 24:11",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "карачага айланат",
+      "rationale": "ערבה букв. 'кечки карангыга айлануу' — жарык басмырлоо образы."
+    },
+    {
+      "kind": "alternative",
+      "subject": "шарап үчүн",
+      "rationale": "על היין — 'шарап жөнүндө' же 'шараптын баасына' да делет; көчөдөгү үн шарапка байланыштуу."
+    }
+  ],
+  "translation": "Шарап үчүн көчөлөрдө айкырык чыгат, бүт кубаныч карачага айланат, жердин ырахаты сүргүнгө кетет.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "d73783ffe5f8117bd48bcd3c0527dd82a24470e279d27e65b90a3021c0690c90",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/24\/9-12.1791209770975.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צוחה",
+      "gloss": "айкырык"
+    },
+    {
+      "surface": "על",
+      "gloss": "үчүн"
+    },
+    {
+      "surface": "היין",
+      "gloss": "шарап"
+    },
+    {
+      "surface": "בחוצות",
+      "gloss": "көчөлөрдө"
+    },
+    {
+      "surface": "ערבה",
+      "gloss": "карачага айланат"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүт"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "кубаныч"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "сүргүнгө кетет"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "ырахаты"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "жердин"
+    }
+  ],
+  "timestamp": "2026-10-05T14:16:10.976158011Z",
+  "model": "glm-5.3"
+}

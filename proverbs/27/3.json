@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 27:3",
+  "book": "proverbs",
+  "lang": "ky",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "כבד\/כבד",
+      "rationale": "«Оор» деген сөз эки жолу кайталанат: таш оор, акылсыздын ачуусу андан да оор."
+    },
+    {
+      "kind": "measurement",
+      "subject": "салыштыруу",
+      "rationale": "Оордукту салыштыруу — өлчөө маанисиндеги риторика."
+    }
+  ],
+  "translation": "Таштын оордугу жана кумдун жүгү, бирок акылсыздын ачуусу экөөнөн да оор.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "81d2d0e6cfc7d804ac9d71aa808e9a0d52bf8ea375903dde1d43d040883d40a3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/27\/1-4.1791218420162.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "оордугу"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "таштын"
+    },
+    {
+      "surface": "ונטל",
+      "gloss": "жүгү"
+    },
+    {
+      "surface": "החול",
+      "gloss": "кумдун"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "ачуусу"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "акылсыздын"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "оор"
+    },
+    {
+      "surface": "משניהם",
+      "gloss": "экөөнөн да"
+    }
+  ],
+  "timestamp": "2026-10-05T16:40:20.163343506Z",
+  "model": "glm-5.3"
+}

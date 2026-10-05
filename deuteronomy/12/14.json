@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 12:14",
+  "book": "deuteronomy",
+  "lang": "ky",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "нерселердин",
+      "rationale": "Hebrew has only כל אשר אנכי מצוך ('all that I command you'); kyrgyz needs a noun head."
+    }
+  ],
+  "translation": "Тек Яхве сенин урууларыңдын бирөөсүндө шайлаган жерде гана ошондо өрттөлүүчү курмандыктарыңды жогору көтөрүп чыгып, ошондо Мен сага буйурган нерселердин баарысын аткарасың.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "63070f37d0edbf4890301f1e721a93f6696bac27720cdf2dd5d7fd6e675a8542",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/12\/13-16.1791204996495.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "тек"
+    },
+    {
+      "surface": "אם",
+      "gloss": "гана"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "жерде"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ошол"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "шайлаган"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "бирөөсүндө"
+    },
+    {
+      "surface": "שבטיך",
+      "gloss": "урууларыңдын"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ошондо"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "жогору көтөрүп чыгып"
+    },
+    {
+      "surface": "עלתיך",
+      "gloss": "өрттөлүүчү курмандыктарыңды"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "жана ошондо"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "аткарасың"
+    },
+    {
+      "surface": "כל",
+      "gloss": "баарысын"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "нерселердин"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Мен"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "сага буйурган"
+    }
+  ],
+  "timestamp": "2026-10-05T12:56:36.496077890Z",
+  "model": "glm-5.3"
+}

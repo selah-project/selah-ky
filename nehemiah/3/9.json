@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 3:9",
+  "book": "nehemiah",
+  "lang": "ky",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "על ידם",
+      "rationale": "еврейче «кол аркылуу» идиомасы — «алардын колунан» деген кызматта, башкача айтканда «аларга жакын \/ алар менен»"
+    },
+    {
+      "kind": "substitution",
+      "subject": "bekemdep ishtedi",
+      "rationale": "החזיק — «кармап бекемдеди» деген каузатив; «бекемдеп иштеди» деген формада"
+    }
+  ],
+  "translation": "Алардын колунан Рефайа, Хурдун уулу, Йерушалайимдин жарым округунун башчысы, бекемдеп иштеди.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "6f8dcd4e6dbe3d6412043f02af143f99cc1b600a239ea31695d9f4396ca47810",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/nehemiah\/3\/9-12.1791221288032.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "…нын үстүндө"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "алардын колунан"
+    },
+    {
+      "surface": "החזיק",
+      "gloss": "бекемдеп иштеди"
+    },
+    {
+      "surface": "רפיה",
+      "gloss": "Рефайа"
+    },
+    {
+      "surface": "בן",
+      "gloss": "уулу"
+    },
+    {
+      "surface": "חור",
+      "gloss": "Хурдун"
+    },
+    {
+      "surface": "שר",
+      "gloss": "башчысы"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "жарым"
+    },
+    {
+      "surface": "פלך",
+      "gloss": "округунун"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Йерушалайимдин"
+    }
+  ],
+  "timestamp": "2026-10-05T17:28:08.033296983Z",
+  "model": "glm-5.3"
+}

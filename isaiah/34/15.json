@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 34:15",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "קפוז",
+      "gloss-note": "",
+      "rationale": "Кипоз — Танахта бир гана жерде; «жебе жылан» (оңго түркүк жылан) же үүкү деп окшулат"
+    },
+    {
+      "kind": "crux",
+      "subject": "קפוז",
+      "rationale": "Үүкү же жылан: жумуртка басуу контекстинен экөө тең ыктымал"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קבץ",
+      "rationale": "קבץ (чогултуу) дагы 16-аятта кайталанат — эки аятты байлаган тамыр"
+    }
+  ],
+  "translation": "Ошол жерде жебе жылан уя салып, жумурткалап, жарып чыкты жана өз көлөкөсү астында басып чыгарды; дал ошол жерде карчыгалар чогулду, ар бир ⟨аял⟩ өз жолдошу менен.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "be46451dd92edafb0523ceaf717e748c137d83456733c8ef51a3463ed439caaa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/34\/13-16.1791210034564.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "ошол жерде"
+    },
+    {
+      "surface": "קננה",
+      "gloss": "уя салып"
+    },
+    {
+      "surface": "קפוז",
+      "gloss": "жебе жылан"
+    },
+    {
+      "surface": "ותמלט",
+      "gloss": "жумурткалап"
+    },
+    {
+      "surface": "ובקעה",
+      "gloss": "жарып чыкты"
+    },
+    {
+      "surface": "ודגרה",
+      "gloss": "басып чыгарды"
+    },
+    {
+      "surface": "בצלה",
+      "gloss": "өз көлөкөсү астында"
+    },
+    {
+      "surface": "אך",
+      "gloss": "дал"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ошол жерде"
+    },
+    {
+      "surface": "נקבצו",
+      "gloss": "чогулду"
+    },
+    {
+      "surface": "דיות",
+      "gloss": "карчыгалар"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "аял"
+    },
+    {
+      "surface": "רעותה",
+      "gloss": "өз жолдошу"
+    }
+  ],
+  "timestamp": "2026-10-05T14:20:34.565665919Z",
+  "model": "glm-5.3"
+}

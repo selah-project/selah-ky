@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 17:12",
+  "book": "proverbs",
+  "lang": "ky",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "жолукпоого артык",
+      "rationale": "еврей текстте салыштыруу «…эмес» деп гана айтылат; кыргызча салындырма чечмелөөсү кошулду"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כסיל \/ אולתו",
+      "rationale": "«наадан» жана «наадандык» — бир тамырдагы сөздөр, кыргызча да сакталды"
+    }
+  ],
+  "translation": "Кулунунан ажыраган аюу адамга жолуксун — нааданды өз наадандыгында жолукпоого артык.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "c6437f1d196d69d887c17074e87f7ce4ed3d0a5be2abc0aff97d759064fd1898",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/17\/9-12.1791218079921.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פגוש",
+      "gloss": "жолуксун"
+    },
+    {
+      "surface": "דב",
+      "gloss": "аюу"
+    },
+    {
+      "surface": "שכול",
+      "gloss": "кулунунан ажыраган"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "адамга"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "— …эмес"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "нааданды"
+    },
+    {
+      "surface": "באולתו",
+      "gloss": "өз наадандыгында"
+    }
+  ],
+  "timestamp": "2026-10-05T16:34:39.922506587Z",
+  "model": "glm-5.3"
+}

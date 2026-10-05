@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 20:23",
+  "book": "1-samuel",
+  "lang": "ky",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "rationale": "Байланыштуу ат атооч кыргызча participle («сүйлөшкөн») менен берилди, өзүнчө сөз жок."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨турат⟩",
+      "rationale": "Еврейче этиш жок — «Яхве ... араңда» деген ээлик айтылыш; кыргызча этиш талап кылынат."
+    },
+    {
+      "kind": "crux",
+      "subject": "Яхве арабызда",
+      "rationale": "Жонатандын ант күбөсү: Яхве күбө катары («кубө») же катышуучу катары («арабызда») түшүнүлөт."
+    }
+  ],
+  "translation": "Ал эми биз — мен жана сен — сүйлөшкөн сөз жөнүндө: мына, Яхве менин жана сенин араңда түбөлүккө ⟨турат⟩.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "44d0a9cf46c5b979c5dcc320239300c1e95cbd01ab1508d507f756f48339033c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-samuel\/20\/21-24.1791207017728.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והדבר",
+      "gloss": "ал эми сөз"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "‌"
+    },
+    {
+      "surface": "דברנו",
+      "gloss": "биз сүйлөшкөн"
+    },
+    {
+      "surface": "אני",
+      "gloss": "мен"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "жана сен"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "мына"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "менин"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "жана сенин араңда"
+    },
+    {
+      "surface": "עד",
+      "gloss": "‌чейин"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "түбөлүккө"
+    }
+  ],
+  "timestamp": "2026-10-05T13:30:17.729440757Z",
+  "model": "glm-5.3"
+}

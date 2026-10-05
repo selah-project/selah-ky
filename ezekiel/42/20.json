@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 42:20",
+  "book": "ezekiel",
+  "lang": "ky",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "бар",
+      "rationale": "Еврейче текстте 'бар' деген этиш жок — дубалдын бар экенин билдирген кыргызча copula кошулду."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "סביב סביב",
+      "rationale": "'Савив савив' кайталоосу — 'тегерегинде, айлана' — дубалдын толук курчоосун баса белгилейт."
+    },
+    {
+      "kind": "measurement",
+      "subject": "беш жүз",
+      "rationale": "Дубалдын өлчөөсү: узундугу беш жүз, туурасы беш жүз — төрт тараптан тең."
+    }
+  ],
+  "translation": "Төрт тарап боюнча аны өлчөдү: анын тегерегинде дубал бар — узундугу беш жүз, туурасы беш жүз — ыйыктын менен жөнөкөйдүн ортосун ажыратуу үчүн.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "fa69aa4cfc290ef219dcc6bb46fdca672ab4013daa867e8ec3afe885d5fdd510",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ezekiel\/42\/17-20.1791213483986.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לארבע",
+      "gloss": "төрт"
+    },
+    {
+      "surface": "רוחות",
+      "gloss": "тарап"
+    },
+    {
+      "surface": "מדדו",
+      "gloss": "өлчөдү"
+    },
+    {
+      "surface": "חומה",
+      "gloss": "дубал"
+    },
+    {
+      "surface": "לו",
+      "gloss": "анын"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "тегерегинде"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "айлана"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "узундугу"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "беш"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "жүз"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "туурасы"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "беш"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "жүз"
+    },
+    {
+      "surface": "להבדיל",
+      "gloss": "ажыратуу үчүн"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ортосун"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ыйыктын"
+    },
+    {
+      "surface": "לחל",
+      "gloss": "жөнөкөйдүн"
+    }
+  ],
+  "timestamp": "2026-10-05T15:18:03.987434422Z",
+  "model": "glm-5.3"
+}

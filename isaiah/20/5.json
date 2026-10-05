@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 20:5",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "мабат",
+      "rationale": "מבט көп учурда 'үмүт\/ишеним' катары түшүндүрүлөт, бирок тамыры 'кароо' дегенди билдирет — 'караган нерсеси' да болушу мүмкүн."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חתו\/בושו",
+      "rationale": "Этиштердин жупташкан үнү — 'коркуу' менен 'уялуу' бир эле салмакта кайталанат."
+    }
+  ],
+  "translation": "Жана алар коркошот жана уялышат Кушдан — алардын үмүтүнөн, жана Мицрайимден — алардын сыймыгынан.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "36cb4e4d39e0566383440ad6d994b155340167b150a18ee3bf1b3dfa1f65452d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/20\/5-6.1791209661266.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וחתו",
+      "gloss": "жана алар коркошот"
+    },
+    {
+      "surface": "ובשו",
+      "gloss": "жана уялышат"
+    },
+    {
+      "surface": "מכוש",
+      "gloss": "Кушдан"
+    },
+    {
+      "surface": "מבטם",
+      "gloss": "алардын үмүтүнөн"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "жана — дан"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицрайимден"
+    },
+    {
+      "surface": "תפארתם",
+      "gloss": "алардын сыймыгынан"
+    }
+  ],
+  "timestamp": "2026-10-05T14:14:21.266856533Z",
+  "model": "glm-5.3"
+}

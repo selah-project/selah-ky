@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 19:5",
+  "book": "numbers",
+  "lang": "ky",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "לעיניו",
+      "rationale": "«анын көзүндө» — көзүндө деген жандык мааниси сакталды, «көз алдында» катары"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שרף…ישרף",
+      "rationale": "Эки жолу «өрттөө» — аят башында жана аягында кайталануу, инклюзивдүү чакырык"
+    }
+  ],
+  "translation": "Жана ⟨את⟩ ургаачы бугуну анын көз алдында өрттөйт — ⟨את⟩ анын терисин жана ⟨את⟩ анын этин жана ⟨את⟩ анын канын, анын заңынын үстүнө өрттөө керек.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "e70f3ed59731a28b354395c39521a65554b80d7f87bfc453e077213f9b29416e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/numbers\/19\/5-8.1791204062224.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושרף",
+      "gloss": "өрттөйт"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ургаачы бугуну"
+    },
+    {
+      "surface": "הפרה",
+      "gloss": "ургаачы бугуну"
+    },
+    {
+      "surface": "לעיניו",
+      "gloss": "анын көз алдында"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "анын терисин"
+    },
+    {
+      "surface": "ערה",
+      "gloss": "анын терисин"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "жана ⟨את⟩",
+      "marks": "анын этин"
+    },
+    {
+      "surface": "בשרה",
+      "gloss": "анын этин"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "жана ⟨את⟩",
+      "marks": "анын канын"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "анын канын"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстүнө"
+    },
+    {
+      "surface": "פרשה",
+      "gloss": "анын заңынын"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "өрттөө керек"
+    }
+  ],
+  "timestamp": "2026-10-05T12:41:02.225584344Z",
+  "model": "glm-5.3"
+}

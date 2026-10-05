@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 13:10",
+  "book": "1-samuel",
+  "lang": "ky",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "аны батасын алды",
+      "rationale": "לברכו 'аны баталоо' — көпчүлүк котормолор 'чечкен' же 'учурашкан' деп жумшартышат, бирок этимологиясы 'бата берүү'"
+    },
+    {
+      "kind": "idiom",
+      "subject": "והנה",
+      "gloss": "'караса' — еврейче 'көр!, мына' деген көрсөтмө сөз"
+    }
+  ],
+  "translation": "Жана болду: ал өртүү курмандыкты өрдөтүп бүткөндө, караса — Шемуэл келе жаткан; жана Шаул аны тосуп чыгып, аны батасын алды.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "e44bac68101a6d610ae204f3b0252869f1554c5f7a2954cfcbd37d3ab4409e56",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-samuel\/13\/9-12.1791206733126.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Жана болду"
+    },
+    {
+      "surface": "ככלתו",
+      "gloss": "…бүткөндө"
+    },
+    {
+      "surface": "להעלות",
+      "gloss": "өрдөтүп"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "өртүү курмандыкты"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "караса —"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Шемуэл"
+    },
+    {
+      "surface": "בא",
+      "gloss": "келе жаткан"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "жана … чыгып"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "аны тосуп"
+    },
+    {
+      "surface": "לברכו",
+      "gloss": "аны батасын алды"
+    }
+  ],
+  "timestamp": "2026-10-05T13:25:33.127933721Z",
+  "model": "glm-5.3"
+}

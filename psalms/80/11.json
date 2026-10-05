@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 80:11",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 80,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ארזי אל",
+      "rationale": "«Элдин кедрлери» — ээлик чынжыры; JPS\/KJB «кудуреттүү кедрлер» деп сыпаттама катары окуйт"
+    },
+    {
+      "kind": "crux",
+      "subject": "бутактары — кедрлер",
+      "rationale": "JPS тескери окуйт: «кудуреттүү кедрлер анын бутактары менен капталды»; жөнөкөй буйым сүйлөм да мүмкүн"
+    }
+  ],
+  "translation": "Тоолор анын көлөкөсү менен капталды жана анын бутактары — Элдин кедрлери.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "f33c1cf4617afbd1aeae9a2c34c1d7521ce9f269390f2ec6ebc6017da2aa271d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/80\/9-12.1791216654830.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כסו",
+      "gloss": "капталды"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "тоолор"
+    },
+    {
+      "surface": "צלה",
+      "gloss": "анын көлөкөсү"
+    },
+    {
+      "surface": "וענפיה",
+      "gloss": "жана анын бутактары"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "кедрлери"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Элдин"
+    }
+  ],
+  "timestamp": "2026-10-05T16:10:54.831808366Z",
+  "model": "glm-5.3"
+}

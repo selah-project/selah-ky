@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 46:4",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אני ×5",
+      "rationale": "Беш 'Мен' катары: буттар жүк болуп көтөрүлсө, Яхве Өз элин Өзү көтөрөт."
+    },
+    {
+      "kind": "substitution",
+      "subject": "Ошол",
+      "rationale": "הוא басымдуу үчүмчү жак: 'Мен — Ошол', башкача айтканда өзгөрбөгөн Ошол."
+    }
+  ],
+  "translation": "Карыганча да Мен — Ошол, ак чачка чейин Мен көтөрөм; Мен жараттым, Мен ташыйм, Мен көтөрөм жана Мен куткарам.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "929378757d3c63c681e5ccdedcaeaa2a743f6eac32b856611b017741e34ba79c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/46\/1-4.1791210257459.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועד",
+      "gloss": "чейин"
+    },
+    {
+      "surface": "זקנה",
+      "gloss": "карыганча"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Мен"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Ошол"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "чейин"
+    },
+    {
+      "surface": "שיבה",
+      "gloss": "ак чачка"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Мен"
+    },
+    {
+      "surface": "אסבל",
+      "gloss": "көтөрөм"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Мен"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "жараттым"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "жана Мен"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "ташыйм"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "жана Мен"
+    },
+    {
+      "surface": "אסבל",
+      "gloss": "көтөрөм"
+    },
+    {
+      "surface": "ואמלט",
+      "gloss": "жана куткарам"
+    }
+  ],
+  "timestamp": "2026-10-05T14:24:17.460278681Z",
+  "model": "glm-5.3"
+}

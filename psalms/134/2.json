@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 134:2",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 134,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "קדש",
+      "rationale": "'ыйыктыкка' (абстракт) же 'ыйык жайга' (святилище) — KJV 'sanctuary', YLT да ошондой; текстте предлог жок"
+    }
+  ],
+  "translation": "Колуңарды ыйыктыкка көтөргүлө жана ⟨את⟩ Яхвени алкыштагыла!",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "9416ce6ae5af9e17335c739a8b2f3510b81a1506037e9a6fc535ce2dfed4d2db",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/134\/1-3.1791217426044.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "көтөргүлө"
+    },
+    {
+      "surface": "ידכם",
+      "gloss": "колуңарды"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ыйыктыкка"
+    },
+    {
+      "surface": "וברכו",
+      "gloss": "жана алкыштагыла"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яхвени"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвени"
+    }
+  ],
+  "timestamp": "2026-10-05T16:23:46.045705206Z",
+  "model": "glm-5.3"
+}

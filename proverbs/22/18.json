@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 22:18",
+  "book": "proverbs",
+  "lang": "ky",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "алар",
+      "rationale": "Негизги объект (акылмандардын сөздөрү, 17-аят) жашырылган; кыргызча тактоо үчүн кошулду"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ичкиңде",
+      "rationale": "בטן так маанисинде «көңдөй, ичкилик» — көпчүлүк котормолор «жүрөктө» деп жумшартат"
+    }
+  ],
+  "translation": "Анткени алар жагымдуу, эгер аларды ичкиңде сактасаң, эриндериңде бирге бекем тураары.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "5c1bb37de68f024dba8c1739306419265f83ebdbab4dc92627dd66bd08aa24a2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/22\/17-20.1791218248069.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "жагымдуу"
+    },
+    {
+      "surface": "כי",
+      "gloss": "эгер"
+    },
+    {
+      "surface": "תשמרם",
+      "gloss": "сактасаң"
+    },
+    {
+      "surface": "בבטנך",
+      "gloss": "ичкиңде"
+    },
+    {
+      "surface": "יכנו",
+      "gloss": "бекем тураары"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "бирге"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨эриндериңде⟩"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "эриндериң"
+    }
+  ],
+  "timestamp": "2026-10-05T16:37:28.070350380Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 117:2",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 117,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "хесед",
+      "rationale": "חסד 'ырайым' гана эмес — берилгендик, махабат-келишим сөзү; хесед катары калды."
+    },
+    {
+      "kind": "substitution",
+      "subject": "эмет",
+      "rationale": "אמת 'ачыктык' гана эмес — бекемдик, ишенимдүүлүк; 'эмет' туура эмес, 'эмес' (ишенимдүүлүк) далылыкка жакын."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨чечмелөөсүз⟩",
+      "rationale": "גבר этиш — 'күчтүү болду \/ басып алды'; кыргызча сын-атыш формасы талап кылынды."
+    }
+  ],
+  "translation": "Анткени Анын хеседи биздин үстүбүздөн күчтүү, жана Яхвенин эмеси түбөлүккө чейин. Яхды даңктаңар!",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "47d4805870e6a00f81db254929adb0d5d2f04abccace4400a4033b5496848f39",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/117\/1-2.1791217250670.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "күчтүү"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "биздин үстүбүздөн"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "Анын хеседи"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "жана эмес"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "түбөлүккө чейин"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "даңктаңар"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Яхды"
+    }
+  ],
+  "timestamp": "2026-10-05T16:20:50.671162560Z",
+  "model": "glm-5.3"
+}

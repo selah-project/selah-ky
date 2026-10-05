@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 6:12",
+  "book": "song-of-songs",
+  "lang": "ky",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жаным",
+      "rationale": "נפש — «дем\/жан күчү»; кыргызча «жан» эң жакын, бирок «кан-жан» мааниси кеңири"
+    },
+    {
+      "kind": "crux",
+      "subject": "עמי נדיב",
+      "rationale": "Эң көп талашкан жер: «элимдин Надиви» (аты беле?), «март элимдин» (сыякташтыруу), же KJV «Амминадибдин арабалары» — экөө тең мүмкүн"
+    }
+  ],
+  "translation": "Билбей калдым — жаным мени элимдин Надивдин арабаларына койду.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "6f38d403ae09845fc89e09fc897603b7a6828239b85cf63706400c3330e480dd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/song-of-songs\/6\/9-12.1791219522007.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "Билбей калдым"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "жаным"
+    },
+    {
+      "surface": "שמתני",
+      "gloss": "мени койду"
+    },
+    {
+      "surface": "מרכבות",
+      "gloss": "арабаларына"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "элимдин"
+    },
+    {
+      "surface": "נדיב",
+      "gloss": "Надивдин"
+    }
+  ],
+  "timestamp": "2026-10-05T16:58:42.020979038Z",
+  "model": "glm-5.3"
+}

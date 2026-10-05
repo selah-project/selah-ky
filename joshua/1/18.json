@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 1:18",
+  "book": "joshua",
+  "lang": "ky",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ימרה את פיך",
+      "rationale": "букв. «делать горьким твой рот» — идиома непослушания, передано как «каршы чыгуу»"
+    },
+    {
+      "kind": "substitution",
+      "subject": "יומת",
+      "rationale": "каузатив «предать смерти» — өлтүрүлсүн пассив формасы менен берилди"
+    },
+    {
+      "kind": "you",
+      "subject": "Йехошуага",
+      "rationale": "«бекем бол жана эр жүрөк бол» — түз карайтоо, алуучу Йехошуа"
+    }
+  ],
+  "translation": "Ар бир адам, ким ⟨את⟩ оозуңа каршы чыгып, сен ага буйруган нерселердин баарынан ⟨את⟩ сөздөрүңдү укпаса, өлтүрүлсүн; жалгыз гана бекем бол жана эр жүрөк бол.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "f72c2a25e3bddba3457a5d5989da5b0081f77c966ae8ee7ba7fda45132930b75",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/joshua\/1\/18-18.1791223749646.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ар бир"
+    },
+    {
+      "surface": "איש",
+      "gloss": "адам"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ким"
+    },
+    {
+      "surface": "ימרה",
+      "gloss": "каршы чыгып"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "оозуңа"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "оозуңа"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "укпаса"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "укпаса"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сөздөрүңдү"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "сөздөрүңдү"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "баарынан"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "нерселердин"
+    },
+    {
+      "surface": "תצונו",
+      "gloss": "буйруган"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "өлтүрүлсүн"
+    },
+    {
+      "surface": "רק",
+      "gloss": "жалгыз гана"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "бекем бол"
+    },
+    {
+      "surface": "ואמץ",
+      "gloss": "эр жүрөк бол"
+    }
+  ],
+  "timestamp": "2026-10-05T18:09:09.646646826Z",
+  "model": "glm-5.3"
+}

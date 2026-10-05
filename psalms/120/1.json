@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 120:1",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 120,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Ал",
+      "rationale": "ןתקענני ичинде аты жок субьект; кыргызча үчүнчү жак ат атооч кошулду"
+    }
+  ],
+  "translation": "Өрлөөлөрдүн ыры. Кыйынчылыгымда Яхвеге кайрылдым, жана Ал мени жооп берди.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "b108509a34098b717f606829818a4d5ea29c52490a7b38e16d0cb090d829696a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/120\/1-4.1791217419607.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "ыры"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "өрлөөлөрдүн"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ке"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "בצרתה",
+      "gloss": "кыйынчылыкта"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мага"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "кайрылдым"
+    },
+    {
+      "surface": "ויענני",
+      "gloss": "жана Ал мени жооп берди"
+    }
+  ],
+  "timestamp": "2026-10-05T16:23:39.608006337Z",
+  "model": "glm-5.3"
+}

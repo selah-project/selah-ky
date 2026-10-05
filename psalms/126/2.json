@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 126:2",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 126,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "—",
+      "rationale": "Иктилял: экинчи сапта этиш түшүп калган, сызыкча кошулду."
+    },
+    {
+      "kind": "crux",
+      "subject": "עם אלה",
+      "rationale": "«булар менен» же «булар үчүн» — עם предлоги эки жакка да түшөт."
+    }
+  ],
+  "translation": "Анда оозубуз күлкүгө толду жана тилебиз — кубануу ырына. Анда элдердин ичинде айтышты: Яхве булар менен улуу иштерди кылды.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "798ea3a92aec631aa94802c46f21659af8b3879b66171e9128c6eba126b5d4e0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/126\/1-4.1791217461282.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "анда"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "толду"
+    },
+    {
+      "surface": "שחוק",
+      "gloss": "күлкүгө"
+    },
+    {
+      "surface": "пינу",
+      "gloss": "оозубуз"
+    },
+    {
+      "surface": "ולשוננו",
+      "gloss": "жана тилебиз"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "кубануу ырына"
+    },
+    {
+      "surface": "אז",
+      "gloss": "анда"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "айтышты"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "элдердин ичинде"
+    },
+    {
+      "surface": "הגדיל",
+      "gloss": "улуу"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "кылды"
+    },
+    {
+      "surface": "עם",
+      "gloss": "менен"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "булар"
+    }
+  ],
+  "timestamp": "2026-10-05T16:24:21.283178658Z",
+  "model": "glm-5.3"
+}

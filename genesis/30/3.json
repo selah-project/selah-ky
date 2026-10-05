@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 30:3",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "куралайын",
+      "rationale": "ואבנה — 'курулуш' (үй курамак); үй-бүлө курамак деген сүрөт, кыргызча 'куралайын' деп берилди"
+    },
+    {
+      "kind": "alternative",
+      "subject": "курамын",
+      "rationale": "ואבנה 'балдарым болот' деп да которулат, бирок 'куруу' сөзүнүн сүрөтү сакталды"
+    },
+    {
+      "kind": "idiom",
+      "subject": "על ברכי",
+      "rationale": "'тизелеримдин үстүнө төрөсүн' — бала кабыл алуунун салтанаттуу жөрөлгөсү"
+    }
+  ],
+  "translation": "Ал айтты: Мына, күңүм Билһа, аныкына кир, ал тизелеримдин үстүнө төрөсүн, жана мен да анын ⟨арданынан⟩ куралайын.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "32b0a027d17b102c62d2f62e9dad1eee5c5c1caac83548fa17699b668aff9240",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/30\/1-4.1791201310474.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "ал айтты"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "мына"
+    },
+    {
+      "surface": "אמתי",
+      "gloss": "күңүм"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "Билһа"
+    },
+    {
+      "surface": "בא",
+      "gloss": "кир"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "аныкына"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "төрөсүн"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстүнө"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "тизелеримдин"
+    },
+    {
+      "surface": "ואבנה",
+      "gloss": "куралайын"
+    },
+    {
+      "surface": "גם",
+      "gloss": "да"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "мен"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "анын ⟨арданынан⟩"
+    }
+  ],
+  "timestamp": "2026-10-05T11:55:10.475449773Z",
+  "model": "glm-5.3"
+}

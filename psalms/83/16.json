@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 83:16",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 83,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "סערה\/סופה",
+      "rationale": "экөө тең «бороон» деген жакын сөздөр — параллелизм, кыргызча эки башка сөз менен берилди"
+    },
+    {
+      "kind": "you",
+      "subject": "Яхвеге",
+      "rationale": "тирикенче тиленүү — Элохимго багытталган буйрук"
+    }
+  ],
+  "translation": "Ошондой эле аларды бороон-чабың менен куугун жана дауулуң менен аларды коркут.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "3a2aca48bae78c1fa2b32b6f4b36eeea1721c5d1353370da30cb41cfa9628ce8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/83\/13-16.1791216662759.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "ошондой эле"
+    },
+    {
+      "surface": "תרדפם",
+      "gloss": "аларды куугун"
+    },
+    {
+      "surface": "בסערך",
+      "gloss": "бороон-чабың менен"
+    },
+    {
+      "surface": "ובסופתך",
+      "gloss": "дауулуң менен"
+    },
+    {
+      "surface": "תבהלם",
+      "gloss": "аларды коркут"
+    }
+  ],
+  "timestamp": "2026-10-05T16:11:02.760346504Z",
+  "model": "glm-5.3"
+}

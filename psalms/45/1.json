@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 45:1",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "על ששנים",
+      "rationale": "«Лалелиар үстүнө» — музыкалык көрсөтмө; Шошанним деген аталыш сакталды, мааниси так эмес."
+    },
+    {
+      "kind": "hapax",
+      "subject": "ידידת",
+      "rationale": "Бул форма Танахта бир гана жерде кездешет — «сүйүүлөрдөрдүн ыры» деген мааниде."
+    }
+  ],
+  "translation": "Башкаруучуга, Шошанним үстүнө, Корахтын уулдарына, түшүнүктүү ыр, сүйүктүүлөргө арналган ыр.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "2f0ced1bac9db241d0082f3c5f0d669dda6b700031a2644694911d4ac6ca1979",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/45\/1-4.1791216119049.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "башкаруучуга"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстүнө"
+    },
+    {
+      "surface": "ששנים",
+      "gloss": "Шошанним"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "уулдарына"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Корахтын"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "түшүнүктүү"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "ыр"
+    },
+    {
+      "surface": "ידידת",
+      "gloss": "сүйүктүүлөргө арналган"
+    }
+  ],
+  "timestamp": "2026-10-05T16:01:59.050432835Z",
+  "model": "glm-5.3"
+}

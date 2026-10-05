@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 35:15",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נאספו נאספו",
+      "rationale": "Эки жолу катарланган 'чогулду, чогулуп' — күчтүү кайталоо, кыргызча сакталды"
+    },
+    {
+      "kind": "crux",
+      "subject": "мен билген эмесмин",
+      "rationale": "ולא ידעתי: 'мен билген эмесмин' (KJV) же 'мени билгендер' эмес, бейтааныштар (JPS 'мен тааныбагандар') деген окуулар бар"
+    },
+    {
+      "kind": "substitution",
+      "subject": "кордогондор",
+      "rationale": "נכים — сыйкырчы-кордоочу, жаман сөз айтуучу; жөн гана 'уруп-согуучу' эмес"
+    }
+  ],
+  "translation": "Ал эри мойн тайгандар чогулду, чогулуп мага каршы түштү, кордогондор — мен билген эмесмин; алар жыртышты жана тынбашты.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "1842c0a78bc403ba192c1e93d5d063e626a9f2b51a241a50d61b744a063ac05e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/35\/13-16.1791215855084.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובצלעי",
+      "gloss": "мен аксаганымда"
+    },
+    {
+      "surface": "שמחו",
+      "gloss": "кубанды"
+    },
+    {
+      "surface": "ונאספו",
+      "gloss": "чогулду"
+    },
+    {
+      "surface": "נאספו",
+      "gloss": "чогулуп"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "мага каршы"
+    },
+    {
+      "surface": "נכים",
+      "gloss": "кордогондор"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "жана... эмес"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "мен билген"
+    },
+    {
+      "surface": "קרעו",
+      "gloss": "жыртышты"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "жана... жок"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "тынбашты"
+    }
+  ],
+  "timestamp": "2026-10-05T15:57:35.085406908Z",
+  "model": "glm-5.3"
+}

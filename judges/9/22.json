@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 9:22",
+  "book": "judges",
+  "lang": "ky",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "үч жыл",
+      "rationale": "Abimelekh's rule is dated: three years"
+    },
+    {
+      "kind": "substitution",
+      "subject": "башкарды",
+      "rationale": "וישר from שׂרר 'to rule, exercise princedom', not 'reign' as king (מלך)"
+    }
+  ],
+  "translation": "Абимелех Йисраэл үстүнөн үч жыл башкарды.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "23a513e612200edbc7fe4eb2e100dfcfbf5d85c6737975f0eb7661a783edda85",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/judges\/9\/21-24.1791206219962.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישר",
+      "gloss": "башкарды"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Абимелех"
+    },
+    {
+      "surface": "על",
+      "gloss": "…тин үстүнөн"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэл"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "үч"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "жыл"
+    }
+  ],
+  "timestamp": "2026-10-05T13:16:59.963631953Z",
+  "model": "glm-5.3"
+}

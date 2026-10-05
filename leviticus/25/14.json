@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 25:14",
+  "book": "leviticus",
+  "lang": "ky",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "зыянга учуратпасын",
+      "rationale": "ינה — «күч колдонуу, эзүү, кысуу»; «зулум кылба» да мүмкүн."
+    },
+    {
+      "kind": "you",
+      "subject": "Израилге",
+      "rationale": "Буйрук израилдиктерге — соода-сатыктагы адилеттүүлүк жөнүндө."
+    }
+  ],
+  "translation": "Жана эгер жакыныңа сатсаңар же жакыныңдын колунан сатып алсаңар, ар бир киши ⟨את⟩ бир тууганын зыянга учуратпасын.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "d1ce4eac899fed536371a2406c0f5896084a8e27076b10caacde885917b0dc82",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/25\/13-16.1791203418364.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "жана эгер"
+    },
+    {
+      "surface": "תמכרו",
+      "gloss": "сатсаңар"
+    },
+    {
+      "surface": "ממכר",
+      "gloss": "сатуу"
+    },
+    {
+      "surface": "לעמיתך",
+      "gloss": "жакыныңа"
+    },
+    {
+      "surface": "או",
+      "gloss": "же"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "сатып алсаңар"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "колунан"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "жакыныңдын"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…бас"
+    },
+    {
+      "surface": "תונו",
+      "gloss": "зыянга учуратпасын"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ар бир киши"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "бир тууганын"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "бир тууганын"
+    }
+  ],
+  "timestamp": "2026-10-05T12:30:18.365310775Z",
+  "model": "glm-5.3"
+}

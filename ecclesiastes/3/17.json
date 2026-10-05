@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 3:17",
+  "book": "ecclesiastes",
+  "lang": "ky",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "бар",
+      "rationale": "Еврейче этиш жок, кыргызча «убакыт бар» деген конструкция талап кылат"
+    },
+    {
+      "kind": "substitution",
+      "subject": "цедектүү адам \/ жаман адам",
+      "rationale": "הצדיק жана הרשע — сын атоочтор адам катарында; цедек тамыры D2 боюнча сакталды"
+    }
+  ],
+  "translation": "Мен жүрөгүмдө айттым: Элохим ⟨את⟩ цедектүү адамды жана ⟨את⟩ жаман адамды соттойт, анткени ар бир каалоого жана ар бир ишке ⟨ал жерде⟩ убакыт ⟨бар⟩.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "2ed4457092f81334a2f376bb03833a6badab5f5bf9e2f536d4c88485c24c9da4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ecclesiastes\/3\/17-20.1791220035370.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "айттым"
+    },
+    {
+      "surface": "אני",
+      "gloss": "мен"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "жүрөгүмдө"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "цедектүү адамды"
+    },
+    {
+      "surface": "הצדיק",
+      "gloss": "цедектүү адамды"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "жана ⟨את⟩",
+      "marks": "жаман адамды"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "жаман адамды"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "соттойт"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "עת",
+      "gloss": "убакыт"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ар бир"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "каалоого"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "жана үстүнө"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ар бир"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "иштин"
+    },
+    {
+      "surface": "שם",
+      "gloss": "⟨ал жерде⟩"
+    }
+  ],
+  "timestamp": "2026-10-05T17:07:15.371171949Z",
+  "model": "glm-5.3"
+}

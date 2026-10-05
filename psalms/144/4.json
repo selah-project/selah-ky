@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 144:4",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 144,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "הבל",
+      "rationale": "Һэвел — «дем, боштук, тез жоголуучу нерсе»; «жалган-нәрсе» катары берилди, «дем» (JPS) деген альтернатива бар."
+    },
+    {
+      "kind": "substitution",
+      "subject": "דמה",
+      "rationale": "Дамах — «окшоштурулган, салыштырылган»; кыргызча «окшош» этиш-сын формасында берилди."
+    }
+  ],
+  "translation": "Адам жалган-нәрсеге окшош; күндөрү өтүп бара жаткан көлөкөдөй.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "b848aaeb70d75a694dd113c3d6f32b61b389fbc5a64c1624f2576f7f0a946101",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/144\/1-4.1791217611859.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "адам"
+    },
+    {
+      "surface": "להבל",
+      "gloss": "жалган-нәрсеге"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "окшош"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "күндөрү"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "көлөкөдөй"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "өтүп бара жаткан"
+    }
+  ],
+  "timestamp": "2026-10-05T16:26:51.860509038Z",
+  "model": "glm-5.3"
+}

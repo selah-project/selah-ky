@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 11:5",
+  "book": "2-kings",
+  "lang": "ky",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "השלשית",
+      "rationale": "«үчтөн бир бөлүк» — бөлүмдүн саны, байыркы котормолордо «үчүнчү бөлүк» деп берилген."
+    },
+    {
+      "kind": "addition",
+      "subject": "күнү",
+      "rationale": "Кыргызча «Шаббат … келе тургандарыңар» дегенде убакыттын белгиси кошулду."
+    }
+  ],
+  "translation": "Жана ал аларга буйрук берип айтты: Бул силер жасай турган иш: Шаббат күнү келе тургандарыңардын үчтөн бири падышанын үйүнүн күзөтүн сактасын.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "098ecdd1aeadeb978df1622597a1639f8b85f034d8dfc876a958172ab2cf4a62",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-kings\/11\/5-8.1791208855101.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצום",
+      "gloss": "буйрук берип"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "זה",
+      "gloss": "бул"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "иш"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…ны"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "жасай турган"
+    },
+    {
+      "surface": "השלשית",
+      "gloss": "үчтөн бири"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "силердин"
+    },
+    {
+      "surface": "באי",
+      "gloss": "келе тургандарыңар"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Шаббат"
+    },
+    {
+      "surface": "ושמרי",
+      "gloss": "сактасын"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "күзөтүн"
+    },
+    {
+      "surface": "בית",
+      "gloss": "үйүнүн"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "падышанын"
+    }
+  ],
+  "timestamp": "2026-10-05T14:00:55.102324467Z",
+  "model": "glm-5.3"
+}

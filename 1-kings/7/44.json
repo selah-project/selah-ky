@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-kings 7:44",
+  "book": "1-kings",
+  "lang": "ky",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "деңиз",
+      "rationale": "הים — чыныгы деңиз эмес, чоң жуучу идиштин аты; көлөмү боюнча «деңиз» деп аталган"
+    },
+    {
+      "kind": "measurement",
+      "subject": "он эки",
+      "rationale": "Өгүздөрдүн саны: он эки"
+    }
+  ],
+  "translation": "Жана ⟨את⟩ бир деңиз, жана ⟨את⟩ деңиздин астындагы он эки өгүз.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "0d34374412dbb1a9a0b46d35129c63877bf8e6526b8bec3f34af50c5dd946def",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-kings\/7\/41-44.1791208078342.json",
+    "code": "641241cf-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ жана",
+      "marks": "деңизди"
+    },
+    {
+      "surface": "הים",
+      "gloss": "деңиз"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "бир"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ жана",
+      "marks": "өгүздөрдү"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "өгүздөр"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "он эки"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "астындагы"
+    },
+    {
+      "surface": "הים",
+      "gloss": "деңиздин"
+    }
+  ],
+  "timestamp": "2026-10-05T13:47:58.343817818Z",
+  "model": "glm-5.3"
+}

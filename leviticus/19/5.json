@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 19:5",
+  "book": "leviticus",
+  "lang": "ky",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "тынчтык курмандыгы",
+      "rationale": "שלמים — шалом тамырынан, «тынчтык\/бүтүндүк курмандыгы»; кээ « ыраазычылык курмандыгы» деп берилет"
+    },
+    {
+      "kind": "crux",
+      "subject": "жакканыча",
+      "rationale": "לרצנכם: «өз эркиңерче» (KJV) же «кабыл алынышыңар үчүн» (JPS) деген эки окуу бар"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תזבחו\/זבח\/תזבחהו",
+      "rationale": "זבח тамыры үч жолу кайталанат — ритм кыргызча да бир аз сакталды"
+    },
+    {
+      "kind": "you",
+      "subject": "Йисраэл элине",
+      "rationale": "буйрук көп сандуу «сіңар» формасында берилген"
+    }
+  ],
+  "translation": "Жана эгер Яхвеге тынчтык курмандыгын чалсаңар, өздөрүңөр жакканыча аны чалыңар.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "d5afeb929d4b000f574ca67650360a92ee191ae9b8594ea880768493d7a8ff5f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/19\/5-8.1791203227000.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "жана эгер"
+    },
+    {
+      "surface": "תזבחו",
+      "gloss": "чалсаңар"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "курмандыкты"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "тынчтык курмандыгын"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхвеге"
+    },
+    {
+      "surface": "לרצנכם",
+      "gloss": "жакканыча"
+    },
+    {
+      "surface": "תזבחהו",
+      "gloss": "чалыңар"
+    }
+  ],
+  "timestamp": "2026-10-05T12:27:07.001195637Z",
+  "model": "glm-5.3"
+}

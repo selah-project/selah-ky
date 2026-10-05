@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 31:7",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "он жолу",
+      "rationale": "עשרת מנים — акынын он жолу алмашканы санап берилип жатат."
+    },
+    {
+      "kind": "crux",
+      "subject": "התל",
+      "rationale": "'шылдыңлады' же 'алдады' — тамырда шылдың мааниси бар, котормолордо эки вариант тең кездешет."
+    }
+  ],
+  "translation": "Жана силердин атаңар мени алдады жана ⟨את⟩ акымды он жолу алмаштырды, бирок Элохим ага мени менен жамандык кылууга жол берген жок.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "a8ef18254506f884660cd184de405dd6ad96b0a006fff95c6ff97e76fbc040d6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/31\/5-8.1791201383535.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואביכן",
+      "gloss": "жана атаңар"
+    },
+    {
+      "surface": "התל",
+      "gloss": "алдады"
+    },
+    {
+      "surface": "בי",
+      "gloss": "мени"
+    },
+    {
+      "surface": "והחלף",
+      "gloss": "жана алмаштырды"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "акымды"
+    },
+    {
+      "surface": "משכרתי",
+      "gloss": "акымды"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "он"
+    },
+    {
+      "surface": "מנים",
+      "gloss": "жолу"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "бирок жок"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "жол берген"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "жамандык кылууга"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "мени менен"
+    }
+  ],
+  "timestamp": "2026-10-05T11:56:23.536148049Z",
+  "model": "glm-5.3"
+}

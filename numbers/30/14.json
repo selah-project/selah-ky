@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 30:14",
+  "book": "numbers",
+  "lang": "ky",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жан",
+      "rationale": "נפש — «жан» эмес, жашоо күчү; «жанды азаптоо» — орозо кармоо анттары тууралуу."
+    },
+    {
+      "kind": "addition",
+      "subject": "алат",
+      "rationale": "«Мүмкүн» мааниси — күйөөнүн ырастыгын билдирген контексттен келет, tekstте этич жок."
+    }
+  ],
+  "translation": "Ар бир убада жана жанды азаптоо үчүн байланган ар бир ант — анын күйөөсү аны бекемдей алат, же анын күйөөсү аны жокко чыгара алат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "722c5f42a2a4e717144969fa138bfd55839b79830edda62da925b070695ca1a3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/numbers\/30\/13-16.1791204506837.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ар бир"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "убада"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "жана ар бир"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ант"
+    },
+    {
+      "surface": "אסר",
+      "gloss": "байланганы"
+    },
+    {
+      "surface": "לענת",
+      "gloss": "азаптоо үчүн"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "жанды"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "анын күйөөсү"
+    },
+    {
+      "surface": "יקימנו",
+      "gloss": "аны бекемдей алат"
+    },
+    {
+      "surface": "ואישה",
+      "gloss": "же анын күйөөсү"
+    },
+    {
+      "surface": "יפרנו",
+      "gloss": "аны жокко чыгара алат"
+    }
+  ],
+  "timestamp": "2026-10-05T12:48:26.838845265Z",
+  "model": "glm-5.3"
+}

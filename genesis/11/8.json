@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 11:8",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ויפץ \/ פץ",
+      "rationale": "«Чачып жиберди» — 4-аяттагы «чачылмайынча» (נפוץ) деген коркмен менен кайрылышат"
+    },
+    {
+      "kind": "elision",
+      "subject": "על פני",
+      "rationale": "Сөзмө-сөз «бетинин үстүнө» — кыргызча бир эле «үстүнө» менен берилди"
+    }
+  ],
+  "translation": "Жана Яхве аларды ал жерден ⟨את⟩ бүт жердин үстүнө чачып жиберди, жана алар шаар курууну токтотушту.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "69d5a501e1f549f4d9adc257799f261adc105898adba55e5a1de8d8dc822b5e3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/11\/5-8.1791200918334.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויפץ",
+      "gloss": "чачып жиберди"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ аларды",
+      "marks": "аларды"
+    },
+    {
+      "surface": "משם",
+      "gloss": "ал жерден"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстүнө"
+    },
+    {
+      "surface": "פני",
+      "gloss": "үстүнө"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүт"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "жердин"
+    },
+    {
+      "surface": "ויחדלו",
+      "gloss": "жана … токтотушту"
+    },
+    {
+      "surface": "לבנת",
+      "gloss": "курууну"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "шаар"
+    }
+  ],
+  "timestamp": "2026-10-05T11:48:38.335611416Z",
+  "model": "glm-5.3"
+}

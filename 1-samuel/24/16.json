@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 24:16",
+  "book": "1-samuel",
+  "lang": "ky",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "сот",
+      "rationale": "לדיר 'сот катары' деген конструкция, кыргызча атооч талап кылат"
+    },
+    {
+      "kind": "substitution",
+      "subject": "иши",
+      "rationale": "ריב 'талаш, соттогу кагылышуу' — сот тилиндеги сөз"
+    }
+  ],
+  "translation": "Яхве ⟨сот⟩ болсун жана мени менен сенин араңарда өкүм чыгарсын, көрсүн жана ⟨את⟩ менин ишимди талашсын, жана мени сенин колуңдан актасын.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "e4dcc5c4ac3be39a5aae070f65a31cf6004fc5746311398fed654aa00e979630",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-samuel\/24\/13-16.1791207119629.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "жана болсун"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "⟨сот⟩"
+    },
+    {
+      "surface": "ושפט",
+      "gloss": "жана өкүм чыгарсын"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "менин"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "жана сенин араңарда"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "жана көрсүн"
+    },
+    {
+      "surface": "וירב",
+      "gloss": "жана талашсын"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "менин ишимди"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "менин ишимди"
+    },
+    {
+      "surface": "וישפטני",
+      "gloss": "жана мени актасын"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "сенин колуңдан"
+    }
+  ],
+  "timestamp": "2026-10-05T13:31:59.630781601Z",
+  "model": "glm-5.3"
+}

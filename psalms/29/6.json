@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 29:6",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жабайы буга",
+      "rationale": "ראמים — көрүнүктүү жабайы өгүз; «единорог» эмес"
+    }
+  ],
+  "translation": "Жана аларды букачар сыяктуу бийлетет — Ливанебен жана Сирйонду жабайы буга баласы сыяктуу.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "007ebbf8d910a3c8e7e7d2e2d2e22dba0019bd0f8e94a2bfbc19dc384540295b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/29\/5-8.1791215673161.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירקידם",
+      "gloss": "жана бийлетет"
+    },
+    {
+      "surface": "кמו",
+      "gloss": "сыяктуу"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "букачар"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Ливанебен"
+    },
+    {
+      "surface": "ושרין",
+      "gloss": "жана Сирйонду"
+    },
+    {
+      "surface": "кמו",
+      "gloss": "сыяктуу"
+    },
+    {
+      "surface": "בן",
+      "gloss": "баласы"
+    },
+    {
+      "surface": "ראמים",
+      "gloss": "жабайы буга"
+    }
+  ],
+  "timestamp": "2026-10-05T15:54:33.162480662Z",
+  "model": "glm-5.3"
+}

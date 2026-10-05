@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 16:9",
+  "book": "joshua",
+  "lang": "ky",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨жаткан⟩",
+      "rationale": "Кыргыз тилинде керек болгон байламча; еврейче жок"
+    },
+    {
+      "kind": "substitution",
+      "subject": "кыштактар",
+      "rationale": "חצרים — короо\/чакан конуш, «кыштак» катары берилди"
+    }
+  ],
+  "translation": "Жана Эфраимдин уулдарына бөлүнгөн шаарлар Менашенин уулдарынын мурасынын ичинде ⟨жаткан⟩ — бардык шаарлар жана алардын кыштактары.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "44311bccf6264e785b994295119ed5743b516c244641fd0fc3eadd223ad75e1b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/joshua\/16\/9-10.1791205832262.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והערים",
+      "gloss": "жана шаарлар"
+    },
+    {
+      "surface": "המבדלות",
+      "gloss": "бөлүнгөн"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "уулдарына"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Эфраим"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ичинде"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "мурасынын"
+    },
+    {
+      "surface": "בני",
+      "gloss": "уулдарынын"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Менаше"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бардык"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "шаарлар"
+    },
+    {
+      "surface": "וחצריהן",
+      "gloss": "жана алардын кыштактары"
+    }
+  ],
+  "timestamp": "2026-10-05T13:10:32.263064686Z",
+  "model": "glm-5.3"
+}

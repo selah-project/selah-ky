@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 3:8",
+  "book": "1-kings",
+  "lang": "ky",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "элдин саны",
+      "rationale": "ימנה\/יספר — эл эсепке алынбайт, саноу тили."
+    },
+    {
+      "kind": "addition",
+      "subject": "турат",
+      "rationale": "Еврей текстинде этиш жок, кыргыз сүйлөмү үчүн кошулду."
+    }
+  ],
+  "translation": "Жана Сенин кулуң Сенин элиңдин — Сен тандаган элдин — ичинде, көп элдин ичинде турат, ал саны такалбайт да, эсептелбейт да — көптүгүнөн.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "bccd5e60c117f8d7618d0255d2422c3d14fd8ae715829592ba9575c8d035ba84",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-kings\/3\/5-8.1791208011392.json",
+    "code": "641241cf-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועבדך",
+      "gloss": "Жана Сенин кулуң"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ичинде"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "элиңдин"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "בחרת",
+      "gloss": "Сен тандаган"
+    },
+    {
+      "surface": "עם",
+      "gloss": "эл"
+    },
+    {
+      "surface": "רב",
+      "gloss": "көп"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "לא",
+      "gloss": "… эмес"
+    },
+    {
+      "surface": "ימנה",
+      "gloss": "саны такалбайт"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "да — эмес"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "эсептелбейт"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "көптүгүнөн"
+    }
+  ],
+  "timestamp": "2026-10-05T13:46:51.393275880Z",
+  "model": "glm-5.3"
+}

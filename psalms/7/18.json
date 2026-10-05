@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 7:18",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "цедек",
+      "rationale": "צדק «адилеттик» гана эмес — тууралик\/цедек тамыры сакталды"
+    },
+    {
+      "kind": "addition",
+      "subject": "Эң Жогорку",
+      "rationale": "עליון — байыркы атама, «Эң Жогорку» деген сыпат катары берилди"
+    }
+  ],
+  "translation": "Мен Яхвени анын цедеги үчүн даңктайм, жана Эң Жогорку Яхвенин ысымын ырдап мактайм.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "7efd8d651ed44c34e14a7d2f59f32fb178b9adaf08e6c355477f672820d439ea",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/7\/17-18.1791215232579.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "даңктайм"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвени"
+    },
+    {
+      "surface": "כצדקו",
+      "gloss": "анын цедеги үчүн"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "ырдап мактайм"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ысымын"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Эң Жогорку"
+    }
+  ],
+  "timestamp": "2026-10-05T15:47:12.579884594Z",
+  "model": "glm-5.3"
+}

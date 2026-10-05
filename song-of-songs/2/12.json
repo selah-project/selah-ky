@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 2:12",
+  "book": "song-of-songs",
+  "lang": "ky",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הזמיר",
+      "rationale": "замар: «кыркыш» (зайыр оозон, байлык) же «ырдоо» (замар корту спеллинги) — биз «ырдоону» тандык, контекст үн менен"
+    },
+    {
+      "kind": "addition",
+      "subject": "-нун",
+      "rationale": "ырдоонун: констругация үчүн кыргызча илик жалгоосу керек"
+    }
+  ],
+  "translation": "Жерде гүлдөр пайда болду, ырдоонун убактысы жетти, жана көгерчүнүн үнү жерибизде угулат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "ae860a8db01ef230bb30ebe299955dca02ac2a0697b3fab5d0cf832bc6dc85bc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/song-of-songs\/2\/9-12.1791219532368.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנצנים",
+      "gloss": "гүлдөр"
+    },
+    {
+      "surface": "נראו",
+      "gloss": "пайда болду"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "жерде"
+    },
+    {
+      "surface": "עת",
+      "gloss": "убактысы"
+    },
+    {
+      "surface": "הזמיר",
+      "gloss": "ырдоонун"
+    },
+    {
+      "surface": "הגיע",
+      "gloss": "жетти"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "жана үнү"
+    },
+    {
+      "surface": "התור",
+      "gloss": "көгерчүнүн"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "угулат"
+    },
+    {
+      "surface": "בארצנו",
+      "gloss": "жерибизде"
+    }
+  ],
+  "timestamp": "2026-10-05T16:58:52.369146365Z",
+  "model": "glm-5.3"
+}

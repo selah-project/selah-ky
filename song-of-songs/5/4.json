@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 5:4",
+  "book": "song-of-songs",
+  "lang": "ky",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ичегилерим",
+      "rationale": "ומעי булкөөдө ичегилер\/ичтик; көпчүлүк котормолор 'жүрөк' деп жумшартат"
+    },
+    {
+      "kind": "crux",
+      "subject": "החר",
+      "rationale": "тешик (эшиктин көзөнөгү) же тор (YLT 'net-work') — эшиктин ачык бөлүгү"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "המו",
+      "rationale": "сызгырык\/күүгүмдөгү үн маанисиндеги этиш — ички толкундоо кыйкырык сыяктуу угулат"
+    }
+  ],
+  "translation": "Сүйгөнүм ⟨את⟩ колун тешиктен сунду, жана ичегилерим ага билдирип толкундады.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "76065609d80ac31c3d260f3927bde804873617d1686c0adec0ea4d876d2a6847",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/song-of-songs\/5\/4-4.1791224534780.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דודי",
+      "gloss": "Сүйгөнүм"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "сунду"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "колун"
+    },
+    {
+      "surface": "מן",
+      "gloss": "…тан"
+    },
+    {
+      "surface": "החר",
+      "gloss": "тешик"
+    },
+    {
+      "surface": "ומעי",
+      "gloss": "жана ичегилерим"
+    },
+    {
+      "surface": "המו",
+      "gloss": "толкундады"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ага"
+    }
+  ],
+  "timestamp": "2026-10-05T18:22:14.780889011Z",
+  "model": "glm-5.3"
+}

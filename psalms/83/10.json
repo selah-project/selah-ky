@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 83:10",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 83,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "болгондой",
+      "rationale": "Ыргактык салыштыруу бүтүрүү үчүн кошулду; еврейче «кайберен» γamma формасы гана бар."
+    },
+    {
+      "kind": "you",
+      "subject": "Яхвеге",
+      "rationale": "Буюрукourg формада — дубалга айтылган тилемдик чакырык."
+    }
+  ],
+  "translation": "Аларга Мадиандагыдай кыл, Сисерагагыдай, Ябинге Кишон дарыясында болгондой.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "4d68588690c2e339ec328024aca5ab55546f99503f443c98eeacd1737939e6bd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/83\/9-12.1791216649214.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "кыл"
+    },
+    {
+      "surface": "להם",
+      "gloss": "аларга"
+    },
+    {
+      "surface": "כמדין",
+      "gloss": "Мадиандагыдай"
+    },
+    {
+      "surface": "כסיסרא",
+      "gloss": "Сисерагагыдай"
+    },
+    {
+      "surface": "כיבין",
+      "gloss": "Ябин"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "дарыясында"
+    },
+    {
+      "surface": "קישון",
+      "gloss": "Кишон"
+    }
+  ],
+  "timestamp": "2026-10-05T16:10:49.215484007Z",
+  "model": "glm-5.3"
+}

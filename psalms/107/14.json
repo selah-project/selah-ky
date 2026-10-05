@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 107:14",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "өлүм көлөкөсү",
+      "rationale": "צלמות — «өлүм көлөкөсү» — баш-аламан бир сөз, мааниси көлөкө\/өлүм катары сакталды."
+    },
+    {
+      "kind": "you",
+      "subject": "",
+      "rationale": "Аят Яхвенин иш-аракетин баяндайт, тиешелүү predicates жок."
+    }
+  ],
+  "translation": "Аларды караңгылыктан жана өлүм көлөкөсүнөн алып чыкты, алардын байламдарын жыртып үздү.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "2b07d6f719f9be1798e08d130fb11c8a0cda62ce0c3d34b7e41a485a00968ecc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/107\/13-16.1791217131881.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יוציאם",
+      "gloss": "алып чыкты"
+    },
+    {
+      "surface": "מחשך",
+      "gloss": "караңгылыктан"
+    },
+    {
+      "surface": "וצלמות",
+      "gloss": "өлүм көлөкөсүнөн"
+    },
+    {
+      "surface": "ומוסרותיהם",
+      "gloss": "байламдарын"
+    },
+    {
+      "surface": "ינתק",
+      "gloss": "жыртып үздү"
+    }
+  ],
+  "timestamp": "2026-10-05T16:18:51.882287086Z",
+  "model": "glm-5.3"
+}

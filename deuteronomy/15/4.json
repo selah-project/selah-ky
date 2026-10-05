@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 15:4",
+  "book": "deuteronomy",
+  "lang": "ky",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ברך יברכך",
+      "rationale": "Инфинитив абсолют + этиш — 'батайлап батайт' күчөтүү конструкциясы."
+    },
+    {
+      "kind": "crux",
+      "subject": "אפס כי",
+      "rationale": "'Бирок\/тек гана' же 'тек сенде жокчул болбойт гана' — KJV 'save when', JPS 'howbeit' деген эки окуу бар."
+    },
+    {
+      "kind": "substitution",
+      "subject": "жокчул",
+      "rationale": "אביון — 'муктаж, жок-жылаңайлак' деген сөз; турмуштук абал, кыргызча 'жокчул' берилди."
+    }
+  ],
+  "translation": "Бирок сенде жокчул болбойт, анткени Яхве сени батайлаары — Яхве, сенин Элохимиң, сага мурас катары аны ээлешүү үчүн берген жеринде.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "951ea50b774bd73147206992756279a75d684f67502fc25ff20aa68c5ec78901",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/15\/1-4.1791205041715.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אפס",
+      "gloss": "бирок"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "болбойт"
+    },
+    {
+      "surface": "בך",
+      "gloss": "сенде"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "жокчул"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "батайлаары"
+    },
+    {
+      "surface": "יברכך",
+      "gloss": "сени батайт"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "жеринде"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ал"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "сенин Элохимиң"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "берген"
+    },
+    {
+      "surface": "לך",
+      "gloss": "сага"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "мурас катары"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "аны ээлешүү үчүн"
+    }
+  ],
+  "timestamp": "2026-10-05T12:57:21.716705163Z",
+  "model": "glm-5.3"
+}

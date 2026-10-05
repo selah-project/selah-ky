@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 5:32",
+  "book": "deuteronomy",
+  "lang": "ky",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "Йисраэлге",
+      "rationale": "буйрук формасы: 'сактагыла... тайышпагыла' — элге түз чакырык"
+    },
+    {
+      "kind": "idiom",
+      "subject": "оңго да, солго да",
+      "rationale": "букв. 'оңду жана солду' — туура жолдон тайбоо идиомасы"
+    }
+  ],
+  "translation": "Жана сактагыла — Яхве, Элохим силерге буйругандай аткарыш үчүн ⟨את⟩ — оңго да, солго да тайышпагыла.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "c9bc3ccc57b618854b98d44444d57d267375f009a111e98104de7b6bedf364ca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/5\/29-32.1791204783368.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "жана сактагыла"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "аткарыш үчүн"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "буйругандай"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "буйруган"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "силер"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "תסרу",
+      "gloss": "тайышпагыла"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "оңго"
+    },
+    {
+      "surface": "ושמאל",
+      "gloss": "солго"
+    }
+  ],
+  "timestamp": "2026-10-05T12:53:03.370032101Z",
+  "model": "glm-5.3"
+}

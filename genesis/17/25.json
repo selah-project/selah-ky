@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 17:25",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "болгон",
+      "rationale": "Еврейче этиш жок, кыргызча айкындоо үчүн кошулду"
+    },
+    {
+      "kind": "idiom",
+      "subject": "בשר ערלה",
+      "rationale": "«Сүнөттүлүктүн эти» — сүнөткө йиген аймагы"
+    },
+    {
+      "kind": "measurement",
+      "subject": "он үч жыл",
+      "rationale": "Ишмаэлдин жашы эсептелет"
+    }
+  ],
+  "translation": "Жана анын уулу Ишмаэл он үч жашта болгон, анын сүнөттүлүгүнүн этин сүнөткө йигенде ⟨את⟩.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "a6beab6822bee82278c6e44c2cb090a89e522747cbef60b090284250f8c6948d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/17\/25-27.1791200996671.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמעאל",
+      "gloss": "Жана Ишмаэл"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "анын уулу"
+    },
+    {
+      "surface": "בן",
+      "gloss": "уул"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "үч"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "он"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "жыл"
+    },
+    {
+      "surface": "בהמלו",
+      "gloss": "сүнөткө йигенде"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "эт"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "эт"
+    },
+    {
+      "surface": "ערלתו",
+      "gloss": "анын сүнөттүлүгүнүн"
+    }
+  ],
+  "timestamp": "2026-10-05T11:49:56.672444653Z",
+  "model": "glm-5.3"
+}

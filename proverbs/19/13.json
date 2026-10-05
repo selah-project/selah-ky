@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 19:13",
+  "book": "proverbs",
+  "lang": "ky",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "наадан",
+      "rationale": "כסיל ' semiz\/жүдөө' деген сөздөн — 'акылсыз, наадан' фигуралык мааниси"
+    },
+    {
+      "kind": "idiom",
+      "subject": "үздүксүз тамчылоо",
+      "rationale": "ודלף טרד — 'куйка берилген тамчы' идиома, татынакай азаптын образы"
+    }
+  ],
+  "translation": "Ата үчүн катастрофа — наадан уул, жана аялдын чыңалуулары — үздүксүз тамчылай турган тамчы.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "4db57d3e7984a0cd60fd6edf2d7f04c1d323a7bd066f653ba32aac9a5bab8464",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/19\/13-16.1791218179583.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הות",
+      "gloss": "катастрофа"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "ата үчүн"
+    },
+    {
+      "surface": "בן",
+      "gloss": "уул"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "наадан"
+    },
+    {
+      "surface": "ודלף",
+      "gloss": "жана тамчылоо"
+    },
+    {
+      "surface": "טרד",
+      "gloss": "үздүксүз (тамчылоочу)"
+    },
+    {
+      "surface": "מדיני",
+      "gloss": "чыңалуулары"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "аялдын"
+    }
+  ],
+  "timestamp": "2026-10-05T16:36:19.583631907Z",
+  "model": "glm-5.3"
+}

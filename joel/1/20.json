@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joel 1:20",
+  "book": "joel",
+  "lang": "ky",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "תערוג",
+      "rationale": "«ышкынуу, дал-дал болуу» — жаныбарлар да жаратылыш катары Яхвеге «суусайт»; сөз сүрөттү берип турат."
+    },
+    {
+      "kind": "you",
+      "subject": "Яхвеге",
+      "rationale": "Жаныбарлардын өзү Сага (Яхвеге) ышкынат — аяттын кайрылуусу уланып жатат."
+    }
+  ],
+  "translation": "Талаанын жаныбарлары да Сага ышкынып турат, анткени суу агындары куурады, жана от чөлдүн жайыттарын жеп койду.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "2f5da06fad5160cc3597ad94adb8f89518ef59dd0b78a95cb99b3bb167956acb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/joel\/1\/17-20.1791214148246.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "да"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "жаныбарлары"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "талаанын"
+    },
+    {
+      "surface": "תערוג",
+      "gloss": "ышкынып турат"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "Сага"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "куурады"
+    },
+    {
+      "surface": "אפיקי",
+      "gloss": "агындары"
+    },
+    {
+      "surface": "מים",
+      "gloss": "суу"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "жана от"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "жеп койду"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "жайыттарын"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "чөлдүн"
+    }
+  ],
+  "timestamp": "2026-10-05T15:29:08.247314669Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 37:10",
+  "book": "job",
+  "lang": "ky",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "במוצק",
+      "rationale": "'тарчылыкта' — 'музга айланат' же 'кысылат' деген эки окуу бар"
+    },
+    {
+      "kind": "substitution",
+      "subject": "keŋdigi kysylat",
+      "rationale": "KJV 'straitened' боюнча; башка окуу — 'тойгузулган' түшүнүгүндө"
+    }
+  ],
+  "translation": "Элдин деминен муз берилет, жана суулардын кеңдиги кысылат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "69b2eae1e74b0dffd42470f4e627f0e6c67bbe4b41b3a164ae80823d517a4346",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/job\/37\/9-12.1791219323268.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מנשמת",
+      "gloss": "деминен"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эл"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "берилет"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "муз"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "жана кеңдиги"
+    },
+    {
+      "surface": "מים",
+      "gloss": "суулардын"
+    },
+    {
+      "surface": "במוצק",
+      "gloss": "кысылат"
+    }
+  ],
+  "timestamp": "2026-10-05T16:55:23.269158358Z",
+  "model": "glm-5.3"
+}

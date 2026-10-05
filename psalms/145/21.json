@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 145:21",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 145,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Менин ... оозум",
+      "rationale": "Ивритте «пий» — «оозум», кыргызча ээлик «менин» кошулду"
+    },
+    {
+      "kind": "crux",
+      "subject": "ויברך",
+      "rationale": "Жөнөкөй келер чак (бардык эт алкышат) же буйрук мааниси (бардык эт алкыш берсин) — KJV\/ASV «let all flesh bless», YLT «doth bless»"
+    }
+  ],
+  "translation": "Менин оозум Яхвенин мактай турган даңкын айтып турат, жана бүт эт ⟨анын⟩ ыйык ысымын түбөлүккө, түбөлүктүн түбөлүгүнө алкыш берсин.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "9b4ff06a0a24023cc0952b89e9adf8b964dfbb2d0b0c915dd7f52a47316d414c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/145\/21-21.1791217612393.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תהלת",
+      "gloss": "даңкын"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "айтып турат"
+    },
+    {
+      "surface": "פי",
+      "gloss": "оозум"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "жана алкыш берсин"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүт"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "эт"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ысымын"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "ыйык"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "түбөлүккө"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "түбөлүктүн түбөлүгүнө"
+    }
+  ],
+  "timestamp": "2026-10-05T16:26:52.393570657Z",
+  "model": "glm-5.3"
+}

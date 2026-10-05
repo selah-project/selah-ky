@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 7:15",
+  "book": "ecclesiastes",
+  "lang": "ky",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "хэбэл",
+      "rationale": "הבל «аба, түтүн, маанисиздик» — кыргызча бир сөзгө сыярбайт, айтылышы боюнча калды"
+    },
+    {
+      "kind": "crux",
+      "subject": "узарткан",
+      "rationale": "מאריך «узартат» — ким узартат: өзү узун жашайт же (тиркелбеген объект) жашоосун узартат"
+    }
+  ],
+  "translation": "Мен ⟨את⟩ баарысын көрдүм хэбэл күндөрүмдө: бар өз цедегинде жок болгон адил, жана бар өз жамандыгында узарткан жаман.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "74e5c7f773e7ba8b84ce3e17a78a44db15e665abca65d65accac573a568b0dc5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ecclesiastes\/7\/13-16.1791220095547.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "баарысын"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "баарысын"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "көрдүм"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "күндөрүмдө"
+    },
+    {
+      "surface": "הבלי",
+      "gloss": "хэбэл"
+    },
+    {
+      "surface": "יש",
+      "gloss": "бар"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "адил"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "жок болгон"
+    },
+    {
+      "surface": "בצדקו",
+      "gloss": "өз цедегинде"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "жана бар"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "жаман"
+    },
+    {
+      "surface": "מאריך",
+      "gloss": "узарткан"
+    },
+    {
+      "surface": "ברעתו",
+      "gloss": "өз жамандыгында"
+    }
+  ],
+  "timestamp": "2026-10-05T17:08:15.548559731Z",
+  "model": "glm-5.3"
+}

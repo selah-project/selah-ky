@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 46:12",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "мшгав",
+      "rationale": "Сөз 'бийик, жете алгыс аска' деген сүрөт; 'паналай турган жер' — сүрөттү кыргызча сактаган аныктоо."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨бул⟩",
+      "rationale": "Кыргызча атоочтук айтылыш үчүнCopula талап кылынат, еврей текстинде жок."
+    }
+  ],
+  "translation": "Яхве Цебаот биз менен; Яаковтын Элохими биз үчүн бийик паналай турган жер. Селах.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "4bb028f6c60e54043b340f871415b1dd75b009cf2e31c5010be783dc15d98f8d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/46\/9-12.1791216070000.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цебаот"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "биз менен"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "бийик паналай турган жер"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "биз үчүн"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Элохими"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаковтын"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Селах"
+    }
+  ],
+  "timestamp": "2026-10-05T16:01:10.001417198Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 12:8",
+  "book": "proverbs",
+  "lang": "ky",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "акыл-эсине жараша",
+      "rationale": "לפי букв. 'оозуна карата' — өлчөө маанисиндеги идиома"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨адам⟩",
+      "rationale": "Еврейче 'жүрөктүү' деген сөз гана бар; кыргызча 'бурулган жүрөктүү' деген сөз адамды талап кылат"
+    }
+  ],
+  "translation": "Акыл-эсине жараша адам макталат, ал эми бурулган жүрөктүү ⟨адам⟩ кордукка калат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "d2779ffb0844c10ed427f898d0e6419f70e0ab81aee59b173f3351f6e1aae832",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/12\/5-8.1791217972308.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לפי",
+      "gloss": "акыл-эсине жараша"
+    },
+    {
+      "surface": "שכלו",
+      "gloss": "акыл-эси"
+    },
+    {
+      "surface": "יהלל",
+      "gloss": "макталат"
+    },
+    {
+      "surface": "איש",
+      "gloss": "адам"
+    },
+    {
+      "surface": "ונעוה",
+      "gloss": "бурулган"
+    },
+    {
+      "surface": "לב",
+      "gloss": "жүрөктүү"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "болот"
+    },
+    {
+      "surface": "לבוז",
+      "gloss": "кордукка"
+    }
+  ],
+  "timestamp": "2026-10-05T16:32:52.309822234Z",
+  "model": "glm-5.3"
+}

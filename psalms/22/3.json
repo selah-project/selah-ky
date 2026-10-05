@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 22:3",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "דומיה",
+      "rationale": "Ким үнсүз? Забурчубу («мен үнсүз калбайм» — KJV) же Кудай үнсүзбү («мага тынчтык\/жооп жок» — LXX, JPS)"
+    }
+  ],
+  "translation": "Элохимум, күндүз чакырам — жооп бербейсиң, түн ичинде да — мага тынчтык жок.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "1f377ff2861ad5d39d4b6ab6e36301de183a672594ae4acfa7b61725f2b88b0b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/22\/1-4.1791215605419.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Элохимум"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "чакырам"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "күндүз"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "жана жок"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "жооп бербейсиң"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "түн ичинде да"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "жана жок"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "тынчтык"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мага"
+    }
+  ],
+  "timestamp": "2026-10-05T15:53:25.420342502Z",
+  "model": "glm-5.3"
+}

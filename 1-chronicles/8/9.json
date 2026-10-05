@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 8:9",
+  "book": "1-chronicles",
+  "lang": "ky",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "генеалогия",
+      "rationale": "Аттардын тизмеси — уруулук санак."
+    },
+    {
+      "kind": "crux",
+      "subject": "מלכם",
+      "rationale": "Малкам — бул жерде адамдын аты, Милком (аммондуктарддын кудайы) эмес, бир окшош тамыр."
+    }
+  ],
+  "translation": "Жана ал Ходеш деген аялынан ⟨את⟩ Йовавти, ⟨את⟩ Цивьяны, ⟨את⟩ Мейшаны жана ⟨את⟩ Малкамды тууду.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "1f9824ca169078305df306c3abe3fe36f41e6227c7b51f04824fc1b3e64167e8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-chronicles\/8\/9-12.1791221877393.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "тууду"
+    },
+    {
+      "surface": "מן",
+      "gloss": "–дан"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "Ходеш"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "аялынан"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Йовавти"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "Йовав"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Цивьяны"
+    },
+    {
+      "surface": "צביא",
+      "gloss": "Цивья"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Мейшаны"
+    },
+    {
+      "surface": "מישא",
+      "gloss": "Мейша"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Малкамды"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "Малкам"
+    }
+  ],
+  "timestamp": "2026-10-05T17:37:57.393607446Z",
+  "model": "glm-5.3"
+}

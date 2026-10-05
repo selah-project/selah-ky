@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 32:4",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "—",
+      "rationale": "Кыргызча копула талап кылат; ивритте жок, кашаада"
+    },
+    {
+      "kind": "crux",
+      "subject": "אלהיך — көптүк сан",
+      "rationale": "Көптүк сан «булар — сенин Элохимиң» KJV\/ASV боюнча; JPS бирлик сан менен «бул — сенин Элохимиң» деп окуйт"
+    },
+    {
+      "kind": "hapax",
+      "subject": "חרט",
+      "rationale": "бул сөз Танахта ушул жерде гана кездешет — кескич жазуу аспабы"
+    }
+  ],
+  "translation": "Жана ал алардын колунан алып, аны кескич менен жасап, аны куюлган музоого айлантты; жана алар айтты: Йисраэл, булар — сенин Элохимиң, сени Мицрайим жеринен алып чыккандар.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "8ee2a7f3406e1283413764691b3e96c9adfd4157e0ecd99f57a3f2e3fe4c6c25",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/32\/4-4.1791223541064.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "алып"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "колунан"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "жасап"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "аны"
+    },
+    {
+      "surface": "בחרט",
+      "gloss": "кескич"
+    },
+    {
+      "surface": "ויעשהו",
+      "gloss": "жасады"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "музоо"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "куюлган"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "алар айтты"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "булар"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "сенин Элохимиң"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэл"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "алар"
+    },
+    {
+      "surface": "העלוך",
+      "gloss": "алып чыккандар"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "жеринен"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицрайим"
+    }
+  ],
+  "timestamp": "2026-10-05T18:05:41.065445683Z",
+  "model": "glm-5.3"
+}

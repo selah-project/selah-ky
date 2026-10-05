@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 24:15",
+  "book": "proverbs",
+  "lang": "ky",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "жаман адамга",
+      "rationale": "Аят жаман адамды тикелей адрестеп, тыюу салат."
+    },
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "rationale": "Бөлүкчө тануу «…ба» мүчөсү менен берилди, өзүнчө сөз катары жок."
+    }
+  ],
+  "translation": "Тузак курба, эй жаман адам, адил адамдын турагына; анын жаткан жерин бузба.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "df8f5789cc2fc7e8ad7ccdf54fc09b2aa73ad435dd0b112bc89e8ba8f5c41659",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/24\/13-16.1791218311249.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "…ба"
+    },
+    {
+      "surface": "תארב",
+      "gloss": "тузак кур"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "жаман адам"
+    },
+    {
+      "surface": "לנוה",
+      "gloss": "турагына"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "адил адамдын"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ба"
+    },
+    {
+      "surface": "תשדד",
+      "gloss": "буз"
+    },
+    {
+      "surface": "רבצו",
+      "gloss": "жаткан жерин"
+    }
+  ],
+  "timestamp": "2026-10-05T16:38:31.250035993Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 2:18",
+  "book": "jeremiah",
+  "lang": "ky",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Йеудага",
+      "rationale": "Эки суроо тең түз кайрылуу."
+    },
+    {
+      "kind": "crux",
+      "subject": "שחור",
+      "rationale": "Шихор — Египет дарыясы (Нил же анын бир тармагы); айрым котормолор «кудуқ суу» деп которот."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "жол \/ суу",
+      "rationale": "Эки жарым аят бири-бирин кайталайт — Мицрайим\/Ашшур, Шихор\/дарыя параллелизм."
+    }
+  ],
+  "translation": "Жана азыр сага эмне бар Мицрайим жолунда, Шихордун суусун ичүүгө? Жана сага эмне бар Ашшур жолунда, дарыянын суусун ичүүгө?",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "82885541c6f21ed67d46aec70e3efca3f7618696944013cd0cfcb3e6fd9363cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/jeremiah\/2\/17-20.1791210697246.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "жана азыр"
+    },
+    {
+      "surface": "מה",
+      "gloss": "эмне"
+    },
+    {
+      "surface": "לך",
+      "gloss": "сага"
+    },
+    {
+      "surface": "לדרך",
+      "gloss": "жолунда"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицрайим"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "ичүүгө"
+    },
+    {
+      "surface": "מי",
+      "gloss": "суусун"
+    },
+    {
+      "surface": "שחור",
+      "gloss": "Шихор"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "жана эмне"
+    },
+    {
+      "surface": "לך",
+      "gloss": "сага"
+    },
+    {
+      "surface": "לדרך",
+      "gloss": "жолунда"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ашшур"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "ичүүгө"
+    },
+    {
+      "surface": "מי",
+      "gloss": "суусун"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "дарыя"
+    }
+  ],
+  "timestamp": "2026-10-05T14:31:37.247150434Z",
+  "model": "glm-5.3"
+}

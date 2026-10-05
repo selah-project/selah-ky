@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 10:8",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מי ומי",
+      "rationale": "'ким жана ким' — эки жолу кайталанган суроо, еврейче өзгөчө басым берет; кыргызча 'кимдер' деп жумшартылды"
+    },
+    {
+      "kind": "you",
+      "subject": "Моше менен Ахаронго",
+      "rationale": "Пароhтун буйругу: 'барыңар', 'кызмат кылгыла'"
+    }
+  ],
+  "translation": "Жана ⟨את⟩ Моше менен ⟨את⟩ Ахаронду Пароhго кайра алып келишти, жана ал аларга айтты: Барыңар, ⟨את⟩ Элохимдериңер Яхвеге кызмат кылгыла. Кимдер бара жаткан?",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "0aafd8b0a088a4caccfe9fd46fedbdcbe70f92ecb1744fef52422b51d821dba4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/10\/5-8.1791202050080.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויושב",
+      "gloss": "жана... кайра алып келишти"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Мошени"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Ахаронду"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Ахаронду"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-го"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Пароhго"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "жана... айтты"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "аларга"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "барыңар"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "кызмат кылгыла"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яхвеге"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвеге"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Элохимдериңер"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кимдер"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "жана кимдер"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "бара жаткан"
+    }
+  ],
+  "timestamp": "2026-10-05T12:07:30.082268889Z",
+  "model": "glm-5.3"
+}

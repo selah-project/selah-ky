@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 8:7",
+  "book": "hosea",
+  "lang": "ky",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "рухту эгип, бороону оруу",
+      "rationale": "Идиома: רוח — 'шамал\/рух' эгилип, дүрбөлөңгө айланат; эгин менен шамалдын оюнун кыргызча толук берүү кыйын"
+    },
+    {
+      "kind": "substitution",
+      "subject": "рух",
+      "rationale": "רוח дайыма 'рух' деп сакталат — бул жерде 'шамал' мааниси да бар"
+    }
+  ],
+  "translation": "Анткени алар рухту эгишет жана бороону орушат: сабагы анда жок — бүчүр ун чыгарбайт; чыгарса да, бөтөндөр аны жутуп жиберет.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "4a1bc1d98521bcab45a678ecebe74c1632eb79b3c6b554d344a64194bb829b0a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/hosea\/8\/5-8.1791214051366.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "рух"
+    },
+    {
+      "surface": "יזרעו",
+      "gloss": "эгишет"
+    },
+    {
+      "surface": "וסופתה",
+      "gloss": "жана бороон"
+    },
+    {
+      "surface": "יקצרו",
+      "gloss": "оорушат"
+    },
+    {
+      "surface": "קמה",
+      "gloss": "сабак"
+    },
+    {
+      "surface": "אין",
+      "gloss": "жок"
+    },
+    {
+      "surface": "לו",
+      "gloss": "анда"
+    },
+    {
+      "surface": "צמח",
+      "gloss": "бүчүр"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "жок"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "чыгарылат"
+    },
+    {
+      "surface": "קמח",
+      "gloss": "ун"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "чыгарса да"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "чыкса"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "бөтөндөр"
+    },
+    {
+      "surface": "יבלעהו",
+      "gloss": "жутуп жиберет"
+    }
+  ],
+  "timestamp": "2026-10-05T15:27:31.367669685Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 46:2",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жаны",
+      "rationale": "נפש 'дем алуучу жандуулук, жашоо күчү' дегенди билдирет, 'жан' деген философиялык түшүнүк эмес."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "משא\/מלט",
+      "rationale": "Буттар жүктү куткара албай, өздөрү жүк болуп туткунга түштү."
+    }
+  ],
+  "translation": "Бирге чөгүштү, бирге тизе бүктөштү; жүктү куткара алышкан жок, алардын жаны туткундукка барды.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "929378757d3c63c681e5ccdedcaeaa2a743f6eac32b856611b017741e34ba79c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/46\/1-4.1791210257459.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קרסו",
+      "gloss": "чөгүштү"
+    },
+    {
+      "surface": "כרעו",
+      "gloss": "тизе бүктөштү"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "бирге"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "куткара алышты"
+    },
+    {
+      "surface": "מלט",
+      "gloss": "куткарууга"
+    },
+    {
+      "surface": "משא",
+      "gloss": "жүктү"
+    },
+    {
+      "surface": "ונפשם",
+      "gloss": "жана алардын жаны"
+    },
+    {
+      "surface": "בשבי",
+      "gloss": "туткундукка"
+    },
+    {
+      "surface": "הלכה",
+      "gloss": "барды"
+    }
+  ],
+  "timestamp": "2026-10-05T14:24:17.459916245Z",
+  "model": "glm-5.3"
+}

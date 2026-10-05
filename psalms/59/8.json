@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 59:8",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 59,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "יביעון",
+      "rationale": "Букмача «агызышат\/булактай чыгарышат» — ооздон сөз агуу булактай сүрөттөлөт"
+    },
+    {
+      "kind": "addition",
+      "subject": "деп айтышат",
+      "rationale": "Ивритте «алар айтат» жок, сурам түз келет; кыргызча айкындоо үчүн кошулду"
+    },
+    {
+      "kind": "you",
+      "subject": "душмандар жөнүндө",
+      "rationale": "Сурам «Ким укмак?» — ишенбегендиктин айтымы, окурманга багытталат"
+    }
+  ],
+  "translation": "Кароосуз эмес — алар ооздорунон көбүктөндүрүшөт, эриндеринде кылычтар, анткени «Ким укмак?» ⟨деп айтышат⟩.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "6bb2bf1e2d07462486cea6ba5bbb6dfe2c84d0a63598bca975946cee0d41d2d5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/59\/8-8.1791224428545.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Кароосуз эмес"
+    },
+    {
+      "surface": "יביעון",
+      "gloss": "көбүктөндүрүшөт"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "ооздорунон"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "кылычтар"
+    },
+    {
+      "surface": "בשפתותיהם",
+      "gloss": "эриндеринде"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Ким"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "укмак"
+    }
+  ],
+  "timestamp": "2026-10-05T18:20:28.545421979Z",
+  "model": "glm-5.3"
+}

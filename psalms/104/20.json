@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 104:20",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 104,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨Сен⟩",
+      "rationale": "еврейче этиштин жак мүчөсү гана бар (תשת), кыргызча аты аталышы керек"
+    },
+    {
+      "kind": "substitution",
+      "subject": "кыймылга келет",
+      "rationale": "תרמש — 'сойлоо, жоруп жүрүү'; жаныбарлар түнү жылаңдап чыгат"
+    }
+  ],
+  "translation": "⟨Сен⟩ карангылыкты коюсуң жана түн болот; анын ичинде токойдун бүт жаныбарлары кыймылга келет.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "4906a052b5537e6a05aaea946159345b7b9ba26f4c52b35185186f363c706637",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/104\/17-20.1791217029549.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תשת",
+      "gloss": "коюсуң"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "карангылыкты"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "жана ... болот"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "түн"
+    },
+    {
+      "surface": "בו",
+      "gloss": "анын ичинде"
+    },
+    {
+      "surface": "תרмש",
+      "gloss": "кыймылга келет"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүт"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "жаныбарлары"
+    },
+    {
+      "surface": "יער",
+      "gloss": "токойдун"
+    }
+  ],
+  "timestamp": "2026-10-05T16:17:09.550665181Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 25:18",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "менин",
+      "rationale": "Кыргыз тилинде атоочтук айтылыш үчүн кошулду"
+    },
+    {
+      "kind": "crux",
+      "subject": "ושא",
+      "rationale": "«Көтөрүү» же «кечириүү»: נשא ל + күнөө — күнөөнү көтөрүп алуу (кечириүү) маанисинде"
+    }
+  ],
+  "translation": "Кара ⟨менин⟩ жапа чегишимди жана оор эмгегимди, жана бардык күнөөлөрүмдү көтөрүп сал.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "1a26b84918913e693e2e154fbf7035ba82ed9000bf38b8dbaa2492f9529d120a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/25\/18-19.1791224420855.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "кара"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "жапа чегишимди"
+    },
+    {
+      "surface": "ועמלי",
+      "gloss": "жана оор эмгегимди"
+    },
+    {
+      "surface": "ושא",
+      "gloss": "жана көтөрүп сал"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "бардык"
+    },
+    {
+      "surface": "חטאותי",
+      "gloss": "күнөөлөрүмдү"
+    }
+  ],
+  "timestamp": "2026-10-05T18:20:20.856106490Z",
+  "model": "glm-5.3"
+}

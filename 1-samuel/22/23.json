@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 22:23",
+  "book": "1-samuel",
+  "lang": "ky",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אתי",
+      "rationale": "אתי (H854 ‘мен менен’) сөзү — H853 катары окшош жазылыш, бирок ал жерде ал предлог"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יבקש את נפשי יבקש את נפשך",
+      "rationale": "эки ‘издейт’ жана эки ‘жан’ кайталануусу — кыргызча да кайталанган"
+    }
+  ],
+  "translation": "Мен менен тур, коркпо; анткени менин жанымды издеген ⟨את⟩ сенин жанымды да ⟨את⟩ издейт; анткени сен мен менен сактоосуна алынгансың.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "319c1bcccfac058cbb6f70e417e24a79300a215fe8a23dbb5fc628fdf7108782",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-samuel\/22\/21-23.1791207091775.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שבה",
+      "gloss": "тур"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ мен менен"
+    },
+    {
+      "surface": "אל",
+      "gloss": "жок"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "коркпо"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ким"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "издеген"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "жанымды"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "жанымды"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "издейт"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "жанымды да"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "жанымды да"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "сактоосуна"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "сен"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "мен менен"
+    }
+  ],
+  "timestamp": "2026-10-05T13:31:31.776464961Z",
+  "model": "glm-5.3"
+}

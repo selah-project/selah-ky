@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 6:15",
+  "book": "deuteronomy",
+  "lang": "ky",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "каары",
+      "rationale": "אף литералдык 'мурун, таноо' — каардын ордо, кыргызча 'каар' делинди"
+    },
+    {
+      "kind": "idiom",
+      "subject": "жердин үстүнөн",
+      "rationale": "מעל פני האדמה 'жердин жүзүнөн' — туура кабыл алуу үчүн 'үстүнөн' кылынды"
+    }
+  ],
+  "translation": "Анткени кызганичтуу Эл — Яхве, Элохимиң — силердин арканызда; антпесе Яхвенин, Элохимиңдердин, каары силерге күйүп, силерди жердин үстүнөн жок кылса.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "7594844095c98708fa98b750ee367d9e02bf6867226e3984820ff4410f59c518",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/6\/13-16.1791204775496.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эл"
+    },
+    {
+      "surface": "קנא",
+      "gloss": "кызганичтуу"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Элохимиң"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "арканызда"
+    },
+    {
+      "surface": "פן",
+      "gloss": "антпесе"
+    },
+    {
+      "surface": "יחרה",
+      "gloss": "күйүп"
+    },
+    {
+      "surface": "אף",
+      "gloss": "каары"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Элохимиңдердин"
+    },
+    {
+      "surface": "בך",
+      "gloss": "силерге"
+    },
+    {
+      "surface": "והשמידך",
+      "gloss": "жок кылса"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "үстүнөн"
+    },
+    {
+      "surface": "פני",
+      "gloss": "үстүнөн"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "жердин"
+    }
+  ],
+  "timestamp": "2026-10-05T12:52:55.498868457Z",
+  "model": "glm-5.3"
+}

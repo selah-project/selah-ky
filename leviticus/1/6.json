@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 1:6",
+  "book": "leviticus",
+  "lang": "ky",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "өрттөлүүчү курмандык",
+      "rationale": "עלה сөзмөсөр 'өйдө көтөрүлгөн' — түтүнү асманга көтөрүлөт"
+    }
+  ],
+  "translation": "Жана ал өрттөлүүчү курмандыктын терисин сыйрыйт, жана аны өзүнүн бөлүктөрүнө бөлүп турайт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "7ab9af0c71b0302942b0f6a2cfe83901fe36afeeb8c96ce7d95b609a9e04c55f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/1\/5-8.1791202812865.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והפשיט",
+      "gloss": "жана терисин сыйрыйт"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "өрттөлүүчү курмандыкты"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "өрттөлүүчү курмандыкты"
+    },
+    {
+      "surface": "ונתח",
+      "gloss": "жана бөлүп турайт"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "аны"
+    },
+    {
+      "surface": "לנתחיה",
+      "gloss": "бөлүктөрүнө"
+    }
+  ],
+  "timestamp": "2026-10-05T12:20:12.866502415Z",
+  "model": "glm-5.3"
+}

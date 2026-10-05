@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 1:28",
+  "book": "numbers",
+  "lang": "ky",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "чыга алган",
+      "rationale": "יצאא 'чыгуучу' — котормодо 'жөндөмдүүлүк' мааниси кошулду"
+    },
+    {
+      "kind": "measurement",
+      "subject": "санап чыгуу",
+      "rationale": "Аскерге чакырылуучу эркектерди сангоо — жашы жана ысымдары боюнча"
+    },
+    {
+      "kind": "elision",
+      "subject": "שנה",
+      "rationale": "'жыйырма жаштан' дегенде 'жыл' сөзү ээрчийт, бирок кыргызча түшүрүлдү"
+    }
+  ],
+  "translation": "Йисашхардын уулдарынын — төкөмүштөрү, үй-бүлөлөрү боюнча, аталарынын үйү боюнча, ысымдардын саны боюнча, жашы жыйырмадан жогору, аскерге чыга алган ар бир адам.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "b2ad5b184708a3bee8760f5c8fc827cc0d415a2d3dd1b961eedca59aeb177924",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/numbers\/1\/28-28.1791223612752.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "уулдарынын"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Йисашхардын"
+    },
+    {
+      "surface": "תולדתם",
+      "gloss": "төкөмүштөрү"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "үй-бүлөлөрү боюнча"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "үйү боюнча"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "аталарынын"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "саны боюнча"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "ысымдардын"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "жашы"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "жыйырмадан"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "жыл"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "жогору"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ар бир"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "чыга алган"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "аскерге"
+    }
+  ],
+  "timestamp": "2026-10-05T18:06:52.753320632Z",
+  "model": "glm-5.3"
+}

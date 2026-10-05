@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 18:10",
+  "book": "jeremiah",
+  "lang": "ky",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "кайтуу",
+      "rationale": "נחם букв. «күңкүлдөө, дем алуу» — «кайтуу, ойлондуу» маанисинде"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ага⟩",
+      "rationale": "אותו את белгиси көтөргөн объект кыргызча этишке кошулду"
+    }
+  ],
+  "translation": "жана ал Менин көз алдымда жамандык кылса, Менин үнүмдү укпай калса, Мен айткан жакшылыктан — ⟨ага⟩ жакшылык кылмак болгонумдан — кайтырмын ⟨את⟩.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "cb81abf17754ffca6a0538ed112c745fa2257be1153f34b19028f34897ea6f1c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/jeremiah\/18\/9-12.1791211148224.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "жана... кылса"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "жамандык"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "Менин көз алдымда"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "укпай"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "укуу"
+    },
+    {
+      "surface": "בקולי",
+      "gloss": "Менин үнүмдү"
+    },
+    {
+      "surface": "ונחמתי",
+      "gloss": "Мен... кайтырмын"
+    },
+    {
+      "surface": "על",
+      "gloss": "турат"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "жакшылыктан"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "Мен айткан"
+    },
+    {
+      "surface": "להיטיב",
+      "gloss": "жакшылык кылмак болгонумдан"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "ага"
+    }
+  ],
+  "timestamp": "2026-10-05T14:39:08.225656346Z",
+  "model": "glm-5.3"
+}

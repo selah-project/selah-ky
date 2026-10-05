@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 23:30",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מעט מעט",
+      "rationale": "эки жолу кайталанган 'аз-аз' — gradualдык маанини күчөтөт, сакталды"
+    },
+    {
+      "kind": "crux",
+      "subject": "תפרה",
+      "rationale": "'фрукт берүү\/көбөйүү' — KJV\/ASV 'increase', YLT\/BSB 'fruitful'; жаныбарлардын көбөйүшү (29-аят) менен байланыштуу"
+    }
+  ],
+  "translation": "Аз-аз, аз-аз Мен аларды сенин алдыңдан кууп чыгарам, сенин көбөйгөнүңө чейин, жана ⟨את⟩ жерди мураска аласың.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "09f9bd38b14ac0e4b199910d9d05b3e251dc8cdfc0c1a381399627334c710efe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/23\/29-32.1791202324402.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מעט",
+      "gloss": "аз"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "аз"
+    },
+    {
+      "surface": "אגרשנו",
+      "gloss": "кууп чыгарам"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "сенин алдыңдан"
+    },
+    {
+      "surface": "עד",
+      "gloss": "чейин"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "תפרе",
+      "gloss": "көбөйгөнүңө"
+    },
+    {
+      "surface": "ונחלת",
+      "gloss": "мураска аласың"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "жерди"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "жерди"
+    }
+  ],
+  "timestamp": "2026-10-05T12:12:04.403598490Z",
+  "model": "glm-5.3"
+}

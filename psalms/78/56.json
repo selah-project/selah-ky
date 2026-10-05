@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "psalms 78:56",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "каршы чыгышты",
+      "rationale": "וימרו — «ачуулантты, ачуусун келтирди» деген тамыр; «каршы чыгуу» кеңири кабыл алынган окулуш."
+    }
+  ],
+  "translation": "Бирок алар сыноо салышты жана ⟨את⟩ Бийик Элохимге каршы чыгышты, жана анын күбөлүктөрүн сакташкан жок.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "235876a10c4c3a9ff0cc8b9400f0d479064f1e0007418d04a57222ffebbf93aa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/78\/53-56.1791216623198.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וינסו",
+      "gloss": "сыноо салышты"
+    },
+    {
+      "surface": "וימרו",
+      "gloss": "каршы чыгышты"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Бийик Элохимди"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохимди"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Бийик"
+    },
+    {
+      "surface": "ועדותיו",
+      "gloss": "анын күбөлүктөрүн"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "сактаган"
+    }
+  ],
+  "timestamp": "2026-10-05T16:10:23.199916381Z",
+  "model": "glm-5.3"
+}

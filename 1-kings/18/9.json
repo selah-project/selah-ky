@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 18:9",
+  "book": "1-kings",
+  "lang": "ky",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Обадияга Элияхуга",
+      "rationale": "Обадия Элияхуга түз кайрылуу менен суроо берет."
+    },
+    {
+      "kind": "idiom",
+      "subject": "ביד",
+      "rationale": "«колуна берүү» — еврейче идиома, «каатына тапшыруу» деген мааниде."
+    }
+  ],
+  "translation": "Жана ал айтты: Мен эмне күнөө кылдым, анткени сен ⟨את⟩ өз кулуңду Ахавтын колуна мени өлтүрүш үчүн бересиң?",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "4b0c4c5dc21bfd004cf0ce2f3e00097a96ceade25a02410306408cde8f6a2423",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-kings\/18\/9-12.1791208470883.json",
+    "code": "641241cf-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "жана ал айтты"
+    },
+    {
+      "surface": "מה",
+      "gloss": "эмне"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "күнөө кылдым"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "сен"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "бересиң"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "өз кулуңду"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "кулуңду"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "колуна"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ахав"
+    },
+    {
+      "surface": "להמיתני",
+      "gloss": "мени өлтүрүш үчүн"
+    }
+  ],
+  "timestamp": "2026-10-05T13:54:30.883707892Z",
+  "model": "glm-5.3"
+}

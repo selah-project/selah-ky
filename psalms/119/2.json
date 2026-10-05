@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 119:2",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Изилөөчүлөргө",
+      "rationale": "Аят мактоо менен окурманды тартат"
+    },
+    {
+      "kind": "substitution",
+      "subject": "издегендер",
+      "rationale": "דרש — 'издөө, ээрчүү, сурап баруу'; көп нерсени камтыйт"
+    }
+  ],
+  "translation": "Канча бактылуу ⟨את⟩ күбөлөрүн анын сактагандар — бүт жүрөктөн Аны издегендер!",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "1ca400a8b5778fa3b05f7856fa7dcb1a3e57f659560ff763287bfb93529aef09",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/119\/1-4.1791217308213.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "канча бактылуу"
+    },
+    {
+      "surface": "נצרי",
+      "gloss": "сактагандар"
+    },
+    {
+      "surface": "עדתיו",
+      "gloss": "күбөлөрүн анын"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "бүт"
+    },
+    {
+      "surface": "לב",
+      "gloss": "жүрөктөн"
+    },
+    {
+      "surface": "ידרשוהו",
+      "gloss": "Аны издегендер"
+    }
+  ],
+  "timestamp": "2026-10-05T16:21:48.213698948Z",
+  "model": "glm-5.3"
+}

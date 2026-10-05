@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 146:8",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 146,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "көздөрүн",
+      "rationale": "פקח עורים 'сокурларды ачат' — көздөр tekstте жок, идиома катары кошулду"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יהוה ×3",
+      "rationale": "Ысым үч жолу кайталанат — үч куплеттик ритм, кыргызча сакталды"
+    },
+    {
+      "kind": "addition",
+      "subject": "цадиктерди",
+      "rationale": "צדיקים 'адилдер\/цадиктер' — еврей сөзү айтылышы боюнча берилди"
+    }
+  ],
+  "translation": "Яхве сокурлардын көздөрүн ачат, Яхве ийилгендерди түзөт, Яхве цадиктерди сүйөт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "f0ebed7fa5f7f5dde3a5535e4735aaeb42f3fd933378b9ce977a57dc6435f00d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/146\/8-8.1791224488550.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "ачат"
+    },
+    {
+      "surface": "עורים",
+      "gloss": "сокурлардын"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "זקף",
+      "gloss": "түзөт"
+    },
+    {
+      "surface": "כפופים",
+      "gloss": "ийилгендерди"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "сүйөт"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "цадиктерди"
+    }
+  ],
+  "timestamp": "2026-10-05T18:21:28.550798351Z",
+  "model": "glm-5.3"
+}

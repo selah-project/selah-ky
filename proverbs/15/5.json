@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 15:5",
+  "book": "proverbs",
+  "lang": "ky",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ол⟩",
+      "rationale": "еврейче этиш жок — наадандын карама-каршысы катары субъект кошулду"
+    },
+    {
+      "kind": "substitution",
+      "subject": "акылдуу",
+      "rationale": "יערם 'жылаңайланып калт','-акыл топтоо' сүрөтү; котормодо 'акылдуу болот' деп берилди"
+    },
+    {
+      "kind": "crux",
+      "subject": "אביו — атасы\/ата-энеси",
+      "rationale": "ך-алдыңкы мүчө 'анын' — азыркы котормолордо 'ата-энеси' кеңейтилип алынган"
+    }
+  ],
+  "translation": "Наадан өз ата-энесинин тарбиясын төккүлөйт, ал эми сөгүндүрүүнү сактаган ⟨ол⟩ акылдуу болот.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "37c8f20d94c77a270694137ac827fa8a9cf240f9f27269f655d367465573d74f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/15\/5-8.1791218049195.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אויל",
+      "gloss": "наадан"
+    },
+    {
+      "surface": "ינאץ",
+      "gloss": "төккүлөйт"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "тарбиясын"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ата-энесинин"
+    },
+    {
+      "surface": "ושמר",
+      "gloss": "ал эми сактаган"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "сөгүндүрүүнү"
+    },
+    {
+      "surface": "יערם",
+      "gloss": "акылдуу болот"
+    }
+  ],
+  "timestamp": "2026-10-05T16:34:09.196281285Z",
+  "model": "glm-5.3"
+}

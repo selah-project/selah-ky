@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 8:6",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "өзү",
+      "rationale": "עשה субъектин тактоо үчүн кошулду"
+    },
+    {
+      "kind": "measurement",
+      "subject": "кырк күн",
+      "rationale": "белгилүү мөөнөт эсепке алынат"
+    }
+  ],
+  "translation": "Жана болду, кырк күндүн аягында Ноах ⟨את⟩ кеменин терезесин ачты — аны ал өзү жасаган эле.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "bc3c4e86185114d3c4080e2c0c492babaed1b43f2104f7f381f4de0974f4f76f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/8\/5-8.1791200839134.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "жана болду"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "ачырында"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "кырк"
+    },
+    {
+      "surface": "יום",
+      "gloss": "күндүн"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "ачты"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Ноах"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "терезесин"
+    },
+    {
+      "surface": "חלון",
+      "gloss": "терезесин"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "кеменин"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ан"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "жасаган"
+    }
+  ],
+  "timestamp": "2026-10-05T11:47:19.135541888Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-kings 12:29",
+  "book": "1-kings",
+  "lang": "ky",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "וישם \/ נתן",
+      "rationale": "Эки этиш бир мааниде (коюу) айтылат — параллелизм, котормодо эки да «койду» деп сакталды."
+    }
+  ],
+  "translation": "Жана ал ⟨את⟩ биринчисин Бейт-Элде койду, жана ⟨את⟩ экинчисин Данда койду.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "2be6b2ec286fa3886cd53339650ae541629007b54a4e34046fceac35f12437fa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-kings\/12\/29-32.1791208362163.json",
+    "code": "641241cf-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "койду"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "биринчисин"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "биринчисин"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "Бейт-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Элде"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "экинчисин"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "экинчисин"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "койду"
+    },
+    {
+      "surface": "בדן",
+      "gloss": "Данда"
+    }
+  ],
+  "timestamp": "2026-10-05T13:52:42.163902920Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 37:28",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ыйыктарын",
+      "rationale": "חסיד 'хеседди сактаган, ыйык адам' — 'ыйыктарын' деп берилди"
+    },
+    {
+      "kind": "addition",
+      "subject": "ал эми",
+      "rationale": "Контраст үчүн байламта кошулду, еврейче жок"
+    }
+  ],
+  "translation": "Анткени Яхве өкүмдү сүйөт жана ⟨את⟩ Өзүнүн ыйыктарын таштабайт; алар түбөлүккө сакталат, ал эми заалымдардын уругу кесилип ташталат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "0646819da900c31f897e9257d1f4229724e61c294b40ec81b63ffdc2722e6abb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/37\/25-28.1791215938251.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "сүйөт"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "өкүмдү"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "жана ... эмес"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "таштабайт"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Өзүнүн ыйыктарын"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "Өзүнүн ыйыктарын"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "түбөлүккө"
+    },
+    {
+      "surface": "נשמרו",
+      "gloss": "сакталат"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "жана ... уругу"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "заалымдардын"
+    },
+    {
+      "surface": "נכרת",
+      "gloss": "кесилип ташталат"
+    }
+  ],
+  "timestamp": "2026-10-05T15:58:58.252554038Z",
+  "model": "glm-5.3"
+}

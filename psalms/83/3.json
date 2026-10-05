@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 83:3",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 83,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "сенин",
+      "rationale": "אויביך suffix 'сенин' — кыргызчада 'душмандарың' формасында камтылды, кашаа алынып ташталса да болот"
+    },
+    {
+      "kind": "idiom",
+      "subject": "נשאו ראש",
+      "rationale": "'башты көтөрүү' — теңсинүү, чабуулга даярдалуу идиомасы; кыргызча сөзмө-сөз сакталды"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יהמיון",
+      "rationale": "המה — күүлөнгөн үн (араа ызы-чуусу сыяктуу); 'күүлөнүү' бул добушту жартылай гана берет"
+    }
+  ],
+  "translation": "Анткени кара: душмандарың ⟨сенин⟩ күүлөнүп, сени жек көргөндөр баштарын көтөрүштү.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "b05e970a48ac81548857beea3a066b95266a3b584729a8e138147363b408412c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/83\/2-3.1791224479569.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "кара"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "душмандарың"
+    },
+    {
+      "surface": "יהמיון",
+      "gloss": "күүлөнүп"
+    },
+    {
+      "surface": "ומשנאיך",
+      "gloss": "жана сени жек көргөндөр"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "көтөрүштү"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "баштарын"
+    }
+  ],
+  "timestamp": "2026-10-05T18:21:19.570343485Z",
+  "model": "glm-5.3"
+}

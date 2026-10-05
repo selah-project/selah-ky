@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 14:13",
+  "book": "job",
+  "lang": "ky",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מי יתן",
+      "rationale": "«Ким берер мага…» — өтүнүчүн билдирген еврейче идиома, кыргызча суроо формасында калды"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אפך",
+      "rationale": "Букма маанисе «мурунуң\/чырайың», кыргызча «ачууң» — кызуу каардан улам"
+    }
+  ],
+  "translation": "Ким берер мага Шеолдо жашырылууну? Ачууң кайтканча мени жашырып турсаң, мага мөөнөт коюп, мени эстесең.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "3087ca0decee4a556cb3ce3aed10884c8f681cccec4703ecfed155bbec7f3a7d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/job\/14\/13-16.1791218874905.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ким"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "берер"
+    },
+    {
+      "surface": "בשאול",
+      "gloss": "Шеолдо"
+    },
+    {
+      "surface": "תצפנני",
+      "gloss": "жашырсаң"
+    },
+    {
+      "surface": "תסתירני",
+      "gloss": "жашырып турсаң"
+    },
+    {
+      "surface": "עד",
+      "gloss": "чейин"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "кайтканча"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "ачууң"
+    },
+    {
+      "surface": "תשית",
+      "gloss": "коюп"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мага"
+    },
+    {
+      "surface": "חק",
+      "gloss": "мөөнөт"
+    },
+    {
+      "surface": "ותזכרני",
+      "gloss": "мени эстесең"
+    }
+  ],
+  "timestamp": "2026-10-05T16:47:54.906363120Z",
+  "model": "glm-5.3"
+}

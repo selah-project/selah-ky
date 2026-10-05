@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 34:11",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ал эми",
+      "rationale": "װ байламтасы карама-каршылыкты билдирет; кыргызча байламча кошулду."
+    },
+    {
+      "kind": "substitution",
+      "subject": "жаш арстанлар",
+      "rationale": "כפירим — букв. «жаш арстан»; күч-кубаттуу жаныбар, жокчулукка да дуушар."
+    }
+  ],
+  "translation": "Жаш арстанлар жакырлап ач калышат, ал эми Яхвени издегендер эч бир жакшылыктан кем болушпайт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "95135d11609701d8a44ef03261bde90c730b5875a370fa116b056eba0a669052",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/34\/9-12.1791215829217.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כפירים",
+      "gloss": "жаш арстанлар"
+    },
+    {
+      "surface": "רשו",
+      "gloss": "жакырлап"
+    },
+    {
+      "surface": "ורעבו",
+      "gloss": "ач калышат"
+    },
+    {
+      "surface": "ודרשי",
+      "gloss": "ал эми издегендер"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвени"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "יחסרו",
+      "gloss": "кем болушпайт"
+    },
+    {
+      "surface": "כל",
+      "gloss": "эч бир"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "жакшылыктан"
+    }
+  ],
+  "timestamp": "2026-10-05T15:57:09.218640925Z",
+  "model": "glm-5.3"
+}

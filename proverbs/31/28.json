@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 31:28",
+  "book": "proverbs",
+  "lang": "ky",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨да⟩",
+      "rationale": "еврейче ו байламтасы кыргызча «жана... да» болуп ачылып жатат"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אשר\/בנים",
+      "rationale": "יאשרוה — «ашер» тамыры: «бактылуу деп айтышты»; балдар (баним) «кут» деп айтканда сөз оюну угулат"
+    }
+  ],
+  "translation": "Анын уулдары турду жана аны бактылуу деп айтышты; анын күйөөсү да аны мактады.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "367a2eb04767da084c3b8bc8175d675cf721c72f9e8345f9af424efdb8f9efd7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/31\/25-28.1791218490376.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קמו",
+      "gloss": "турду"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "анын уулдары"
+    },
+    {
+      "surface": "ויאשרוה",
+      "gloss": "жана аны бактылуу деп айтышты"
+    },
+    {
+      "surface": "בעלה",
+      "gloss": "анын күйөөсү"
+    },
+    {
+      "surface": "והללה",
+      "gloss": "жана аны мактады"
+    }
+  ],
+  "timestamp": "2026-10-05T16:41:30.377205193Z",
+  "model": "glm-5.3"
+}

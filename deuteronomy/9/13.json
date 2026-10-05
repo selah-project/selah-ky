@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 9:13",
+  "book": "deuteronomy",
+  "lang": "ky",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "қше ערף",
+      "rationale": "«мойну катуу» — баш ийбегендиктин еврейче идиомасы, буктура албаган мойнок."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨экен⟩",
+      "rationale": "ивритте эгедиктин жоктугу мүчөсүз айтылат."
+    }
+  ],
+  "translation": "Жана Яхве мага айтты: Мен ⟨את⟩ бул элди көрдүм, жана мына, ал — мойну катуу эл.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "5a4452f0e8e73f6b1cea34136ff5eaa856fc596221c7330dd2dff7801bd6d1e8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/9\/13-16.1791204878953.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Жана айтты"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "мага"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "мындай деп"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "көрдүм"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "бул элди"
+    },
+    {
+      "surface": "העם",
+      "gloss": "элди"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "бул"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "жана мына"
+    },
+    {
+      "surface": "עם",
+      "gloss": "эл"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "катуу"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "мойну"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ал ⟨экен⟩"
+    }
+  ],
+  "timestamp": "2026-10-05T12:54:38.954289266Z",
+  "model": "glm-5.3"
+}

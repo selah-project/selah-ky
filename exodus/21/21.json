@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 21:21",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ал",
+      "rationale": "Еврейче этиштин этиштин этиши Subjects жок; кыргызча субъект ⟨ал⟩ кошулду"
+    },
+    {
+      "kind": "substitution",
+      "subject": "күмүш",
+      "rationale": "כספו — «күмүш», бул жерде «акча\/мүлк» маанисинде"
+    },
+    {
+      "kind": "substitution",
+      "subject": "өч алынбайт",
+      "rationale": "נקם — өч алуу, жазалоо маанисинде"
+    }
+  ],
+  "translation": "Бирок эгер ⟨ал⟩ бир күн же эки күн турса, өч алынбайт, анткени ал — анын күмүшү.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "efafd5c305e539ec4c85953c0f4109b9b2a07437a48b6016c86eebb7348c3067",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/21\/21-24.1791202296125.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "бирок"
+    },
+    {
+      "surface": "אם",
+      "gloss": "эгер"
+    },
+    {
+      "surface": "יום",
+      "gloss": "бир күн"
+    },
+    {
+      "surface": "או",
+      "gloss": "же"
+    },
+    {
+      "surface": "יומים",
+      "gloss": "эки күн"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "турса"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "יקם",
+      "gloss": "өч алынбайт"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "анын күмүшү"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ал"
+    }
+  ],
+  "timestamp": "2026-10-05T12:11:36.126338553Z",
+  "model": "glm-5.3"
+}

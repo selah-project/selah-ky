@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 29:10",
+  "book": "deuteronomy",
+  "lang": "ky",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "балдарыңар",
+      "rationale": "טפ — 'балдар, үй-бүлөнүн кичүүлөрү', топтомдуу сөз."
+    },
+    {
+      "kind": "addition",
+      "subject": "ал",
+      "rationale": "אשר үчүн кыргызча байланыштык сөз кошулду, ⟨⟩ белгиси жок — табигый байлам."
+    },
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "rationale": "Салыштырма ат атооч кыргызча толук маани көтөрбөйт, 'ал' менен берилди."
+    }
+  ],
+  "translation": "балдарыңар, аялдарыңар жана жатагыңардын ичиндеги мейманыңар — жыгач чабуучу adamыңардан суу тартуучу adamыңарга чейин.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "613764cbd906a2d63bb9cfe5d19264aead3614839c7c7a0fe55c8496ca3849b1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/29\/9-12.1791205333656.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טפכם",
+      "gloss": "балдарыңар"
+    },
+    {
+      "surface": "נשיכם",
+      "gloss": "аялдарыңар"
+    },
+    {
+      "surface": "וגרך",
+      "gloss": "жана мейманыңар"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ал"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "ичинде"
+    },
+    {
+      "surface": "מחניך",
+      "gloss": "жатагыңардын"
+    },
+    {
+      "surface": "מחטב",
+      "gloss": "жыгач чабуучу"
+    },
+    {
+      "surface": "עציך",
+      "gloss": "adamыңардан"
+    },
+    {
+      "surface": "עד",
+      "gloss": "чейин"
+    },
+    {
+      "surface": "שאב",
+      "gloss": "суу тартуучу"
+    },
+    {
+      "surface": "מימיך",
+      "gloss": "adamыңарга"
+    }
+  ],
+  "timestamp": "2026-10-05T13:02:13.657808681Z",
+  "model": "glm-5.3"
+}

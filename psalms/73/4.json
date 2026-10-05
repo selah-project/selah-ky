@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 73:4",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 73,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "חרצבות",
+      "rationale": "бул сөз Танахта ушул жерде гана кездешет; лексикалык мааниси «кишен», көчмө мааниси «азап»"
+    },
+    {
+      "kind": "crux",
+      "subject": "חרצבות למותם",
+      "rationale": "KJV «алардын өлүмүндө байлаңдар жок» (кишен), JPS «өлүмдө азаптар жок» — экөө тең мүмкүн"
+    },
+    {
+      "kind": "crux",
+      "subject": "אולם",
+      "rationale": "«дене» же «күч»: KJV «алардын күчү бекем», JPS «дене соо»"
+    }
+  ],
+  "translation": "анткени алардын өлүмүнө кишенер жок, денелери бир калыпта семиз.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "32f836a9178951769eba19d6e1f91a3afb7992f5dc65d6f6d50084340a98bfef",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/73\/1-4.1791216493392.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "אין",
+      "gloss": "жок"
+    },
+    {
+      "surface": "חרצבות",
+      "gloss": "кишенер"
+    },
+    {
+      "surface": "למותם",
+      "gloss": "өлүмүнө"
+    },
+    {
+      "surface": "ובריא",
+      "gloss": "семиз"
+    },
+    {
+      "surface": "אולם",
+      "gloss": "дене"
+    }
+  ],
+  "timestamp": "2026-10-05T16:08:13.393251502Z",
+  "model": "glm-5.3"
+}

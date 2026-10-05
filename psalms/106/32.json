@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 106:32",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 106,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨Аны⟩",
+      "rationale": "Объект — Яхве — еврейче текстте жок, кыйыр турат"
+    },
+    {
+      "kind": "crux",
+      "subject": "Мерийба",
+      "rationale": "מריבה — «талаш-тартыш» деген маани; жердин ысмы катары которулбай калды"
+    }
+  ],
+  "translation": "Жана алар Мерийба сууларында ⟨Аны⟩ каардантышты, жана алардын айынан Мошеге жаман болду.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "9f3419b065176ead4aff283b6c319055849ef011e69e14d1cdca7b6ada534d56",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/106\/29-32.1791217143663.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקציפו",
+      "gloss": "каардантышты"
+    },
+    {
+      "surface": "על",
+      "gloss": "туурасында"
+    },
+    {
+      "surface": "מי",
+      "gloss": "суулары"
+    },
+    {
+      "surface": "מריבה",
+      "gloss": "Мерийба"
+    },
+    {
+      "surface": "וירע",
+      "gloss": "жаман болду"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Мошеге"
+    },
+    {
+      "surface": "בעבורם",
+      "gloss": "алардын айынан"
+    }
+  ],
+  "timestamp": "2026-10-05T16:19:03.671341056Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 34:10",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "жер силердин алдыңарда болсун",
+      "rationale": "Ивритче «жер силердин жүзүңөрдүн алдында болот» — жер эркин жеткиликтүү деген элдешкен маани."
+    },
+    {
+      "kind": "you",
+      "subject": "Яаковтын уулдарына",
+      "rationale": "Жер жана соода боюнча сунуш түз дарк берүү."
+    }
+  ],
+  "translation": "жана ⟨את⟩ биз менен жашагыла, жана жер силердин алдыңарда болсун; отуругула, аны соода кылып жүргүлө жана анда орун алып калгыла.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "bf63942acf4ab0527f875f00cc6bb64e93d09d35f83869922e5f20ab30379337",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/34\/9-12.1791201447566.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתנו",
+      "gloss": "⟨את⟩ биз менен"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "жашагыла"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "жана жер"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "болсун"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "алдыңарда"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "отуругула"
+    },
+    {
+      "surface": "וסחרוה",
+      "gloss": "аны соода кылып жүргүлө"
+    },
+    {
+      "surface": "והאחזו",
+      "gloss": "орун алып калгыла"
+    },
+    {
+      "surface": "בה",
+      "gloss": "анда"
+    }
+  ],
+  "timestamp": "2026-10-05T11:57:27.567427208Z",
+  "model": "glm-5.3"
+}

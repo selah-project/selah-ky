@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 12:1",
+  "book": "2-samuel",
+  "lang": "ky",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "parable",
+      "subject": "мисал",
+      "rationale": "Натан Давидге наамды ачык айтпай, мисал менен айтат — Давид өзүн аныктайт"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ראש",
+      "rationale": "бай\/жакыр карама-каршылыгы мисалдын негизин түзөт"
+    }
+  ],
+  "translation": "Яхве ⟨את⟩ Натанды Давидге жиберди, ал анын жанына келди жана ага айтты: Бир шаарда эки адам бар эле: бири бай, бири жакыр эле.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "10369e67e5c87d0220cfd6cca86b3de8221fdd08c3838de87efcffa785c9ca79",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-samuel\/12\/1-4.1791207598211.json",
+    "code": "641241cf-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "жиберди"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Натанды"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Натанды"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Давидге"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давидге"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "келди"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "анын жанына"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ага"
+    },
+    {
+      "surface": "שני",
+      "gloss": "эки"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "адам"
+    },
+    {
+      "surface": "היו",
+      "gloss": "бар эле"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "шаарда"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "бир"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бири"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "бай"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "жана бири"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "жакыр"
+    }
+  ],
+  "timestamp": "2026-10-05T13:39:58.211823517Z",
+  "model": "glm-5.3"
+}

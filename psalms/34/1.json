@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 34:1",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жүрүм-турум",
+      "rationale": "טעם букв. 'даам, акыл-эс' — жүрүм-турумдун өзгөрүшү катары берилди"
+    },
+    {
+      "kind": "crux",
+      "subject": "בשנותו",
+      "rationale": "'өзгөртүү' же 'кайталоо\/жокко чыгаруу' — котормочулар 'жүрүм-турумун өзгөрттү' деп беришет"
+    }
+  ],
+  "translation": "Давидге таандык — Абимелехтин алдында өз жүрүм-турумун өзгөрткөндө, ал аны кууп жибергенде жана ал кеткенде.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "524b62f9fa7c2d2af2a94384b2df7c93efd856ea353531d4cc63798ac3604083",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/34\/1-4.1791215835553.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Давидге"
+    },
+    {
+      "surface": "בשנותו",
+      "gloss": "өзгөрткөндө"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "өз жүрүм-турумун"
+    },
+    {
+      "surface": "טעמו",
+      "gloss": "өз жүрүm-турумун"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "алдында"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Абимелехтин"
+    },
+    {
+      "surface": "ויגרשהו",
+      "gloss": "кууп жибергенде"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "кеткенде"
+    }
+  ],
+  "timestamp": "2026-10-05T15:57:15.554307917Z",
+  "model": "glm-5.3"
+}

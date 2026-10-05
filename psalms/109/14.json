@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 109:14",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 109,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "каргыш",
+      "rationale": "עונ «эңкейиш, жасалган жамандык» — кыргызча «каргыш» деген диний-салттык түшүнүк берилет; «күнөө» да мүмкүн"
+    },
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "rationale": "«yoq кылуучу» деген жоклоочу мүчө кыргызча этиштин «-босун» формасында камтылды"
+    }
+  ],
+  "translation": "Анын ата-бабаларынын каргышы Яхвенин эсинде калсын, жана анын энесинин күнөөсү өчүрүлбөсүн.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "9fdbedf1d7409a924ee678caadab9e12bec84aa3882d467a930d7fd4bad5bd1e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/109\/13-16.1791217221835.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יזכר",
+      "gloss": "эсинде калсын"
+    },
+    {
+      "surface": "עון",
+      "gloss": "каргыш"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "ата-бабаларынын"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    },
+    {
+      "surface": "וחטאת",
+      "gloss": "күнөөсү"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "энесинин"
+    },
+    {
+      "surface": "אל",
+      "gloss": "анткори"
+    },
+    {
+      "surface": "תמח",
+      "gloss": "өчүрүлбөсүн"
+    }
+  ],
+  "timestamp": "2026-10-05T16:20:21.836738114Z",
+  "model": "glm-5.3"
+}

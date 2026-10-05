@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 12:13",
+  "book": "deuteronomy",
+  "lang": "ky",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "פן",
+      "rationale": "Hebrew 'lest' rendered by negative imperative plus каалса да construction; kyrgyz has no single 'lest' particle."
+    },
+    {
+      "kind": "you",
+      "subject": "Сак бол өзүң",
+      "rationale": "Direct address to Israel in the second person singular."
+    }
+  ],
+  "translation": "Сак бол өзүң, кайсы жерди көрсөң да, өрттөлүүчү курмандыктарыңды жогору көтөрүп чыкпа.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "63070f37d0edbf4890301f1e721a93f6696bac27720cdf2dd5d7fd6e675a8542",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/12\/13-16.1791204996495.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "сак бол"
+    },
+    {
+      "surface": "לך",
+      "gloss": "өзүң"
+    },
+    {
+      "surface": "פן",
+      "gloss": "…багыныч"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "жогору көтөрүп чыкпа"
+    },
+    {
+      "surface": "עלתיך",
+      "gloss": "өрттөлүүчү курмандыктарыңды"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ар бир"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "жерде"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "кайсы"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "көрсөң"
+    }
+  ],
+  "timestamp": "2026-10-05T12:56:36.495886719Z",
+  "model": "glm-5.3"
+}

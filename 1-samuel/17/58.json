@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "1-samuel 17:58",
+  "book": "1-samuel",
+  "lang": "ky",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Давидге",
+      "rationale": "Шаул Давидге тике кайрылат: «Сен кимдин уулуң, жаш бала?»"
+    },
+    {
+      "kind": "elision",
+      "subject": "мен",
+      "rationale": "Еврейче жоопта «мен» жок — кыргызча да түшүрүлдү, «Сенин кулуң Ышайдын уулу» деп башталат"
+    }
+  ],
+  "translation": "Жана Шаул ага айтты: Сен кимдин уулуң, жаш бала? Давид айтты: Сенин кулуң Ышайдын уулу, Бейт-Лахмдиктин.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "26a397729d4ab302a1c3ed08867b1d6ac4734bc2b64cdde5e51d6311699b4e30",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-samuel\/17\/57-58.1791206985160.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Жана айтты"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ага"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "בן",
+      "gloss": "уулу"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кимдин"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "сен"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "жаш бала"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "жана айтты"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "בן",
+      "gloss": "уулу"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "сенин кулуң"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Ышайдын"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бейт-Лахм"
+    },
+    {
+      "surface": "הלחמי",
+      "gloss": "ляхмдик"
+    }
+  ],
+  "timestamp": "2026-10-05T13:29:45.161289477Z",
+  "model": "glm-5.3"
+}

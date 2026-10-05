@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 13:3",
+  "book": "1-chronicles",
+  "lang": "ky",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "кооруматив «алып келели»",
+      "rationale": "Давид чогулган элди чакырып, бирге иш кылууга үндөйт"
+    },
+    {
+      "kind": "substitution",
+      "subject": "сандык",
+      "rationale": "ארון — «сандык, куту»; салттуу «келишим сандыгы» эмес, бул аятта «Элохимубиздин сандыгы»"
+    }
+  ],
+  "translation": "жана ⟨את⟩ Элохимубиздин сандыгын бизге алып келели, анткени Шаулдун күндөрүндө биз аны издеген эмеспиз.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "c2a1b7775a336ba58f5b676ca774ed0a4ce679d730e034fa3289187b95ad6a4e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-chronicles\/13\/1-4.1791222148043.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונסבה",
+      "gloss": "алып келели"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Элохимубиздин сандыгын"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "сандыгын"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Элохимубиздин"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "бизге"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "לא",
+      "gloss": "эмес"
+    },
+    {
+      "surface": "דרשנהו",
+      "gloss": "издеген эмеспиз"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "күндөрүндө"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаулдун"
+    }
+  ],
+  "timestamp": "2026-10-05T17:42:28.045306491Z",
+  "model": "glm-5.3"
+}

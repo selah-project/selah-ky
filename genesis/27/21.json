@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 27:21",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "זה",
+      "rationale": "Демонстратив «бул» кыргызча сурамга кыстырылбай, «сен белең» дегенде камтылды."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨го⟩",
+      "rationale": "נא чакырык жумшарткычы кыргызча «го» мүчөсү менен берилди."
+    },
+    {
+      "kind": "you",
+      "subject": "Яаковго",
+      "rationale": "Йицхак уулу Яаковго түздөн-түз кайрылат."
+    }
+  ],
+  "translation": "Жана Йицхак Яаковго айтты: Жакын кел ⟨го⟩, уулум, сени кармап көрөйүн — сен белең, уулум Эсав, же жок?",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "eb0279a7e082447f48e5f5d6db8f98c25efd0ff7074f3714f7d24221ff715212",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/27\/21-24.1791201254436.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Жана Йицхак айтты"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Йицхак"
+    },
+    {
+      "surface": "אל",
+      "gloss": "го"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаков"
+    },
+    {
+      "surface": "גשה",
+      "gloss": "Жакын кел"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨го⟩"
+    },
+    {
+      "surface": "ואמשך",
+      "gloss": "сени кармап көрөйүн"
+    },
+    {
+      "surface": "בני",
+      "gloss": "уулум"
+    },
+    {
+      "surface": "האתה",
+      "gloss": "сен белең"
+    },
+    {
+      "surface": "זה",
+      "gloss": ""
+    },
+    {
+      "surface": "בני",
+      "gloss": "уулум"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Эсав"
+    },
+    {
+      "surface": "אם",
+      "gloss": "же"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    }
+  ],
+  "timestamp": "2026-10-05T11:54:14.436664721Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 27:11",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ביבש קצירה",
+      "rationale": "'куураганда бутактары' (KJV) менен 'орон куураганда' (YLT) деген эки окуу бар."
+    },
+    {
+      "kind": "elision",
+      "subject": "אותה",
+      "rationale": "объект маркери далик pronoun менен — которууда ⟨את⟩ катары сакталды."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עשהו \/ יצרו",
+      "rationale": "параллелизм: Жаратканы\/Пайда кылганы — эки этиш тең чыгармачылык тамырынан."
+    }
+  ],
+  "translation": "Анын куураганда бутактары сынып калат, аялдар келип ⟨את⟩ аны отко коюшат; анткени бул — түшүнбөгөн эл, ошондуктан аны Жаратканы боорукерлик кылбайт, жана анын Пайда кылганы ырайым кылбайт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "64a6912029f9f3bbd43f331a711847a88a1c457bb78c1ae24883f44ca3edb592",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/27\/9-12.1791209794793.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ביבש",
+      "gloss": "куураганда"
+    },
+    {
+      "surface": "קצירה",
+      "gloss": "анын бутактары"
+    },
+    {
+      "surface": "תשברנה",
+      "gloss": "сынып калат"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "аялдар"
+    },
+    {
+      "surface": "באות",
+      "gloss": "келип"
+    },
+    {
+      "surface": "מאירות",
+      "gloss": "отко коюшат"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "аны"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "עם",
+      "gloss": "эл"
+    },
+    {
+      "surface": "בינות",
+      "gloss": "түшүнбөгөн"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "бул"
+    },
+    {
+      "surface": "על",
+      "gloss": "ошондуктан"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ошондуктан"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "ירחמנו",
+      "gloss": "боорукерлик кылбайт"
+    },
+    {
+      "surface": "עשהו",
+      "gloss": "аны Жаратканы"
+    },
+    {
+      "surface": "ויצרו",
+      "gloss": "жана анын Пайда кылганы"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "יחננו",
+      "gloss": "ырайым кылбайт"
+    }
+  ],
+  "timestamp": "2026-10-05T14:16:34.794742010Z",
+  "model": "glm-5.3"
+}

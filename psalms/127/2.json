@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 127:2",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 127,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ал⟩",
+      "rationale": "Субъект (Яхве) жогорку аяттан келет, кыргызча ачык кылуу үчүн кошулду"
+    },
+    {
+      "kind": "crux",
+      "subject": "כן יתן לידידו שנא",
+      "rationale": "«Сүйгөнүнө уйку берет» же «сүйгөнүнө уйкусунда берет» — эски котормолор бөлүнөт"
+    }
+  ],
+  "translation": "Силерге бекер — эрте туруп, кеч отургандар, кайгынын нанын жегендер; анткени ⟨ал⟩ Өзү сүйгөнүнө уйку берет.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "de412493409e720eff8a200f3e3609ca19b3017ea76b09f2866818b55f730a05",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/127\/1-4.1791217455328.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שוא",
+      "gloss": "бекер"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "силерге"
+    },
+    {
+      "surface": "משכימי",
+      "gloss": "эрте тургандар"
+    },
+    {
+      "surface": "קום",
+      "gloss": "туруп"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "кеч"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "отургандар"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "жегендер"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "нанын"
+    },
+    {
+      "surface": "העצבים",
+      "gloss": "кайгынын"
+    },
+    {
+      "surface": "כן",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "берет"
+    },
+    {
+      "surface": "לידידו",
+      "gloss": "Өзү сүйгөнүнө"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "уйку"
+    }
+  ],
+  "timestamp": "2026-10-05T16:24:15.328920715Z",
+  "model": "glm-5.3"
+}

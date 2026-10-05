@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 1:32",
+  "book": "1-kings",
+  "lang": "ky",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "Давид кызматчыларга",
+      "rationale": "«Мага чакырып келгиле» — буйрук-чакыруу, аткаруучуларга кайрылуу"
+    },
+    {
+      "kind": "elision",
+      "subject": "коэн",
+      "rationale": "הכהן латын же орус титулго алмаштырылбай, айтылышы боюнча «коэн» деп берилди"
+    }
+  ],
+  "translation": "Падыша Давид айтты: Мага чакырып келгиле Цадок коэнди, Натан пайгамбарды жана Йехояданын уулу Бенайаны. Алар падышанын алдына келишти.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "b585ae4433d9ea7473aa7b783bf37342077aca4b20b52b5dd5cf55826aa497a0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-kings\/1\/29-32.1791207989859.json",
+    "code": "641241cf-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "падыша"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "чакырып келгиле"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мага"
+    },
+    {
+      "surface": "לצדוק",
+      "gloss": "Цадокту"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "коэнди"
+    },
+    {
+      "surface": "ולנתן",
+      "gloss": "Натанды"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "пайгамбарды"
+    },
+    {
+      "surface": "ולבניהו",
+      "gloss": "Бенайаны"
+    },
+    {
+      "surface": "בן",
+      "gloss": "уулу"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Йехаяданын"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "келишти"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "алдына"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "падышанын"
+    }
+  ],
+  "timestamp": "2026-10-05T13:46:29.860492587Z",
+  "model": "glm-5.3"
+}

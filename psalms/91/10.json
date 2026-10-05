@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 91:10",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 91,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ачылып кетпейт",
+      "rationale": "נגע 'уруу, жара' деген этиштин ажыратылышы үчүн кыргызча каршылык маани кошулду; ו...לא 'жана...жок' түзүлүшүн көтөрөт."
+    }
+  ],
+  "translation": "Сага жамандык жолобойт, жара ачылып кетпейт, жана уруу чабуулу чатырыңа жакындабайт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "a5a4894d74fc193c3ca0dfa439a04dd5948d5f5feea6dee3f80b1e544db1e7a0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/91\/9-12.1791216842846.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "תאנה",
+      "gloss": "жолобойт"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "сага"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "жамандык"
+    },
+    {
+      "surface": "ונגע",
+      "gloss": "жара ачылып кетпейт, жана уруу чабуулу"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "יקרב",
+      "gloss": "жакындабайт"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "чатырыңа"
+    }
+  ],
+  "timestamp": "2026-10-05T16:14:02.846871227Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 5:7",
+  "book": "leviticus",
+  "lang": "ky",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "колу жетпесе",
+      "rationale": "יד לא תגיע литералдык 'колу жетпейт' — каражаты жетпейт деген идиома; кыргызча да ошол эле сүрөт сакталды."
+    },
+    {
+      "kind": "substitution",
+      "subject": "өрттөө курманы",
+      "rationale": "עלה 'жогору чыгуу' деген тамыр — толук өрттөлүүчү курман; кыргызча жогору чыгуу сүрөтү жок."
+    }
+  ],
+  "translation": "Жана эгер анын колу бир козуга жетпесе, ал ⟨את⟩ күнөө кылган айып курманын алып келет: эки тор көгүчкөн же эки жаш көгүчкөн баласын Яхвеге — бирөө күнөө курманына, бирөө өрттөө курманына.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "353b9ad6baeef4a785dce2d4fb73ff8793908adc996272aa6b5098546726e5ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/5\/5-8.1791202942754.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Жана эгер"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "תגיע",
+      "gloss": "жетпесе"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "анын колу"
+    },
+    {
+      "surface": "די",
+      "gloss": "жеткидей"
+    },
+    {
+      "surface": "שה",
+      "gloss": "козу"
+    },
+    {
+      "surface": "והביא",
+      "gloss": "алып келет"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "айып курманын"
+    },
+    {
+      "surface": "אשמו",
+      "gloss": "айып курманын"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "эмнени"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "күнөө кылган"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "эки"
+    },
+    {
+      "surface": "תרים",
+      "gloss": "тор көгүчкөн"
+    },
+    {
+      "surface": "או",
+      "gloss": "же"
+    },
+    {
+      "surface": "שני",
+      "gloss": "эки"
+    },
+    {
+      "surface": "בני",
+      "gloss": "баласын"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "көгүчкөн"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхвеге"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бирөө"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "күнөө курманына"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "бирөө"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "өрттөө курманына"
+    }
+  ],
+  "timestamp": "2026-10-05T12:22:22.755884062Z",
+  "model": "glm-5.3"
+}

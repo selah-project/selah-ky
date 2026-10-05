@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 18:8",
+  "book": "leviticus",
+  "lang": "ky",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "бул",
+      "rationale": "еврейче жок — болжолдуу эреже, кыргызча муунба-мыйзамчасы ачык эмес"
+    },
+    {
+      "kind": "idiom",
+      "subject": "ערוה",
+      "rationale": "«жылаңачтык» — инцест туюмунун туруктуу термини"
+    }
+  ],
+  "translation": "Атаңдын аялынын жылаңачтыгын ачпа; ал — атаңдын жылаңачтыгы.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "a7fa3d19689258b4b6bc7d2bdc453037a605d0e8d68faa23090dc3c532fca4a0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/18\/5-8.1791203180382.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "жылаңачтыгын"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "аялынын"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "атаңдын"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "ачпа"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "жылаңачтыгы"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "атаңдын"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ал ⟨бул⟩"
+    }
+  ],
+  "timestamp": "2026-10-05T12:26:20.383826894Z",
+  "model": "glm-5.3"
+}

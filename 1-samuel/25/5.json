@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 25:5",
+  "book": "1-samuel",
+  "lang": "ky",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "менен",
+      "rationale": "בשמי — «ысымым менен»: кыргызча «менен» предлогу кошулду"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Давиддин буйругу",
+      "rationale": "жигиттерге багытталган императивдер: чыгыңар, барыңар, сурагыла"
+    }
+  ],
+  "translation": "Давид он жигит жиберди жана Давид жигиттерге айтты: Кармелге чыгыңар, Набалга барыңар жана ысымым менен ага тынчтыкты сурагыла.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "d7b421baf077d7196740e308789e062aa0cdf7e6c22eadf11f1c018405a2d73e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-samuel\/25\/5-8.1791207171105.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "жиберди"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "он"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "жигит"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "жана айтты"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "לנערים",
+      "gloss": "жигиттерге"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "чыгыңар"
+    },
+    {
+      "surface": "כרמלה",
+      "gloss": "Кармелге"
+    },
+    {
+      "surface": "ובאתם",
+      "gloss": "жана барыңар"
+    },
+    {
+      "surface": "אל",
+      "gloss": "карай"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Набалга"
+    },
+    {
+      "surface": "ושאלתם",
+      "gloss": "жана сурагыла"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ага"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "ысымым менен"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "тынчтыкты"
+    }
+  ],
+  "timestamp": "2026-10-05T13:32:51.105673525Z",
+  "model": "glm-5.3"
+}

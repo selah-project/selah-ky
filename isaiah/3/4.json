@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 3:4",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "тентектер",
+      "rationale": "ta'alulim — caprice\/spoiled mischief-makers (same root as 'childish pranks'); 'тентектер' keeps the childish-caprice picture vs KJV 'babes'."
+    },
+    {
+      "kind": "addition",
+      "subject": "катары",
+      "rationale": "Double-accusative 'give youths [as] their princes' needs 'катары' in Kyrgyz to mark the predicate role."
+    }
+  ],
+  "translation": "Жана Мен алардын башчылары катары наристелерди коёмун, жана тентектер аларга өкүм сүрөт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "68546ba517ea2c83dba0696bae3637875c12a666b302bffd146ec30d44c082bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/3\/1-4.1791209387980.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "Жана ... коёмун"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "наристелерди"
+    },
+    {
+      "surface": "שריהם",
+      "gloss": "алардын башчылары"
+    },
+    {
+      "surface": "ותעלולים",
+      "gloss": "жана тентектер"
+    },
+    {
+      "surface": "ימשלו",
+      "gloss": "өкүм сүрөт"
+    },
+    {
+      "surface": "בם",
+      "gloss": "аларга"
+    }
+  ],
+  "timestamp": "2026-10-05T14:09:47.981924299Z",
+  "model": "glm-5.3"
+}

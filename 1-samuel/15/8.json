@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 15:8",
+  "book": "1-samuel",
+  "lang": "ky",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "кылычтын оозу",
+      "rationale": "לפי חרב калыптар эме — 'кылычтын мизи' эмес, адабы 'ооз' сөздөн алынган."
+    },
+    {
+      "kind": "substitution",
+      "subject": "херемге берип жок кылды",
+      "rationale": "החרים 'херем' деген ыйык\/enengүз жок кылуу — 'толук жок кылды' гана дегенге сыгылбайт."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חרב\/החרים",
+      "rationale": "חרם жана חרב тамырлаш — 'херем' жана 'кылыч' үн окшоштугу."
+    }
+  ],
+  "translation": "Жана ал Амалек падышасы ⟨את⟩ Агагды тирүү кармап алды, жана ⟨את⟩ бүт элди кылычтын оозу менен херемге берип жок кылды.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "0a955b7d8dae29e8aef1339ddbc58eb33abd967e7699924eaa4a1d829a501b09",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-samuel\/15\/5-8.1791206906650.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתפש",
+      "gloss": "кармап алды"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Агагды"
+    },
+    {
+      "surface": "אגג",
+      "gloss": "Агагды"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "падышасы"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Амалек"
+    },
+    {
+      "surface": "חי",
+      "gloss": "тирүү"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "жана ⟨את⟩",
+      "marks": "бүт элди"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүт"
+    },
+    {
+      "surface": "העם",
+      "gloss": "элди"
+    },
+    {
+      "surface": "החרים",
+      "gloss": "херемге берип жок кылды"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "оозу менен"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "кылычтын"
+    }
+  ],
+  "timestamp": "2026-10-05T13:28:26.651480721Z",
+  "model": "glm-5.3"
+}

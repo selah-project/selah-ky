@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 33:17",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "חילו",
+      "rationale": "חיל — күч, аскер, байлык маанисин камтыган сөз; бул жерде «күч» деп алынды"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שקר\/לתשועה",
+      "rationale": "«жалган» жана «куткаруу» карама-каршы коюлган; 33:16дагы «көп аскер куткарабайт» тизмегин улантат"
+    }
+  ],
+  "translation": "Ат — жалган куткаруу; анын күчүнүн көбү менен ал куткарабайт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "807dad4e0ae498344a0a1c7e24ffe96f648a79a9ec0832cee397d0bd538c4880",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/33\/17-20.1791215844553.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שקר",
+      "gloss": "жалган"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "ат"
+    },
+    {
+      "surface": "לתשועה",
+      "gloss": "куткарууга"
+    },
+    {
+      "surface": "וברב",
+      "gloss": "жана … көбү менен"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "анын күчү"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "куткарабайт"
+    }
+  ],
+  "timestamp": "2026-10-05T15:57:24.553817052Z",
+  "model": "glm-5.3"
+}

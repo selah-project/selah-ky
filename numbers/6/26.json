@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 6:26",
+  "book": "numbers",
+  "lang": "ky",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "жүзүн көтөрүп карайсын",
+      "rationale": "נשא פנים — 'жүзүн көтөрүү' = назар салуу, кабыл алуу идиомасы."
+    },
+    {
+      "kind": "substitution",
+      "subject": "тынчтык",
+      "rationale": "שלום — толук эс алуу, камкордук, бүтүндүк маанисин да камтыйт."
+    }
+  ],
+  "translation": "Яхве Өз жүзүн саға көтөрүп карайсын жана саға тынчтык берсин.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "140606acc1b83ea4995b62466ca3d84525f3ea2f7566fb338082a22a594fa586",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/numbers\/6\/25-27.1791203653422.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישא",
+      "gloss": "көтөрүп карайсын"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "Өз жүзүн"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "саға"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "жана берсин"
+    },
+    {
+      "surface": "לך",
+      "gloss": "саға"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "тынчтык"
+    }
+  ],
+  "timestamp": "2026-10-05T12:34:13.423385155Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 18:14",
+  "book": "leviticus",
+  "lang": "ky",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "жылаңачтыгын ачпоо",
+      "rationale": "ערות גלה эвфемизмди сактадым"
+    },
+    {
+      "kind": "substitution",
+      "subject": "таянең",
+      "rationale": "דודה — атанын бир тууганынын аялы, атайын эне тарабынан айтылган сөз"
+    }
+  ],
+  "translation": "Атаңдын бир тууганынын жылаңачтыгын ачпа, анын аялына жакындаба — ал сенин таянең.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "8f38b99a46ac65889ec44f1beb82ea528f0c83eb5563ddef35b2faa7758fed21",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/18\/13-16.1791203170042.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "жылаңачтыгын"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "бир тууганынын"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "атаңдын"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ачпа"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "ачпа"
+    },
+    {
+      "surface": "אל",
+      "gloss": "жакындаба"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "аялына"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жакындаба"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "жакындаба"
+    },
+    {
+      "surface": "דדתך",
+      "gloss": "таянең"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ал"
+    }
+  ],
+  "timestamp": "2026-10-05T12:26:10.042898970Z",
+  "model": "glm-5.3"
+}

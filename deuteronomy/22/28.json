@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 22:28",
+  "book": "deuteronomy",
+  "lang": "ky",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "түтүн кыз",
+      "rationale": "בתולה — башынан үйлөнбөгөн кыз; кыргызчадагы салттуу «түтүн кыз» сөзү жакын маани берет"
+    },
+    {
+      "kind": "crux",
+      "subject": "ותפשה",
+      "rationale": "«кармоо» — бул аятта зордукбу же ырантышуубу талаштуу; 25-аяттагы והחזיק ден башка этиш"
+    }
+  ],
+  "translation": "Эгер бир эркек жесир кызды — турмушка чыгууга убадалашпаган түтүн кызды — жолуктурса жана аны кармап алса жана анын менен жатса, жана алар тутулса,",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "c1b6f9b2321331519fe279391b52e44fd54fdd066ec989456c8a576cd8c3e617",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/22\/25-28.1791205226457.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Эгер"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "жолуктурса"
+    },
+    {
+      "surface": "איש",
+      "gloss": "эркек"
+    },
+    {
+      "surface": "נער",
+      "gloss": "жесир кызды"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "түтүн кызды"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ал"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "ארשה",
+      "gloss": "убадалашпаган"
+    },
+    {
+      "surface": "ותפשה",
+      "gloss": "кармап алса"
+    },
+    {
+      "surface": "ושכב",
+      "gloss": "жатса"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "анын менен"
+    },
+    {
+      "surface": "ונמצאו",
+      "gloss": "тутулса"
+    }
+  ],
+  "timestamp": "2026-10-05T13:00:26.458415382Z",
+  "model": "glm-5.3"
+}

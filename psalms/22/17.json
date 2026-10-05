@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 22:17",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כארי",
+      "rationale": "'арстандай' (JPS) менен 'тешишти' (KJV, кайра тамгаланган כארו) ортосундагы белгилүү талаш; LXX 'казышты' деп окуган."
+    },
+    {
+      "kind": "addition",
+      "subject": "тиштешет",
+      "rationale": "Еврей тексти этишти түшүрүп калган; 'арстандай коллорума' — аракет айтылбаган, кыргыз тили этишти талап кылат."
+    }
+  ],
+  "translation": "Анткени иттер мени курчап алды, жаман адамдардын чогулушу мени айлап калды, арстандай коллорума жана буттарыма ⟨тиштешет⟩.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "2ad92c003b3d9248353d1062d068ad310d7c65ad3e00ee28844db39ac4229a7a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/22\/17-20.1791215597392.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "курчап алды"
+    },
+    {
+      "surface": "כלבים",
+      "gloss": "иттер"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "чогулушу"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "жаман адамдардын"
+    },
+    {
+      "surface": "הקיפוני",
+      "gloss": "айлап калды"
+    },
+    {
+      "surface": "כארי",
+      "gloss": "арстандай"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "коллорума"
+    },
+    {
+      "surface": "ורגלי",
+      "gloss": "жана буттарыма"
+    }
+  ],
+  "timestamp": "2026-10-05T15:53:17.392638929Z",
+  "model": "glm-5.3"
+}

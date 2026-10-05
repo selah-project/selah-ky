@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 3:6",
+  "book": "numbers",
+  "lang": "ky",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ыйккан",
+      "rationale": "הכהן — ыйык кызмат кылуучу; «священник» орус сөзү колдонулбайт"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מטה",
+      "gloss": "тамыр «бутак\/таяк» дегенди да билдирет, бул жерде уруу"
+    }
+  ],
+  "translation": "Леви уруусун ⟨את⟩ жакындатып, аны Ахарон ыйккандын алдына тургуз, жана алар ага кызмат кылсын.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "a0917d52c1d7978ab02442be5920d8a43d150f2fd26bf333a3fc8033155d9923",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/numbers\/3\/5-8.1791203592251.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הקרב",
+      "gloss": "жакындат"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Леви уруусун"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "уруу"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Леви"
+    },
+    {
+      "surface": "והעמדת",
+      "gloss": "жана тургуз"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ аны",
+      "marks": "Леви уруусун"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "алдына"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Ахарон"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ыйккан"
+    },
+    {
+      "surface": "ושרתו",
+      "gloss": "жана кызмат кылсын"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ага",
+      "marks": "Ахаронго"
+    }
+  ],
+  "timestamp": "2026-10-05T12:33:12.252148933Z",
+  "model": "glm-5.3"
+}

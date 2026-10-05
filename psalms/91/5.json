@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 91:5",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 91,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жебе",
+      "rationale": "מחץ literally «тешип өтүүчү» — жебе деген мааниде"
+    },
+    {
+      "kind": "you",
+      "subject": "сага",
+      "rationale": "Второй лицага кайрылуу — Тынчтык Псалмынын окурманына\/ишенүүчүгө айтылат"
+    }
+  ],
+  "translation": "Түнкү коркунучтан коркпойсүң, күндүзү учкан жебеден да коркпойсүң.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "82c889abb6220a00396e68e83043cf48610b5411a0092f94e088d667499849bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/91\/5-8.1791216905883.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "коркпойсүң"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "коркпо"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "коркунучтан"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "түнкү"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "жебеден"
+    },
+    {
+      "surface": "יעוף",
+      "gloss": "учкан"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "күндүзү"
+    }
+  ],
+  "timestamp": "2026-10-05T16:15:05.883785746Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 22:12",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "טרף יטרפ",
+      "rationale": "инфинитив абсолют + имперфекти — 'растерзано-растерзано'; усиленис кыргызча жоголду"
+    },
+    {
+      "kind": "substitution",
+      "subject": "עד",
+      "rationale": "'свидетель' — өлүк-жаныбардын өзү күбө катары; далил катары берилди"
+    }
+  ],
+  "translation": "Эгерде талкандалып калса, аны далил катары алып келсин; талкандаганын ал төлөбөйт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "f80bf2e6de2bddac0dc60239cd715af131cedcde923a6b50eb7f4107600f818d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/22\/9-12.1791202267974.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "эгерде"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "талкандалып"
+    },
+    {
+      "surface": "יטרף",
+      "gloss": "калса"
+    },
+    {
+      "surface": "יבאהו",
+      "gloss": "алып келсин"
+    },
+    {
+      "surface": "עד",
+      "gloss": "далил катары"
+    },
+    {
+      "surface": "הטרפה",
+      "gloss": "талкандаганын"
+    },
+    {
+      "surface": "לא",
+      "gloss": "төлөбөйт...жок"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "төлөбөйт"
+    }
+  ],
+  "timestamp": "2026-10-05T12:11:07.975914835Z",
+  "model": "glm-5.3"
+}

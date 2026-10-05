@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 106:4",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 106,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "элиҥдин",
+      "rationale": "עמך 'сенин элиҥ' — ээлик мүчө кыргызчада түшүнүктүү болушу үчүн"
+    },
+    {
+      "kind": "you",
+      "subject": "Яхвеге",
+      "rationale": "Тикелей тиленүү — Яхвеге багышталган сөз"
+    },
+    {
+      "kind": "crux",
+      "subject": "פקדני",
+      "rationale": "פקד 'көзөмөлдөө\/эстөө\/саноо' — 'куткарууӊ менен кел' же 'мага кам көр' деген варианттар бар"
+    }
+  ],
+  "translation": "Мени эстей кор, Яхве, ⟨элиҥдин⟩ ыраазычылыгы менен, мени куткарууӊ менен көзөмөлдөп кор.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "c97acf7b309a65bd50d82d14ecca4a928e612d4104ddb5879a7055030dbe54d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/106\/1-4.1791217125297.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זכרני",
+      "gloss": "Мени эстей кор"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ברצון",
+      "gloss": "ыраазычылыгы менен"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "⟨элиҥдин⟩"
+    },
+    {
+      "surface": "פקדני",
+      "gloss": "мени көзөмөлдөп кор"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "куткарууӊ менен"
+    }
+  ],
+  "timestamp": "2026-10-05T16:18:45.298699132Z",
+  "model": "glm-5.3"
+}

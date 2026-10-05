@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 85:3",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 85,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נשאת עון",
+      "rationale": "Букв. «күнөөнү көтөрдүң»: простил (КЖ) vs понёс\/унёс (YLT); выбран буквальный образ подъёма-унесения"
+    },
+    {
+      "kind": "hapax",
+      "subject": "סלה",
+      "rationale": "Селах — музыкальная пауза, не переводится, передана как имя"
+    }
+  ],
+  "translation": "Сен ⟨את⟩ элиңдин күнөөсүн көтөрдүң, алардын бүткүл күнөөлөрүн жаптың. Селах.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "1e6098456f56aa772431d8326426dd6f9857ea0170fbf1535b9d07ec09f0e33f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/85\/1-4.1791216725399.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נשאת",
+      "gloss": "көтөрдүң"
+    },
+    {
+      "surface": "עון",
+      "gloss": "күнөөсүн"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "элиңдин"
+    },
+    {
+      "surface": "כסית",
+      "gloss": "жаптың"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүткүл"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "күнөөлөрүн"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Селах"
+    }
+  ],
+  "timestamp": "2026-10-05T16:12:05.400768964Z",
+  "model": "glm-5.3"
+}

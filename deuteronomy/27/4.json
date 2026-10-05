@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 27:4",
+  "book": "deuteronomy",
+  "lang": "ky",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ак шыбак",
+      "rationale": "בשיד — актоо үчүн колдонулуучу өчкөн ак; кыргызча так окшош сөз жок"
+    },
+    {
+      "kind": "elision",
+      "subject": "והיה",
+      "rationale": "«Жана болот» — келечекти белгилеген emphatic והיה, толук окшош эквиваленти жок"
+    }
+  ],
+  "translation": "Жана болот: Ярденди өткөнүңөрдө ⟨את⟩ бул таштарды тикесиңер, аларды бүгүн Эйвал тоосунда ⟨את⟩ силерге буйруп жатканымдай, жана аларды ⟨актап⟩ сылайсыңар ак шыбак менен.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "7e8984145cee23c2f471ccbaffc1ca711ad6c688d752af9c9967cff524cc39bd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/27\/4-4.1791223749549.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "жана болот"
+    },
+    {
+      "surface": "בעברכם",
+      "gloss": "өткөнүңөрдө"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ярденди"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Ярден"
+    },
+    {
+      "surface": "תקימו",
+      "gloss": "тикесиңер"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "бул таштарды"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "таштарды"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "бул"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "аларды"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "мен"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "буйруп жатканымдай"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ силерге"
+    },
+    {
+      "surface": "היום",
+      "gloss": "бүгүн"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "тоосунда"
+    },
+    {
+      "surface": "עיבל",
+      "gloss": "Эйвал"
+    },
+    {
+      "surface": "ושדת",
+      "gloss": "сылайсыңар"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ аларды",
+      "marks": "аларды"
+    },
+    {
+      "surface": "בשיד",
+      "gloss": "ак шыбак менен"
+    }
+  ],
+  "timestamp": "2026-10-05T18:09:09.549626572Z",
+  "model": "glm-5.3"
+}

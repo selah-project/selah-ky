@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 25:9",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "идиштер",
+      "rationale": "כלי — «аспап, идиш» деген кең мааниде; «мебель» деп алынган жок"
+    },
+    {
+      "kind": "measurement",
+      "subject": "үлгү",
+      "rationale": "Мишкандын жана анын бүт идиштеринин үлгүсү — Ысык чатырдын так өлчөмдөрү башталат"
+    }
+  ],
+  "translation": "Мен ⟨את⟩ сага көрсөткөн нерсенин баарына ылайык — Мишкандын үлгүсүн жана анын бүт идиштеринин үлгүсүнө ылайык — ошондой кылып жасаңар.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "ee373294631b19d6f72f876a528b328eb08cf3d35438145d3cf68c8988146930",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/25\/9-12.1791202385518.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "баарына ылайык"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "нерсенин"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Мен"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "көрсөткөн"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ сага"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Мишкандын үлгүсүн"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "үлгүсүн"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Мишкандын"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "жана ⟨את⟩",
+      "marks": "бүт идиштеринин үлгүсүн"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "үлгүсүн"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүт"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "идиштеринин"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "ошондой кылып"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "жасаңар"
+    }
+  ],
+  "timestamp": "2026-10-05T12:13:05.519469311Z",
+  "model": "glm-5.3"
+}

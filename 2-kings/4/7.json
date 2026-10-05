@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 4:7",
+  "book": "2-kings",
+  "lang": "ky",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "вэат",
+      "rationale": "Бул жерде ואת — объект белгиси эмес, «жана сен» деген жактама ат атооч"
+    }
+  ],
+  "translation": "Жана ал барып, Элохимдин кишисине билдирди. Жана ал айтты: Бар, ⟨את⟩ майды сат жана ⟨את⟩ карыздарыңды төлө; сен жана уулдарың калганы менен жашагын.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "a9875895850787948e4fff4dee935780dbeec79ea2090b817e82492499e979d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-kings\/4\/5-8.1791208760584.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "барып"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "билдирди"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "кшиси…не"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Элохимдин"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "бар"
+    },
+    {
+      "surface": "מכרי",
+      "gloss": "сат"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "майды"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "май"
+    },
+    {
+      "surface": "ושלמי",
+      "gloss": "төлө"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "карыздарыңды"
+    },
+    {
+      "surface": "נשיכי",
+      "gloss": "карыздарың"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "жана сен"
+    },
+    {
+      "surface": "בניכי",
+      "gloss": "уулдарың"
+    },
+    {
+      "surface": "תחיי",
+      "gloss": "жашагын"
+    },
+    {
+      "surface": "בנותר",
+      "gloss": "калганы менен"
+    }
+  ],
+  "timestamp": "2026-10-05T13:59:20.585053023Z",
+  "model": "glm-5.3"
+}

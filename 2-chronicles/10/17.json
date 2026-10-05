@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 10:17",
+  "book": "2-chronicles",
+  "lang": "ky",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "болсо",
+      "rationale": "Ивритте вав-байламтаны толуктоо үчүн кошулду"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Йисраэлдин уулдары",
+      "rationale": "בני ישראל — так «Йисраэлдин уулдары», «эл» деген жалпылыкка алмаштырылбайт"
+    }
+  ],
+  "translation": "Йисраэлдин уулдары болсо, Йегуданын шаарларында жашагандар — алардын үстүнөн Рехавам падышачылык кылды.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "2ca8c44a0bf348bb73412359cc1b44a4e6628c59ce4b7ace02eec05f438e7c8c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-chronicles\/10\/17-19.1791222720448.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "уулдары болсо"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэлдин"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "жашагандар"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "шаарларында"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Йегуданын"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "падышачылык кылды"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "алардын үстүнөн"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Рехавам"
+    }
+  ],
+  "timestamp": "2026-10-05T17:52:00.448965657Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 34:6",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ачуусу узун",
+      "rationale": "ארך אפים туура сөзмө 'узун мурondoр' — аф 'мурон\/ачуу', идиома 'ачуусу жай көтөрүүчү'"
+    },
+    {
+      "kind": "crux",
+      "subject": "חסד",
+      "rationale": "хесед — 'ырайым', 'сүйүү-бекемдик' ордуна еврейче сөз кармалды"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יהוה יהוה",
+      "rationale": "Ысым эки айтылат — Танахтагы эң маанилүү жарыялоонун башталышы"
+    }
+  ],
+  "translation": "Жана Яхве анын жүзүнүн алдынан өттү жана чакырды: Яхве, Яхве, ырайымдуу жана боорукер Эл, ачуусу узун, чоң хесед жана чындык ээси.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "b979dfa7ed0b504af275711cd3fd3cc778850328720949595d5771685a5d0e95",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/34\/5-8.1791202592456.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "өттү"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "על",
+      "gloss": "алдынан"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "анын жүзүнүн"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "чакырды"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эл"
+    },
+    {
+      "surface": "רחום",
+      "gloss": "ырайымдуу"
+    },
+    {
+      "surface": "וחנון",
+      "gloss": "боорукер"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "узун"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "ачуусу"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "чоң"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "хесед"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "жана чындык"
+    }
+  ],
+  "timestamp": "2026-10-05T12:16:32.457490414Z",
+  "model": "glm-5.3"
+}

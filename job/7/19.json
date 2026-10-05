@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 7:19",
+  "book": "job",
+  "lang": "ky",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "түкүрүгүмдү жутканча",
+      "rationale": "Ивриттин 'түкүрүктү жутуу' идиомасы — ' бир секундага' деген маани; кыргызча да эң кыска убакыт катары берилди"
+    },
+    {
+      "kind": "crux",
+      "subject": "תשעה",
+      "rationale": "'карабайсың' (KJV 'depart') же 'карайсың' (YLT 'look') — тамыр 'кароо' дегенди билдирет, 'көзүңдү алып кет' деп түшүнүлөт"
+    }
+  ],
+  "translation": "Канча убакыт көзүңдү менден тартпейсиң, түкүрүгүмдү жутканча мени койторбойсуң?",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "7bb4cbd637da7111dca8cc10548a5b466616822b235c37ec73482c177a1f2625",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/job\/7\/17-20.1791218663773.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כמה",
+      "gloss": "канча убакыт"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "көзүңдү тартпейсиң"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "менден"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "תרפני",
+      "gloss": "койторбойсуң"
+    },
+    {
+      "surface": "עד",
+      "gloss": "чейин"
+    },
+    {
+      "surface": "בלעי",
+      "gloss": "жутканча"
+    },
+    {
+      "surface": "רקי",
+      "gloss": "түкүрүгүмдү"
+    }
+  ],
+  "timestamp": "2026-10-05T16:44:23.774545967Z",
+  "model": "glm-5.3"
+}

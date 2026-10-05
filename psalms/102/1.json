@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 102:1",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 102,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "שיח",
+      "rationale": "שיח — ой жүгүртүү да, айтылган сөз да; «көңүл» катары берилди, «налысы» дагы мүмкүн"
+    },
+    {
+      "kind": "elision",
+      "subject": "ולפני",
+      "rationale": "«беттин алдында» деген жандуу сүрөт «алдына» деп кыскардылды"
+    }
+  ],
+  "translation": "Кысылгандын тиленүүсү, ал басмырланган кезде, Яхвенин алдына өз көңүлүн төккөндө.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "0e44dd152abec956e2e86f54bfacc53d74ec05266a22a92dc79db1cb4319e304",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/102\/1-4.1791216991523.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "тиленүүсү"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "кысылгандын"
+    },
+    {
+      "surface": "כי",
+      "gloss": "кезде"
+    },
+    {
+      "surface": "יעטף",
+      "gloss": "басмырланган"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "алдына"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "төккөндө"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "өз көңүлүн"
+    }
+  ],
+  "timestamp": "2026-10-05T16:16:31.523877354Z",
+  "model": "glm-5.3"
+}

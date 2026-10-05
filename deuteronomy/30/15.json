@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 30:15",
+  "book": "deuteronomy",
+  "lang": "ky",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "Кара",
+      "rationale": "Буйрук формасы менен окурман (тыңдоочу) кайрылууга чакырылат."
+    },
+    {
+      "kind": "you",
+      "subject": "сенин алдыңа",
+      "rationale": "Тикелей кайрылуу — Йисраэлге (Моше аркылуу)."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "жашоо\/өлүм · жакшылык\/жамандык",
+      "rationale": "Эки карама-каршы жұп катар коюлган — хиазм сымал структурасы."
+    }
+  ],
+  "translation": "Кара, мен бүгүн сенин алдыңа ⟨את⟩ жашоону жана ⟨את⟩ жакшылыкты, ⟨את⟩ өлүмдү жана ⟨את⟩ жамандыкты койдум.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "4f8c66424d7daa99706b57f5f4fce9669c01f481e3cef42f56e03646932a96ec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/30\/13-16.1791205377197.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "кара"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "койдум"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "сенин алдыңа"
+    },
+    {
+      "surface": "היום",
+      "gloss": "бүгүн"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "жашоону"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "жашоо"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "жакшылыкты"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "жакшылык"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "өлүмдү"
+    },
+    {
+      "surface": "המות",
+      "gloss": "өлүм"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "жамандыкты"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "жамандык"
+    }
+  ],
+  "timestamp": "2026-10-05T13:02:57.198947271Z",
+  "model": "glm-5.3"
+}

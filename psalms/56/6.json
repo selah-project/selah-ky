@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 56:6",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 56,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "алар",
+      "rationale": "этиштин 3-жамаат формасына SUBJECT «алар» кошулду"
+    },
+    {
+      "kind": "crux",
+      "subject": "יעצבו",
+      "rationale": "«бурат\/жаңылтат» (KJV wrest) же «жарадар кылат» (Geneva grieve) — тамыр «оюп жасоо\/азаптоо» маанисинде"
+    }
+  ],
+  "translation": "Күн бою алар менин сөздөрүмдү бурат, алардын бүт ойлору менин үстүмдө жамандык үчүн.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "ecc13b0c2336edb4420eb17561ef44c6826d10fcfb9e63b65f7c38429f3da8bd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/56\/5-8.1791216225353.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "бүт"
+    },
+    {
+      "surface": "היום",
+      "gloss": "күн бою"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "менин сөздөрүмдү"
+    },
+    {
+      "surface": "יעצבו",
+      "gloss": "буруу"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "менин үстүмдө"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүт"
+    },
+    {
+      "surface": "מחשבתם",
+      "gloss": "ойлору"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "жамандык үчүн"
+    }
+  ],
+  "timestamp": "2026-10-05T16:03:45.353858708Z",
+  "model": "glm-5.3"
+}

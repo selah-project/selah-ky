@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 18:6",
+  "book": "1-chronicles",
+  "lang": "ky",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "гарнизондорду",
+      "rationale": "Ветteren тилинде объект керек; еврей текстинде וישם объектсиз — эмне койгону айтылбайт."
+    },
+    {
+      "kind": "crux",
+      "subject": "ויושע",
+      "rationale": "'Куткарып калды' же 'жеңиш берди' — котормотор бөлүнөт; тамырдын сөзү — коопсуз кылуу, бошотуу."
+    },
+    {
+      "kind": "elision",
+      "subject": "היהי",
+      "rationale": "'Болду' деген айлануу этиши кыргызча 'айланды' ичинде сиңди."
+    }
+  ],
+  "translation": "Жана Давид Дамаск Арамында ⟨гарнизондорду⟩ жайгаштырды, жана Арам Давидке минха көтөрүүчү кулдарга айланды, жана Яхве Давидке барган жеринин баарында ⟨жеңиш⟩ берип турду.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "c6ed613fd6c065d2f47d03d3924fd2b838966767b468137ce4efba83e0146f94",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-chronicles\/18\/5-8.1791222249651.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "жайгаштырды"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "בארם",
+      "gloss": "Арамда"
+    },
+    {
+      "surface": "דרמשק",
+      "gloss": "Дамаск"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "болду"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Арам"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "Давидке"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "кулдар"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "көтөрүүчү"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "минха"
+    },
+    {
+      "surface": "ויושע",
+      "gloss": "куткарып турду"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "Давидке"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "баарында"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "эмне"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "барган"
+    }
+  ],
+  "timestamp": "2026-10-05T17:44:09.652669292Z",
+  "model": "glm-5.3"
+}

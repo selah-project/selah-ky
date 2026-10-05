@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 55:18",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 55,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "ойлонормун",
+      "rationale": "אשיחה — өзүнчө кеберүү, ойлонуп сүйлөө; «ооба таштаймын» деген да окуу бар"
+    },
+    {
+      "kind": "substitution",
+      "subject": "түшкү",
+      "rationale": "צהרים эки жарыктык двойной сан — «эки жарыктын ортосу», түш убагысы"
+    }
+  ],
+  "translation": "Кечке, жана эртең менен, жана түшкү — ойлонормун жана кыйкырамын, жана ал үнүмдү укту.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "03089fa690ceb4cc390aed7e37234b2d852d3d45d6ac9677d04381b2078298d5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/55\/18-19.1791224444419.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ערב",
+      "gloss": "кечке"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "жана эртең менен"
+    },
+    {
+      "surface": "וצהרים",
+      "gloss": "жана түшкү"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "ойлонормун"
+    },
+    {
+      "surface": "ואהמה",
+      "gloss": "жана кыйкырамын"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "жана укту"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "үнүмдү"
+    }
+  ],
+  "timestamp": "2026-10-05T18:20:44.419569149Z",
+  "model": "glm-5.3"
+}

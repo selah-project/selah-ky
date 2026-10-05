@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 7:14",
+  "book": "jeremiah",
+  "lang": "ky",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ыктыярдуу тилке⟩",
+      "rationale": "Еврейский стих ставит глагол вперёд («и сделаю Я дому… как сделал Шилоху»); в кыргызском порядок переставлен ради понятности."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "Шило",
+      "rationale": "Отсылка к 7:12 — судьба храма приравнена к судьбе святилища в Шило; имя оставлено без перевода."
+    }
+  ],
+  "translation": "Мен ⟨את⟩ үйгө — Үстүмдө ысмым аталган, силер ишенген үйгө — жана силерге жана ата-бабаларыңарга берген жайга Шилого кылганымдай кылам.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "148b53a3ffc43a6f242cd69c674d393ef86f2b5435504d03917c67c5417e2985",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/jeremiah\/7\/13-16.1791210839062.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשיתי",
+      "gloss": "кылам"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "үйгө"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "кайсы"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "аталган"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "ысмым"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "андын үстүнө"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "кайсы"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "силер"
+    },
+    {
+      "surface": "בטחים",
+      "gloss": "ишенген"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ага"
+    },
+    {
+      "surface": "ולמקום",
+      "gloss": "жана жайга"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "кайсы"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "берген"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "силерге"
+    },
+    {
+      "surface": "ולאבותיכם",
+      "gloss": "жана ата-бабаларыңарга"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "кылганымдай"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "кылган"
+    },
+    {
+      "surface": "לשלו",
+      "gloss": "Шилого"
+    }
+  ],
+  "timestamp": "2026-10-05T14:33:59.063290285Z",
+  "model": "glm-5.3"
+}

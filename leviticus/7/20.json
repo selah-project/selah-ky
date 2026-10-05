@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 7:20",
+  "book": "leviticus",
+  "lang": "ky",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жан",
+      "rationale": "נפש — 'дем алуучу жандык, тирүүлүк', кыргызча 'жан' эң жакыны"
+    },
+    {
+      "kind": "crux",
+      "subject": "куулуп чыгарылат",
+      "rationale": "ונכרתה (карет): 'кесилип ташталат' — өлүм жазасыбы, элден куулуубу — translator'lar талашта"
+    }
+  ],
+  "translation": "Жана Яхвеге таандык тынчтык курмандыктарынын этинен жеген жан, үстүндө тазасыздыгы болсо, ошол жан өз элинен куулуп чыгарылат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "3aeca30b3b93ac8a60d940b7fbaa971e9745304dfba8e5ec03b1294a7b208a02",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/7\/17-20.1791202909696.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והנפש",
+      "gloss": "Жана жан"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "жеген"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "этинен"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "курмандыктарынын"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "тынчтык"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхвеге"
+    },
+    {
+      "surface": "וטמאתו",
+      "gloss": "тазасыздыгы"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "анын үстүндө"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "куулуп чыгарылат"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "жан"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ошол"
+    },
+    {
+      "surface": "מעמיה",
+      "gloss": "өз элинен"
+    }
+  ],
+  "timestamp": "2026-10-05T12:21:49.698146400Z",
+  "model": "glm-5.3"
+}

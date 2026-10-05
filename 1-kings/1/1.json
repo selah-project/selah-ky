@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 1:1",
+  "book": "1-kings",
+  "lang": "ky",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "בא בימים",
+      "rationale": "Literally 'entering into days' — idiom for advanced age, rendered 'күндөргө кирип барган'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "יחם",
+      "rationale": "Hebrew 'be hot\/warm' rendered 'ысып жаткан' — body heat, not weather."
+    }
+  ],
+  "translation": "Жана падыша Давид карыган, күндөргө кирип барган; аны кийимдер менен жаап коюшту, бирок ал ысып жаткан жок.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "562ff7926eee9f9b6a2fd952ebf5bb75e2182e1ea218bf5cf298ba9de9e5b7de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-kings\/1\/1-4.1791207947103.json",
+    "code": "641241cf-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "жана падыша"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "карыган"
+    },
+    {
+      "surface": "בא",
+      "gloss": "кирип барган"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "күндөргө"
+    },
+    {
+      "surface": "ויכסהו",
+      "gloss": "аны жаап коюшту"
+    },
+    {
+      "surface": "בבגדים",
+      "gloss": "кийимдер менен"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "бирок … жок"
+    },
+    {
+      "surface": "יחם",
+      "gloss": "ысып жаткан"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ага"
+    }
+  ],
+  "timestamp": "2026-10-05T13:45:47.104589346Z",
+  "model": "glm-5.3"
+}

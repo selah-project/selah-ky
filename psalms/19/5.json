@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 19:5",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "קו",
+      "rationale": "'өлчөө жиби' (KJV line) менен LXX 'фθόγγος' ('үн, добуш') деген варианты ортосундагы белгилүү талаш; БСБ 'үн' дейт."
+    },
+    {
+      "kind": "addition",
+      "subject": "ал",
+      "rationale": "Ивритте этиштин этишин ким аткарганы айтылбайт; 'жайгаштырды' этишине субъект кошулду."
+    },
+    {
+      "kind": "measurement",
+      "subject": "קו",
+      "rationale": "Өлчөө жипи — асман чыгарган нерсени бүт жерди өлчөп чыккан образ катары."
+    }
+  ],
+  "translation": "Бүт жер боюнча алардын ⟨өлчөө жипи⟩ чыгат, жана дүйнөнүн четине алардын сөздөрү; күнгө ⟨ал⟩ алардын ичинде чатыр жайгаштырды.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "73bb08ed4490463475a9943ea2b668c2e3cd9ef031e5d289ebbb23f35c88913c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/19\/5-8.1791215631955.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "бүт"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "жер"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "чыгат"
+    },
+    {
+      "surface": "קום",
+      "gloss": "өлчөө жипи"
+    },
+    {
+      "surface": "ובקצה",
+      "gloss": "жана четине"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "дүйнө"
+    },
+    {
+      "surface": "מליהם",
+      "gloss": "алардын сөздөрү"
+    },
+    {
+      "surface": "לשמש",
+      "gloss": "күнгө"
+    },
+    {
+      "surface": "שם",
+      "gloss": "жайгаштырды"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "чатыр"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "алардын ичинде"
+    }
+  ],
+  "timestamp": "2026-10-05T15:53:51.956194178Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 101:2",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 101,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "менен",
+      "rationale": "בתם לבבי ээлик konstrukциясы үчүн кошулган байланыш сөз"
+    },
+    {
+      "kind": "crux",
+      "subject": "качан келесиң мага",
+      "rationale": "מתי תבוא אלי — Яхвенин келишиби же падышанын үйүнө кирүүбү, котормочулар талашкан"
+    }
+  ],
+  "translation": "Кемчиликсиз жолдо акылдуу болоюн. Качан келесиң мага? Бүтүн жүрөк менен үйүмдүн ичинде жүрөм.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "b37b7a31c7fe5bf7e64765e12cc69d9d01b60ee2f2abe042d573610044072146",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/101\/1-4.1791216996117.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשכילה",
+      "gloss": "акылдуу болоюн"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "жолдо"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "кемчиликсиз"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "качан"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "келесиң"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "мага"
+    },
+    {
+      "surface": "אתהלך",
+      "gloss": "жүрөм"
+    },
+    {
+      "surface": "בתם",
+      "gloss": "бүтүн"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "жүрөк менен"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "ичинде"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "үйүмдүн"
+    }
+  ],
+  "timestamp": "2026-10-05T16:16:36.118202865Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-samuel 20:38",
+  "book": "1-samuel",
+  "lang": "ky",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "кожоюн",
+      "rationale": "אדני адам жөнүндө — 'кожоюн', Адонай эмес"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מהרה חושה",
+      "rationale": "эки синоним этиш катар чогуу — ыкма күчөтүү, кыргызча 'тез бол, шашыл'"
+    },
+    {
+      "kind": "secret",
+      "subject": "буйруктар",
+      "rationale": "Йехонатандын өтө шашуусу — Давидке жашыруун белги"
+    }
+  ],
+  "translation": "Йехонатан балакайдын артынан кыйкырды: Тез бол, шашыл, токтобо! Йехонатандын баласы ⟨את⟩ жаа окту терип алып, өз кожоюнuna келди.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "807c0bad338d19899fca959482ee043cd0256365a608cb1be576551c4fc60236",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-samuel\/20\/37-40.1791207096268.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "кыйкырды"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Йехонатан"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "артынан"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "бала"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "тез"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "шашыл"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "токтобо"
+    },
+    {
+      "surface": "וילקט",
+      "gloss": "терип алды"
+    },
+    {
+      "surface": "נער",
+      "gloss": "бала"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Йехонатандын"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "жаа ок"
+    },
+    {
+      "surface": "החצי",
+      "gloss": "жаа ок"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "келди"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "өз кожоюнуна"
+    }
+  ],
+  "timestamp": "2026-10-05T13:31:36.269266525Z",
+  "model": "glm-5.3"
+}

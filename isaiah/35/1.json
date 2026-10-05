@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 35:1",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חבצלת",
+      "rationale": "'мөмө-жакшы гүл' же 'наркисс' — кадимки 'роза' деген жалган маани, еврей сөзү башка гүлдү билдирет."
+    },
+    {
+      "kind": "substitution",
+      "subject": "мөмө-жакшылык",
+      "rationale": "Чыгыш салтында 'кубаныш' деп берилген, бирок сөздүн негизги мааниси — жарык болуу, кубанып жаркыроо."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יששום...ותגל...ותפרח",
+      "rationale": "Үч кыймыл-аракеттик этиштин ыргактуу катарысы, кыргызча текшерүү сакталбай калат."
+    }
+  ],
+  "translation": "Куунарын билем чөлдөө жана кургак жер, жана Араба сүйүнүп, хавацалектей гүл ачсын.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "5ee87909dddb49cae05685bd3052db40e8e1d4e76ad247954a8e52d4e7d18a19",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/35\/1-4.1791210016241.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יששום",
+      "gloss": "куунарын билем"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "чөлдөө"
+    },
+    {
+      "surface": "וציה",
+      "gloss": "жана кургак жер"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "жана сүйүнүп"
+    },
+    {
+      "surface": "ערבה",
+      "gloss": "Араба"
+    },
+    {
+      "surface": "ותפרח",
+      "gloss": "жана гүл ачсын"
+    },
+    {
+      "surface": "כחבצלת",
+      "gloss": "хавацалектей"
+    }
+  ],
+  "timestamp": "2026-10-05T14:20:16.242308888Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "habakkuk 2:2",
+  "book": "habakkuk",
+  "lang": "ky",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ירוץ קורא בו",
+      "rationale": "'окуучу аны менен жүгүрөт' же 'жарыялоочу аны алып жүгүрөт' — KJВ биринчисин, BSB экинчисин тандайт."
+    },
+    {
+      "kind": "addition",
+      "subject": "жооп берип",
+      "rationale": "וגויענני — 'мага жооп берди', түз объект יהוה сөзүндө камтылган."
+    }
+  ],
+  "translation": "Жана Яхве мага жооп берип айтты: Көрүнүстү жаз жана такталардын үстүнө ачык жазып бер, окуп жүргөн аны менен жүгүрө алышы үчүн.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "e9bb43088c6a26ccedc2ae0806c882cdff61045a6b946e3af7165b05ace4c4b6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/habakkuk\/2\/1-4.1791214713078.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויענני",
+      "gloss": "жооп берип"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "כתוב",
+      "gloss": "жаз"
+    },
+    {
+      "surface": "חזון",
+      "gloss": "Көрүнүстү"
+    },
+    {
+      "surface": "ובאר",
+      "gloss": "ачык жазып бер"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстүнө"
+    },
+    {
+      "surface": "הלחות",
+      "gloss": "такталардын"
+    },
+    {
+      "surface": "למען",
+      "gloss": "үчүн"
+    },
+    {
+      "surface": "ירוץ",
+      "gloss": "жүгүрө алышы"
+    },
+    {
+      "surface": "קורא",
+      "gloss": "окуучу"
+    },
+    {
+      "surface": "בו",
+      "gloss": "аны менен"
+    }
+  ],
+  "timestamp": "2026-10-05T15:38:33.079243405Z",
+  "model": "glm-5.3"
+}

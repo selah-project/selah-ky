@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 39:33",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "את",
+      "rationale": "את – түз толуктооч белгиси, кыргызчаFillин жок, ⟨את⟩ белгиси катары сакталды"
+    },
+    {
+      "kind": "substitution",
+      "subject": "чайды",
+      "rationale": "האהל – чат; Мишкан жана чай – эки башка жабдуу"
+    }
+  ],
+  "translation": "Жана алар Мишканды Мошеге алып келишти: чайды, ⟨את⟩ анын бүт жабдыктарын, анын илгичтерин, такталарын, таянчыктарын, баганаларын жана түптөрүн.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "0278095b3dfb63217d3cfd3074611131d349ca6a25e4ebb3151501e75b46320d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/39\/33-36.1791202763864.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויביאו",
+      "gloss": "алып келишти"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Мишканды"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Мишканды"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…га"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Мошеге"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "чайды"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "чайды"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "жана ⟨את⟩",
+      "marks": "бүт жабдыктарын"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүт"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "жабдыктарын"
+    },
+    {
+      "surface": "קרסיו",
+      "gloss": "илгичтерин"
+    },
+    {
+      "surface": "קרשיו",
+      "gloss": "такталарын"
+    },
+    {
+      "surface": "בריחו",
+      "gloss": "таянчыктарын"
+    },
+    {
+      "surface": "ועמדיו",
+      "gloss": "баганаларын"
+    },
+    {
+      "surface": "ואדניו",
+      "gloss": "түптөрүн"
+    }
+  ],
+  "timestamp": "2026-10-05T12:19:23.865289069Z",
+  "model": "glm-5.3"
+}

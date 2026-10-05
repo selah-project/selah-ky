@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 38:12",
+  "book": "jeremiah",
+  "lang": "ky",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "אצלות",
+      "rationale": "אציל — «колдун муунтугу \/ билек» деген сейрек сөз, бул ыңгайда гана кездешет."
+    },
+    {
+      "kind": "invitation",
+      "subject": "Ярмияхуга буйрук-сураныч",
+      "rationale": "Эвед-Мелек Ярмияхуга императив менен кайрылат: «коюп ал» — нא «суранам» мамилени жумшартат."
+    }
+  ],
+  "translation": "Кушит Эвед-Мелек Ярмияхуга айтты: Суранам, эски чиридек кездемелерди жана байламчаларды колдоруңдун билектеринин астына, жиптердин астына коюп ал. Жана Ярмияху ошондой кылды.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "c545f77ebf24acfa78c9dad2f778b8e2c4d75c3a7dd36f4b856e18f31174f039",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/jeremiah\/38\/9-12.1791211645455.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Эвед-"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Мелек"
+    },
+    {
+      "surface": "הכושי",
+      "gloss": "кушит"
+    },
+    {
+      "surface": "אל",
+      "gloss": "→"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Ярмияхуга"
+    },
+    {
+      "surface": "שים",
+      "gloss": "коюп ал"
+    },
+    {
+      "surface": "נא",
+      "gloss": "суранам"
+    },
+    {
+      "surface": "בלואי",
+      "gloss": "эски чиридек"
+    },
+    {
+      "surface": "הסחבות",
+      "gloss": "кездемелерди"
+    },
+    {
+      "surface": "והמלחים",
+      "gloss": "жана байламчаларды"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "астына"
+    },
+    {
+      "surface": "אצלות",
+      "gloss": "билектердин"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "колдоруңдун"
+    },
+    {
+      "surface": "мתחת",
+      "gloss": "астына"
+    },
+    {
+      "surface": "לחבלים",
+      "gloss": "жиптердин"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "кылды"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Ярмияху"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ошондой"
+    }
+  ],
+  "timestamp": "2026-10-05T14:47:25.457401668Z",
+  "model": "glm-5.3"
+}

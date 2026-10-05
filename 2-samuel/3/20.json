@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 3:20",
+  "book": "2-samuel",
+  "lang": "ky",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "болду",
+      "rationale": "Kyrgyz requires a verb 'were' where Hebrew juxtaposes 'and with him twenty men'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "жыйырма киши",
+      "rationale": "the count of Abner's escort is specified"
+    }
+  ],
+  "translation": "Авнер Давидке Хебронго келди, ⟨את⟩ аны менен жыйырма киши болду, жана Давид Авнерге жана ⟨את⟩ аны менен болгон адамдарга той берди.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "424e995d0d37f3e3e017e33cda1da598fcdedb20354438fe2546854126fd3d48",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-samuel\/3\/17-20.1791207402357.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "келди"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Авнер"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ке"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Хебронго"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩ аны менен"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "жыйырма"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "киши"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "жана берди"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "לאבנר",
+      "gloss": "Авнерге"
+    },
+    {
+      "surface": "ולאנשים",
+      "gloss": "жана адамдарга"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "болгон"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ аны менен"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "той"
+    }
+  ],
+  "timestamp": "2026-10-05T13:36:42.359417377Z",
+  "model": "glm-5.3"
+}

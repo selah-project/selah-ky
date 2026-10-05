@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 100,
+  "ref": "psalms 119:100",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "пикиуддарың",
+      "rationale": "פקודים — айтылышы боюнча жазылат: Ысымдын ордуна \"буйруктарды\" да болот"
+    }
+  ],
+  "translation": "Карылардан артык түшүнөмүн, анткени Сенин пикиуддарыңды сактадым.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "ca75195e5bc9a719cc360d1115e5e3fe88c81cfbdb6c45cd3970420370d65d07",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/119\/97-100.1791217383302.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מזקנים",
+      "gloss": "карылардан артык"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "түшүнөмүн"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "пикиуддарыңды"
+    },
+    {
+      "surface": "נצרתי",
+      "gloss": "сактадым"
+    }
+  ],
+  "timestamp": "2026-10-05T16:23:03.303718065Z",
+  "model": "glm-5.3"
+}

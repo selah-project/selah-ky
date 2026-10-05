@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 9:15",
+  "book": "job",
+  "lang": "ky",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אשר אם",
+      "rationale": "Эки байланыштыргыч бирге «…болсом да» деген ыйкабын берет."
+    },
+    {
+      "kind": "crux",
+      "subject": "למשפטי",
+      "rationale": "«Менин сотум» — Ал мени соттойт же мен Аны сотко чакырам деген эки окуу бар."
+    }
+  ],
+  "translation": "Токтойлу, эгер мен цедек болсом да, жооп бербейм; мени соттоочу Менен ырайым сураймын.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "952cdf15cb2e6947895a0b9c0d0a6e64c187489bb14951bb2eee8be558634ca1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/job\/9\/13-16.1791218696197.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Токтойлу"
+    },
+    {
+      "surface": "אם",
+      "gloss": "эгер"
+    },
+    {
+      "surface": "צדקתי",
+      "gloss": "цедек болсом да"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жооп бербейм"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "жооп бербейм"
+    },
+    {
+      "surface": "למשפטי",
+      "gloss": "мени соттоочу"
+    },
+    {
+      "surface": "אתחנן",
+      "gloss": "ырайым сураймын"
+    }
+  ],
+  "timestamp": "2026-10-05T16:44:56.198443660Z",
+  "model": "glm-5.3"
+}

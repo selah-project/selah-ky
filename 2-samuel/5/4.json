@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 5:4",
+  "book": "2-samuel",
+  "lang": "ky",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "отуз жаш, кырк жыл",
+      "rationale": "Давиддин жашы жана бийлик мөөнөтү санап берилген"
+    },
+    {
+      "kind": "substitution",
+      "subject": "жашта",
+      "rationale": "בן שלושים שנה көчүрүлсө 'отуз жылдын уулу' — кыргызча 'отуз жашта'"
+    }
+  ],
+  "translation": "Давид падыша болгонунда отуз жашта эле, кырк жыл бийледи.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "c909a1ea56e0ce6e86ad0101cc3e8ed79f9b51450695ea3f4602cd2f79510c14",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-samuel\/5\/1-4.1791207487981.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "…жашта"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "отуз"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "жыл"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "падыша болгонунда"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "кырк"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "жыл"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "бийледи"
+    }
+  ],
+  "timestamp": "2026-10-05T13:38:07.983274019Z",
+  "model": "glm-5.3"
+}

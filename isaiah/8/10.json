@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 8:10",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עצו עצה \/ דברו דבר",
+      "rationale": "Этиш менен зат аталыштын тамыр кайталоосу (кеңеш кыл — кеңеш; сөз айт — сөз), кыргызча бир кынтыксыз сакталбайт"
+    },
+    {
+      "kind": "alternative",
+      "subject": "עמנו אל",
+      "rationale": "«Эл биздин менен» — Эмануэл (Кудай биз менен) деген атка угуштуруу (Исайя 7:14, 8:8)"
+    }
+  ],
+  "translation": "Кеңеш кылгыла — ал бузулат; сөз айткыла — ал орнобойт, анткени Эл биздин менен.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "466d7526568a79bc32309342ad3bb77d881c946ad1234e0a48ac62489a84c388",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/8\/9-12.1791209442444.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עצו",
+      "gloss": "кеңеш кылгыла"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "кеңеш"
+    },
+    {
+      "surface": "ותפר",
+      "gloss": "жана ал бузулат"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "сөз айткыла"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сөз"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "жана... эмес"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "орнобойт"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "биздин менен"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эл"
+    }
+  ],
+  "timestamp": "2026-10-05T14:10:42.445537096Z",
+  "model": "glm-5.3"
+}

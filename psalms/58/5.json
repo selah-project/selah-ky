@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 58:5",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 58,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "уу",
+      "rationale": "חמה сызылма мааниде «уу», сөздүн өзү «кул josулгандык, ачуу» деген"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חמת…חמת",
+      "rationale": "«уу» сөзү эки жолу кайталанып, окшоштук бекемделет"
+    }
+  ],
+  "translation": "Алардын уусу жыландын уусуна окшош, дүлөй жылан сыяктуу, кулагын жаап алат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "eb817a6b037371ddaaf7bf83a2a4b6b8f71815d55c3ab7cafac572118ebca6f0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/58\/5-8.1791216245973.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "уусу"
+    },
+    {
+      "surface": "למו",
+      "gloss": "алардын"
+    },
+    {
+      "surface": "כדמות",
+      "gloss": "окшош"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "уусу"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "жыландын"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "сыяктуу"
+    },
+    {
+      "surface": "פתן",
+      "gloss": "жылан"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "дүлөй"
+    },
+    {
+      "surface": "יאטם",
+      "gloss": "жаап алат"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "кулагын"
+    }
+  ],
+  "timestamp": "2026-10-05T16:04:05.974235918Z",
+  "model": "glm-5.3"
+}

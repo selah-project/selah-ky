@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 69:10",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 69,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חרפות\/חורפיך",
+      "rationale": "Окшош тамырдын кайталанышы: 'сөгүүлөр... сөгүүчүлөрдүн' — еврейче уңгу-мүчө жакшыруу кыргызча жарым-жартылай сакталган"
+    },
+    {
+      "kind": "idiom",
+      "subject": "жеп жатат",
+      "rationale": "אכלתני 'мени жейт' — күчтүү сезим идиомасы, кыргызча да 'жеп жатат' деген менен берилди"
+    }
+  ],
+  "translation": "Анткени үйүңдүн кызуулугу мени жеп жатат, жана Сени сөгүүчүлөрдүн сөгүүлөрү үстүмө түштү.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "deacf9bac66a1bf073997e0ba7b132c46ba3017dd3621a4741e2c45b4ae10746",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/69\/9-12.1791216389870.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "кызуулугу"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "үйүңдүн"
+    },
+    {
+      "surface": "אכלתני",
+      "gloss": "мени жеп жатат"
+    },
+    {
+      "surface": "וחרפות",
+      "gloss": "жана сөгүүлөр"
+    },
+    {
+      "surface": "חורפיך",
+      "gloss": "Сени сөгүүчүлөрдүн"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "түштү"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "үстүмө"
+    }
+  ],
+  "timestamp": "2026-10-05T16:06:29.871032877Z",
+  "model": "glm-5.3"
+}

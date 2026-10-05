@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 12:20",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ачыткысыз нан",
+      "rationale": "מצות «ачыткысыз нан» — חמץ «ачыган нан» менен карама-каршы коюлган, бул айрмачылык сакталды"
+    }
+  ],
+  "translation": "Ачыган нандын эч бирин жебегиле; жашаган жерлердиңердин баарында ачыткысыз нан жегиле.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "780e407a9c03a60e49fa1f6c771a78138b2c109043dae2005aac6f2a76bb5aff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/12\/17-20.1791202112567.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "эч бирин"
+    },
+    {
+      "surface": "מחמצת",
+      "gloss": "ачыган нандын"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жебегиле"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "жебегиле"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "баарында"
+    },
+    {
+      "surface": "מושבתיכם",
+      "gloss": "жашаган жерлердиңердин"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "жегиле"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "ачыткысыз нан"
+    }
+  ],
+  "timestamp": "2026-10-05T12:08:32.568985602Z",
+  "model": "glm-5.3"
+}

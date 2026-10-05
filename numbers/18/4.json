@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 18:4",
+  "book": "numbers",
+  "lang": "ky",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "זר",
+      "rationale": "«Бөтөн адам» — клерикалдык эмес израилдик (JPS «common man») же чет элдик (KJV «stranger») экени боюнча пикирлер бөлүнөт."
+    },
+    {
+      "kind": "substitution",
+      "subject": "Жолугушуу чатыры",
+      "rationale": "אהל מועד кыргызча адатта «Жолугушуу чатыры»; μοῦστα латын формасы эмес, еврейче маани берилди."
+    }
+  ],
+  "translation": "Алар сага кошулуп, Жолугушуу чатырынын ⟨את⟩ күзөтүн — чатырдын бүт кызматы үчүн — сактасын; чет элдик же бөтөн адам силерге жакындашпасын.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "6d40404a03b0ceb6b3bc595288120140be4821ad367889c711f289d435f16f75",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/numbers\/18\/1-4.1791204039275.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונלוו",
+      "gloss": "кошулуп"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "сага"
+    },
+    {
+      "surface": "ושמרו",
+      "gloss": "сактасын"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Жолугушуу чатырынын күзөтүн"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "күзөтүн"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "чатырынын"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Жолугушуу"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "бүт"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "кызматы үчүн"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "чатырдын"
+    },
+    {
+      "surface": "וזר",
+      "gloss": "чет элдик же бөтөн адам"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "יקרב",
+      "gloss": "жакындашпасын"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "силерге"
+    }
+  ],
+  "timestamp": "2026-10-05T12:40:39.277193055Z",
+  "model": "glm-5.3"
+}

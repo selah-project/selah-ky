@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 30:5",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "ыйыктары",
+      "rationale": "Этиш буйругу менен чакыруу: Яхвеге заамир айткыла, алкыш айткыла"
+    },
+    {
+      "kind": "you",
+      "subject": "Яхвенин ыйыктарына",
+      "rationale": "Тикелей кайрылуу — ыйык кызмат кылуучуларга буйрук"
+    },
+    {
+      "kind": "substitution",
+      "subject": "заамир",
+      "rationale": "זמר тамыры — музыкалык аспаптын кылдарын тартуу; кыргызча 'заамир айткыла' бул сүрөттү толук бербейт"
+    }
+  ],
+  "translation": "Яхвеге заамир айткыла, Анын ыйыктары, жана Анын ыйыктыгынын эстөөсүнө алкыш айткыла.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "be439b2a2394964e15424f73588b6afeeaa0184dc5e37e18041eb4262de767e9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/30\/5-8.1791215751187.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "заамир айткыла"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхвеге"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "Анын ыйыктары"
+    },
+    {
+      "surface": "והודו",
+      "gloss": "жана алкыш айткыла"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "эстөөсүнө"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "ыйыктыгынын"
+    }
+  ],
+  "timestamp": "2026-10-05T15:55:51.188205392Z",
+  "model": "glm-5.3"
+}

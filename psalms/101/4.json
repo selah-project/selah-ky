@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 101:4",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 101,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יסור",
+      "rationale": "'алыстайсың' же ырчы тарабынан 'алыстатам' — этиштин ээси так эмес"
+    }
+  ],
+  "translation": "Бузуку жүрөк менден алыстайсың, жамандыкты билбеймин.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "b37b7a31c7fe5bf7e64765e12cc69d9d01b60ee2f2abe042d573610044072146",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/101\/1-4.1791216996117.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לבב",
+      "gloss": "жүрөк"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "бузуку"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "алыстайсың"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "менден"
+    },
+    {
+      "surface": "רע",
+      "gloss": "жамандыкты"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "билбеймин"
+    }
+  ],
+  "timestamp": "2026-10-05T16:16:36.118582134Z",
+  "model": "glm-5.3"
+}

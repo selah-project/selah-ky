@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "jeremiah 2:36",
+  "book": "jeremiah",
+  "lang": "ky",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תזלי מאד",
+      "rationale": "'абдан эле кетип барасың \/ ар кайта качып жүрөсүң' — YLT 'өтө жамансың', JPS 'өзүңдү арзыган кыласың' деп бөлүнөт."
+    },
+    {
+      "kind": "substitution",
+      "subject": "уят кыласың",
+      "rationale": "בוש — кубарып, уялуу; кимден уялганы ⟨...ден⟩ предлогу аркылуу берилди."
+    }
+  ],
+  "translation": "Жолуңду алмаштыруу үчүн абдан качып жүргөнүң эмне үчүн? Мицрайимден да уят кыласың, Ашшурдан уят болгондой.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "281c7d884e89a2049df56feed76be65f1193cc8e9225dcd7ef3019887ee0a67f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/jeremiah\/2\/33-36.1791210675986.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "эмне үчүн"
+    },
+    {
+      "surface": "תזלי",
+      "gloss": "качып жүргөнүң"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "абдан"
+    },
+    {
+      "surface": "לשנות",
+      "gloss": "алмаштыруу үчүн"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "жолуңду"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "жолуңду"
+    },
+    {
+      "surface": "גם",
+      "gloss": "да"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Мицрайимден"
+    },
+    {
+      "surface": "תבושי",
+      "gloss": "уят кыласың"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "дайы"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "уят болгондой"
+    },
+    {
+      "surface": "מאשור",
+      "gloss": "Ашшурдан"
+    }
+  ],
+  "timestamp": "2026-10-05T14:31:15.987475287Z",
+  "model": "glm-5.3"
+}

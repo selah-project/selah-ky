@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 40:10",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "бар эле",
+      "rationale": "Ивритте байламча жок — сабактардын бар экендиги кыргызча айтылды"
+    },
+    {
+      "kind": "substitution",
+      "subject": "שריגים",
+      "rationale": "Илип өсүүчү жумшак бутак — «сабак» сөзү илинүү касиетин сактай албайт"
+    }
+  ],
+  "translation": "Жана чырмакта үч сабак бар эле; ал бүрлөп баратканда анын гүлдөрү көтөрүлдү, анын шыңгылдары жүзүм берип писти.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "a8628611c0edbc6a7d9a212e4b176936238313896bd312950490f5a2071d3d39",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/40\/9-12.1791201542605.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובגפן",
+      "gloss": "жана чырмакта"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "үч"
+    },
+    {
+      "surface": "שריגם",
+      "gloss": "сабак"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "ал"
+    },
+    {
+      "surface": "כפרחת",
+      "gloss": "бүрлөп баратканда"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "көтөрүлдү"
+    },
+    {
+      "surface": "נצה",
+      "gloss": "гүлдөрү"
+    },
+    {
+      "surface": "הבשילו",
+      "gloss": "писти"
+    },
+    {
+      "surface": "אשכלתיה",
+      "gloss": "анын шыңгылдары"
+    },
+    {
+      "surface": "ענבים",
+      "gloss": "жүзүм"
+    }
+  ],
+  "timestamp": "2026-10-05T11:59:02.606464309Z",
+  "model": "glm-5.3"
+}

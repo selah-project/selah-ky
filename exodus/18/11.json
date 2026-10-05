@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 18:11",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨Яхве⟩",
+      "rationale": "Еврей тексти ээни айтпайт — KJV 'he was above them' деген сыяктуу, субъекти кыргызча талап кылат."
+    },
+    {
+      "kind": "crux",
+      "subject": "בדבר אשר זדו עליהם",
+      "rationale": "'Алар (мисирликтер) ошол нерседе аларга (Йисраэлге) каршы текеберленди' — же 'алар (кудайлар) текеберленишти'; KJV 'He was above them', JPS 'they dealt proudly against them'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "кудайлардан",
+      "rationale": "האלהים бул жерде башка элдердин кудайлары — кичине тамга менен 'кудайлар', Элохим эмес."
+    }
+  ],
+  "translation": "Азыр билдим: Яхве бардык кудайлардан улуу, анткени алар текеберленген нерседе ⟨Яхве⟩ алардын үстүнөн болду.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "be8a523eac23e3989da38a0874d638fcdf67d467020eeb4ffbbeb2ede2eb7d9c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/18\/9-12.1791202206757.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "азыр"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "билдим"
+    },
+    {
+      "surface": "כי",
+      "gloss": ":"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "улуу"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "бардык … дан"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "кудайлардан"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "нерседе"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "-ган"
+    },
+    {
+      "surface": "זדו",
+      "gloss": "текеберленген"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "алардын үстүнөн"
+    }
+  ],
+  "timestamp": "2026-10-05T12:10:06.758199639Z",
+  "model": "glm-5.3"
+}

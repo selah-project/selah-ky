@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 69:5",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 69,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "rationale": "относителдик байламча кыргызча түз структурада орун тапкан жок"
+    },
+    {
+      "kind": "crux",
+      "subject": "אז אשיב",
+      "rationale": "JPS бул жерде суроо («кайтарамбы?»), KJV\/BSB — милдеттенме («кайтарам»); лебеде макулук сүйлөм катары кармалды"
+    }
+  ],
+  "translation": "Мени жек көргөндөр башымдын чачтарынан көп, себепсиз; мени жок кылгысы келгендер күчтүү — жалган душмандарым; тартып албаган нерсемди мен кайтарам.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "fedcd34bd500138cb1eb3f05acb3c4502bf53acfa8f01c3bbefc15c5243c6c2b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/69\/5-8.1791216387272.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רבו",
+      "gloss": "көп"
+    },
+    {
+      "surface": "משערות",
+      "gloss": "чачтарынан"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "башымдын"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "мени жек көргөндөр"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "себепсиз"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "күчтүү"
+    },
+    {
+      "surface": "מצמיתי",
+      "gloss": "мени жок кылгысы келгендер"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "душмандарым"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "жалган"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "לא",
+      "gloss": "эмес"
+    },
+    {
+      "surface": "גזלתי",
+      "gloss": "тартып албаган"
+    },
+    {
+      "surface": "אז",
+      "gloss": "анда"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "кайтарам"
+    }
+  ],
+  "timestamp": "2026-10-05T16:06:27.272919873Z",
+  "model": "glm-5.3"
+}

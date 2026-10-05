@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 74:6",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 74,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "ועת",
+      "rationale": "Кыйын байланыштуу сөз — «азыр» катары берилди, айрым котормолор «бардыгы» деп да алышат."
+    },
+    {
+      "kind": "hapax",
+      "subject": "כילפת",
+      "rationale": "Бул сөз Танахта ушул жерде гана кездешет — чүкү\/балка түрүндөгү ургуч."
+    }
+  ],
+  "translation": "Жана азыр анын оймо-чиймелерин балта менен жана чүкү менен бирге талкалашты.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "6970afe32dbc7d8a883c5e15d5ea328461289023c1b55b8124d5ada007c76734",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/74\/6-7.1791224459182.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועת",
+      "gloss": "жана азыр"
+    },
+    {
+      "surface": "פתוחיה",
+      "gloss": "анын оймо-чиймелерин"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "бирге"
+    },
+    {
+      "surface": "בכשיל",
+      "gloss": "балта менен"
+    },
+    {
+      "surface": "וכילפת",
+      "gloss": "жана чүкү менен"
+    },
+    {
+      "surface": "יהלמון",
+      "gloss": "талкалашты"
+    }
+  ],
+  "timestamp": "2026-10-05T18:20:59.182682118Z",
+  "model": "glm-5.3"
+}

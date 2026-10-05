@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 109:31",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 109,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жанын",
+      "rationale": "נפש — «дем алуучу жандык, жандык күч»; «жан» жакын, бирок тамырдын сүрөтү (дем, тамак) кыргызчада калбайт."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨Аны⟩",
+      "rationale": "Куткаруу этишинин объектиси кыргызча сүйлөмдө ачык көрүнүүсү үчүн кошулду."
+    },
+    {
+      "kind": "crux",
+      "subject": "оң жагында",
+      "rationale": "Ким турат — Яхвеби (мурунку аяттын Автору) же жакырдын өзүбү: котормолор эки жол менен бөлүнөт; бул жерде Яхве катары кабыл алынды."
+    }
+  ],
+  "translation": "Анткени Ал жакырдын оң жагында турат, анын жанын өкүм кылгандардан ⟨Аны⟩ куткарыш үчүн.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "c42f5d874f9618809df20fc2570b4cb2ddf2e164b7ffbf1999091ddcfb74a7bb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/109\/29-31.1791217212549.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Анткени"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "турат"
+    },
+    {
+      "surface": "לימין",
+      "gloss": "оң жагында"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "жакырдын"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "куткарыш үчүн"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "өкүм кылгандардан"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "жанын"
+    }
+  ],
+  "timestamp": "2026-10-05T16:20:12.550098959Z",
+  "model": "glm-5.3"
+}

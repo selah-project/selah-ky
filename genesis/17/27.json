@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 17:27",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "מאת",
+      "rationale": "«Жакындан» деген предлог ⟨את⟩ белгиси менен берилди, өзүнчө сөз катары түшүрүлдү"
+    },
+    {
+      "kind": "substitution",
+      "subject": "күмүш",
+      "rationale": "כסף — күмүш, бирок акча маанисинде да колдонулат"
+    }
+  ],
+  "translation": "Жана анын үйүндөгү бардык эркектер — үйдө төрөлгөндөр жана чет элдиктин уулунан күмүшкө сатып алынгандар — аны ⟨את⟩ менен чогуу сүнөткө йигишти.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "a6beab6822bee82278c6e44c2cb090a89e522747cbef60b090284250f8c6948d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/17\/25-27.1791200996671.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "жана бардык"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "эркектери"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "анын үйүнүн"
+    },
+    {
+      "surface": "יליד",
+      "gloss": "төрөлгөндөр"
+    },
+    {
+      "surface": "בית",
+      "gloss": "үйдө"
+    },
+    {
+      "surface": "ומקנת",
+      "gloss": "жана сатып алынгандар"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "күмүшкө"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩дан",
+      "marks": "чет элдиктин уулу"
+    },
+    {
+      "surface": "בן",
+      "gloss": "уулу"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "чет элдиктин"
+    },
+    {
+      "surface": "נמלו",
+      "gloss": "сүнөткө йигишти"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "аны ⟨את⟩"
+    }
+  ],
+  "timestamp": "2026-10-05T11:49:56.672881058Z",
+  "model": "glm-5.3"
+}

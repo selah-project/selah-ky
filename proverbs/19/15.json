@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 19:15",
+  "book": "proverbs",
+  "lang": "ky",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жан",
+      "rationale": "נפש — 'дем алуучу жандык, күч-кубат'; 'жан' кыска кармалып калды"
+    },
+    {
+      "kind": "crux",
+      "subject": "רמיה",
+      "rationale": "'жалкоолук\/салгылашсыздык' же 'чыккынчылык' — котормочулар эки жакка бөлүнгөн"
+    }
+  ],
+  "translation": "Жалкоолук терең уйкугу түшүрөт, жана жалкоо жандын ⟨ал⟩ ач болот.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "4db57d3e7984a0cd60fd6edf2d7f04c1d323a7bd066f653ba32aac9a5bab8464",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/19\/13-16.1791218179583.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עצלה",
+      "gloss": "жалкоолук"
+    },
+    {
+      "surface": "תפיל",
+      "gloss": "түшүрөт"
+    },
+    {
+      "surface": "תרדמה",
+      "gloss": "терең уйкугу"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "жана жан"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "жалкоо"
+    },
+    {
+      "surface": "תרעב",
+      "gloss": "ач болот"
+    }
+  ],
+  "timestamp": "2026-10-05T16:36:19.583998884Z",
+  "model": "glm-5.3"
+}

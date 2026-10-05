@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 10:3",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "על",
+      "rationale": "ב可与 сөзү кыргызча «келүүчү кыйроодо» түзүлүштө камтылды"
+    },
+    {
+      "kind": "you",
+      "subject": "зордук чыгаруучуларга",
+      "rationale": "Суроолор түз кайрылуу менен айтылат — 10:1 деги «ой» айтылган адамдарга"
+    },
+    {
+      "kind": "substitution",
+      "subject": "פקדה — байкоо",
+      "rationale": "פקד деген «келүү, эсеп алуу, байкоо жүргүзүү» — жаза да, байкоо да мааниси бар"
+    }
+  ],
+  "translation": "Жана байкоо күнүндө эмне кыласыңар, жана алыстан келүүчү кыйроодо? Кимге жардам үчүн качасыңар, жана даңкыңарды кайсы жерге калтырасыңар?",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "b7a0533bc715a8c1189f8babbc53ca1fb55913a3a12afc6efb9f0952c080c199",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/10\/1-4.1791209611853.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומה",
+      "gloss": "жана эмне"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "кыласыңар"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "күнүндө"
+    },
+    {
+      "surface": "пקדה",
+      "gloss": "байкоо"
+    },
+    {
+      "surface": "ולשואה",
+      "gloss": "жана кыйроодо"
+    },
+    {
+      "surface": "ממרחק",
+      "gloss": "алыстан"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "келүүчү"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "מי",
+      "gloss": "кимге"
+    },
+    {
+      "surface": "תנוסו",
+      "gloss": "качасыңар"
+    },
+    {
+      "surface": "לעזרה",
+      "gloss": "жардам үчүн"
+    },
+    {
+      "surface": "ואנה",
+      "gloss": "жана кайсы жерде"
+    },
+    {
+      "surface": "תעזבו",
+      "gloss": "калтырасыңар"
+    },
+    {
+      "surface": "כבודכם",
+      "gloss": "даңкыңарды"
+    }
+  ],
+  "timestamp": "2026-10-05T14:13:31.854308432Z",
+  "model": "glm-5.3"
+}

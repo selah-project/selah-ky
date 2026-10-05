@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-samuel 22:27",
+  "book": "2-samuel",
+  "lang": "ky",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "עקש",
+      "rationale": "'бурмаланган' деген сөз Танахта сейрек кездешет"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נבר\/תתבר · עקש\/תתפל",
+      "rationale": "Үнүмдүү кайталоо: таза-таза, бурмаланган-бурмаланган тамырлар жупташкан"
+    },
+    {
+      "kind": "crux",
+      "subject": "айлакерсиң",
+      "rationale": "תתפל 'бурулуш' (тайгак) деген мааниде: 'айлакер' же 'бурмалоочу' деген варианттар бар"
+    }
+  ],
+  "translation": "Таза менен таза болосуң, жана бурмалоочу менен айлакерсиң.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "8040045032bfc76d7a954cd620260dace12facd92735e82bebef3fda3a6a6bcb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-samuel\/22\/25-28.1791207885398.json",
+    "code": "641241cf-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "менен"
+    },
+    {
+      "surface": "נבר",
+      "gloss": "таза"
+    },
+    {
+      "surface": "תתבר",
+      "gloss": "таза болосуң"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "жана ... менен"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "бурмалоочу"
+    },
+    {
+      "surface": "תתפל",
+      "gloss": "айлакерсиң"
+    }
+  ],
+  "timestamp": "2026-10-05T13:44:45.398932048Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 21:7",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "эркек кулдар",
+      "rationale": "העבדим — «кулдар» эркек санында; кыз-кулдун чыгышы эркек кулдардыкына теңештирилет"
+    }
+  ],
+  "translation": "Жана эгер бир адам ⟨את⟩ кызын кыз-кул катары сатса, ал эркек кулдар чыккандай чыкпайт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "4fb8d9a4ae9dd3e86665aa1bf4f2a60d7ed35013124515229867744d8ecf9064",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/21\/5-8.1791202299281.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Жана эгер"
+    },
+    {
+      "surface": "ימכר",
+      "gloss": "сатса"
+    },
+    {
+      "surface": "איש",
+      "gloss": "бир адам"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "кызын"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "кызын"
+    },
+    {
+      "surface": "לאמה",
+      "gloss": "кыз-кул катары"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "чыкпайт"
+    },
+    {
+      "surface": "כצאת",
+      "gloss": "чыккандай"
+    },
+    {
+      "surface": "העבדים",
+      "gloss": "эркек кулдар"
+    }
+  ],
+  "timestamp": "2026-10-05T12:11:39.282864989Z",
+  "model": "glm-5.3"
+}

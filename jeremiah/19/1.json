@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 19:1",
+  "book": "jeremiah",
+  "lang": "ky",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ал⟩",
+      "rationale": "Вер büтүүдөгү 'ал' деген этиш еврейче текстте жок"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חרש \/ החרסות",
+      "rationale": "Балчык идиш (חרש) менен Харсут — чөгөт дарбазасы (החרסות, 19:2) бир тамырдан: пайгамбардык белги дарбазанын аты менен жаңырып турат"
+    }
+  ],
+  "translation": "Мындай дейт Яхве: Барып, идиш жасоочунун балчык идишин сатып ал да, элдин аксакалдарынан жана коэндердин аксакалдарынан ⟨ал⟩.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "d0bd1d2dd261149eddb6b17ccb915a36653cd9c456d447239f40227fc5e5cf90",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/jeremiah\/19\/1-4.1791211227883.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "мындай"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "дейт"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "барып"
+    },
+    {
+      "surface": "וקנית",
+      "gloss": "жана сатып ал"
+    },
+    {
+      "surface": "בקבק",
+      "gloss": "идиш"
+    },
+    {
+      "surface": "יוצר",
+      "gloss": "идиш жасоочунун"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "балчык"
+    },
+    {
+      "surface": "ומזקני",
+      "gloss": "жана аксакалдарынан"
+    },
+    {
+      "surface": "העם",
+      "gloss": "элдин"
+    },
+    {
+      "surface": "ומזקני",
+      "gloss": "жана аксакалдарынан"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "коэндердин"
+    }
+  ],
+  "timestamp": "2026-10-05T14:40:27.884359152Z",
+  "model": "glm-5.3"
+}

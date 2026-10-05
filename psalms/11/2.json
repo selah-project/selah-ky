@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 11:2",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ידרכון",
+      "rationale": "Жааны тебелеп чындоо (байыркы ыкма) — KJV 'bend' (ичкертүү), YLT 'tread' (тебелөө) деп берет; биз тебелөө сүрөтүн сактадык."
+    },
+    {
+      "kind": "crux",
+      "subject": "במו אפל",
+      "rationale": "'түнөктүн ичинен' — KJV 'privily' (жашырын), башкалары 'in darkness'; сөз айкашы экөөнө да дал келет."
+    },
+    {
+      "kind": "you",
+      "subject": "карап",
+      "rationale": "Окурманга багытталган 'карап' чакыруусу — 1-аяттагы суроого жооп катары."
+    }
+  ],
+  "translation": "Анткени карап: жамандар жааны тебелеп кармап, окторун жипке даярдап, түнөктүн ичинен түз жүрөктүүлөргө атуу үчүн.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "57b285da87ca0bbeb7ee2cf15296a6667e3801b2cb3fa244056fb47c966c6ac6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/11\/2-3.1791224404553.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "карап"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "жамандар"
+    },
+    {
+      "surface": "ידרכון",
+      "gloss": "тебелеп кармап"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "жааны"
+    },
+    {
+      "surface": "כוננו",
+      "gloss": "даярдап"
+    },
+    {
+      "surface": "חצם",
+      "gloss": "окторун"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстүнө"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "жипке"
+    },
+    {
+      "surface": "לירות",
+      "gloss": "атуу үчүн"
+    },
+    {
+      "surface": "במו",
+      "gloss": "ичинен"
+    },
+    {
+      "surface": "אפל",
+      "gloss": "түнөктүн"
+    },
+    {
+      "surface": "לישרי",
+      "gloss": "түз"
+    },
+    {
+      "surface": "לב",
+      "gloss": "жүрөктүүлөргө"
+    }
+  ],
+  "timestamp": "2026-10-05T18:20:04.554233758Z",
+  "model": "glm-5.3"
+}

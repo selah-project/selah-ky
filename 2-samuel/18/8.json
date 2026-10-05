@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 18:8",
+  "book": "2-samuel",
+  "lang": "ky",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "токой жеп койду",
+      "rationale": "וירב היער לאכל — «токой жеген» көчөлүү сөз айкашы же «токойдон көбүрөөк болду» деген окуу; ким көбү — токойдогу кыйроолор же качкындар."
+    },
+    {
+      "kind": "substitution",
+      "subject": "караганда",
+      "rationale": "מאשר — салыштыруу «...дан көбүрөөк» деген мааниде берилди."
+    }
+  ],
+  "translation": "Анткени согуш ал жерде бүт жердин үстүнө чачылады, жана токой кылыч жегенден көбүрөөк элди ошол күнү жеп койду.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "11c026d7721a5222dec057712e711d6e7a20940320ed280aef7cb3d6d49ebaf4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-samuel\/18\/5-8.1791207695370.json",
+    "code": "641241cf-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "болду"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ал жерде"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "согуш"
+    },
+    {
+      "surface": "נפצית",
+      "gloss": "чачылды"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстүнө"
+    },
+    {
+      "surface": "פני",
+      "gloss": "бети"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүт"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "жердин"
+    },
+    {
+      "surface": "וירב",
+      "gloss": "көбүрөөк болду"
+    },
+    {
+      "surface": "היער",
+      "gloss": "токой"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "жеп коюуга"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "элден"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "караганда"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "жеген"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "кылыч"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "күнү"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ошол"
+    }
+  ],
+  "timestamp": "2026-10-05T13:41:35.372261539Z",
+  "model": "glm-5.3"
+}

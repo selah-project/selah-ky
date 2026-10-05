@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 93:5",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 93,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "эй",
+      "rationale": "ивриттеги чакырык мааниси кыргызча атооч мүчөсү менен берилди"
+    },
+    {
+      "kind": "alternative",
+      "subject": "узун күндөргө чейин",
+      "rationale": "לארך ימים көбүнчө «түбөлүккө» деп алынат, бирок сөзмө-сөз «күндөрдүн узактыгына»"
+    }
+  ],
+  "translation": "Сениң күбөлүктөрүң өтө бекем турган; үйүңдө ыйыктык жарашат, эй Яхве, узун күндөргө чейин.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "6f90c887e987920b7694f66fc76abc8b30a4694805b9033834b216e2b1e222d8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/93\/5-5.1791216822640.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עדתיך",
+      "gloss": "күбөлүктөрүң"
+    },
+    {
+      "surface": "נאמנו",
+      "gloss": "бекем турган"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "өтө"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "үйүңдө"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "жарашат"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ыйыктык"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "לארך",
+      "gloss": "узун"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "күндөргө"
+    }
+  ],
+  "timestamp": "2026-10-05T16:13:42.640681747Z",
+  "model": "glm-5.3"
+}

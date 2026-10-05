@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 29:10",
+  "book": "1-chronicles",
+  "lang": "ky",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אבינו",
+      "rationale": "«Йисраэлдин Элохими, биздин ата-бабабыз» же «Йисраэл-ата-бабанын Элохими» — ата Йааковбу же элби деген талаш"
+    },
+    {
+      "kind": "addition",
+      "subject": "ата-бабабыз",
+      "rationale": "אבינו жалаң «атабыз» деп алынды; «ата-баба» кең мааниде кошулду"
+    }
+  ],
+  "translation": "Жана Давид бүт чогулуштун көз алдында ⟨את⟩ Яхвени алкады, жана Давид айтты: Алкыштуу Сен, Яхве, биздин ата-бабабыз Йисраэлдин Элохими, байыркы замандан түбөлүккө чейин.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "88ea3f74b3c79d46ed22924f10adbbd73a9db1041ef805e5554c1111b19025d0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-chronicles\/29\/9-12.1791222482569.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "алкады"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яхвени"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвени"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "көз алдында"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүт"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "чогулуштун"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "жана ... айтты"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Алкыштуу"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Сен"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Элохими"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэлдин"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "биздин ата-бабабыз"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "байыркы замандан"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "чейин"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "түбөлүккө"
+    }
+  ],
+  "timestamp": "2026-10-05T17:48:02.571141491Z",
+  "model": "glm-5.3"
+}

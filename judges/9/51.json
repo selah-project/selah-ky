@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "judges 9:51",
+  "book": "judges",
+  "lang": "ky",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "башчылары",
+      "rationale": "בעלי — көбүнчө «ээлери\/баалары»; «шаардын ээлери» кыргызча так эмес болгондуктан «башчылары» алынды."
+    },
+    {
+      "kind": "addition",
+      "subject": "эшикти",
+      "rationale": "ויסגרו «жаап коюшту» — эмне жаалганы текстте айтылбайт, «эшикти» түшүнүү үчүн кошулду."
+    }
+  ],
+  "translation": "Шаардын ичинде күчтүү мунар ⟨болчу⟩, жана бүт эркектер менен аялдар жана шаардын башчылары ал жакка качышты, алардын артынан ⟨эшикти⟩ жаап жашырынышты жана мунаранын чатырына чыгышты.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "b73cf42c2596cf141f2f4de87a596567ec68aaa127e4ffbfe2adb3efbd320cb3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/judges\/9\/49-52.1791206217016.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומגדל",
+      "gloss": "мунар"
+    },
+    {
+      "surface": "עז",
+      "gloss": "күчтүү"
+    },
+    {
+      "surface": "היה",
+      "gloss": "болчу"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ичинде"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "шаардын"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "качышты"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ал жакка"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүт"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "эркектер"
+    },
+    {
+      "surface": "והנשים",
+      "gloss": "менен аялдар"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "жана бүт"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "башчылары"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "шаардын"
+    },
+    {
+      "surface": "ויסגרו",
+      "gloss": "жаап жашырынышты"
+    },
+    {
+      "surface": "בעדם",
+      "gloss": "алардын артынан"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "чыгышты"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстүнө"
+    },
+    {
+      "surface": "גג",
+      "gloss": "чатырына"
+    },
+    {
+      "surface": "המגדל",
+      "gloss": "мунаранын"
+    }
+  ],
+  "timestamp": "2026-10-05T13:16:57.017301203Z",
+  "model": "glm-5.3"
+}

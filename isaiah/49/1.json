@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 49:1",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "Угула, аралдар, мага",
+      "rationale": "Аят аралдар менен алыскы элдерди чакырып, окурманды тартат."
+    },
+    {
+      "kind": "you",
+      "subject": "аралдарга жана элдерге",
+      "rationale": "Түз кайрылуу — алыскы элдер адресат."
+    },
+    {
+      "kind": "substitution",
+      "subject": "боорунан",
+      "rationale": "מבטן — түрк тилдериндегидей 'боор' аркылуу 'катар\/жатыр' маанисин берет; кыргызча бул элдик идиома."
+    }
+  ],
+  "translation": "Угула, аралдар, мага, жана кулак түргүлө, элдер, алыстан: Яхве мени боорунан чакырды, энемдин ичинен ысымымды эске салды.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "dd65de30e2a418008d66ca94f6afe41b7938581dffe52fe482e459e90150ea7e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/49\/1-2.1791224146447.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Угула"
+    },
+    {
+      "surface": "איים",
+      "gloss": "аралдар"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "мага"
+    },
+    {
+      "surface": "והקשיבו",
+      "gloss": "жана кулак түргүлө"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "элдер"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "алыстан"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "боорунан"
+    },
+    {
+      "surface": "קראני",
+      "gloss": "мени чакырды"
+    },
+    {
+      "surface": "ממעי",
+      "gloss": "ичинен"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "энемдин"
+    },
+    {
+      "surface": "הזכיר",
+      "gloss": "эске салды"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "ысымымды"
+    }
+  ],
+  "timestamp": "2026-10-05T18:15:46.448412246Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "ezekiel 40:31",
+  "book": "ezekiel",
+  "lang": "ky",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "палма сүрөттөрү",
+      "rationale": "תמרים — архитектуралык палма формасындагы мамы кооздуктар, реалдуу палма эмес"
+    },
+    {
+      "kind": "elision",
+      "subject": "מעלו",
+      "rationale": "Акыркы «көтөрүлүү» сөзү тепкичтер менен ачык болгондуктан биргелешип берилди"
+    },
+    {
+      "kind": "measurement",
+      "subject": "сегиз тепкич",
+      "rationale": "Көтөрүлүүчү тепкичтердин саны эсептелип жатат"
+    }
+  ],
+  "translation": "Жана анын колоннадасы тышкы короого карай, жана анын мамычаларында палма сүрөттөрү, жана анын көтөрүлүшүндө сегиз тепкич.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "e1aa8b808f13124a87bd69404689a6c18de7727cee593b0cd31fccbcfe66484c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ezekiel\/40\/29-32.1791213490341.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואלמו",
+      "gloss": "жана анын колоннадасы"
+    },
+    {
+      "surface": "אל",
+      "gloss": "карай"
+    },
+    {
+      "surface": "חצר",
+      "gloss": "короо"
+    },
+    {
+      "surface": "החצונה",
+      "gloss": "тышкы"
+    },
+    {
+      "surface": "ותמרים",
+      "gloss": "жана палма сүрөттөрү"
+    },
+    {
+      "surface": "אל",
+      "gloss": "үстүндө"
+    },
+    {
+      "surface": "אילו",
+      "gloss": "анын мамычалары"
+    },
+    {
+      "surface": "ומעלות",
+      "gloss": "жана көтөрүлүшүндө"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "сегиз"
+    },
+    {
+      "surface": "מעלו",
+      "gloss": "тепкич"
+    }
+  ],
+  "timestamp": "2026-10-05T15:18:10.342651159Z",
+  "model": "glm-5.3"
+}

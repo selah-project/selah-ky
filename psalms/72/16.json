@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 72:16",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 72,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "פסת",
+      "rationale": "'мол' (кенендик) — бул форма Танахта ушул жерде гана"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בר \/ בארץ",
+      "rationale": "'дан' жана 'жер' бир үндөш тамырдобу: בר жана בארץ — угулушу кайталанат, кыргызча жоголот"
+    },
+    {
+      "kind": "crux",
+      "subject": "ירעש",
+      "rationale": "'титирейт' (жер титирөө тамыры) же 'шамалда ызылдайт' — Ливандын дарагы\/карды мөмөнү шилектейт"
+    }
+  ],
+  "translation": "Жерде дан мол болсун, тоолордун башкы чокуларында; анын мөмөсү Ливан сыяктуу желбиресин, жана шаардан чыккандар жердин чөбүндөй гүлдөшсүн.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "af32cd9fb2b8939ad65613025edd74cfd05d123041b1a254e9037257e399f37e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/72\/13-16.1791216495206.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "болсун"
+    },
+    {
+      "surface": "פסת",
+      "gloss": "мол"
+    },
+    {
+      "surface": "בר",
+      "gloss": "дан"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "жерде"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "башкы чокуларында"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "тоолордун"
+    },
+    {
+      "surface": "ירעש",
+      "gloss": "желбиресин"
+    },
+    {
+      "surface": "כלבנון",
+      "gloss": "Ливан сыяктуу"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "анын мөмөсү"
+    },
+    {
+      "surface": "ויציצו",
+      "gloss": "жана гүлдөшсүн"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "шаардан чыккандар"
+    },
+    {
+      "surface": "כעשב",
+      "gloss": "чөбүндөй"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "жердин"
+    }
+  ],
+  "timestamp": "2026-10-05T16:08:15.220222454Z",
+  "model": "glm-5.3"
+}

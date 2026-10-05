@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 35:3",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жан",
+      "rationale": "נפש — «дем\/жан-жырокол» деген сөз; кыргызча «жан» эң жакын, бирок еврейчеси тамак\/дем маанисин да камтыйт."
+    },
+    {
+      "kind": "addition",
+      "subject": "«Мен — сенин куткаруучуң» дегизилүү",
+      "rationale": "Еврейче אני алдыда турат (басым үчүн); кыргызча тартипке ылайык көчүрүлдү, «Мен» басымы сакталды."
+    }
+  ],
+  "translation": "Жана найзаны сууруп чыгып, мени кубалагандарымдын жолун жаб, жаныма айт: «Мен — сенин куткаруучуң.»",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "9e54e0c61676270b7f5d6b5458d264a714ab9888762ce540cc682511ab34a194",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/35\/1-4.1791215878475.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והרק",
+      "gloss": "сууруп чыгып"
+    },
+    {
+      "surface": "חניט",
+      "gloss": "найза"
+    },
+    {
+      "surface": "וסגор",
+      "gloss": "жолун жаб"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "каршы"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "мени кубалагандарымдын"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "айт"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "жаныма"
+    },
+    {
+      "surface": "ישעתך",
+      "gloss": "сенин куткаруучуң"
+    },
+    {
+      "surface": "אני",
+      "gloss": "мен"
+    }
+  ],
+  "timestamp": "2026-10-05T15:57:58.476598314Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 2:11",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "бар",
+      "rationale": "Hebrew is verbless 'where the gold'; Kyrgyz needs a copula"
+    },
+    {
+      "kind": "measurement",
+      "subject": "биринчисинин аты Пишон",
+      "rationale": "naming\/counting of the four rivers begins here"
+    }
+  ],
+  "translation": "Биринчисинин аты Пишон — ал ⟨את⟩ бүт Хавила жерин курчап агат, анда алтын бар.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "b4cd62958375c9359b944679d157bf42a17e537c70d4a3e3bc7e8a8a53562873",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/2\/9-12.1791200709865.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "аты"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "биринчисинин"
+    },
+    {
+      "surface": "פישון",
+      "gloss": "Пишон"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ал"
+    },
+    {
+      "surface": "הסבב",
+      "gloss": "курчап агат"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "бүт Хавила жерин"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүт"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "жерин"
+    },
+    {
+      "surface": "החוילה",
+      "gloss": "Хавила"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "анда"
+    },
+    {
+      "surface": "שם",
+      "gloss": "анда"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "алтын"
+    }
+  ],
+  "timestamp": "2026-10-05T11:45:09.866690713Z",
+  "model": "glm-5.3"
+}

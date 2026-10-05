@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 8:12",
+  "book": "1-chronicles",
+  "lang": "ky",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "генеалогия",
+      "rationale": "Уруу жана шаарлардын аттарынын тизмеси."
+    },
+    {
+      "kind": "substitution",
+      "subject": "кыз-шаарлар",
+      "rationale": "בנות (кыздар) шаардын көз каранды айылдарын билдирет — кыргызча «кыз-шаарлар» деген элдик туюм берилди."
+    },
+    {
+      "kind": "crux",
+      "subject": "הוא",
+      "rationale": "«ал» — Шемедби же Эверби, булактардын баарында эки окуу бар."
+    }
+  ],
+  "translation": "Жана Элпалдын уулдары: Эвер, Мишам жана Шемед — ал ⟨את⟩ Оону жана ⟨את⟩ Лодду жана анын кыз-шаарларын курду.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "1f9824ca169078305df306c3abe3fe36f41e6227c7b51f04824fc1b3e64167e8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-chronicles\/8\/9-12.1791221877393.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "уулдары"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "Элпалдын"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Эвер"
+    },
+    {
+      "surface": "ומשעם",
+      "gloss": "Мишам"
+    },
+    {
+      "surface": "ושמד",
+      "gloss": "Шемед"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ал"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "курду"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Оону"
+    },
+    {
+      "surface": "אונו",
+      "gloss": "Оо"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Лодду"
+    },
+    {
+      "surface": "לד",
+      "gloss": "Лод"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "анын кыз-шаарларын"
+    }
+  ],
+  "timestamp": "2026-10-05T17:37:57.394108807Z",
+  "model": "glm-5.3"
+}

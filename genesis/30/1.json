@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 30:1",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כי לא ילדה",
+      "rationale": "'төрөбөгөнүн көрдү' — 'ал Яаковко бала төрөбөйт' деген кырдаалдын кыскача баяны"
+    },
+    {
+      "kind": "you",
+      "subject": "Яаковко",
+      "rationale": "Рахел Яаковко түз кайрылат: 'Мага уулдар бер, антпесе мен өлөмүн'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "көрө албай",
+      "rationale": "ותקנא — 'кызгандык' (токсикелүүлүк); кыргызча 'кызгануу' сөзү эки багыттуу"
+    }
+  ],
+  "translation": "Рахел төрөбөгөнүн көргөндө Яаковко, Рахел эжесини көрө албай кызгандыктап, Яаковко айтты: Мага уулдар бер, антпесе мен өлөмүн.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "32b0a027d17b102c62d2f62e9dad1eee5c5c1caac83548fa17699b668aff9240",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/30\/1-4.1791201310474.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "көргөндө"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Рахел"
+    },
+    {
+      "surface": "כי",
+      "gloss": "-гөнүн"
+    },
+    {
+      "surface": "לא",
+      "gloss": "төрөбөгөн"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "төрөбөгөн"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Яаковко"
+    },
+    {
+      "surface": "ותקנא",
+      "gloss": "кызгандыктап"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Рахел"
+    },
+    {
+      "surface": "באחתה",
+      "gloss": "эжесини"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ко"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаковко"
+    },
+    {
+      "surface": "הבה",
+      "gloss": "бер"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мага"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "уулдар"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "антпесе"
+    },
+    {
+      "surface": "אין",
+      "gloss": "жок болсо"
+    },
+    {
+      "surface": "מתה",
+      "gloss": "өлөмүн"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "мен"
+    }
+  ],
+  "timestamp": "2026-10-05T11:55:10.475043542Z",
+  "model": "glm-5.3"
+}

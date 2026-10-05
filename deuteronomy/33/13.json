@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 33:13",
+  "book": "deuteronomy",
+  "lang": "ky",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "тарабынан",
+      "rationale": "Еврейче эмес конструкцияда (מברכת יהוה) байланыш кыргызча 'Яхве тарабынан' деген сөз менен берилди"
+    },
+    {
+      "kind": "substitution",
+      "subject": "жагымдуу нерселери",
+      "rationale": "ממגד — 'айырмаланган, баалуу нерсе'; кыргызча бир сөзгө так тууралбайт"
+    }
+  ],
+  "translation": "Жана Йосеп жөнүндө айтты: Яхве тарабынан бактылуу — анын жери, асман менен анын жагымдуу нерселери, шүүдүрүм, жана астында жаткан тереңдик менен.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "8dcf3828bacdceece413e862ac87a1fb0fd0c346a6eb533ae5240373f693a37a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/33\/13-16.1791205416077.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וליוסף",
+      "gloss": "Жана Йосеп жөнүндө"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "מברכת",
+      "gloss": "бактылуу"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "анын жери"
+    },
+    {
+      "surface": "ממגד",
+      "gloss": "жагымдуу нерселери"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "асман"
+    },
+    {
+      "surface": "מטל",
+      "gloss": "шүүдүрүм"
+    },
+    {
+      "surface": "ומתהום",
+      "gloss": "жана тереңдик"
+    },
+    {
+      "surface": "רבצת",
+      "gloss": "жаткан"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "астында"
+    }
+  ],
+  "timestamp": "2026-10-05T13:03:36.078162413Z",
+  "model": "glm-5.3"
+}

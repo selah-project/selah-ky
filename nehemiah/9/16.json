@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "nehemiah 9:16",
+  "book": "nehemiah",
+  "lang": "ky",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ויקשו את ערפם",
+      "rationale": "«Мойундуну катуу кылуу» — баш ийбөө идиомасы; кыргызча дагы сөзмө-сөз берилди."
+    },
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "rationale": "Кыргызча «укпады» этиши байланышты «укпады ... буйруктарыңды» тартибинде жутуп жиберди."
+    }
+  ],
+  "translation": "Бирок алар жана аталарыбыр текеберленди, ⟨את⟩ мойундарын катуу кылды жана буйруктарыңды укпады.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "ad5aa74b501354e5c5559b9518269c92666a5586cf26d15d6de05129678ce5a4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/nehemiah\/9\/13-16.1791221492628.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "бирок алар"
+    },
+    {
+      "surface": "ואבתינו",
+      "gloss": "жана аталарыбыз"
+    },
+    {
+      "surface": "הזידו",
+      "gloss": "текеберленди"
+    },
+    {
+      "surface": "ויקשו",
+      "gloss": "катуу кылды"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "мойундарын"
+    },
+    {
+      "surface": "ערפם",
+      "gloss": "мойундарын"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "жана ... байланыштырбады"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "укпады"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...га"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "буйруктарыңды"
+    }
+  ],
+  "timestamp": "2026-10-05T17:31:32.629958871Z",
+  "model": "glm-5.3"
+}

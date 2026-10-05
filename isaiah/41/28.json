@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "isaiah 41:28",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "алар",
+      "rationale": "Субъект кыргызча талап кылат, еврейчеде жок"
+    },
+    {
+      "kind": "crux",
+      "subject": "жок танбоосу",
+      "rationale": "Еврей текст букүнүн аягында танбоо жок — «алар сөз кайтарышат»; контекст (41:29) жооп жок экенин көрсөтөт"
+    }
+  ],
+  "translation": "Мен карадым — адам жок; булардын ичинен да кеңешчи жок; Мен сурадым — ⟨алар⟩ сөз кайтарышпады.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "a09f07d396d533f7285340e02f5f4ad4ca0be6e152799e9cc41cde617b223b18",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/41\/25-28.1791210206298.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וארא",
+      "gloss": "Мен карадым"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "жок"
+    },
+    {
+      "surface": "איש",
+      "gloss": "адам"
+    },
+    {
+      "surface": "ומאלה",
+      "gloss": "булардын ичинен"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "жок"
+    },
+    {
+      "surface": "יועץ",
+      "gloss": "кеңешчи"
+    },
+    {
+      "surface": "ואשאלם",
+      "gloss": "Мен сурадым"
+    },
+    {
+      "surface": "וישיבו",
+      "gloss": "⟨алар⟩ кайтарышпады"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "сөз"
+    }
+  ],
+  "timestamp": "2026-10-05T14:23:26.299959418Z",
+  "model": "glm-5.3"
+}

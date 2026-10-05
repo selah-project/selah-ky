@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "job 33:30",
+  "book": "job",
+  "lang": "ky",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жан",
+      "rationale": "נפש — 'дем\/жан-күч', башка сөз эмес."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לאור באור",
+      "rationale": "Эврейче бир тамырдын кайталанышы (нур \/ жарык), кыргызча эки сөз менен берилди."
+    }
+  ],
+  "translation": "Анын жанын чуңкурдан кайтаруу үчүн, тирүүлөрдүн жарыгына нурланышы үчүн.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "929a6141e7df3c0a2f0e77dc24464ab23ca66d1253e7d43bc40165590575b563",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/job\/33\/29-32.1791219302671.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "להשיב",
+      "gloss": "кайтаруу үчүн"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "жанын"
+    },
+    {
+      "surface": "מני",
+      "gloss": "дан"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "чуңкурдан"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "нурланышы үчүн"
+    },
+    {
+      "surface": "באור",
+      "gloss": "жарыгына"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "тирүүлөрдүн"
+    }
+  ],
+  "timestamp": "2026-10-05T16:55:02.672121244Z",
+  "model": "glm-5.3"
+}

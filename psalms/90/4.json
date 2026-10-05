@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 90:4",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 90,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "миң жыл",
+      "rationale": "чендештирүү: адамдык миң жыл жана кудайлык убакыт"
+    },
+    {
+      "kind": "elision",
+      "subject": "כי יעבר",
+      "rationale": "экинчи כי «өтүп бара жатканда» маанисинде, кыргызча «өткөн» сыяктуу сөзгө сиңди"
+    }
+  ],
+  "translation": "Анткени Сенин көздөрүңдө миң жыл — кечээ өткөн күндөй, түнкү күзөттөй.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "793b4dff5a195143da8df587045aa4146363998a898bd36a7177264be70aa5d5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/90\/1-4.1791216874008.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Анткени"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "миң"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "жыл"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "көздөрүңдө"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "күндөй"
+    },
+    {
+      "surface": "אתמול",
+      "gloss": "кечээ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "өткөн"
+    },
+    {
+      "surface": "ואשמורה",
+      "gloss": "түнкү күзөттөй"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "түнкү"
+    }
+  ],
+  "timestamp": "2026-10-05T16:14:34.009810606Z",
+  "model": "glm-5.3"
+}

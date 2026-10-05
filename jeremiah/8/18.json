@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 8:18",
+  "book": "jeremiah",
+  "lang": "ky",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "מבליגיתי",
+      "rationale": "Бул форма бүт Танахта бир гана жерде кездешет; мааниси так эмес — 'жубату' же 'кубаруу'."
+    },
+    {
+      "kind": "crux",
+      "subject": "מבליגיתי עלי יגון",
+      "rationale": "'Кайгыга каршы жубат таппайм' (JPS) же 'менин жубатым кайгы' (YLТ сыяктуу тескери окуу)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "דוי",
+      "gloss-note": "",
+      "rationale": "Давуттун сөзү — 'ооруп сыздаган'; 'алсызданып калдым' дегенче дене-оору сөзү сакталды."
+    }
+  ],
+  "translation": "Кайгыга каршы жубат таппайм; жүрөгүм ичимде ооруп сыздайт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "32ddecbe859807b6cc7aecc64e5123110dbb3d2c69ae6fb69ebd204f6850b85e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/jeremiah\/8\/17-20.1791210963917.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מבליגיתי",
+      "gloss": "жубат таппайм"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "карга"
+    },
+    {
+      "surface": "יגון",
+      "gloss": "кайгы"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ичимде"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "жүрөгүм"
+    },
+    {
+      "surface": "דוי",
+      "gloss": "ооруп сыздайт"
+    }
+  ],
+  "timestamp": "2026-10-05T14:36:03.918072820Z",
+  "model": "glm-5.3"
+}

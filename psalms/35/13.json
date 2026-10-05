@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 35:13",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жан",
+      "rationale": "נפש — дем алуучу жандык, тамак\/жан күчү; 'жан' жакын, бирок тамыр мааниси кеңири"
+    },
+    {
+      "kind": "crux",
+      "subject": "боорума кайтып келет",
+      "rationale": "על חיקי תשוב: 'жоопсуз кайтып келет' (BSB) менен 'боорума кайтып келет' (KJV\/JPS) деген эки окуу бар"
+    },
+    {
+      "kind": "alternative",
+      "subject": "дуба",
+      "rationale": "ותפלתי — 'дуба' же 'тилек'; көп окууда бул жерде жеке дуба түшүнүктүү"
+    }
+  ],
+  "translation": "Мен болсо, алар ооруганда кебез кийим кийиндим, орозо кармап жанымды жүздүм, жана дубаным боорума кайтып келет.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "1842c0a78bc403ba192c1e93d5d063e626a9f2b51a241a50d61b744a063ac05e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/35\/13-16.1791215855084.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "мен болсо"
+    },
+    {
+      "surface": "בחלותם",
+      "gloss": "алар ооруганда"
+    },
+    {
+      "surface": "לבושי",
+      "gloss": "кийимим"
+    },
+    {
+      "surface": "שק",
+      "gloss": "кебез"
+    },
+    {
+      "surface": "עניתי",
+      "gloss": "жүздүм"
+    },
+    {
+      "surface": "בצום",
+      "gloss": "орозо кармап"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "жанымды"
+    },
+    {
+      "surface": "ותפלתי",
+      "gloss": "жана дубанам"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстүнө"
+    },
+    {
+      "surface": "חיקי",
+      "gloss": "боорума"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "кайтып келет"
+    }
+  ],
+  "timestamp": "2026-10-05T15:57:35.084963728Z",
+  "model": "glm-5.3"
+}

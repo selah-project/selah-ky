@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "amos 6:11",
+  "book": "amos",
+  "lang": "ky",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨Он⟩",
+      "rationale": "Иврит והכה не имеет подлежащего; для ясности кыргызского добавлено ⟨Он⟩ — субъект Яхве."
+    },
+    {
+      "kind": "hapax",
+      "subject": "רסיסים",
+      "rationale": "רסיס встречается только здесь и в 3Цар 14:3 — «капающий на куски», ruin; также «капля росы» — образ полного распада."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רסיסים \/ בקעים",
+      "rationale": "Парная игра: большой дом разбивается на куски, малый — раскалывается на трещины; градация размера обломков."
+    }
+  ],
+  "translation": "Ибо вот, Яхве повелевает, и ⟨Он⟩ поразит большой дом на куски, а малый дом — на щели-трещины.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "ccea41ede268da4a00b3b277f62cad01bf84f4744fb398520c87b29d3867a69d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/amos\/6\/10-11.1791224301203.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ибо"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "вот"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "повелевает"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "и поразит"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "дом"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "большой"
+    },
+    {
+      "surface": "רסיסים",
+      "gloss": "на куски"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "а дом"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "малый"
+    },
+    {
+      "surface": "בקעים",
+      "gloss": "на щели-трещины"
+    }
+  ],
+  "timestamp": "2026-10-05T18:18:21.204092648Z",
+  "model": "glm-5.3"
+}

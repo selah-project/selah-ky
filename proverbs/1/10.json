@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 1:10",
+  "book": "proverbs",
+  "lang": "ky",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "уулумга",
+      "rationale": "ата-эненин насыяты уулга багытталган түз кайрылуу"
+    },
+    {
+      "kind": "invitation",
+      "subject": "уулум",
+      "rationale": "«уулум» деген чакыруу менен башталган үгүт-насыят"
+    },
+    {
+      "kind": "addition",
+      "subject": "аларга",
+      "rationale": "еврейче тексте жок, бирок тыюу кимге багытталганын кыргызча ачып берет"
+    }
+  ],
+  "translation": "Уулум, эгер күнөөкөрлөр сени азгырып калса, ⟨аларга⟩ макул болбо.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "9af6714ea55aa2485d349f22dda7c26a72b486da40a0a9b437c2a392860c255b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/1\/9-12.1791217715756.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "уулум"
+    },
+    {
+      "surface": "אם",
+      "gloss": "эгер"
+    },
+    {
+      "surface": "יפתוך",
+      "gloss": "азгырып калса"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "күнөөкөрлөр"
+    },
+    {
+      "surface": "אל",
+      "gloss": "жок"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "макул болбо"
+    }
+  ],
+  "timestamp": "2026-10-05T16:28:35.758005252Z",
+  "model": "glm-5.3"
+}

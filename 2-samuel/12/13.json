@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 12:13",
+  "book": "2-samuel",
+  "lang": "ky",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "каршы",
+      "rationale": "еврейче חטא לַיהוה тырышылган «Яхвеге күнөө кылдым», «каршы» кыргызча талап кылат"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חטאתי \/ חטאתך",
+      "rationale": "«күнөө кылдым» — «күнөөңдү» окшош айтылышы, Давид менен Натандын сөздөрү жооп катары бири-бирине жаңырып турат"
+    }
+  ],
+  "translation": "Давид Натангa айтты: «Мен Яхвеге каршы күнөө кылдым». Натан Давидге айтты: «Яхве дагы сенин күнөөңдү өткөрүп жиберди — сен өлбөйсүң».",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "79b526961672fd5af3156f7567af2b5c048d331a7929f4c1be6e3c8310e9c3bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-samuel\/12\/13-16.1791207577532.json",
+    "code": "641241cf-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…га"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Натан"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "күнөө кылдым"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхвеге каршы"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Натан"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ге"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "גם",
+      "gloss": "дагы"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "העביר",
+      "gloss": "өткөрүп жиберди"
+    },
+    {
+      "surface": "חטאתך",
+      "gloss": "сенин күнөөңдү"
+    },
+    {
+      "surface": "לא",
+      "gloss": "…бей"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "өлөсүң"
+    }
+  ],
+  "timestamp": "2026-10-05T13:39:37.533395189Z",
+  "model": "glm-5.3"
+}

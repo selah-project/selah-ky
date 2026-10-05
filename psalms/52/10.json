@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 52:10",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 52,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "боломун",
+      "rationale": "еврей текстте these жок — «зайтун дарагындай» эле, этиш-байламчаны кыргызча талап кылгандыктан кошулду"
+    },
+    {
+      "kind": "substitution",
+      "subject": "хесед",
+      "rationale": "חסד «ырайым» гана эмес — ырааттуу сураксыз мамиле; транслитерация сакталды"
+    }
+  ],
+  "translation": "Мен болсо Элохимдин үйүндө жашыл зайтун дарагындай ⟨боломун⟩: Элохимдин хеседине таяндым — түбөлүккө жана дайыма.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "c09ec736921c238f40da3b1cd0c46de03be1f944cbc0f1d5433f946cefca0fae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/52\/9-11.1791216181538.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Мен болсо"
+    },
+    {
+      "surface": "כזית",
+      "gloss": "зайтун дарагындай"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "жашыл"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "үйүндө"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохимдин"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "таяндым"
+    },
+    {
+      "surface": "בחסד",
+      "gloss": "хеседине"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохимдин"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "түбөлүккө"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "жана дайыма"
+    }
+  ],
+  "timestamp": "2026-10-05T16:03:01.539337447Z",
+  "model": "glm-5.3"
+}

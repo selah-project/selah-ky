@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "numbers 31:37",
+  "book": "numbers",
+  "lang": "ky",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "<эле>",
+      "rationale": "Еврейче жок, кыргызча сан атоочту тактоо үчүн кошулду"
+    },
+    {
+      "kind": "measurement",
+      "subject": "675",
+      "rationale": "Салык — так сан: алты жүз жетимиш беш мал"
+    }
+  ],
+  "translation": "Жана Яхвеге тийишүүчү салык малдан — алты жүз жетимиш<эле> болду.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "f88d5b098d6629645baca8c5b25054982acebc5f011e91058cb18f2a055cea86",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/numbers\/31\/37-40.1791204441757.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "болду"
+    },
+    {
+      "surface": "המכס",
+      "gloss": "салык"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхвеге"
+    },
+    {
+      "surface": "מן",
+      "gloss": "малдан"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "мал"
+    },
+    {
+      "surface": "שש",
+      "gloss": "алты"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "жүз"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "жетимиш<беш>"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "жетимиш"
+    }
+  ],
+  "timestamp": "2026-10-05T12:47:21.757918588Z",
+  "model": "glm-5.3"
+}

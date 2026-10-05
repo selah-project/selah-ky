@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 18:4",
+  "book": "1-samuel",
+  "lang": "ky",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "мады",
+      "rationale": "מדים — падышалык кийим, шейлер; «кийимдер» катары берилди"
+    }
+  ],
+  "translation": "Йехонатан үстүндөгү жамынган чапанын сыйпырып ⟨את⟩ Давидке берди, ошондой эле кийимдерин, кылычына чейин, жаасына чейин жана кургана чейин.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "03d807db3496fd6db543d4926f34504fb7d78b89c59513fae8d8bca2faeebdf8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-samuel\/18\/1-4.1791207056347.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתפשט",
+      "gloss": "сыйпырып"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Йехонатан"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "жамынган чапан"
+    },
+    {
+      "surface": "המעיל",
+      "gloss": "жамынган чапанын"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…н"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "үстүндөгү"
+    },
+    {
+      "surface": "ויתנהו",
+      "gloss": "берди"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давидке"
+    },
+    {
+      "surface": "ומדיו",
+      "gloss": "кийимдерин"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "чейин"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "кылычына"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "чейин"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "жаасына"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "чейин"
+    },
+    {
+      "surface": "חגרו",
+      "gloss": "кургана"
+    }
+  ],
+  "timestamp": "2026-10-05T13:30:56.348500518Z",
+  "model": "glm-5.3"
+}

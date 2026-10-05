@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 12:7",
+  "book": "1-samuel",
+  "lang": "ky",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "цедек",
+      "rationale": "צדקות — «адилеттүүлүктөр» же «адилет иштер»; кыргызча адилеттик салтанаты кыйла башкача угулат."
+    },
+    {
+      "kind": "substitution",
+      "subject": "соттошомун",
+      "rationale": "אשפטה — кайрылуу да, сот да болушу мүмкүн; «соттошомун» — тыянак."
+    }
+  ],
+  "translation": "Эми болсо, туркула, мен Яхвенин алдында силер менен соттошомун ⟨את⟩ Яхвенин бардык цедектери боюнча, аларды ал силердин жана силердин ата-бабаларыңардын менен жасаган.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "ae5a6273aa88dc06720e31d00de57f6e449c243a088c53bd17b45b22adb3b622",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-samuel\/12\/5-8.1791206804205.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Эми болсо"
+    },
+    {
+      "surface": "התיצבו",
+      "gloss": "туркула"
+    },
+    {
+      "surface": "ואשפטה",
+      "gloss": "мен соттошомун"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ силер менен"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "алдында"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "бардык цедектер"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бардык"
+    },
+    {
+      "surface": "צדקות",
+      "gloss": "цедектери"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "аларды"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "жасаган"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ силердин"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "жана ⟨את⟩"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "ата-бабаларыңардын"
+    }
+  ],
+  "timestamp": "2026-10-05T13:26:44.206993892Z",
+  "model": "glm-5.3"
+}

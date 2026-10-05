@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 16:6",
+  "book": "leviticus",
+  "lang": "ky",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "кечирим жасасын",
+      "rationale": "כפר — 'каптоо' деген сөз; салтта 'кафар\/капоора' мааниси кыргызчада 'кечирим жасоо' менен берилди"
+    }
+  ],
+  "translation": "Жана Ахарон ⟨את⟩ өзүнө тиешелүү күнөө курмандыгы болгон букачааны алып келсин жана өзү үчүн жана өз үй-бүлөсү үчүн кечирим жасасын.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "944eda1228738cb0d634cd8c362a87d7b9f0c1241d839c15bf5b819456315147",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/16\/5-8.1791203205015.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "алып келсин"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Ахарон"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "букачааны"
+    },
+    {
+      "surface": "פר",
+      "gloss": "букачаа"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "күнөө курмандыгы"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…болгон"
+    },
+    {
+      "surface": "לו",
+      "gloss": "өзүнө тиешелүү"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "жана кечирим жасасын"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "өзү үчүн"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "жана … үчүн"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "өз үй-бүлөсү"
+    }
+  ],
+  "timestamp": "2026-10-05T12:26:45.015947652Z",
+  "model": "glm-5.3"
+}

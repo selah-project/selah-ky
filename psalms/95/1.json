@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 95:1",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 95,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "Келгиле",
+      "rationale": "Psalm opens with cohortative summons to communal praise"
+    },
+    {
+      "kind": "you",
+      "subject": "to the worshiping community",
+      "rationale": "Direct imperative address to the congregation"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Аска",
+      "rationale": "צור literally 'rock\/cliff' (Asqa); kept as picture, not abstract 'refuge'"
+    }
+  ],
+  "translation": "Келгиле, Яхвеге ырдалы, кубаныч менен кыйкыралы биздин куткаруучубуздун Аскасына",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "10d86986e2ff93155526143b6e52afb9b7bf2e9ef6d05a572507347523f37b71",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/95\/1-4.1791216898234.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Келгиле"
+    },
+    {
+      "surface": "נרננה",
+      "gloss": "ырдалы"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхвеге"
+    },
+    {
+      "surface": "נריעה",
+      "gloss": "кыйкыралы"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "Аскасына"
+    },
+    {
+      "surface": "ישענו",
+      "gloss": "куткаруучубуздун"
+    }
+  ],
+  "timestamp": "2026-10-05T16:14:58.235228591Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 139:8",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 139,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "төшөгүмдү",
+      "rationale": "ואציעה — «жайсам, төшөөм» деген сөз; «Шеолдо жайсам» түшүнүксүз болот, «төшөк» сөзү еврей тексттин өзүнөн келет (етизация эмес)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "Шеол",
+      "rationale": "Шеол — өлгөндөрдүн дүйнөсү; «тозок» деген которулуш жок, анткени Шеол жаза берүү жери эмес."
+    }
+  ],
+  "translation": "Эгер асманга көтөрүлсөм — Сен ошол жердесиң; эгер Шеолдо төшөгүмдү жайсам — кара, Сен ⟨ошол жердесиң⟩.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "23f34992f0abf9b1e73c5c3835e92c0678749504d7c9181fb223e4ca452c589f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/139\/5-8.1791217543450.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "эгер"
+    },
+    {
+      "surface": "אסק",
+      "gloss": "көтөрүлсөм"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "асманга"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ошол жерде"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Сен …сиң"
+    },
+    {
+      "surface": "ואציעה",
+      "gloss": "жана жайсам"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шеолдо"
+    },
+    {
+      "surface": "הנך",
+      "gloss": "кара, Сен"
+    }
+  ],
+  "timestamp": "2026-10-05T16:25:43.452213999Z",
+  "model": "glm-5.3"
+}

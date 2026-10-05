@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "lamentations 1:13",
+  "book": "lamentations",
+  "lang": "ky",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ал",
+      "rationale": "Ивритте этиштин субъектиси жок — «Бийиктен жөнөттү» дегенде ким экени контексттен көрүнөт"
+    },
+    {
+      "kind": "hapax",
+      "subject": "דוה",
+      "rationale": "Бул сөз Танахта ушул жерде гана кездешет — этек кир кезиндеги оорулуулук маанисинде"
+    },
+    {
+      "kind": "substitution",
+      "subject": "шөөлөткө айландырды",
+      "rationale": "נתנני שממה кыргызча этиш талап кылат: «мени шөөлөт кылды»"
+    }
+  ],
+  "translation": "Бийиктен ⟨ал⟩ менин сөөктөрүмө от жөнөттү, жана ал аларды басып түшүрдү; менин буттарымча тор жайды, мени артка бурду, мени шөөлөткө айландырды — күн бою оорулуумун.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "2a9503cc05034d0f9c2404080a9adf1b4e12f4c546ee3ad2033a04e5bb4de7ca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/lamentations\/1\/13-16.1791219893076.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ממרום",
+      "gloss": "Бийиктен"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "жөнөттү"
+    },
+    {
+      "surface": "אש",
+      "gloss": "от"
+    },
+    {
+      "surface": "בעצמתי",
+      "gloss": "менин сөөктөрүмө"
+    },
+    {
+      "surface": "וירדנה",
+      "gloss": "жана аларды басып түшүрдү"
+    },
+    {
+      "surface": "פרש",
+      "gloss": "жайды"
+    },
+    {
+      "surface": "רשת",
+      "gloss": "тор"
+    },
+    {
+      "surface": "לרגלי",
+      "gloss": "буттарымча"
+    },
+    {
+      "surface": "השיבני",
+      "gloss": "мени артка бурду"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "артка"
+    },
+    {
+      "surface": "נתנני",
+      "gloss": "мени салды"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "шөөлөткө"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүт"
+    },
+    {
+      "surface": "היום",
+      "gloss": "күн бою"
+    },
+    {
+      "surface": "דוה",
+      "gloss": "оорулуумун"
+    }
+  ],
+  "timestamp": "2026-10-05T17:04:53.077395643Z",
+  "model": "glm-5.3"
+}

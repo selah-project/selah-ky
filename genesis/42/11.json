@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 42:11",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ак ниет кишибиз",
+      "rationale": "כנים так котормосу — «түз, туура»; кыргызча адам жөнүндө ак ниет деп берилди"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נחנו \/ אנחנו",
+      "rationale": "Эки «биз» сөзү кайталанып, ырастоо чыңдалат; кыргызча бирөө эле калды"
+    }
+  ],
+  "translation": "Биз баарыбыз бир адамдын уулдарыбыз; биз ак ниет кишибиз, сенин кулдарың чалгынчы эмес.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "20893f1178f5edcecf90cc0f62f9e81309e79d3fd1d5b42dd0098e90cc1d52a3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/42\/9-12.1791201616072.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כלנו",
+      "gloss": "баарыбыз"
+    },
+    {
+      "surface": "בני",
+      "gloss": "уулдарыбыз"
+    },
+    {
+      "surface": "איש",
+      "gloss": "адамдын"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "бир"
+    },
+    {
+      "surface": "נחנו",
+      "gloss": "биз"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "ак ниет кишибиз"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "биз"
+    },
+    {
+      "surface": "לא",
+      "gloss": "эмес"
+    },
+    {
+      "surface": "היו",
+      "gloss": "болгон жок"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "сенин кулдарың"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "чалгынчы"
+    }
+  ],
+  "timestamp": "2026-10-05T12:00:16.073876399Z",
+  "model": "glm-5.3"
+}

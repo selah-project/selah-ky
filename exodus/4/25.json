@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 4:25",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חתן דמים",
+      "rationale": "'кан күйөө' же 'канга чыккан күйөө': кайсы жагынан кан күйөө экени (сүнөт каны менен байланыш) ачык эмес"
+    },
+    {
+      "kind": "substitution",
+      "subject": "буттарына",
+      "rationale": "לרגליв euphemism катары колдонулат; көп котормолор 'буттары' деп алып жүрүшөт"
+    },
+    {
+      "kind": "hapax",
+      "subject": "צר",
+      "rationale": "ушул формада таш бычак маанисинде өтө сейрек учурайт"
+    }
+  ],
+  "translation": "Жана Ципора ташты алып, уулунун ⟨את⟩ сүнөттүлүгүн кесип алып, аны анын буттарына тийгизди жана айтты: чын эле сен мага кан күйөөсүң.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "e014031325bbd993abce2beab89b9b4c59c4f0826779b63709dcc772c94b23b9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/4\/25-28.1791201906031.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "алып"
+    },
+    {
+      "surface": "צפרה",
+      "gloss": "Ципора"
+    },
+    {
+      "surface": "צר",
+      "gloss": "таш"
+    },
+    {
+      "surface": "ותכרת",
+      "gloss": "кесип"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сүнөттүлүгүн"
+    },
+    {
+      "surface": "ערלת",
+      "gloss": "сүнөттүлүгүн"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "уулунун"
+    },
+    {
+      "surface": "ותגע",
+      "gloss": "тийгизди"
+    },
+    {
+      "surface": "לרגליו",
+      "gloss": "анын буттарына"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "жана айтты"
+    },
+    {
+      "surface": "כי",
+      "gloss": "чын эле"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "күйөө"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "кан"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "сен"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мага"
+    }
+  ],
+  "timestamp": "2026-10-05T12:05:06.032130808Z",
+  "model": "glm-5.3"
+}

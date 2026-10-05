@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-kings 1:43",
+  "book": "1-kings",
+  "lang": "ky",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Адонияга",
+      "rationale": "Йонатандын жообу Адонияга түз багытталган"
+    },
+    {
+      "kind": "substitution",
+      "subject": "кожоюнубуз",
+      "rationale": "אדנינו адам жөнүндө — Д1 боюнча «кожоюн», «Теңир» эмес"
+    }
+  ],
+  "translation": "Жана Йонатан жооп берип Адонияга айтты: Жок, тескерисинче, биздин кожоюнубуз падыша Давид Шеломону ⟨את⟩ падыша кылды.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "4ca43b0ba9238ec91b49c99242d574dc12c866bacaca837f02421d0338adfde8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-kings\/1\/41-44.1791207969292.json",
+    "code": "641241cf-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "жана жооп берип"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Йонатан"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "жана айтты"
+    },
+    {
+      "surface": "לאדניהו",
+      "gloss": "Адонияга"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "жок, тескерисинче"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "биздин кожоюнубуз"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "падыша"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "המליך",
+      "gloss": "падыша кылды"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Шеломону"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шеломону"
+    }
+  ],
+  "timestamp": "2026-10-05T13:46:09.293957585Z",
+  "model": "glm-5.3"
+}

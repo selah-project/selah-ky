@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 45:15",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ал",
+      "rationale": "Тыгыз сүйлөм үчүн ⟨ал⟩ атооччу кошулду — еврейче жок"
+    }
+  ],
+  "translation": "Ал түстүү чырмак кийим менен падышага алып келинет; анын артынан кыздар — анын курбулары — саңа алып келинишет.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "93c3c4f42fc18c2bacbe957f23f284e141d83dbd9849018b792aac39529388e5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/45\/13-16.1791216102919.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לרקמות",
+      "gloss": "түстүү чырмак кийим менен"
+    },
+    {
+      "surface": "תובל",
+      "gloss": "алып келинет"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "падышага"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "кыздар"
+    },
+    {
+      "surface": "אחריה",
+      "gloss": "анын артынан"
+    },
+    {
+      "surface": "רעותיה",
+      "gloss": "анын курбулары"
+    },
+    {
+      "surface": "מובאות",
+      "gloss": "алып келинишет"
+    },
+    {
+      "surface": "לך",
+      "gloss": "саңа"
+    }
+  ],
+  "timestamp": "2026-10-05T16:01:42.920587724Z",
+  "model": "glm-5.3"
+}

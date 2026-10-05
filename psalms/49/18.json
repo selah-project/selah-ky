@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 49:18",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יקח הכל",
+      "rationale": "«Баарын албайт» же «эч нерсе ала албайт» — лакондуу тексттин экөөнө да жол ачат"
+    },
+    {
+      "kind": "addition",
+      "subject": "ал",
+      "rationale": "Этиштин ээси кыргызча талап кылат, еврейче жок"
+    }
+  ],
+  "translation": "Анткени ал өлгөндө баарын эч ала албайт, анын урматы анын артынан түшпөйт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "e05fb71515cee11022f7c26bbd2e6428d750500abb376f9135e9707b79a9e2d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/49\/17-20.1791216079805.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "לא",
+      "gloss": "эч"
+    },
+    {
+      "surface": "במותו",
+      "gloss": "ал өлгөндө"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ала албайт"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "баарын"
+    },
+    {
+      "surface": "לא",
+      "gloss": "түшпөйт"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "түшпөйт"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "анын артынан"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "урматы"
+    }
+  ],
+  "timestamp": "2026-10-05T16:01:19.806631547Z",
+  "model": "glm-5.3"
+}

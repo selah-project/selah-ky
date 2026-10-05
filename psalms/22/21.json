@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 22:21",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жан",
+      "rationale": "נפש — дем алуучу жандык, жанык күч; «жан» кеңири кабыл алынган, бирок нефештин «тамак\/дем\/жашоо күчү» мааниси көрүнбөй калат"
+    },
+    {
+      "kind": "crux",
+      "subject": "жалгызымды",
+      "rationale": "יחידתי: «жалгызым» (йал:aхид — жалгыз, сүйүктүү); KJV «my darling», башкалары «my only one»"
+    },
+    {
+      "kind": "idiom",
+      "subject": "иттин колунан",
+      "rationale": "מיד כלב — «иттин колу» = анын күчү, бийлиги; бул жерде ит — жырткыч душман образы"
+    }
+  ],
+  "translation": "Куткар кылычтан менин жанымды, иттин колунан менин жалгызымды.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "989c506407807f19a4fb43f58f1bfc1569e7e6136cd123ef91e1a1adc5ab2b16",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/22\/21-24.1791215574469.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הצילה",
+      "gloss": "Куткар"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "кылычтан"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "жанымды"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "колунан"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "иттин"
+    },
+    {
+      "surface": "יחידתי",
+      "gloss": "жалгызымды"
+    }
+  ],
+  "timestamp": "2026-10-05T15:52:54.469520100Z",
+  "model": "glm-5.3"
+}

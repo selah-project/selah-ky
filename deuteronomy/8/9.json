@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 8:9",
+  "book": "deuteronomy",
+  "lang": "ky",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жез",
+      "rationale": "נחשת — жез (кайра), «жез» (brass) эмес"
+    },
+    {
+      "kind": "you",
+      "subject": "Йисраэлге",
+      "rationale": "Моше элге кайрылат: «сен» деген жекече адре"
+    }
+  ],
+  "translation": "Жер, анда сен жокчулук менен нан жеген жоксуң, анда эч нерсеге жетишпейсің; жер, анын таштары темир, анын тоолорунан жез чабасың.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "81c8c2dfd8856795cd331c2af1ca27e223e19b83ede43042cf8d33aaf20f5a66",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/8\/9-12.1791204855010.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "жер"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "анда"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "במסכנת",
+      "gloss": "жокчулук менен"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "жейсиң"
+    },
+    {
+      "surface": "בה",
+      "gloss": "анда"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "нан"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "תחסר",
+      "gloss": "жетишпейсің"
+    },
+    {
+      "surface": "כל",
+      "gloss": "эч нерсе"
+    },
+    {
+      "surface": "בה",
+      "gloss": "анда"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "жер"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "анда"
+    },
+    {
+      "surface": "אבניה",
+      "gloss": "анын таштары"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "темир"
+    },
+    {
+      "surface": "ומהרריה",
+      "gloss": "жана анын тоолорунан"
+    },
+    {
+      "surface": "תחצב",
+      "gloss": "чабасың"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "жез"
+    }
+  ],
+  "timestamp": "2026-10-05T12:54:15.010913402Z",
+  "model": "glm-5.3"
+}

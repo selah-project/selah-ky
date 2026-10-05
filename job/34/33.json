@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "job 34:33",
+  "book": "job",
+  "lang": "ky",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "המעמך",
+      "rationale": "'Сен менен беле?' — 'сенин пикириңе ылайыкпы?' же 'сенен талап кылабы?' деп да окулат"
+    },
+    {
+      "kind": "alternative",
+      "subject": "мאסת",
+      "rationale": "'четке кагасың' — кээ бир котормолор 'жек көрөсүң' деп берет"
+    }
+  ],
+  "translation": "Сен менен беле ал төлөйт? Анткени сен четке кагасың, анткени тандоону сен жасайсың, Мен эмес. Эмнени билсең, ошону айт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "4b9c74a86344e4b6bb2e20a3f3871d2af69ded51ebad81833bdfd845d270769c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/job\/34\/33-36.1791219346902.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "המעמך",
+      "gloss": "сен менен беле"
+    },
+    {
+      "surface": "ישלמנה",
+      "gloss": "төлөйт"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "מאסת",
+      "gloss": "четке кагасың"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "сен"
+    },
+    {
+      "surface": "תבחר",
+      "gloss": "тандоону жасайсың"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "жана эмес"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Мен"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "жана эмнени"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "билсең"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "айт"
+    }
+  ],
+  "timestamp": "2026-10-05T16:55:46.903537980Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "2-kings 17:39",
+  "book": "2-kings",
+  "lang": "ky",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כי אם",
+      "rationale": "Ивритче 'анткени эгер' — бул жерде 'тескерисинче\/бирок' деген каршы маанини берет"
+    },
+    {
+      "kind": "addition",
+      "subject": "ал",
+      "rationale": "Ивритте Ал сөзү (הוא) бар, бирок куткаруучунун ачык аталышы кыргызча болжол менен түшүндүрүлдү"
+    }
+  ],
+  "translation": "Тескерисинче, Яхвени, Элохимиңерди корккула, жана Ал силерди баардык душмандарыңардын колунан куткарат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "e1f0d0896f67be67ab4c4bea895a697e8112a2b9ef3580a9efd9aba7d6f0423c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-kings\/17\/37-40.1791209115318.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "אם",
+      "gloss": "тескерисинче"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яхвени"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвени"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Элохимиңерди"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "корккула"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "жана Ал"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "куткарат"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "силерди"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "колунан"
+    },
+    {
+      "surface": "כל",
+      "gloss": "баардык"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "душмандарыңардын"
+    }
+  ],
+  "timestamp": "2026-10-05T14:05:15.319441200Z",
+  "model": "glm-5.3"
+}

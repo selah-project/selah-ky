@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 73:15",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 73,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "דור בניך",
+      "rationale": "«Сенин уулдарыңдын мууну» же «сенин балдарыңдын доору»; кимге чыккынчылык болору так эмес"
+    },
+    {
+      "kind": "addition",
+      "subject": "болмор эле",
+      "rationale": "Кыргызча шарт маанисин билдирүү үчүн этиш формасы кошулду"
+    }
+  ],
+  "translation": "Эгер айтсам: «Мындай айтайын», — мына, Сенин уулдарыңдын муунуна чыккынчылык кылган болмор эле.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "43ec00c0195ae3f2ab7e08027a3c2ccb4931ea329e79132d461e46f9401a9d72",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/73\/13-16.1791216509257.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "эгер"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "айтсам"
+    },
+    {
+      "surface": "אספרה",
+      "gloss": "айтайын"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "мындай"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "мына"
+    },
+    {
+      "surface": "דור",
+      "gloss": "мууну"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "уулдарыңдын"
+    },
+    {
+      "surface": "בגדתי",
+      "gloss": "чыккынчылык кылган болмор эле"
+    }
+  ],
+  "timestamp": "2026-10-05T16:08:29.258777968Z",
+  "model": "glm-5.3"
+}

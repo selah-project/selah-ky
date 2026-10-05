@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 3:16",
+  "book": "1-samuel",
+  "lang": "ky",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Эли Шемуэлге",
+      "rationale": "Эли Шемуэлди аты менен чакырып, тикелей кайрылат: «Шемуэл, менин уулум»."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הנני",
+      "rationale": "«Мен мындамын» — Шемуэлдун Яхвеге берген жообу менен окшош жооп (3:4–10), кайталоу риторикасы."
+    }
+  ],
+  "translation": "Эли ⟨את⟩ Шемуэлди чакырды жана айтты: Шемуэл, менин уулум. Жана ал айтты: Мен мындамын.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "6be9d30d54d0c5465046f4359c8277051c27800fa5fa082cc075ef720b31d282",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-samuel\/3\/13-16.1791206645773.json",
+    "code": "da1b46b6-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "чакырды"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Эли"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Шемуэлди"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Шемуэлди"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "жана айтты"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Шемуэл"
+    },
+    {
+      "surface": "בני",
+      "gloss": "менин уулум"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "жана айтты"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Мен мындамын"
+    }
+  ],
+  "timestamp": "2026-10-05T13:24:05.774374071Z",
+  "model": "glm-5.3"
+}

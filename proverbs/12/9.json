@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 12:9",
+  "book": "proverbs",
+  "lang": "ky",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נקלה",
+      "rationale": "«жеңил эсептелген» же «жардамсыз, өзүн өзү тейлөөчү» — KJV «despised», башкалары «lowly» деп берет"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ועבד לו",
+      "rationale": "«өзүнүн кызматчысы» (байлык белгиси) же «өзүнө кызмат кылган» (кедейлик) — эки окшош окуу бар"
+    }
+  ],
+  "translation": "Жеңил эсептелген, бирок өзүнө кызматчысы бар адам — өзүн чоң туткан, бирок наны жетпеген адамдан жакшы.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "0515d51e99208262472f592aff6a1f772cb943d75aba443c523cbfbe4bda4475",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/12\/9-12.1791217945382.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "жакшы"
+    },
+    {
+      "surface": "נקלה",
+      "gloss": "жеңил эсептелген"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "бирок кызматчысы бар"
+    },
+    {
+      "surface": "לו",
+      "gloss": "өзүнө"
+    },
+    {
+      "surface": "ממתכבד",
+      "gloss": "өзүн чоң туткан"
+    },
+    {
+      "surface": "וחסר",
+      "gloss": "бирок жетпеген"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "нан"
+    }
+  ],
+  "timestamp": "2026-10-05T16:32:25.382977905Z",
+  "model": "glm-5.3"
+}

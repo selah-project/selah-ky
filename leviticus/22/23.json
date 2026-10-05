@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 22:23",
+  "book": "leviticus",
+  "lang": "ky",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שרוע וקלוט",
+      "rationale": "'артыкча мүчөлүү же жетишсиз мүчөлүү' — 'өтө узун же өтө кыска' да деп которулат; экөө тең өсүү кемчилдигин билдирет."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ыктыярдуу белек",
+      "rationale": "נדבה 'өз эрки менен' деген мааниде; ант менен ыктыярдуу белектин ортосундагы айырма — ант милдеттенүү, белек эркин."
+    }
+  ],
+  "translation": "Жана уй же козу — өтө узун же өтө кыска мүчөлүү — аны ыктыярдуу белек катары жасасаңар болот, бирок ант үчүн ал ыраазы кылынбайт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "10f7c5a4117534a76020c8acb45ecb54440c075a1f587a2396b17313b78d4dd2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/22\/21-24.1791203335069.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושור",
+      "gloss": "Жана уй"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "же козу"
+    },
+    {
+      "surface": "שרוע",
+      "gloss": "өтө узун"
+    },
+    {
+      "surface": "וקלוט",
+      "gloss": "өтө кыска"
+    },
+    {
+      "surface": "נדבה",
+      "gloss": "ыктыярдуу белек катары"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "жасасаңар болот"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "аны"
+    },
+    {
+      "surface": "ולנדר",
+      "gloss": "ант үчүн"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "ыраазы кылынбайт"
+    }
+  ],
+  "timestamp": "2026-10-05T12:28:55.071054761Z",
+  "model": "glm-5.3"
+}

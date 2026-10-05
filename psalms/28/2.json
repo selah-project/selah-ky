@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 28:2",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "דביר",
+      "rationale": "«Ички ыйык жай» (дэбир, ыйык жайчанын эң ички бөлүгү) же жалпы «ыйык жай» деген окуулар бар; JPS экинчисин тандайт."
+    },
+    {
+      "kind": "you",
+      "subject": "Яхвеге",
+      "rationale": "Тикелей кайрылуу уланаат: «ук» деген буйрук."
+    },
+    {
+      "kind": "invitation",
+      "subject": "ук",
+      "rationale": "Буюрудай түрүндөгү тилеке — текст кайрылууну чакырат."
+    }
+  ],
+  "translation": "Ынтызарлык үнүмдү ук — сага кыйкырганымда, колдорумду ыйык ички жайыңа көтөргөнүмдө.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "eb3f4f252bb359ff9fdb16a2681476aec7732d081f81c05ff2e41348fc5a2108",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/28\/1-4.1791215779029.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "ук"
+    },
+    {
+      "surface": "קול",
+      "gloss": "үнүн"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "ынтызарлыктарымдын"
+    },
+    {
+      "surface": "בשועי",
+      "gloss": "кыйкырганымда"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "сага"
+    },
+    {
+      "surface": "בנשאי",
+      "gloss": "көтөргөнүмдө"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "колдорумду"
+    },
+    {
+      "surface": "אל",
+      "gloss": "жакка"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "ички жайыңа"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "ыйык"
+    }
+  ],
+  "timestamp": "2026-10-05T15:56:19.030253944Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 21:8",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "хесед",
+      "rationale": "חסד «ырайым» деп гана которулбайт — сөз аты менен хесед деп сакталды"
+    },
+    {
+      "kind": "elision",
+      "subject": "בל",
+      "rationale": "Ивриттин «бал» танбоо сөзү «тайгактаайт» этишине сиңдирилди"
+    }
+  ],
+  "translation": "Анткени падыша Яхвеге таянат, жана Эң Жогоркунун хесединде ал тайгактаайт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "9140d3c7680f8657d0052707d2e345ceeb481beecb6969b3c1527dbe66c04aad",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/21\/5-8.1791215588661.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "падыша"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "таянат"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Яхвеге"
+    },
+    {
+      "surface": "ובחסד",
+      "gloss": "жана…хесединде"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Эң Жогоркунун"
+    },
+    {
+      "surface": "בל",
+      "gloss": "эмес"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "тайгактаайт"
+    }
+  ],
+  "timestamp": "2026-10-05T15:53:08.662412292Z",
+  "model": "glm-5.3"
+}

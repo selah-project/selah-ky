@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 16:6",
+  "book": "proverbs",
+  "lang": "ky",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "эмет",
+      "rationale": "אמת — туруктуулук, ишенимдүүлүк; «акыйкат» гана эмес"
+    },
+    {
+      "kind": "substitution",
+      "subject": "жабылат",
+      "rationale": "כפר — жабуу, жазалоодон бошотуу; кыргызча бир сөзгө сыярдык"
+    }
+  ],
+  "translation": "Хесед жана эмет менен күнөө жабылат, жана Яхвенин коркуусу менен жамандыктан бурулат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "3f3f2b6eb85bb179256fc399fbce0e6b8a36fede4dad8df4aeea82b7ea42199b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/16\/5-8.1791218083288.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בחסד",
+      "gloss": "хесед"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "жана эмет"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "жабылат"
+    },
+    {
+      "surface": "עון",
+      "gloss": "күнөө"
+    },
+    {
+      "surface": "וביראת",
+      "gloss": "коркуусу менен"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    },
+    {
+      "surface": "סור",
+      "gloss": "бурулат"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "жамандыктан"
+    }
+  ],
+  "timestamp": "2026-10-05T16:34:43.289018053Z",
+  "model": "glm-5.3"
+}

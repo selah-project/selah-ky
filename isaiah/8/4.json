@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 8:4",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "баланын жашы",
+      "rationale": "Пророчествонун мөөнөтү баланын сүйлөй баштаганы менен өлчөнөт."
+    },
+    {
+      "kind": "substitution",
+      "subject": "байлык",
+      "rationale": "חיל — 'күч, аскер, байлык' маанисинде кеңири сөз."
+    }
+  ],
+  "translation": "Анткени бала 'атам' жана 'энем' деп айта билгенче, Дамашектин ⟨את⟩ байлыгын жана Шомерондун ⟨את⟩ олжосун Ашур падышасынын алдына алып кетишет.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "e2d06167ceeb8678f62676fc08be23cbdbd69f391e823400572719e4f3f4f4ca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/8\/1-4.1791209442915.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "-ге чейин"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "билгенче"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "бала"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "деп айтоо"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "атам"
+    },
+    {
+      "surface": "ואמי",
+      "gloss": "жана энем"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "алып кетишет"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "байлыгын"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "байлыгын"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Дамашектин"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "жана ⟨את⟩",
+      "marks": "олжосун"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "олжосун"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Шомерондун"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "алдына"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "падышасынын"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ашур"
+    }
+  ],
+  "timestamp": "2026-10-05T14:10:42.917085979Z",
+  "model": "glm-5.3"
+}

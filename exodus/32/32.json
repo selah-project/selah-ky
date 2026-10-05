@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 32:32",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "נשא חטאה",
+      "rationale": "«Күнөөнү көтөрүү» — кечирүү идиомасы, күнөөнү өзүңө алуу"
+    },
+    {
+      "kind": "crux",
+      "subject": "אם תשא... ואם אין",
+      "rationale": "Биринчи шарттын аягы текстте бүтпөйт — КЖВ сыяктуу «—» менен калтырылат; толук сүйлөм ойлоп табылбашы керек"
+    },
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "rationale": "Байланыштык ат атооч кыргызча жөндөмө аркылуу берилди"
+    },
+    {
+      "kind": "secret",
+      "subject": "Яхвенин китеби",
+      "rationale": "Жазылган китеп — өмүр китеби, жашыруун нерселердин катмары"
+    }
+  ],
+  "translation": "Эми эгер сен алардын күнөөсүн көтөрсөң — ал эми эмес болсо, мени өзүң жазган китебиңден өчүрүп жибер, суранам.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "0e979f3fd5d83fb954892228aaa95e5786a404435c29ff6b0e525788d6a166da",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/32\/29-32.1791202642858.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Эми"
+    },
+    {
+      "surface": "אם",
+      "gloss": "эгер"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "көтөрсөң"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "күнөөсүн"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ал эми эмес болсо"
+    },
+    {
+      "surface": "אין",
+      "gloss": "эмес"
+    },
+    {
+      "surface": "מחני",
+      "gloss": "мени өчүрүп жибер"
+    },
+    {
+      "surface": "נא",
+      "gloss": "суранам"
+    },
+    {
+      "surface": "מספרך",
+      "gloss": "китебиңден"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "כתבת",
+      "gloss": "өзүң жазган"
+    }
+  ],
+  "timestamp": "2026-10-05T12:17:22.859672163Z",
+  "model": "glm-5.3"
+}

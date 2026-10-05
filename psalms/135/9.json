@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 135:9",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 135,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Mitsrajim",
+      "rationale": "בתוככי — 2-жекече аяланып айтылган формасы: Мицрайим тике кайрылуу менен кармалат."
+    },
+    {
+      "kind": "addition",
+      "subject": "эй",
+      "rationale": "Кайрылууну кыргызча көрсөтүү үчүн кошулду."
+    }
+  ],
+  "translation": "Ал Мицрайим ⟨את⟩ ичиңде белгилерди жана кереметтерди жиберди, эй Мицрайим, Фараонго жана анын кулдарынын баарына.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "6cca197ce9087e5bd4a9b5f425d10670a999cd0a54bb6d107f399bca57f677a0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/135\/9-12.1791217474199.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "жиберди"
+    },
+    {
+      "surface": "אתות",
+      "gloss": "белгилерди"
+    },
+    {
+      "surface": "ומפתים",
+      "gloss": "жана кереметтерди"
+    },
+    {
+      "surface": "בתוככי",
+      "gloss": "ичиңде"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицрайим"
+    },
+    {
+      "surface": "בפרעה",
+      "gloss": "Фараонго"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "жана ... баарына"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "анын кулдарынын"
+    }
+  ],
+  "timestamp": "2026-10-05T16:24:34.200239224Z",
+  "model": "glm-5.3"
+}

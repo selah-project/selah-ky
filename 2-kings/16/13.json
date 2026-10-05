@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 16:13",
+  "book": "2-kings",
+  "lang": "ky",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "тынчтык курмандыктары",
+      "rationale": "השלמים — 'шалом курмандыктары', таптакыр эркин ырахат курмандыгы"
+    },
+    {
+      "kind": "elision",
+      "subject": "אשר לו",
+      "rationale": "буквалдык 'ал эмне аныкы' — 'өзүнө таандык' деп жыйырылды"
+    }
+  ],
+  "translation": "Жана ал өзүнүн өлөгүн ⟨את⟩ түтөттү, жана өзүнүн минхасын ⟨את⟩, өзүнүн нэсегин ⟨את⟩ куйду, жана өзүнө таандык тынчтык курмандыктарынын ⟨את⟩ канын мизбенин үстүнө чачты.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "37dd699d17ff36501d8eac0b36b1d9095f73757a5c6fa10cef983fac34dbd262",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-kings\/16\/13-16.1791209137983.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקטר",
+      "gloss": "түтөттү"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "өзүнүн өлөгүн"
+    },
+    {
+      "surface": "עלתו",
+      "gloss": "өзүнүн өлөгүн"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "өзүнүн минхасын"
+    },
+    {
+      "surface": "מנחתו",
+      "gloss": "өзүнүн минхасын"
+    },
+    {
+      "surface": "ויסך",
+      "gloss": "куйду"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "өзүнүн нэсегин"
+    },
+    {
+      "surface": "נסכו",
+      "gloss": "өзүнүн нэсегин"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "чачты"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "канын"
+    },
+    {
+      "surface": "דם",
+      "gloss": "канын"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "тынчтык курмандыктарынын"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ал"
+    },
+    {
+      "surface": "לו",
+      "gloss": "өзүнө таандык"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстүнө"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "мизбенин"
+    }
+  ],
+  "timestamp": "2026-10-05T14:05:37.984636726Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 4:7",
+  "book": "ecclesiastes",
+  "lang": "ky",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "хебел",
+      "rationale": "הבל — «дем\/тумуш», Коһелеттин дайыма кайталанган сөзү; форма сакталып калды"
+    }
+  ],
+  "translation": "Мен кайра бурулдум жана көрдүм: күндүн астында хебел.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "41e3a196145a68c09ccc0a255909c14ac6c33e4e140d40852bd667d3efda73d4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ecclesiastes\/4\/5-8.1791220030864.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושבתי",
+      "gloss": "кайра бурулдум"
+    },
+    {
+      "surface": "אני",
+      "gloss": "мен"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "көрдүм"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "хебел"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "астында"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "күндүн"
+    }
+  ],
+  "timestamp": "2026-10-05T17:07:10.866064282Z",
+  "model": "glm-5.3"
+}

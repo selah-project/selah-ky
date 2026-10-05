@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 49:14",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "кимдер",
+      "rationale": "Ивритте Этиштин этиш формасы жашырылган жатат — субъект кошулду"
+    },
+    {
+      "kind": "crux",
+      "subject": "כסל",
+      "rationale": "\"акмактык\" же \"ич майы\" — КJV\/ЖПС тойлордун кепилдиги жок маанисине багыт берет"
+    }
+  ],
+  "translation": "Бул алардын жолу — акмактык аларга; жана алардын артынан ⟨кимдер⟩ алардын оозу менен жактырылышат. Селах.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "ae76094a5829c5cb42ed74ffb3f10e2a65e874946867c2a24cd66fa141130155",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/49\/13-16.1791216103018.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Бул"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "алардын жолу"
+    },
+    {
+      "surface": "כסל",
+      "gloss": "акмактык"
+    },
+    {
+      "surface": "למו",
+      "gloss": "аларга"
+    },
+    {
+      "surface": "ואחריהם",
+      "gloss": "алардын артынан"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "алардын оозу менен"
+    },
+    {
+      "surface": "ירצו",
+      "gloss": "жактырылышат"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Селах"
+    }
+  ],
+  "timestamp": "2026-10-05T16:01:43.019333004Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 18:15",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כי יראה",
+      "rationale": "«анткени ал корккон» же «анткени корккон» — субъект Сарра; бирок текстте Яхве Яхве деп да окулат, көпчүлүк котормолор Сарра алышат."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "צחקתי\/צחקת",
+      "rationale": "«мен күлгөн жокмун» — «сен күлдүң»: дээрлик окшош формалардын кайрылуусу."
+    },
+    {
+      "kind": "alternative",
+      "subject": "жокко чыгарды",
+      "rationale": "ותכחש букв. «жалган айтты» — «жокко чыгарды» табигыйраак."
+    }
+  ],
+  "translation": "Сарра жокко чыгарды: «Мен күлгөн жокмун», — анткени корккон. Ал айтты: «Жок, сен күлдүң.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "e7cfd20fb23b819e52f4bb8dae36f08279c60579165b1da5948e9cc1d3f916de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/18\/13-16.1791201009733.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותכחש",
+      "gloss": "жокко чыгарды"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Сарра"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "деп"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок...мун"
+    },
+    {
+      "surface": "צחקתי",
+      "gloss": "күлгөн"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "корккон"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ал айтты"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "צחקת",
+      "gloss": "күлдүң"
+    }
+  ],
+  "timestamp": "2026-10-05T11:50:09.733910774Z",
+  "model": "glm-5.3"
+}

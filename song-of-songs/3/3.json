@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 3:3",
+  "book": "song-of-songs",
+  "lang": "ky",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "сөзүн айттым",
+      "rationale": "еврейче tekst суроону түз эле берет, 'айттым' деген копула текстте жок"
+    },
+    {
+      "kind": "elision",
+      "subject": "суроо белгиси",
+      "rationale": "еврейче суроо белгиси жок, интонация гана суроону көрсөтөт"
+    }
+  ],
+  "translation": "Мени тапты шаарды кыдырган караулчылар: ⟨את⟩ жаным сүйгөндү көрдүңөрбү?",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "28b12a73fd5bfd486d8a9d2d94fc38500a8728a64f568cb32b0096d2ac727c5e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/song-of-songs\/3\/1-4.1791219583632.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מצאוני",
+      "gloss": "мени тапты"
+    },
+    {
+      "surface": "השמרים",
+      "gloss": "караулчылар"
+    },
+    {
+      "surface": "הסבבים",
+      "gloss": "кыдырган"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "шаарды"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "жаным сүйгөндү"
+    },
+    {
+      "surface": "שאהבה",
+      "gloss": "сүйгөндү"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "жаным"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "көрдүңөрбү"
+    }
+  ],
+  "timestamp": "2026-10-05T16:59:43.633425644Z",
+  "model": "glm-5.3"
+}

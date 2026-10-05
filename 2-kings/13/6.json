@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 13:6",
+  "book": "2-kings",
+  "lang": "ky",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "האשерה",
+      "rationale": "Ашера — кудай аялдын аты жана анын түгөйү; «бут» же «токой» деп которулбайт."
+    },
+    {
+      "kind": "substitution",
+      "subject": "בה הלך",
+      "rationale": "Букв.: «анда жүрдү» — күнөөлөрдө жүрүү деген идиома."
+    }
+  ],
+  "translation": "Бирок алар Яровам үй-бүлөсүнүн күнөөлөрүнөн — анын менен ⟨את⟩ Йисраэлди күнөөгө тартканынан — качып кетишкен жок, ошол жол менен жүштү, жана Ашера да Шомрондо турду.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "bb3ac625ebb8d8f9c8626dc8061580617f4448a2305b6a73007a920a3d1d1883",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-kings\/13\/5-8.1791208989987.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "бирок"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "качып кетишкен"
+    },
+    {
+      "surface": "מחטאות",
+      "gloss": "күнөөлөрүнөн"
+    },
+    {
+      "surface": "בית",
+      "gloss": "үй-бүлөсүнүн"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Яровам"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "анын"
+    },
+    {
+      "surface": "החטי",
+      "gloss": "күнөөгө тартканынан"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Йисраэлди"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэлди"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ошол жол менен"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "жүштү"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "жана да"
+    },
+    {
+      "surface": "האשרה",
+      "gloss": "Ашера"
+    },
+    {
+      "surface": "עמדה",
+      "gloss": "турду"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "Шомрондо"
+    }
+  ],
+  "timestamp": "2026-10-05T14:03:09.987843404Z",
+  "model": "glm-5.3"
+}

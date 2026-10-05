@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 4:26",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הוחל",
+      "rationale": "חלל тамыры «тешилүү\/башталуу» да, «бузуу\/ыйыкты бузуу» да болот: «Яхвенин ысымы менен чакыруу башталды» же «Яхвенин ысымы бузула баштады» — эки окуу бар."
+    },
+    {
+      "kind": "elision",
+      "subject": "כי\/субъект жок",
+      "rationale": "«Ким чакырды» деп айтылбайт — текст жашырын: адамдарбы, Эношпу, башкаларбы."
+    }
+  ],
+  "translation": "Жана Шетке да, өзүнө да уул туулду, жана ал ⟨את⟩ анын атын Энош деп койду. Ошондо Яхвенин ысымы менен чакырууга башталды.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "4d5039aab7eff64e99e045ff1470e47bea53718d013b96923875afc30cd990bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/4\/25-26.1791200711148.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולשת",
+      "gloss": "жана Шетке"
+    },
+    {
+      "surface": "גם",
+      "gloss": "да"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "өзүнө"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "туулду"
+    },
+    {
+      "surface": "בן",
+      "gloss": "уул"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "жана койду"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "анын атын"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "анын атын"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "Энош"
+    },
+    {
+      "surface": "אז",
+      "gloss": "ошондо"
+    },
+    {
+      "surface": "הוחל",
+      "gloss": "башталды"
+    },
+    {
+      "surface": "לקרא",
+      "gloss": "чакырууга"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "ысымы менен"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-10-05T11:45:11.149265602Z",
+  "model": "glm-5.3"
+}

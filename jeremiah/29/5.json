@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 29:5",
+  "book": "jeremiah",
+  "lang": "ky",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "сургундагыларга",
+      "rationale": "Бир катар буйруктар — Вавилондогу Oljogo алынгандарга кайрылуу."
+    },
+    {
+      "kind": "elision",
+      "subject": "בנו",
+      "rationale": "Буйрук мамилеси көп сандагы — кыргызча бир форма менен берилди."
+    }
+  ],
+  "translation": "Үйлөрдү кургула жана отургула, бактарды отургузгула жана ⟨את⟩ жемишин жегиле.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "1af612c01df6bd153c36ede63f58f99bbb5d6e39210c23582630a0668df099a2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/jeremiah\/29\/5-8.1791211433018.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בנו",
+      "gloss": "кургула"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "үйлөрдү"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "жана отургула"
+    },
+    {
+      "surface": "ונטעו",
+      "gloss": "жана отургузгула"
+    },
+    {
+      "surface": "גנות",
+      "gloss": "бактарды"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "жана жегиле"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "жемишин"
+    },
+    {
+      "surface": "פרין",
+      "gloss": "жемишин"
+    }
+  ],
+  "timestamp": "2026-10-05T14:43:53.018851279Z",
+  "model": "glm-5.3"
+}

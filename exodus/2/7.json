@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 2:7",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "сенин",
+      "rationale": "לך ээлик формасы 'сенин' деп такталды — кыргызча аныктык үчүн."
+    },
+    {
+      "kind": "you",
+      "subject": "фараондун кызына",
+      "rationale": "Мошелин карындашы фараондун кызына түз суроо менен кайрылат — ыңгайсыз абалда курч сүйлөм."
+    }
+  ],
+  "translation": "Анын карындашы фараондун кызына айтты: Барайынбы жана сага иври аялдардан эмизүүчү аялды чакырып берейинби, ал сенин үчүн ⟨את⟩ балаңды эмизсин?",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "8eee566e5f8f23e3b1a4dcb351a140b6581aa29c78e4363d985e073f2e6763e3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/2\/5-8.1791201863991.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "карындашы"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…га"
+    },
+    {
+      "surface": "בת",
+      "gloss": "кызына"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "фараондун"
+    },
+    {
+      "surface": "האלך",
+      "gloss": "барайынбы"
+    },
+    {
+      "surface": "וקראתי",
+      "gloss": "чакырып берейинби"
+    },
+    {
+      "surface": "לך",
+      "gloss": "сага"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "аялды"
+    },
+    {
+      "surface": "מינקת",
+      "gloss": "эмизүүчү"
+    },
+    {
+      "surface": "מן",
+      "gloss": "…дан"
+    },
+    {
+      "surface": "העברית",
+      "gloss": "иври аялдардан"
+    },
+    {
+      "surface": "ותינק",
+      "gloss": "эмизсин"
+    },
+    {
+      "surface": "לך",
+      "gloss": "сенин үчүн"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "балаңды"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "балаңды"
+    }
+  ],
+  "timestamp": "2026-10-05T12:04:23.992638700Z",
+  "model": "glm-5.3"
+}

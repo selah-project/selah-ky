@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 24:5",
+  "book": "leviticus",
+  "lang": "ky",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "12 loaves × 2 tenths",
+      "rationale": "Точный подсчет: он эки нан, ар бири эки ондон бир үлүш (эфинын)."
+    },
+    {
+      "kind": "addition",
+      "subject": "ар бир",
+      "rationale": "Иврияларындагы 'бир нан' — кыргызча 'ар бир таба нан' деген санамжы талап кылат."
+    }
+  ],
+  "translation": "Жана ⟨את⟩ сокмок унду алып, аны он эки таба нан кылып куура́сың; ар бир таба нан эки ондон бир үлүштөн болот.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "b34df01f0594b3db31a245b19bb29037ed4169651d801e1f49447b5ebf8e6e19",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/24\/5-8.1791203399822.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "алып"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "сокмок ун"
+    },
+    {
+      "surface": "ואפית",
+      "gloss": "куура́сың"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "аны"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "он эки"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": ""
+    },
+    {
+      "surface": "חלות",
+      "gloss": "таба нан"
+    },
+    {
+      "surface": "שני",
+      "gloss": "эки"
+    },
+    {
+      "surface": "עשרנים",
+      "gloss": "ондон бир үлүштөн"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "болот"
+    },
+    {
+      "surface": "החלה",
+      "gloss": "ар бир таба нан"
+    },
+    {
+      "surface": "האחת",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-10-05T12:29:59.823461760Z",
+  "model": "glm-5.3"
+}

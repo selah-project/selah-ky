@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 38:20",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "болушту",
+      "rationale": "еврейде этиш байламта катары келген, кыргызча атоочтук этиш керек"
+    },
+    {
+      "kind": "crux",
+      "subject": "שקר",
+      "rationale": "'жалган негизде' — KJV 'wrongfully' (карашпас) же 'falsehood' (жалган сөз); анын жооптору далилденбейт"
+    }
+  ],
+  "translation": "Жана душмандарым тирүү, күчтүү болушту, жана мени жек көргөндөр жалган негизде көбөйдү.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "2abcd069df0fabfec58f6a32452f4b0ac8e78f0cafe15f365b91de2dc3f20c16",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/38\/17-20.1791215955185.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואיבי",
+      "gloss": "жана душмандарым"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "тирүү"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "күчтүү болушту"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "жана көбөйдү"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "мени жек көргөндөр"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "жалган негизде"
+    }
+  ],
+  "timestamp": "2026-10-05T15:59:15.186131492Z",
+  "model": "glm-5.3"
+}

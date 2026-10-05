@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 30:12",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שק\/שמחה",
+      "rationale": "Кеби чечилип, кубаныч курчоо — кийим образында карама-каршы айлануу."
+    },
+    {
+      "kind": "substitution",
+      "subject": "курчадың",
+      "rationale": "ותאזרני букв. «белди курчоо» — кийим образы сакталды."
+    }
+  ],
+  "translation": "Сен менин коштошумду менин үчүн бийге айландырдың, менин кебимди чечтиң жана мени кубаныч менен курчадың.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "9868f0f34f6039889bf7a90527c922a354613e4b4377ce6cf4458660abda6040",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/30\/9-12.1791215682640.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הפכת",
+      "gloss": "айландырдың"
+    },
+    {
+      "surface": "מספדי",
+      "gloss": "менин коштошумду"
+    },
+    {
+      "surface": "למחול",
+      "gloss": "бийге"
+    },
+    {
+      "surface": "לי",
+      "gloss": "менин үчүн"
+    },
+    {
+      "surface": "פתחת",
+      "gloss": "чечтиң"
+    },
+    {
+      "surface": "שקי",
+      "gloss": "менин кебимди"
+    },
+    {
+      "surface": "ותאזרני",
+      "gloss": "жана мени курчадың"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "кубаныч менен"
+    }
+  ],
+  "timestamp": "2026-10-05T15:54:42.641551686Z",
+  "model": "glm-5.3"
+}

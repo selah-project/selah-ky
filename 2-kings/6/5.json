@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 6:5",
+  "book": "2-kings",
+  "lang": "ky",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "והוא שאול",
+      "rationale": "Көбү «ал карз эле» (сурап алынган) деп окусат; YLT боюнча түз мааниси «ал сурады» — тамыр שׁאל 'сураш', ошондуктан карз деген чечмелөө пайда болот."
+    },
+    {
+      "kind": "substitution",
+      "subject": "темир",
+      "rationale": "הברזל 'темир' — кыргызча балта башы деген түшүнүк кошулбай, сөз кандай турса ошондой калды."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨карз⟩",
+      "rationale": "Еврей тексти ээликтик катнашты ачык айтпайт; «карз» деген сөз контексттен кошулду."
+    }
+  ],
+  "translation": "Жана бирөө устунду кулаганда, ⟨את⟩ темир сууга түшүп калды; ал кыйкырып: «Ай, мырзам! Ал ⟨карз⟩ эле», — деди.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "448e0ca9ff12856f3509e29114a52919d42231debc945d11a16bcf7b067c6657",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-kings\/6\/5-8.1791208706708.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Жана…болду"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "бирөө"
+    },
+    {
+      "surface": "מפיל",
+      "gloss": "кулаганда"
+    },
+    {
+      "surface": "הקורה",
+      "gloss": "устунду"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "темирди"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "темир"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "түшүп калды"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ичине"
+    },
+    {
+      "surface": "המים",
+      "gloss": "суу"
+    },
+    {
+      "surface": "ויצעק",
+      "gloss": "кыйкырып"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "деди"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "Ай"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "мырзам"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ал"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "⟨карз⟩ эле"
+    }
+  ],
+  "timestamp": "2026-10-05T13:58:26.708948666Z",
+  "model": "glm-5.3"
+}

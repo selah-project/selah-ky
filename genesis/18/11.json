@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 18:11",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "эди",
+      "rationale": "Кытай тилинин өткөн убактысы үчүн 'эди' кошулду, еврейче жок"
+    },
+    {
+      "kind": "substitution",
+      "subject": "жолу",
+      "rationale": "'ארח' - жол деген сөз, аялдардын физиологиялык жолун билдирет"
+    }
+  ],
+  "translation": "Аврахам менен Сара карыган, күндөрдүн биринде келген ⟨эди⟩; Саранын аялдардагыдай жолу болбой калган ⟨эди⟩.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "e820b53fd274361f4d5b7cf316391f465c90ceff0fdcb837f058ce9bb1a386c3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/18\/9-12.1791200991625.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואברהם",
+      "gloss": "Аврахам менен"
+    },
+    {
+      "surface": "ושרה",
+      "gloss": "Сара"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "кариган"
+    },
+    {
+      "surface": "באים",
+      "gloss": "келген"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "күндөрдүн биринде"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "болбой калган"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "болуу"
+    },
+    {
+      "surface": "לשרה",
+      "gloss": "Саранын"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "жолу"
+    },
+    {
+      "surface": "כנשים",
+      "gloss": "аялдардагыдай"
+    }
+  ],
+  "timestamp": "2026-10-05T11:49:51.626805469Z",
+  "model": "glm-5.3"
+}

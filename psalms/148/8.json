@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 148:8",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 148,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "руху",
+      "rationale": "רוח kept as рух per D2 — one word covering wind\/breath\/Spirit."
+    }
+  ],
+  "translation": "От жана мөңгү чөгүндүсү, кар жана туман; бороон-чуунун руху — Анын сөзүн аткаруучу.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "8a1ea9d970a6a07ae02a25b9c0c437023422c34240da20f834533a7ee05463f7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/148\/5-8.1791217684816.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "от"
+    },
+    {
+      "surface": "וברד",
+      "gloss": "жана мөңгү чөгүндүсү"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "кар"
+    },
+    {
+      "surface": "וקיטור",
+      "gloss": "жана туман"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "руху"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "бороон-чуунун"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "аткаруучу"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "Анын сөзүн"
+    }
+  ],
+  "timestamp": "2026-10-05T16:28:04.819966557Z",
+  "model": "glm-5.3"
+}

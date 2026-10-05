@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "hosea 12:13",
+  "book": "hosea",
+  "lang": "ky",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "кой кайтарды",
+      "rationale": "шамар — 'кайтарды, сактады' деген жалпы мааниде; контекст кой кайтарууну билдирет, бирок еврей текстинде 'кой' жок"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "באשה ובאשה שמר",
+      "rationale": "'аял үчүн — аял үчүн' кайталоо, баллада стилиндеги параллелизм, кыргызча сакталды"
+    }
+  ],
+  "translation": "Яаков Арам талаасына качып кетти, жана Йисраэл аял үчүн кызмат кылды, жана аял үчүн кой кайтарды.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "46b4d4b6dc765202222b342c48e87a245e42046b168da7cd2e16064f8115b9b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/hosea\/12\/13-15.1791213937615.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויברח",
+      "gloss": "качып кетти"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаков"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "талаасына"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Арам"
+    },
+    {
+      "surface": "ויעבד",
+      "gloss": "кызмат кылды"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэл"
+    },
+    {
+      "surface": "באשה",
+      "gloss": "аял үчүн"
+    },
+    {
+      "surface": "ובאשה",
+      "gloss": "жана аял үчүн"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "кой кайтарды"
+    }
+  ],
+  "timestamp": "2026-10-05T15:25:37.616127607Z",
+  "model": "glm-5.3"
+}

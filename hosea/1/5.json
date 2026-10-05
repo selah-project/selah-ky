@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 1:5",
+  "book": "hosea",
+  "lang": "ky",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Мен",
+      "rationale": "Этиштин жак мүчөсү ивритте жок, кыргызча ачык айтуу үчүн кошулду"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יזרעאל",
+      "rationale": "Йизреэл аталышы 4-аяттагы кандуу Йизреэл менен жана Элохимдин үрөн себүүсү (זרע) менен кайрылуу катары кайталанат"
+    }
+  ],
+  "translation": "Ошол күнү Йисраэлдин ⟨את⟩ жаасын Йизреэл өрөөнүндө сындырамын.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "0815d649f9d8b549fc7f21c384dc54e6dd985d4fc56ed2d2e23f2328c3713344",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/hosea\/1\/5-8.1791213888837.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "болот"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "күнү"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ошол"
+    },
+    {
+      "surface": "ושברתי",
+      "gloss": "сындырамын"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Йисраэлдин жаасын"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "жаасын"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэлдин"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "өрөөнүндө"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Йизреэл"
+    }
+  ],
+  "timestamp": "2026-10-05T15:24:48.837640450Z",
+  "model": "glm-5.3"
+}

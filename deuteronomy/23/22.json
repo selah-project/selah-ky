@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 23:22",
+  "book": "deuteronomy",
+  "lang": "ky",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "דרש ידרשׁנו",
+      "rationale": "инфинитив абсолют кайрылуу — 'так талап кылат', эки тамырдын кайталанышы"
+    },
+    {
+      "kind": "you",
+      "subject": "Йисраэлге",
+      "rationale": "ант боюнча тике кайрылуу"
+    }
+  ],
+  "translation": "Эгер Яхвеге, сенин Элохимиңе ант берсең, аны аткаруудан кечикпе, анткени Яхве, сенин Элохимиң, аны сенден так талап кылат, жана сенде күнөө болот.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "3515179111441dfa20f25aa020dff171656a1a1981a66aa74186436370e98879",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/23\/21-24.1791205199417.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "эгер"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "ант берсең"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "ант"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхвеге"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "сенин Элохимиңе"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "кечикпе"
+    },
+    {
+      "surface": "לשלמו",
+      "gloss": "аны аткаруудан"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "талап"
+    },
+    {
+      "surface": "ידרשנו",
+      "gloss": "аны талап кылат"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "сенин Элохимиң"
+    },
+    {
+      "surface": "מעמך",
+      "gloss": "сенден"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "жана болот"
+    },
+    {
+      "surface": "בך",
+      "gloss": "сенде"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "күнөө"
+    }
+  ],
+  "timestamp": "2026-10-05T12:59:59.418558151Z",
+  "model": "glm-5.3"
+}

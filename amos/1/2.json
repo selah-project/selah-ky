@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "amos 1:2",
+  "book": "amos",
+  "lang": "ky",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ыңырайт",
+      "rationale": "שאג — арстандын күркүрөгөнү; Яхвеге карата колдонулат, кыргызча жырткычтын үнү менен берилди"
+    },
+    {
+      "kind": "addition",
+      "subject": "ошондо",
+      "rationale": "жыйынтык clause'ду байланыштыруу үчүн кошулду"
+    }
+  ],
+  "translation": "Жана ал айтты: Яхве Сиондон ыңырайт жана Йерушалайимден Үнүн чыгарат, ошондо койчулардын жайлоолору кошок тартат жана Кармелдин чокусу куурайт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "556b396dade6b4c5de378a20456f8a43db9a81aca80b568114318f8b13d623cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/amos\/1\/1-4.1791214254988.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Жана ал айтты"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "Сиондон"
+    },
+    {
+      "surface": "ישאג",
+      "gloss": "ыңырайт"
+    },
+    {
+      "surface": "ומירושלם",
+      "gloss": "жана Йерушалайимден"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "чыгарат"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "Үнүн"
+    },
+    {
+      "surface": "ואבלו",
+      "gloss": "кошок тартат"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "жайлоолору"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "койчулардын"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "куурайт"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "чокусу"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "Кармелдин"
+    }
+  ],
+  "timestamp": "2026-10-05T15:30:54.988955891Z",
+  "model": "glm-5.3"
+}

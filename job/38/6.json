@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 38:6",
+  "book": "job",
+  "lang": "ky",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "бурч ташы",
+      "rationale": "אבן פנה — букв. «бурч ташы», имараттын бурчундагы таш."
+    },
+    {
+      "kind": "measurement",
+      "subject": "пайдубал",
+      "rationale": "Жер имарат катары сүрөттөлөт: пайдубал, бурч ташы."
+    }
+  ],
+  "translation": "Анын пайдубалдары эмненин үстүнө батырылды? Же анын бурч ташын ким коюп берди?",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "35623f0b1f61aaee2571be6a4edbafacd83698cf0771b2e2e12f37b8aa57a482",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/job\/38\/5-8.1791219437407.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "үстүнө"
+    },
+    {
+      "surface": "מה",
+      "gloss": "эмненин"
+    },
+    {
+      "surface": "אדניה",
+      "gloss": "пайдубалдары"
+    },
+    {
+      "surface": "הטבעו",
+      "gloss": "батырылды"
+    },
+    {
+      "surface": "או",
+      "gloss": "же"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ким"
+    },
+    {
+      "surface": "ירה",
+      "gloss": "коюп берди"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "ташын"
+    },
+    {
+      "surface": "פנתה",
+      "gloss": "бурч"
+    }
+  ],
+  "timestamp": "2026-10-05T16:57:17.408345018Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,128 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 18:10",
+  "book": "1-kings",
+  "lang": "ky",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "חי יהוה אם",
+      "rationale": "Ант формуласы: «Яхве тирүү... эгерде» — шарттык אם ант маанисинде, реалдуу шарт эмес."
+    },
+    {
+      "kind": "you",
+      "subject": "Элияхуга",
+      "rationale": "Обадия Элияхуга сүйлөп жатат; אדני бул жерде адам — Ахав — жөнүндө."
+    }
+  ],
+  "translation": "Яхве, сенин Элохимиң тирүү — мырзам сени издөө үчүн жибербеген эл жана падышалык жок; алар «жок» дегенде, ал ⟨את⟩ падышалыкты жана ⟨את⟩ элди ант ичтирди, анткени сен табылбайсың.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "4b0c4c5dc21bfd004cf0ce2f3e00097a96ceade25a02410306408cde8f6a2423",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-kings\/18\/9-12.1791208470883.json",
+    "code": "641241cf-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חי",
+      "gloss": "тирүү"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "сенин Элохимиң"
+    },
+    {
+      "surface": "אם",
+      "gloss": "эгерде"
+    },
+    {
+      "surface": "יש",
+      "gloss": "бар"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "эл"
+    },
+    {
+      "surface": "ווממלכה",
+      "gloss": "жана падышалык"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ал жерде"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "жиберген"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "мырзам"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ал жакка"
+    },
+    {
+      "surface": "לבקשך",
+      "gloss": "сени издөө үчүн"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "жана алар айтышты"
+    },
+    {
+      "surface": "אין",
+      "gloss": "жок"
+    },
+    {
+      "surface": "והשביע",
+      "gloss": "жана ант ичтирди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "падышалыкты"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "падышалыкты"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "жана ⟨את⟩",
+      "marks": "элди"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "элди"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "ימצאכה",
+      "gloss": "табылбайсың"
+    }
+  ],
+  "timestamp": "2026-10-05T13:54:30.883954592Z",
+  "model": "glm-5.3"
+}

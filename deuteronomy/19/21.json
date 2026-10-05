@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 19:21",
+  "book": "deuteronomy",
+  "lang": "ky",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жан",
+      "rationale": "נפש — дем алуучу жандык, жандын күчү; «жан» деген эң жакын, бирок кеңири мааниде"
+    },
+    {
+      "kind": "idiom",
+      "subject": "בנפש ж.б.",
+      "rationale": "«неге» конструкциясы «ордуна \/ барабар» деген лекс талионисиди билдирет; кыргызча «...нын ордуна» менен берилди"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עין בעין ... רגל ברגל",
+      "rationale": "беш катардагы окшош түзүлүш — өтө так өлчөө риторикасы, кыргызча да катар сакталды"
+    },
+    {
+      "kind": "measurement",
+      "subject": "лекс талионис",
+      "rationale": "жаза бирдей өлчөм менен өлчөнөт: жан, көз, тиш, кол, бут"
+    }
+  ],
+  "translation": "Жана көзүң аябасын: жан — ⟨את⟩ жандын ордуна, көз — көздүн ордуна, тиш — тиштин ордуна, кол — колдун ордуна, бут — буттун ордуна.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "edbabdf5da33fdfb17351659669753377b0ecdf07b7c498ce0af80c7dc64517b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/19\/21-21.1791205062564.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "жана ... бас"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "аябасын"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "көзүң"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "жан"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "жандын ордуна"
+    },
+    {
+      "surface": "עין",
+      "gloss": "көз"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "көздүн ордуна"
+    },
+    {
+      "surface": "שן",
+      "gloss": "тиш"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "тиштин ордуна"
+    },
+    {
+      "surface": "יד",
+      "gloss": "кол"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "колдун ордуна"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "бут"
+    },
+    {
+      "surface": "ברגל",
+      "gloss": "буттун ордуна"
+    }
+  ],
+  "timestamp": "2026-10-05T12:57:42.565405708Z",
+  "model": "glm-5.3"
+}

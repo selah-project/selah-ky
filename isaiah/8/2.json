@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 8:2",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "тургузам",
+      "rationale": "ואעידה — 'кайталап күбөлөндүрөм'; кыргыз сүйлөмүнө этиш керек болду."
+    },
+    {
+      "kind": "measurement",
+      "subject": "күбөлөрдүн аттары",
+      "rationale": "Эки күбөнүн аттары аталып жатат — расмий күбөлөндүрүү актысы."
+    }
+  ],
+  "translation": "Жана мага ылайык ⟨кушумду⟩ ишенчүү күбөлөрдү — ⟨את⟩ Урияны, ыйык кызмат кылуучуну, жана ⟨את⟩ Зехарйаны, Йеверхйанын уулун — тургузам.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "e2d06167ceeb8678f62676fc08be23cbdbd69f391e823400572719e4f3f4f4ca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/8\/1-4.1791209442915.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואעידה",
+      "gloss": "жана күбөлөндүрөм"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мага"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "күбөлөрдү"
+    },
+    {
+      "surface": "נאמנים",
+      "gloss": "ишенчүү"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Урияны"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Урияны"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ыйык кызмат кылуучу"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "жана ⟨את⟩",
+      "marks": "Зехарйаны"
+    },
+    {
+      "surface": "זכריהו",
+      "gloss": "Зехарйаны"
+    },
+    {
+      "surface": "בן",
+      "gloss": "уулу"
+    },
+    {
+      "surface": "יברכיהו",
+      "gloss": "Йеверхйанын"
+    }
+  ],
+  "timestamp": "2026-10-05T14:10:42.916718584Z",
+  "model": "glm-5.3"
+}

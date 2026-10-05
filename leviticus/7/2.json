@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 7:2",
+  "book": "leviticus",
+  "lang": "ky",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kurmandyk chalynа turgan жыгачтын",
+      "rationale": "המזבח — ыйык tables\/altar; туура кыргыз форма: курмандык чалына турган жыгач"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ישחטו...ישחטו",
+      "rationale": "Этиш эки жолу кайталанат — орун байланышын бекемдейт"
+    }
+  ],
+  "translation": "Өрттөлүүчү курмандык союлган жерде айып курмандыгын союшат, жана анын канын курмандык чалына турган жыгачтын үстүнө айланта чачышат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "000c27701f6384e678ace380bcde0df4f5c26af47cf542d345bf65d8bb2cc244",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/7\/1-4.1791202898564.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "במקום",
+      "gloss": "жерде"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wehrде"
+    },
+    {
+      "surface": "ישחטו",
+      "gloss": "союшат"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "өрттөлүүчү курмандыкты"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "өрттөлүүчү курмандык"
+    },
+    {
+      "surface": "ישחטו",
+      "gloss": "союшат"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "айып курмандыгын"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "айып курмандыгы"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "жана ⟨את⟩",
+      "marks": "анын канын"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "анын канын"
+    },
+    {
+      "surface": "יזרק",
+      "gloss": "чачышат"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстүнө"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "kurmandyk chalynа turgan жыгачтын"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "айланта"
+    }
+  ],
+  "timestamp": "2026-10-05T12:21:38.565660533Z",
+  "model": "glm-5.3"
+}

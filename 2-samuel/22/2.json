@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 22:2",
+  "book": "2-samuel",
+  "lang": "ky",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "—",
+      "rationale": "Еврейче этти айтылбайт; кыргызча «Яхве — ...» деген ээликтин байланышы кошулду"
+    },
+    {
+      "kind": "crux",
+      "subject": "ומצדתי",
+      "rationale": "מצדה — «туташ» же «бекемдик»: «тутум» эмес, «бекем чеп» мааниси алынды"
+    }
+  ],
+  "translation": "Ал мындай деди: Яхве — менин аска-тоом, менин бекем чептим, менин куткаруучум.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "22829b331f01b37e5e509c3177c4a99e24074ca3f0057e4dd5dd4cb715f1d438",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-samuel\/22\/1-4.1791207817438.json",
+    "code": "641241cf-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ал мындай деди"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "аска-тоом"
+    },
+    {
+      "surface": "ומצדתי",
+      "gloss": "бекем чептим"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "куткаруучум"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мага"
+    }
+  ],
+  "timestamp": "2026-10-05T13:43:37.438972231Z",
+  "model": "glm-5.3"
+}

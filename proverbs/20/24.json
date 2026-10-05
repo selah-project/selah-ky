@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 20:24",
+  "book": "proverbs",
+  "lang": "ky",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "болот",
+      "rationale": "Еврейче «Яхведен эркектин кадамдары» — предикатсыз; кыргызча тилге ⟨болот⟩ копуласы кошулду."
+    },
+    {
+      "kind": "mystery",
+      "subject": "адам өз жолун түшүнбөйт",
+      "rationale": "Осьют адамдын жолу анын өзүнө жашырынганын билдирет — атайылап жабык, түшүнүксүз нерсе."
+    },
+    {
+      "kind": "alternative",
+      "subject": "גבר менен אדам",
+      "rationale": "Эки сөз тең «адам»; биринчиси — күчтүү эркек (гебер), экинчиси — жалпы адам; айырма кыргызча «эркек» жана «адам» менен сакталды."
+    }
+  ],
+  "translation": "Эркектин кадамдары Яхведен ⟨болот⟩, адам болсо өз жолун кайдан түшүнсүн?",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "ab643a5f95b9cdf83f94fc9e279b2f8ffca203d0efdbdd61a83f4b8eeae0ae8f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/20\/21-24.1791218198579.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מיהוה",
+      "gloss": "Яхведен"
+    },
+    {
+      "surface": "מצעדי",
+      "gloss": "кадамдары"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "эркектин"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "адам"
+    },
+    {
+      "surface": "מה",
+      "gloss": "кайдан"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "түшүнсүн"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "өз жолун"
+    }
+  ],
+  "timestamp": "2026-10-05T16:36:38.580020132Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nahum 2:9",
+  "book": "nahum",
+  "lang": "ky",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עמדו עמדו",
+      "rationale": "Кайталануу — өтүнүчтүн ыргактуу кош айтылышы, кыргызча «Токтогула, токтогула!» менен сакталды"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨болгон⟩",
+      "rationale": "Еврейче этиш жок; кыргыз тилинин салыштыруу сүйлөмүнө эрежелик «болгон» керек"
+    },
+    {
+      "kind": "crux",
+      "subject": "מימי היא",
+      "rationale": "«Күндөрү бою» (KJV «заманынан бери») же «ан сууларынан» — дагы бир окуу"
+    }
+  ],
+  "translation": "Жана Ниневе көлмөдөй суу — күндөрү бою ⟨болгон⟩, жана алар качышат: «Токтогула, токтогула!» — бирок артка бурулган жок.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "e4b0faf6c8ccb81376b6c815a7cc3c508746db00cfd0a7109f1831b743b77b1f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/nahum\/2\/9-12.1791214636168.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונינוה",
+      "gloss": "Жана Ниневе"
+    },
+    {
+      "surface": "כברכת",
+      "gloss": "көлмөдөй"
+    },
+    {
+      "surface": "מים",
+      "gloss": "суу"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "күндөрү бою"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨ал⟩"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "жана алар"
+    },
+    {
+      "surface": "נסים",
+      "gloss": "качышат"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "Токтогула"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "токтогула"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "жана жок"
+    },
+    {
+      "surface": "מפנה",
+      "gloss": "артка бурулган"
+    }
+  ],
+  "timestamp": "2026-10-05T15:37:16.169386556Z",
+  "model": "glm-5.3"
+}

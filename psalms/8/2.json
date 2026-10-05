@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 8:2",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨канча⟩",
+      "rationale": "מה экламмациялык «канча\/кандай», кыргызда сүйлөм керектейт"
+    },
+    {
+      "kind": "crux",
+      "subject": "תנה הודך על השמים",
+      "rationale": "«даңкыңды асман үстүнө койдуң» (KJV, BSB) же «даңкың асман үстүндө айтылат» (JPS) — этиштин багыты боюнча талаш"
+    },
+    {
+      "kind": "you",
+      "subject": "Яхвеге",
+      "rationale": "Салам палмасы түз Яхвеге багытталган"
+    }
+  ],
+  "translation": "Яхве, Адонайыбыз, ⟨канча⟩ улуу Сенин ысымың бүт жер үстүндө, ⟨Сен⟩ берген даңкыңды асман үстүнө!",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "6a6c2f52fd99c85af060df0d891eca0772a9f08a156742440f7d3fb3d35f6a97",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/8\/1-4.1791215356801.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "Адонайыбыз"
+    },
+    {
+      "surface": "מה",
+      "gloss": "⟨канча⟩"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "улуу"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ысымың"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "бүт"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "жер үстүндө"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨Сен⟩"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "берген"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "даңкыңды"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстүнө"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "асман"
+    }
+  ],
+  "timestamp": "2026-10-05T15:49:16.802777997Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 10:2",
+  "book": "hosea",
+  "lang": "ky",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨Ал⟩",
+      "rationale": "הוא бөлүп көрсөтүлдү — ким жок кылары (Яхве) контексттен ачык."
+    },
+    {
+      "kind": "substitution",
+      "subject": "יערף",
+      "rationale": "Тамыры 'мойнун сындыруу' — 'жок кылат' деп жумшартылды."
+    }
+  ],
+  "translation": "Алардын жүрөгү эки бөлүндү; азыр алар күнөөлүү болушат — ⟨Ал⟩ алардын курмандыктарын жок кылат, мамы-таштарын талкалайт.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "514d2d64ced78773a04c33ef7a321166b6b8152e320c2ce463615df8dfe7ec7e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/hosea\/10\/1-4.1791214096486.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חלק",
+      "gloss": "эки бөлүндү"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "жүрөгү"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "азыр"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "күнөөлүү болушат"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨Ал⟩"
+    },
+    {
+      "surface": "יערף",
+      "gloss": "жок кылат"
+    },
+    {
+      "surface": "מזבחותם",
+      "gloss": "курмандыктарын"
+    },
+    {
+      "surface": "ישדד",
+      "gloss": "талкалайт"
+    },
+    {
+      "surface": "מצבותם",
+      "gloss": "мамы-таштарын"
+    }
+  ],
+  "timestamp": "2026-10-05T15:28:16.487533328Z",
+  "model": "glm-5.3"
+}

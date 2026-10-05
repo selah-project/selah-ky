@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 90:17",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 90,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נעם",
+      "rationale": "'жагымдуулук' vs 'сулуулук' (KJV beauty) vs 'ырайым' (JPS graciousness) — literally agreeableness, pleasantness"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ומעשה ידינו כוננה",
+      "rationale": "Repetition of the same phrase with only the suffix changed (עלינו \/ הו) — a strengthening echo, a crescendo of the plea"
+    },
+    {
+      "kind": "addition",
+      "subject": "ооба",
+      "rationale": "The Hebrew repetition itself carries the affirming force; kyrgyz adds 'ооба' to render the emphatic doubling naturally"
+    },
+    {
+      "kind": "you",
+      "subject": "to Adonai",
+      "rationale": "Direct petition — a prayer of the community to God"
+    }
+  ],
+  "translation": "Жана болсун Адонайдын, Элохимибиздин, жагымдуулугу биздин үстүбүзгө; жана колубуздун ишин биз үчүн бекемде; ооба, колубуздун ишин ⟨аны⟩ бекемде.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "19b3ecc4a0a9a66a2e90b254550fc632b7e3b1273c2bff9c0a2fbd340ecf53e4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/90\/17-17.1791216827142.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "жана болсун"
+    },
+    {
+      "surface": "נעם",
+      "gloss": "жагымдуулугу"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонайдын"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Элохимибиздин"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "биздин үстүбүзгө"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "жана колубуздун ишин"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "колубуздун"
+    },
+    {
+      "surface": "כוננה",
+      "gloss": "бекемде"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "биз үчүн"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "ооба, колубуздун ишин"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "колубуздун"
+    },
+    {
+      "surface": "כוננהו",
+      "gloss": "аны бекемде"
+    }
+  ],
+  "timestamp": "2026-10-05T16:13:47.142774154Z",
+  "model": "glm-5.3"
+}

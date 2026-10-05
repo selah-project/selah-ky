@@ -1,0 +1,130 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 1:5",
+  "book": "leviticus",
+  "lang": "ky",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "бодо баласы",
+      "rationale": "בן הבקר сөзмөсөр 'уйдун уулу' — YLT 'son of the herd' сактайт"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ыйкым",
+      "rationale": "כהן — 'кийим кийген кызмат кылуучу', ыйкым — кыргыз салттык дини термины"
+    },
+    {
+      "kind": "elision",
+      "subject": "מועד",
+      "rationale": "Жолугуу Чатыры — 'белгиленген убакта жолугуу чатыры', кыскартылды"
+    }
+  ],
+  "translation": "Жана ал ⟨את⟩ бодо баласын Яхвенин алдында союп алат; жана Ахарондын уулдары — ыйкымдар — ⟨את⟩ канд алып келишет, жана ⟨את⟩ канд чөңгөлөгөн Ыйык Чатырдын (Жолугуу Чатырынын) кире беришиндеги курмандык чарчысына чачышат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "7ab9af0c71b0302942b0f6a2cfe83901fe36afeeb8c96ce7d95b609a9e04c55f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/1\/5-8.1791202812865.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "жана союп алат"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "бодо баласын"
+    },
+    {
+      "surface": "בן",
+      "gloss": "баласын"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "бодо"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "алдында"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    },
+    {
+      "surface": "והקריבו",
+      "gloss": "жана алып келишет"
+    },
+    {
+      "surface": "בני",
+      "gloss": "уулдары"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Ахарондын"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ыйкымдар"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "канд"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "канд"
+    },
+    {
+      "surface": "וזרקו",
+      "gloss": "жана чачышат"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "канд"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "канд"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстүнө"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "курмандык чарчысына"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "чөңгөлөгөн"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ал"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "кире беришинде"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Чатырдын"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Жолугуунун"
+    }
+  ],
+  "timestamp": "2026-10-05T12:20:12.866164774Z",
+  "model": "glm-5.3"
+}

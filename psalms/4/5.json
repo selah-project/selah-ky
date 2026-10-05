@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 4:5",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "дүүлүгүңөр",
+      "rationale": "רגזו: «титиреңер\/коркоңор» (KJV, LXX-ден) же «ачууланыңар» (BSB, Павелдын айдоосу боюнча) деген талаш."
+    },
+    {
+      "kind": "elision",
+      "subject": "סלה",
+      "rationale": "Музыкалык тыныштуу белги, «Села» деп айтылышынча калды."
+    }
+  ],
+  "translation": "Дүүлүгүңөр, бирок күнөө кылбагыла; төшөгүңөрдө жатканда жүрөгүңөрдө айтып, унчукпай туругула. Села.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "a3bd87c48661f56309d6a35bebae66b06a6ceb9024570ce214dcf6a4d178f119",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/4\/5-8.1791215322242.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רגזו",
+      "gloss": "дүүлүгүңөр"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "бирок... болбогула"
+    },
+    {
+      "surface": "תחטאו",
+      "gloss": "күнөө кылбагыла"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "айтып"
+    },
+    {
+      "surface": "בלבבכם",
+      "gloss": "жүрөгүңөрдө"
+    },
+    {
+      "surface": "על",
+      "gloss": "үстүндө"
+    },
+    {
+      "surface": "משכבכם",
+      "gloss": "төшөгүңөрдө"
+    },
+    {
+      "surface": "ודמו",
+      "gloss": "унчукпай туругула"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Села"
+    }
+  ],
+  "timestamp": "2026-10-05T15:48:42.243121793Z",
+  "model": "glm-5.3"
+}

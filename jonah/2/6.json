@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jonah 2:6",
+  "book": "jonah",
+  "lang": "ky",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жан",
+      "rationale": "נפש — «дем алуу\/жашоо күчү» дегенге жакын; «жан» кеңири кабыл алынган сөз"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אפפוני \/ יסבבני",
+      "rationale": "Эки этиш тең «курчоо» маанисин кайталайт — суу курчоосу эки жолу айтылат"
+    }
+  ],
+  "translation": "Суулар мени жанымча чейин курчап алды, тереңдик мени айланып турду, камыш башыма оролду.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "8db7c2e82440410234718a588ea9ab66e213514c3311f2eafedae4ad8e5beceb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/jonah\/2\/5-8.1791214496986.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אפפוני",
+      "gloss": "курчап алды"
+    },
+    {
+      "surface": "מים",
+      "gloss": "суулар"
+    },
+    {
+      "surface": "עד",
+      "gloss": "чейин"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "жан"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "тереңдик"
+    },
+    {
+      "surface": "יסבבני",
+      "gloss": "айланып турду"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "камыш"
+    },
+    {
+      "surface": "חבוש",
+      "gloss": "оролду"
+    },
+    {
+      "surface": "לראשי",
+      "gloss": "башыма"
+    }
+  ],
+  "timestamp": "2026-10-05T15:34:56.987588993Z",
+  "model": "glm-5.3"
+}

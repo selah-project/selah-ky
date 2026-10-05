@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 16:5",
+  "book": "job",
+  "lang": "ky",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "кайгыңарды",
+      "rationale": "Ивритте түз толуктооч жок; יחשך (кармоо\/жеңилдетүү) эмнени кармары айтылбайт — котормолор ‹кайгы› деген сөздү кошот"
+    },
+    {
+      "kind": "crux",
+      "subject": "יחשך",
+      "rationale": "KJV\/ASV ‹жеңилдетээр› десе, YLT ‹кармап калмак› (сактоо мааниси) дейт — тамырдын эки тарабы"
+    }
+  ],
+  "translation": "Мен сиздерди оозум менен чыңдар элеем, жана эриндеримдин кыймылы ⟨кайгыңарды⟩ жеңилдетир эле.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "2b6058477af1c51aa8945a59328f7198c46bc683b356ae84f066428ba4864521",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/job\/16\/5-8.1791218908728.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אאמצכם",
+      "gloss": "сиздерди-чыңдар-элеем"
+    },
+    {
+      "surface": "במו",
+      "gloss": "менен"
+    },
+    {
+      "surface": "פי",
+      "gloss": "оозум"
+    },
+    {
+      "surface": "וניד",
+      "gloss": "жана-кыймылы"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "эриндеримдин"
+    },
+    {
+      "surface": "יחשך",
+      "gloss": "жеңилдетир-эле"
+    }
+  ],
+  "timestamp": "2026-10-05T16:48:28.729031935Z",
+  "model": "glm-5.3"
+}

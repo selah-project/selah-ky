@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 6:6",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Сенин",
+      "rationale": "Кыргызча ээликтик мамиле талап кылат; еврейче זכרך мүчөдө ээни камтыйт"
+    },
+    {
+      "kind": "elision",
+      "subject": "тозок",
+      "rationale": "שאול — Шеол бойдон калды; жаза орду катары «тозок» БОЛБОЙТ"
+    }
+  ],
+  "translation": "Анткени өлүмдө Сенин эскерүүң жок; Шеолдо Саага ким алкыш айтат?",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "654446ea1857b20d0c48f0d4ee76169dcfe347c262c2c42551f3b5fd3270fb10",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/6\/5-8.1791215272793.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Анткени"
+    },
+    {
+      "surface": "אין",
+      "gloss": "жок"
+    },
+    {
+      "surface": "במות",
+      "gloss": "өлүмдө"
+    },
+    {
+      "surface": "זכרך",
+      "gloss": "эскерүүң"
+    },
+    {
+      "surface": "בשאול",
+      "gloss": "Шеолдо"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ким"
+    },
+    {
+      "surface": "יודה",
+      "gloss": "алкыш айтат"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Саага"
+    }
+  ],
+  "timestamp": "2026-10-05T15:47:52.793766315Z",
+  "model": "glm-5.3"
+}

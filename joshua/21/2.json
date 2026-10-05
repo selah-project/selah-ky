@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 21:2",
+  "book": "joshua",
+  "lang": "ky",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ביד משה",
+      "rationale": "«Мошенин колу аркылуу» — ыкма, «Моше аркылуу» деген мааниде"
+    },
+    {
+      "kind": "substitution",
+      "subject": "жайылар",
+      "rationale": "מ״גרש״ — шаардын ачык жайыты, мал жайыт; «пригород» эмес"
+    },
+    {
+      "kind": "you",
+      "subject": "Левилердин башчылары Элазар менен Йехошуага",
+      "rationale": "Түз сүйлөө — буюрукчул талап айтылат"
+    }
+  ],
+  "translation": "Жана алар Кенан жериндеги Шилоhдо аларга сүйлөштү: «Яхве Мошенин колу аркылуу бизге жашоо үчүн шаарларды жана алардын жайыларын малыбыз үчүн берүүнү буюрду» дешти.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "92a69add1cb4fa7f36ff9e3f0a1f650f50705e020048a428c01b7fd45e2b195d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/joshua\/21\/1-4.1791205928811.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידברו",
+      "gloss": "сүйлөштү"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "аларга"
+    },
+    {
+      "surface": "בשלה",
+      "gloss": "Шилоhдо"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "жериндеги"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Кенан"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "-деп"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "буюрду"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "колу аркылуу"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Мошенин"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "берүүнү"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "бизге"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "шаарларды"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "жашоо үчүн"
+    },
+    {
+      "surface": "ומגרשיהן",
+      "gloss": "жана алардын жайыларын"
+    },
+    {
+      "surface": "לבהמתנו",
+      "gloss": "малыбыз үчүн"
+    }
+  ],
+  "timestamp": "2026-10-05T13:12:08.812006372Z",
+  "model": "glm-5.3"
+}

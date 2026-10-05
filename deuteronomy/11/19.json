@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 11:19",
+  "book": "deuteronomy",
+  "lang": "ky",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "отурганыңда… турганыңда",
+      "rationale": "төрт кыркуу аракет (отуруу, жүрүү, жатуу, турмуш) күнү-түнү дегенди камтыйт"
+    }
+  ],
+  "translation": "Жана ⟨את⟩ аларды ⟨את⟩ уулдарыңарга үйрөтүңөр, алар жөнүндө сүйлөш үчүн — үйүңдө отурганыңда, жолдо баратканыңда, жатканыңда жана турганыңда.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "bf9d61cdcc33eb40cbcedb8fcff71a0bfb4b7a78d261f4da31f7e3eb3c487429",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/11\/17-20.1791204905407.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולמדתם",
+      "gloss": "жана үйрөтүңөр"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ аларды",
+      "marks": "аларды (сөздөрдү)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "уулдарыңарды"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "уулдарыңарга"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "сүйлөш үчүн"
+    },
+    {
+      "surface": "בם",
+      "gloss": "алар жөнүндө"
+    },
+    {
+      "surface": "בשבתך",
+      "gloss": "отурганыңда"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "үйүңдө"
+    },
+    {
+      "surface": "ובלכתך",
+      "gloss": "жана баратканыңда"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "жолдо"
+    },
+    {
+      "surface": "ובשכבך",
+      "gloss": "жана жатканыңда"
+    },
+    {
+      "surface": "ובקומך",
+      "gloss": "жана турганыңда"
+    }
+  ],
+  "timestamp": "2026-10-05T12:55:05.408888144Z",
+  "model": "glm-5.3"
+}

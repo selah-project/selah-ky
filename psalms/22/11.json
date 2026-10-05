@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 22:11",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "השלכתי עליך",
+      "rationale": "Буквально «Сага ыргытылдым» — «өзүмдү Сага тапшырдым» деген идиома"
+    }
+  ],
+  "translation": "Сага жыгылдым карындан, энемдин карынынан — менин Элим Сенсиң.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "47a0de3be98c730c1580e429d33f1946bf0c6d0015ef3530c8c85d945dbaba10",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/22\/9-12.1791215581711.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עליך",
+      "gloss": "Сага"
+    },
+    {
+      "surface": "השלכתי",
+      "gloss": "жыгылдым"
+    },
+    {
+      "surface": "мרחם",
+      "gloss": "карындан"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "карынынан"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "энемдин"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Элим"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Сенсиң"
+    }
+  ],
+  "timestamp": "2026-10-05T15:53:01.712655244Z",
+  "model": "glm-5.3"
+}

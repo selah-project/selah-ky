@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 13:15",
+  "book": "job",
+  "lang": "ky",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לא איחל",
+      "rationale": "'күтпейм' (литургиялык окуунун вав-сиз формасы) же KJV\/JPS салтында 'Ага үмүт кылам' — тексттин эң белгилүү талаштуу жери"
+    },
+    {
+      "kind": "substitution",
+      "subject": "өлтүрсө",
+      "rationale": "קטל — 'кесип таштоо, өлтүрүү'; сөзмө-сөз 'өлтүрсө' сакталды"
+    }
+  ],
+  "translation": "Карап тур, Ал мени өлтүрсө да — күтпейм; болгону жолдорумду Анын өз жүзүнө каршы акыйкаттайм.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "28a9d59e20e9fa2f8b6eb4b022750e0e8b03bccd4db98c27e95d5ef6662d1868",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/job\/13\/13-16.1791218797115.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "карап тур"
+    },
+    {
+      "surface": "יקטלני",
+      "gloss": "мени өлтүрсө"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "איחל",
+      "gloss": "күтпейм"
+    },
+    {
+      "surface": "אך",
+      "gloss": "болгону"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "жолдорумду"
+    },
+    {
+      "surface": "אל",
+      "gloss": "каршы"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "Анын өз жүзүнө"
+    },
+    {
+      "surface": "אוכיח",
+      "gloss": "акыйкаттайм"
+    }
+  ],
+  "timestamp": "2026-10-05T16:46:37.116650447Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 15:7",
+  "book": "proverbs",
+  "lang": "ky",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לא כן",
+      "rationale": "'андай эмес' — KJV 'doeth not so' vs YLT 'is not right'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "чачат",
+      "rationale": "יזרו 'элүү' (данды элүү) — билимди кеңири чачуу сүрөтү"
+    }
+  ],
+  "translation": "Даанышмандардын эриндери билимди чачат, наадандардын жүрөгү болсо андай эмес.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "37c8f20d94c77a270694137ac827fa8a9cf240f9f27269f655d367465573d74f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/15\/5-8.1791218049195.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שפתי",
+      "gloss": "эриндери"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "даанышмандардын"
+    },
+    {
+      "surface": "יזרו",
+      "gloss": "чачат"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "билимди"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "жүрөгү болсо"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "наадандардын"
+    },
+    {
+      "surface": "לא",
+      "gloss": "эмес"
+    },
+    {
+      "surface": "כן",
+      "gloss": "андай"
+    }
+  ],
+  "timestamp": "2026-10-05T16:34:09.196628075Z",
+  "model": "glm-5.3"
+}

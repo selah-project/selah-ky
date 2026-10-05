@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 94:23",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 94,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ал⟩",
+      "rationale": "Этиштин субъектиги кыргызча тактоо үчүн кошулду"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יצמיתם ... יצמיתם",
+      "rationale": "Этиш эки жолу кайталанат — жок кылууну бекемдөөчү риторикалык кайталоо"
+    }
+  ],
+  "translation": "Жана ⟨ал⟩ алардын жамандыгын ⟨את⟩ аларга кайтарат, алардын жамандыктары менен аларды жок кылат; Яхве, Элохимибиз, аларды жок кылат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "0f15ef12c275c81bdcb9a43b9ac6e3af98f1cdd262cee3fd259d75ed0ba68830",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/94\/21-23.1791216854153.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "кайтарат"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "аларга"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "жамандыгын"
+    },
+    {
+      "surface": "אונם",
+      "gloss": "жамандыгын"
+    },
+    {
+      "surface": "וברעתם",
+      "gloss": "жана алардын жамандыктары менен"
+    },
+    {
+      "surface": "יצמיתם",
+      "gloss": "жок кылат"
+    },
+    {
+      "surface": "יצמיתם",
+      "gloss": "жок кылат"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Элохимибиз"
+    }
+  ],
+  "timestamp": "2026-10-05T16:14:14.154717106Z",
+  "model": "glm-5.3"
+}

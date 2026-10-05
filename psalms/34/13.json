@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 34:13",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "көп",
+      "rationale": "ימים жалаң «күндөр»; «көп» контексттен алынган"
+    },
+    {
+      "kind": "invitation",
+      "subject": "окурманга суроо",
+      "rationale": "Аят окурманды тикелей чакырып турат: «Ким ал адам?»"
+    }
+  ],
+  "translation": "Ким ⟨ал⟩ адам — жашоону каалаган, көп күндөрдү сүйгөн, жакшыны көрүү үчүн?",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "9340de93813714082aaab1a58bdd9d43402dc62fe41600dabae2cb99405cc1f2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/34\/13-16.1791215839206.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ким"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "⟨ал⟩ адам"
+    },
+    {
+      "surface": "החפץ",
+      "gloss": "каалаган"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "жашоону"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "сүйгөн"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "көп күндөрдү"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "көрүү үчүн"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "жакшыны"
+    }
+  ],
+  "timestamp": "2026-10-05T15:57:19.207471094Z",
+  "model": "glm-5.3"
+}

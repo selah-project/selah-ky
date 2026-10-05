@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 4:11",
+  "book": "genesis",
+  "lang": "ky",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ал⟩",
+      "rationale": "Кыргызча «жерден наалат» байланышы ачык болушу үчүн көрсөткүч ⟨ал⟩ кошулду"
+    },
+    {
+      "kind": "idiom",
+      "subject": "оозун ачып",
+      "rationale": "Жердин «оозу» — жансыз нерсе адамча сүрөттөлүүдө; кыргызчада да ошол бойдон сакталды"
+    },
+    {
+      "kind": "crux",
+      "subject": "жерден наалаттансың",
+      "rationale": "מן האדמה: «жер тарабынан наалат» же «жерден куулган» — эки окуу бар"
+    }
+  ],
+  "translation": "Жана азыр сен ⟨ал⟩ жерден наалаттансың — ал жер ⟨את⟩ оозун ачып, сенин колуңдан бир тууганыңдын ⟨את⟩ канын кабыл алган.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "36506de47dcff9e45ababa2df96a4f965bde221c54e7f72affcb28c667ebeb99",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/4\/9-12.1791200742099.json",
+    "code": "752fd82b-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Жана азыр"
+    },
+    {
+      "surface": "ארור",
+      "gloss": "наалаттансың"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "сен"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-ден"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "жер"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ал"
+    },
+    {
+      "surface": "פצתה",
+      "gloss": "оозун ачып"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "өз оозун"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "оозун"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "кабыл алуу"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "канын"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "канын"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "бир тууганыңдын"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "колуңдан"
+    }
+  ],
+  "timestamp": "2026-10-05T11:45:42.100271211Z",
+  "model": "glm-5.3"
+}

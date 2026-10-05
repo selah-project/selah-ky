@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 122:9",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 122,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "сенин",
+      "rationale": "טוב לך 'сага жакшылык' — кыргызча ээлик мамиле үчүн ат атооч кошулду"
+    },
+    {
+      "kind": "crux",
+      "subject": "אבקשה",
+      "rationale": "кошумча-тамгаланган өткөн\/а түрү: 'издеймин' (ниет) же 'издем' (жаңыдан чечим)"
+    }
+  ],
+  "translation": "Яхвенин, биздин Элохимдин үйү үчүн мен сенин жакшылыгыңды издеймин.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "d1e3aadcf74eaea365fa585b1ed22047f7bc5a1a698b41f8f4f823d55d7dda26",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/122\/9-9.1791217412675.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "үчүн"
+    },
+    {
+      "surface": "בית",
+      "gloss": "үйү"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "биздин Элохимдин"
+    },
+    {
+      "surface": "אבקשה",
+      "gloss": "издеймин"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "жакшылыгыңды"
+    },
+    {
+      "surface": "לך",
+      "gloss": "сенин"
+    }
+  ],
+  "timestamp": "2026-10-05T16:23:32.676047712Z",
+  "model": "glm-5.3"
+}

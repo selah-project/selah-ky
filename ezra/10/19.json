@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezra 10:19",
+  "book": "ezra",
+  "lang": "ky",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "кол берүү",
+      "rationale": "'they gave their hand' — a solemn pledge gesture; rendered literally since Kyrgyz also understands a hand given in pledge"
+    },
+    {
+      "kind": "substitution",
+      "subject": "кожуша",
+      "rationale": "איל is a ram (a strong male sheep); rendered 'кожуша' — Kyrgyz lacks a single everyday word for ram"
+    }
+  ],
+  "translation": "Жана алар өз аялдарын чыгарууга ⟨колдорун⟩ беришти, жана күнөөлүү болгондуктан өз күнөөлөрү үчүн койлордон бир кожуша тартуулашты.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "32c703d9edb2e7b06e18d9a534e27769f8117fe78ad8db436a511f81e74fbb06",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ezra\/10\/17-20.1791221169183.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "беришти"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "колдорун"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "чыгарууга"
+    },
+    {
+      "surface": "נשיהם",
+      "gloss": "өз аялдарын"
+    },
+    {
+      "surface": "ואשמים",
+      "gloss": "күнөөлүү болгондуктан"
+    },
+    {
+      "surface": "איל",
+      "gloss": "бир кожуша"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "койлордон"
+    },
+    {
+      "surface": "על",
+      "gloss": "үчүн"
+    },
+    {
+      "surface": "אשמתם",
+      "gloss": "өз күнөөлөрү"
+    }
+  ],
+  "timestamp": "2026-10-05T17:26:09.184357603Z",
+  "model": "glm-5.3"
+}

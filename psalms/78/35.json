@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 78:35",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨бул⟩",
+      "rationale": "Еврейче байланыш этиши жок, кыргызча аныктама сүйлөм талап кылат"
+    },
+    {
+      "kind": "substitution",
+      "subject": "куткаруучу",
+      "rationale": "גואל — жакын тууган-кокусун куткаруучу, 'redeemer' үй-бүлөлүк милдет маанисинде"
+    }
+  ],
+  "translation": "Жана алар эстешти, анткени Элохим ⟨бул⟩ алардын аскасы, жана Эл Эң Жогорку ⟨бул⟩ алардын куткаруучусу.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "2b971d857eeacbd88287acb27b1a30f59104f8a47b10e9f68508965e551653f6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/78\/33-36.1791216632894.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויזכרו",
+      "gloss": "алар эстешти"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "צורם",
+      "gloss": "алардын аскасы"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "жана Эл"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Эң Жогорку"
+    },
+    {
+      "surface": "גאלם",
+      "gloss": "алардын куткаруучусу"
+    }
+  ],
+  "timestamp": "2026-10-05T16:10:32.895241624Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,147 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 14:7",
+  "book": "deuteronomy",
+  "lang": "ky",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "таза эмес",
+      "rationale": "טמא literally «булганган, диний жактан тыйылган» — «таза эмес» деп жумшартылды"
+    },
+    {
+      "kind": "crux",
+      "subject": "השפן",
+      "rationale": "Шафан — таш коён (гиракс) деп аныкталат; еврейче айтылышы боюнча сакталды"
+    },
+    {
+      "kind": "you",
+      "subject": "Йисраэлге",
+      "rationale": "Тыйуу тизмеси тікелей Йисраэлге багытталган"
+    }
+  ],
+  "translation": "Бирок муну жей албайсыңар: кайра чайналган тамакты кайтаргандардан жана туягы ачык бөлүнгөндөрдөн — ⟨את⟩ төөнү, жана ⟨את⟩ коёнду, жана ⟨את⟩ шафанды; анткени алар кайра чайналган тамакты кайтарышат, бирок туягын ажыратышпайт — алар силерге таза эмес.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "97825781facfb1fcb05fbe0c2a2ebb9533495643192486c6f4346725f79557e6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/14\/5-8.1791205043401.json",
+    "code": "f71bac6e-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "бирок"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "муну"
+    },
+    {
+      "surface": "זה",
+      "gloss": "бул"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "жейсиңер"
+    },
+    {
+      "surface": "ממעלי",
+      "gloss": "кайтаргандардан"
+    },
+    {
+      "surface": "הגרה",
+      "gloss": "кайра чайналган тамак"
+    },
+    {
+      "surface": "וממפריסי",
+      "gloss": "жана ажыраткандардан"
+    },
+    {
+      "surface": "הפרסה",
+      "gloss": "туяктын"
+    },
+    {
+      "surface": "השסועה",
+      "gloss": "ачык бөлүнгөн"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "төөнү"
+    },
+    {
+      "surface": "הגמל",
+      "gloss": "төө"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "коёнду"
+    },
+    {
+      "surface": "הארנבת",
+      "gloss": "коён"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "шафанды"
+    },
+    {
+      "surface": "השפן",
+      "gloss": "шафан"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "кайтарат"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "кайра чайналган тамак"
+    },
+    {
+      "surface": "המה",
+      "gloss": "алар"
+    },
+    {
+      "surface": "ופרסה",
+      "gloss": "жана туягын"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "הפריסו",
+      "gloss": "ажыратышпайт"
+    },
+    {
+      "surface": "טמאים",
+      "gloss": "таза эмес"
+    },
+    {
+      "surface": "הם",
+      "gloss": "алар"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "силерге"
+    }
+  ],
+  "timestamp": "2026-10-05T12:57:23.402573957Z",
+  "model": "glm-5.3"
+}

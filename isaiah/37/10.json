@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 37:10",
+  "book": "isaiah",
+  "lang": "ky",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Хизкияга, Йехуда падышасына",
+      "rationale": "Ашурдун элчилери аркылуу Хизкияга түз кайрылуу"
+    },
+    {
+      "kind": "substitution",
+      "subject": "алдабасын",
+      "rationale": "נשאא — «алдоо, адаштыруу»; йылт articulate reading: «сени шыктандырбасын» деген да окуу бар"
+    },
+    {
+      "kind": "addition",
+      "subject": "тышында аты",
+      "rationale": "«Элохим» жана «падыша» тизмелери кыргызча илик мүчөсүн талап кылат"
+    }
+  ],
+  "translation": "«Мына ушундай айткыла Хизкияга, Йехуда падышасына: Сен таянган Элохиминг сени алдабасын, «Йерушалайим Ашур падышасынын колуна берилбейт» деп».",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "58a2d0b98f488fcc482ba781196e6d88a694931f50e6ace27ff4aa848dfffddb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/37\/9-12.1791210019886.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "мына ушундай"
+    },
+    {
+      "surface": "тאמרון",
+      "gloss": "айткыла"
+    },
+    {
+      "surface": "אל",
+      "gloss": "→"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Хизкияга"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "падышасы"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Йехуда"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "деп"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ал"
+    },
+    {
+      "surface": "ישאך",
+      "gloss": "сени алдабасын"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Элохиминг"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ал"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "сен"
+    },
+    {
+      "surface": "בוטח",
+      "gloss": "таянган"
+    },
+    {
+      "surface": "בו",
+      "gloss": "Ага"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "деп"
+    },
+    {
+      "surface": "לא",
+      "gloss": "жок"
+    },
+    {
+      "surface": "תנתן",
+      "gloss": "берилбейт"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Йерушалайим"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "колуна"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "падышасынын"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ашур"
+    }
+  ],
+  "timestamp": "2026-10-05T14:20:19.887095538Z",
+  "model": "glm-5.3"
+}

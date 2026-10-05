@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 12:12",
+  "book": "2-chronicles",
+  "lang": "ky",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ал",
+      "rationale": "Еврейче инфинитивде субъекти жок; «ал» (Рехавам) кошулду"
+    },
+    {
+      "kind": "substitution",
+      "subject": "аарычуусу",
+      "rationale": "אף тамыры «мурун, таноо» деген; каардан чыккан дем мааниси «аарычуу» кылынды"
+    },
+    {
+      "kind": "idiom",
+      "subject": "аарычуусу андан кайтты",
+      "rationale": "שׁב ממנו אף — кайnadı\/ачуусу кайтты идиомасы, баш тартуу маанисинде"
+    }
+  ],
+  "translation": "Жана ал кичирейгенде, Яхвенин аарычуусу андан кайтты — толук жок кылуу үчүн эмес; жана Йегудада да жакшы иштер болду.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "9622b062423e13c3c4d627def525adcadb117220cab982c3c910fa502b2a3de1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-chronicles\/12\/12-12.1791224646617.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובהכנעו",
+      "gloss": "кичирейгенде"
+    },
+    {
+      "surface": "שב",
+      "gloss": "кайтты"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "андан"
+    },
+    {
+      "surface": "אף",
+      "gloss": "аарычуусу"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "эмес"
+    },
+    {
+      "surface": "להשחית",
+      "gloss": "жок кылуу"
+    },
+    {
+      "surface": "לכלה",
+      "gloss": "толук"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "жана да"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "Йегудада"
+    },
+    {
+      "surface": "היה",
+      "gloss": "болду"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "иштер"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "жакшы"
+    }
+  ],
+  "timestamp": "2026-10-05T18:24:06.617994786Z",
+  "model": "glm-5.3"
+}

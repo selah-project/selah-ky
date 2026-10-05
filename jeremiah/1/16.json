@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 1:16",
+  "book": "jeremiah",
+  "lang": "ky",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "анткени",
+      "rationale": "אשר — жөн гана байланыштык; себеп мааниси контексттен."
+    },
+    {
+      "kind": "substitution",
+      "subject": "кудайларга",
+      "rationale": "אלהים אחרים — башка элдердин кудайлары; кыргызча кичине тамгалуу «кудайлар» колдонулду."
+    }
+  ],
+  "translation": "Жана Мен аларды ⟨את⟩ бүт жамандыктары боюнча өз өкүмдөрүмдөн өткөрөм, анткени алар Мени таштап кетти, башка кудайларга түтөтүштү жана өз колдорунун иштерине сыйынышты.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "cd14288c05d776619a7cc3bc340265350d7167a44280452a7504a686752aa6d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/jeremiah\/1\/13-16.1791210701659.json",
+    "code": "2011bdaa-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ודברתי",
+      "gloss": "Жана Мен...айтам"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "өз өкүмдөрүмдү"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ аларды"
+    },
+    {
+      "surface": "על",
+      "gloss": "боюнча"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүт"
+    },
+    {
+      "surface": "רעתם",
+      "gloss": "жамандыктары"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "עזבוני",
+      "gloss": "Мени таштап кетти"
+    },
+    {
+      "surface": "ויקטרו",
+      "gloss": "жана...түтөтүштү"
+    },
+    {
+      "surface": "לאלהим",
+      "gloss": "кудайларга"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "башка"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "жана...сыйынышты"
+    },
+    {
+      "surface": "למעשי",
+      "gloss": "иштерине"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "өз колдорунун"
+    }
+  ],
+  "timestamp": "2026-10-05T14:31:41.661158448Z",
+  "model": "glm-5.3"
+}
