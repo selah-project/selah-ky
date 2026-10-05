@@ -7,17 +7,22 @@
   "chapter": 2,
   "notes": [
     {
-      "kind": "addition",
-      "subject": "да",
-      "rationale": "Вау-консекутивдүү буйрук сүйлөмдү байлаш үчүн кошулду"
+      "kind": "substitution",
+      "subject": "эмизип чоңойт",
+      "rationale": "היניק literally 'to give suck, breast-feed'; кыргызча 'эмизүү' сөзүнүн өзү сакталды, 'кароо' же 'тарбиялоо' деген жок"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הינקהו \/ ותניקהו",
+      "rationale": "Фараондун кызынын буйругу менен аялдын ишинин ортосундагы тамыр кайталоосу (3243\/5134 — 'эмизүү'), кыргызча 'эмизип' кайталоосу менен берилди"
     }
   ],
-  "translation": "Жана Перохтун кызы ага айтты: Бул бalaны алып бар да, мага эмизип бага бер, мен сага акыңды берем. Жана аял ⟨את⟩ баланы алды жана аны эмизди.",
+  "translation": "Пароунун кызы ага айтты: Бул баланы алып бар да, мага эмизип чоңойт, мен сага акыңды берем. Аял балааны алды жана аны эмизип чоңойтту.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
-    "user-sha256": "5e9cb4295501a8af3766081dbb02b26e3a1b0e7edf8b284da679def5c9bc3663",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/2\/9-12.1791201842168.json",
-    "code": "752fd82b-dirty",
+    "user-sha256": "502c1a32347e0b7cdbc27d0006322f9f2ab42b0c4396b6b1ffbfb7a1afdfbcc9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/2\/9-9.1791225014782.json",
+    "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
     "clean-room?": false
@@ -25,7 +30,7 @@
   "tokens": [
     {
       "surface": "ותאמר",
-      "gloss": "жана айтты"
+      "gloss": "айтты"
     },
     {
       "surface": "לה",
@@ -37,7 +42,7 @@
     },
     {
       "surface": "פרעה",
-      "gloss": "Перохтун"
+      "gloss": "Пароунун"
     },
     {
       "surface": "היליכי",
@@ -46,11 +51,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "бала"
+      "marks": "балааны"
     },
     {
       "surface": "הילד",
-      "gloss": "бала"
+      "gloss": "балааны"
     },
     {
       "surface": "הזה",
@@ -58,7 +63,7 @@
     },
     {
       "surface": "והינקהו",
-      "gloss": "эмизип бага бер"
+      "gloss": "эмизип чоңойт"
     },
     {
       "surface": "לי",
@@ -70,7 +75,7 @@
     },
     {
       "surface": "אתן",
-      "gloss": "бере"
+      "gloss": "берем"
     },
     {
       "surface": "את",
@@ -91,13 +96,13 @@
     },
     {
       "surface": "הילד",
-      "gloss": "бала"
+      "gloss": "балааны"
     },
     {
       "surface": "ותניקהו",
-      "gloss": "эмизди"
+      "gloss": "эмизип чоңойтту"
     }
   ],
-  "timestamp": "2026-10-05T12:04:02.169638668Z",
+  "timestamp": "2026-10-05T18:30:14.783018212Z",
   "model": "glm-5.3"
 }

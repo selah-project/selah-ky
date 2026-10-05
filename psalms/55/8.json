@@ -7,16 +7,26 @@
   "chapter": 55,
   "notes": [
     {
-      "kind": "addition",
-      "subject": "качып",
-      "rationale": "надод — сүрүлүү, тентип жүрүү; кыймылдын багыты кыйыр берилди"
+      "kind": "idiom",
+      "subject": "аран",
+      "rationale": "הנה — «кара», көңүл буруу билдирүүчү; кыргызча «аран\/эми» деп берилди"
+    },
+    {
+      "kind": "elision",
+      "subject": "סלה",
+      "rationale": "Селах — музыкалык белги, которулбайт, транслитерацияланат"
+    },
+    {
+      "kind": "alternative",
+      "subject": "алыска кетсем",
+      "rationale": "ארחיק — коюу маанисинде «алыс кылсам»; болжолдуу каалоо формасы контексттен"
     }
   ],
-  "translation": "Мunan — алыска качып, чөлдө түнөп калар элеңмин. Селах.",
+  "translation": "Аран, мен алыска качып кетсем, чөлдө түнөп калсам. Селах.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
-    "user-sha256": "5ae239ef97c42c3352964e5516d57741f85c1846c41c65d3502152908a7afc05",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/55\/5-8.1791216160748.json",
+    "user-sha256": "9fe70bff1c87659323c9ca2e4a4494c518c3fc235cd92af9758696d01b2d2409",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/55\/8-8.1791226161194.json",
     "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -25,19 +35,19 @@
   "tokens": [
     {
       "surface": "הנה",
-      "gloss": "мунан"
+      "gloss": "аран"
     },
     {
       "surface": "ארחיק",
-      "gloss": "алыска"
+      "gloss": "алыска кетсем"
     },
     {
-      "surface": "נדד",
+      "surface": "נדוד",
       "gloss": "качып"
     },
     {
       "surface": "אלין",
-      "gloss": "түнөп калар элеңмин"
+      "gloss": "түнөп калсам"
     },
     {
       "surface": "במדבר",
@@ -48,6 +58,6 @@
       "gloss": "Селах"
     }
   ],
-  "timestamp": "2026-10-05T16:02:40.749860349Z",
+  "timestamp": "2026-10-05T18:49:21.194982979Z",
   "model": "glm-5.3"
 }

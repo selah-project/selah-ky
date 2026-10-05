@@ -5,12 +5,29 @@
   "book": "genesis",
   "lang": "ky",
   "chapter": 45,
-  "translation": "Алар ага билдиришти: «Йосеф али тирүү, ал бүткүл Мицрайим жерин башкарат». Аларга ишенбегендиктен анын жүрөгү als үчүн тамсыды.",
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "таң калды",
+      "rationale": "ויפג сөзү 'жүрөк токтоп калды \/ алсыз болду' деген сөз; кыргызча 'жүрөгү таң калды' деп берилди"
+    },
+    {
+      "kind": "elision",
+      "subject": "לאמר",
+      "rationale": "'айтып' деген кайраттоо этиши 'айтышты' этиши менен бириктирилди"
+    },
+    {
+      "kind": "addition",
+      "subject": "турат",
+      "rationale": "משל הебрайда аянты көрсөтүлбөйт; кыргызча аныктама мамиле үчүн 'турат' кошулду"
+    }
+  ],
+  "translation": "Жана ага айтышты: Йосеф али тирүү, жана ал бүт Мицрайим жерин башкарып турат. Анын жүрөгө таң калды, анткени ал аларга ишенген жок.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
-    "user-sha256": "625655797e8480bfc538fc859382891fa5ca5d2e4655d53efe5cd61b60e2e62e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/45\/25-28.1791201750189.json",
-    "code": "752fd82b-dirty",
+    "user-sha256": "4b163818753d57af54edff54064f5a1f117a5e315d14a621632a8fb2fcdbeea0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/45\/26-26.1791225028953.json",
+    "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
     "clean-room?": false
@@ -18,7 +35,7 @@
   "tokens": [
     {
       "surface": "ויגדו",
-      "gloss": "билдиришти"
+      "gloss": "айтышты"
     },
     {
       "surface": "לו",
@@ -26,7 +43,7 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "деп"
+      "gloss": "айтып"
     },
     {
       "surface": "עוד",
@@ -42,7 +59,7 @@
     },
     {
       "surface": "וכי",
-      "gloss": "жана ал"
+      "gloss": "жана"
     },
     {
       "surface": "הוא",
@@ -50,27 +67,27 @@
     },
     {
       "surface": "משל",
-      "gloss": "башкарат"
+      "gloss": "башкарып турат"
     },
     {
       "surface": "בכל",
-      "gloss": "бүткүл"
+      "gloss": "бүт"
     },
     {
       "surface": "ארץ",
       "gloss": "жерин"
     },
     {
-      "surface": "мצרים",
+      "surface": "מצרים",
       "gloss": "Мицрайим"
     },
     {
       "surface": "ויפג",
-      "gloss": "тамсыды"
+      "gloss": "таң калды"
     },
     {
       "surface": "לבו",
-      "gloss": "анын жүрөгү"
+      "gloss": "жүрөгө"
     },
     {
       "surface": "כי",
@@ -78,17 +95,17 @@
     },
     {
       "surface": "לא",
-      "gloss": "ишенбегендиктен"
+      "gloss": "жок"
     },
     {
       "surface": "האמין",
-      "gloss": "ишенген жок"
+      "gloss": "ишенген"
     },
     {
       "surface": "להם",
       "gloss": "аларга"
     }
   ],
-  "timestamp": "2026-10-05T12:02:30.190231Z",
+  "timestamp": "2026-10-05T18:30:28.954059329Z",
   "model": "glm-5.3"
 }

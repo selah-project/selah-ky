@@ -5,17 +5,91 @@
   "book": "genesis",
   "lang": "ky",
   "chapter": 37,
-  "translation": "Жана Йисраэл айтты: Буга, Йосефге: Тайакандарың Шекемде кой багып жүрбөйбү? Барчы, мен сени алардын жанына жиберейин. Ал анын жөнүндө: Мен мындамын деп жооп берди.",
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "הנני",
+      "rationale": "«Мен бул жердемин» — кызмат кылгандын жообу, латынча салт «Here I am» менен окшош."
+    },
+    {
+      "kind": "you",
+      "subject": "Йисраэл Йосефке",
+      "rationale": "Ата уулуна түз кайрылат."
+    },
+    {
+      "kind": "addition",
+      "subject": "мен",
+      "rationale": "Кыргызча этиш жак мүчөсүн талап кылат, еврейче жок."
+    }
+  ],
+  "translation": "Жана Йисраэл Йосефке айтты: Бир туугандарың Шехемде койлорду багып жатышпайбы? Барчы, мен сени алардын жанына жиберейин. Ал ага айтты: Мен бул жердемин.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
-    "user-sha256": "406fbb212c15fff66266e76e2246bb5c8b3e0968b21638c550452e4834fb6363",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/37\/13-16.1791201465813.json",
-    "code": "752fd82b-dirty",
+    "user-sha256": "5f06d51c2bd30229006fccc19726404dad31e6f45f33224ba8ba7a5c40f7aaeb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/37\/13-14.1791225043044.json",
+    "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
     "clean-room?": false
   },
-  "tokens": [],
-  "timestamp": "2026-10-05T11:57:45.813795136Z",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Жана ... айтты"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэл"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...ге"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосеф"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "...байбу"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "бир туугандарың"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "багып жатышат"
+    },
+    {
+      "surface": "בשכם",
+      "gloss": "Шехемде"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "барчы"
+    },
+    {
+      "surface": "ואשלחך",
+      "gloss": "мен сени жиберейин"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "алардын жанына"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ага"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Мен бул жердемин"
+    }
+  ],
+  "timestamp": "2026-10-05T18:30:43.045279628Z",
   "model": "glm-5.3"
 }

@@ -9,25 +9,58 @@
     {
       "kind": "idiom",
       "subject": "ונכרת מעמיו",
-      "rationale": "лит. 'өз элинен кесилген' — жамааттан алынып, жок кылынуу маанисинде"
+      "rationale": "буквалдык 'өз элинен кесилип ташталат' — жаза катары четтетүү\/жок кылуу идиомасы."
     },
     {
-      "kind": "you",
-      "subject": "Исраэл эли",
-      "rationale": "буйрук Моше аркылуу Исраэл элине багытталган"
+      "kind": "substitution",
+      "subject": "жаза",
+      "rationale": "נכרת кесүү тамырынан — физикалык өлүм же элден четтетүү; контекстке жараша эки окуу бар."
     }
   ],
-  "translation": "Анын жытын жыттоо үчүн ошого окшоштон жасаган адам өз элинен кесилип ташталсын.",
+  "translation": "Анын окшошун жасап, аны жыттап отурган ар бир адам — өз элинен кесилип ташталат.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
     "user-sha256": "f0fca5093ab7eb4cda11d69fab20610d3137f713ca2e7d9cca4d8da7528faba7",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/30\/37-38.1791202454955.json",
-    "code": "752fd82b-dirty",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/30\/37-38.1791225099046.json",
+    "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
     "clean-room?": false
   },
-  "tokens": [],
-  "timestamp": "2026-10-05T12:14:14.956467010Z",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "адам"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ал"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "жасап"
+    },
+    {
+      "surface": "כמוה",
+      "gloss": "анын окшошун"
+    },
+    {
+      "surface": "להריח",
+      "gloss": "жыттап"
+    },
+    {
+      "surface": "בה",
+      "gloss": "аны"
+    },
+    {
+      "surface": "ונכרת",
+      "gloss": "кесилип ташталат"
+    },
+    {
+      "surface": "מעמיו",
+      "gloss": "өз элинен"
+    }
+  ],
+  "timestamp": "2026-10-05T18:31:39.047097907Z",
   "model": "glm-5.3"
 }

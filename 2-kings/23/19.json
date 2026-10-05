@@ -8,21 +8,26 @@
   "notes": [
     {
       "kind": "elision",
-      "subject": "אשר",
-      "rationale": "Салыштырма атоочтор кыргызча мүчөлөр менен берилди."
+      "subject": "להכעיס object",
+      "rationale": "Hebrew 'to provoke' lacks a stated object; text has no יהוה here — translations supply 'the LORD', the Hebrew implies it"
+    },
+    {
+      "kind": "addition",
+      "subject": "Яхвени",
+      "rationale": "את יהוה is absent in this verse; supplied from context (v.12 pattern) and marked by brackets in structure"
     },
     {
       "kind": "wordplay",
-      "subject": "עשו\/ויעש\/המעשים\/עשה",
-      "rationale": "«Жасоо» этишинин төрт кайталанышы — еврейче стилистикалык өрнөк, кыргызча начар сезилип калат."
+      "subject": "בבמות \/ בבית אל",
+      "rationale": "verse pivots from bamot-houses of Samaria to Beth-El deeds; repetition of עשׂה four times structures the comparison"
     }
   ],
-  "translation": "Ошондой эле Йошияу Шомрондун шаарларындагы бийик жайлардын бардык үйлөрүн ⟨את⟩ жок кылды — Йисраэлдин падышалары каар келтирсин деп жасаган үйлөрдү — жана аларга Бейт-Элде жасаган бардык иштердей ишти жасады.",
+  "translation": "Ошондой эле Шомрондун шаарларындагы бийик жерлердин үйлөрүнүн баарын — Йисраэлдин падышалары Яхвени ачууландыруу үчүн жасаган — Йошия алып салды, жана аларга Бейт-Элде жасаган бардык иштердей ⟨את⟩ кылды.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
-    "user-sha256": "4c489e54d15ff4a44c095d12622bd58399740b1fc0473f1b470a90b701710476",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-kings\/23\/17-20.1791209279907.json",
-    "code": "2011bdaa-dirty",
+    "user-sha256": "862a42904355dd92a6f6bad3bc2d255d30a4334b2bf67d93fb6936b244849120",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-kings\/23\/19-19.1791225701579.json",
+    "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
     "clean-room?": false
@@ -35,23 +40,23 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "бардык үйлөрдү"
+      "marks": "баарын"
     },
     {
       "surface": "כל",
-      "gloss": "бардык"
+      "gloss": "баарын"
     },
     {
       "surface": "בתי",
-      "gloss": "үйлөрүн"
+      "gloss": "үйлөрүнүн"
     },
     {
       "surface": "הבמות",
-      "gloss": "бийик жайлардын"
+      "gloss": "бийик жерлердин"
     },
     {
       "surface": "אשר",
-      "gloss": ""
+      "gloss": "котор"
     },
     {
       "surface": "בערי",
@@ -63,7 +68,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": ""
+      "gloss": "котор"
     },
     {
       "surface": "עשו",
@@ -79,19 +84,19 @@
     },
     {
       "surface": "להכעיס",
-      "gloss": "каар келтирсин деп"
+      "gloss": "ачууландыруу үчүн"
     },
     {
       "surface": "הסיר",
-      "gloss": "жок кылды"
+      "gloss": "алып салды"
     },
     {
       "surface": "יאשיהו",
-      "gloss": "Йошияу"
+      "gloss": "Йошия"
     },
     {
       "surface": "ויעש",
-      "gloss": "жасады"
+      "gloss": "жана кылды"
     },
     {
       "surface": "להם",
@@ -99,15 +104,15 @@
     },
     {
       "surface": "ככל",
-      "gloss": "бардык ...дай"
+      "gloss": "бардык...дай"
     },
     {
       "surface": "המעשים",
-      "gloss": "иштердей"
+      "gloss": "иштерди"
     },
     {
       "surface": "אשר",
-      "gloss": ""
+      "gloss": "котор"
     },
     {
       "surface": "עשה",
@@ -115,13 +120,13 @@
     },
     {
       "surface": "בבית",
-      "gloss": "Бейт"
+      "gloss": "Бейт-"
     },
     {
       "surface": "אל",
       "gloss": "Элде"
     }
   ],
-  "timestamp": "2026-10-05T14:07:59.908438826Z",
+  "timestamp": "2026-10-05T18:41:41.580060654Z",
   "model": "glm-5.3"
 }

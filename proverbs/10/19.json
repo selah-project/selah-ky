@@ -8,15 +8,25 @@
   "notes": [
     {
       "kind": "substitution",
-      "subject": "бузуулук",
-      "rationale": "פשע — көтөрүлүү, чыккынчылык, «бузуулук» кеңири алынды"
+      "subject": "пашеа",
+      "rationale": "פשע — көтөрүлүү, чектен чыгуу; «күнөө» деп жумшартылбай, сөздүн формасы сакталды"
+    },
+    {
+      "kind": "addition",
+      "subject": "ал эми",
+      "rationale": "בайламта ו кыргызча «ал эми» менен берилди"
+    },
+    {
+      "kind": "elision",
+      "subject": "לא יחдל",
+      "rationale": "эки сөз «басылбайт» деген бир чечмеле менен берилди"
     }
   ],
-  "translation": "Сөздөр көп болгondo бузуулук токтобойт, ал эми эриндерин кармаган акылдуу.",
+  "translation": "Сөздөрдүн көбүндө пашеа басылбайт, ал эми эриндерин кармаган акылдуу.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
-    "user-sha256": "6004be6665a2f45108881f2f64729fd60c8ae796fc115f9b8e4f5324dc1b2616",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/10\/17-20.1791217932783.json",
+    "user-sha256": "c9067f92a343e8f437427533d389c836d7fe9cf087096b30aa67e8108d62c442",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/10\/19-19.1791226239504.json",
     "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -25,27 +35,27 @@
   "tokens": [
     {
       "surface": "ברב",
-      "gloss": "көп"
+      "gloss": "көбүндө"
     },
     {
-      "surface": "דברים",
-      "gloss": "сөздөр"
+      "surface": "דבарים",
+      "gloss": "сөздөрдүн"
     },
     {
       "surface": "לא",
-      "gloss": "эмес"
+      "gloss": "басылбайт"
     },
     {
       "surface": "יחדל",
-      "gloss": "токтобойт"
+      "gloss": "басылбайт"
     },
     {
       "surface": "פשע",
-      "gloss": "бузуулук"
+      "gloss": "пашеа"
     },
     {
       "surface": "וחשך",
-      "gloss": "кармаган"
+      "gloss": "ал эми кармаган"
     },
     {
       "surface": "שפתיו",
@@ -56,6 +66,6 @@
       "gloss": "акылдуу"
     }
   ],
-  "timestamp": "2026-10-05T16:32:12.784570327Z",
+  "timestamp": "2026-10-05T18:50:39.504498024Z",
   "model": "glm-5.3"
 }

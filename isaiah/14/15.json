@@ -7,17 +7,27 @@
   "chapter": 14,
   "notes": [
     {
+      "kind": "substitution",
+      "subject": "түшүрүлөсүң",
+      "rationale": "תורד — пас huфал: 'сенин үстүңөн түшүрүлөт' — бийиктикке умтулгандын тескериси"
+    },
+    {
+      "kind": "idiom",
+      "subject": "ירכתי בור",
+      "rationale": "'чуңкурдун четтери' — түпкүр, эң терең жери; жөн гана чет эмес"
+    },
+    {
       "kind": "wordplay",
-      "subject": "אעלה\/תורד",
-      "rationale": "13–14-аяттагы 'чыгам' деген үн менен 'түшүрүлөсің' деген жооп карама-каршы коюлган — көтөрүлүү менен кулашынын хиазмасы."
+      "subject": "אך ... תורד",
+      "rationale": "Аял 14:13–14 теги 'жогору чыгам' деген; 15 аят аны тескери буруп 'төмөн түшүрүлөсүң' дейт — риторикалык төңкөрүү"
     }
   ],
-  "translation": "Бирок Шеолго түшүрүлөсүң, чуңкурдун терең жерлерине.",
+  "translation": "Алайык Шеолго түшүрүлөсүң, чуңкурдун түпкү четтерине.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
-    "user-sha256": "6ba8f6c00872ae1d5ffd7b9906623de2aad0d21d350d0abbc2d653cc5c6bac6d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/14\/13-16.1791209562684.json",
-    "code": "2011bdaa-dirty",
+    "user-sha256": "218ff70b5ac1ddbb9ec087091c6e04ae8b8ed0d2e3711b7dd972274e685c9cab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/14\/15-15.1791225661829.json",
+    "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
     "clean-room?": false
@@ -25,33 +35,33 @@
   "tokens": [
     {
       "surface": "אך",
-      "gloss": "бирок"
+      "gloss": "Алайык"
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "го"
     },
     {
       "surface": "שאול",
-      "gloss": "Шеолго"
+      "gloss": "Шеол"
     },
     {
       "surface": "תורד",
-      "gloss": "түшүрүлөсің"
+      "gloss": "түшүрүлөсүң"
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "не"
     },
     {
       "surface": "ירכתי",
-      "gloss": "терең жерлерине"
+      "gloss": "түпкү четтерине"
     },
     {
       "surface": "בור",
       "gloss": "чуңкурдун"
     }
   ],
-  "timestamp": "2026-10-05T14:12:42.685373129Z",
+  "timestamp": "2026-10-05T18:41:01.829820055Z",
   "model": "glm-5.3"
 }

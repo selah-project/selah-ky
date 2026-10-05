@@ -7,27 +7,27 @@
   "chapter": 26,
   "notes": [
     {
-      "kind": "substitution",
-      "subject": "корконуучтук",
-      "rationale": "מרך literally 'softness, frailty' — figuratively fear; kyrgyz needs an abstract noun"
-    },
-    {
-      "kind": "elision",
-      "subject": "אתם (v.36)",
-      "rationale": "object pronoun אוֹתָם rendered as the aleph-tav marker with pronoun 'аларды' rather than a separate word"
+      "kind": "hapax",
+      "subject": "מרך",
+      "rationale": "мордек 'момундук\/жумшактык' — Танахта ушул жерде гана кездешет."
     },
     {
       "kind": "wordplay",
-      "subject": "רדף \/ נדף",
-      "rationale": "paronomasia: 'driven leaf' (נדף) and 'pursue' (רדף) — same-sounding roots, lost in kyrgyz"
+      "subject": "רדף\/נדף",
+      "rationale": "радаф 'кубоолоо' жана надаф 'учуп кетүү' — үндөштүк, кыргызчада жоголгон."
+    },
+    {
+      "kind": "crux",
+      "subject": "אתם",
+      "rationale": "אֹתָם — алектав + -ым мүчөсү; мунун үстүндөгү белги — 'аларды' (кубоолонуучу)."
     }
   ],
-  "translation": "Силердин арасыңардагы калгандарына — душмандарынын жерлеринде жүрөктөрүнө корконуучтук салып беремин: учуп бараткан жалбырактын үнү ⟨את⟩ аларды кууп жүрөт, алар кылычтан качкандай качышат жана эч kim кууган жокто кулашат.",
+  "translation": "Силерден калгандарыңарга болсо — душмандарынын жерлеринде алардын жүрөктөрүнө момундук саламын, жана учуп бара жаткан жалбырактын үнү аларды ⟨את⟩ кубалайбы, жана алар кылычтан качкандай качышат, жана куугунчу жок болсо да күүлөнүшөт.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
-    "user-sha256": "1a60109d385c2524203e8f8993a72028f14591c3e3cdd3df314f22158dba0f2a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/26\/33-36.1791203488399.json",
-    "code": "f71bac6e-dirty",
+    "user-sha256": "d6d2d47b8bf3aeda191c4aaca845ef8bb2531ef51004e61f5d7e96d3211770a1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/26\/36-36.1791225246305.json",
+    "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
     "clean-room?": false
@@ -35,19 +35,19 @@
   "tokens": [
     {
       "surface": "והנשארים",
-      "gloss": "калгандарына"
+      "gloss": "калгандарыңарга"
     },
     {
       "surface": "בכם",
-      "gloss": "силердин арасыңардагы"
+      "gloss": "силерден"
     },
     {
       "surface": "והבאתי",
-      "gloss": "салып беремин"
+      "gloss": "саламын"
     },
     {
       "surface": "מרך",
-      "gloss": "корконуучтук"
+      "gloss": "момундук"
     },
     {
       "surface": "בלבבם",
@@ -63,7 +63,7 @@
     },
     {
       "surface": "ורדף",
-      "gloss": "кууп жүрөт"
+      "gloss": "кубалайбы"
     },
     {
       "surface": "אתם",
@@ -80,7 +80,7 @@
     },
     {
       "surface": "נדף",
-      "gloss": "учуп бараткан"
+      "gloss": "учуп бара жаткан"
     },
     {
       "surface": "ונסו",
@@ -88,7 +88,7 @@
     },
     {
       "surface": "מנסת",
-      "gloss": "качкандай"
+      "gloss": "качкан"
     },
     {
       "surface": "חרב",
@@ -96,17 +96,17 @@
     },
     {
       "surface": "ונפלו",
-      "gloss": "кулашат"
+      "gloss": "күүлөнүшөт"
     },
     {
       "surface": "ואין",
-      "gloss": "жокто"
+      "gloss": "жок"
     },
     {
       "surface": "רדף",
-      "gloss": "кууган"
+      "gloss": "куугунчу"
     }
   ],
-  "timestamp": "2026-10-05T12:31:28.400958531Z",
+  "timestamp": "2026-10-05T18:34:06.305855560Z",
   "model": "glm-5.3"
 }

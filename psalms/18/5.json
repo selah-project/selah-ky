@@ -5,17 +5,59 @@
   "book": "psalms",
   "lang": "ky",
   "chapter": 18,
-  "translation": "Өлүм жиптери мени курчап алды, жана Бел Benchew값жи...",
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "байлаулары",
+      "rationale": "חבלי 'канат\/байлоо' катары алынды; 'азаптар' (KJV sorrows) дагы маани бар"
+    },
+    {
+      "kind": "substitution",
+      "subject": "жарамсыздыктын",
+      "rationale": "בליעל 'пайдасызлык\/жарамсыздык'; кийинчерээк ысым катары да окйлоштурулат"
+    },
+    {
+      "kind": "crux",
+      "subject": "חבלי",
+      "rationale": "'байлаулар' (ASV, YLT) же 'азаптар' (KJV, Geneva) — эки салыштырылуучу окуу"
+    }
+  ],
+  "translation": "Өлүмдүн байлаулары мени курчап алды, жана жарамсыздыктын агындылары мени коркутту.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
-    "user-sha256": "ba9860e17bc2d3b95092939356ff36087dcf98587ed75d1aacf106c838a4c4fe",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/18\/5-8.1791215582645.json",
+    "user-sha256": "96e74ad4cd87c4e4c0764c75d1ec6d6aa68c4452be9186d3a0014d712a31d9a9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/18\/5-5.1791226107749.json",
     "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
     "clean-room?": false
   },
-  "tokens": [],
-  "timestamp": "2026-10-05T15:53:02.646266393Z",
+  "tokens": [
+    {
+      "surface": "אפפוני",
+      "gloss": "мени курчап алды"
+    },
+    {
+      "surface": "חבלי",
+      "gloss": "байлаулары"
+    },
+    {
+      "surface": "מות",
+      "gloss": "өлүмдүн"
+    },
+    {
+      "surface": "ונחלי",
+      "gloss": "жана агындылары"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "жарамсыздыктын"
+    },
+    {
+      "surface": "יבעתוני",
+      "gloss": "мени коркутту"
+    }
+  ],
+  "timestamp": "2026-10-05T18:48:27.750139917Z",
   "model": "glm-5.3"
 }

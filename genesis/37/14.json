@@ -5,17 +5,109 @@
   "book": "genesis",
   "lang": "ky",
   "chapter": 37,
-  "translation": "",
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "саламаттык",
+      "rationale": "שלום «shalom» — бүтүндүк, тынчтык, ийгилик маанисинде; «саламаттык» жакын маани."
+    },
+    {
+      "kind": "idiom",
+      "subject": "והשבני דבר",
+      "rationale": "Букв. «мага сөздү кайтар» — «кабар алып кел» идиома катары."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שלום ... שלום",
+      "rationale": "Эки жолу кайталануу — бир туугандар да, койлор да бир эле сөз менен текшерилет."
+    }
+  ],
+  "translation": "Ал ага айтты: Барчы, бир туугандарыңдын саламатыгын жана койлордуң саламатыгын көрүп кел, мага кабар алып кел. Ошондо ал аны Хеврон өрөөнүнөн жөнөттү, ал Шехемге келди.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
-    "user-sha256": "406fbb212c15fff66266e76e2246bb5c8b3e0968b21638c550452e4834fb6363",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/37\/13-16.1791201465813.json",
-    "code": "752fd82b-dirty",
+    "user-sha256": "5f06d51c2bd30229006fccc19726404dad31e6f45f33224ba8ba7a5c40f7aaeb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/37\/13-14.1791225043044.json",
+    "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
     "clean-room?": false
   },
-  "tokens": [],
-  "timestamp": "2026-10-05T11:57:45.814006773Z",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ага"
+    },
+    {
+      "surface": "לך",
+      "gloss": "бар"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ачык"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "көр"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "бир туугандарыңдын саламатыгын"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "саламаттыгын"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "бир туугандарыңдын"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "жана ⟨את⟩",
+      "marks": "койлордуң саламатыгын"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "саламаттыгын"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "койлордуң"
+    },
+    {
+      "surface": "והשבני",
+      "gloss": "мага алып кел"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "кабар"
+    },
+    {
+      "surface": "וישלחהו",
+      "gloss": "жөнөттү"
+    },
+    {
+      "surface": "מעמק",
+      "gloss": "өрөөнүнөн"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Хеврон"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "келди"
+    },
+    {
+      "surface": "שכמה",
+      "gloss": "Шехемге"
+    }
+  ],
+  "timestamp": "2026-10-05T18:30:43.045632213Z",
   "model": "glm-5.3"
 }

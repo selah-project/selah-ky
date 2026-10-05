@@ -7,17 +7,22 @@
   "chapter": 19,
   "notes": [
     {
+      "kind": "addition",
+      "subject": "уулдарынан",
+      "rationale": "בני ימיני — «Биньямин уулдары» деген аталыш, кыргызча түшүнүктүү болушу үчүн аташы кошулду."
+    },
+    {
       "kind": "substitution",
-      "subject": "чет жердик",
-      "rationale": "גר — убактылуу жатакер, конокто жашоочу; „жатакер“ да мүмкүн"
+      "subject": "конокто жашайты",
+      "rationale": "גר — «бөтөн жерде убактылуу жашоочу», «жургаан» деген мааниде."
     }
   ],
-  "translation": "Жана мына, кары adam кечке чыгып талаадагы ишинен келди, жана ал adam Эфраим тоосунан болчу, ал Гивада чет жердик болуп жашап турчу; ал жердин adamдары Биньяминдин уулдары эле.",
+  "translation": "Жана мына, карыган бир адам кечке чейин өз ишинен талаадан келди; ал адам Эфрайим тоосунан болчу, Гивада конокто жашайты, ал эми ал жердин адамдары Биньямин уулдарынан болчу.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
-    "user-sha256": "26878f60e183d9b8844bb88e2b9af0f88b3a38f74be6821d52ba23aae5cc29b9",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/judges\/19\/13-16.1791206442202.json",
-    "code": "da1b46b6-dirty",
+    "user-sha256": "ad5966e40d5eaa21cae9cb31cbdadf8b4b15d88b74d42a744cfe33c779e8f0c2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/judges\/19\/15-16.1791225502123.json",
+    "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
     "clean-room?": false
@@ -25,15 +30,15 @@
   "tokens": [
     {
       "surface": "והנה",
-      "gloss": "Жана мына"
+      "gloss": "жана мына"
     },
     {
       "surface": "איש",
-      "gloss": "adam"
+      "gloss": "адам"
     },
     {
       "surface": "זקן",
-      "gloss": "кары"
+      "gloss": "карыган"
     },
     {
       "surface": "בא",
@@ -41,7 +46,7 @@
     },
     {
       "surface": "מן",
-      "gloss": "турган"
+      "gloss": "…дан"
     },
     {
       "surface": "מעשהו",
@@ -49,7 +54,7 @@
     },
     {
       "surface": "מן",
-      "gloss": "талаадан"
+      "gloss": "…дан"
     },
     {
       "surface": "השדה",
@@ -57,11 +62,11 @@
     },
     {
       "surface": "בערב",
-      "gloss": "кечке"
+      "gloss": "кечке чейин"
     },
     {
       "surface": "והאיש",
-      "gloss": "жана ал adam"
+      "gloss": "ал адам"
     },
     {
       "surface": "מהר",
@@ -69,15 +74,15 @@
     },
     {
       "surface": "אפרים",
-      "gloss": "Эфраим"
+      "gloss": "Эфрайим"
     },
     {
-      "surface": "והוא",
+      "surface": "ו הוא",
       "gloss": "ал"
     },
     {
       "surface": "גר",
-      "gloss": "чет жердик болуп жашап турчу"
+      "gloss": "конокто жашайты"
     },
     {
       "surface": "בגבעה",
@@ -85,7 +90,7 @@
     },
     {
       "surface": "ואנשי",
-      "gloss": "жана ... adamдары"
+      "gloss": "адамдары"
     },
     {
       "surface": "המקום",
@@ -93,13 +98,13 @@
     },
     {
       "surface": "בני",
-      "gloss": "уулдары"
+      "gloss": "уулдарынан"
     },
     {
       "surface": "ימיני",
-      "gloss": "Биньяминдин"
+      "gloss": "Биньямин"
     }
   ],
-  "timestamp": "2026-10-05T13:20:42.203369237Z",
+  "timestamp": "2026-10-05T18:38:22.124306083Z",
   "model": "glm-5.3"
 }

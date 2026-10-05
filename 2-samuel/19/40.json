@@ -7,17 +7,22 @@
   "chapter": 19,
   "notes": [
     {
-      "kind": "alternative",
-      "subject": "למקמו",
-      "rationale": "Буквально «өз ордуна \/ өз жайгашкан жерине» — жайы «өз жери» деп берилди."
+      "kind": "addition",
+      "subject": "да",
+      "rationale": "ו падышанын алдында текшерилүүчү байламта; кыргызча «да» менен берилди"
+    },
+    {
+      "kind": "crux",
+      "subject": "Иордан",
+      "rationale": "ם ایرе_dan: көпчүлүк котормолор «Гилгалга\/Кимам менен» деген узун текстти кармайт, жөнөкөй текст ЖПСтей «бүт эл Иорданды кечип өттү» дейт"
     }
   ],
-  "translation": "Жана бүт эл ⟨את⟩ Жорданды өттү, жана падыша өттү; жана падыша Барзилайды өөп, аны баталады, жана ал өз жеріне кайтты.",
+  "translation": "Жана бүт эл ⟨את⟩ Иорданды кечип өттү, падыша да өттү, падыша Барзилайды өөп, аны баталады, ал өз жайына кайтты.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
-    "user-sha256": "8d3f5052bdf20f9c72f4ac94cd521f1275c4cae853c8d9d03a50a90675f49602",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-samuel\/19\/37-40.1791207742611.json",
-    "code": "641241cf-dirty",
+    "user-sha256": "c76524205d98b86d153b39b67cba8198220c488bc47f78cb29ede088e7a07e88",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-samuel\/19\/40-40.1791225598108.json",
+    "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
     "clean-room?": false
@@ -25,7 +30,7 @@
   "tokens": [
     {
       "surface": "ויעבר",
-      "gloss": "жана өттү"
+      "gloss": "өттү"
     },
     {
       "surface": "כל",
@@ -38,15 +43,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Жорданды"
+      "marks": "Иорданды"
     },
     {
       "surface": "הירדן",
-      "gloss": "Жорданды"
+      "gloss": "Иорданды"
     },
     {
-      "surface": "והמלך",
-      "gloss": "жана падыша"
+      "surface": "ו המלך",
+      "gloss": "падыша да"
     },
     {
       "surface": "עבר",
@@ -54,7 +59,7 @@
     },
     {
       "surface": "וישק",
-      "gloss": "жана өөп"
+      "gloss": "өөп"
     },
     {
       "surface": "המלך",
@@ -70,13 +75,13 @@
     },
     {
       "surface": "וישב",
-      "gloss": "жана кайтты"
+      "gloss": "кайтты"
     },
     {
       "surface": "למקמו",
-      "gloss": "өз жерине"
+      "gloss": "өз жайына"
     }
   ],
-  "timestamp": "2026-10-05T13:42:22.613226419Z",
+  "timestamp": "2026-10-05T18:39:58.109395754Z",
   "model": "glm-5.3"
 }

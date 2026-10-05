@@ -5,17 +5,108 @@
   "book": "joshua",
   "lang": "ky",
   "chapter": 9,
-  "translation": "",
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "шамо",
+      "rationale": "шамо — 'уккан кабар', кайрадан угуу маанисинде берилди"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "шману шамо",
+      "rationale": "шаманוא — шамо: 'уктук укку' — тамырдын кайталануусу, кыргызча 'укканыбызда да укканбыз' деп берилди"
+    },
+    {
+      "kind": "you",
+      "subject": "Жошуага",
+      "rationale": "Гивон элчилери Жошууга түз кайрылат: 'кызматчыларың', 'сенин Элохимдин'"
+    }
+  ],
+  "translation": "Жана алар ага айтышты: Абырдагы өтө алыс жердин бирөөсүнөн келе жаткан кызматчыларың Яхвенин, сенин Элохимдин ысымы үчүн <⟨את⟩> Мицрайимде эмне кылганын укканыбызда да, ⟨бардык⟩ укканбыз да.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
-    "user-sha256": "08236b928cd720f70629bdb690d9f9a3bd4b6a9b8d1ffcd1a05f88906a240676",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/joshua\/9\/9-12.1791205644805.json",
-    "code": "f71bac6e-dirty",
+    "user-sha256": "75a562b09f3f972449bffc1975129cadb250e3f480199e88dbbaf80ed446c4d7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/joshua\/9\/9-9.1791225409605.json",
+    "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
     "clean-room?": false
   },
-  "tokens": [],
-  "timestamp": "2026-10-05T13:07:24.805919261Z",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "жана алар айтышты"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ага"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "жердин бирөөсүнөн"
+    },
+    {
+      "surface": "רחוקה",
+      "gloss": "алыс"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "өтө"
+    },
+    {
+      "surface": "באו",
+      "gloss": "келе жаткан"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "кызматчыларың"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "ысымы үчүн"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "сенин Элохимдин"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "укканыбызда да"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "укканбыз да"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "бардык"
+    },
+    {
+      "surface": "כל",
+      "gloss": "⟨бардык⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "эмне"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "кылганын"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Мицрайимде"
+    }
+  ],
+  "timestamp": "2026-10-05T18:36:49.605563891Z",
   "model": "glm-5.3"
 }

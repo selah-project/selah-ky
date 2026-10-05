@@ -8,20 +8,25 @@
   "notes": [
     {
       "kind": "wordplay",
-      "subject": "сабуу\/оруу",
-      "rationale": "10:12-дин эгиз эгин сөзү тескериленин кайталанат: түзүүктү эмес, жамандыкты сабып, залкимдикти оруп алышты."
+      "subject": "айдоо\/оруу",
+      "rationale": "10:12 дагы эгип-оруп метафорасы ушул аятта тескериленин тескериси болуп кайтып келет: жамандык айдап, зулумлук орулат."
     },
     {
-      "kind": "crux",
-      "subject": "כחש",
-      "rationale": "'этмыштук\/жалган' — лексика 'эт жетимсиздиги' дагы маани берет; көпчүлүк котормолор 'жалган' тандайт."
+      "kind": "substitution",
+      "subject": "жалган",
+      "rationale": "כחש literally 'emaciation\/failure of flesh' — the figure of a fruit that fails; rendered 'lies' per the idiom."
+    },
+    {
+      "kind": "addition",
+      "subject": "өз",
+      "rationale": "Hebrew has only 'your way' and 'your warriors'; 'өз' added to carry the reflexive fault implied by the context."
     }
   ],
-  "translation": "Жамандыкты сабадыңар, залкимдикти оруңар, жалгандын мөмөсүн жедіңер, анткени өз жолуңа, баатырларыңдын көптүгүнө таяндың.",
+  "translation": "Силер жамандык айдадыңар, зулумлукту орудуңар, жалгандын жемишин жедиңер; анткени сен өз жолуңа таяндың, өз баатырларыңдын көптүгүнө.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
-    "user-sha256": "85cedc65ef27f6d9c20f2c180b5cd1d55d9a12f5b6b3651560e39d494ed1f5af",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/hosea\/10\/13-15.1791213984734.json",
+    "user-sha256": "741a44ef244f89289937b97f5cc5d457c60af815f02f4f3218cdc8880f7acd83",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/hosea\/10\/13-13.1791226064073.json",
     "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -30,27 +35,27 @@
   "tokens": [
     {
       "surface": "חרשתם",
-      "gloss": "сабадыңар"
+      "gloss": "айдадыңар"
     },
     {
       "surface": "רשע",
-      "gloss": "жамандыкты"
+      "gloss": "жамандык"
     },
     {
       "surface": "עולתה",
-      "gloss": "залкимдикти"
+      "gloss": "зулумлукту"
     },
     {
       "surface": "קצרתם",
-      "gloss": "оруңар"
+      "gloss": "орудуңар"
     },
     {
       "surface": "אכלתם",
-      "gloss": "жедіңер"
+      "gloss": "жедиңер"
     },
     {
-      "surface": "прי",
-      "gloss": "мөмөсүн"
+      "surface": "פרי",
+      "gloss": "жемишин"
     },
     {
       "surface": "כחש",
@@ -77,6 +82,6 @@
       "gloss": "баатырларыңдын"
     }
   ],
-  "timestamp": "2026-10-05T15:26:24.735062513Z",
+  "timestamp": "2026-10-05T18:47:44.074035824Z",
   "model": "glm-5.3"
 }

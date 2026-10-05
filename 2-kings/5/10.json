@@ -7,22 +7,27 @@
   "chapter": 5,
   "notes": [
     {
-      "kind": "measurement",
-      "subject": "жети жолу",
-      "rationale": "Жуунуунун так саны — жети жолу — буйрукта башка ачкыч элемент"
+      "kind": "you",
+      "subject": "Нааманга",
+      "rationale": "Элиша Нааманга элчи аркылуу түз буйрук айтат."
     },
     {
-      "kind": "invitation",
-      "subject": "Барып... жуун",
-      "rationale": "Элишанын Нааманга түз буйругу — буйрук мүнөзүндөгү чакыруу"
+      "kind": "measurement",
+      "subject": "жети жолу",
+      "rationale": "Жуунуунун саны — жети — текстте так эсептелет."
+    },
+    {
+      "kind": "substitution",
+      "subject": "таза бол",
+      "rationale": "וטהר — ыйык тазалык (Левит маанисинде), кыргызча бир сөзгө батпайт."
     }
   ],
-  "translation": "Элиша ага элчи жиберип айтты: Барып, Ярденде жети жолу жуун, жана этің саага кайтып келет, жана тазаланасың.",
+  "translation": "Элиша ага элчи жөнөтүп айтты: Барып, Йарденде жети жолу жуун, жана денең сага кайтып келет, жана таза бол.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
-    "user-sha256": "0846c5869772eccb54377734627142943180bc7bc08afe99ab0c9e48f712baff",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-kings\/5\/9-12.1791208761644.json",
-    "code": "2011bdaa-dirty",
+    "user-sha256": "e1a48498229b7ef3eb78dbf74b3b9c027c5272d511effcbdfad2a5f5b6260c68",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-kings\/5\/10-10.1791225620980.json",
+    "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
     "clean-room?": false
@@ -30,7 +35,7 @@
   "tokens": [
     {
       "surface": "וישלח",
-      "gloss": "жиберип"
+      "gloss": "жөнөттү"
     },
     {
       "surface": "אליו",
@@ -46,15 +51,15 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "айтты"
+      "gloss": "айтып"
     },
     {
       "surface": "הלוך",
-      "gloss": "барып"
+      "gloss": "бар"
     },
     {
       "surface": "ורחצת",
-      "gloss": "жуун"
+      "gloss": "жана жуун"
     },
     {
       "surface": "שבע",
@@ -66,25 +71,25 @@
     },
     {
       "surface": "בירדן",
-      "gloss": "Ярденде"
+      "gloss": "Йарденде"
     },
     {
       "surface": "וישב",
-      "gloss": "кайтып келет"
+      "gloss": "жана кайтып келет"
     },
     {
       "surface": "בשרך",
-      "gloss": "этің"
+      "gloss": "денең"
     },
     {
       "surface": "לך",
-      "gloss": "саага"
+      "gloss": "сага"
     },
     {
       "surface": "וטהר",
-      "gloss": "тазаланасың"
+      "gloss": "жана таза бол"
     }
   ],
-  "timestamp": "2026-10-05T13:59:21.644898806Z",
+  "timestamp": "2026-10-05T18:40:20.980779984Z",
   "model": "glm-5.3"
 }

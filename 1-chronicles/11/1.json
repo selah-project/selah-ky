@@ -5,17 +5,74 @@
   "book": "1-chronicles",
   "lang": "ky",
   "chapter": 11,
-  "translation": "Жана бүт Йисраэл Давидке Хевронго чогулду, айтышты: кара, сенин сөөгүңө жана этіңе биз ⟨биз⟩.",
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "сөөк жана эт",
+      "rationale": "עצם ובשар — кан-туугандыкты билдирүүчү еврей идиомасы; кыргызча «кан-тууган» деп берилсе да сөздүн сүрөтү сакталды"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הנה … אנחנו",
+      "rationale": "«Мына … биз» — еврейче тартип: алгач «сенин сөөгүң жана этің», акырында «биз» деген басым кыргызча тартипте өзгөрдү"
+    }
+  ],
+  "translation": "Жана бүт Йисраэл Давидге Хебронго чогулду да айтты: Мына, биз сенин сөөгүң жана этіңбиз.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
-    "user-sha256": "891e7cef11bab3288c754dbaee33bac5ca70ca163ddc5070b64244859a11946b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-chronicles\/11\/1-4.1791222018621.json",
+    "user-sha256": "34e61496a163025a1849308e9e33a78c21d34120a88458f4c7c931033382996f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-chronicles\/11\/1-1.1791226394782.json",
     "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
     "clean-room?": false
   },
-  "tokens": [],
-  "timestamp": "2026-10-05T17:40:18.621824882Z",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "чогулду"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүт"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэл"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…га"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "חברונה",
+      "gloss": "Хебронго"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "айтты"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "мына"
+    },
+    {
+      "surface": "עצמך",
+      "gloss": "сенин сөөгүң"
+    },
+    {
+      "surface": "ובשרך",
+      "gloss": "жана этің"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "биз"
+    }
+  ],
+  "timestamp": "2026-10-05T18:53:14.782833291Z",
   "model": "glm-5.3"
 }

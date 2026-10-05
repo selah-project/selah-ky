@@ -7,17 +7,22 @@
   "chapter": 20,
   "notes": [
     {
-      "kind": "addition",
-      "subject": "бирок",
-      "rationale": "ן baylanıştıq waqıtqa qarama-qarşı maanını berüü üçün qosuldu"
+      "kind": "elision",
+      "subject": "אשר",
+      "rationale": "относительное слово переведено причастием «белгиленген», отдельно эмитировано не было"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "המועד \/ יעדו",
+      "rationale": "тот же корень יעד «назначать»: мөөнөт, который он сам назначил — звуковой повтор, в кыргызском сглажен"
     }
   ],
-  "translation": "Амаса Йһуданы ⟨את⟩ чакыруу үчүн кетти, бирок ага белгилеген убакыттан кечикти.",
+  "translation": "Амаса Яхуданы ⟨את⟩ чакыруу үчүн кетти, бирок ага белгиленген мөөнөттөн кечиге берди.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
-    "user-sha256": "37c375390d490137a261c74d7a2bf97bf67799cf8be37d213a59617bfbef0b3d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-samuel\/20\/5-8.1791207828437.json",
-    "code": "641241cf-dirty",
+    "user-sha256": "9e08ca1d39a3843ffc29dbb040329177b33b435405c57a311617670a4a4f7196",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-samuel\/20\/5-5.1791225582136.json",
+    "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
     "clean-room?": false
@@ -38,33 +43,33 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Йһудах"
+      "marks": "Яхуданы"
     },
     {
       "surface": "יהודה",
-      "gloss": "Йһудах"
+      "gloss": "Яхуда"
     },
     {
       "surface": "וייחר",
-      "gloss": "кечикти"
+      "gloss": "кечиге берди"
     },
     {
       "surface": "מן",
-      "gloss": "-тан"
+      "gloss": "-төн"
     },
     {
       "surface": "המועד",
-      "gloss": "белгиленген убакыт"
+      "gloss": "белгиленген мөөнөт"
     },
     {
       "surface": "אשר",
-      "gloss": "ал"
+      "gloss": ""
     },
     {
       "surface": "יעדו",
       "gloss": "ага белгилеген"
     }
   ],
-  "timestamp": "2026-10-05T13:43:48.438173601Z",
+  "timestamp": "2026-10-05T18:39:42.136424003Z",
   "model": "glm-5.3"
 }

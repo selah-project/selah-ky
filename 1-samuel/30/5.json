@@ -5,17 +5,65 @@
   "book": "1-samuel",
   "lang": "ky",
   "chapter": 30,
-  "translation": "Жана Давиддин эки аялы туткунга алынды: Ахиноам Яхве...",
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "backstory",
+      "rationale": "Туткундуктун баяндоосу үчүн эки аялдын аты изреелдиктик жана кармелдик деп байланыштырылды"
+    }
+  ],
+  "translation": "Жана Давиддин эки аялы туткун кылынып алынды — Ахиноам изреелдиктик жана Авигайил, кармелдик Набалдын аялы.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
-    "user-sha256": "b81d1135088d64f3b92de4139ba07fea9600b1acc8004a4da23987bf415544cf",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-samuel\/30\/5-8.1791207236301.json",
-    "code": "da1b46b6-dirty",
+    "user-sha256": "5c4bc0c80af53209146b9dee77bfa10cb03f44000bef6e6ba5a7dc15845983cc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-samuel\/30\/5-5.1791225542177.json",
+    "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
     "clean-room?": false
   },
-  "tokens": [],
-  "timestamp": "2026-10-05T13:33:56.302436351Z",
+  "tokens": [
+    {
+      "surface": "ושתי",
+      "gloss": "жана эки"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "аялы"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давиддин"
+    },
+    {
+      "surface": "נשבו",
+      "gloss": "туткун кылынып алынды"
+    },
+    {
+      "surface": "אחינעם",
+      "gloss": "Ахиноам"
+    },
+    {
+      "surface": "היזרעלית",
+      "gloss": "изреелдиктик"
+    },
+    {
+      "surface": "ואביגיל",
+      "gloss": "жана Авигайил"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "аялы"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Набалдын"
+    },
+    {
+      "surface": "הכרמלי",
+      "gloss": "кармелдик"
+    }
+  ],
+  "timestamp": "2026-10-05T18:39:02.177614209Z",
   "model": "glm-5.3"
 }

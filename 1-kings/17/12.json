@@ -7,32 +7,27 @@
   "chapter": 17,
   "notes": [
     {
-      "kind": "substitution",
-      "subject": "нан",
-      "rationale": "מעוג — нан бышырылган 'токоч'; кеңири 'нан' деп берилди"
-    },
-    {
       "kind": "idiom",
-      "subject": "חי יהוה אלהיך",
-      "rationale": "ант formulasy: 'Яхве жашаган' — кыргызча 'жаным менен' эмес, буктурма формада сакталды"
+      "subject": "כי אם",
+      "rationale": "Hebrew 'if there is... except' idiom rendered as 'жок — ... бар гана' (there is none, only)."
     },
     {
-      "kind": "hapax",
-      "subject": "בצפחת",
-      "rationale": "צפחת — Танахта сейрек кездешкен май идиши (чүкөлөө идишче)"
+      "kind": "addition",
+      "subject": "жеген соң",
+      "rationale": "ואכלנהו is a purpose-sequence verb 'and we will eat it'; Kyrgyz infinitive construction adds 'соң' to keep the sequence."
     },
     {
       "kind": "substitution",
-      "subject": "daytime",
-      "rationale": "түзөтүү керек: булаак сөз — 'жок' деген мааниде כי אם 'болсо гана' менен берилүүгө тийиш"
+      "subject": "маёг",
+      "rationale": "מעוג is a baked cake\/bread of the poorest kind; kept as a Hebrew-based word rather than plain 'нан' to preserve its shape."
     }
   ],
-  "translation": "Жана ал айтты: Сенин Элохимің Яхве жашаган daytime менде нан жок — чүпүрөктө бир алакан ун жана идишче бир аз май бар гана; каркыра, мен эки чырак жыйып жатам, келип, мага жана уулума аны жасайын, аны жеп өлөлү.",
+  "translation": "Аял айтты: Яхве, сенин Элохимиң тирүү! Мага маёг жок — кадда бир алакан ун, чөйчөндө бир аз май бар гана. Кара, мен эки таяк жыйнап жатам, барып аны өзүмө жана уулума жасайм, жеген соң өлөбүз.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
-    "user-sha256": "d8d05319aa93ba74f05cdda76d50a5672a88c8eced2f3b20f12e9c45c4727645",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-kings\/17\/9-12.1791208406673.json",
-    "code": "641241cf-dirty",
+    "user-sha256": "f2e9d5117c9416844ebfceb291693b202e246105c1ae93d56092c98b6e6d1458",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-kings\/17\/12-12.1791225641653.json",
+    "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
     "clean-room?": false
@@ -40,11 +35,11 @@
   "tokens": [
     {
       "surface": "ותאמר",
-      "gloss": "жана ал айтты"
+      "gloss": "айтты"
     },
     {
       "surface": "חי",
-      "gloss": "жашаган"
+      "gloss": "тирүү"
     },
     {
       "surface": "יהוה",
@@ -52,7 +47,7 @@
     },
     {
       "surface": "אלהיך",
-      "gloss": "Сенин Элохимің"
+      "gloss": "сенин Элохимиң"
     },
     {
       "surface": "אם",
@@ -64,19 +59,19 @@
     },
     {
       "surface": "לי",
-      "gloss": "менде"
+      "gloss": "мага"
     },
     {
       "surface": "מעוג",
-      "gloss": "нан"
+      "gloss": "маёг"
     },
     {
       "surface": "כי",
-      "gloss": "—"
+      "gloss": "анткени"
     },
     {
       "surface": "אם",
-      "gloss": "болсо"
+      "gloss": "гана"
     },
     {
       "surface": "מלא",
@@ -92,7 +87,7 @@
     },
     {
       "surface": "בכד",
-      "gloss": "чүпүрөктө"
+      "gloss": "кадда"
     },
     {
       "surface": "ומעט",
@@ -104,15 +99,15 @@
     },
     {
       "surface": "בצפחת",
-      "gloss": "идишчеде"
+      "gloss": "чөйчөндө"
     },
     {
       "surface": "והנני",
-      "gloss": "каркыра, мен"
+      "gloss": "жана кара"
     },
     {
       "surface": "מקששת",
-      "gloss": "жыйып жатам"
+      "gloss": "жыйнап жатам"
     },
     {
       "surface": "שנים",
@@ -120,19 +115,19 @@
     },
     {
       "surface": "עצים",
-      "gloss": "чырак"
+      "gloss": "таяк"
     },
     {
       "surface": "ובאתי",
-      "gloss": "келип"
+      "gloss": "жана барып"
     },
     {
       "surface": "ועשיתיהו",
-      "gloss": "аны жасайын"
+      "gloss": "аны жасайм"
     },
     {
       "surface": "לי",
-      "gloss": "мага"
+      "gloss": "өзүмө"
     },
     {
       "surface": "ולבני",
@@ -140,13 +135,13 @@
     },
     {
       "surface": "ואכלנהו",
-      "gloss": "аны жеп"
+      "gloss": "жеген соң"
     },
     {
       "surface": "ומתנו",
-      "gloss": "өлөлү"
+      "gloss": "өлөбүз"
     }
   ],
-  "timestamp": "2026-10-05T13:53:26.674945533Z",
+  "timestamp": "2026-10-05T18:40:41.653826772Z",
   "model": "glm-5.3"
 }

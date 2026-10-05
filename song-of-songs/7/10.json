@@ -7,26 +7,26 @@
   "chapter": 7,
   "notes": [
     {
-      "kind": "hapax",
-      "subject": "דובב",
-      "rationale": "бул тамыр Танахта өтө сейрек; 'акырындык менен кыймылдатат' сөзмө-сөз сүрөтү"
+      "kind": "substitution",
+      "subject": "таңдагың",
+      "rationale": "חך — таңдай\/оозунун ички жагы, бүткөл ооз эмес"
     },
     {
       "kind": "crux",
-      "subject": "ישנים",
-      "rationale": "'уктап жаткандар' же 'картарлар' (LXX 'карлар') — эки окуу бар"
+      "subject": "лмйшרים",
+      "rationale": "לְמֵישָׁרִים: 'түз\/жылмакай жүрүп' же 'жакшы ниет менен' — котормочулар эки жол кабыл алышат"
     },
     {
-      "kind": "substitution",
-      "subject": "חך",
-      "rationale": "чечең — таңдай\/ооз ичи; 'ооз' кыйла кеңири"
+      "kind": "alternative",
+      "subject": "דובב",
+      "rationale": "дөөб — 'жылмакай сызып барат' деген сөз; эриндер 'сүйлөшөт' деген да окуу бар"
     }
   ],
-  "translation": "Жана сенин оозуң weкты шарап сыяктуу — достума акырындык менен түз аккан, уктап жаткандардын эриндерин кыймылдаткан.",
+  "translation": "Жана таңдагың жакшы шараптай, сүйгөнүмө түз жүрүп, уктап жаткандардын эриндерин жылдырат.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
-    "user-sha256": "2184022e642cde1860baa9f1e65f0b069d3fd6eddbb4bfcea15fdffc0da6ce1d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/song-of-songs\/7\/9-12.1791219666343.json",
+    "user-sha256": "ad7f8a22550b5a4418c592c52838e2cde13c865ea1a66a3283ae7d0cf41d5d56",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/song-of-songs\/7\/10-10.1791226258910.json",
     "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -35,31 +35,31 @@
   "tokens": [
     {
       "surface": "וחכך",
-      "gloss": "жана сенин оозуң"
+      "gloss": "жана таңдагың"
     },
     {
       "surface": "כיין",
-      "gloss": "шарап сыяктуу"
+      "gloss": "шараптай"
     },
     {
       "surface": "הטוב",
-      "gloss": "мыкты"
+      "gloss": "жакшы"
     },
     {
       "surface": "הולך",
-      "gloss": "аккан"
+      "gloss": "жүрүп"
     },
     {
       "surface": "לדודי",
-      "gloss": "достума"
+      "gloss": "сүйгөнүмө"
     },
     {
       "surface": "למישרים",
-      "gloss": "акырындык менен түз"
+      "gloss": "түз"
     },
     {
       "surface": "דובב",
-      "gloss": "кыймылдаткан"
+      "gloss": "жылдырат"
     },
     {
       "surface": "שפתי",
@@ -70,6 +70,6 @@
       "gloss": "уктап жаткандардын"
     }
   ],
-  "timestamp": "2026-10-05T17:01:06.343970093Z",
+  "timestamp": "2026-10-05T18:50:58.911237334Z",
   "model": "glm-5.3"
 }

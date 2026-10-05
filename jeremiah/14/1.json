@@ -7,22 +7,27 @@
   "chapter": 14,
   "notes": [
     {
-      "kind": "addition",
-      "subject": "бул —",
-      "rationale": "ивритте атааРЕСТ жок, кыргызча түз сүйлөм үчүн кошулду"
+      "kind": "hapax",
+      "subject": "הבצרות",
+      "rationale": "Дrought — ысым катары берилди: literally 'rain withheld' — жамгыр кармалып калган убакыттар."
     },
     {
-      "kind": "crux",
-      "subject": "הבצרות",
-      "rationale": "букв. «тосуулар» (жаандын кармалышы): «кургакчылыктар» көп сан — жекеде «кургакчылык» да окулат"
+      "kind": "substitution",
+      "subject": "кургакчылыктар",
+      "rationale": "הבצרות literal: 'тосуулар' (жамгыр тосула турган) — 'кургакчылык' маанини берет, сүрөттү жоготот."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ал эми⟩",
+      "rationale": "Ашер башталыш конъюнкциясы кыргызча баштоо формуласы менен берилди."
     }
   ],
-  "translation": "Бул — Яхвенин сөзү, Yirmeiahuга кургакчылыктар жөнүндө келген.",
+  "translation": "Бул ⟨ал эми⟩ Яхвенин сөзүнүн Йирмияхуга кургакчылыктар жөнүндө келгени:",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
-    "user-sha256": "8be7a473886fbc27771ac13151b7ed451b651bdc64e96b2e306d864874078014",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/jeremiah\/14\/1-4.1791211076529.json",
-    "code": "2011bdaa-dirty",
+    "user-sha256": "beb7df05b42fcf84ae4e6a28bfa8b3a27f4c5391b4315426c26e3fbf8e35818b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/jeremiah\/14\/1-1.1791225826312.json",
+    "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
     "clean-room?": false
@@ -30,15 +35,15 @@
   "tokens": [
     {
       "surface": "אשר",
-      "gloss": "бул"
+      "gloss": "⟨ал эми⟩"
     },
     {
       "surface": "היה",
-      "gloss": "келген"
+      "gloss": "болду"
     },
     {
       "surface": "דבר",
-      "gloss": "сөзү"
+      "gloss": "сөзүнүн"
     },
     {
       "surface": "יהוה",
@@ -50,7 +55,7 @@
     },
     {
       "surface": "ירמיהו",
-      "gloss": "Yirmeiahu"
+      "gloss": "Йирмияхуга"
     },
     {
       "surface": "על",
@@ -58,13 +63,13 @@
     },
     {
       "surface": "דברי",
-      "gloss": "…лары"
+      "gloss": "окуялары"
     },
     {
       "surface": "הבצרות",
-      "gloss": "кургакчылыктар"
+      "gloss": "кургакчылыктардын"
     }
   ],
-  "timestamp": "2026-10-05T14:37:56.530210345Z",
+  "timestamp": "2026-10-05T18:43:46.312558315Z",
   "model": "glm-5.3"
 }

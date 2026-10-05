@@ -7,22 +7,32 @@
   "chapter": 20,
   "notes": [
     {
-      "kind": "idiom",
+      "kind": "elision",
       "subject": "לאמר",
-      "rationale": "Кириш айтуу формуласы — айтылган сөзгө көрсөтүп турат, так котормосу «айтып»."
+      "rationale": "Introductory 'to say' after a verb of speaking; no separate rendering in Kyrgyz"
     },
     {
-      "kind": "you",
-      "subject": "Мошеге",
-      "rationale": "Эл Мошени жана Ахаронду түз кайрылат (3–5 аяттар)."
+      "kind": "substitution",
+      "subject": "велу",
+      "rationale": "גוע literally 'to breathe out, expire' — rendered 'өлүү' (to die)"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גוענו\/בגוע",
+      "rationale": "Root repetition: 'we expired… when our brethren expired' — parallel lost in Kyrgyz 'өлбөй калдык\/өлгөндө'"
+    },
+    {
+      "kind": "alternative",
+      "subject": "велу",
+      "rationale": "'Would that we had died' (optative wish) is the common reading; rendered as rhetorical reproach"
     }
   ],
-  "translation": "Жана эл Моше менен талашты жана айтышты: Эмне дегенде, бир туугандарыбыз Яхвенин алдында каза болгондо, биз да каза болсоқчу!",
+  "translation": "Жана эл Моше менен талашып-тартышты жана айтышты: Эмне үчүн Яхвенин алдында бир туугандарыбыз өлгөндө биз да өлбөй калдык!",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
-    "user-sha256": "a3a2ca00832cf7147da871aaf6dee075e2dfc0e4f47759e3ee8c3f432fc0c18b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/numbers\/20\/1-4.1791204094830.json",
-    "code": "f71bac6e-dirty",
+    "user-sha256": "c453b893979e9d5b14cb3b0cc8c9806be044956f856295994a495349a5dbbc76",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/numbers\/20\/3-3.1791225257172.json",
+    "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
     "clean-room?": false
@@ -30,7 +40,7 @@
   "tokens": [
     {
       "surface": "וירב",
-      "gloss": "жана талашты"
+      "gloss": "талашып-тартышты"
     },
     {
       "surface": "העם",
@@ -50,19 +60,19 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "айтып"
+      "gloss": ""
     },
     {
       "surface": "ולו",
-      "gloss": "эмне дегенде"
+      "gloss": "эмне үчүн"
     },
     {
       "surface": "גוענו",
-      "gloss": "каза болсоқчу"
+      "gloss": "өлбөй калдык"
     },
     {
       "surface": "בגוע",
-      "gloss": "каза болгондо"
+      "gloss": "өлгөндө"
     },
     {
       "surface": "אחינו",
@@ -77,6 +87,6 @@
       "gloss": "Яхвенин"
     }
   ],
-  "timestamp": "2026-10-05T12:41:34.831520272Z",
+  "timestamp": "2026-10-05T18:34:17.172848791Z",
   "model": "glm-5.3"
 }

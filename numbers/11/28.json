@@ -9,21 +9,20 @@
     {
       "kind": "crux",
       "subject": "מבחריו",
-      "rationale": "'Анын тандалган жаштардын бири' (KJV) менен 'жаштыгынан бери' (JPS) ортосунда талаш."
+      "rationale": "KJV\/ASV «тандалгандардан бири» vs JPS\/BSB «бала кезинен бери» — Мошенин жаштыгын билдирет деп окулса, бул «чыгып кетүү» мааниси"
     },
     {
-      "kind": "substitution",
-      "subject": "אדני",
-      "gloss_note": "",
-      "rationale": "Адам жөнүндө — 'мырзам'; Яхвенин аты эмес."
+      "kind": "crux",
+      "subject": "כלאם",
+      "rationale": "«Аларды карма\/токтот» (КЖВ forbid) vs JPS «аларды жаб» — косүз күчтүү чечим талап кылат"
     }
   ],
-  "translation": "Мошенин кызматчысы, Нундун уулу Яхошуа, жаштыгынан бери ⟨анын⟩ кызматında, жооп берип айтты: Мырзам Моше, аларды тосуң!",
+  "translation": "Жана Яхушуа, Нундун уулу, Мошенин кызматчысы, бала кезинен ⟨бери⟩, жооп берип айтты: Мырзам Моше, аларды кармап кой.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
-    "user-sha256": "1d6ea884ec60257dd5633e29aca752c3a0425ef88c8e6d9cffc4a82fb290a93c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/numbers\/11\/25-28.1791203859510.json",
-    "code": "f71bac6e-dirty",
+    "user-sha256": "91cdeb72d19307d18bb9f72822cb11db092bb03779e213035172651fcff0a65c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/numbers\/11\/28-28.1791225257554.json",
+    "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
     "clean-room?": false
@@ -35,7 +34,7 @@
     },
     {
       "surface": "יהושע",
-      "gloss": "Яхошуа"
+      "gloss": "Яхушуа"
     },
     {
       "surface": "בן",
@@ -54,8 +53,8 @@
       "gloss": "Мошенин"
     },
     {
-      "surface": "мבחריו",
-      "gloss": "жаштыгынан бери"
+      "surface": "מבחריו",
+      "gloss": "бала кезинен"
     },
     {
       "surface": "ויאמר",
@@ -63,7 +62,7 @@
     },
     {
       "surface": "אדני",
-      "gloss": "мырзам"
+      "gloss": "Мырзам"
     },
     {
       "surface": "משה",
@@ -71,9 +70,9 @@
     },
     {
       "surface": "כלאם",
-      "gloss": "аларды тосуң"
+      "gloss": "аларды кармап кой"
     }
   ],
-  "timestamp": "2026-10-05T12:37:39.512245477Z",
+  "timestamp": "2026-10-05T18:34:17.555045439Z",
   "model": "glm-5.3"
 }

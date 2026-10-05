@@ -9,20 +9,25 @@
     {
       "kind": "wordplay",
       "subject": "נקרא נקריתי",
-      "rationale": "Этештин кайталанышы — «кокусунан жолугуп калдым», кокустук басымдалат"
+      "rationale": " Same root קרה repeated — 'chance met I chanced upon' — the doubling is lost in Kyrgyz."
+    },
+    {
+      "kind": "crux",
+      "subject": "הדבקהו",
+      "rationale": "' Clung to him \/ pressed hard after him — pursuit closing in, not mere following."
     },
     {
       "kind": "substitution",
-      "subject": "атчандар",
-      "rationale": "בעלי הפרשים букв. «аттардын ээлери» — кыргызча «атчандар» деп берилди"
+      "subject": "בעלי הפרשים",
+      "rationale": "'masters of horses' rendered as 'атчан аскер башчылары' (commanders of horsemen)."
     }
   ],
-  "translation": "Кабар айтып жаткан жигит ⟨ага⟩: «Гилбоа тоосундо кокусунан жолугуп калдым, мына, Шаул найзасына таянып турду, мына, арабалар жана атчандар аны кууп жетип калышты» деди.",
+  "translation": "Жана ага кабар берген жаш жигит айтты: Тагдыр буйругу менен Гилбө тоосундо жолугуп калдым, жана мына, Шаул найзасына таянып турат, жана мына, арабалар жана атчан аскер башчылары аны кысыңкылай башташты.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
-    "user-sha256": "54302bb1d3b8feb61d531de07c546fa66517db9344a3236e743a7e678f452d2b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-samuel\/1\/5-8.1791207336049.json",
-    "code": "da1b46b6-dirty",
+    "user-sha256": "8bdf48e0ed9d73c375a6c465859adb11efe593bfa38942a23103a706a7c86a69",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-samuel\/1\/6-6.1791225558359.json",
+    "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
     "clean-room?": false
@@ -30,27 +35,27 @@
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "деди"
+      "gloss": "айтты"
     },
     {
       "surface": "הנער",
-      "gloss": "жигит"
+      "gloss": "жаш жигит"
     },
     {
       "surface": "המגיד",
-      "gloss": "кабар айтып жаткан"
+      "gloss": "кабар берген"
     },
     {
       "surface": "לו",
-      "gloss": "⟨ага⟩"
+      "gloss": "ага"
     },
     {
       "surface": "נקרא",
-      "gloss": "жолугуп"
+      "gloss": "жолугуп калдым"
     },
     {
       "surface": "נקריתי",
-      "gloss": "кокусунан калдым"
+      "gloss": "Тагдыр буйругу менен"
     },
     {
       "surface": "בהר",
@@ -58,11 +63,11 @@
     },
     {
       "surface": "הגלבע",
-      "gloss": "Гилбоа"
+      "gloss": "Гилбө"
     },
     {
       "surface": "והנה",
-      "gloss": "мына"
+      "gloss": "жана мына"
     },
     {
       "surface": "שאול",
@@ -70,19 +75,19 @@
     },
     {
       "surface": "נשען",
-      "gloss": "таянып турду"
+      "gloss": "таянып турат"
     },
     {
       "surface": "על",
-      "gloss": "-на"
+      "gloss": "үстүнө"
     },
     {
       "surface": "חניתו",
-      "gloss": "найзасы"
+      "gloss": "найзасына"
     },
     {
       "surface": "והנה",
-      "gloss": "мына"
+      "gloss": "жана мына"
     },
     {
       "surface": "הרכב",
@@ -90,17 +95,17 @@
     },
     {
       "surface": "ובעלי",
-      "gloss": "жана ээлери"
+      "gloss": "жана ... башчылары"
     },
     {
       "surface": "הפרשים",
-      "gloss": "аттардын"
+      "gloss": "атчан аскер"
     },
     {
       "surface": "הדבקהו",
-      "gloss": "аны кууп жетип калышты"
+      "gloss": "аны кыса башташты"
     }
   ],
-  "timestamp": "2026-10-05T13:35:36.050780424Z",
+  "timestamp": "2026-10-05T18:39:18.359657828Z",
   "model": "glm-5.3"
 }

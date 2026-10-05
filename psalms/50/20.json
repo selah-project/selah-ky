@@ -7,21 +7,26 @@
   "chapter": 50,
   "notes": [
     {
-      "kind": "crux",
-      "subject": "допи",
-      "rationale": "Бул сөз Танахта сейрек кездешет: 'сөгүнүү\/жалаа' деген маани — 'жыргап кетүү' деген вариант да бар"
+      "kind": "substitution",
+      "subject": "жагымсыз сөз",
+      "rationale": "דפי — жагымсыз сөз, даттоо; лексема өзүнчө сейрек кездешет, бул аятта туура мааниси — каралоо сөз"
     },
     {
-      "kind": "substitution",
-      "subject": "титтитен допи",
-      "rationale": "Букм. 'сөгүнүү бересің' — 'жалаа жабасың' деген табигый кыргыз туюнтма"
+      "kind": "wordplay",
+      "subject": "תשב ... תדבר ... תתן",
+      "rationale": "Үч этиш тең та- prefixed formада — параллелизм, кыргызча ы formа бирдейлиги сакталбай калды"
+    },
+    {
+      "kind": "elision",
+      "subject": "ב превотивдик колдонулушу",
+      "rationale": "ב בן אמך — «энеңдин уулуна» дегенде байламта кыргызча иле тарабынан көтөрүлдү"
     }
   ],
-  "translation": "Тынч отуруп, бир тууганың жөнүндө сүйлөйсүң, энеңдин уулу жөнүндө жалаа жабасың.",
+  "translation": "Отуруп, бир тууганың жөнүндө сүйлөйсүң, энеңдин уулуна жагымсыз сөз айтасың.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
-    "user-sha256": "15aed668552cc575206c6f0a43fb01428f4be214646cd9253294d44b31bc9138",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/50\/17-20.1791216099113.json",
+    "user-sha256": "d291b56b878dbeea11e01b2dc535f1eb95c3835faa1fc01b924c2ac1bce8fdd4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/50\/20-20.1791226165356.json",
     "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -42,7 +47,7 @@
     },
     {
       "surface": "בבן",
-      "gloss": "… уулу жөнүндө"
+      "gloss": "уулуна"
     },
     {
       "surface": "אמך",
@@ -50,13 +55,13 @@
     },
     {
       "surface": "תתן",
-      "gloss": "бересің"
+      "gloss": "айтасың"
     },
     {
       "surface": "דפי",
-      "gloss": "жалаа"
+      "gloss": "жагымсыз сөз"
     }
   ],
-  "timestamp": "2026-10-05T16:01:39.114308355Z",
+  "timestamp": "2026-10-05T18:49:25.356701161Z",
   "model": "glm-5.3"
 }

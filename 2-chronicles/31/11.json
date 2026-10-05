@@ -7,16 +7,21 @@
   "chapter": 31,
   "notes": [
     {
-      "kind": "idiom",
-      "subject": "буйругу",
-      "rationale": "י אйтты — буйрук маанисинде, кыргызча «буйругу» табигый"
+      "kind": "addition",
+      "subject": "⟨аларды⟩",
+      "rationale": "Ивритте объект түшүп калган — кыргызча тактык үчүн кошулду"
+    },
+    {
+      "kind": "substitution",
+      "subject": "бөлмөлөрдү",
+      "rationale": "לִשְׁכֹּות — үйдүн жактарындагы сактагыч бөлмөлөр; жөн гана бөлмө деген маанида берилди"
     }
   ],
-  "translation": "Жана Жеҳазкия Яхвенин үйүндө бөлмөлөрдү даярдоону буйругу, жана алар даярдашты.",
+  "translation": "Жана Хизкияуу Яхвенин үйүндө бөлмөлөрдү даярдоону буйруду, жана алар ⟨аларды⟩ даярдашты.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
-    "user-sha256": "19c10fc203eb2c45e754c7f1d0acbca0acf69662533c44c21aa4f45bb1d798ad",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-chronicles\/31\/9-12.1791223351107.json",
+    "user-sha256": "458d2619aca10937ca0e913a54df86ba41408968510a17628d79f5b4bab87dc1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-chronicles\/31\/11-11.1791226458113.json",
     "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -25,15 +30,15 @@
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Жана Жеҳазкия айтты"
+      "gloss": "жана айтты"
     },
     {
       "surface": "יחזקיהו",
-      "gloss": "Жеҳазкия"
+      "gloss": "Хизкияуу"
     },
     {
       "surface": "להכין",
-      "gloss": "даярдоону"
+      "gloss": "даярдооону буйруду"
     },
     {
       "surface": "לשכות",
@@ -52,6 +57,6 @@
       "gloss": "жана даярдашты"
     }
   ],
-  "timestamp": "2026-10-05T18:02:31.108373282Z",
+  "timestamp": "2026-10-05T18:54:18.114084830Z",
   "model": "glm-5.3"
 }

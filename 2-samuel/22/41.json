@@ -8,21 +8,21 @@
   "notes": [
     {
       "kind": "idiom",
-      "subject": "жутун бердің",
-      "rationale": "ינת לי ערף — 'мүнөөсүн берүү' идиома: душманды качууга аргасыз кылуу, качышы."
+      "subject": "желкесин бердиң",
+      "rationale": "Идиома 'шеф' (желке) — душман качып, артты көрсөткөнү; КJV 'мойunkaны бердиң', ASV\/JPS 'артты көрсөттү' деп бузат"
     },
     {
-      "kind": "wordplay",
-      "subject": "ואיבי \/ משנאי",
-      "rationale": "душман жана аны жек көргөндөр — бир тамырдагы эки аталыш катар турат."
+      "kind": "crux",
+      "subject": "вав конșekutilи ואצמיתם",
+      "rationale": "Катарда вав аксенди 'аларды кырып салдым' (KJV 'I might destroy') же жыйынтык 'жана кырдым' (YLТ, BSB) — экөө тең мүмкүн"
     }
   ],
-  "translation": "Жана Сен менин душмандарымы мага жутун бердің; аны жек көргөндөрдү мен жок кылдым.",
+  "translation": "Жана Сен менин душмандарыма мага желкесин бердиң, мени жек көргөндөрдү — жана мен аларды кырып салдым.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
-    "user-sha256": "b75fdaae818cbd2e8bb81776f209da940ba35380ff2582dc6423cfedbaeb3bbc",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-samuel\/22\/41-44.1791207888937.json",
-    "code": "641241cf-dirty",
+    "user-sha256": "13ab159803253cf54fbf9d2aa12f62e9e5eceb774cc1801bac715022437212c0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-samuel\/22\/41-41.1791225571126.json",
+    "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
     "clean-room?": false
@@ -30,7 +30,7 @@
   "tokens": [
     {
       "surface": "ואיבי",
-      "gloss": "Жана Сен менин душмандарымы"
+      "gloss": "жана менин душмандарыма"
     },
     {
       "surface": "תתה",
@@ -42,17 +42,17 @@
     },
     {
       "surface": "ערף",
-      "gloss": "жутун"
+      "gloss": "желкесин"
     },
     {
       "surface": "משנאי",
-      "gloss": "аны жек көргөндөрдү"
+      "gloss": "мени жек көргөндөрдү"
     },
     {
-      "surface": "וָאַצְמִיתֵ׽ם",
-      "gloss": "мен жок кылдым"
+      "surface": "ואצמיתם",
+      "gloss": "жана мен аларды кырып салдым"
     }
   ],
-  "timestamp": "2026-10-05T13:44:48.938353766Z",
+  "timestamp": "2026-10-05T18:39:31.127372472Z",
   "model": "glm-5.3"
 }

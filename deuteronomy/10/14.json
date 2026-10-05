@@ -9,20 +9,20 @@
     {
       "kind": "addition",
       "subject": "таандык",
-      "rationale": "Еврей тилинде \" лайахве \" үчүн этиш жок, кыргызча керек"
+      "rationale": "Еврейче этиш жок; ээлик мааниси кыргызча «таандык» этиши менен берилди"
     },
     {
-      "kind": "idiom",
-      "subject": "асмандардын асманы",
-      "rationale": "Өтө бийик асман деген идиома, эң жогорку асман маанисинде"
+      "kind": "substitution",
+      "subject": "אשר בה",
+      "rationale": "«Анын ичиндеги бүт нерселер» — латын жолу менен, бирок еврейче «анда бардыгы» деген кыска түзүм"
     }
   ],
-  "translation": "Көр, Яхвеге, сенин Элохимиңе таандык ⟨the⟩ асман жана асмандардын асманы, жер жана анын ичиндеги бүт нерселер.",
+  "translation": "Кара ⟨эсеп⟩, Яхвеңе Элохимге таандык асман жана асмандын асмандары, жер жана анын ичиндеги бүт нерселер.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
-    "user-sha256": "32f896c69cffcd09c14dbd825904cfcf2c6fbe5963b6e54df807c7bb4e7242c1",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/10\/13-16.1791204853677.json",
-    "code": "f71bac6e-dirty",
+    "user-sha256": "c2c0e7545143fbdc07548d7f69b7e762316c5d4720326fed8a7cdbb280e4f693",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/10\/14-14.1791225310824.json",
+    "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
     "clean-room?": false
@@ -30,15 +30,15 @@
   "tokens": [
     {
       "surface": "הן",
-      "gloss": "Көр"
+      "gloss": "кара ⟨эсеп⟩"
     },
     {
       "surface": "ליהוה",
-      "gloss": "Яхвеге"
+      "gloss": "Яхвеңе"
     },
     {
       "surface": "אלהיך",
-      "gloss": "сенин Элохимиңе"
+      "gloss": "Элохимге"
     },
     {
       "surface": "השמים",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "ושמי",
-      "gloss": "жана асмандардын"
+      "gloss": "жана асмандын"
     },
     {
       "surface": "השמים",
@@ -58,17 +58,17 @@
     },
     {
       "surface": "וכל",
-      "gloss": "жана бүт"
+      "gloss": "жана бүт нерселер"
     },
     {
       "surface": "אשר",
-      "gloss": "NERSEЛЕР"
+      "gloss": "…нын ичиндеги"
     },
     {
       "surface": "בה",
-      "gloss": "анын ичинде"
+      "gloss": "анын"
     }
   ],
-  "timestamp": "2026-10-05T12:54:13.678722892Z",
+  "timestamp": "2026-10-05T18:35:10.825079758Z",
   "model": "glm-5.3"
 }

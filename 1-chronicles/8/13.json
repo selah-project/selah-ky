@@ -7,26 +7,26 @@
   "chapter": 8,
   "notes": [
     {
-      "kind": "addition",
-      "subject": "—",
-      "rationale": "Hebrew lacks a copula; Kyrgyz requires one between the names and their apposition"
+      "kind": "idiom",
+      "subject": "ראשי האבות",
+      "rationale": "Жөн гана «башчылар» эмес, «атабаш урууларынын башчылары» — ата-бабалар үй-бүлөлөрүнүн башы деген туруктуу ибара."
     },
     {
-      "kind": "measurement",
-      "subject": "genealogy",
-      "rationale": "the verse counts and names the family heads of the Ajalon settlers"
+      "kind": "substitution",
+      "subject": "הבריחו",
+      "rationale": "Буктурмо мааниси — «кабат качырды \/ сүрүп чыгарды»; жөн «өлтүрдү» эмес."
     },
     {
-      "kind": "wordplay",
-      "subject": "הבריחו \/ בריעה",
-      "rationale": "the verb 'they put to flight' echoes the name Beriah; lost in Kyrgyz"
+      "kind": "you",
+      "subject": "Аялон жана Гат жөнүндө",
+      "rationale": "Аталыштар тизмеси — өлчөм\/каттоо (measurement) мүнөзүндөгү шежире бөлүгү."
     }
   ],
-  "translation": "жана Бериа жана Шема — алар Аялондун жашоочуларынын ата-бabalарынын башчылары; алар ⟨את⟩ Гаттын жашоочуларын кубалап качырды.",
+  "translation": "жана Бериа менен Шема — алар Аялон жашоочуларынын атабаштарынын башчылары; алар ⟨את⟩ Гат жашоочуларын кубалап качырды.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
-    "user-sha256": "595d79ef62734dfa2fec266e5f21b8aa9ef0b3750e8286b8f271ed8071427810",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-chronicles\/8\/13-16.1791221932312.json",
+    "user-sha256": "6c9b24ae1275e1c08717d84310846fab558b1cbd97e9c53173bd442e4138da51",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-chronicles\/8\/13-13.1791226384947.json",
     "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -34,12 +34,12 @@
   },
   "tokens": [
     {
-      "surface": "ובריעה",
+      "surface": "וברעה",
       "gloss": "жана Бериа"
     },
     {
       "surface": "ושמע",
-      "gloss": "жана Шема"
+      "gloss": "менен Шема"
     },
     {
       "surface": "המה",
@@ -51,7 +51,7 @@
     },
     {
       "surface": "האבות",
-      "gloss": "ата-бabalардын"
+      "gloss": "атабаштарынын"
     },
     {
       "surface": "ליושבי",
@@ -59,7 +59,7 @@
     },
     {
       "surface": "אילון",
-      "gloss": "Аялондун"
+      "gloss": "Аялон"
     },
     {
       "surface": "המה",
@@ -72,7 +72,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Гаттын жашоочуларын"
+      "marks": "Гат жашоочуларын"
     },
     {
       "surface": "יושבי",
@@ -80,9 +80,9 @@
     },
     {
       "surface": "גת",
-      "gloss": "Гаттын"
+      "gloss": "Гат"
     }
   ],
-  "timestamp": "2026-10-05T17:38:52.313311081Z",
+  "timestamp": "2026-10-05T18:53:04.948175741Z",
   "model": "glm-5.3"
 }

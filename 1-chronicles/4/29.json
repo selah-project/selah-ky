@@ -5,11 +5,18 @@
   "book": "1-chronicles",
   "lang": "ky",
   "chapter": 4,
-  "translation": "жана Билhада, жана Эцемде, жана Толадда",
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Билха",
+      "rationale": "בלהה — ошол эле аттуу Жаакыптын наложницасынын аты менен аталган шаарча"
+    }
+  ],
+  "translation": "жана Билхада, жана Эцемде, жана Толадда",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
-    "user-sha256": "916655366969ccb70eba1bb7b2ccc34550fe31c2abbe186b85adeec72485e1fd",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-chronicles\/4\/29-32.1791221844780.json",
+    "user-sha256": "3311b052270c1be3c462c8c57ac67dfc2744ad5c14b173d7c1a64f58835fb824",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-chronicles\/4\/29-29.1791226373159.json",
     "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -18,7 +25,7 @@
   "tokens": [
     {
       "surface": "ובבלהה",
-      "gloss": "жана Билhада"
+      "gloss": "жана Билхада"
     },
     {
       "surface": "ובעצם",
@@ -29,6 +36,6 @@
       "gloss": "жана Толадда"
     }
   ],
-  "timestamp": "2026-10-05T17:37:24.781266754Z",
+  "timestamp": "2026-10-05T18:52:53.159820850Z",
   "model": "glm-5.3"
 }

@@ -7,22 +7,22 @@
   "chapter": 16,
   "notes": [
     {
-      "kind": "crux",
-      "subject": "מסת",
-      "rationale": "«өлчөмү боюнча» (JPS) менен «мол берүү менен» (KJV «tribute») деген эки окуу бар."
+      "kind": "measurement",
+      "subject": "measure of offering",
+      "rationale": "белек Яхвенин батасынын өлчөмүнө жараша берилиши керек — санап-өлчөп берүү"
     },
     {
-      "kind": "substitution",
-      "subject": "Шавуот",
-      "rationale": "חג שבעות «Жумалар майрамы» деп сөзмө-сөз которулду."
+      "kind": "crux",
+      "subject": "מסת",
+      "rationale": "JPS «after the measure» деп, KJV «with a tribute» деп берет; сөз «өлчөм\/молдук» деген мааниде"
     }
   ],
-  "translation": "Жана Яхвеге, Элохимиңе, Жумалар майрамын өткөр: колуңдун ыктыярдуу белегинин өлчөмү боюнча, Яхве Элохимиң сени канча баталаса, ошончо бересің.",
+  "translation": "Жана Яхвеге, Элохимиңе, Шабуот майрамын жасайсың — колуңдун ыктыярдуу белегинин өлчөмү боюнча, Яхве Элохимиң кантип батааласа, ошончо бересиң.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
-    "user-sha256": "bb34b9172bdacd966f11e5e688dcc25d9234e57f14d6bf7b7b94714e77b58086",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/16\/9-12.1791204981013.json",
-    "code": "f71bac6e-dirty",
+    "user-sha256": "5598ee5baff76041f81ead8aeef3571d251ac75816617bc7c36c2399233ec0b4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/16\/9-10.1791225383889.json",
+    "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
     "clean-room?": false
@@ -30,15 +30,15 @@
   "tokens": [
     {
       "surface": "ועשית",
-      "gloss": "жана өткөрөсүң"
+      "gloss": "жасайсың"
     },
     {
       "surface": "חג",
-      "gloss": "майрамын"
+      "gloss": "майрам"
     },
     {
       "surface": "שבעות",
-      "gloss": "Жумалар"
+      "gloss": "Шабуот"
     },
     {
       "surface": "ליהוה",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "נדבת",
-      "gloss": "ыктыярдуу белегинин"
+      "gloss": "ыктыярдуу белегин"
     },
     {
       "surface": "ידך",
@@ -62,19 +62,19 @@
     },
     {
       "surface": "אשר",
-      "gloss": "эмне"
+      "gloss": "⟨да⟩"
     },
     {
       "surface": "תתן",
-      "gloss": "бересің"
+      "gloss": "бересиң"
     },
     {
       "surface": "כאשר",
-      "gloss": "канча"
+      "gloss": "кантип…ошончо"
     },
     {
       "surface": "יברכך",
-      "gloss": "баталаса"
+      "gloss": "батааласа"
     },
     {
       "surface": "יהוה",
@@ -85,6 +85,6 @@
       "gloss": "Элохимиң"
     }
   ],
-  "timestamp": "2026-10-05T12:56:21.014468544Z",
+  "timestamp": "2026-10-05T18:36:23.890496775Z",
   "model": "glm-5.3"
 }

@@ -7,21 +7,21 @@
   "chapter": 69,
   "notes": [
     {
-      "kind": "elision",
-      "subject": "אל",
-      "rationale": "Үч болбоочу жалгаоо ואל кыргызча терс этиш формасына сиңди, өзүнчө жазылган жок."
+      "kind": "substitution",
+      "subject": "тереңдик",
+      "rationale": "מצולה — суунун же ылайдын терең жери, «тереңдик» сөзү сүрөттү сактайт"
     },
     {
-      "kind": "wordplay",
-      "subject": "שבלת",
-      "rationale": "Шиболет — 'агын суу' деген сөз 'эгиз дандын сабагы' дегенди да туюнтат; кыргызча бул эки маани жоголду."
+      "kind": "addition",
+      "subject": "ал",
+      "rationale": "בלע этишке кыргыз тили «жутуп ал» деген көмөкчү этишти талап кылат"
     }
   ],
-  "translation": "Суу ташкыны мени каптабасын, тереңдик мени жутуп албасын, кудук оозун үстүмдөн жаап салбасын.",
+  "translation": "Суу агымы мени каптабагын, тереңдик мени жутуп албагын жана чуңкур оозун менин үстүмдөн жаап салбасын.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
-    "user-sha256": "47969150fa716fb6d3c0651bb4d6a5c51568d472cd91d13850f2a329461459bf",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/69\/13-16.1791216426798.json",
+    "user-sha256": "7bc2e0b65b4cd847cb8ebe659d54443586a598b84d20e924e7d05e1ce9e96378",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/69\/16-16.1791226148419.json",
     "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -30,15 +30,15 @@
   "tokens": [
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "багын"
     },
     {
       "surface": "תשטפני",
-      "gloss": "каптабасын"
+      "gloss": "каптабагын"
     },
     {
-      "surface": "שבолת",
-      "gloss": "ташкыны"
+      "surface": "שבלת",
+      "gloss": "агымы"
     },
     {
       "surface": "מים",
@@ -46,11 +46,11 @@
     },
     {
       "surface": "ואל",
-      "gloss": ""
+      "gloss": "жана…багын"
     },
     {
-      "surface": "תבלעני",
-      "gloss": "жутуп албасын"
+      "surface": "תבלענи",
+      "gloss": "жутуп албагын"
     },
     {
       "surface": "מצולה",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "ואל",
-      "gloss": ""
+      "gloss": "жана…басын"
     },
     {
       "surface": "תאטר",
@@ -70,13 +70,13 @@
     },
     {
       "surface": "באר",
-      "gloss": "кудук"
+      "gloss": "чуңкур"
     },
     {
       "surface": "פיה",
       "gloss": "оозун"
     }
   ],
-  "timestamp": "2026-10-05T16:07:06.799050438Z",
+  "timestamp": "2026-10-05T18:49:08.419762455Z",
   "model": "glm-5.3"
 }

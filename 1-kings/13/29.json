@@ -7,22 +7,22 @@
   "chapter": 13,
   "notes": [
     {
-      "kind": "addition",
-      "subject": "ал",
-      "rationale": "Ивритте субъекти кайра атоо жок, кыргызча талап кылат"
+      "kind": "substitution",
+      "subject": "сөөгүн",
+      "rationale": "נבלה — 'өлүк, чиринді сөөк' (жаныбар үчүн да колдонулган); 'сөөк' жумшакрақ, бирок 'чирген эт' кыргызчада жагымсыз эстирет"
     },
     {
-      "kind": "substitution",
-      "subject": "өлүк сөөк",
-      "rationale": "נבלת — жабышкак, жүдөө нерсесе; «сөөк» жумшакташтырат"
+      "kind": "alternative",
+      "subject": "וישיבהו subject",
+      "rationale": "KJV 'brought it back' (сөөктү алып келди); Geneva 1599 боюнча 'the old prophet came' — бирок оригиналда эки этиш тең пайгамбарга тиешелүү"
     }
   ],
-  "translation": "Пайгамбар Элохимдин кишисинин өлүк сөөгүн ⟨את⟩ көтөрүп, аны эшектин үстүнө жаткызып, кайра алып келди; ал карыган пайгамбардын шаарына кirdi — ага кошок кошоп, аны көмүү үчүн.",
+  "translation": "Пайгамбар Элохимдин адамынын ⟨את⟩ сөөгүн көтөрүп, аны эшекке жүктөп, кайрадан алып келди жана карыган пайгамбардын шаарына келди, ага кошок кошуп, аны көмүү үчүн.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
-    "user-sha256": "e3d70f42bfbcf1883f82828c8d12b31042d91561aac6ab6665f2b47ea5b7007f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-kings\/13\/29-32.1791208341788.json",
-    "code": "641241cf-dirty",
+    "user-sha256": "f1046c8a504ee6af77ec3ad7c95fb36fe4d27f7604fc757df1f2dde4075afcc6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-kings\/13\/29-29.1791225590531.json",
+    "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
     "clean-room?": false
@@ -39,15 +39,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "өлүк сөөгүн"
+      "marks": "сөөгүн"
     },
     {
       "surface": "נבלת",
-      "gloss": "өлүк сөөгүн"
+      "gloss": "сөөгүн"
     },
     {
       "surface": "איש",
-      "gloss": "кишисинин"
+      "gloss": "адамынын"
     },
     {
       "surface": "האלהים",
@@ -55,27 +55,27 @@
     },
     {
       "surface": "וינחהו",
-      "gloss": "жаткызып"
+      "gloss": "жүктөп"
     },
     {
       "surface": "אל",
-      "gloss": "үстүнө"
+      "gloss": "эшекке"
     },
     {
       "surface": "החמור",
-      "gloss": "эшектин"
+      "gloss": "эшекке"
     },
     {
       "surface": "וישיבהו",
-      "gloss": "алып келди"
+      "gloss": "кайрадан алып келди"
     },
     {
       "surface": "ויבא",
-      "gloss": "кирди"
+      "gloss": "келди"
     },
     {
       "surface": "אל",
-      "gloss": "-га"
+      "gloss": "шаарына"
     },
     {
       "surface": "עיר",
@@ -87,17 +87,17 @@
     },
     {
       "surface": "הזקן",
-      "gloss": "кариган"
+      "gloss": "карыган"
     },
     {
       "surface": "לספד",
-      "gloss": "кошок кошоп"
+      "gloss": "кошок кошуп"
     },
     {
       "surface": "ולקברו",
       "gloss": "көмүү үчүн"
     }
   ],
-  "timestamp": "2026-10-05T13:52:21.788820271Z",
+  "timestamp": "2026-10-05T18:39:50.531924368Z",
   "model": "glm-5.3"
 }

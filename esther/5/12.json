@@ -9,19 +9,19 @@
     {
       "kind": "idiom",
       "subject": "כי אם",
-      "rationale": "Hebrew restrictive idiom «кийинкиден башка» — rendered by Kyrgyz «гана»"
+      "rationale": "Идиома «болгондо да... гана» — бүтүндөй «менден башка эч ким» деген мааниде, кыргызча «мени гана» деп берилди."
     },
     {
-      "kind": "elision",
-      "subject": "אותי",
-      "rationale": "Aleph-tav with 1st-person suffix («мени»); carries the DOM marker inside the pronoun, so no separate ⟨את⟩ glyph"
+      "kind": "addition",
+      "subject": "чакырылганмын",
+      "rationale": "Кыргыз тили этиштин жөнөкөй өткөн чагын жана жандоочту талап кылат; еврейче жөн гана пассив турат."
     }
   ],
-  "translation": "Аман дагы мындай деди: Дагы болсо, Эстер падыша падыша менен бирге өзү койгон тойго ⟨את⟩ мени гана алып келди; жана эртең да мен падыша менен бирге ага чакырылганмын.",
+  "translation": "Жана Хаман айтты: Дагы да, падыша Эстер падыша менен бирге өзү жасаган тойго эч кимди киргизген жок, ⟨את⟩ мени гана; жана эртеге да мен падыша менен бирге ага чакырылганмын.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
-    "user-sha256": "964c362621328d27e1b7522057a2923b364edbd630df8974a75b44526831871b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/esther\/5\/9-12.1791220267180.json",
+    "user-sha256": "b631b53b9e7ed7e75bebcab37e81c166884fac924a86a8eb1db29b559b97f80d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/esther\/5\/12-13.1791226306120.json",
     "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -30,15 +30,15 @@
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "деди"
+      "gloss": "жана айтты"
     },
     {
       "surface": "המן",
-      "gloss": "Аман"
+      "gloss": "Хаман"
     },
     {
       "surface": "אף",
-      "gloss": "дагы"
+      "gloss": "дагы да"
     },
     {
       "surface": "לא",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "הביאה",
-      "gloss": "алып келди"
+      "gloss": "киргизген"
     },
     {
       "surface": "אסתר",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "עם",
-      "gloss": "менен"
+      "gloss": "менен бирге"
     },
     {
       "surface": "המלך",
@@ -66,7 +66,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "жаҡ"
+      "gloss": "дал"
     },
     {
       "surface": "המשתה",
@@ -74,19 +74,19 @@
     },
     {
       "surface": "אשר",
-      "gloss": "кайсы"
+      "gloss": "⟨ал⟩"
     },
     {
       "surface": "עשתה",
-      "gloss": "койгон"
+      "gloss": "жасаган"
     },
     {
       "surface": "כי",
-      "gloss": "тек"
+      "gloss": "сыяктуу"
     },
     {
       "surface": "אם",
-      "gloss": "гана"
+      "gloss": "болсо"
     },
     {
       "surface": "אותי",
@@ -98,7 +98,7 @@
     },
     {
       "surface": "למחר",
-      "gloss": "эртең"
+      "gloss": "эртеге"
     },
     {
       "surface": "אני",
@@ -106,7 +106,7 @@
     },
     {
       "surface": "קרוא",
-      "gloss": "чакырылган"
+      "gloss": "чакырылганмын"
     },
     {
       "surface": "לה",
@@ -114,13 +114,13 @@
     },
     {
       "surface": "עם",
-      "gloss": "менен"
+      "gloss": "менен бирге"
     },
     {
       "surface": "המלך",
       "gloss": "падыша"
     }
   ],
-  "timestamp": "2026-10-05T17:11:07.182155210Z",
+  "timestamp": "2026-10-05T18:51:46.121141059Z",
   "model": "glm-5.3"
 }

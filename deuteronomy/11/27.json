@@ -7,22 +7,17 @@
   "chapter": 11,
   "notes": [
     {
-      "kind": "substitution",
-      "subject": "угуп мойун сунсаңар",
-      "rationale": "шама 'угуу' — буйрукка моюн сунуу маанисинде; кыргызча эки сөз керек"
-    },
-    {
       "kind": "addition",
-      "subject": "бата — …",
-      "rationale": "еврейче шарттык структура 'бата, эгерде…' формасында, кыргызча тыныш белги менен берилди"
+      "subject": "эгер",
+      "rationale": "ивритте шарт атоочту анык билдирген сөз жок, «ашер» байланышты гана көтөрөт"
     }
   ],
-  "translation": "Бата — Яхве, силердин Элохимиңердин буйруктарына угуп мойун сунсаңар, аларды мен бүгүн силерге буйруп жатам.",
+  "translation": "⟨את⟩ батаны — эгер силер Яхве, силердин Элохимуңардын буйруктарына кулак түрсөңөр, аларды мен бүгүн силерге буйрук кылам.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
-    "user-sha256": "a580d3b918aab859bea1fbb8c5d74578c1f424889aa8aa38792c920dfdb8e3e4",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/11\/25-28.1791204861195.json",
-    "code": "f71bac6e-dirty",
+    "user-sha256": "c151d29b51b61d8ad7d27bc536e6e3baa167437261ed15d2f5e832ce5f25bcba",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/11\/27-28.1791225328903.json",
+    "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
     "clean-room?": false
@@ -35,31 +30,31 @@
     },
     {
       "surface": "הברכה",
-      "gloss": "бата"
+      "gloss": "батаны"
     },
     {
       "surface": "אשר",
-      "gloss": "—"
+      "gloss": "эгер"
     },
     {
       "surface": "תשמעו",
-      "gloss": "угуп мойун сунсаңар"
+      "gloss": "кулак түрсөңөр"
     },
     {
       "surface": "אל",
-      "gloss": "—"
+      "gloss": "-га"
     },
     {
       "surface": "מצות",
-      "gloss": "буйруктарына"
+      "gloss": "буйруктары"
     },
     {
       "surface": "יהוה",
-      "gloss": "Яхвенін"
+      "gloss": "Яхве"
     },
     {
       "surface": "אלהיכם",
-      "gloss": "Элохимиңердин"
+      "gloss": "силердин Элохимуңардын"
     },
     {
       "surface": "אשר",
@@ -71,17 +66,18 @@
     },
     {
       "surface": "מצוה",
-      "gloss": "буйруп жатам"
+      "gloss": "буйрук кылам"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ силерди"
+      "gloss": "⟨את⟩",
+      "marks": "силерге"
     },
     {
       "surface": "היום",
       "gloss": "бүгүн"
     }
   ],
-  "timestamp": "2026-10-05T12:54:21.196828688Z",
+  "timestamp": "2026-10-05T18:35:28.904521637Z",
   "model": "glm-5.3"
 }

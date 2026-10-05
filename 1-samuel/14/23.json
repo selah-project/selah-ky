@@ -5,11 +5,23 @@
   "book": "1-samuel",
   "lang": "ky",
   "chapter": 14,
-  "translation": "Ошол күнү Яхве ⟨את⟩ Йисраэлди kutkardı, жана согуш ⟨את⟩ Бейт-Авенди басып өттү.",
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Бейт-Авен",
+      "rationale": "בית און — жер аталышы (Бейт-Элдин жакындагы жер); Хошея 4:15 да ушул аталыш менен белгилүү"
+    },
+    {
+      "kind": "crux",
+      "subject": "עברה את בית און",
+      "rationale": "'согуш Бейт-Авенди ашып өттү' — жөн гана 'чейрекке жетти' же 'анын үстүнөн өттү' деп да которулат"
+    }
+  ],
+  "translation": "Яхве ошол күнү ⟨את⟩ Йисраэлди куткарды, жана согуш Бейт-Авенди ⟨את⟩ ашып өттү.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
-    "user-sha256": "ad507a65a84bdf54b4a6481f46b04fbcb8f5f5adfb39395fbfaa9f814e81a48b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-samuel\/14\/23-24.1791223869372.json",
+    "user-sha256": "c19c54b7e4600d1a5377eb48034aa7a0819c28dc745a679b401f6f27efccff3d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-samuel\/14\/23-23.1791225517472.json",
     "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -18,7 +30,7 @@
   "tokens": [
     {
       "surface": "ויושע",
-      "gloss": "kutkardı"
+      "gloss": "куткарды"
     },
     {
       "surface": "יהוה",
@@ -26,7 +38,7 @@
     },
     {
       "surface": "ביום",
-      "gloss": "күнү"
+      "gloss": "ошол күнү"
     },
     {
       "surface": "ההוא",
@@ -47,7 +59,7 @@
     },
     {
       "surface": "עברה",
-      "gloss": "басып өттү"
+      "gloss": "ашып өттү"
     },
     {
       "surface": "את",
@@ -63,6 +75,6 @@
       "gloss": "Авен"
     }
   ],
-  "timestamp": "2026-10-05T18:11:09.372734219Z",
+  "timestamp": "2026-10-05T18:38:37.472507604Z",
   "model": "glm-5.3"
 }

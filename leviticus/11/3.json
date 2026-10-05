@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 11:3",
+  "book": "leviticus",
+  "lang": "ky",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "פרסה…פרסת \/ שסעת…שסע",
+      "rationale": "Тамыр кайталоосу: парас-парас, шеса-шеса — үндөштүк кыргызчада жоголду."
+    },
+    {
+      "kind": "substitution",
+      "subject": "күйүт",
+      "rationale": "גרה — кайра чайнап чыгаруучу жээмиш; 'күйүт' кыргызча эң жакын турмуш сөзү."
+    },
+    {
+      "kind": "measurement",
+      "subject": "жетишүү критерийи",
+      "rationale": "Аш-таам эрежеси эч нерсе өлчөбөсө да, жегис болуунун так шартын санап берет: туяк + жарык + күйүт."
+    }
+  ],
+  "translation": "Ар бир туягын бөлүп, туягын жарыкка чейин жарып, күйүтүн кайра чыгарып жаткан мал — ⟨את⟩ ошону жейсигер.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "b3d6de6350761eed2592c9791739acdb370fcef6f996980e6f45dd16a6b9adca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/11\/2-3.1791225141067.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ар бир"
+    },
+    {
+      "surface": "מפרסת",
+      "gloss": "бөлүп"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "туягын"
+    },
+    {
+      "surface": "ושסעת",
+      "gloss": "жана жарып"
+    },
+    {
+      "surface": "שסע",
+      "gloss": "жарыкка"
+    },
+    {
+      "surface": "פרסת",
+      "gloss": "туягын"
+    },
+    {
+      "surface": "מעלת",
+      "gloss": "кайра чыгарып жаткан"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "күйүтүн"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "мал"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ошону"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "жейсигер"
+    }
+  ],
+  "timestamp": "2026-10-05T18:32:21.068195939Z",
+  "model": "glm-5.3"
+}

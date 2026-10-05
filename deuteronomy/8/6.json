@@ -7,17 +7,22 @@
   "chapter": 8,
   "notes": [
     {
+      "kind": "addition",
+      "subject": "⟨аларды⟩",
+      "rationale": "את мүчөсүз, буйруктардын көптүк санын тактоо үчүн кошулду"
+    },
+    {
       "kind": "you",
-      "subject": "Израилге",
-      "rationale": "Буйрук формасында элге直接 кайрылуу."
+      "subject": "to Israel",
+      "rationale": "сеникү функциясы — Моше Йисраэлге багытталат"
     }
   ],
-  "translation": "Жана Яхвенін, сенин Элохимңдин буйруктарын сакта: Анын жолдорунда басуу үчүн жана Аныдан коркуу үчүн ⟨את Аны⟩.",
+  "translation": "Жана сен Яхве ⟨аларды⟩ — Элохимиңдин буйруктарын сактайсың, анын жолдорунда жүүү үчүн жана ⟨את⟩ ⟨Аны⟩ коркуу үчүн.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
-    "user-sha256": "c27dabee088dc1fb09f9df2aadcbfbf6da9496268d9d172abb055ed4a69efd83",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/8\/5-8.1791204877661.json",
-    "code": "f71bac6e-dirty",
+    "user-sha256": "40a087faeb78fd2d06d2b1d656f632ea47542b842f8d4f7d260db2bbcb6b3fee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/8\/6-6.1791225294851.json",
+    "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
     "clean-room?": false
@@ -25,12 +30,12 @@
   "tokens": [
     {
       "surface": "ושמרת",
-      "gloss": "жана сакта"
+      "gloss": "сактайсың"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "буйруктарын"
+      "marks": "буйруктарды"
     },
     {
       "surface": "מצות",
@@ -38,29 +43,29 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "Яхвенін"
+      "gloss": "Яхве"
     },
     {
       "surface": "אלהיך",
-      "gloss": "сенин Элохимңдин"
+      "gloss": "Элохимиңдин"
     },
     {
       "surface": "ללכת",
-      "gloss": "басуу үчүн"
+      "gloss": "жүүү үчүн"
     },
     {
       "surface": "בדרכיו",
-      "gloss": "Анын жолдорунда"
+      "gloss": "анын жолдорунда"
     },
     {
       "surface": "וליראה",
-      "gloss": "жана коркуу үчүн"
+      "gloss": "коркуу үчүн"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ Аны"
+      "gloss": "⟨את⟩ ⟨Аны⟩"
     }
   ],
-  "timestamp": "2026-10-05T12:54:37.661797829Z",
+  "timestamp": "2026-10-05T18:34:54.851743652Z",
   "model": "glm-5.3"
 }

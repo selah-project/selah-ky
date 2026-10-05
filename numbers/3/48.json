@@ -7,17 +7,22 @@
   "chapter": 3,
   "notes": [
     {
+      "kind": "addition",
+      "subject": "бул",
+      "rationale": "Кыргызча илим жок; «бул» түшүнүктүү кылуу үчүн кошулду"
+    },
+    {
       "kind": "substitution",
-      "subject": "күмүш",
-      "rationale": "הכסף күмүш да, акча да — салмак боюнча төлөнөт"
+      "subject": "куткаруу акысы",
+      "rationale": "פדויי — куткаруучу төлөм, дайыма айкын сөз менен берилди"
     }
   ],
-  "translation": "Жана күмүштү Ахаронго жана анын уулдарына бересиң — алардын ичинен ашып калгандардын куткарылуу акысы катары.",
+  "translation": "Жана сен ⟨бул⟩ күмүштү Ахаронго жана анын уулдарына бер — алардын арасынан артык калгандардын куткаруу акысы катары.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
-    "user-sha256": "bd19ee9b43891fceb79caca58f17e6c3095e67e85bd80afa6d3076cad404b503",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/numbers\/3\/45-48.1791203581417.json",
-    "code": "f71bac6e-dirty",
+    "user-sha256": "513535ac738b355061e869cd61841feef53d5680b87d712ade4061889313e877",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/numbers\/3\/48-49.1791225273502.json",
+    "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
     "clean-room?": false
@@ -25,7 +30,7 @@
   "tokens": [
     {
       "surface": "ונתתה",
-      "gloss": "жана бересің"
+      "gloss": "жана сен... бер"
     },
     {
       "surface": "הכסף",
@@ -41,17 +46,17 @@
     },
     {
       "surface": "פדויי",
-      "gloss": "куткарылуу акысы катары"
+      "gloss": "куткаруу акысы"
     },
     {
       "surface": "העדפים",
-      "gloss": "ашып калгандардын"
+      "gloss": "артык калгандардын"
     },
     {
       "surface": "בהם",
-      "gloss": "алардын ичинен"
+      "gloss": "алардын арасынан"
     }
   ],
-  "timestamp": "2026-10-05T12:33:01.418802854Z",
+  "timestamp": "2026-10-05T18:34:33.503152061Z",
   "model": "glm-5.3"
 }

@@ -7,21 +7,26 @@
   "chapter": 1,
   "notes": [
     {
+      "kind": "substitution",
+      "subject": "соккон чөп",
+      "rationale": "כמץ — дан сепкичтен тазаланган кабыкча; «чөп» кабыл алынган сүрөт, байыркы айыл чарба сөзү"
+    },
+    {
       "kind": "elision",
-      "subject": "אם",
-      "rationale": "כי אם жупту «тескерисинче» бир сөз көтөрдү, אם бош калды"
+      "subject": "כי אם",
+      "rationale": "байланыштырма «бирок эмне гана» деп эки сөз бир мааниге бириккен, «אם» өзүнчө көтөрүлгөн жок"
     },
     {
       "kind": "wordplay",
-      "subject": "כמץ\/רוח",
-      "rationale": " Kabыл — дан тазалоодон калган калдык; салыштыруу түзүмү 1:3 дарактай каршы коюлат"
+      "subject": "לא כן ... הרשעים",
+      "rationale": "3-аяттын бактылуу адамына карама-каршы «жок, андай эмес» деген катаал тескериле; кыргызча да «анде эмес» менен сакталды"
     }
   ],
-  "translation": "Жамандар мындай эмес, тескерисинче, алар рух какып учурган kabыл сыяктуу.",
+  "translation": "Залкарлар анде эмес, алар соккон чөптөй — аларды шамал учуруп жиберет.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
-    "user-sha256": "0b7bde8d463856105adba8cd3bf11fb810073a8be120a6130bdb28fd37d54ef9",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/1\/1-4.1791215356086.json",
+    "user-sha256": "3f4cdde4ac149bd9cb4ae9679386f147a45d61a311136f8ac00fceb93206eae0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/1\/4-4.1791226089174.json",
     "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -30,41 +35,41 @@
   "tokens": [
     {
       "surface": "לא",
-      "gloss": "эмес"
+      "gloss": "жок"
     },
     {
       "surface": "כן",
-      "gloss": "мындай"
+      "gloss": "анде"
     },
     {
       "surface": "הרשעים",
-      "gloss": "Жамандар"
+      "gloss": "залкарлар"
     },
     {
       "surface": "כי",
-      "gloss": "тескерисинче"
+      "gloss": "бирок"
     },
     {
       "surface": "אם",
-      "gloss": ""
+      "gloss": "—"
     },
     {
       "surface": "כמץ",
-      "gloss": "kabыл сыяктуу"
+      "gloss": "соккон чөптөй"
     },
     {
       "surface": "אשר",
-      "gloss": "ал"
+      "gloss": "аларды"
     },
     {
       "surface": "תדפנו",
-      "gloss": "какып учурган"
+      "gloss": "учуруп жиберет"
     },
     {
       "surface": "רוח",
-      "gloss": "рух"
+      "gloss": "шамал"
     }
   ],
-  "timestamp": "2026-10-05T15:49:16.087564032Z",
+  "timestamp": "2026-10-05T18:48:09.174989284Z",
   "model": "glm-5.3"
 }

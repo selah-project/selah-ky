@@ -7,21 +7,21 @@
   "chapter": 11,
   "notes": [
     {
-      "kind": "you",
-      "subject": "Рехавамга жана Йисраэлге",
-      "rationale": "Кайрылуу Рехавамга жана Йахуда менен Бинjaminda турган бүткүл Йисраэлге багытталган."
+      "kind": "elision",
+      "subject": "לאמר",
+      "rationale": "айтуу инфинитиви кыргызча айтылгыс — «айткыла» аягы менен көтөрүлдү"
     },
     {
       "kind": "addition",
-      "subject": "⟨турган⟩",
-      "rationale": "Еврей текстинде жок этиш, кыргызча түшүнүктүү болушу үчүн кошулду."
+      "subject": "падышасы",
+      "rationale": "мүчө — иялашып турган מלך падыша сөзүнүн кыргызча байланышы"
     }
   ],
-  "translation": "Айт Рехавамга, Шломондун уулу, Йахуда падышасы, жана Йахудада жана Бинjaminda ⟨турган⟩ бүткүл Йисраэлге, мындай деп:",
+  "translation": "Айткын Рехавамга, Шломонун уулуна, Йехуданын падышасына, жана Йехуда менен Биньяминдеги бардык Йисраэлге: айткыла,",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
-    "user-sha256": "f0b758166ef3844f0bec0b387fee32cc3f43711fdd782eb16755fa7dfb1da5a2",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-chronicles\/11\/1-4.1791222836335.json",
+    "user-sha256": "0f2a39be75b9e887c7d8b3b0e4761d165af64877c1651dc917e631dcbb68a01d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-chronicles\/11\/3-3.1791226446079.json",
     "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -30,15 +30,15 @@
   "tokens": [
     {
       "surface": "אמר",
-      "gloss": "айт"
+      "gloss": "айткын"
     },
     {
       "surface": "אל",
-      "gloss": "ка"
+      "gloss": "…га"
     },
     {
       "surface": "רחבעם",
-      "gloss": "Рехавамга"
+      "gloss": "Рехавам"
     },
     {
       "surface": "בן",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "שלמה",
-      "gloss": "Шломондун"
+      "gloss": "Шломо"
     },
     {
       "surface": "מלך",
@@ -54,33 +54,33 @@
     },
     {
       "surface": "יהודה",
-      "gloss": "Йахуда"
+      "gloss": "Йехуда"
     },
     {
       "surface": "ואל",
-      "gloss": "жана ка"
+      "gloss": "жана …га"
     },
     {
       "surface": "כל",
-      "gloss": "бүткүл"
+      "gloss": "бардык"
     },
     {
       "surface": "ישראל",
-      "gloss": "Йисраэлге"
+      "gloss": "Йисраэл"
     },
     {
       "surface": "ביהודה",
-      "gloss": "Йахудада"
+      "gloss": "Йехудада"
     },
     {
       "surface": "ובנימן",
-      "gloss": "жана Бинjaminda"
+      "gloss": "жана Биньяминде"
     },
     {
       "surface": "לאמר",
-      "gloss": "мындай деп"
+      "gloss": ""
     }
   ],
-  "timestamp": "2026-10-05T17:53:56.336324531Z",
+  "timestamp": "2026-10-05T18:54:06.080067045Z",
   "model": "glm-5.3"
 }

@@ -8,20 +8,25 @@
   "notes": [
     {
       "kind": "addition",
-      "subject": "-сың (копула)",
-      "rationale": "Ивритте эташ жок; кыргыз тили аны талап кылат"
+      "subject": "ал",
+      "rationale": "עברי אין — кыргыз тили купуланы талап кылат, ал эми еврейче הוא басымдык ээлик кылат"
     },
     {
-      "kind": "substitution",
-      "subject": "kutkaryluular",
-      "rationale": "ישועות — көптүк сан: «куткаруулар», жеңиштер; бирдик сингуляр эмес"
+      "kind": "you",
+      "subject": "Элохимге",
+      "rationale": "Тилеке Яхвеге — 'Сен менин падышамсың' деген түз кайрылуу"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ישועות",
+      "rationale": "Бул аяттагы ישועות сөзү мурунку аяттагы הושיעה тамырынан — 'куткаруу' кайрылуусу 4-аяттагы 'куткарган жок'ко карама-каршы турат"
     }
   ],
-  "translation": "Сен ⟨өзүң⟩ менин падышамсың, Элохим; Яковго kutkaryluulardı buyur.",
+  "translation": "Сен ⟨ал⟩ — менин падышам, Элохим; Яаковко куткарууларды буйрук.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
-    "user-sha256": "e52cd2837ffbe59a8196daa5239e07cb97b990c377c88d197418130afd947f55",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/44\/5-8.1791216005647.json",
+    "user-sha256": "4a331d2e79af3e35b32791c6398f17074a83a4c25e448e71d08a95b55daf2636",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/44\/4-5.1791226135700.json",
     "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -34,11 +39,11 @@
     },
     {
       "surface": "הוא",
-      "gloss": "⟨өзүң⟩"
+      "gloss": "⟨ал⟩"
     },
     {
       "surface": "מלכי",
-      "gloss": "менин падышамсың"
+      "gloss": "падышам"
     },
     {
       "surface": "אלהים",
@@ -46,17 +51,17 @@
     },
     {
       "surface": "צוה",
-      "gloss": "buyur"
+      "gloss": "буйрук"
     },
     {
       "surface": "ישועות",
-      "gloss": "kutkaryluulardı"
+      "gloss": "куткарууларды"
     },
     {
       "surface": "יעקב",
-      "gloss": "Яковго"
+      "gloss": "Яаковко"
     }
   ],
-  "timestamp": "2026-10-05T16:00:05.647516955Z",
+  "timestamp": "2026-10-05T18:48:55.701434536Z",
   "model": "glm-5.3"
 }

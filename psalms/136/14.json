@@ -5,11 +5,23 @@
   "book": "psalms",
   "lang": "ky",
   "chapter": 136,
-  "translation": "жана Йисраэлди анын ортосу менен өткөргөнүнө, анткени анын хеседи түбөלүккө калат.",
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "хесед",
+      "rationale": "חסד «ырайым» эмес, ырайым-берилгендиктин аталышы — хесед деп сакталды"
+    },
+    {
+      "kind": "elision",
+      "subject": "ו הэъвир объект маркери",
+      "rationale": "ישראל алдында турган את префикс формасы текстте жок — өткөрүү түз объект берет"
+    }
+  ],
+  "translation": "Жана ⟨את⟩ Йисраэлди анын ичинен өткөрдү, анткени анын хеседи түбөлүккө калат.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
-    "user-sha256": "ef818ee972da16c3afc2126e425ed19038582aa6ef3dc9b768a15a4099cdefdd",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/136\/13-16.1791217528320.json",
+    "user-sha256": "8850ba46e0220224928ce02a605d222be18660c0e25dadd5c480aef882a374be",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/136\/14-14.1791226182352.json",
     "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -18,7 +30,7 @@
   "tokens": [
     {
       "surface": "והעביר",
-      "gloss": "жана өткөргөнүнө"
+      "gloss": "өткөрдү"
     },
     {
       "surface": "ישראל",
@@ -26,7 +38,7 @@
     },
     {
       "surface": "בתוכו",
-      "gloss": "анын ортосу менен"
+      "gloss": "анын ичинен"
     },
     {
       "surface": "כי",
@@ -38,9 +50,9 @@
     },
     {
       "surface": "חסדו",
-      "gloss": "хеседи"
+      "gloss": "анарын хеседи"
     }
   ],
-  "timestamp": "2026-10-05T16:25:28.321596837Z",
+  "timestamp": "2026-10-05T18:49:42.352960157Z",
   "model": "glm-5.3"
 }

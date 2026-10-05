@@ -7,22 +7,27 @@
   "chapter": 17,
   "notes": [
     {
-      "kind": "idiom",
-      "subject": "בן תשעים ותשע שנה",
-      "rationale": "Буквалдуу «токоson жана тогуз жылдын уулу»; кыргызча «жашта» менен берилди."
+      "kind": "substitution",
+      "subject": "жаш",
+      "rationale": "בן תשעים ותשע שנה жаныбай түз 'токсон жана тогуз жылдын уулу' — еврей жашты 'жылдардын уулу' деп айтат"
     },
     {
-      "kind": "measurement",
-      "subject": "жаш",
-      "rationale": "Аврахамдын жашы эсепке алынат: 99 жыл."
+      "kind": "addition",
+      "subject": "болгон",
+      "rationale": "Кыргыз тили этишти талап кылат, еврей текстинде айкын этиш жок"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בהמלו בשר ערלתו",
+      "rationale": "Инфинитив муун 'сүннөт кылынганда' этиштин ичинде кайра айтылат — ырастоо менен убакыт бир сөз менен берилген"
     }
   ],
-  "translation": "Ал эми Аврахам токоson жашта — токоson жана тогуз жашта болгон, терилинин эты сүннөткө берилгенде.",
+  "translation": "Аврахам токсон тогуз жашта болгон, анын тери колпогунун эти сүннөткө отургузулганда.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
-    "user-sha256": "039e79ce52c68c1b620375d1cab9e68307b9c99a687c32856977a77a260f49fd",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/17\/21-24.1791201013063.json",
-    "code": "752fd82b-dirty",
+    "user-sha256": "171ca9786d1cd7d808243a12eb0d546cbf126002c2725f9d9eb8848467c0d93f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/17\/24-24.1791224955600.json",
+    "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
     "clean-room?": false
@@ -30,15 +35,15 @@
   "tokens": [
     {
       "surface": "ואברהם",
-      "gloss": "Аврахам"
+      "gloss": "жана Аврахам"
     },
     {
       "surface": "בן",
-      "gloss": "жашта"
+      "gloss": "улы"
     },
     {
       "surface": "תשעים",
-      "gloss": "токоson"
+      "gloss": "токсон"
     },
     {
       "surface": "ותשע",
@@ -50,17 +55,17 @@
     },
     {
       "surface": "בהמלו",
-      "gloss": "сүннөткө берилгенде"
+      "gloss": "сүннөткө отургузулганда"
     },
     {
       "surface": "בשר",
-      "gloss": "эты"
+      "gloss": "эт"
     },
     {
       "surface": "ערלתו",
-      "gloss": "терилинин"
+      "gloss": "анин тери колпогунун"
     }
   ],
-  "timestamp": "2026-10-05T11:50:13.064569357Z",
+  "timestamp": "2026-10-05T18:29:15.601241075Z",
   "model": "glm-5.3"
 }

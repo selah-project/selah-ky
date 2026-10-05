@@ -7,22 +7,22 @@
   "chapter": 27,
   "notes": [
     {
-      "kind": "elision",
+      "kind": "crux",
       "subject": "כרכב",
-      "rationale": "Курган\/кырдык — өтө сейрек сөз, 'Mezбахтын' дегенге жакын чек ара; көпчүлүк котормолор 'compass\/ledge' деп берет"
+      "rationale": "'кырка' (алтардын үстүнкү кыры) же 'кашоо' — котормолордо 'compass\/ledge' талаш."
     },
     {
-      "kind": "alternative",
-      "subject": "Mezбах",
-      "rationale": "Мейкилдикти сактоо үчүн 'mezбах' еврейча айтылышында калды; ордуна 'курмандык Almaны' колдонууга болот"
+      "kind": "measurement",
+      "subject": "עד חצי המזבח",
+      "rationale": "тор мизбеахтын жарым бийтигине чейин жетет — өлчөм көрсөтүү."
     }
   ],
-  "translation": "Жана ⟨את⟩ аны кургандын астына, Mezбахтын каркобунун төмөнүрөөк жагына коюп, тор кургандын ортосуна чейин жетип турсун.",
+  "translation": "Жана ⟨את⟩ аны мизбеахтын кыркасынын астына, ылдый коёсун, жана тор мизбеахтын жарымына чейин жетип турсын.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
-    "user-sha256": "df947e071b77ac67155545963b694c8baeb7a98f702b32906936e463269148dd",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/27\/5-8.1791202415743.json",
-    "code": "752fd82b-dirty",
+    "user-sha256": "55300b931e821dbf5e60cf8e673c3cbafe2f7940c3fc98cbeda4bc755ffa0696",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/27\/5-7.1791225112412.json",
+    "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
     "clean-room?": false
@@ -30,7 +30,7 @@
   "tokens": [
     {
       "surface": "ונתתה",
-      "gloss": "Жана ... коюп"
+      "gloss": "коёсун"
     },
     {
       "surface": "אתה",
@@ -43,19 +43,19 @@
     },
     {
       "surface": "כרכב",
-      "gloss": "каркобунун"
+      "gloss": "кырка"
     },
     {
       "surface": "המזבח",
-      "gloss": "Mezбахтын"
+      "gloss": "мизбеах"
     },
     {
       "surface": "מלמטה",
-      "gloss": "төмөнүрөөк"
+      "gloss": "ылдый"
     },
     {
       "surface": "והיתה",
-      "gloss": "жана ... турсун"
+      "gloss": "жетип турсын"
     },
     {
       "surface": "הרשת",
@@ -67,13 +67,13 @@
     },
     {
       "surface": "חצי",
-      "gloss": "ортосуна"
+      "gloss": "жарымына"
     },
     {
       "surface": "המזבח",
-      "gloss": "Mezбахтын"
+      "gloss": "мизбеах"
     }
   ],
-  "timestamp": "2026-10-05T12:13:35.744536440Z",
+  "timestamp": "2026-10-05T18:31:52.413257005Z",
   "model": "glm-5.3"
 }

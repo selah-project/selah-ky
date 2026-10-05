@@ -7,17 +7,22 @@
   "chapter": 19,
   "notes": [
     {
+      "kind": "addition",
+      "subject": "⟨сага⟩",
+      "rationale": "причастие үчүн кыргыз тилинде демеечү керек, еврейче жок"
+    },
+    {
       "kind": "measurement",
       "subject": "үч шаар",
-      "rationale": "Шаарлардын саны эсепке алынат: үч"
+      "rationale": "санап бөлүү буйругу — качуу шаарларын даярдоонун чени"
     }
   ],
-  "translation": "Өз жериңдин ичине үч шаарды өзүңө бөлүп кой — Яхве Элохим〈сыңары〉 аны ээлешің үчүн сага берип жаткан жер.",
+  "translation": "Үч шаарды өзүңөчө бөлүп кой: Яхве Элохимиң ⟨сага⟩ берип жаткан жериңдин ичинде, аны ээлеп алууң үчүн.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
-    "user-sha256": "97fa7d0f694e87d7572efd304e809512ff3e360606348332a893a94f3d51621a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/19\/1-4.1791205103591.json",
-    "code": "f71bac6e-dirty",
+    "user-sha256": "f9171d1732c367e4e4aa47626c48faddd8be0a879e9dc399c0260f67f207a442",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/19\/2-2.1791225337799.json",
+    "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
     "clean-room?": false
@@ -37,11 +42,11 @@
     },
     {
       "surface": "לך",
-      "gloss": "өзүңө"
+      "gloss": "өзүңөчө"
     },
     {
       "surface": "בתוך",
-      "gloss": "ичине"
+      "gloss": "ичинде"
     },
     {
       "surface": "ארצך",
@@ -49,7 +54,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "жер"
+      "gloss": "⟨ал жер⟩"
     },
     {
       "surface": "יהוה",
@@ -57,7 +62,7 @@
     },
     {
       "surface": "אלהיך",
-      "gloss": "Элохим〈сыңары〉"
+      "gloss": "Элохимиң"
     },
     {
       "surface": "נתן",
@@ -69,9 +74,9 @@
     },
     {
       "surface": "לרשתה",
-      "gloss": "ээлешің үчүн"
+      "gloss": "ээлеп алууң үчүн"
     }
   ],
-  "timestamp": "2026-10-05T12:58:23.592624475Z",
+  "timestamp": "2026-10-05T18:35:37.800251849Z",
   "model": "glm-5.3"
 }

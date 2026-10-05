@@ -9,19 +9,24 @@
     {
       "kind": "hapax",
       "subject": "פימה",
-      "rationale": "פִּימָה 'семирүү' — Танахта жалгыз жерде кездешет"
+      "rationale": "Бул сөз Танахта бир гана жерде кездешет — семиздик, майлуулук деген мааниде"
     },
     {
-      "kind": "substitution",
-      "subject": "бел",
-      "rationale": "כֶסֶל букв. 'майлуулук', кийин 'бел, каптал' маанисине өткөн"
+      "kind": "crux",
+      "subject": "כסל",
+      "rationale": "Тамыры «майлуулук» дегенди билдирет, бирок туундусу «бел» дегенди да; котормочулар «бел», «капталы», «ишеним» деп айтышат"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨את⟩ өз",
+      "rationale": "פניו этиштин объекти катары ачык көрүнүшү үчүн «өз» сөзү кошулду"
     }
   ],
-  "translation": "анткени ал жүзүн өз майы менен kaptaды жана бел үстүнө семирүү жасады.",
+  "translation": "Себеби ал ⟨את⟩ өз жүзүн өз майы менен жаап алды жана белинин үстүнө семиздик жасады.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
-    "user-sha256": "5ec23ff52b7d8459c06b636b6d2235e6251f95f4be6e0ebfa915365ade9ab0c1",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/job\/15\/25-28.1791218926276.json",
+    "user-sha256": "fefc791c902884c6bc4a982c54125235e611ad47b217d748dfaed6ba7727ceb3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/job\/15\/27-27.1791226228262.json",
     "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -30,15 +35,15 @@
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "анткени"
+      "gloss": "Себеби"
     },
     {
       "surface": "כסה",
-      "gloss": "kaptaды"
+      "gloss": "жаап алды"
     },
     {
       "surface": "פניו",
-      "gloss": "жүзүн"
+      "gloss": "өз жүзүн"
     },
     {
       "surface": "בחלבו",
@@ -50,7 +55,7 @@
     },
     {
       "surface": "פימה",
-      "gloss": "семирүү"
+      "gloss": "семиздик"
     },
     {
       "surface": "עלי",
@@ -58,9 +63,9 @@
     },
     {
       "surface": "כסל",
-      "gloss": "белдин"
+      "gloss": "белинин"
     }
   ],
-  "timestamp": "2026-10-05T16:48:46.277569943Z",
+  "timestamp": "2026-10-05T18:50:28.262619132Z",
   "model": "glm-5.3"
 }

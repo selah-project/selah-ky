@@ -8,21 +8,26 @@
   "notes": [
     {
       "kind": "substitution",
-      "subject": "минха",
-      "rationale": "מנחה rendered as minha per discipline, not 'un offering'"
+      "subject": "kapar",
+      "rationale": "וכפר «жабуу, жаап коюу» деген сөз; «kapar кылат» деп айтылышы боюнча берилди, кыргызча «кечирим жасайт» дегенге жакын, бирок сөздүн формасы сакталды"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ыпыйк",
+      "rationale": "הכהן — кызмат кылуучу, ыпыйк (диний кызматкер) катары берилди"
     },
     {
       "kind": "elision",
-      "subject": "чындыгында анын",
-      "rationale": "initial את אשר תשיג ידו resumes v30 without a head noun; Kyrgyz repeats the idiom to close the sentence"
+      "subject": "אשר",
+      "rationale": "«эмне» салыштырма мүчөсү кыргызча «колу жеткенин» дегенде камтылып калды"
     }
   ],
-  "translation": "Колу жеткени ⟨את⟩ — бирөөсүн күнөө курмандыгы, ⟨את⟩ экинчисин өрттөлүүчү курмандык катары минханын үстүнө; жана cohен тазалануучу үчүн Яхвенин алдында кечиртет.",
+  "translation": "⟨את⟩ колу жеткенин — бирөөсүн күнөө курмандыгы үчүн, ⟨жана⟩ ⟨את⟩ экинчисин өрттөлүүчү курмандык катары минханын үстүнө [чыгарып], ыпыйкчы тазалануучу үчүн Яхвенин алдында kapar кылат.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
-    "user-sha256": "e2cd7ce35c96e09522fd259e70279ac4a68cdb64f800767eaf69433ef3225fc2",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/14\/29-32.1791203058881.json",
-    "code": "f71bac6e-dirty",
+    "user-sha256": "48a975b6638c1c9fca08f00e2972600935160a8cf5f527631bce678b7815c852",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/14\/31-31.1791225152607.json",
+    "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
     "clean-room?": false
@@ -31,11 +36,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "колу жеткени"
+      "marks": "колу жеткендин (экийин)"
     },
     {
       "surface": "אשר",
-      "gloss": "ал"
+      "gloss": "эмне"
     },
     {
       "surface": "תשיג",
@@ -43,12 +48,12 @@
     },
     {
       "surface": "ידו",
-      "gloss": "колу"
+      "gloss": "анын колу"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "бирөөсү"
+      "marks": "бирөөсүн"
     },
     {
       "surface": "האחד",
@@ -61,7 +66,7 @@
     {
       "surface": "ואת",
       "gloss": "жана ⟨את⟩",
-      "marks": "экинчиси"
+      "marks": "экинчисин"
     },
     {
       "surface": "האחד",
@@ -77,19 +82,19 @@
     },
     {
       "surface": "המנחה",
-      "gloss": "минханын"
+      "gloss": "минха"
     },
     {
       "surface": "וכפר",
-      "gloss": "жана кечиртет"
+      "gloss": "жана kapar кылат"
     },
     {
       "surface": "הכהן",
-      "gloss": "cohен"
+      "gloss": "ыпыйк"
     },
     {
       "surface": "על",
-      "gloss": "… үчүн"
+      "gloss": "үчүн"
     },
     {
       "surface": "המטהר",
@@ -101,9 +106,9 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "Яхвенин"
+      "gloss": "Яхве"
     }
   ],
-  "timestamp": "2026-10-05T12:24:18.882178751Z",
+  "timestamp": "2026-10-05T18:32:32.608532247Z",
   "model": "glm-5.3"
 }

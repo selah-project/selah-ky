@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 132:12",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 132,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "עדי עד",
+      "rationale": "Эврей кайталоосу «түбөлүктүн түбөгүнө» — абсолюттук түбөлүк мааниси."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨сендин⟩",
+      "rationale": "לך («сага\/сендин») тактынын ээлик формасын кыргызча тактыңда түрүндө берүү үчүн сиңдирилди."
+    }
+  ],
+  "translation": "Эгерде уулдарың менин келишимимди жана менин күбөлүктөрүмдү — буларды мен аларга үйрөтөм — сактаса, алардын уулдары да түбөлүктүн түбөлүгүнө тактыңда отурушат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "ce6989f15875387eba09d0536c8dac325a49810fd136feba74d97470a1f11fbb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/132\/12-12.1791226177855.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Эгерде"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "сактаса"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "уулдарың"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "келишимимди"
+    },
+    {
+      "surface": "ועדתי",
+      "gloss": "жана күбөлүктөрүмдү"
+    },
+    {
+      "surface": "זו",
+      "gloss": "буларды"
+    },
+    {
+      "surface": "אלמדם",
+      "gloss": "мен аларга үйрөтөм"
+    },
+    {
+      "surface": "גם",
+      "gloss": "да"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "алардын уулдары"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "түбөлүктүн"
+    },
+    {
+      "surface": "עד",
+      "gloss": "түбөлүгүнө"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "отурушат"
+    },
+    {
+      "surface": "לכסא",
+      "gloss": "тактыңда"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨сендин⟩"
+    }
+  ],
+  "timestamp": "2026-10-05T18:49:37.856127794Z",
+  "model": "glm-5.3"
+}

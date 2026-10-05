@@ -7,17 +7,22 @@
   "chapter": 34,
   "notes": [
     {
+      "kind": "substitution",
+      "subject": "башчы",
+      "rationale": "נשיא букв. 'бийик адам, шейх' — башчы\/төрө катары берилди"
+    },
+    {
       "kind": "measurement",
-      "subject": "башкык тизмеси",
-      "rationale": "Уруу башчыларынын аттары саналып жатат."
+      "subject": "уруу тизмеси",
+      "rationale": "Жер бөлүштүрүү үчүн үй-бүлө аттары менен уруу башчыларынын тизмеси"
     }
   ],
-  "translation": "Жана Дандын уулдарынын уруусунан — башкык Ы bukки, Йоглинин уулу.",
+  "translation": "Жана Дан уулдарынын уруусунан бир башчы — Букки, Яглинин уулу.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
-    "user-sha256": "6bbc995108f5272ef31147c242292c434388511bb4d8450fdea2ccc1f5340f65",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/numbers\/34\/21-24.1791204555556.json",
-    "code": "f71bac6e-dirty",
+    "user-sha256": "6712fd57867ebabded3559b232e8e64a673db1f7d03132315426e25a1aaa4d23",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/numbers\/34\/22-22.1791225290392.json",
+    "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
     "clean-room?": false
@@ -25,7 +30,7 @@
   "tokens": [
     {
       "surface": "ולמטה",
-      "gloss": "Жана ... уруусунан"
+      "gloss": "уруусунан"
     },
     {
       "surface": "בני",
@@ -37,7 +42,7 @@
     },
     {
       "surface": "נשיא",
-      "gloss": "башкык"
+      "gloss": "башчы"
     },
     {
       "surface": "בקי",
@@ -49,9 +54,9 @@
     },
     {
       "surface": "יגלי",
-      "gloss": "Йоглинин"
+      "gloss": "Яглинин"
     }
   ],
-  "timestamp": "2026-10-05T12:49:15.556841497Z",
+  "timestamp": "2026-10-05T18:34:50.392893698Z",
   "model": "glm-5.3"
 }

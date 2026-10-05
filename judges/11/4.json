@@ -5,17 +5,53 @@
   "book": "judges",
   "lang": "ky",
   "chapter": 11,
-  "translation": "",
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ми́ямим",
+      "rationale": "'күндөрдөн' — еврейче убакыт өтүү идиомасы, 'күндөрдүн өтүшү менен' деп берилди"
+    }
+  ],
+  "translation": "Күндөрдүн өтүшү менен аммондун уулдары Йисраэл менен согушушту.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
     "user-sha256": "2427792c721612ec95aa51a3a8efbf472b5989fe4917b3bdc632ca09bb78f567",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/judges\/11\/1-4.1791206327081.json",
-    "code": "da1b46b6-dirty",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/judges\/11\/1-4.1791225509887.json",
+    "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
     "clean-room?": false
   },
-  "tokens": [],
-  "timestamp": "2026-10-05T13:18:47.082102105Z",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "болду"
+    },
+    {
+      "surface": "מימים",
+      "gloss": "күндөрдүн өтүшү менен"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "согушушту"
+    },
+    {
+      "surface": "בני",
+      "gloss": "уулдары"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Аммондун"
+    },
+    {
+      "surface": "עם",
+      "gloss": "менен"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэл"
+    }
+  ],
+  "timestamp": "2026-10-05T18:38:29.889248166Z",
   "model": "glm-5.3"
 }

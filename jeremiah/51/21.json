@@ -5,17 +5,67 @@
   "book": "jeremiah",
   "lang": "ky",
   "chapter": 51,
-  "translation": "Жана Мен сен менен аны чайкап талкалаймын жана анын аңдаган адамын; жана Мен сен менен аны чайкап талкалаймын жана анын аңдаган адамын.",
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "анын",
+      "rationale": "ивритте «рохво» дегенде ээлик мамиле бар, кыргызча «анын» тактоочу сөзүн талап кылат"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רכב \/ רכבו",
+      "rationale": "«Араба» жана «арабаначы» бир тамырдан (р-х-б) — ыргактык кайталоо, кыргызча сөз жуптары менен берилди"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ונפצתי... ונפצתי",
+      "rationale": "Эки жолу кайталанган параллелизм — бүт 51:20–23 бөлүмдүн структурасын түзөт"
+    }
+  ],
+  "translation": "Жана мен сени менен астыңгы атты жана анын чабандесин чачып талкалайын, жана мен сени менен арабаны жана анын арабаначысын чачып талкалайын.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
-    "user-sha256": "798c93bb06821c716befebabd5488a6ae35623f5d38faae096cc37770bd7ae08",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/jeremiah\/51\/21-24.1791211985426.json",
+    "user-sha256": "b9eae688ef347a973767012d268f492d810c22cd4a620f1900b1f3194682ba81",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/jeremiah\/51\/21-21.1791225888486.json",
     "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
     "clean-room?": false
   },
-  "tokens": [],
-  "timestamp": "2026-10-05T14:53:05.426966116Z",
+  "tokens": [
+    {
+      "surface": "ונפצתי",
+      "gloss": "чачып талкалайын"
+    },
+    {
+      "surface": "בך",
+      "gloss": "сени менен"
+    },
+    {
+      "surface": "סוס",
+      "gloss": "ат"
+    },
+    {
+      "surface": "ורכבו",
+      "gloss": "анын чабандеси"
+    },
+    {
+      "surface": "ונפצתי",
+      "gloss": "чачып талкалайын"
+    },
+    {
+      "surface": "בך",
+      "gloss": "сени менен"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "араба"
+    },
+    {
+      "surface": "ורכבו",
+      "gloss": "анын арабаначысы"
+    }
+  ],
+  "timestamp": "2026-10-05T18:44:48.486893315Z",
   "model": "glm-5.3"
 }

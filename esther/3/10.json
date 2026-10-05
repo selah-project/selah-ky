@@ -7,21 +7,16 @@
   "chapter": 3,
   "notes": [
     {
-      "kind": "addition",
-      "subject": "өз",
-      "rationale": "טבעתо мүчөдөгү «анын» мааниси кыргызча ачык «өз» менен берилди"
-    },
-    {
-      "kind": "substitution",
-      "subject": "душман",
-      "rationale": "צרר — «кысуучу, тескөөчү» этиштери, «душман» катары берилди"
+      "kind": "elision",
+      "subject": "ויסר",
+      "rationale": "«Айлантарып алды» деген сөзмө-сөз маани кыргызча жөн гана «алды» деп берилди"
     }
   ],
-  "translation": "Жана падыша ⟨את⟩ өз мөөрүн колунан чечип, аны Аманга берди — Һамдатанын уулу, агаги, жөөттөрдүн душманына.",
+  "translation": "Падыша өзүнүн ⟨את⟩ мөөрүн колунан алып, аны Хаманга берди — Хамедатанын уулу, агагтык, жөөттөрдүн душманына.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
-    "user-sha256": "556a2ace82385f8675a87f6441b19e25695293e0594e0789163921a9440f1072",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/esther\/3\/9-12.1791220228920.json",
+    "user-sha256": "0de741d81e826b82e1adbc1a4657135a6de99b6960906b4895b6b68905c45664",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/esther\/3\/10-10.1791226265565.json",
     "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -30,7 +25,7 @@
   "tokens": [
     {
       "surface": "ויסר",
-      "gloss": "чечип"
+      "gloss": "алып"
     },
     {
       "surface": "המלך",
@@ -39,15 +34,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "өз мөөрүн"
+      "marks": "мөөрүн"
     },
     {
       "surface": "טבעתו",
-      "gloss": "өз мөөрүн"
+      "gloss": "мөөрүн"
     },
     {
       "surface": "מעל",
-      "gloss": "-нан"
+      "gloss": "алаган"
     },
     {
       "surface": "ידו",
@@ -59,7 +54,7 @@
     },
     {
       "surface": "להמן",
-      "gloss": "Аманга"
+      "gloss": "Хаманга"
     },
     {
       "surface": "בן",
@@ -67,11 +62,11 @@
     },
     {
       "surface": "המדתא",
-      "gloss": "Һамдатанын"
+      "gloss": "Хамедатанын"
     },
     {
       "surface": "האגגי",
-      "gloss": "агаги"
+      "gloss": "агагтык"
     },
     {
       "surface": "צרר",
@@ -82,6 +77,6 @@
       "gloss": "жөөттөрдүн"
     }
   ],
-  "timestamp": "2026-10-05T17:10:28.921894238Z",
+  "timestamp": "2026-10-05T18:51:05.566239743Z",
   "model": "glm-5.3"
 }

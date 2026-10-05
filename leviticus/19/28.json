@@ -7,22 +7,27 @@
   "chapter": 19,
   "notes": [
     {
-      "kind": "hapax",
-      "subject": "קעקע",
-      "rationale": "«Така\/татуировка» деген сөз Танахта ушул жерде гана кездешет"
+      "kind": "substitution",
+      "subject": "нефеш",
+      "rationale": "נפש — жан (дем-жаны), 'өлгөн адам' дегенге кысуу болот: текст 'жан үчүн' дейт."
     },
     {
-      "kind": "substitution",
-      "subject": "жан",
-      "rationale": "נפש — жан эмес, «дем алуучу жандык, жашоо күчү»; бул жерде өлгөн адам деген мааниде"
+      "kind": "hapax",
+      "subject": "קעקע",
+      "rationale": "קעקע Танахта бир гана жерде кездешет — кесик-оюм, так мааниси таксыз."
+    },
+    {
+      "kind": "elision",
+      "subject": "экинчи לא תתנו בכם",
+      "rationale": "Кыргызча кайталоо эле 'да ... салбагыла' менен берилди; толто кайталоо текстте бар."
     }
   ],
-  "translation": "Жана өлгөн жан үчүн kesип ⟨тилек үчүн⟩ — жок, эттериңерге салбагыла; жазуу-такасын да — жок, өздөрүңө салбагыла; Мен — Яхве.",
+  "translation": "Өлгөн жан үчүн денеңерге кесик салбагыла, өздөрүңөргө жазуу, көркүмө-оюм да салбагыла; Мен — Яхве.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
-    "user-sha256": "b923a6a0e85dd7c13ae1791b61f01c69c87a5c81c749167ea9cc06eed57c9deb",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/19\/25-28.1791203282782.json",
-    "code": "f71bac6e-dirty",
+    "user-sha256": "5a175e587d0e8e300f9103b4742985e16b2a7c17e2e3405baba66957e44dee4e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/19\/28-28.1791225126983.json",
+    "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
     "clean-room?": false
@@ -30,7 +35,7 @@
   "tokens": [
     {
       "surface": "ושרט",
-      "gloss": "жана kesik"
+      "gloss": "жана кесик"
     },
     {
       "surface": "לנפש",
@@ -41,40 +46,32 @@
       "gloss": "жок"
     },
     {
-      "surface": "түшүрүлбөйт",
-      "gloss": ""
-    },
-    {
-      "surface": "תתנу",
-      "gloss": "салбагыла"
-    },
-    {
-      "surface": "בבשרכם",
-      "gloss": "эттериңерге"
-    },
-    {
-      "surface": "וכתבת",
-      "gloss": "жазуу"
-    },
-    {
-      "surface": "קעקע",
-      "gloss": "татуировка"
-    },
-    {
-      "surface": "לא",
-      "gloss": "жок"
-    },
-    {
-      "surface": "түшүрүлбөйт",
-      "gloss": ""
-    },
-    {
       "surface": "תתנו",
       "gloss": "салбагыла"
     },
     {
+      "surface": "בבשרכם",
+      "gloss": "денеңерге"
+    },
+    {
+      "surface": "וכתבת",
+      "gloss": "жана жазуу"
+    },
+    {
+      "surface": "קעקע",
+      "gloss": "көркүмө-оюм"
+    },
+    {
+      "surface": "лא",
+      "gloss": ""
+    },
+    {
+      "surface": "תתנו",
+      "gloss": ""
+    },
+    {
       "surface": "בכם",
-      "gloss": "өздөрүңө"
+      "gloss": ""
     },
     {
       "surface": "אני",
@@ -85,6 +82,6 @@
       "gloss": "Яхве"
     }
   ],
-  "timestamp": "2026-10-05T12:28:02.783659076Z",
+  "timestamp": "2026-10-05T18:32:06.983929202Z",
   "model": "glm-5.3"
 }

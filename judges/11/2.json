@@ -5,17 +5,119 @@
   "book": "judges",
   "lang": "ky",
   "chapter": 11,
-  "translation": "",
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Йифтахка",
+      "rationale": "туугандары Йифтахтын өзүнө түз кайрылат: 'сен башка аялдын уулусуң'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "мураскор боло албайсың",
+      "rationale": "לא תנחל — 'мурас албайсың', этиштик конструкция сакталды"
+    }
+  ],
+  "translation": "Гиладдын аялы ага уулдар тууду, жана ошол аялдын уулдары чоңоюп, ⟨את⟩ Йифтахты кууп чыгышты жана ага айтышты: сен атабыздын үйүнө мураскор боло албайсың, анткени сен башка аялдын уулусуң.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
     "user-sha256": "2427792c721612ec95aa51a3a8efbf472b5989fe4917b3bdc632ca09bb78f567",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/judges\/11\/1-4.1791206327081.json",
-    "code": "da1b46b6-dirty",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/judges\/11\/1-4.1791225509887.json",
+    "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
     "clean-room?": false
   },
-  "tokens": [],
-  "timestamp": "2026-10-05T13:18:47.081849747Z",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "тууду"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "аялы"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Гиладдын"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ага"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "уулдар"
+    },
+    {
+      "surface": "ויגדלו",
+      "gloss": "чоңоюп"
+    },
+    {
+      "surface": "בני",
+      "gloss": "уулдары"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "аялдын"
+    },
+    {
+      "surface": "ויגרשו",
+      "gloss": "кууп чыгышты"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Йифтахты"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Йифтахты"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "айтышты"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ага"
+    },
+    {
+      "surface": "לא",
+      "gloss": "албайсың"
+    },
+    {
+      "surface": "תנחל",
+      "gloss": "мураскор боло"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "үйүнө"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "атабыздын"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "בן",
+      "gloss": "уулусуң"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "аялдын"
+    },
+    {
+      "surface": "אחרת",
+      "gloss": "башка"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "сен"
+    }
+  ],
+  "timestamp": "2026-10-05T18:38:29.888785571Z",
   "model": "glm-5.3"
 }

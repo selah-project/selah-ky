@@ -8,16 +8,21 @@
   "notes": [
     {
       "kind": "measurement",
-      "subject": "календарь",
-      "rationale": "Падышачылыктын башталышы жыл менен белгиленет."
+      "subject": "он экикинчи жылы",
+      "rationale": "падышачылыктын жылдары эсептелет — Йорамдын он эки жылы"
+    },
+    {
+      "kind": "addition",
+      "subject": "такка отурду",
+      "rationale": "מלך «падыша болду» деген мааниде — такка отуруу идиомасы катары берилди"
     }
   ],
-  "translation": "Йисраэл падышасы Ахавдын уулу Йорамдын он экинчи жылында Йуда падышасы Йехорамдын уулу Ахазйаһу падыша болду.",
+  "translation": "Йорамдын, Ахавдын уулу, Йисраэл падышасынын он экикинчи жылында Ахазйаху, Йехорамдын уулу, Йехуда падышасы, такка отурду.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
-    "user-sha256": "4a1b0acfc57e7eb19ee695e459ef2abb98518bbae58973c573515848da0cab8c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-kings\/8\/25-28.1791208862094.json",
-    "code": "2011bdaa-dirty",
+    "user-sha256": "e514c1a9ef6de1646d5afcbfec036d5849962233066cb8623360987ebd068a7e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-kings\/8\/25-26.1791225659537.json",
+    "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
     "clean-room?": false
@@ -49,7 +54,7 @@
     },
     {
       "surface": "אחאב",
-      "gloss": "Ахав"
+      "gloss": "Ахавдын"
     },
     {
       "surface": "מלך",
@@ -61,11 +66,11 @@
     },
     {
       "surface": "מלך",
-      "gloss": "падыша болду"
+      "gloss": "такка отурду"
     },
     {
       "surface": "אחזיהו",
-      "gloss": "Ахазйаһу"
+      "gloss": "Ахазйаху"
     },
     {
       "surface": "בן",
@@ -73,7 +78,7 @@
     },
     {
       "surface": "יהורם",
-      "gloss": "Йехорам"
+      "gloss": "Йехорамдын"
     },
     {
       "surface": "מלך",
@@ -81,9 +86,9 @@
     },
     {
       "surface": "יהודה",
-      "gloss": "Йуда"
+      "gloss": "Йехуда"
     }
   ],
-  "timestamp": "2026-10-05T14:01:02.094929252Z",
+  "timestamp": "2026-10-05T18:40:59.537945441Z",
   "model": "glm-5.3"
 }

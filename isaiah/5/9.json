@@ -7,27 +7,27 @@
   "chapter": 5,
   "notes": [
     {
-      "kind": "crux",
+      "kind": "idiom",
+      "subject": "באזני",
+      "rationale": "יהוהнин өз сөзүнүн күбөсү катары «кулактарыма» деген идиома"
+    },
+    {
+      "kind": "elision",
       "subject": "אם לא",
-      "rationale": "Оат: «чындыгыда» (ант) же суроо «болбойбу?» — YLT суроо кылса, KJV\/JPS ант кылат."
+      "rationale": "ант берүү формуласы «акыйкатта жок» кыргызча ⟨чын эле⟩ деп берилди, «жок» түшүрүлдү"
     },
     {
       "kind": "addition",
-      "subject": "үйлөр",
-      "rationale": "«чоң жана жакшы» сөздөрү үйлөрдү баяндайт, кыргызча атооч кошулду."
-    },
-    {
-      "kind": "you",
-      "subject": "пайгамбарга",
-      "rationale": "Яхвенин сөзү Ишайанын кулагына айтылат."
+      "subject": "айтты",
+      "rationale": "тиркелүүчү этиш кыргызча талап кылынат, еврейче жок"
     }
   ],
-  "translation": "Менин кулагымда Яхве Цебаот айтты: чындыгыда, көп үйлөр оod болот — чоң жана жакшы ⟨үйлөр⟩, аларда жашаган жок.",
+  "translation": "Кулактарыма Яхве Цебаот айтты: ⟨чын эле⟩ көп үйлөр кыйроого айланат — чоң жана жакшысы да, жашоочусуз калат.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
-    "user-sha256": "b11006f1e6d9ab8e268edf6389367ebe4432f963b552b337684334a8d8032c78",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/5\/9-12.1791209462069.json",
-    "code": "2011bdaa-dirty",
+    "user-sha256": "e2db98aa5f51bea30364ca56fb5ed833cc841264792ae9c342ede6f94d610e42",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/5\/9-9.1791225683106.json",
+    "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
     "clean-room?": false
@@ -35,7 +35,7 @@
   "tokens": [
     {
       "surface": "באזני",
-      "gloss": "менин кулагымда"
+      "gloss": "кулактарыма"
     },
     {
       "surface": "יהוה",
@@ -47,11 +47,11 @@
     },
     {
       "surface": "אם",
-      "gloss": "чындыгыда"
+      "gloss": "⟨чын эле⟩"
     },
     {
       "surface": "לא",
-      "gloss": "чын"
+      "gloss": ""
     },
     {
       "surface": "בתים",
@@ -63,11 +63,11 @@
     },
     {
       "surface": "לשמה",
-      "gloss": "оod болот"
+      "gloss": "кыйроого"
     },
     {
       "surface": "יהיו",
-      "gloss": "болот"
+      "gloss": "айланат"
     },
     {
       "surface": "גדלים",
@@ -75,7 +75,7 @@
     },
     {
       "surface": "וטובים",
-      "gloss": "жана жакшы"
+      "gloss": "жана жакшысы"
     },
     {
       "surface": "מאין",
@@ -83,9 +83,9 @@
     },
     {
       "surface": "יושב",
-      "gloss": "жашаган"
+      "gloss": "жашоочусуз"
     }
   ],
-  "timestamp": "2026-10-05T14:11:02.070412118Z",
+  "timestamp": "2026-10-05T18:41:23.106942844Z",
   "model": "glm-5.3"
 }

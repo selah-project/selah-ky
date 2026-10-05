@@ -8,20 +8,25 @@
   "notes": [
     {
       "kind": "idiom",
-      "subject": "וטוב לך",
-      "rationale": "«Сага жакшы болот» — ивриттин даана сүйлөмү, кыргызча «жакшылык болот» кылды."
+      "subject": "колуңдун эмгеги",
+      "rationale": "יגיע כפיך букв. 'колуңдун эмгеги' — эмгектин жемиши деген мааниде кыйыр көрсөтүү"
     },
     {
-      "kind": "substitution",
-      "subject": "אשריך",
-      "rationale": "1-аяттагы אשרי сыяктуу эле «бактылуу» сөзү, ээлик формада — тырышчаак мамиле."
+      "kind": "addition",
+      "subject": "болот",
+      "rationale": "Ивритте этиш жок; 'сага жакшы' деген маанини ачык кылыш үчүн кошулду"
+    },
+    {
+      "kind": "you",
+      "subject": "тексттеги сөздөшүү",
+      "rationale": "Яхведен корккон адамга багышталган тикелей кайрылуу"
     }
   ],
-  "translation": "Колуңдун эмгегин жейсің, бактылуу болосун жана ⟨сага⟩ жакшылык болот.",
+  "translation": "Колуңдун эмгегин жесең, бактылуусуң, жана сага жакшы болот.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
-    "user-sha256": "d7566107d30fc2a0d4cee36675931758fde9a219fd50cc777995d4bd37a500fa",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/128\/1-4.1791217431816.json",
+    "user-sha256": "96f62dfe9b7d5eb8442b5051f7e8a74e044ce08f6d8a2d453b2f8d6a3193ea4b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/128\/2-2.1791226189135.json",
     "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -34,29 +39,29 @@
     },
     {
       "surface": "כפיך",
-      "gloss": "Колуңдун"
+      "gloss": "колуңдун"
     },
     {
       "surface": "כי",
-      "gloss": "анткен менен"
+      "gloss": "жесең"
     },
     {
       "surface": "תאכל",
-      "gloss": "жейсің"
+      "gloss": "жесең"
     },
     {
       "surface": "אשריך",
-      "gloss": "бактылуу болосун"
+      "gloss": "бактылуусуң"
     },
     {
       "surface": "וטוב",
-      "gloss": "жакшылык"
+      "gloss": "жана жакшы"
     },
     {
       "surface": "לך",
       "gloss": "сага"
     }
   ],
-  "timestamp": "2026-10-05T16:23:51.817386081Z",
+  "timestamp": "2026-10-05T18:49:49.135510098Z",
   "model": "glm-5.3"
 }

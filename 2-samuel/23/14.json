@@ -8,21 +8,26 @@
   "notes": [
     {
       "kind": "addition",
-      "subject": "турду · эле",
-      "rationale": "Ивритте «был» деген этиш жок, кыргызча сүйлөм үчүн кошулду."
+      "subject": "эди",
+      "rationale": "Hebrew lacks a verb; Kyrgyz past-tense copula ⟨эди⟩ supplied"
     },
     {
-      "kind": "measurement",
-      "subject": "ошол убакта ×2",
-      "rationale": "אָז эки жолу кайталанып, Давид менен пелиштиликтердин ордун бир эле мезгилге байлайт — өзүнчө тууралоо."
+      "kind": "wordplay",
+      "subject": "אז … אז",
+      "rationale": "Repeated 'then' frames both halves in parallel; repetition kept"
+    },
+    {
+      "kind": "substitution",
+      "subject": "מצב",
+      "rationale": "'fixed military post' rendered as аскер турган жер rather than an office sense"
     }
   ],
-  "translation": "Давид ошол убакта бекиниште ⟨турду⟩, пелиштиликтердин аскер posti болсо ошол убакта Бейт-Лехемде ⟨эле⟩.",
+  "translation": "Жана Давид ал убакта бекиниште ⟨эди⟩, ал эми пелиштилердин аскер турган жери ал убакта Бейт-Лехем ⟨эди⟩.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
-    "user-sha256": "a9e64c49c5f3f3e0d565f343396199ca6f2b624bdf681ca9cba4147e459c03a9",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-samuel\/23\/13-16.1791207928050.json",
-    "code": "641241cf-dirty",
+    "user-sha256": "4e4fa16ca3d995e01b1eeb768ef149a99af15844a9d8ea7e73f829813ab72b97",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-samuel\/23\/14-14.1791225581608.json",
+    "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
     "clean-room?": false
@@ -30,11 +35,11 @@
   "tokens": [
     {
       "surface": "ודוד",
-      "gloss": "Давид"
+      "gloss": "жана Давид"
     },
     {
       "surface": "אז",
-      "gloss": "ошол убакта"
+      "gloss": "ал убакта"
     },
     {
       "surface": "במצודה",
@@ -42,25 +47,25 @@
     },
     {
       "surface": "ומצב",
-      "gloss": "аскер посту"
+      "gloss": "жана аскер турган жер"
     },
     {
       "surface": "פלשתים",
-      "gloss": "пелиштиликтердин"
+      "gloss": "пелиштилердин"
     },
     {
       "surface": "אז",
-      "gloss": "ошол убакта"
+      "gloss": "ал убакта"
     },
     {
       "surface": "בית",
-      "gloss": "Бейт-"
+      "gloss": "Бейт"
     },
     {
       "surface": "לחם",
-      "gloss": "-Лехемде"
+      "gloss": "Лехем"
     }
   ],
-  "timestamp": "2026-10-05T13:45:28.051942805Z",
+  "timestamp": "2026-10-05T18:39:41.609212556Z",
   "model": "glm-5.3"
 }

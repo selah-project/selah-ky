@@ -7,16 +7,21 @@
   "chapter": 145,
   "notes": [
     {
-      "kind": "crux",
-      "subject": "mashруумдар",
-      "rationale": "הרשעים literally «mashруумдар» — терс кылмышкерлер; кыргыз тилинде бул терминди көз карандысыз сөз катары сунушташ керек"
+      "kind": "substitution",
+      "subject": "сактайт",
+      "rationale": "שומר — «тикенек менен курчап алуу, күтүү» маанисиндеги сөз; «сактоо» катары берилди"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שומר\/ישמיד",
+      "rationale": "שמר (сактоо) жана שמד (жок кылуу) — шуулдашкан үнү, кыргызчада жоголот"
     }
   ],
-  "translation": "Сактайт Яхве ⟨את⟩ Аны сүйгөндөрдүн баарын, жана ⟨את⟩ бардык.mashruums mashруумдарды жок кылат.",
+  "translation": "Яхве ⟨את⟩ бардык сүйгөндөрүн сактайт, жана ⟨את⟩ бардык мыйзамсыздарды жок кылат.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
-    "user-sha256": "f47c414869819a76e70b46732b17f901a1344239eccf6af168e501655b3c4f38",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/145\/17-20.1791217672002.json",
+    "user-sha256": "a6cfba646bb0a577822ca77a31eadfc7eebcf7e48b5f48cf45ba0e9da72e3349",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/145\/20-20.1791226175383.json",
     "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -34,20 +39,20 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Аны сүйгөндөрдүн баарын"
+      "marks": "бардык сүйгөндөрүн"
     },
     {
       "surface": "כל",
-      "gloss": "баарын"
+      "gloss": "бардык"
     },
     {
       "surface": "אהביו",
-      "gloss": "Аны сүйгөндөрдү"
+      "gloss": "сүйгөндөрүн"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "бардык.mashруумдарды"
+      "gloss": "жана ⟨את⟩",
+      "marks": "бардык мыйзамсыздарды"
     },
     {
       "surface": "כל",
@@ -55,13 +60,13 @@
     },
     {
       "surface": "הרשעים",
-      "gloss": "mashруумдарды"
+      "gloss": "мыйзамсыздарды"
     },
     {
       "surface": "ישמיד",
       "gloss": "жок кылат"
     }
   ],
-  "timestamp": "2026-10-05T16:27:52.005312391Z",
+  "timestamp": "2026-10-05T18:49:35.384077404Z",
   "model": "glm-5.3"
 }

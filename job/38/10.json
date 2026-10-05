@@ -7,22 +7,26 @@
   "chapter": 38,
   "notes": [
     {
-      "kind": "measurement",
-      "subject": "חקי",
-      "rationale": "Деңизге белгиленген чек — Яхвенин орноткон чеги, мейкиндикти ченөө мотиви."
+      "kind": "crux",
+      "subject": "белгиледим",
+      "rationale": "שבר бу жерде 'жарып өтүү' же 'чектеп коюу' — KJV 'broke up', JPS 'prescribed': деңизге чек коюу сүрөтү"
     },
     {
-      "kind": "crux",
-      "subject": "ואשבר",
-      "gloss_note": "",
-      "rationale": "KJV 'буздум' деп алса, JPS\/ASV 'белгиледим' деп алат; тамыр шебер 'чектеди' маанисинде туткан."
+      "kind": "measurement",
+      "subject": "чегимди",
+      "rationale": "דеңизге чек белгилөө — жаратуучунун өлчөм коюу иш-аракети"
+    },
+    {
+      "kind": "substitution",
+      "subject": "бекиткичтер",
+      "rationale": "בריח — эшиктин жыгач тосмосу (шыргыйы), 'бөгөт' маанисинде"
     }
   ],
-  "translation": "жана анын үстүнө Өзүмдүн чегимди белгилеп, тосмо жана дарбазаларды койгондо,",
+  "translation": "Мен анын үстүнө чегимди белгиледим жана бекиткичтер менен эшиктерди коюп бердим.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
-    "user-sha256": "141222d15998451f0b9c1d8a09356ddbc676b294fcf42536dd3d068e85dea618",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/job\/38\/9-12.1791219427062.json",
+    "user-sha256": "4e40ff7026a46be4b3d8815fe357538f0c6401a25767b7866b9760cc6b10dd0c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/job\/38\/10-10.1791226221078.json",
     "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -31,7 +35,7 @@
   "tokens": [
     {
       "surface": "ואשבר",
-      "gloss": "жана ... белгилеп"
+      "gloss": "белгиледим"
     },
     {
       "surface": "עליו",
@@ -39,21 +43,21 @@
     },
     {
       "surface": "חקי",
-      "gloss": "Менің чегим"
+      "gloss": "чегимди"
     },
     {
       "surface": "ואשים",
-      "gloss": "жана ... койгондо"
+      "gloss": "коюп бердим"
     },
     {
       "surface": "בריח",
-      "gloss": "тосмо"
+      "gloss": "бекиткичтер"
     },
     {
       "surface": "ודלתים",
-      "gloss": "жана дарбазаларды"
+      "gloss": "эшиктер"
     }
   ],
-  "timestamp": "2026-10-05T16:57:07.063808653Z",
+  "timestamp": "2026-10-05T18:50:21.078629059Z",
   "model": "glm-5.3"
 }

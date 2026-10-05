@@ -9,25 +9,30 @@
     {
       "kind": "crux",
       "subject": "צור",
-      "rationale": "Бул жерде «аска» (צור II) эмес, «байлоо» (צור I): «күбөлүктү байла» — көп котормолор «аска» деп каташа reads"
+      "rationale": "Imperative 'bind up' (цур) менен 'ceмиз' צור деген ат атооч чаташат; бул жерде imperative 'байла'."
     },
     {
-      "kind": "secret",
-      "subject": "мөөрлөнгөн Тора",
-      "rationale": "Тораны мөөрлөө — жашырылган, белгилүү убакка чейин пломбаланган билим"
+      "kind": "substitution",
+      "subject": "תעודה",
+      "rationale": "'Күбөлүк' — кудайга күбөлүк кылган сөз, 'precept' дегенди түшүнбөстөн кетирет."
     },
     {
-      "kind": "invitation",
-      "subject": "пайгамбарга берилген буйрук",
-      "rationale": "Байла, мөөрлө — кошулча сандагы императив, тике буйрук"
+      "kind": "mystery",
+      "subject": "sealed Torah",
+      "rationale": "Тора мөөрлөнөт — жашырылган, жабык билим; Даниелдин жабык түлкүгө окшош."
+    },
+    {
+      "kind": "you",
+      "subject": "Ишайага",
+      "rationale": "Буйрук формасы менен айтылган сөз — императивдер 'байла', 'мөөрлө'."
     }
   ],
-  "translation": "Байла ⟨את⟩ күбөлүктү, Тораны мөөрлө мениң үйрөнчүүләрүмдүн ичинде.",
+  "translation": "Күбөлүктү байла, Торомду менин окуучуларымдын арасында мөөрлө.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
-    "user-sha256": "d68edc4e0241c4a532cfc10469ab978202e514b13b9bddf4c3e633ee42a88a78",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/8\/13-16.1791209444396.json",
-    "code": "2011bdaa-dirty",
+    "user-sha256": "b0eb43cae45c4d62a18b2580819870003183fb77c301b165605eced1c7007fcd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/8\/16-16.1791225685937.json",
+    "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
     "clean-room?": false
@@ -35,7 +40,7 @@
   "tokens": [
     {
       "surface": "צור",
-      "gloss": "Байла"
+      "gloss": "байла"
     },
     {
       "surface": "תעודה",
@@ -47,13 +52,13 @@
     },
     {
       "surface": "תורה",
-      "gloss": "Тораны"
+      "gloss": "Торомду"
     },
     {
       "surface": "בלמדי",
-      "gloss": "мениң үйрөнчүүләрүмдүн ичинде"
+      "gloss": "окуучуларымдын арасында"
     }
   ],
-  "timestamp": "2026-10-05T14:10:44.397759754Z",
+  "timestamp": "2026-10-05T18:41:25.937894935Z",
   "model": "glm-5.3"
 }

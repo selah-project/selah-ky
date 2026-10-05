@@ -7,21 +7,26 @@
   "chapter": 25,
   "notes": [
     {
-      "kind": "you",
-      "subject": "Аммонго",
-      "rationale": "«силер билесиңер» — Аммон элине кайрылуу."
+      "kind": "elision",
+      "subject": "כי",
+      "rationale": "Байламча кыргызча «—» менен берилди, «что\/для» деген орус байламдары болбойт."
     },
     {
       "kind": "addition",
-      "subject": "Яхвемин",
-      "rationale": "Кыргызча айтым үчүн «мен Яхве» дегенге «-мин» мүчөсү кошулду."
+      "subject": "Мен — Яхве",
+      "rationale": "Еврей текстте этиш жок: «Мен Яхве» деген аныктамада кыргызча «—» кошулду."
+    },
+    {
+      "kind": "substitution",
+      "subject": "рой livestock",
+      "rationale": "לנוה — «жай», למרבץ — «жаткан жери»: эки эврей сөзү эки ар кандай кыргыз сөзү менен берилди, KJV «stable\/couching-place» дегенди ээрчитпейт."
     }
   ],
-  "translation": "Жана мен Раббаны төөлөрдүн жайына бердим, жана ⟨את⟩ Аммон уулдарын койлордун жатак жайына бердим; жана силер билесиңер, анткени мен Яхвемин.",
+  "translation": "Жана Мен Раббаны төөлөрдүн жайы кылам, жана ⟨את⟩ Аммон уулдарын койлордуң жаткан жери кылам — жана силер билесиңер: Мен — Яхве.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
-    "user-sha256": "57ef7d40802bfe179db5a92a00f9f00859d16db8ab688ecec4bcbf294c2c67de",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ezekiel\/25\/5-8.1791212890364.json",
+    "user-sha256": "c8db84e8f6c496a8c9ad67e0608dda8e8503a3bb83f2cfe9a390289a0580c199",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ezekiel\/25\/5-5.1791225975648.json",
     "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -30,20 +35,20 @@
   "tokens": [
     {
       "surface": "ונתתי",
-      "gloss": "бerdim"
+      "gloss": "жана Мен...кылам"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Рабба"
+      "marks": "Раббаны"
     },
     {
       "surface": "רבה",
-      "gloss": "Рабба"
+      "gloss": "Раббаны"
     },
     {
       "surface": "לנוה",
-      "gloss": "жайына"
+      "gloss": "жайы"
     },
     {
       "surface": "גמלים",
@@ -64,29 +69,29 @@
     },
     {
       "surface": "למרבץ",
-      "gloss": "жатак жайына"
+      "gloss": "жаткан жери"
     },
     {
       "surface": "צאן",
-      "gloss": "койлордун"
+      "gloss": "койлордуң"
     },
     {
       "surface": "וידעתם",
-      "gloss": "жана билесиңер"
+      "gloss": "жана силер билесиңер"
     },
     {
       "surface": "כי",
-      "gloss": "анткени"
+      "gloss": "—"
     },
     {
       "surface": "אני",
-      "gloss": "мен"
+      "gloss": "Мен"
     },
     {
       "surface": "יהוה",
-      "gloss": "Яхвемин"
+      "gloss": "Яхве"
     }
   ],
-  "timestamp": "2026-10-05T15:08:10.365051266Z",
+  "timestamp": "2026-10-05T18:46:15.649391266Z",
   "model": "glm-5.3"
 }

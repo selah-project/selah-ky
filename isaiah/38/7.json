@@ -7,22 +7,27 @@
   "chapter": 38,
   "notes": [
     {
-      "kind": "elision",
-      "subject": "מאת",
-      "rationale": "Бул את (H854) «—ден» деген предлог менен кошулган; ⟨את⟩ белгиси сакталды."
+      "kind": "addition",
+      "subject": "ойдо",
+      "rationale": "כי стиле — кыргыз тили эки табышмак сүйлөмдү байлагычты талап кылат"
     },
     {
-      "kind": "addition",
-      "subject": "нерсе",
-      "rationale": "זה הדבר אשר דבר түзүлүшүнө кыргызча тактоо сөзү керек болду."
+      "kind": "wordplay",
+      "subject": "דבר\/דבר",
+      "rationale": "הדבר (сөз) жана דבר (сүйлөдү) — бир тамырдын кайталанышы, котормодо жумшараң"
+    },
+    {
+      "kind": "measurement",
+      "subject": "белги",
+      "rationale": "белги — Яхвенин Хискияга берген убадасынын далили катары көрсөтүлгөн нерс"
     }
   ],
-  "translation": "Жана бул — силерге Яхведен ⟨את⟩ белги: Яхве ⟨את⟩ бул сөздү, бул айткан нерсесин аткарат.",
+  "translation": "Жана бул сага Яхведен белги болсун: ⟨את⟩ Яхве ⟨את⟩ бул сөздү, ал эмне деп сүйлөгөн болсо, ошону аткарат.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
-    "user-sha256": "ed20e3b4376694dfa32e05f5983ecae6384470d32bae31ee0ba86c9c327660b8",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/38\/5-8.1791210027605.json",
-    "code": "2011bdaa-dirty",
+    "user-sha256": "7955c9bc8bba3f6b1ab2564854f896f939e4d20324f240f3cc05dc57a3b53428",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/38\/7-7.1791225783706.json",
+    "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
     "clean-room?": false
@@ -30,11 +35,11 @@
   "tokens": [
     {
       "surface": "וזה",
-      "gloss": "Жана бул"
+      "gloss": "жана бул"
     },
     {
       "surface": "לך",
-      "gloss": "сілерге"
+      "gloss": "сага"
     },
     {
       "surface": "האות",
@@ -50,7 +55,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "—"
+      "gloss": "ойдо"
     },
     {
       "surface": "יעשה",
@@ -67,7 +72,7 @@
     },
     {
       "surface": "הדבר",
-      "gloss": "сөздү"
+      "gloss": "бул сөздү"
     },
     {
       "surface": "הזה",
@@ -75,13 +80,13 @@
     },
     {
       "surface": "אשר",
-      "gloss": "айдыгы"
+      "gloss": "ал"
     },
     {
       "surface": "דבר",
-      "gloss": "айткан"
+      "gloss": "сүйлөгөн"
     }
   ],
-  "timestamp": "2026-10-05T14:20:27.606466938Z",
+  "timestamp": "2026-10-05T18:43:03.706791798Z",
   "model": "glm-5.3"
 }

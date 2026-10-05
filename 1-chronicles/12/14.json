@@ -5,11 +5,23 @@
   "book": "1-chronicles",
   "lang": "ky",
   "chapter": 12,
-  "translation": "Ярмеяу — онунчусу, Макбанай — он биринчisi.",
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "ordinal list",
+      "rationale": "Continuation of the numbered register of captains."
+    },
+    {
+      "kind": "addition",
+      "subject": "он биринчи",
+      "rationale": "Hebrew uses two tokens עשתי עשר ('eleven'); Kyrgyz renders them as the compound ordinal 'он биринчи'."
+    }
+  ],
+  "translation": "Йирмейау онунчу, Макбаннай он биринчи.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
-    "user-sha256": "cc57fb70d1a76db55c4e6fd8735d47045003ec6865b8b9fdba392f9e14ef241f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-chronicles\/12\/14-15.1791224625860.json",
+    "user-sha256": "d54499e20c0f92172e59ec4e29c21da03f73610739a6d6a732f7e71667ec788d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-chronicles\/12\/13-14.1791226387293.json",
     "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -18,21 +30,25 @@
   "tokens": [
     {
       "surface": "ירמיהו",
-      "gloss": "Ярмеяу"
+      "gloss": "Йирмейау"
     },
     {
       "surface": "העשירי",
-      "gloss": "онунчусу"
+      "gloss": "онунчу"
     },
     {
       "surface": "מכבני",
-      "gloss": "Макбанай"
+      "gloss": "Макбаннай"
     },
     {
       "surface": "עשתי",
-      "gloss": "он биринчisi ⟨жок⟩"
+      "gloss": "он"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "биринчи"
     }
   ],
-  "timestamp": "2026-10-05T18:23:45.860853787Z",
+  "timestamp": "2026-10-05T18:53:07.293880099Z",
   "model": "glm-5.3"
 }

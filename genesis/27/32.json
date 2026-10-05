@@ -8,16 +8,21 @@
   "notes": [
     {
       "kind": "addition",
-      "subject": "-мын",
-      "rationale": "Кыргызча атооч аяктагы мүчө талап кылат; еврейче айтылбайт."
+      "subject": "мен —",
+      "rationale": "Кыргызча копула талап кылат, еврейче жок"
+    },
+    {
+      "kind": "you",
+      "subject": "Йицхактын Эсавга суроосу",
+      "rationale": "Атасы түздөн-түз уулуна кайрылат: «Сен кимсүң?»"
     }
   ],
-  "translation": "Анын атасы Йицхак ага айтты: Сен кимсің? Ал айтты: Мен сенин уулуңмун, биринчи төрөлгөнүң Эсав.",
+  "translation": "Йицхак ⟨анын⟩ атасы ага айтты: Сен кимсүң? Ал айтты: Мен — сенин уулуң, сенин тун уулуң Эсав.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
-    "user-sha256": "3b32dee35b19fb090e6a3468a07e2a2a7dd3ea48e78949b0d5c1534f8a8f9e83",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/27\/29-32.1791201292584.json",
-    "code": "752fd82b-dirty",
+    "user-sha256": "0c947e51bc58f3ca1d57280752615854da9bd39edf5abb4a5aba11ea5b8552f8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/27\/32-32.1791224945764.json",
+    "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
     "clean-room?": false
@@ -32,42 +37,42 @@
       "gloss": "ага"
     },
     {
-      "surface": "יצחק",
+      "surface": "יִצְחָק",
       "gloss": "Йицхак"
     },
     {
-      "surface": "אביו",
+      "surface": "אָבִיו",
       "gloss": "атасы"
     },
     {
-      "surface": "מי",
+      "surface": "מִי",
       "gloss": "ким"
     },
     {
-      "surface": "אתה",
+      "surface": "אַתָּה",
       "gloss": "сен"
     },
     {
-      "surface": "ויאמר",
+      "surface": "וַיֹּאמֶר",
       "gloss": "айтты"
     },
     {
-      "surface": "אני",
+      "surface": "אֲנִי",
       "gloss": "мен"
     },
     {
-      "surface": "בנך",
-      "gloss": "уулуңмун"
+      "surface": "בִּנְךָ",
+      "gloss": "уулуң"
     },
     {
-      "surface": "בכרך",
-      "gloss": "биринчи төрөлгөнүң"
+      "surface": "בְּכֹרְךָ",
+      "gloss": "тун уулуң"
     },
     {
-      "surface": "עשו",
+      "surface": "עֵשָׂו",
       "gloss": "Эсав"
     }
   ],
-  "timestamp": "2026-10-05T11:54:52.585341239Z",
+  "timestamp": "2026-10-05T18:29:05.765231696Z",
   "model": "glm-5.3"
 }

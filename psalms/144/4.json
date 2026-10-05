@@ -8,20 +8,20 @@
   "notes": [
     {
       "kind": "substitution",
-      "subject": "הבל",
-      "rationale": "Һэвел — «дем, боштук, тез жоголуучу нерсе»; «жалган-нәрсе» катары берилди, «дем» (JPS) деген альтернатива бар."
+      "subject": "жок болуучу дем",
+      "rationale": "הבל (хевел) — баштапкы мааниси «дем, муун»; жок болуучулук мааниси символдук"
     },
     {
-      "kind": "substitution",
-      "subject": "דמה",
-      "rationale": "Дамах — «окшоштурулган, салыштырылган»; кыргызча «окшош» этиш-сын формасында берилди."
+      "kind": "wordplay",
+      "subject": "אדם ... דמה",
+      "rationale": "адам\/дамах үндөштүгү: «адам» жана «окшош» — тамырдаш үнү, кыргызчада жоголот"
     }
   ],
-  "translation": "Адам жалган-нәрсеге окшош; күндөрү өтүп бара жаткан көлөкөдөй.",
+  "translation": "Адам жок болуучу демге окшош; анын күндөрү өтүп бараткан көлөкөдөй.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
-    "user-sha256": "b848aaeb70d75a694dd113c3d6f32b61b389fbc5a64c1624f2576f7f0a946101",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/144\/1-4.1791217611859.json",
+    "user-sha256": "ed4dd712a6b30132d7652a68e4cf94e607141bbc1e81f873a5fa16fd04f6dab7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/144\/4-4.1791226176422.json",
     "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -30,11 +30,11 @@
   "tokens": [
     {
       "surface": "אדם",
-      "gloss": "адам"
+      "gloss": "Адам"
     },
     {
       "surface": "להבל",
-      "gloss": "жалган-нәрсеге"
+      "gloss": "жок болуучу демге"
     },
     {
       "surface": "דמה",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "ימיו",
-      "gloss": "күндөрү"
+      "gloss": "анын күндөрү"
     },
     {
       "surface": "כצל",
@@ -50,9 +50,9 @@
     },
     {
       "surface": "עובר",
-      "gloss": "өтүп бара жаткан"
+      "gloss": "өтүп бараткан"
     }
   ],
-  "timestamp": "2026-10-05T16:26:51.860509038Z",
+  "timestamp": "2026-10-05T18:49:36.422425685Z",
   "model": "glm-5.3"
 }

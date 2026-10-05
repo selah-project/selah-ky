@@ -5,17 +5,63 @@
   "book": "proverbs",
   "lang": "ky",
   "chapter": 11,
-  "translation": "Оозу менен了两面派 destroys his жакынын чиритет, жана цадиктердин билими менен алар куткарылат.",
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "жарамсыз",
+      "rationale": "חנף — оозу менен күйөөсүнөн айлап жүргөн, эки жүздүү адам; «жарамсыз» сөзү тар мааниде алынды"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨адам⟩",
+      "rationale": "еврейче жок; кыргызча сүйлөм «жарамсыз» сыяктуу жөндөмөдөгү сөздүн жанында аныктооч талап кылат"
+    },
+    {
+      "kind": "alternative",
+      "subject": "יחלצו",
+      "rationale": "тамыр «тартып алуу, чыгаруу» деген сүрөттү берет — «жамандын оозунан тартып чыгарылат» деп да болот"
+    }
+  ],
+  "translation": "Оозу менен жарамсыз ⟨адам⟩ өз жакынын бузат, ал эми билим менен цедиктер куткарылышат.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
-    "user-sha256": "41c6229165c4af5a0f6304ad160214c060a21a801001977bf91eed4b3ddb948b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/11\/9-12.1791217934273.json",
+    "user-sha256": "5414c0ab5257f1868a30e0a88f36241842fd869da2f7ee3ae599e2451685711c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/11\/9-9.1791226244621.json",
     "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
     "clean-room?": false
   },
-  "tokens": [],
-  "timestamp": "2026-10-05T16:32:14.273945644Z",
+  "tokens": [
+    {
+      "surface": "בפה",
+      "gloss": "оозу менен"
+    },
+    {
+      "surface": "חנף",
+      "gloss": "жарамсыз ⟨адам⟩"
+    },
+    {
+      "surface": "ישחת",
+      "gloss": "бузат"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "өз жакынын"
+    },
+    {
+      "surface": "ובדעת",
+      "gloss": "ал эми билим менен"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "цедиктер"
+    },
+    {
+      "surface": "יחלצו",
+      "gloss": "куткарылышат"
+    }
+  ],
+  "timestamp": "2026-10-05T18:50:44.621901851Z",
   "model": "glm-5.3"
 }

@@ -7,31 +7,27 @@
   "chapter": 10,
   "notes": [
     {
-      "kind": "addition",
-      "subject": "ал —",
-      "rationale": "Hebrew apposition 'Mikhael your prince' lacks copula; Kyrgyz requires it"
+      "kind": "elision",
+      "subject": "כי אם",
+      "rationale": "כי אם — «бирок гана» маанисинде турган байламталар кыргызча «— башка» түрүндө берилди"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אמת",
+      "gloss": "чындык",
+      "rationale": "אמת «бекемдик, ишенимдүүлүк» деген тамыр; «чындык жазуусу» — китептин аталышы"
     },
     {
       "kind": "secret",
       "subject": "чындык жазуусу",
-      "rationale": "The 'writing of truth' is a sealed heavenly record disclosed only to Daniel"
-    },
-    {
-      "kind": "you",
-      "subject": "Даниелге",
-      "rationale": "The angel speaks directly to Daniel ('I will tell you')"
-    },
-    {
-      "kind": "idiom",
-      "subject": "כי אם",
-      "rationale": "Hebrew 'ki im' = 'except\/but only', rendered with '-ден башка'"
+      "rationale": "жашырылган, жазма түрүндө бекитилген илим — асмандагы китепке шилтеме"
     }
   ],
-  "translation": "Бирок мен сага ⟨את⟩ чындык жазуусунда жазылганын билдирем, жана буларга каршы мен менен бирге бекем турган эч kim жок — Михаэлден башка, ал — силердин шеригиң.",
+  "translation": "Бирок мен сага чындык жазуусунда ⟨את⟩ жазылганын билдиремин: жана буларга каршы мени менен бир да бекем турбайт — Михаэлден башка, силердин башчыңар.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
     "user-sha256": "04983feb094f7e365db70439fe7ecf4cacb27b06defbeea0249dd71ed6c81c24",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/daniel\/10\/21-21.1791220865052.json",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/daniel\/10\/21-21.1791226289550.json",
     "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -40,11 +36,11 @@
   "tokens": [
     {
       "surface": "אבל",
-      "gloss": "бирок"
+      "gloss": "Бирок"
     },
     {
       "surface": "אגיד",
-      "gloss": "билдирем"
+      "gloss": "билдиремин"
     },
     {
       "surface": "לך",
@@ -53,7 +49,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "чындык жазуусунда жазылганын"
+      "marks": "жазылганын"
     },
     {
       "surface": "הרשום",
@@ -73,15 +69,15 @@
     },
     {
       "surface": "אחד",
-      "gloss": "эч"
+      "gloss": "бир да"
     },
     {
       "surface": "מתחזק",
-      "gloss": "бекем турган"
+      "gloss": "бекем турбайт"
     },
     {
       "surface": "עמי",
-      "gloss": "мен менен бирге"
+      "gloss": "мени менен"
     },
     {
       "surface": "על",
@@ -97,7 +93,7 @@
     },
     {
       "surface": "אם",
-      "gloss": "башка"
+      "gloss": "— башка"
     },
     {
       "surface": "מיכאל",
@@ -105,9 +101,9 @@
     },
     {
       "surface": "שרכם",
-      "gloss": "силердин шеригиң"
+      "gloss": "башчыңар"
     }
   ],
-  "timestamp": "2026-10-05T17:21:05.053637367Z",
+  "timestamp": "2026-10-05T18:51:29.551157597Z",
   "model": "glm-5.3"
 }

@@ -7,16 +7,21 @@
   "chapter": 2,
   "notes": [
     {
+      "kind": "measurement",
+      "subject": "genealogy",
+      "rationale": "Ысым эсеби — Иуда уруусунун тукум тизмеси."
+    },
+    {
       "kind": "addition",
       "subject": "болгон",
-      "rationale": "еврейче жок болгон связка"
+      "rationale": "Еврей тилинде байламча жок; кыргызча атоочтук айкындык үчүн кошулду."
     }
   ],
-  "translation": "Абишурдун аялынын ысымы Абихайил болгон, жана ал ага ⟨את⟩ Ахбанды жана ⟨את⟩ Мolidди төрөдү.",
+  "translation": "Жана Авишурдун аялынын аты Абихайл болгон, ал ага ⟨את⟩ Ахбан менен ⟨את⟩ Мolidди төрөдү.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
-    "user-sha256": "e7be342f221411014e5b1b89b12217c8ecf916c6415a43ddfc22a832b009af3a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-chronicles\/2\/29-32.1791221727247.json",
+    "user-sha256": "9285857f638b5e031fb64da8206a899c89777284cdd8c5ca4d2a81bb3f02728d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-chronicles\/2\/29-29.1791226370044.json",
     "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -25,7 +30,7 @@
   "tokens": [
     {
       "surface": "ושם",
-      "gloss": "ысымы"
+      "gloss": "Жана ... аты"
     },
     {
       "surface": "אשת",
@@ -33,11 +38,11 @@
     },
     {
       "surface": "אבישור",
-      "gloss": "Абишурдун"
+      "gloss": "Авишурдун"
     },
     {
       "surface": "אביהיל",
-      "gloss": "Абихайил"
+      "gloss": "Абихайл"
     },
     {
       "surface": "ותלד",
@@ -50,22 +55,22 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Ахбанды"
+      "marks": "Ахбан"
     },
     {
       "surface": "אחבן",
-      "gloss": "Ахбанды"
+      "gloss": "Ахбан"
     },
     {
       "surface": "ואת",
       "gloss": "жана ⟨את⟩",
-      "marks": "Молидди"
+      "marks": "Молид"
     },
     {
       "surface": "מוליד",
       "gloss": "Молидди"
     }
   ],
-  "timestamp": "2026-10-05T17:35:27.248416784Z",
+  "timestamp": "2026-10-05T18:52:50.044664520Z",
   "model": "glm-5.3"
 }

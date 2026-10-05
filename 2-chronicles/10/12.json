@@ -9,14 +9,19 @@
     {
       "kind": "measurement",
       "subject": "үчүнчү күн",
-      "rationale": "аят белгиленген мөөнөттү — үчүнчү күндү — эки жолу санап турат"
+      "rationale": "Дата эки жолу кайталанат — падышанын буйругунун так мөөнөтү."
+    },
+    {
+      "kind": "you",
+      "subject": "падышанын буйругу элге",
+      "rationale": "שובו — көптүк сан буйруду, элге багытталган."
     }
   ],
-  "translation": "Жана Яравам менен бүт эл үчүнчү күнү Рахавамдын алдына келишти, падыша «Үчүнчү күнү мага кайткыла» деп айткан еді.",
+  "translation": "Жана Яровам менен бүт эл үчүнчү күнү Рехавамга келди, падыша айтканда: Үчүнчү күнү мага кайрылып келгиле.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
-    "user-sha256": "f88176b44a6d2a9f09a34db517896b256b1709b9215f0d40ba610adbec4bdba9",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-chronicles\/10\/9-12.1791222779035.json",
+    "user-sha256": "287efdeaefcce095945767ca7d28e44267769f296d7c94e8441be78f31bb641d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-chronicles\/10\/12-12.1791226440230.json",
     "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -25,11 +30,11 @@
   "tokens": [
     {
       "surface": "ויבא",
-      "gloss": "жана келишти"
+      "gloss": "келди"
     },
     {
       "surface": "ירבעם",
-      "gloss": "Яравам"
+      "gloss": "Яровам"
     },
     {
       "surface": "וכל",
@@ -41,11 +46,11 @@
     },
     {
       "surface": "אל",
-      "gloss": "…дын алдына"
+      "gloss": "…га"
     },
     {
       "surface": "רחבעם",
-      "gloss": "Рахавам"
+      "gloss": "Рехавам"
     },
     {
       "surface": "ביום",
@@ -57,11 +62,11 @@
     },
     {
       "surface": "כאשר",
-      "gloss": "…ган еді"
+      "gloss": "…канда"
     },
     {
       "surface": "דבר",
-      "gloss": "айткан"
+      "gloss": "айтканда"
     },
     {
       "surface": "המלך",
@@ -73,7 +78,7 @@
     },
     {
       "surface": "שובו",
-      "gloss": "кайткыла"
+      "gloss": "кайрылып келгиле"
     },
     {
       "surface": "אלי",
@@ -88,6 +93,6 @@
       "gloss": "үчүнчү"
     }
   ],
-  "timestamp": "2026-10-05T17:52:59.037663049Z",
+  "timestamp": "2026-10-05T18:54:00.230647132Z",
   "model": "glm-5.3"
 }

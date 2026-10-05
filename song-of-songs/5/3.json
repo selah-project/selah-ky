@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 5:3",
+  "book": "song-of-songs",
+  "lang": "ky",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "кайра",
+      "rationale": "Кайра кийүүнү билдирүү үчүн кошулду; ивритте жок, бирок мактоо үчүн керек"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "פשטתי\/אלבשנה",
+      "rationale": "Чечүү жана кийүү деген эшикке каршы этиштердин кайталануусу — эки жолу параллелдүү түзүлүш"
+    },
+    {
+      "kind": "you",
+      "subject": "сүйүктүүмө",
+      "rationale": "Айтканы ичиндеги жооп — 5:2 дөгү чакырууга тоскоолдук кылган сүйлөм"
+    }
+  ],
+  "translation": "Көйнөгүмдү чечип алдым — аны кайра кантип кийейин? Буттарымды жуудум — аларды кантип чаңдатайын?",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "2ebec9b69fd2fa0fa051ff21d36735e6f6d25e2eff5bafcddbc69919c79dec9a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/song-of-songs\/5\/3-3.1791226254401.json",
+    "code": "d2ea2f22-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פשטתי",
+      "gloss": "чечип алдым"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "көйнөгүмдү"
+    },
+    {
+      "surface": "כתנתי",
+      "gloss": "көйнөгүмдү"
+    },
+    {
+      "surface": "איככה",
+      "gloss": "кантип"
+    },
+    {
+      "surface": "אלבשנה",
+      "gloss": "кийейин"
+    },
+    {
+      "surface": "רחצתי",
+      "gloss": "жуудум"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "буттарымды"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "буттарымды"
+    },
+    {
+      "surface": "איככה",
+      "gloss": "кантип"
+    },
+    {
+      "surface": "אטנפם",
+      "gloss": "чаңдатайын"
+    }
+  ],
+  "timestamp": "2026-10-05T18:50:54.401571950Z",
+  "model": "glm-5.3"
+}

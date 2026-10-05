@@ -8,25 +8,20 @@
   "notes": [
     {
       "kind": "substitution",
-      "subject": "נפש",
-      "rationale": "נפש «жан, дем, тирчилик күчү» — «жан» деп берилди, «душа» эмес"
+      "subject": "жаным",
+      "rationale": "נפש — дем алуучу жандык, жан-күч; «жан» жакындашкан котормо"
     },
     {
-      "kind": "crux",
-      "subject": "שלשת הרעים",
-      "rationale": "«үч койчу» кимдер экени белгисиз — падышалар, пайгамбарлар, ыйык кызмат кылуучулар деген талаштар бар"
-    },
-    {
-      "kind": "measurement",
-      "subject": "бир ай",
-      "rationale": "вакт бир ай менен ченелет — үч койчу бир айдын ичинде жок кылынган"
+      "kind": "idiom",
+      "subject": "жаным тарыды",
+      "rationale": "נפש קצר — кыска болуу, чыдамсыз болуу идиомасы; латыл айтканда «жаным кыскарды»"
     }
   ],
-  "translation": "Мен ⟨את⟩ үч койчуну бир айдын ичинде жок кылдым, жаным алардан талыды, алардын жаны да Менден жиренді.",
+  "translation": "Мен бир айдын ичинде ⟨את⟩ үч койчуну кырдым, жана аларга жаным тарыды, алардын жаны да мени жек көрдү.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
-    "user-sha256": "14a19b808ae01bc553c6902bb70a2f96ba68d0a5cda50e4324dbf9b5c3e50236",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/zechariah\/11\/5-8.1791215201550.json",
+    "user-sha256": "82f6e0ab1cfe93db310f8b772eeb54ce3e1ea00bc0efe4b8488bc3cfe320db5c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/zechariah\/11\/8-8.1791226088831.json",
     "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -35,12 +30,12 @@
   "tokens": [
     {
       "surface": "ואכחד",
-      "gloss": "жана жок кылдым"
+      "gloss": "кырдым"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "үч"
+      "marks": "үч койчуну"
     },
     {
       "surface": "שלשת",
@@ -52,7 +47,7 @@
     },
     {
       "surface": "בירח",
-      "gloss": "айдын"
+      "gloss": "айдын ичинде"
     },
     {
       "surface": "אחד",
@@ -60,7 +55,7 @@
     },
     {
       "surface": "ותקצר",
-      "gloss": "жана талыды"
+      "gloss": "тарыды"
     },
     {
       "surface": "נפשי",
@@ -68,11 +63,11 @@
     },
     {
       "surface": "בהם",
-      "gloss": "алардан"
+      "gloss": "аларга"
     },
     {
       "surface": "וגם",
-      "gloss": "жана да"
+      "gloss": "да"
     },
     {
       "surface": "נפשם",
@@ -80,13 +75,13 @@
     },
     {
       "surface": "בחלה",
-      "gloss": "жиренді"
+      "gloss": "жек көрдү"
     },
     {
       "surface": "בי",
-      "gloss": "Менден"
+      "gloss": "мени"
     }
   ],
-  "timestamp": "2026-10-05T15:46:41.551556187Z",
+  "timestamp": "2026-10-05T18:48:08.832320036Z",
   "model": "glm-5.3"
 }

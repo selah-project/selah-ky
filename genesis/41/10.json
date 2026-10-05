@@ -7,22 +7,27 @@
   "chapter": 41,
   "notes": [
     {
-      "kind": "elision",
-      "subject": "אתי (экинчи)",
-      "rationale": "толуктоочтун кайталанышы кыргызча бир гана жолу көтөрүлдү, бирок глоссада сакталды"
+      "kind": "substitution",
+      "subject": "הטבחים",
+      "rationale": "Сөзү 'этчилер\/жазалоочулар' дегенди билдирет; 'башкы сакчы' катары берилди (KJV 'captain of the guard')"
     },
     {
-      "kind": "substitution",
-      "subject": "эт башчысы",
-      "rationale": "הטבחים 'этчилер\/жазалоочулар башчысы' — бул титул, анын бүткүл сүрөтү сакталды"
+      "kind": "addition",
+      "subject": "⟨аны⟩",
+      "rationale": "Кыргыз тили талап кылган түшүмдүк падеждин киринди сөзү"
+    },
+    {
+      "kind": "you",
+      "subject": "Параого",
+      "rationale": "Сакчы падышага мүмкөнчүлүк жөнүндө сүйлөп жатат"
     }
   ],
-  "translation": "Пираун өз кызматчыларына ачуланды жана мени эт башчысынын үйүндөгү күзөткө берди — ⟨את⟩ мени жана ⟨את⟩ нан башчысын.",
+  "translation": "Парао кызматчыларына каарданып, мени башкы сакчынын үйүндөгү камакка — ⟨את⟩ мени жана ⟨את⟩ нан бышыруучулардын башчысын — салды.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
-    "user-sha256": "738e5aebcec41dacc9580b1a423114915c5cabc304ce52d8ee6d42f27f3a33ea",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/41\/9-12.1791201567774.json",
-    "code": "752fd82b-dirty",
+    "user-sha256": "59e03fec28d607ab8ed04e716f6f83ec28bcdc4f8dd7d7cb232f17bdab0e87a1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/41\/10-10.1791225019620.json",
+    "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
     "clean-room?": false
@@ -30,15 +35,15 @@
   "tokens": [
     {
       "surface": "פרעה",
-      "gloss": "Пираун"
+      "gloss": "Парао"
     },
     {
       "surface": "קצף",
-      "gloss": "ачуланды"
+      "gloss": "каарданып"
     },
     {
       "surface": "על",
-      "gloss": "өз…на"
+      "gloss": "ка"
     },
     {
       "surface": "עבדיו",
@@ -46,7 +51,7 @@
     },
     {
       "surface": "ויתן",
-      "gloss": "берди"
+      "gloss": "жана салды"
     },
     {
       "surface": "אתי",
@@ -55,7 +60,7 @@
     },
     {
       "surface": "במשמר",
-      "gloss": "күзөткө"
+      "gloss": "камакка"
     },
     {
       "surface": "בית",
@@ -63,11 +68,11 @@
     },
     {
       "surface": "שר",
-      "gloss": "башчысынын"
+      "gloss": "башкы"
     },
     {
       "surface": "הטבחים",
-      "gloss": "эт"
+      "gloss": "сакчынын"
     },
     {
       "surface": "אתי",
@@ -77,7 +82,7 @@
     {
       "surface": "ואת",
       "gloss": "жана ⟨את⟩",
-      "marks": "нан башчысын"
+      "marks": "нан бышыруучулардын башчысын"
     },
     {
       "surface": "שר",
@@ -85,9 +90,9 @@
     },
     {
       "surface": "האפים",
-      "gloss": "нан"
+      "gloss": "нан бышыруучулардын"
     }
   ],
-  "timestamp": "2026-10-05T11:59:27.775689533Z",
+  "timestamp": "2026-10-05T18:30:19.620912470Z",
   "model": "glm-5.3"
 }

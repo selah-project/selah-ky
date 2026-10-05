@@ -5,11 +5,18 @@
   "book": "1-chronicles",
   "lang": "ky",
   "chapter": 5,
-  "translation": "Жана Авишуа ⟨את⟩ Буккини туғду, жана Букки ⟨את⟩ Уззини туғду.",
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "genealogy",
+      "rationale": "Continuation of the priestly lineage list."
+    }
+  ],
+  "translation": "Жана Авишюа ⟨את⟩ Буккини туулду, жана Букки ⟨את⟩ Уззини туулду.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
-    "user-sha256": "ee2038c59a8a8d237dce71378cb6f2dad9a19e034d2e38a9879f73f5263e5ddf",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-chronicles\/5\/29-32.1791221840268.json",
+    "user-sha256": "a5fa74fec2a36b8999592de3b4701ab82ed7d8aee9de8dd037e44b0703bc351a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-chronicles\/5\/30-32.1791226395708.json",
     "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -18,11 +25,11 @@
   "tokens": [
     {
       "surface": "ואבישוע",
-      "gloss": "жана Авишуа"
+      "gloss": "Жана Авишюа"
     },
     {
       "surface": "הוליד",
-      "gloss": "туғду"
+      "gloss": "туулду"
     },
     {
       "surface": "את",
@@ -39,7 +46,7 @@
     },
     {
       "surface": "הוליד",
-      "gloss": "туғду"
+      "gloss": "туулду"
     },
     {
       "surface": "את",
@@ -51,6 +58,6 @@
       "gloss": "Уззи"
     }
   ],
-  "timestamp": "2026-10-05T17:37:20.269615562Z",
+  "timestamp": "2026-10-05T18:53:15.708822572Z",
   "model": "glm-5.3"
 }

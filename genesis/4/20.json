@@ -7,17 +7,27 @@
   "chapter": 4,
   "notes": [
     {
-      "kind": "addition",
-      "subject": "адамдардын",
-      "rationale": "אבי 'атасы' — 'ошондой адамдардын атасы' мааниси, кыргызча тактоо үчүн 'адамдардын' кошулду"
+      "kind": "substitution",
+      "subject": "мал-жандык",
+      "rationale": "מקנה — «сатып алынган мүлк», бул жерде жандык мал деген мааниде"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יבל",
+      "rationale": "Ябал аталышы менен יבל (аккан суу, агым) жана יובל (Жубал, 4:21) деген тамырлар менен угушташ — аталардын аттарындагы айкашма сөз"
+    },
+    {
+      "kind": "alternative",
+      "subject": "чатырда жашагандардын",
+      "rationale": "ישב אהл көчмөн турмушту билдирет; «чатырда жашоочулардын» көчмөн элдин атасы деп да түшүнсө болот"
     }
   ],
-  "translation": "Ада ⟨את⟩ Ябалды төрөдү; ал ч palabашкан жана мал кармаган адамдардын атасы болду.",
+  "translation": "Жана Ада ⟨את⟩ Ябалды төрөдү; ал чатырда жашагандардын жана мал-жандыктын атасы болду.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
-    "user-sha256": "782a7716f27a0c395aa746f8f7a02bb0107a78dd8bdaa4b578bedf95b0b1635a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/4\/17-20.1791200760616.json",
-    "code": "752fd82b-dirty",
+    "user-sha256": "c7eb3f85d3f558e2f16a8acf29543232c73adb026049bf6619dad2fad86ed603",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/4\/20-20.1791224954002.json",
+    "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
     "clean-room?": false
@@ -53,14 +63,18 @@
       "gloss": "атасы"
     },
     {
-      "surface": "אהל",
-      "gloss": "..."
+      "surface": "ישב",
+      "gloss": "жашагандардын"
     },
     {
-      "surface": "ומקנה",
-      "gloss": "мал кармаган"
+      "surface": "אהל",
+      "gloss": "чатырда"
+    },
+    {
+      "surface": "ומקнэ",
+      "gloss": "мал-жандыктын"
     }
   ],
-  "timestamp": "2026-10-05T11:46:00.617310936Z",
+  "timestamp": "2026-10-05T18:29:14.002830513Z",
   "model": "glm-5.3"
 }

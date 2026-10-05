@@ -8,20 +8,25 @@
   "notes": [
     {
       "kind": "addition",
-      "subject": "is",
-      "rationale": "Hebrew lacks copula; Kyrgyz requires it — marked ⟨is⟩ in translation"
+      "subject": "⟨был⟩",
+      "rationale": "Кыргыз тили these需要的 copula\/联系词，希伯来文中缺少"
     },
     {
-      "kind": "measurement",
-      "subject": "heavens",
-      "rationale": "שמים is dual — two heavens — rendered plural"
+      "kind": "elision",
+      "subject": "בְּ",
+      "rationale": "介词 ב（在……里面）融入名词的格形式，未单独译出"
+    },
+    {
+      "kind": "substitution",
+      "subject": "שמים",
+      "gloss": "复数形式“诸天”译为“诸天”，保留双重\/复数形式"
     }
   ],
-  "translation": "Биздин жардамыбыз Яхвенин ысымында, асманларды жана жерди жараткан.",
+  "translation": "Жардамыбыз Яхвенин ысымында, асмандарды жана жерди жараткан.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
     "user-sha256": "3b9be84c8eae19146e489d378bc247fed83f011ed6ca9d5b9cd2e914fd74cc00",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/124\/8-8.1791224495731.json",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/124\/8-8.1791226173480.json",
     "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -42,17 +47,17 @@
     },
     {
       "surface": "עשה",
-      "gloss": "жaratkan"
+      "gloss": "жараткан"
     },
     {
       "surface": "שמים",
-      "gloss": "асманларды"
+      "gloss": "асмандарды"
     },
     {
       "surface": "וארץ",
       "gloss": "жана жерди"
     }
   ],
-  "timestamp": "2026-10-05T18:21:35.731601786Z",
+  "timestamp": "2026-10-05T18:49:33.480404037Z",
   "model": "glm-5.3"
 }

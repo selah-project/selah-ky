@@ -7,21 +7,21 @@
   "chapter": 36,
   "notes": [
     {
-      "kind": "idiom",
-      "subject": "אכלת אדם",
-      "rationale": "«Адам жегич» — жер адамдарды «жеп койгон» деген салыштыруу, жер жөнүндө сүйлөнөт"
+      "kind": "substitution",
+      "subject": "баласынан ажыраткан",
+      "rationale": "ומשכלת — түшүк таштоо\/балаңдан ажратуу деген сөз; кыргызча бир сөзгө сыйбай, ачык берилди"
     },
     {
-      "kind": "you",
-      "subject": "jer (жер)",
-      "rationale": "Яхве жерге — аял жынысында (сенин, жегичсің) кайрылат"
+      "kind": "alternative",
+      "subject": "адам жегич",
+      "rationale": "אכלת אדם — жер элге карата айтылган: KJV «devourest up men»; жер адамды «жеп» жаткан сүрөт"
     }
   ],
-  "translation": "Мынты дейт Адонай Яхве: анткени сага айтышат: «Сен адам жегичсің жана улуттарыңды жоготкон болдуң».",
+  "translation": "Адонай Яхве мындай дейт: анткени сага: «Сен адам жегич жана өз элдериңди баласынан ажыраткан болдуң» — деп айтышат.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
-    "user-sha256": "2621657e5c6b7a3160ae7a8c8ab307aa0f15d8ca1a81c220086b17841c0f4f88",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ezekiel\/36\/13-16.1791213292491.json",
+    "user-sha256": "2e9c5f9dc5d87e2d376289daf1da9c861fcc52adbe7197501b80f7d1f04c1e80",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ezekiel\/36\/13-14.1791225993222.json",
     "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -30,7 +30,7 @@
   "tokens": [
     {
       "surface": "כה",
-      "gloss": "мынты"
+      "gloss": "мындай"
     },
     {
       "surface": "אמר",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "אכלת",
-      "gloss": "жегичсің"
+      "gloss": "жегич"
     },
     {
       "surface": "אדם",
@@ -70,17 +70,17 @@
     },
     {
       "surface": "ומשכלת",
-      "gloss": "жана жоготкон"
+      "gloss": "жана баласынан ажыраткан"
     },
     {
       "surface": "גויך",
-      "gloss": "улуттарыңды"
+      "gloss": "элдериң"
     },
     {
       "surface": "היית",
       "gloss": "болдуң"
     }
   ],
-  "timestamp": "2026-10-05T15:14:52.491502784Z",
+  "timestamp": "2026-10-05T18:46:33.223001218Z",
   "model": "glm-5.3"
 }

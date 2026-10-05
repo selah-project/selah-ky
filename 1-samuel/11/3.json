@@ -7,22 +7,27 @@
   "chapter": 11,
   "notes": [
     {
-      "kind": "addition",
-      "subject": "адам",
-      "rationale": "Ивритте «эгер бизди куткаруучу жок болсо» — кыргызча «куткаруучу адам» толукталды."
+      "kind": "measurement",
+      "subject": "жети күн",
+      "rationale": "Карылар так мөөнөт сурап жатышат — жети күндүк сан мөөнөт"
     },
     {
-      "kind": "you",
-      "subject": "Нахашка",
-      "rationale": "Карылар Нахашка түз кайрылып сүйлөшөт."
+      "kind": "idiom",
+      "subject": "чыгып барабыз",
+      "rationale": "«ביצאנו אליך» — берилиш, багынуу маанисиндеги эвфемизм; айрым которуулар «сенсиң болобуз» деп жумшартат"
+    },
+    {
+      "kind": "crux",
+      "subject": "הרף",
+      "rationale": "«Токтот, бошот» деген буйрук сөз; KJV «respite» (мөөнөт) деп, YLT «Let us alone» (бизди коё тур) деп окуйт"
     }
   ],
-  "translation": "Жана Ябештин карылары ага айтты: Бизге жети күн боштук бер, жана бүткүл Йисраэл чегарасына элчилер жиберели; эгер бизди kutkarbagan adam bolso, биз сага чыгабыз.",
+  "translation": "Жана Явештин карылары ага айтты: Бизге жети күн мөөнөт бериң, биз Йисраэлдин бүт чегарасына элчилерди жиберели; эгер бизди ⟨את⟩ куткаруучу болбосо, биз сага чыгып барабыз.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
-    "user-sha256": "4ddc603da9ad16e68a52645577d22fcb183c15c5ec506e1a16ecd59a9a3340c5",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-samuel\/11\/1-4.1791206821447.json",
-    "code": "da1b46b6-dirty",
+    "user-sha256": "a71beac16bf45a9d8facea5a5987ba1180092d2e8dd993c2032607b2a3fb442c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-samuel\/11\/2-3.1791225509022.json",
+    "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
     "clean-room?": false
@@ -30,7 +35,7 @@
   "tokens": [
     {
       "surface": "ויאמרו",
-      "gloss": "жана айтты"
+      "gloss": "айтты"
     },
     {
       "surface": "אליו",
@@ -42,11 +47,11 @@
     },
     {
       "surface": "יביש",
-      "gloss": "Ябештин"
+      "gloss": "Явештин"
     },
     {
       "surface": "הרף",
-      "gloss": "боштук бер"
+      "gloss": "мөөнөт"
     },
     {
       "surface": "לנו",
@@ -62,15 +67,15 @@
     },
     {
       "surface": "ונשלחה",
-      "gloss": "жана жиберели"
+      "gloss": "жана-жиберели"
     },
     {
       "surface": "מלאכים",
-      "gloss": "элчилер"
+      "gloss": "элчилерди"
     },
     {
       "surface": "בכל",
-      "gloss": "бүткүл"
+      "gloss": "бүт"
     },
     {
       "surface": "גבול",
@@ -78,15 +83,15 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Йисраэл"
+      "gloss": "Йисраэлдин"
     },
     {
       "surface": "ואם",
-      "gloss": "жана эгер"
+      "gloss": "эгер"
     },
     {
       "surface": "אין",
-      "gloss": "жок болсо"
+      "gloss": "болбосо"
     },
     {
       "surface": "מושיע",
@@ -99,13 +104,13 @@
     },
     {
       "surface": "ויצאנו",
-      "gloss": "биз чыгабыз"
+      "gloss": "жана-чыгып-барабыз"
     },
     {
       "surface": "אליך",
       "gloss": "сага"
     }
   ],
-  "timestamp": "2026-10-05T13:27:01.449043095Z",
+  "timestamp": "2026-10-05T18:38:29.023665368Z",
   "model": "glm-5.3"
 }

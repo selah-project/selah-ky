@@ -7,17 +7,22 @@
   "chapter": 42,
   "notes": [
     {
-      "kind": "addition",
-      "subject": "ал",
-      "rationale": "этиштин субъекти текстте жок, кыргыз талап кылат"
+      "kind": "substitution",
+      "subject": "кендир",
+      "rationale": "פשתה — кендир (өсүмдүк), фитил мааниси контексттен келет"
+    },
+    {
+      "kind": "crux",
+      "subject": "לאמת",
+      "rationale": "'чындыкка' же 'чындык менен' — өкүмдү чындыкка ылайык чыгаруу же акыйкаттуулук менен чыгаруу"
     }
   ],
-  "translation": "Сынган камышты ал сындырбайт,dim өчкөн фитилди өчүрбөйт; чындык менен ал өкүмдү чыгарат.",
+  "translation": "Сынган камишты ал сындырбайт, жана өчүп бараткан кендирди өчүрбөйт; өкүмдү чындыкка чыгарат.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
-    "user-sha256": "cd2ca8d61bfceae2fe30530508ee3017504949d0dda979b6861b7814d17f8126",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/42\/1-4.1791210200752.json",
-    "code": "2011bdaa-dirty",
+    "user-sha256": "0f194d125c02f717e2ab0e6354680da309d495f0b27076356fa3bb3801f4e53f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/42\/3-3.1791225767095.json",
+    "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
     "clean-room?": false
@@ -25,7 +30,7 @@
   "tokens": [
     {
       "surface": "קנה",
-      "gloss": "камышты"
+      "gloss": "камиш"
     },
     {
       "surface": "רצוץ",
@@ -33,7 +38,7 @@
     },
     {
       "surface": "לא",
-      "gloss": "жок"
+      "gloss": "эмес"
     },
     {
       "surface": "ישבור",
@@ -41,15 +46,15 @@
     },
     {
       "surface": "ופשתה",
-      "gloss": "жана фитилди"
+      "gloss": "жана кендир"
     },
     {
       "surface": "כהה",
-      "gloss": "dim өчкөн"
+      "gloss": "өчүп бараткан"
     },
     {
       "surface": "לא",
-      "gloss": "жок"
+      "gloss": "эмес"
     },
     {
       "surface": "יכבנה",
@@ -57,7 +62,7 @@
     },
     {
       "surface": "לאמת",
-      "gloss": "чындык менен"
+      "gloss": "чындыкка"
     },
     {
       "surface": "יוציא",
@@ -65,9 +70,9 @@
     },
     {
       "surface": "משפט",
-      "gloss": "өкүмдү"
+      "gloss": "өкүм"
     }
   ],
-  "timestamp": "2026-10-05T14:23:20.753262841Z",
+  "timestamp": "2026-10-05T18:42:47.095667409Z",
   "model": "glm-5.3"
 }

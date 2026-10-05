@@ -8,15 +8,20 @@
   "notes": [
     {
       "kind": "addition",
-      "subject": "келген",
-      "rationale": "עליכם these words imply a verb of coming that Hebrew leaves implied"
+      "subject": "⟨жөнөтүлдү⟩",
+      "rationale": "Ивритте этиш жок — «ушул чоң бороон силерге» деген аякталбаган сүйлөм, кыргызча этиш кошулду"
+    },
+    {
+      "kind": "elision",
+      "subject": "כי (экинчи)",
+      "rationale": "Катарлаш экинчи כי кыргызча кайта айтылбай калды"
     }
   ],
-  "translation": "Жана ал аларга айтты: Мени көтөрүп алыңар жана деңизге ыргытыңар, жана деңиз силердин үстүңөрдөн тынч болот; себеби мен билemin: бул чоң добул менин эсебимден силердин үстүңөргө келген.",
+  "translation": "Жана ал аларга айтты: Мени көтөрүп алыңар жана деңизге ыргытыңар, ошондо деңиз силерден басаңдайт, анткени мен билмин: ушул чоң бороон менин себебимден силерге ⟨жөнөтүлдү⟩.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
-    "user-sha256": "27ecf72afd82bbba95c18210a05a1b117c81fcfef6b83d53c8f449dabf9cdfdc",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/jonah\/1\/9-12.1791214456006.json",
+    "user-sha256": "ebe0145d869f65f665d208ef289ee657fcfc50a468c2e43ba2f20057daf9b933",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/jonah\/1\/12-13.1791226084174.json",
     "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -25,7 +30,7 @@
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "айтты"
+      "gloss": "жана ал айтты"
     },
     {
       "surface": "אליהם",
@@ -37,19 +42,19 @@
     },
     {
       "surface": "והטילני",
-      "gloss": "мени ыргытыңар"
+      "gloss": "жана мени ыргытыңар"
     },
     {
       "surface": "אל",
-      "gloss": "—"
+      "gloss": "−га"
     },
     {
       "surface": "הים",
-      "gloss": "деңизге"
+      "gloss": "деңиз"
     },
     {
       "surface": "וישתק",
-      "gloss": "тынч болот"
+      "gloss": "ошондо басаңдайт"
     },
     {
       "surface": "הים",
@@ -57,15 +62,15 @@
     },
     {
       "surface": "מעליכם",
-      "gloss": "силердин үстүңөрдөн"
+      "gloss": "силерден"
     },
     {
       "surface": "כי",
-      "gloss": "себеби"
+      "gloss": "анткени"
     },
     {
       "surface": "יודע",
-      "gloss": "билemin"
+      "gloss": "билмин"
     },
     {
       "surface": "אני",
@@ -73,15 +78,15 @@
     },
     {
       "surface": "כי",
-      "gloss": "—"
+      "gloss": ""
     },
     {
       "surface": "בשלי",
-      "gloss": "менин эсебимден"
+      "gloss": "менин себебимден"
     },
     {
       "surface": "הסער",
-      "gloss": "добул"
+      "gloss": "бороон"
     },
     {
       "surface": "הגדול",
@@ -89,13 +94,13 @@
     },
     {
       "surface": "הזה",
-      "gloss": "бул"
+      "gloss": "ушул"
     },
     {
       "surface": "עליכם",
-      "gloss": "силердин үстүңөргө"
+      "gloss": "силерге"
     }
   ],
-  "timestamp": "2026-10-05T15:34:16.007839590Z",
+  "timestamp": "2026-10-05T18:48:04.174460023Z",
   "model": "glm-5.3"
 }

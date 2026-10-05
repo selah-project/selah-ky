@@ -7,22 +7,22 @@
   "chapter": 24,
   "notes": [
     {
-      "kind": "substitution",
-      "subject": "השקת",
-      "rationale": "'Ичүү\/dat' ордуна — таза кыргыз 'ичүү идиши' же 'суу идиши' туура келет: мал ичүүчү жөнөкөй идиш."
+      "kind": "elision",
+      "subject": "אל",
+      "rationale": "Ивриттин предлогу кыргызча багыт мүчөсү менен берилди, өзүнчө сөз катары жок."
     },
     {
-      "kind": "wordplay",
-      "subject": "לשאב \/ ותשאב",
-      "rationale": "'Сузууга чуркады — сузуп чыкты': бир тамырдын кайталоосу, ритм сакталды."
+      "kind": "hapax",
+      "subject": "השקת",
+      "rationale": "Бул сөз Танахта сейрек кездешет — төөлөрдү ичирүүчү идиш, атайын сөз."
     }
   ],
-  "translation": "Жана ал шашылды, кадын ичүү\/datтарына төктү, кайра кудукка сузууга чуркады жана анын бардык төөлөрү үчүн сузуп чыкты.",
+  "translation": "Ал шашылды жана ⟨את⟩ кумпасын ичирүү идишине төкөттү, жана кайра кудукка суу алууга чуркады, жана анын бардык төөлөрү үчүн суу алды.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
-    "user-sha256": "a9b7f5303d1154c0b8a4cebaedb4cfcbb16b2233abd14e9d11e19ca19dcaed09",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/24\/17-20.1791201125419.json",
-    "code": "752fd82b-dirty",
+    "user-sha256": "464b1abedb8ecdb2d4be1d5da47e479c2eeb352e3cb18f4df847e02025ecd3a3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/24\/20-20.1791224946181.json",
+    "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
     "clean-room?": false
@@ -34,19 +34,19 @@
     },
     {
       "surface": "ותער",
-      "gloss": "төктү"
+      "gloss": "төкөттү"
     },
     {
       "surface": "כדה",
-      "gloss": "кадын"
+      "gloss": "кумпасын"
     },
     {
       "surface": "אל",
-      "gloss": "карай"
+      "gloss": "игиликче"
     },
     {
       "surface": "השקת",
-      "gloss": "ичүү\/datтарына"
+      "gloss": "ичирүү идишине"
     },
     {
       "surface": "ותרץ",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "кудукка"
+      "gloss": "игиликче"
     },
     {
       "surface": "הבאר",
@@ -66,11 +66,11 @@
     },
     {
       "surface": "לשאב",
-      "gloss": "сузууга"
+      "gloss": "суу алууга"
     },
     {
       "surface": "ותשאב",
-      "gloss": "сузуп чыкты"
+      "gloss": "суу алды"
     },
     {
       "surface": "לכל",
@@ -78,9 +78,9 @@
     },
     {
       "surface": "גמליו",
-      "gloss": "төөлөрү үчүн"
+      "gloss": "төөлөрүнө"
     }
   ],
-  "timestamp": "2026-10-05T11:52:05.420177304Z",
+  "timestamp": "2026-10-05T18:29:06.182284910Z",
   "model": "glm-5.3"
 }

@@ -8,21 +8,73 @@
   "notes": [
     {
       "kind": "addition",
-      "subject": "буйругумга байлап",
-      "rationale": "Hebrew lacks a 'beremine' construction for 'command a blessing'; Kyrgyz needs an explicit verb phrase"
+      "subject": "Мен",
+      "rationale": "צויתי этиштин жак мүчөсү менен берилген, ат атооч кыргызча талап кылат"
+    },
+    {
+      "kind": "measurement",
+      "subject": "алтынчы жылы ... үч жылга",
+      "rationale": "жылдарды эсептөө — Шаббат жылынын түшүмү үч жылга жетет"
     }
   ],
-  "translation": "жана Мен алтынчы жылы Өз мүнөзмдөгү батамды силерге буйругумга байлап, ⟨את⟩ түшүмдү үч жылга жеткирип беремин.",
+  "translation": "Мен ⟨את⟩ батаңды алтынчы жылы буюрамын, жана ал үч жылга түшүм берет",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
-    "user-sha256": "020bb7a7f7ff70852909841de2f58f655ca18b325424cfa578f5e56300c1465e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/25\/21-24.1791203378548.json",
-    "code": "f71bac6e-dirty",
+    "user-sha256": "effb4ab81853d136600859aea311ca9cc786399b3d74f1900a1fcc2c6440b10f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/25\/21-21.1791225238553.json",
+    "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
     "clean-room?": false
   },
-  "tokens": [],
-  "timestamp": "2026-10-05T12:29:38.549521588Z",
+  "tokens": [
+    {
+      "surface": "וצויתי",
+      "gloss": "буюрамын"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "батаңды"
+    },
+    {
+      "surface": "ברכתי",
+      "gloss": "батаңды"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "силерге"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "жылы"
+    },
+    {
+      "surface": "הששית",
+      "gloss": "алтынчы"
+    },
+    {
+      "surface": "ועשת",
+      "gloss": "жана ал берет"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "түшүмдү"
+    },
+    {
+      "surface": "התבואה",
+      "gloss": "түшүмдү"
+    },
+    {
+      "surface": "לשלש",
+      "gloss": "үч"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "жылга"
+    }
+  ],
+  "timestamp": "2026-10-05T18:33:58.553943697Z",
   "model": "glm-5.3"
 }

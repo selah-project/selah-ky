@@ -7,16 +7,21 @@
   "chapter": 23,
   "notes": [
     {
-      "kind": "corrupt",
-      "subject": "startIndex",
-      "rationale": "internal error, ignore"
+      "kind": "substitution",
+      "subject": "aramdashty",
+      "rationale": "חלל — «тешик ачуу, жарааттоо» деген сөз, мында «ыйыкты арамдоо» маанисинде"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "טמאו...חללו",
+      "rationale": "Эки этиш тең ыйыкты бузуу жөнүндө: бирөө таза эмес кылуу, бирөө тешип жараттоо — кыргызча эки башка этиш менен берилди"
     }
   ],
-  "translation": "Дагы бул нерсе Мага кылышты: ошол күнү Менин ыйык жайымды ⟨את⟩ булгашты, жана Менин Шаббаттарымды ⟨את⟩ startIndex бузушту.",
+  "translation": "Дагы буларды мага кылышты: ошол күнү ⟨את⟩ ыйык жайымды булгашты жана ⟨את⟩ Шаббаттарымды арамдашты.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
-    "user-sha256": "bb35a8f3ae852229e5dbfa8bd287b55223b028a4270c4ad6b6aae9972dc4f24a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ezekiel\/23\/37-40.1791212797518.json",
+    "user-sha256": "85b0cf95a58e4e36a66a93956397cff3a4fd6fe23c4c19a3a0affcef3052ec51",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ezekiel\/23\/38-38.1791225977838.json",
     "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -29,7 +34,7 @@
     },
     {
       "surface": "זאת",
-      "gloss": "бул нерсе"
+      "gloss": "буларды"
     },
     {
       "surface": "עשו",
@@ -37,7 +42,7 @@
     },
     {
       "surface": "לי",
-      "gloss": "Мага"
+      "gloss": "мага"
     },
     {
       "surface": "טמאו",
@@ -62,7 +67,8 @@
     },
     {
       "surface": "ואת",
-      "gloss": "жана ⟨את⟩"
+      "gloss": "жана ⟨את⟩",
+      "marks": "Шаббаттарымды"
     },
     {
       "surface": "שבתותי",
@@ -70,9 +76,9 @@
     },
     {
       "surface": "חללו",
-      "gloss": "бузушту"
+      "gloss": "арамдашты"
     }
   ],
-  "timestamp": "2026-10-05T15:06:37.519769872Z",
+  "timestamp": "2026-10-05T18:46:17.838923561Z",
   "model": "glm-5.3"
 }

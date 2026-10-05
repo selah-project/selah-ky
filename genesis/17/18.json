@@ -5,17 +5,67 @@
   "book": "genesis",
   "lang": "ky",
   "chapter": 17,
-  "translation": "",
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "каалар элем",
+      "rationale": "לוּ — шарттын чаңкысы: «кашта эле», «каалар элем» деген тилек маанисинде"
+    },
+    {
+      "kind": "idiom",
+      "subject": "сенин алдыңда",
+      "rationale": "לְפָנֶיךָ «сенин жүзүңдө» — кыргызча «сенин алдыңда» идиома катары"
+    },
+    {
+      "kind": "you",
+      "subject": "Элохимге",
+      "rationale": "Аврахам Элохимге түз гана кайрылат"
+    }
+  ],
+  "translation": "Жана Аврахам Элохимге айтты: Яхвенин ордуна эмес — каалар элем, Ишмаэл сенин алдыңда жашаса!",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
-    "user-sha256": "aaf5e80fbf1ff7cfbe18724592656b392113c95cf5cf12e30c69a7820891039e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/17\/17-20.1791201039576.json",
-    "code": "752fd82b-dirty",
+    "user-sha256": "153da61fb50c32726aecee4a2ece87682358a8dd9f241228d69ff7481f843343",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/17\/18-18.1791224954097.json",
+    "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
     "clean-room?": false
   },
-  "tokens": [],
-  "timestamp": "2026-10-05T11:50:39.577777201Z",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "жана айтты"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Аврахам"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ке"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "לו",
+      "gloss": "каалар элем"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Ишмаэл"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "жашаса"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "сенин алдыңда"
+    }
+  ],
+  "timestamp": "2026-10-05T18:29:14.097526629Z",
   "model": "glm-5.3"
 }

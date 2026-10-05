@@ -7,22 +7,27 @@
   "chapter": 28,
   "notes": [
     {
-      "kind": "substitution",
-      "subject": "кемчилсиз",
-      "rationale": "תמימם — бүтүн, толук; кыргызча кемчилсиз эң жакын формасы"
+      "kind": "addition",
+      "subject": "берилет",
+      "rationale": "Еврей текстинде этиш жок — санак аталыштары гана; кыргыз тили сүйлөмдү бүтүрүүчү этишти талап кылат."
+    },
+    {
+      "kind": "elision",
+      "subject": "בני שנה",
+      "rationale": "\"бир жаштагы\" — бир нече сөз түрүндөгү туура эмес туюнтма, лексикалык энчилүү туюнтма эмес."
     },
     {
       "kind": "measurement",
       "subject": "эки омер",
-      "rationale": "чендер: омер, жаш курак, саны так көрсөтүлгөн"
+      "rationale": "Ченем эрежеси: Шаббат үчүн эки омер ун жана эки козу."
     }
   ],
-  "translation": "Жана Шаббат күнү эки козу, бир жаштагы, кемчилсиз ⟨же эки⟩ омер сөлтү, май менен аралаштырылган минча, жана анын өтөөсү ⟨берилет⟩.",
+  "translation": "Жана Шаббат күнү эки козу, бир жаштагы, кемчиликсиз ⟨жана⟩ эки омер майда ун, май менен аралаштырылган минха, жана анын ниски ⟨берилет⟩.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
-    "user-sha256": "c7ea6afaba141f6ce1e5d299e2912e99ecf1a943b8380ad363942d984e1c4610",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/numbers\/28\/9-12.1791204260247.json",
-    "code": "f71bac6e-dirty",
+    "user-sha256": "b02373404582b6ab8bfd1e06927de19e37ff4b25588d653c736148f9fff8c85c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/numbers\/28\/9-9.1791225303645.json",
+    "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
     "clean-room?": false
@@ -46,15 +51,15 @@
     },
     {
       "surface": "בני",
-      "gloss": "... балдары"
+      "gloss": "жаштагы"
     },
     {
       "surface": "שנה",
-      "gloss": "жыл"
+      "gloss": "бир жаш"
     },
     {
       "surface": "תמימם",
-      "gloss": "kemchilsiz"
+      "gloss": "кемчиликсиз"
     },
     {
       "surface": "ושני",
@@ -66,25 +71,25 @@
     },
     {
       "surface": "סלת",
-      "gloss": "söltü"
+      "gloss": "майда ун"
     },
     {
       "surface": "מנחה",
-      "gloss": "mincha"
+      "gloss": "минха"
     },
     {
       "surface": "בלולה",
-      "gloss": "aralashtırılган"
+      "gloss": "аралаштырылган"
     },
     {
       "surface": "בשמן",
-      "gloss": "mayda"
+      "gloss": "май менен"
     },
     {
       "surface": "ונסכו",
-      "gloss": "жана анын өтөөсү"
+      "gloss": "жана анын ниски"
     }
   ],
-  "timestamp": "2026-10-05T12:44:20.248029751Z",
+  "timestamp": "2026-10-05T18:35:03.646388147Z",
   "model": "glm-5.3"
 }

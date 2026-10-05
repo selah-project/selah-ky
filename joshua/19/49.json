@@ -8,16 +8,21 @@
   "notes": [
     {
       "kind": "elision",
-      "subject": "את הארץ",
-      "rationale": "Мураска таратуу этиштин ичинде объект ⟨את⟩ менен көрсөтүлөт."
+      "subject": "את",
+      "rationale": "Direct object marker preserved as ⟨את⟩, no equivalent in Kyrgyz."
+    },
+    {
+      "kind": "substitution",
+      "subject": "бүткөндө",
+      "rationale": "ויכלו 'алар бүтүрдү' — кыргызча этиш ылгабы менен берилди."
     }
   ],
-  "translation": "Жер өз чек-arалары боюнча мураска таратылып бүткөндө, Йисраэлдин уулдары Нундун уулу Йегошуага алардын арасында мурас беришти.",
+  "translation": "Жер өз чектери боюнча мураска бөлүнүп бүткөндө, Йисраэлдин уулдары алардын ичинде Нундун уулу Йехошуага мурас беришти.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
-    "user-sha256": "b2e982eb2439f8022ef7adc55d7b5a95726d6e2a3fe8bcc3054dd774a11e6eef",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/joshua\/19\/49-51.1791205902041.json",
-    "code": "f71bac6e-dirty",
+    "user-sha256": "37f818b3448041a9765d51027d7a5fb33f9d38b7247670269032aa9cf777c604",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/joshua\/19\/49-49.1791225393119.json",
+    "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
     "clean-room?": false
@@ -29,20 +34,20 @@
     },
     {
       "surface": "לנחל",
-      "gloss": "мураска таратуу"
+      "gloss": "мураска бөлүүү"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "жерди"
+      "marks": "жер"
     },
     {
       "surface": "הארץ",
-      "gloss": "жерди"
+      "gloss": "жер"
     },
     {
       "surface": "לגבולתיה",
-      "gloss": "өз чек-аралары боюнча"
+      "gloss": "өз чектери боюнча"
     },
     {
       "surface": "ויתנו",
@@ -62,7 +67,7 @@
     },
     {
       "surface": "ליהושע",
-      "gloss": "Йегошуага"
+      "gloss": "Йехошуага"
     },
     {
       "surface": "בן",
@@ -74,9 +79,9 @@
     },
     {
       "surface": "בתוכם",
-      "gloss": "алардын арасында"
+      "gloss": "алардын ичинде"
     }
   ],
-  "timestamp": "2026-10-05T13:11:42.041604932Z",
+  "timestamp": "2026-10-05T18:36:33.119671474Z",
   "model": "glm-5.3"
 }

@@ -7,21 +7,21 @@
   "chapter": 4,
   "notes": [
     {
-      "kind": "addition",
-      "subject": "үчүн",
-      "rationale": "Инфинитивдер (להוריש, להбיאך, לתת) максат маанисин билдирет; кыргызча «үчүн» ачык жазылды."
+      "kind": "elision",
+      "subject": "הזה",
+      "rationale": "'бул' көрсөтүүчү ат атооч 'бүгүнкү күндөгүдөй' ичинде жутулган"
     },
     {
-      "kind": "elision",
-      "subject": "ממך",
-      "rationale": "«Сенecen» деген сөз текстке кирген жок — «senden uluu» деген салыштыруу түрүндө «улуу» ичине сиңди."
+      "kind": "substitution",
+      "subject": "кууп чыгуу",
+      "rationale": "להוריש — 'ээликтен алуу, орун бошотуу'; 'кууп чыгуу' бир гана тарабы"
     }
   ],
-  "translation": "Сенecen улуу жана сенecen күчтүү элдерди сенин алдыңдан кууп чыгуу үчүн, сени алып кирүү үчүн жана ⟨את⟩ алардын жерин мурас катары бүгүнкүдөй сага берүү үчүн.",
+  "translation": "Сенден улуу жана күчтүү элдерди сенин жүзүңдөн кууп чыгуу үчүн, сени ⟨алардын жерине⟩ алып кирүү үчүн, ⟨את⟩ алардын жерин сага мурас катары берүү үчүн — бүгүнкү күндөгүдөй.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
     "user-sha256": "b2e57b59b0ef5cbb463a61935c3faec874864af26b53a5a500caaa05380d0425",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/4\/37-38.1791223709276.json",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/4\/37-38.1791225288129.json",
     "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -30,62 +30,62 @@
   "tokens": [
     {
       "surface": "להוריש",
-      "gloss": "kuup çığuu üçün"
+      "gloss": "кууп чыгуу үчүн"
     },
     {
       "surface": "גוים",
-      "gloss": "elderdi"
+      "gloss": "элдерди"
     },
     {
       "surface": "גדלים",
-      "gloss": "uluu"
+      "gloss": "улуу"
     },
     {
       "surface": "ועצמים",
-      "gloss": "jana küçt üü"
+      "gloss": "күчтүү"
     },
     {
       "surface": "ממך",
-      "gloss": "senden"
+      "gloss": "сендин"
     },
     {
       "surface": "מפניך",
-      "gloss": "senin aldıŋdan"
+      "gloss": "сенин жүзүңдөн"
     },
     {
       "surface": "להביאך",
-      "gloss": "seni alıp kirüü üçün"
+      "gloss": "сени алып кирүү үчүн"
     },
     {
       "surface": "לתת",
-      "gloss": "berüü üçün"
+      "gloss": "берүү үчүн"
     },
     {
       "surface": "לך",
-      "gloss": "sağa"
+      "gloss": "сага"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "alardın jerin"
+      "marks": "алардын жерин"
     },
     {
       "surface": "ארצם",
-      "gloss": "alardın jerin"
+      "gloss": "алардын жерин"
     },
     {
       "surface": "נחלה",
-      "gloss": "muras katarı"
+      "gloss": "мурас катары"
     },
     {
       "surface": "כיום",
-      "gloss": "bügünkdöy"
+      "gloss": "бүгүнкү күндөгүдөй"
     },
     {
       "surface": "הזה",
-      "gloss": "uşul"
+      "gloss": "бул"
     }
   ],
-  "timestamp": "2026-10-05T18:08:29.277821459Z",
+  "timestamp": "2026-10-05T18:34:48.131331754Z",
   "model": "glm-5.3"
 }

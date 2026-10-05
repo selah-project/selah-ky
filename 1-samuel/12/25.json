@@ -8,21 +8,26 @@
   "notes": [
     {
       "kind": "wordplay",
-      "subject": "הרע תרעו",
-      "rationale": "Бир эле тамыр רעע эки жолу — «жамандык кылсаңар» деп кайталоо кыргызча жоголду."
+      "subject": "הרע\/תרעו",
+      "rationale": "Этүүчү «жамандык кылсаңар» — дайыма жамандык кылуу маанисинде; кыргызча бир сөз менен берилген."
     },
     {
-      "kind": "substitution",
-      "subject": "жок кылынасыңар",
-      "rationale": "ספה — «сыдырып таштоо, курго сууруу» маанисинде; «жок кылуу» — жалпылайтылган котормо."
+      "kind": "crux",
+      "subject": "תספו",
+      "rationale": "ספה — «жаап-жок кылуу, алып салуу»; KJV «consumed», JPS «swept away»; кыргызча «жок кылынасыңар» тандылды."
+    },
+    {
+      "kind": "you",
+      "subject": "Исраил элине",
+      "rationale": "Шмуел элге кайрылуусунун аягы — шарттуу эскертүү."
     }
   ],
-  "translation": "Ал эми эгер жамандык кылсаңар, силер да, падышаңар да жок кылынасыңар.",
+  "translation": "Жана эгер жамандык кылсаңар, силер да, падышаңар да жок кылынасыңар.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
     "user-sha256": "263af796ef787e2244c902f567fed4d8c4f38ff8e8aaab7e254dc6ddbf7df686",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-samuel\/12\/25-25.1791206716563.json",
-    "code": "da1b46b6-dirty",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-samuel\/12\/25-25.1791225458638.json",
+    "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
     "clean-room?": false
@@ -30,7 +35,7 @@
   "tokens": [
     {
       "surface": "ואם",
-      "gloss": "Ал эми эгер"
+      "gloss": "жана эгер"
     },
     {
       "surface": "הרע",
@@ -46,7 +51,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "сiler"
+      "gloss": "силер"
     },
     {
       "surface": "גם",
@@ -61,6 +66,6 @@
       "gloss": "жок кылынасыңар"
     }
   ],
-  "timestamp": "2026-10-05T13:25:16.564419497Z",
+  "timestamp": "2026-10-05T18:37:38.638940918Z",
   "model": "glm-5.3"
 }

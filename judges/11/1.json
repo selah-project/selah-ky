@@ -5,17 +5,83 @@
   "book": "judges",
   "lang": "ky",
   "chapter": 11,
-  "translation": "Яхфтах гиладдык эле, кадыр-барктуу жоокер болгон, ал аялдын уулу эле, аны Гилеад төрөткөн.",
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "зина кылган аял",
+      "rationale": "זונה — participle 'зина кылган', кыргызча этиш катары берилди"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "гебор хайил",
+      "rationale": "גיבור חיל — 'күчтүү эр' салыштыруу, эки сөз тең сакталды"
+    }
+  ],
+  "translation": "Йифтах гиладдык ⟨ал⟩ баатыр эр болгон, ал аялдан — зина кылган аялдан туулган уул эле, жана Гилад ⟨את⟩ Йифтахты тууду.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
     "user-sha256": "2427792c721612ec95aa51a3a8efbf472b5989fe4917b3bdc632ca09bb78f567",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/judges\/11\/1-4.1791206327081.json",
-    "code": "da1b46b6-dirty",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/judges\/11\/1-4.1791225509887.json",
+    "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
     "clean-room?": false
   },
-  "tokens": [],
-  "timestamp": "2026-10-05T13:18:47.081651451Z",
+  "tokens": [
+    {
+      "surface": "ויפתח",
+      "gloss": "Йифтах"
+    },
+    {
+      "surface": "הגלעדי",
+      "gloss": "гиладдык"
+    },
+    {
+      "surface": "היה",
+      "gloss": "болгон"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "баатыр"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "эр"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ал"
+    },
+    {
+      "surface": "בן",
+      "gloss": "уул"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "аялдан"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "зина кылган аял"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "тууду"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Гилад"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Йифтахты"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Йифтахты"
+    }
+  ],
+  "timestamp": "2026-10-05T18:38:29.888438711Z",
   "model": "glm-5.3"
 }

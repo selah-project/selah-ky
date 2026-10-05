@@ -7,22 +7,27 @@
   "chapter": 1,
   "notes": [
     {
-      "kind": "wordplay",
-      "subject": "איש איש… איש",
-      "rationale": "«Адам адам… адам» — эритилбес үч кайталоо, коомдук тактык билдирет"
+      "kind": "idiom",
+      "subject": "איש אישׁ",
+      "rationale": "Таратылма (дистрибутив) кайрылуу — «ар бир киши»; эки жолу айтылган איש кыргызча бир «ар бир» сөзү менен берилди."
     },
     {
-      "kind": "elision",
-      "subject": "הוא",
-      "rationale": "Эмфатикалык «ал» — «ошол адам өзү» деген басым, кыргызча «ал болсун» менен берилди"
+      "kind": "addition",
+      "subject": "уруудан бир",
+      "rationale": "למטה букв. «урууга» — кыргызча түшүнүктүү болушу үчүн «уруудан бир» деп берилди."
+    },
+    {
+      "kind": "addition",
+      "subject": "ал",
+      "rationale": "ב小小的强调 ↓ הוא — эмфатикалык «ал» кыргызча кайра берилди, кашаасыз."
     }
   ],
-  "translation": "Жана ⟨את⟩ силер менен бирге ар бир урудан бир адам, аталарынын үйүнө баш болгон ар бир adam — ал болсун.",
+  "translation": "Жана ⟨את⟩ силер менен ар бир уруудан бир киши болсун — ар бир киши өз аталарынын үй-бүлөсүнүн башчысы болот, ал.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
-    "user-sha256": "6644281be4303ce7a73fdb58cbdaf9eb2f36d97306ae9dd0814bfe6bad26ccf0",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/numbers\/1\/1-4.1791203559121.json",
-    "code": "f71bac6e-dirty",
+    "user-sha256": "9ee181cb4023e4d0151155bc0d7cfc6c998731047997f7d528f52568279cc1ae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/numbers\/1\/4-4.1791225244371.json",
+    "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
     "clean-room?": false
@@ -30,7 +35,7 @@
   "tokens": [
     {
       "surface": "ואתכם",
-      "gloss": "жана ⟨את⟩ силер менен"
+      "gloss": "⟨את⟩ силер менен"
     },
     {
       "surface": "יהיו",
@@ -38,37 +43,37 @@
     },
     {
       "surface": "איש",
-      "gloss": "адам"
-    },
-    {
-      "surface": "איש",
       "gloss": "ар бир"
     },
     {
+      "surface": "איש",
+      "gloss": "киши"
+    },
+    {
       "surface": "למטה",
-      "gloss": "урудан"
+      "gloss": "уруу боюнча"
     },
     {
       "surface": "איש",
-      "gloss": "адам"
+      "gloss": "киши"
     },
     {
       "surface": "ראש",
-      "gloss": "баш"
+      "gloss": "башчы"
     },
     {
       "surface": "לבית",
-      "gloss": "…үйүнө"
+      "gloss": "үй-бүлөсүнүн"
     },
     {
       "surface": "אבתיו",
-      "gloss": "аталарынын"
+      "gloss": "өз аталарынын"
     },
     {
       "surface": "הוא",
       "gloss": "ал"
     }
   ],
-  "timestamp": "2026-10-05T12:32:39.122991397Z",
+  "timestamp": "2026-10-05T18:34:04.371484763Z",
   "model": "glm-5.3"
 }

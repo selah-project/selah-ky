@@ -7,21 +7,26 @@
   "chapter": 1,
   "notes": [
     {
-      "kind": "substitution",
-      "subject": "мебех",
-      "rationale": "מזבח — өрттөө үчүн курмандык орду, жөн гана 'меbeх' деп берилди"
+      "kind": "elision",
+      "subject": "אשר",
+      "rationale": "Salgych «ал» кыргызча керексиз — сын атооч тыянагы менен берилди"
     },
     {
-      "kind": "crux",
-      "subject": "וידרשהו",
-      "rationale": "'аны издеди' — Яхвени суроо үчүн курмандык чечимине кайрылды же аны жасап жаткан жерди издеди деп эки окуу бар"
+      "kind": "substitution",
+      "subject": "аныздей",
+      "rationale": "דרש — «издөө, издеп сурагылык жасоо»; «андан суроо» деген мааниде алынды"
+    },
+    {
+      "kind": "measurement",
+      "subject": "genealogy",
+      "rationale": "Бецалел — Уринин уулу — Хурдун уулу: үч муун аталат"
     }
   ],
-  "translation": "Жана жез мебех — аны Бецалел, Урдин уулу, Хурдун уулу жасаган — Яхвенин Мишканынын алдына коюлган эле, жана Шломо аны издеди, ⟨жана⟩ жыйын да.",
+  "translation": "Жана жез курмандыкты — Бецалел, Уринин уулу, Хурдун уулу жасаган — Яхвенин Мишканынын алдына койгон; жана Шеломо жана жыйын аныздей",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
-    "user-sha256": "cf03eae87b8b4aed02b64bdd04f0cebe2d6230099efec1d4e327d7cbf9dc7d5a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-chronicles\/1\/5-8.1791222508726.json",
+    "user-sha256": "4ae848fc12ff20ece8650b150c22c3c90993410f797328721615eb80d55de33a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-chronicles\/1\/5-6.1791226425691.json",
     "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -30,7 +35,7 @@
   "tokens": [
     {
       "surface": "ומזבח",
-      "gloss": "жана жез мүрзө-меbeх"
+      "gloss": "жана жез курмандыкты"
     },
     {
       "surface": "הנחשת",
@@ -38,7 +43,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "ал"
+      "gloss": "—"
     },
     {
       "surface": "עשה",
@@ -66,7 +71,7 @@
     },
     {
       "surface": "שם",
-      "gloss": "коюлган"
+      "gloss": "койгон"
     },
     {
       "surface": "לפני",
@@ -74,7 +79,7 @@
     },
     {
       "surface": "משכן",
-      "gloss": "Мишкан"
+      "gloss": "Мишканынын"
     },
     {
       "surface": "יהוה",
@@ -82,17 +87,17 @@
     },
     {
       "surface": "וידרשהו",
-      "gloss": "жана аны издеди"
+      "gloss": "жана аныздей"
     },
     {
       "surface": "שלמה",
-      "gloss": "Шломо"
+      "gloss": "Шеломо"
     },
     {
       "surface": "והקהל",
       "gloss": "жана жыйын"
     }
   ],
-  "timestamp": "2026-10-05T17:48:28.727360167Z",
+  "timestamp": "2026-10-05T18:53:45.692520935Z",
   "model": "glm-5.3"
 }

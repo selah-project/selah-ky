@@ -8,21 +8,26 @@
   "notes": [
     {
       "kind": "crux",
-      "subject": "כחם צח עלי אור",
-      "rationale": "«нурга тийген ачык ысык» (ASV) же «чөптөгү күйгүзүүчү ысык» (ЖКВ «herbs») — «чөп» түшүндүрүүсү болжолдуу"
+      "subject": "צח עלי אור",
+      "rationale": "KJV 'heat upon herbs' (see qir: צח עלי אור vs עלי עשב); JPS\/ASV 'clear heat in sunshine' — тексттин айтылышы боюнча 'нур үстүндөгү ачык ысыктык'"
     },
     {
-      "kind": "addition",
-      "subject": "маалынын",
-      "rationale": "קציר «орок\/жыйноо» — кыргызча «орок маалы» деп ачыкталды"
+      "kind": "substitution",
+      "subject": "כעב",
+      "rationale": "עב — булут, бирок жыйноо ысыгында шүүдүүм булуту жылуулукту алып кетет; көлөкө мааниси да бар"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אשקוטה\/ואביטה",
+      "rationale": "Этиштердин үндөштүгү (ш-к-т \/ б-т), кыргызча тынч туруп\/байкап деген үндөштүк жоголот"
     }
   ],
-  "translation": "Antкени Яхве мага мындай деди: Мен өз ордомдо тынч жатып караймын, күн нурундагы ачык ысыктай, орок маалынын ысыгындагы шүүдүрүм булутундай.",
+  "translation": "Анткени Яхве мага мындай деди: Мен тынч туруп, өз ордумдан байкап турмун — нур үстүндөгү ачык ысыктыктай, жыйноо ысыгында шүүдүүм булутундай.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
-    "user-sha256": "09e49299305836eb392ba88b85b98d89ff37106566c1a06010df6da0936bf95f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/18\/1-4.1791209736985.json",
-    "code": "2011bdaa-dirty",
+    "user-sha256": "6028e175fc6a77054e594dd4ac5ca9d9b8a5cfa4eeaa08cd41ab721b459ef384",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/18\/4-4.1791225679886.json",
+    "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
     "clean-room?": false
@@ -30,7 +35,7 @@
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "Antкени"
+      "gloss": "анткени"
     },
     {
       "surface": "כה",
@@ -50,19 +55,19 @@
     },
     {
       "surface": "אשקוטה",
-      "gloss": "тынч жатып"
+      "gloss": "тынч туруп"
     },
     {
       "surface": "ואביטה",
-      "gloss": "жана караймын"
+      "gloss": "жана байкап турмун"
     },
     {
       "surface": "במכוני",
-      "gloss": "өз ордомдо"
+      "gloss": "өз ордумдан"
     },
     {
       "surface": "כחם",
-      "gloss": "ысыктай"
+      "gloss": "ысыктыктай"
     },
     {
       "surface": "צח",
@@ -70,11 +75,11 @@
     },
     {
       "surface": "עלי",
-      "gloss": "кубары"
+      "gloss": "үстүндөгү"
     },
     {
       "surface": "אור",
-      "gloss": "нурдун"
+      "gloss": "нур"
     },
     {
       "surface": "כעב",
@@ -82,17 +87,17 @@
     },
     {
       "surface": "טל",
-      "gloss": "шүүдүрүм"
+      "gloss": "шүүдүүм"
     },
     {
       "surface": "בחם",
-      "gloss": "ысыгындагы"
+      "gloss": "ысыгында"
     },
     {
       "surface": "קציר",
-      "gloss": "орок маалынын"
+      "gloss": "жыйноо"
     }
   ],
-  "timestamp": "2026-10-05T14:15:36.986931539Z",
+  "timestamp": "2026-10-05T18:41:19.886938671Z",
   "model": "glm-5.3"
 }

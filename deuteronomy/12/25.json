@@ -5,17 +5,73 @@
   "book": "deuteronomy",
   "lang": "ky",
   "chapter": 12,
-  "translation": "Аны жебе, eer сен Яхвенин көздөрүнө ⟨ал эмес⟩ tuura нерсе жасасаң, жакшы болсун — сага жана сенден кийинки уулдарыңа.",
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "нерсе",
+      "rationale": "Ивритте «туура» сыяктуу зат атооч жок, кыргызча сүйлөм аны талап кылат"
+    }
+  ],
+  "translation": "Аны жебе — эмне үчүн? — ⟨эмне үчүн⟩ деген жок: сага жакшы болушу үчүн жана сенден кийинки уулдарыңа, анткени сен Яхвенин көздөрүнө туура нерсе жасайсың.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
-    "user-sha256": "9d7d05c7006113a7e723cca421557fac384ea70809f5318f005325f0ee5af25b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/12\/25-28.1791205016156.json",
-    "code": "f71bac6e-dirty",
+    "user-sha256": "d3c05bac428a5859e3e0199fbd38646f0ced75ef9a9e41e73679310b5376cb16",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/12\/25-25.1791225358971.json",
+    "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
     "clean-room?": false
   },
-  "tokens": [],
-  "timestamp": "2026-10-05T12:56:56.157055077Z",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "жебе"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "аны жебе"
+    },
+    {
+      "surface": "למען",
+      "gloss": "үчүн"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "жакшы болсун"
+    },
+    {
+      "surface": "לך",
+      "gloss": "сага"
+    },
+    {
+      "surface": "ולבניך",
+      "gloss": "жана уулдарыңа"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "сенден кийин"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "жасайсың"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "туура нерсе"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "көздөрүндө"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-10-05T18:35:58.971832563Z",
   "model": "glm-5.3"
 }

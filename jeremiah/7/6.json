@@ -7,22 +7,27 @@
   "chapter": 7,
   "notes": [
     {
-      "kind": "elision",
-      "subject": "ал ... ты",
-      "rationale": "Кыргызча тытыш формасы (–багыла) жоктоо менен этишти бир сөзгө бириктирет, еврейче эки бөлүк бар."
+      "kind": "substitution",
+      "subject": "жат жерлик",
+      "rationale": "גר — конок\/убактылуу жашаган чет элдик; 'чет өлкөлүк' да болот"
     },
     {
-      "kind": "you",
-      "subject": "Йегуда элине",
-      "rationale": "Буйруктар Юда элине түз кайрылуу."
+      "kind": "addition",
+      "subject": "керисинче",
+      "rationale": " Hebrew ложно-сыйыноо诉结构 אל...לא + этиш кыргызча болочокто манда-мааниси менен берилди"
+    },
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "rationale": "эскирген тыюу чөйрөсүндөгies жокко чыгаруу לок менен бирге 'төкпөгүлө' деп берилди"
     }
   ],
-  "translation": "жат жерди, жетимди жана жесирди зордуктабагыла, бул жерде күнөөсүз канды төкпөгүлө, жана башка элохимдердин артынан баспагыла — бул өзүңөргө жамандык.",
+  "translation": "жат жерликтти, жетимди жана жесирди кынтык кылбагыла, бул жерде куну жок ⟨את⟩ канды төкпөгүлө, жана башка кудайлардын артынан жүрбөгүлө — өзүңөргө жаман болот.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
-    "user-sha256": "58b02c60bb11cf2a72f75dba882ae06d5ba5ef151d3d87d0bc84b79f03fd0a7b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/jeremiah\/7\/5-8.1791210832905.json",
-    "code": "2011bdaa-dirty",
+    "user-sha256": "f591db2ab6185d299cb251da8e74ed19e0df032e59635cb82df5805df29dfe02",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/jeremiah\/7\/6-6.1791225827478.json",
+    "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
     "clean-room?": false
@@ -30,43 +35,43 @@
   "tokens": [
     {
       "surface": "גר",
-      "gloss": "жат жерди"
+      "gloss": "жат жерлик"
     },
     {
       "surface": "יתום",
-      "gloss": "жетимди"
+      "gloss": "жетим"
     },
     {
       "surface": "ואלמנה",
-      "gloss": "жана жесирди"
+      "gloss": "жана жесир"
     },
     {
       "surface": "לא",
-      "gloss": "жок"
+      "gloss": "керисинче"
     },
     {
       "surface": "תעשקו",
-      "gloss": "зордуктабагыла"
+      "gloss": "кынтык кылбагыла"
     },
     {
       "surface": "ודם",
-      "gloss": "жана канды"
+      "gloss": "жана кан"
     },
     {
       "surface": "נקי",
-      "gloss": "күнөөсүз"
+      "gloss": "куну жок"
     },
     {
       "surface": "אל",
-      "gloss": "ты"
-    },
-    {
-      "surface": "תשפכו",
       "gloss": "төкпөгүлө"
     },
     {
+      "surface": "תשפכו",
+      "gloss": "төккүлө"
+    },
+    {
       "surface": "במקום",
-      "gloss": "жерде"
+      "gloss": "бул жерде"
     },
     {
       "surface": "הזה",
@@ -74,11 +79,11 @@
     },
     {
       "surface": "ואחרי",
-      "gloss": "артынан"
+      "gloss": "жана артынан"
     },
     {
       "surface": "אלהים",
-      "gloss": "элохимдердин"
+      "gloss": "кудайлар"
     },
     {
       "surface": "אחרים",
@@ -86,21 +91,21 @@
     },
     {
       "surface": "לא",
-      "gloss": "жок"
+      "gloss": "керисинче"
     },
     {
       "surface": "תלכו",
-      "gloss": "бaspагыла"
+      "gloss": "жүрбөгүлө"
     },
     {
-      "surface": "лрע",
-      "gloss": "жамандыкка"
+      "surface": "לרע",
+      "gloss": "жаман"
     },
     {
-      "surface": "лכם",
+      "surface": "לכם",
       "gloss": "өзүңөргө"
     }
   ],
-  "timestamp": "2026-10-05T14:33:52.906199434Z",
+  "timestamp": "2026-10-05T18:43:47.479434697Z",
   "model": "glm-5.3"
 }

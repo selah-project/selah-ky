@@ -7,88 +7,93 @@
   "chapter": 14,
   "notes": [
     {
-      "kind": "substitution",
-      "subject": "кечиртүү",
-      "rationale": "לכפר literally 'to cover\/atone'; rendered with kychir\/kechirtüü (expiation), keeping covering sense in note"
+      "kind": "elision",
+      "subject": "мин — ыргытылган",
+      "rationale": "жартылай-жиленүү май конструкциясы үчүн — ыргытылган идиоматикалык чечмелөө, бирдей эмес"
+    },
+    {
+      "kind": "crux",
+      "subject": "тыйылуучунун (кийиз жабууну)",
+      "rationale": "кийиз = жабуу, каптоо; жазоону жабуу — жумшартылган, лексикалык эмес формасы"
     },
     {
       "kind": "addition",
-      "subject": "для",
-      "rationale": "infinitive לכפר requires purposive particle in Kyrgyz"
+      "subject": "үчүн",
+      "rationale": "кийиз жабууну үчүн — объектини көрсөтүүчү үчүн кошумча"
     }
   ],
-  "translation": "Жана  cohендин алаканында калган майды ал тазалануучунун башына коёт — Яхвенин алдында аны кечиртүү үчүн.",
+  "translation": "Жана ыргытылган май — анын ыргытылганы коюнун алаканында турган — ыйыкчы тазалануучунун башына коюп, Яхвенин алдында аны үчүн жазоону жабууну аткарсын.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
-    "user-sha256": "e2cd7ce35c96e09522fd259e70279ac4a68cdb64f800767eaf69433ef3225fc2",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/14\/29-32.1791203058881.json",
-    "code": "f71bac6e-dirty",
+    "user-sha256": "b96f67af935e460e5c024dda0d55d29769c0d99f6f743eb1ae7f24f88573af51",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/14\/29-29.1791225142284.json",
+    "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
     "clean-room?": false
   },
   "tokens": [
     {
-      "surface": "והנותר",
-      "gloss": "жана калган"
+      "surface": "וְהַנּוֹתָ֗ר",
+      "gloss": "жана ыргытылган"
     },
     {
-      "surface": "מן",
-      "gloss": "…дан"
+      "surface": "מִן",
+      "gloss": "—"
     },
     {
-      "surface": "השמן",
-      "gloss": "май"
+      "surface": "הַשֶּׁ֨מֶן֙",
+      "gloss": "айдай"
     },
     {
-      "surface": "אשר",
-      "gloss": "ал"
+      "surface": "אֲשֶׁר֙",
+      "gloss": "анын"
     },
     {
-      "surface": "על",
+      "surface": "עַל",
       "gloss": "үстүндө"
     },
     {
-      "surface": "כף",
+      "surface": "כַּ֣ף",
       "gloss": "алакан"
     },
     {
-      "surface": "הכהן",
-      "gloss": "cohендин"
+      "surface": "הַכֹּהֵ֔ן",
+      "gloss": "коюну"
     },
     {
-      "surface": "יתן",
-      "gloss": "койтот"
+      "surface": "יִתֵּ֖ן",
+      "gloss": "тыйылуучунун"
     },
     {
-      "surface": "על",
-      "gloss": "үстүнө"
+      "surface": "עַל",
+      "gloss": "баса"
     },
     {
-      "surface": "ראש",
-      "gloss": "баш"
+      "surface": "רֹ֣אשׁ",
+      "gloss": "кийиз"
     },
     {
-      "surface": "המטהר",
+      "surface": "הַמִּטַּהֵ֑ר",
       "gloss": "тазалануучунун"
     },
     {
-      "surface": "לכפר",
-      "gloss": "кечиртүү үчүн"
+      "surface": "לְכַפֵּ֥ר",
+      "gloss": "жабууну"
     },
     {
-      "surface": "עליו",
-      "gloss": "аны"
+      "surface": "עָלָ֖יו",
+      "gloss": "үчүн"
     },
     {
-      "surface": "לפני",
+      "surface": "לִפְנֵ֥י",
       "gloss": "алдында"
     },
     {
-      "surface": "יהוה",
+      "surface": "יְהוָֽה",
       "gloss": "Яхвенин"
     }
   ],
-  "timestamp": "2026-10-05T12:24:18.881755617Z",
+  "timestamp": "2026-10-05T18:32:22.284869043Z",
   "model": "glm-5.3"
 }

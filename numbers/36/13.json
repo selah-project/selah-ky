@@ -7,17 +7,22 @@
   "chapter": 36,
   "notes": [
     {
-      "kind": "substitution",
-      "subject": "түздүктөрүндө",
-      "rationale": "ערבה — көбүнчө 'чөл', 'кургак өрөөн'; 'түздүк' жергиликтүү мааниси"
+      "kind": "addition",
+      "subject": "каралды",
+      "rationale": "ивритте אל деген предлог гана, кыргызча этиш талап кылат"
+    },
+    {
+      "kind": "measurement",
+      "subject": "буйруктар жана өкүмдөр",
+      "rationale": "Мыйзамдын бүтүндөй жыйынтыгы — саналган буйруктардын тизмеснин жыйынтыгы"
     }
   ],
-  "translation": "Мителер бул — буйруктар жана өкүмдөр, аларды Яхве Мошенин колу аркылуу Йисраэлдин уулдарына буюрду, Moabдын түздүктөрүндө, Йарден боюнча, Йерихого карата.",
+  "translation": "Булар — буйруктар жана өкүмдөр, Яхвенин Мошенин колу аркылуу Йисраэл уулдарына буйругандары, Моавдын түздүктөрүндө, Йарден боюнча, Йерихого каршы.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
     "user-sha256": "a591563ca066a5abfb5a18ff7fcd3bbf30feaac692cca7ad43e2d2464648a318",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/numbers\/36\/13-13.1791204619515.json",
-    "code": "f71bac6e-dirty",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/numbers\/36\/13-13.1791225299555.json",
+    "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
     "clean-room?": false
@@ -25,7 +30,7 @@
   "tokens": [
     {
       "surface": "אלה",
-      "gloss": "бул — Мителер"
+      "gloss": "Булар"
     },
     {
       "surface": "המצות",
@@ -37,15 +42,15 @@
     },
     {
       "surface": "אשר",
-      "gloss": "аларды"
+      "gloss": "кимдерди"
     },
     {
       "surface": "צוה",
-      "gloss": "буюрду"
+      "gloss": "буйруган"
     },
     {
       "surface": "יהוה",
-      "gloss": "Яхве"
+      "gloss": "Яхвенин"
     },
     {
       "surface": "ביד",
@@ -57,7 +62,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "...га"
+      "gloss": "каралды"
     },
     {
       "surface": "בני",
@@ -65,7 +70,7 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Йисраэлдин"
+      "gloss": "Йисраэл"
     },
     {
       "surface": "בערבת",
@@ -73,11 +78,11 @@
     },
     {
       "surface": "מואב",
-      "gloss": "Moabдын"
+      "gloss": "Моавдын"
     },
     {
       "surface": "על",
-      "gloss": "боюнча"
+      "gloss": "боюнда"
     },
     {
       "surface": "ירדן",
@@ -85,9 +90,9 @@
     },
     {
       "surface": "ירחו",
-      "gloss": "Йерихого карата"
+      "gloss": "Йерихого каршы"
     }
   ],
-  "timestamp": "2026-10-05T12:50:19.516391708Z",
+  "timestamp": "2026-10-05T18:34:59.555969784Z",
   "model": "glm-5.3"
 }

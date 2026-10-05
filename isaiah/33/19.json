@@ -7,22 +7,27 @@
   "chapter": 33,
   "notes": [
     {
-      "kind": "substitution",
-      "subject": "көрбөйсүң",
-      "rationale": "לא менен תראה эки бөлөк токен; кыргызча боло турган терс формада эки сөз бир формага бирикти."
+      "kind": "crux",
+      "subject": "נועז",
+      "rationale": "'өжөр\/жүрөктүү' — тайгылмас эл (KJV 'fierce') же күчтүү эл (YLТ 'strong') деп айтылат"
     },
     {
-      "kind": "crux",
-      "subject": "נלעג לשון",
-      "rationale": "«Шылдыңдалган тил» же «жат тилде сүйлөгөн» — латын LXX боюнча түрдүү варианттар; KJV «stammering», башкалары «strange tongue» деп берет."
+      "kind": "substitution",
+      "subject": "עמקי שפה",
+      "rationale": "'эринин тереңи' — еврейче эрин (тил) 'терең' деп сүрөттөлөт; түшүнүүгө кыйын мааниси"
+    },
+    {
+      "kind": "elision",
+      "subject": "לא תראה",
+      "rationale": "'көрбөйсүң' жоктоочу формада берилди, эртеңки убакыт мааниси кошулду"
     }
   ],
-  "translation": "⟨את⟩ тез тилдүү тайкы элди көрбөйсүң, терең эриндүү элди, угула турган_mocked тил — түшүнүк жок.",
+  "translation": "⟨את⟩ өжөр элди көрбөйсүң — тилери түшүнүксүз терең сөздүү, келемендеп сүйлөгөн, акылсыз элди.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
-    "user-sha256": "8bb06e3c35301721a72105cef0a6dfdb48dbe788141459d470f9337cb3579348",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/33\/17-20.1791209928199.json",
-    "code": "2011bdaa-dirty",
+    "user-sha256": "df7aba1f7750e7a5918f7367acfa4694f6322ce28e0f1a9bf50c5140ce420ac1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/33\/19-19.1791225789384.json",
+    "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
     "clean-room?": false
@@ -31,19 +36,19 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "тайкы элди"
+      "marks": "өжөр элди"
     },
     {
       "surface": "עם",
-      "gloss": "элди"
+      "gloss": "эл"
     },
     {
       "surface": "נועז",
-      "gloss": "тайкы"
+      "gloss": "өжөр"
     },
     {
       "surface": "לא",
-      "gloss": "көрбөйсүң"
+      "gloss": "жок"
     },
     {
       "surface": "תראה",
@@ -51,7 +56,7 @@
     },
     {
       "surface": "עם",
-      "gloss": "элди"
+      "gloss": "эл"
     },
     {
       "surface": "עמקי",
@@ -59,19 +64,19 @@
     },
     {
       "surface": "שפה",
-      "gloss": "эриндүү"
+      "gloss": "тил"
     },
     {
       "surface": "משמוע",
-      "gloss": "угула турган"
+      "gloss": "түшүнүксүз"
     },
     {
       "surface": "נלעג",
-      "gloss": "шылдың"
+      "gloss": "келемендеп"
     },
     {
       "surface": "לשון",
-      "gloss": "тил"
+      "gloss": "сүйлөгөн"
     },
     {
       "surface": "אין",
@@ -79,9 +84,9 @@
     },
     {
       "surface": "בינה",
-      "gloss": "түшүнүк"
+      "gloss": "акыл"
     }
   ],
-  "timestamp": "2026-10-05T14:18:48.200855281Z",
+  "timestamp": "2026-10-05T18:43:09.384501528Z",
   "model": "glm-5.3"
 }

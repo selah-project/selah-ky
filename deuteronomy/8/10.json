@@ -7,22 +7,27 @@
   "chapter": 8,
   "notes": [
     {
-      "kind": "idiom",
-      "subject": "על",
-      "rationale": "«ал (жер) үчүн» — бул жерде үстүнөн эмес, себеп маанисинде"
+      "kind": "substitution",
+      "subject": "алкыштайсың",
+      "rationale": "ברך тамыры «тиз чогуу, табынуу» деген сүрөттү сактайт; бул — буюрук, Birkat ha-Mazon деген тамак алкышынын тамыры."
     },
     {
       "kind": "you",
       "subject": "Йисраэлге",
-      "rationale": "Түз кайрылуу: жеп-тойгондо алкыштоо буйругу"
+      "rationale": "Тамак жеп тойгондон кийин Яхвени алкыштоо буйругу — Йисраэлге багытталган."
+    },
+    {
+      "kind": "addition",
+      "subject": "да",
+      "rationale": "Кыргыз байланышы үчүн кошулган байламта; еврейче вав prefixed этиштерде."
     }
   ],
-  "translation": "Жана жеп, тойгондон кийин Яхвени, Элохимиңди ⟨את⟩ жакшы жер үчүн, ал сага берген жер үчүн алкыштайсың.",
+  "translation": "Жана жейсің, тойосуң да, Яхвени ⟨את⟩ — Элохимиңди — сага берген жакшы жер үчүн алкыштайсың.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
-    "user-sha256": "81c8c2dfd8856795cd331c2af1ca27e223e19b83ede43042cf8d33aaf20f5a66",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/8\/9-12.1791204855010.json",
-    "code": "f71bac6e-dirty",
+    "user-sha256": "dce9bbe34d7123865ac154b7894e8739e2da95e3283752685f9fced58e5ae99e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/8\/9-10.1791225325407.json",
+    "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
     "clean-room?": false
@@ -30,15 +35,15 @@
   "tokens": [
     {
       "surface": "ואכלת",
-      "gloss": "жана жейсің"
+      "gloss": "жейсиң"
     },
     {
       "surface": "ושבעת",
-      "gloss": "жана тойсоң"
+      "gloss": "тойосуң"
     },
     {
       "surface": "וברכת",
-      "gloss": "жана алкыштайсың"
+      "gloss": "алкыштайсың"
     },
     {
       "surface": "את",
@@ -78,6 +83,6 @@
       "gloss": "сага"
     }
   ],
-  "timestamp": "2026-10-05T12:54:15.011164991Z",
+  "timestamp": "2026-10-05T18:35:25.408330668Z",
   "model": "glm-5.3"
 }

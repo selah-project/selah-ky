@@ -8,21 +8,21 @@
   "notes": [
     {
       "kind": "measurement",
-      "subject": "жети жума",
-      "rationale": "Орок тийгизилген күндөн баштап жети жуманы эсептөө буйругу — Шавуот майрамынын эсеби."
+      "subject": "counting",
+      "rationale": "айат жети жуманы саноону буйруп, өлчөө-эсепөө аракетин билдирет"
     },
     {
-      "kind": "you",
-      "subject": "to Israel",
-      "rationale": "Буйрук Израилге багытталган: «өзүңө эсепте»."
+      "kind": "wordplay",
+      "subject": "שבעה\/שבעות",
+      "rationale": "«жети» жана «жума» бир тамырдан кайталанат — ш-б-א үндөштүгү кыргызча жоголот"
     }
   ],
-  "translation": "Жети жумаңды өзүңө эсепте: орок турган буудайга тийген күндөн баштап жети жуманы эсептей баштайсың.",
+  "translation": "Жети жума өзүңө санайсың; орок эгинге тийген кезден баштап жети жуманы саноону баштайсың.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
-    "user-sha256": "bb34b9172bdacd966f11e5e688dcc25d9234e57f14d6bf7b7b94714e77b58086",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/16\/9-12.1791204981013.json",
-    "code": "f71bac6e-dirty",
+    "user-sha256": "5598ee5baff76041f81ead8aeef3571d251ac75816617bc7c36c2399233ec0b4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/16\/9-10.1791225383889.json",
+    "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
     "clean-room?": false
@@ -34,11 +34,11 @@
     },
     {
       "surface": "שבעת",
-      "gloss": "жумаңды"
+      "gloss": "жума"
     },
     {
       "surface": "תספר",
-      "gloss": "эсептейсің"
+      "gloss": "санайсың"
     },
     {
       "surface": "לך",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "מהחל",
-      "gloss": "башталган күндөн"
+      "gloss": "башталгандан"
     },
     {
       "surface": "חרמש",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "בקמה",
-      "gloss": "турган буудайга"
+      "gloss": "эгинге"
     },
     {
       "surface": "תחל",
@@ -62,7 +62,7 @@
     },
     {
       "surface": "לספר",
-      "gloss": "эсептөөгө"
+      "gloss": "саноону"
     },
     {
       "surface": "שבעה",
@@ -73,6 +73,6 @@
       "gloss": "жума"
     }
   ],
-  "timestamp": "2026-10-05T12:56:21.014214300Z",
+  "timestamp": "2026-10-05T18:36:23.890120860Z",
   "model": "glm-5.3"
 }

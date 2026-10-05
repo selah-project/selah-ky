@@ -8,22 +8,20 @@
   "notes": [
     {
       "kind": "addition",
-      "subject": "да",
-      "gloss_note": "",
-      "rationale": "в- prefixed кылычтын жалганганы кыргызча «да» байланыштыргычы менен берилди."
+      "subject": "мен · өз",
+      "rationale": "Еврейче текстте жок, кыргыз тили талап кылат"
     },
     {
-      "kind": "substitution",
-      "subject": "kutkarbayt",
-      "rationale": "С corrected: kutkarmayt",
-      "note": "FIXME"
+      "kind": "addition",
+      "subject": "менин",
+      "rationale": "׃חרבי ээлик мүчөсүн кыргызча атаян атоо көтөрөт"
     }
   ],
-  "translation": "Анткени жааңа эмес, кылычыма да ишенбейм — ал мени kutkarbayt.",
+  "translation": "Анткени мен өз жаама ишенбейм, жана менин кылычым мени куткарбайт.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
-    "user-sha256": "65f1ccdf05b2ff8f2cf9345e6ccbdae8b33b8e6346fc3372310ba93d7a6de1f4",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/44\/6-7.1791224435910.json",
+    "user-sha256": "32bc11596ed4709ef0b90dd42994269750c70a5740fdc9a5a477326d5e75e21a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/44\/7-7.1791226132069.json",
     "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -32,15 +30,15 @@
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "Анткени"
+      "gloss": "анткени"
     },
     {
       "surface": "לא",
-      "gloss": "эмес"
+      "gloss": "жок"
     },
     {
       "surface": "בקשתי",
-      "gloss": "жааңа"
+      "gloss": "жаама"
     },
     {
       "surface": "אבטח",
@@ -48,17 +46,17 @@
     },
     {
       "surface": "וחרבי",
-      "gloss": "кылычыма да"
+      "gloss": "жана кылычым"
     },
     {
       "surface": "לא",
-      "gloss": "kutkarbayt"
+      "gloss": "жок"
     },
     {
       "surface": "תושיעני",
-      "gloss": "мени kutkarbayt"
+      "gloss": "мени куткарбайт"
     }
   ],
-  "timestamp": "2026-10-05T18:20:35.910953345Z",
+  "timestamp": "2026-10-05T18:48:52.069463283Z",
   "model": "glm-5.3"
 }

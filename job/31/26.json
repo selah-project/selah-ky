@@ -8,15 +8,20 @@
   "notes": [
     {
       "kind": "crux",
-      "subject": "אור",
-      "rationale": "КЖВ 'күн' деп берет, латынча 'lux' — еврейче 'жарык'; көпчүлүк котормолор күн деп түшүнөт"
+      "subject": "жарык \/ күн",
+      "rationale": "אור «жарык» деген, бирок көп котормолор «күн» деп окуп калат; лексема жарык"
+    },
+    {
+      "kind": "hapax",
+      "subject": "יקר",
+      "rationale": "баалуу — айдын сыпаттоосу, «жаркыраган» эмес, «кымбаттуу» маанисинде сакталды"
     }
   ],
-  "translation": "Эгерде мен жарык нурга карап, ал жылт irqаганда, жана баалуу ай жүргөндө көз сальсам",
+  "translation": "Эгер мен жарыкты көрсөм, ал жаркыраганда, жана баалуу ай жүргөндө —",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
-    "user-sha256": "260588f1bfd20e912f88aa3aa7fac0f561a32d708c15a1fed35108765099b82e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/job\/31\/25-28.1791219222442.json",
+    "user-sha256": "c352ff226923d82d35c9a911ddb429983580e6f86f198b583c49c431b4708d87",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/job\/31\/26-26.1791226225220.json",
     "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -25,23 +30,23 @@
   "tokens": [
     {
       "surface": "אם",
-      "gloss": "эгерде"
+      "gloss": "эгер"
     },
     {
       "surface": "אראה",
-      "gloss": "карашым"
+      "gloss": "көрсөм"
     },
     {
       "surface": "אור",
-      "gloss": "жарык нур"
+      "gloss": "жарыкты"
     },
     {
       "surface": "כי",
-      "gloss": "качан"
+      "gloss": "ал"
     },
     {
       "surface": "יהל",
-      "gloss": "жылт irqаганда"
+      "gloss": "жаркыраганда"
     },
     {
       "surface": "וירח",
@@ -56,6 +61,6 @@
       "gloss": "жүргөндө"
     }
   ],
-  "timestamp": "2026-10-05T16:53:42.443162049Z",
+  "timestamp": "2026-10-05T18:50:25.220378105Z",
   "model": "glm-5.3"
 }

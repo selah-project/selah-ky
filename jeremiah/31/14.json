@@ -8,20 +8,25 @@
   "notes": [
     {
       "kind": "substitution",
-      "subject": "жан",
-      "rationale": "נפש 'жан' эмес, дем алуучу жашоо күчү, тамакка болгон умтул"
+      "subject": "the soul",
+      "rationale": "נפש is a breathing creature, life-force, not 'soul' in the platonic sense"
     },
     {
-      "kind": "elision",
-      "subject": "דשן",
-      "rationale": "'майлуулук' — ыйык кызматка арналган майда кой, кыргызчада курмандык мааниси ачылбай калды"
+      "kind": "substitution",
+      "subject": "I will satiate",
+      "rationale": "the root רוה — 'to give drink, to slake the thirst', is here combined with fatness: 'I will water with fatness'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דשן \/ טובי",
+      "rationale": "the abundance of the fat of the sacrifices (the portion of the priests) and the goodness of YHWH — the parallelism is lost in translation"
     }
   ],
-  "translation": "Жана Мен ыйык кызмат кылуучулардын жанын майлуулук менен тойгузам, жана Менин элим Менин жакшылыгыма ⟨את⟩ тойот, — Яхвенин сөзү.",
+  "translation": "And the soul of the priests I will satiate with fatness, and my people with ⟨את⟩ my goodness shall be satisfied, says YHWH.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
-    "user-sha256": "b255feae052ae4b5516b499c84664ae54c9a3b33b44614506f6f0e3c322d3cb4",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/jeremiah\/31\/13-16.1791211418301.json",
+    "user-sha256": "75241a52e60468baa6501d5629c4102027037926f2f17788c5aba26d048bb9c2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/jeremiah\/31\/14-14.1791225849206.json",
     "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -30,46 +35,46 @@
   "tokens": [
     {
       "surface": "ורויתי",
-      "gloss": "тойгузам"
+      "gloss": "I will satiate"
     },
     {
       "surface": "נפש",
-      "gloss": "жанын"
+      "gloss": "the soul"
     },
     {
       "surface": "הכהנים",
-      "gloss": "ыйык кызмат кыzuучулардын"
+      "gloss": "of the priests"
     },
     {
       "surface": "דשן",
-      "gloss": "майлуулук"
+      "gloss": "with fatness"
     },
     {
       "surface": "ועמי",
-      "gloss": "жана Менин элим"
+      "gloss": "and my people"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Менин жакшылыгыма"
+      "marks": "my goodness"
     },
     {
       "surface": "טובי",
-      "gloss": "Менин жакшылыгым"
+      "gloss": "my goodness"
     },
     {
       "surface": "ישבעו",
-      "gloss": "тойот"
+      "gloss": "shall be satisfied"
     },
     {
       "surface": "נאם",
-      "gloss": "сөзү"
+      "gloss": "says"
     },
     {
       "surface": "יהוה",
-      "gloss": "Яхвенин"
+      "gloss": "YHWH"
     }
   ],
-  "timestamp": "2026-10-05T14:43:38.302658856Z",
+  "timestamp": "2026-10-05T18:44:09.206470144Z",
   "model": "glm-5.3"
 }

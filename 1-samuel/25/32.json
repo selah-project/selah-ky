@@ -7,17 +7,27 @@
   "chapter": 25,
   "notes": [
     {
-      "kind": "you",
-      "subject": "Абигайлга",
-      "rationale": "Давид Абигайлга түз кайрылып жооп берет"
+      "kind": "substitution",
+      "subject": "алеккоп болсун",
+      "rationale": "ברוך букв. 'тиз чүккөн\/благословенный' — кыргызча алкыш-тилем формасында берилди"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לקראתי",
+      "rationale": "букв. 'мaga каршы чыгууга' — жолугуу үчүн каршылай чыгуу мааниси сакталды"
+    },
+    {
+      "kind": "addition",
+      "subject": "—",
+      "rationale": "кыргызча ырактуулук дефис\/тыныш белгиси кошулду, еврейче жок"
     }
   ],
-  "translation": "Жана Давид Абигайлга айтты: Алкыштуу Яхве, Йисраэлдин Элохимі, бүгүн бул күнү мени жолуктушу үчүн сени жиберген!",
+  "translation": "Жана Давид Авигайылга айтты: Яхве, Йисраэлдин Элохими, бүгүн сени мени кароого жиберген — алеккоп болсун.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
-    "user-sha256": "0c16585058096f9ade3cf6a0d22da2d8640ed86b5deb1b70a325eb552fd8aa9e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-samuel\/25\/29-32.1791207234196.json",
-    "code": "da1b46b6-dirty",
+    "user-sha256": "a493c53f66a88b017259625e95e5728700c7573e25b422ee4d1f86a442374f83",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-samuel\/25\/32-32.1791225550956.json",
+    "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
     "clean-room?": false
@@ -25,7 +35,7 @@
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Жана айтты"
+      "gloss": "жана айтты"
     },
     {
       "surface": "דוד",
@@ -33,11 +43,11 @@
     },
     {
       "surface": "לאביגל",
-      "gloss": "Абигайлга"
+      "gloss": "Авигайылга"
     },
     {
       "surface": "ברוך",
-      "gloss": "Алкыштуу"
+      "gloss": "алеккоп болсун"
     },
     {
       "surface": "יהוה",
@@ -45,7 +55,7 @@
     },
     {
       "surface": "אלהי",
-      "gloss": "Элохимі"
+      "gloss": "Элохими"
     },
     {
       "surface": "ישראל",
@@ -65,13 +75,13 @@
     },
     {
       "surface": "הזה",
-      "gloss": "бул күнү"
+      "gloss": "бул"
     },
     {
       "surface": "לקראתי",
-      "gloss": "мени жолуктушу үчүн"
+      "gloss": "мени кароого"
     }
   ],
-  "timestamp": "2026-10-05T13:33:54.198447854Z",
+  "timestamp": "2026-10-05T18:39:10.957993013Z",
   "model": "glm-5.3"
 }

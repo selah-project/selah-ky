@@ -5,12 +5,19 @@
   "book": "genesis",
   "lang": "ky",
   "chapter": 10,
-  "translation": "Жана Яктан ⟨את⟩ Алмодадды, жана ⟨את⟩ Шелепти, жана ⟨את⟩ Хацармаветти, жана ⟨את⟩ Ярахты туғду.",
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "generation list",
+      "rationale": "Genealogy: names of Joktan's sons counted in sequence."
+    }
+  ],
+  "translation": "Жана Йоктан ⟨את⟩ Алмодадды, ⟨את⟩ Шелефти, ⟨את⟩ Хацармафетти жана ⟨את⟩ Йерахты тууду.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
-    "user-sha256": "d3447f44b9a715907f51d8357501e80083fe373cb259227c5b5ac1f9bf89a1f2",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/10\/25-28.1791200894799.json",
-    "code": "752fd82b-dirty",
+    "user-sha256": "ba4de3ed7b16e47e130cb51e9a7268af56022c9b484151078839c1aef61caa4b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/10\/26-26.1791224947810.json",
+    "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
     "clean-room?": false
@@ -18,11 +25,11 @@
   "tokens": [
     {
       "surface": "ויקטן",
-      "gloss": "Жана Яктан"
+      "gloss": "Йоктан"
     },
     {
       "surface": "ילד",
-      "gloss": "туғду"
+      "gloss": "тууду"
     },
     {
       "surface": "את",
@@ -35,32 +42,32 @@
     },
     {
       "surface": "ואת",
-      "gloss": "жана ⟨את⟩",
-      "marks": "Шелепти"
+      "gloss": "⟨את⟩",
+      "marks": "Шелефти"
     },
     {
       "surface": "שלף",
-      "gloss": "Шелеп"
+      "gloss": "Шелеф"
     },
     {
       "surface": "ואת",
-      "gloss": "жана ⟨את⟩",
-      "marks": "Хацармаветти"
+      "gloss": "⟨את⟩",
+      "marks": "Хацармафетти"
     },
     {
       "surface": "חצרמות",
-      "gloss": "Хацармавет"
+      "gloss": "Хацармафет"
     },
     {
       "surface": "ואת",
-      "gloss": "жана ⟨את⟩",
-      "marks": "Ярахты"
+      "gloss": "⟨את⟩",
+      "marks": "Йерахты"
     },
     {
       "surface": "ירח",
-      "gloss": "Ярах"
+      "gloss": "Йерах"
     }
   ],
-  "timestamp": "2026-10-05T11:48:14.800358764Z",
+  "timestamp": "2026-10-05T18:29:07.810822299Z",
   "model": "glm-5.3"
 }

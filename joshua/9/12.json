@@ -5,17 +5,96 @@
   "book": "joshua",
   "lang": "ky",
   "chapter": 9,
-  "translation": "",
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נקדים",
+      "rationale": "'сыныктар\/кыткыттар' (JPS, YLT 'crumbs') же 'көгөргөн' (KJV 'mouldy') — тамыры 'чекит' дегенди билдирет; формасын сактадым."
+    },
+    {
+      "kind": "crux",
+      "subject": "הצטידנו",
+      "rationale": "цуд тамыры: 'азык катары даярдоо' (KJV 'took for provision') же 'аңдып кармоо'; бул жерде жол азыгы мааниси."
+    },
+    {
+      "kind": "you",
+      "subject": "Йошуага жана Йисраэлге",
+      "rationale": "Гивондук элчилер Жошуаба\/Йисраэл жетекчилерине түз кайрылуу."
+    }
+  ],
+  "translation": "Бул наныбыз үйлөрүбүздөн чыккан күнү, силерге баруу үчүн жылуу кезинде ⟨את⟩ аны жол азыгы катары алган элек; ал эми азыр карагыла, кургаган жана сыныктарга айланган.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
-    "user-sha256": "08236b928cd720f70629bdb690d9f9a3bd4b6a9b8d1ffcd1a05f88906a240676",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/joshua\/9\/9-12.1791205644805.json",
-    "code": "f71bac6e-dirty",
+    "user-sha256": "40410a5daa26f6898590490ba1abce8ce5aaa35510f7fc6917308a29b6493a4b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/joshua\/9\/12-13.1791225434039.json",
+    "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
     "clean-room?": false
   },
-  "tokens": [],
-  "timestamp": "2026-10-05T13:07:24.806527070Z",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "бул"
+    },
+    {
+      "surface": "לחמנו",
+      "gloss": "наныбыз"
+    },
+    {
+      "surface": "חם",
+      "gloss": "жылуу"
+    },
+    {
+      "surface": "הצטידנו",
+      "gloss": "азык катары алган элек"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "аны (наныбызды)"
+    },
+    {
+      "surface": "מבתינו",
+      "gloss": "үйлөрүбүздөн"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "күнү"
+    },
+    {
+      "surface": "צאתנו",
+      "gloss": "чыккан"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "баруу үчүн"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "силерге"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "ал эми азыр"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "карассаңар"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "кургаган"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "жана болгон"
+    },
+    {
+      "surface": "נקדים",
+      "gloss": "сыныктар"
+    }
+  ],
+  "timestamp": "2026-10-05T18:37:14.039992554Z",
   "model": "glm-5.3"
 }

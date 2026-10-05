@@ -8,21 +8,26 @@
   "notes": [
     {
       "kind": "substitution",
-      "subject": "Шеол",
-      "rationale": "שאלה Шеол катары сакталды; тозок эмес"
+      "subject": "ак чачтарым",
+      "rationale": "שיבתי букв. 'карлыгым\/карлык чагым' — көчүрмө катары 'ак чачтар'"
     },
     {
       "kind": "idiom",
-      "subject": "кариган баш",
-      "rationale": "שיבה сызы-чачы — карыган жаштыктын бейнеси"
+      "subject": "מעם פני",
+      "rationale": "букв. 'жүзүмдөн', 'менин алдыма' — 'мага жок кылуу' деп берилди"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Шеол",
+      "rationale": "שאול 'тозок' эмес, өлгөндөрдүн дүйнөсү — Шеол сакталды"
     }
   ],
-  "translation": "Жана силер менин жүзүмдөн ⟨את⟩ бул да минтип алсаңар, ага бир кырсык тушса, силер менин карыган башымды кайгы менен Шеолго түшүрөсүңөр.",
+  "translation": "Жана силер дагы ушулун мага жок кылсаңар, ага башка бир жамандык түшсө, силер менин ак чачтарымды кайгы менен Шеолго түшүрөсүңөр.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
-    "user-sha256": "b1b73b251aa42cd16988a1f1c0c04126fe214b98ef2b5727dafbc8f3899be4a6",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/44\/29-32.1791201699564.json",
-    "code": "752fd82b-dirty",
+    "user-sha256": "7b0f591aaaa74422aac02c0b5d2dc82b53e39a8cf6599dd20abde66496c28547",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/44\/29-29.1791225003833.json",
+    "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
     "clean-room?": false
@@ -34,32 +39,32 @@
     },
     {
       "surface": "גם",
-      "gloss": "да"
+      "gloss": "дагы"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "бул"
+      "marks": "ушулун"
     },
     {
       "surface": "זה",
-      "gloss": "бул"
+      "gloss": "ушулу"
     },
     {
       "surface": "מעם",
-      "gloss": "мінтип"
+      "gloss": "жок кылсаңар"
     },
     {
       "surface": "פני",
-      "gloss": "жүзүмдөн"
+      "gloss": "мага"
     },
     {
       "surface": "וקרהו",
-      "gloss": "тушса"
+      "gloss": "түшсө"
     },
     {
       "surface": "אסון",
-      "gloss": "кырсык"
+      "gloss": "жамандык"
     },
     {
       "surface": "והורדתם",
@@ -68,11 +73,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "кариган башымды"
+      "marks": "ак чачтарымды"
     },
     {
       "surface": "שיבתי",
-      "gloss": "кариган башымды"
+      "gloss": "ак чачтарым"
     },
     {
       "surface": "ברעה",
@@ -83,6 +88,6 @@
       "gloss": "Шеолго"
     }
   ],
-  "timestamp": "2026-10-05T12:01:39.565514457Z",
+  "timestamp": "2026-10-05T18:30:03.833739634Z",
   "model": "glm-5.3"
 }

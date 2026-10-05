@@ -7,17 +7,22 @@
   "chapter": 20,
   "notes": [
     {
-      "kind": "crux",
+      "kind": "measurement",
+      "subject": "он баскыч",
+      "rationale": "Көлөкөнүн кыймылы он баскыч менен өлчөнөт."
+    },
+    {
+      "kind": "idiom",
       "subject": "לא כי",
-      "rationale": "'жок, тескерисинче' — Хизкийahu жеңил жүрүүгө макул эмес, артка кайтууну сурайт"
+      "rationale": "תалт байланышы 'жок, тескерисинче' — нааt каршы коюу идиомасы."
     }
   ],
-  "translation": "Жана Хизкийahu айтты: Көлөкөнүн он баскычка жылышы жеңил нерсе; жок, тескерисинче, көлөкө он баскычка артка кайтсын.",
+  "translation": "Хизкияу айтты: Көлөкөнүн он баскыч жылып кетиши жеңил; жок, тескерисинче, көлөкө он баскыч артка кайрылсын.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
     "user-sha256": "f5e808081671373cbe3491f84f3c5a9178e7c38085db217f5959b1dd1f700c80",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-kings\/20\/9-12.1791209215189.json",
-    "code": "2011bdaa-dirty",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-kings\/20\/9-12.1791225683964.json",
+    "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
     "clean-room?": false
@@ -25,11 +30,11 @@
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "жана айтты"
+      "gloss": "айтты"
     },
     {
       "surface": "יחזקיהו",
-      "gloss": "Хизкийahu"
+      "gloss": "Хизкияу"
     },
     {
       "surface": "נקל",
@@ -41,7 +46,7 @@
     },
     {
       "surface": "לנטות",
-      "gloss": "жылышы"
+      "gloss": "жылып кетиши"
     },
     {
       "surface": "עשר",
@@ -49,7 +54,7 @@
     },
     {
       "surface": "מעלות",
-      "gloss": "баскычка"
+      "gloss": "баскыч"
     },
     {
       "surface": "לא",
@@ -61,7 +66,7 @@
     },
     {
       "surface": "ישוב",
-      "gloss": "кайтсын"
+      "gloss": "кайрылсын"
     },
     {
       "surface": "הצל",
@@ -77,9 +82,9 @@
     },
     {
       "surface": "מעלות",
-      "gloss": "баскычка"
+      "gloss": "баскыч"
     }
   ],
-  "timestamp": "2026-10-05T14:06:55.190855588Z",
+  "timestamp": "2026-10-05T18:41:23.965595333Z",
   "model": "glm-5.3"
 }

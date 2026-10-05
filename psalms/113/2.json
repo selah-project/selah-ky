@@ -8,20 +8,20 @@
   "notes": [
     {
       "kind": "substitution",
-      "subject": "мактаалсын",
-      "rationale": "מברך 'благословен' — кыргызча 'мактаалсын\/алкышталсын' деп берилди."
+      "subject": "макталсын",
+      "rationale": "מברך 'благословен' — кыргызчада 'макталсын\/алкышталсын' деп берилди"
     },
     {
-      "kind": "measurement",
-      "subject": "ушул убактан түбөлүккө чейин",
-      "rationale": "Убакыт ченеми: азыркыдан түбөлүккө чейин."
+      "kind": "alternative",
+      "subject": "Яхвенин ысымы алкышталсын",
+      "rationale": "מברך 'алкыштоо' маанисинде да колдонулат"
     }
   ],
-  "translation": "Яхвенин ысымы_DESC.macтаалсын — ушул убактан түбөлүккө чейин.",
+  "translation": "Яхвенин ысымы макталсын — мындан ары жана түбөлүккө.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
-    "user-sha256": "c0852a409decb447994df9aa4fc3408b61805740d0bf14922ede1fbd76068fde",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/113\/1-4.1791217187581.json",
+    "user-sha256": "6f072ee169d77fb18863ac92d106c21901da94be85062f0ee870c0f8f5b533bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/113\/2-2.1791226173058.json",
     "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -42,21 +42,21 @@
     },
     {
       "surface": "מברך",
-      "gloss": "мактаалсын"
+      "gloss": "макталсын"
     },
     {
       "surface": "מעתה",
-      "gloss": "ушул убактан"
+      "gloss": "мындан ары"
     },
     {
       "surface": "ועד",
-      "gloss": "чейин"
+      "gloss": "жана ... чейин"
     },
     {
       "surface": "עולם",
       "gloss": "түбөлүккө"
     }
   ],
-  "timestamp": "2026-10-05T16:19:47.582682887Z",
+  "timestamp": "2026-10-05T18:49:33.059280690Z",
   "model": "glm-5.3"
 }

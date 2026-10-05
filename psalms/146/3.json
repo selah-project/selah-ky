@@ -8,20 +8,25 @@
   "notes": [
     {
       "kind": "substitution",
-      "subject": "улуулар",
-      "rationale": "נדיבים — жан-дил менен берген, боорукер бай адамдар; 'улуулар' рөлдү берет"
+      "subject": "түркүн байлар",
+      "rationale": "נדיבים — ыктыярдуу, жомарт, улуу инсандар; «байлар» ролдук котормо, сөздүн «ыктыярдуу жомарттык» сүрөтүн жумшартат"
     },
     {
-      "kind": "you",
-      "subject": "Исрайыл элине",
-      "rationale": "Тыюу салуу — тике кайрылуу"
+      "kind": "crux",
+      "subject": "уул-адам",
+      "rationale": "בן אדם — «адам уулу» (жөнөкөй өлүмтүү адам) же ысым титул; Танахтын өзүндө бул жерде жөн гана өлүмтүү адам"
+    },
+    {
+      "kind": "idiom",
+      "subject": "אין לו",
+      "rationale": "иврит «анда ага жок» — кыргызча «анын өзүндө жок» деп берилди"
     }
   ],
-  "translation": "Улууларга ишенбегиле, адам уулуна да — анын өзүндө kutkaruu жок.",
+  "translation": "Түркүн байларга ишенбеңиз, уул-адамга да ишенбеңиз — анын өзүндө куткаруу жок.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
-    "user-sha256": "cd9c1e02f2015f113f5c19e5cd83121533a352060ea047a6cf44a0c908ab641f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/146\/1-4.1791217656876.json",
+    "user-sha256": "4c183025bf4599c45ab57f9d96994ec44d3e575b0ac27d441f2938bafaab49ca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/146\/3-3.1791226175973.json",
     "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -30,19 +35,19 @@
   "tokens": [
     {
       "surface": "אל",
-      "gloss": "ишенбегиле"
+      "gloss": "ишенбеңиз"
     },
     {
       "surface": "תבטחו",
-      "gloss": "ишенбегиле"
+      "gloss": "ишенбеңиз"
     },
     {
-      "surface": "בנדיבים",
-      "gloss": "улууларга"
+      "surface": "בנדיבим",
+      "gloss": "түркүн байларга"
     },
     {
       "surface": "בבן",
-      "gloss": "уулуна"
+      "gloss": "уулга"
     },
     {
       "surface": "אדם",
@@ -58,9 +63,9 @@
     },
     {
       "surface": "תשועה",
-      "gloss": "кыткаруу"
+      "gloss": "куткаруу"
     }
   ],
-  "timestamp": "2026-10-05T16:27:36.880460800Z",
+  "timestamp": "2026-10-05T18:49:35.974025587Z",
   "model": "glm-5.3"
 }

@@ -7,22 +7,28 @@
   "chapter": 20,
   "notes": [
     {
-      "kind": "crux",
-      "subject": "שדה נחלת ישראל",
-      "rationale": "'field of the inheritance of Israel' — territory, not farmland; some render simply 'throughout all the territory'"
+      "kind": "addition",
+      "subject": "мен",
+      "rationale": "Еврейче этиштин жагынан киши ачык айтылбайт, кыргызча «мен» кошулду"
     },
     {
-      "kind": "wordplay",
-      "subject": "זמה ונבלה",
-      "rationale": "fixed pair 'lewd plan and villainy', a hendiadys of atrocity echoing Gen 34:7 and Judg 19:23"
+      "kind": "crux",
+      "subject": "זמה",
+      "rationale": "«жаман ой\/план» — KJV «lewdness», JPS «wantonness»; сөздүн так мааниси жаман ниет"
+    },
+    {
+      "kind": "elision",
+      "subject": "בפילגשי",
+      "gloss_note": "",
+      "rationale": "Пилагеш — «наложница» кыргызча бир сөз менен берилди, еврейче наам сакталбай калды"
     }
   ],
-  "translation": "Мен наложницамды кармадым, аны бөлүктөргө бөлдүм жана Йисраэлдин мурас жеринин бардык аймагына жөнөттүм, анткени алар Йисраэлде жаман ниет жана намыссуздук кылышты.",
+  "translation": "Жана мен өз наложницамды кармап алдым, аны бөлүк-бөлүк кесип, Йисраэлдин мурасынын бүт жерине жөнөттүм, анткени алар Йисраэлде жаман ойлорду жана жийиркеничтүүлүктү кылышты.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
-    "user-sha256": "2806584d19cd92ba378db9dc821264bc51d6e8abfcd2abc42ef861565c77f4f6",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/judges\/20\/5-8.1791206508144.json",
-    "code": "da1b46b6-dirty",
+    "user-sha256": "29c778fd15442511c4547086c4f308fcd110c1cb36227aae773519dd6a5c95f9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/judges\/20\/6-6.1791225470909.json",
+    "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
     "clean-room?": false
@@ -30,7 +36,7 @@
   "tokens": [
     {
       "surface": "ואחז",
-      "gloss": "каrmadым→каrmадым → кармадым"
+      "gloss": "кардап алдым"
     },
     {
       "surface": "בפילגשי",
@@ -38,7 +44,7 @@
     },
     {
       "surface": "ואנתחה",
-      "gloss": "бөлүктөргө бөлдүм"
+      "gloss": "бөлүк-бөлүк кесип"
     },
     {
       "surface": "ואשלחה",
@@ -46,15 +52,15 @@
     },
     {
       "surface": "בכל",
-      "gloss": "бардык"
+      "gloss": "бүт"
     },
     {
       "surface": "שדה",
-      "gloss": "аймагына"
+      "gloss": "жерине"
     },
     {
       "surface": "נחלת",
-      "gloss": "мурас"
+      "gloss": "мурасынын"
     },
     {
       "surface": "ישראל",
@@ -70,17 +76,17 @@
     },
     {
       "surface": "זמה",
-      "gloss": "жаман ниет"
+      "gloss": "жаман ойлорду"
     },
     {
       "surface": "ונבלה",
-      "gloss": "жана намыссуздук"
+      "gloss": "жийиркеничтүүлүктү"
     },
     {
       "surface": "בישראל",
       "gloss": "Йисраэлде"
     }
   ],
-  "timestamp": "2026-10-05T13:21:48.145578016Z",
+  "timestamp": "2026-10-05T18:37:50.909603815Z",
   "model": "glm-5.3"
 }

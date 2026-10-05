@@ -7,16 +7,21 @@
   "chapter": 26,
   "notes": [
     {
-      "kind": "addition",
-      "subject": "өз",
-      "rationale": "רעהו 'анын жакыны' — притяженностьди көрсөтүү үчүн 'өз' кошулду"
+      "kind": "idiom",
+      "subject": "הלא",
+      "rationale": "Суроо-жооптордү «эмеспи» деген жардамчы сөз катары берилди, литералдык «жок» эмес"
+    },
+    {
+      "kind": "substitution",
+      "subject": "шаңчаңдап",
+      "rationale": "משחק — «күлүү, ойноо»; кыргызча «тамаша кылып жатканым жокпу» маанисинде"
     }
   ],
-  "translation": "Ошондой эле адам өз ⟨את⟩ жакынын алдап, анан айтат: мен шаңfoo… мен тамашалап жатпаймынбы?",
+  "translation": "Ошондой эле өз ⟨את⟩ жакынын алдаган адам — жана айтат: «Мен шаңчаңдап жатканым жокпу?»",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
-    "user-sha256": "a4d1658b670530c0c88c2c8dedb6453aa08a75076a469900f032720404026761",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/26\/17-20.1791218368194.json",
+    "user-sha256": "1ba56ef8d3d7bda52c352493c4559119c3e5c6354c94f07933b51f82194b6473",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/proverbs\/26\/19-19.1791226212405.json",
     "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -33,12 +38,12 @@
     },
     {
       "surface": "רמה",
-      "gloss": "алдап"
+      "gloss": "алдаган"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "өз жакынын"
+      "marks": "жакынын"
     },
     {
       "surface": "רעהו",
@@ -46,21 +51,21 @@
     },
     {
       "surface": "ואמר",
-      "gloss": "анан айтат"
+      "gloss": "жана айтат"
     },
     {
       "surface": "הלא",
-      "gloss": "…мынбы"
+      "gloss": "эмеспи"
     },
     {
       "surface": "משחק",
-      "gloss": "тамашалап"
+      "gloss": "шаңчаңдап жатканым"
     },
     {
       "surface": "אני",
       "gloss": "мен"
     }
   ],
-  "timestamp": "2026-10-05T16:39:28.195520109Z",
+  "timestamp": "2026-10-05T18:50:12.406086034Z",
   "model": "glm-5.3"
 }

@@ -7,21 +7,31 @@
   "chapter": 90,
   "notes": [
     {
-      "kind": "invitation",
-      "subject": "Ким билedi?",
-      "rationale": "Окурманга багытталган суроо."
+      "kind": "addition",
+      "subject": "ол",
+      "rationale": "Еврейче байламта жок; эки сөздүн ортосуна кыргызча көп чекиттин ордуна ⟨ол⟩ кошулду"
     },
     {
-      "kind": "mystery",
-      "subject": "ачуунун күчү",
-      "rationale": "Аны эч ким билбейт — атайын жашырылган нерсе."
+      "kind": "substitution",
+      "subject": "ачуу",
+      "rationale": "אף тамыры мурун дегенди билдирет; каардын күчү метафора катары 'ачуу' деп берилди"
+    },
+    {
+      "kind": "crux",
+      "subject": "коркууңа жараша",
+      "rationale": "וכיראתך: 'сенден коркконго жараша' же 'сага тиешелүү урматка жараша' — котормолор бөлүнөт"
+    },
+    {
+      "kind": "you",
+      "subject": "Яхвеге",
+      "rationale": "Аят Яхвеге түз кайрылуу менен суроо берет"
     }
   ],
-  "translation": "Ким билedi Сенин ачууңдун күчүн? Сенин коркууңа жараша — Сенин каарың.",
+  "translation": "Ким ⟨את⟩ ачууңдун күчүн билесиң? Жана коркууңа жараша — ⟨ол⟩ каарың.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
-    "user-sha256": "e8d35c5276801861d77025b06d962e2cbdd4216f10d07a46f999dedc0d1c6252",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/90\/9-12.1791216846362.json",
+    "user-sha256": "494a36da86337ffc66de15c31d8ec98c2fab4907bc19bcafbf22d536f8e7c6fd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/90\/11-11.1791226149929.json",
     "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -34,7 +44,7 @@
     },
     {
       "surface": "יודע",
-      "gloss": "билedi"
+      "gloss": "билесиң"
     },
     {
       "surface": "עז",
@@ -42,17 +52,17 @@
     },
     {
       "surface": "אפך",
-      "gloss": "Сенин ачууңдун"
+      "gloss": "ачууңдун"
     },
     {
       "surface": "וכיראתך",
-      "gloss": "жана Сенин коркууңа жараша"
+      "gloss": "жана коркууңа жараша"
     },
     {
       "surface": "עברתך",
-      "gloss": "Сенин каарың"
+      "gloss": "каарың"
     }
   ],
-  "timestamp": "2026-10-05T16:14:06.363050200Z",
+  "timestamp": "2026-10-05T18:49:09.929467221Z",
   "model": "glm-5.3"
 }

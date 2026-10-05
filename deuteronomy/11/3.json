@@ -5,12 +5,29 @@
   "book": "deuteronomy",
   "lang": "ky",
   "chapter": 11,
-  "translation": "Жана ⟨את⟩ анын белгилерин, жана ⟨את⟩ анын иштерин, аларды Мицрайимдин ичинде Параоғо, Мицрайимдин падышасына жана анын бүт жерине жасаганын.",
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "анын",
+      "rationale": "Possessive pronoun added for clarity; Hebrew suffix on אתתיו\/מעשיו covers it, Kyrgyz syntax requires the free-standing form before the noun."
+    },
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "rationale": "Relative particle folded into 'аларды … жасаган' construction; Kyrgyz has no relative pronoun."
+    },
+    {
+      "kind": "substitution",
+      "subject": "белгилер",
+      "rationale": "אוֹת literally 'signal\/omen\/beacon' — rendered 'белги' (sign), close to but not exactly 'miracle' (кудурет)."
+    }
+  ],
+  "translation": "жана ⟨את⟩ анын белгилерин жана ⟨את⟩ анын иштерин, аларды Мицрайимдин ичинде Парохога, Мицрайимдин падышасына жана анын бүткүл жерине жасаган.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
-    "user-sha256": "ef31f912133a2ad1a85300cb17934c74cead5a3e93929008cea6e78a38d84730",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/11\/1-4.1791204912089.json",
-    "code": "f71bac6e-dirty",
+    "user-sha256": "29dd8663f5cf273cf25044cbce46ecb9fc1429e8f004294574dbc179ddc38a1e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/11\/3-3.1791225297954.json",
+    "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
     "clean-room?": false
@@ -18,8 +35,8 @@
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "жана ⟨את⟩",
-      "marks": "белгилерин"
+      "gloss": "⟨את⟩",
+      "marks": "анын белгилерин"
     },
     {
       "surface": "אתתיו",
@@ -27,8 +44,8 @@
     },
     {
       "surface": "ואת",
-      "gloss": "жана ⟨את⟩",
-      "marks": "иштерин"
+      "gloss": "⟨את⟩",
+      "marks": "анын иштерин"
     },
     {
       "surface": "מעשיו",
@@ -40,7 +57,7 @@
     },
     {
       "surface": "עשה",
-      "gloss": "жасаганын"
+      "gloss": "жасаган"
     },
     {
       "surface": "בתוך",
@@ -52,7 +69,7 @@
     },
     {
       "surface": "לפרעה",
-      "gloss": "Параоғо"
+      "gloss": "Парохого"
     },
     {
       "surface": "מלך",
@@ -64,13 +81,13 @@
     },
     {
       "surface": "ולכל",
-      "gloss": "жана бүт"
+      "gloss": "жана бүткүл"
     },
     {
       "surface": "ארצו",
-      "gloss": "анын жерине"
+      "gloss": "жерине"
     }
   ],
-  "timestamp": "2026-10-05T12:55:12.091099971Z",
+  "timestamp": "2026-10-05T18:34:57.955528900Z",
   "model": "glm-5.3"
 }

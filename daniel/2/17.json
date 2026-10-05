@@ -8,15 +8,20 @@
   "notes": [
     {
       "kind": "addition",
-      "subject": "өз",
-      "rationale": "אזל 'барды' — өзү билдирет, бирок 'өз' тактоо үчүн кошулду"
+      "subject": "өзүнүн",
+      "rationale": "Арамейча притяжательная суффикс бар, бирок кыргызча аныктоо үчүн ⟨өзүнүн⟩ кошулду"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ишти",
+      "rationale": "מלתא 'сөз\/иш\/маселе' — 'бул сөздү' ордуна 'бул ишти' деп берилди"
     }
   ],
-  "translation": "Анда Даниел өз үйүнө барды жана Хананйаға — жок, Хананйага, Мишаелге жана Азарйага — өз жолдошторуна бул ишти билдирди.",
+  "translation": "Анан Даниел ⟨өзүнүн⟩ үйүнө барды жана Хананияга, Мишаэлга жана Азарияга — ⟨өзүнүн⟩ жолдошторуна — бул ишти билдирди.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
-    "user-sha256": "fdf5361c2cc4ba8278a3318bdcdfd413b165b8957870924a1edc50de704ecc8f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/daniel\/2\/17-20.1791220382171.json",
+    "user-sha256": "44f6f5da5b1f79b9dcacd1d69036e5a9b3e4967eded2afedf589e51530ed4f64",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/daniel\/2\/17-17.1791226309956.json",
     "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -25,7 +30,7 @@
   "tokens": [
     {
       "surface": "אדין",
-      "gloss": "анда"
+      "gloss": "Анан"
     },
     {
       "surface": "דניאל",
@@ -33,27 +38,23 @@
     },
     {
       "surface": "לביתה",
-      "gloss": "өз үйүнө"
+      "gloss": "үйүнө"
     },
     {
       "surface": "אזל",
       "gloss": "барды"
     },
     {
-      "surface": "ו",
-      "gloss": "жана"
-    },
-    {
-      "surface": "לחנניה",
-      "gloss": "Хананйага"
+      "surface": "ולחנניה",
+      "gloss": "Хананияга"
     },
     {
       "surface": "מישאל",
-      "gloss": "Мишаелге"
+      "gloss": "Мишаэлга"
     },
     {
       "surface": "ועזריה",
-      "gloss": "Азарйага"
+      "gloss": "Азарияга"
     },
     {
       "surface": "חברוהי",
@@ -68,6 +69,6 @@
       "gloss": "билдирди"
     }
   ],
-  "timestamp": "2026-10-05T17:13:02.172336108Z",
+  "timestamp": "2026-10-05T18:51:49.957288960Z",
   "model": "glm-5.3"
 }

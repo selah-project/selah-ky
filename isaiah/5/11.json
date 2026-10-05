@@ -8,21 +8,26 @@
   "notes": [
     {
       "kind": "idiom",
-      "subject": "эрте туруп… кечке",
-      "rationale": "Иврит «таңды алдын ала» жана «гүүмдү кечиктирет» дейт — күн бою ичүүнүн сүрөтү."
+      "subject": "הוי",
+      "rationale": "Кейип айткан үн — «Ой» же «Ай» деп берилди; жок болуу коркунучун билдирет"
     },
     {
-      "kind": "invitation",
-      "subject": "оой",
-      "rationale": "«Оой!» — окурманга багытталган кайгы чакырыгы."
+      "kind": "substitution",
+      "subject": "ширеңдейт",
+      "rationale": "ידליקם — «от алдырат, жалбырат» деген сөз; «ширеңдейт» — жакын маани"
+    },
+    {
+      "kind": "alternative",
+      "subject": "יין",
+      "rationale": "יין — жүзүм арагы; «арак» деп берилди, бирок бул насыз шира да болушу мүмкүн"
     }
   ],
-  "translation": "Оой! Таң менен эрте туруп күчтүү ичимдикти кубалагандарга, кечкылыңmaya чейин токтобой, шарап аларды күйдүргөнгө!",
+  "translation": "Ой, эртең менен эрте туруп, арачаны куугандарга! Кээде түн ортосуна чейин токтобой, арак ширеңдейт аларды.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
-    "user-sha256": "b11006f1e6d9ab8e268edf6389367ebe4432f963b552b337684334a8d8032c78",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/5\/9-12.1791209462069.json",
-    "code": "2011bdaa-dirty",
+    "user-sha256": "650cc38eb68bba63c055b6c71e0a15491c1dbebd9e85f3982865f80bbebefbfb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/5\/11-11.1791225691322.json",
+    "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
     "clean-room?": false
@@ -30,41 +35,41 @@
   "tokens": [
     {
       "surface": "הוי",
-      "gloss": "оой"
+      "gloss": "Ой"
     },
     {
       "surface": "משכימי",
-      "gloss": "эрте туруп"
+      "gloss": "эрте туруучулар"
     },
     {
       "surface": "בבקר",
-      "gloss": "таң менен"
+      "gloss": "эртең менен"
     },
     {
       "surface": "שכר",
-      "gloss": "күчтүү ичимдикти"
+      "gloss": "арага"
     },
     {
       "surface": "ירדפו",
-      "gloss": "кубалагандарга"
+      "gloss": "куугандар"
     },
     {
       "surface": "מאחרי",
-      "gloss": "кечки убакта"
+      "gloss": "кечигип"
     },
     {
       "surface": "בנשף",
-      "gloss": "чакырайганда"
+      "gloss": "түн жарымында"
     },
     {
       "surface": "יין",
-      "gloss": "шарап"
+      "gloss": "арак"
     },
     {
       "surface": "ידליקם",
-      "gloss": "күйдүрөт"
+      "gloss": "ширеңдейт"
     }
   ],
-  "timestamp": "2026-10-05T14:11:02.070770782Z",
+  "timestamp": "2026-10-05T18:41:31.323181394Z",
   "model": "glm-5.3"
 }

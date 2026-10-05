@@ -7,17 +7,22 @@
   "chapter": 44,
   "notes": [
     {
-      "kind": "you",
-      "subject": "агын бир туугандарына",
-      "rationale": "Түздөн-түз аларга багытталган жооп"
+      "kind": "elision",
+      "subject": "הוא",
+      "rationale": "«ошондой» — кайтоо «сөздөрүңөрдөй ошондой» деген мааниде кыргызча «болсун» менен жутулган."
+    },
+    {
+      "kind": "addition",
+      "subject": "ал",
+      "rationale": "Еврейче этиштин жанында айтылган субъект жок; кыргызча сүйлөм «ал айтты» деп талап кылат."
     }
   ],
-  "translation": "Жана ал айтты: Азыр да силердин сөздөрүңөр бойдон калсын; аны менен ⟨את⟩ табылган адам менин kulum болсун, ал эми силер айыпсыз болосуңар.",
+  "translation": "Жана ал айтты: Дагы эле азыр сөздөрүңөрдөй болсун: кимдики менен ⟨את⟩ табылса, ал мага кул болот, силер болсо күнөөсүз каласыңар.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
-    "user-sha256": "24051e7be6072b7c72758d3ebc78638b4b93db51602885ab0075cb856082e725",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/44\/9-12.1791201628834.json",
-    "code": "752fd82b-dirty",
+    "user-sha256": "fddbdaa0daa32576c1ce8684fa6d88b8ecf115b99993e4cb7378e96dc21696b0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/44\/10-10.1791225012860.json",
+    "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
     "clean-room?": false
@@ -25,11 +30,11 @@
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "жана ал айтты"
+      "gloss": "Жана ал айтты"
     },
     {
       "surface": "גם",
-      "gloss": "дагы"
+      "gloss": "Дагы эле"
     },
     {
       "surface": "עתה",
@@ -37,31 +42,32 @@
     },
     {
       "surface": "כדבריכם",
-      "gloss": "силердин сөздөрүңөр бойдон"
+      "gloss": "сөздөрүңөрдөй"
     },
     {
       "surface": "כן",
-      "gloss": "ошондой"
+      "gloss": "болсун"
     },
     {
       "surface": "הוא",
-      "gloss": "ал"
+      "gloss": "ошондой"
     },
     {
       "surface": "אשר",
-      "gloss": "кантип"
+      "gloss": "ким"
     },
     {
       "surface": "ימצא",
-      "gloss": "табылган"
+      "gloss": "табылса"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ аны менен"
+      "gloss": "⟨את⟩",
+      "marks": "кимдикин (менен)"
     },
     {
       "surface": "יהיה",
-      "gloss": "болсун"
+      "gloss": "болот"
     },
     {
       "surface": "לי",
@@ -69,21 +75,21 @@
     },
     {
       "surface": "עבד",
-      "gloss": "kulum"
+      "gloss": "кул"
     },
     {
       "surface": "ואתם",
-      "gloss": "ал эми силер"
+      "gloss": "силер болсо"
     },
     {
       "surface": "תהיו",
-      "gloss": "болосуңар"
+      "gloss": "каласыңар"
     },
     {
-      "surface": "нקים",
-      "gloss": "айыпсыз"
+      "surface": "נקים",
+      "gloss": "күнөөсүз"
     }
   ],
-  "timestamp": "2026-10-05T12:00:28.835493462Z",
+  "timestamp": "2026-10-05T18:30:12.861018832Z",
   "model": "glm-5.3"
 }

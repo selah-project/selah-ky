@@ -7,17 +7,22 @@
   "chapter": 2,
   "notes": [
     {
-      "kind": "idiom",
-      "subject": "את פני",
-      "rationale": "'жүзүнүн алдында' идиомасы 'алдында' деп берилди"
+      "kind": "substitution",
+      "subject": "алдында",
+      "rationale": "את פני — «жүздүн алдында» деген идиома, кыргызча «алдында» деп берилди"
+    },
+    {
+      "kind": "addition",
+      "subject": "турду",
+      "rationale": "кыргыз тили этишти талап кылат, «кызмат кылып турду»"
     }
   ],
-  "translation": "Жана Элкана Рамага, өз үйүнө кетти, ал эми бала Яхвеге ⟨את⟩ кызмат кылуучу болду, ⟨Анын⟩ Эли коһендин алдында.",
+  "translation": "Элкана Рама шаарына, өз үйүнө кетти, ал эми бала ⟨את⟩ Яхвеге кызмат кылып, ыйык кызмат кылуучу Элинин ⟨את⟩ жүзүнө ⟨алдында⟩ турду.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
-    "user-sha256": "c7772cce911e9becb4225e1edb4745d07b5bb38d314a26c6d8c2ff0ec9f551a5",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-samuel\/2\/9-12.1791206563468.json",
-    "code": "da1b46b6-dirty",
+    "user-sha256": "a67675d2b8daeaf9a9dd21ef397de90ddc8344a65308462c25860be53239d05a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-samuel\/2\/11-11.1791225457957.json",
+    "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
     "clean-room?": false
@@ -25,7 +30,7 @@
   "tokens": [
     {
       "surface": "וילך",
-      "gloss": "жана кетти"
+      "gloss": "кетти"
     },
     {
       "surface": "אלקנה",
@@ -33,11 +38,11 @@
     },
     {
       "surface": "הרמתה",
-      "gloss": "Рамага"
+      "gloss": "Рама шаарына"
     },
     {
       "surface": "על",
-      "gloss": "карай"
+      "gloss": "-дын үстүнө"
     },
     {
       "surface": "ביתו",
@@ -53,7 +58,7 @@
     },
     {
       "surface": "משרת",
-      "gloss": "кызмат кылуучу"
+      "gloss": "кызмат кылып"
     },
     {
       "surface": "את",
@@ -67,21 +72,21 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Эли коҳендин алдында"
+      "marks": "Элинин жүзүнө"
     },
     {
       "surface": "פני",
-      "gloss": "алдында"
+      "gloss": "жүзүнө"
     },
     {
       "surface": "עלי",
-      "gloss": "Эли"
+      "gloss": "Элинин"
     },
     {
       "surface": "הכהן",
-      "gloss": "кохен"
+      "gloss": "ыйык кызмат кылуучу"
     }
   ],
-  "timestamp": "2026-10-05T13:22:43.469121999Z",
+  "timestamp": "2026-10-05T18:37:37.958121659Z",
   "model": "glm-5.3"
 }

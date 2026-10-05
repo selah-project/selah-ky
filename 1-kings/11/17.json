@@ -7,17 +7,22 @@
   "chapter": 11,
   "notes": [
     {
-      "kind": "elision",
-      "subject": "אתו",
-      "rationale": "Бул — H854 предлог «менен», объект маркери эмес, бирок ⟨את⟩ белгиси катары сакталды."
+      "kind": "addition",
+      "subject": "эле",
+      "rationale": "Копула кыргызча талап кылынат, еврейче жок."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ата-энесинин",
+      "rationale": "אביו 'ата' деген бир сөз; кыргызча көптүк контекст үчүн 'ата-энe' деп алынды — божомол, текстте атасы гана айтылат."
     }
   ],
-  "translation": "Адад кашты — ал жана анын атасынын кулдарынан болгон кээ бир эдөмдүк кишiler ⟨את⟩ аны менен кошо Мицрайимге кирүү үчүн; Адад болсо кичине жаш бала эле.",
+  "translation": "Жана Алад качты, ал өзү жана анын ата-энесинин кулдарынын ичинен алынган эдомдук кишилер ⟨את⟩ менен кошо Мицрайимге кирүү үчүн; Алад болсо кичинекей бала эле.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
-    "user-sha256": "3163b2c09e3725e2b5055e959743d2c8ed86c75491d81d56ba6fedc3f1d06e5d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-kings\/11\/17-20.1791208335907.json",
-    "code": "641241cf-dirty",
+    "user-sha256": "f9ae07bdc2fac1b5c470e7eca0b51bacd4e903cb07331582ef7abe1a5e05f287",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-kings\/11\/17-18.1791225608787.json",
+    "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
     "clean-room?": false
@@ -25,36 +30,36 @@
   "tokens": [
     {
       "surface": "ויברח",
-      "gloss": "кашты"
+      "gloss": "качты"
     },
     {
       "surface": "אדד",
-      "gloss": "Адад"
+      "gloss": "Алад"
     },
     {
       "surface": "הוא",
-      "gloss": "ал"
+      "gloss": "ал өзү"
     },
     {
       "surface": "ואנשים",
-      "gloss": "жана кишiler"
+      "gloss": "жана кишилер"
     },
     {
       "surface": "אדמיים",
-      "gloss": "эдөмдүктөр"
+      "gloss": "эдомдук"
     },
     {
       "surface": "מעבדי",
-      "gloss": "кулдарынан"
+      "gloss": "кулдарынын ичинен"
     },
     {
       "surface": "אביו",
-      "gloss": "атасынын"
+      "gloss": "анын ата-энесинин"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ аны менен",
-      "marks": "Адад жана эдөмдүк кишiler"
+      "gloss": "⟨את⟩",
+      "marks": "менен кошо"
     },
     {
       "surface": "לבוא",
@@ -66,17 +71,17 @@
     },
     {
       "surface": "והדד",
-      "gloss": "жана Адад"
+      "gloss": "жана Алад"
     },
     {
       "surface": "נער",
-      "gloss": "жаш бала"
+      "gloss": "бала"
     },
     {
       "surface": "קטן",
-      "gloss": "кичине"
+      "gloss": "кичинекей"
     }
   ],
-  "timestamp": "2026-10-05T13:52:15.907912882Z",
+  "timestamp": "2026-10-05T18:40:08.787739697Z",
   "model": "glm-5.3"
 }

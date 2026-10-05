@@ -7,17 +7,22 @@
   "chapter": 25,
   "notes": [
     {
-      "kind": "idiom",
+      "kind": "substitution",
+      "subject": "зина кылуу",
+      "rationale": "לזנות — буквалдуу «чыныгы эмес болуу»; бул жер да сексуалдык, да чындыктан кайрылуу (Моабдын кудайларына) маанисин камтыйт"
+    },
+    {
+      "kind": "crux",
       "subject": "לזנות",
-      "rationale": "Hebrew 'play the harlot' — literal sexual immorality here, but the same verb is the standard metaphor for idolatry elsewhere; kyrgyz 'бузукулук кылуу' keeps the bodily sense."
+      "rationale": "Котормочулар бөлүнөт: жөн гана сексуалдык жаныганда (BSB) же символдук «чындыкты бузуу» (LXX традициясы); тексттин өзү эки маанини тең кармайт"
     }
   ],
-  "translation": "Йисраэл Шиттимде жашап турду, жана эл Моабдын кыздарына ⟨את⟩ бузукулук кылууга баштады.",
+  "translation": "Йисраэл Шиттимде жашады, жана эл Моабдын кыздарына ⟨את⟩ карай зина кылууга баштады.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
-    "user-sha256": "0343efe128faed1801f91b62bbdf3a0f38ec239c733469186c1b1a872c77b549",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/numbers\/25\/1-4.1791204162112.json",
-    "code": "f71bac6e-dirty",
+    "user-sha256": "0659a068b1a861b47e761ccb80bf436e3b760ba3abff6f68e3de363179112fff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/numbers\/25\/1-1.1791225296132.json",
+    "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
     "clean-room?": false
@@ -25,7 +30,7 @@
   "tokens": [
     {
       "surface": "וישב",
-      "gloss": "жашап турду"
+      "gloss": "жашады"
     },
     {
       "surface": "ישראל",
@@ -45,21 +50,21 @@
     },
     {
       "surface": "לזנות",
-      "gloss": "бузукулук кылуу"
+      "gloss": "зина кылууга"
     },
     {
       "surface": "אל",
-      "gloss": "баaruуга"
+      "gloss": "карай"
     },
     {
       "surface": "בנות",
-      "gloss": "кыздарына"
+      "gloss": "кыздары"
     },
     {
       "surface": "מואב",
       "gloss": "Моабдын"
     }
   ],
-  "timestamp": "2026-10-05T12:42:42.112577676Z",
+  "timestamp": "2026-10-05T18:34:56.132670819Z",
   "model": "glm-5.3"
 }

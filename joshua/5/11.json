@@ -7,22 +7,27 @@
   "chapter": 5,
   "notes": [
     {
-      "kind": "substitution",
-      "subject": "наан",
-      "rationale": "מצות — ачыткысыз наан (маца)."
+      "kind": "hapax",
+      "subject": "מעבור",
+      "rationale": "Бул сөз Танахта ушул жерде гана кездешет — сакталган, өткөн жылдын даны деген мааниде"
+    },
+    {
+      "kind": "crux",
+      "subject": "מעבור",
+      "rationale": "'өткөн жылдын даны' (KJV 'old corn') же 'жердин түшүмү' (JPS 'produce') — эки окуу бар"
     },
     {
       "kind": "substitution",
-      "subject": "данынан",
-      "rationale": "מעבור — өткөн жылдан сакталып калган дан."
+      "subject": "бышырылган дан",
+      "rationale": "קלוי — отто күйгүзүлгөн, куурулган дан; 'бышырылган' — жакын сөз"
     }
   ],
-  "translation": "Жана Песахтын ertesiнде жердин данынан наан жана куурулган дан жешти, ошол эле күнү.",
+  "translation": "Жана алар Песахтын ertesi күнү жердин түшүмүнөн — мацот жана бышырылган дан жешти, так ошол эле күнү.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
-    "user-sha256": "662836b8102c407828ef7febc216b2e30182917de1914aaf2292651067490d66",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/joshua\/5\/9-12.1791205516624.json",
-    "code": "f71bac6e-dirty",
+    "user-sha256": "3ad0509b903cc3a718f8b04f69c6996d3f3d6347192c936151b42034a03c0564",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/joshua\/5\/11-11.1791225405204.json",
+    "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
     "clean-room?": false
@@ -30,11 +35,11 @@
   "tokens": [
     {
       "surface": "ויאכלו",
-      "gloss": "жана жешти"
+      "gloss": "жешти"
     },
     {
       "surface": "מעבור",
-      "gloss": "данынан"
+      "gloss": "түшүмүнөн"
     },
     {
       "surface": "הארץ",
@@ -42,7 +47,7 @@
     },
     {
       "surface": "ממחרת",
-      "gloss": "ertesiнде"
+      "gloss": "ertesi күнү"
     },
     {
       "surface": "הפסח",
@@ -50,15 +55,15 @@
     },
     {
       "surface": "מצות",
-      "gloss": "наан"
+      "gloss": "мацот"
     },
     {
-      "surface": "וקלוי",
-      "gloss": "жана куурулган дан"
+      "surface": "וקלуי",
+      "gloss": "жана бышырылган дан"
     },
     {
       "surface": "בעצם",
-      "gloss": "ошол эле"
+      "gloss": "так ошол эле"
     },
     {
       "surface": "היום",
@@ -66,9 +71,9 @@
     },
     {
       "surface": "הזה",
-      "gloss": "ошол"
+      "gloss": "ушул"
     }
   ],
-  "timestamp": "2026-10-05T13:05:16.625986929Z",
+  "timestamp": "2026-10-05T18:36:45.204824786Z",
   "model": "glm-5.3"
 }

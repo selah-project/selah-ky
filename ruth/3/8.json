@@ -7,16 +7,21 @@
   "chapter": 3,
   "notes": [
     {
-      "kind": "crux",
-      "subject": "оңолду",
-      "rationale": "וילפת — 'бүгүлдү\/чокмогуна бурулду' деген да мааниде"
+      "kind": "alternative",
+      "subject": "оодарылды",
+      "rationale": "וילפת букв. 'ийилип кармады' (бүкүрөйт), көпчүлүк котормо 'оодарылды\/буркулду' деп берет."
+    },
+    {
+      "kind": "substitution",
+      "subject": "бутунун жанында",
+      "rationale": "מרגלתיו — 'бут жагы', чогулаңкы көп сандагы 'буттардын жагы' деген сөз."
     }
   ],
-  "translation": "Түндүн жарымында болгонда, ал кишини коркунуч чартitus, ал оңолду, жана караса — аял анын буттарынын жагында жатыптурат.",
+  "translation": "Түндүн ортосунда эркек чочуп калды жана оодарылды, жана мына — аял анын бутунун жанында жаткан.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
-    "user-sha256": "c5309de76b8f4c5c3b2bdf802e411d5aef99cbe3c5e01ce2543121485100f0f8",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ruth\/3\/5-8.1791219691774.json",
+    "user-sha256": "212d48e5e7d416c8178cb6790c4c829cb1e31749bc665735404e99afb1b36f96",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ruth\/3\/8-8.1791226268028.json",
     "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -25,31 +30,31 @@
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "болгондо"
+      "gloss": "жана болду"
     },
     {
       "surface": "בחצי",
-      "gloss": "жарымында"
+      "gloss": "ортосунда"
     },
     {
       "surface": "הלילה",
       "gloss": "түндүн"
     },
     {
-      "surface": "ויחרд",
-      "gloss": "коркунуч чартты"
+      "surface": "ויחרד",
+      "gloss": "чочуп калды"
     },
     {
       "surface": "האיש",
-      "gloss": "ал киши"
+      "gloss": "эркек"
     },
     {
       "surface": "וילפת",
-      "gloss": "оңолду"
+      "gloss": "оодарылды"
     },
     {
       "surface": "והנה",
-      "gloss": "караса"
+      "gloss": "жана мына"
     },
     {
       "surface": "אשה",
@@ -57,13 +62,13 @@
     },
     {
       "surface": "שכבת",
-      "gloss": "жатыптурат"
+      "gloss": "жаткан"
     },
     {
       "surface": "מרגלתיו",
-      "gloss": "буттарынын жагында"
+      "gloss": "бутунун жанында"
     }
   ],
-  "timestamp": "2026-10-05T17:01:31.775510182Z",
+  "timestamp": "2026-10-05T18:51:08.028680434Z",
   "model": "glm-5.3"
 }

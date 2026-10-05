@@ -5,11 +5,18 @@
   "book": "ezra",
   "lang": "ky",
   "chapter": 10,
-  "translation": "Ванйа, Мерemoth, Элйашиб.",
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "байламта",
+      "rationale": "Тизмеде ысымдардын ортосунда байламта жок; кыргыз тили тизмеде үтүр коюп байлады"
+    }
+  ],
+  "translation": "Ванья, Меремот, Эльяшив.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
-    "user-sha256": "a699e51ec4aa30f5c4034e890bbc7c31bca987f4c435bf2139e444f35ea6e065",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ezra\/10\/33-36.1791221152018.json",
+    "user-sha256": "7263af3599cc4b32fe07aa153a967e2c0238bb407c73ad5cf0c805ab1f6f86d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ezra\/10\/36-36.1791226306700.json",
     "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -17,18 +24,18 @@
   },
   "tokens": [
     {
-      "surface": "וניה",
-      "gloss": "Ванйа"
+      "surface": "וַנְיָ֥ה",
+      "gloss": "Ванья"
     },
     {
-      "surface": "מרמות",
-      "gloss": "Мерemoth"
+      "surface": "מְרֵמ֖וֹת",
+      "gloss": "Меремот"
     },
     {
-      "surface": "אלישיב",
-      "gloss": "Элйашиб"
+      "surface": "אֶלְיָשִֽׁיב",
+      "gloss": "Эльяшив"
     }
   ],
-  "timestamp": "2026-10-05T17:25:52.020249850Z",
+  "timestamp": "2026-10-05T18:51:46.701104364Z",
   "model": "glm-5.3"
 }

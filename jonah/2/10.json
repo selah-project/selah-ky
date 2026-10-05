@@ -5,11 +5,28 @@
   "book": "jonah",
   "lang": "ky",
   "chapter": 2,
-  "translation": "Мен болсом saga благодарение үнү менен курмандык чаламын, анткени назир кылганымды толуктаймын — куткаруу Яхведен!",
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "алгыс",
+      "rationale": "תודה тамыры колдун созулушун билдирет — ыраазычылык ишараты; 'алгыс' — кеңири колдонулган кабыл алуу"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אשלמה",
+      "rationale": "шалом тамыры — 'толук төлөө' жана 'тынчтык\/бүтүндүк' мааниси бир сөздө, кыргызчада жоголот"
+    },
+    {
+      "kind": "you",
+      "subject": "Яхвеге",
+      "rationale": "Йонанын балыктын ичинен Яхвеге багытталган сөзү"
+    }
+  ],
+  "translation": "Ал эми мен Сага алгыс үнү менен курмандык чаламын; ант берген нерсемди толуктаймын. Куткарылуу Яхведен!",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
-    "user-sha256": "c0185075573a7f2bead5b05d96400c70f8d5d06e53f47636c94444909da0fb8b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/jonah\/2\/9-11.1791214409530.json",
+    "user-sha256": "31b1bb2aa663e2a53e0a1825f618b2da913206a2fa4a42398afd857614080356",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/jonah\/2\/10-10.1791226040407.json",
     "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -18,7 +35,7 @@
   "tokens": [
     {
       "surface": "ואני",
-      "gloss": "Мен болсом"
+      "gloss": "ал эми мен"
     },
     {
       "surface": "בקול",
@@ -26,9 +43,37 @@
     },
     {
       "surface": "תודה",
-      "gloss": "algы"
+      "gloss": "алгыс"
+    },
+    {
+      "surface": "אזבחה",
+      "gloss": "курмандык чаламын"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Сага"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ант берген нерсемди"
+    },
+    {
+      "surface": "נדרתי",
+      "gloss": "ант бердим"
+    },
+    {
+      "surface": "אשלמה",
+      "gloss": "толуктаймын"
+    },
+    {
+      "surface": "ישועתה",
+      "gloss": "Куткарылуу"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхведен"
     }
   ],
-  "timestamp": "2026-10-05T15:33:29.531880324Z",
+  "timestamp": "2026-10-05T18:47:20.407711764Z",
   "model": "glm-5.3"
 }

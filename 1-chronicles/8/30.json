@@ -7,16 +7,21 @@
   "chapter": 8,
   "notes": [
     {
-      "kind": "elision",
-      "subject": "тунуclusы",
-      "rationale": "Тизмектин уландысы катары этиш жок; аттар гана тизмеленген"
+      "kind": "addition",
+      "subject": "Анын",
+      "rationale": "Ивритте «анын» жок, кыргызча тактык үчүн кошулду"
+    },
+    {
+      "kind": "measurement",
+      "subject": "тун уулу",
+      "rationale": "Тизим: уулдардын аттары, тун (биринчи туулган) белгиленип жатат"
     }
   ],
-  "translation": "Анын уулу, тунуclusы — Абдон, жана Цур, жана Киш, жана Баал, жана Надаб.",
+  "translation": "Анын уулу — тун уулу Абдон, жана Цур, жана Киш, жана Баал, жана Надаб.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
-    "user-sha256": "0371539a7de4f2d12139e713b179a38f26962564211f35052ed28a85ea53e8c3",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-chronicles\/8\/29-32.1791221933437.json",
+    "user-sha256": "1d30f330aa70f669c073bf682dd293293144bbf489c5eaf8909be8179811a56d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-chronicles\/8\/30-30.1791226389281.json",
     "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -25,11 +30,11 @@
   "tokens": [
     {
       "surface": "ובנו",
-      "gloss": "анын уулу"
+      "gloss": "уулу"
     },
     {
       "surface": "הבכור",
-      "gloss": "тунуclusы"
+      "gloss": "тун уулу"
     },
     {
       "surface": "עבדון",
@@ -52,6 +57,6 @@
       "gloss": "жана Надаб"
     }
   ],
-  "timestamp": "2026-10-05T17:38:53.438417009Z",
+  "timestamp": "2026-10-05T18:53:09.282229645Z",
   "model": "glm-5.3"
 }

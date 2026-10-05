@@ -7,22 +7,27 @@
   "chapter": 43,
   "notes": [
     {
-      "kind": "crux",
-      "subject": "זר",
-      "rationale": "'бөтөн' — 'бөтөн кудай' же жөн гана 'бөтөн (адам)'; котормолор эки жолу түшүнүшөт"
+      "kind": "addition",
+      "subject": "⟨кудай⟩",
+      "rationale": "זר («бөтөн») сын атооч — «бөтөн кудай» дегендеге «кудай» сөзү кошулду"
     },
     {
-      "kind": "you",
-      "subject": "Йисраэлге",
-      "rationale": "Яхвенин күбөлөрү катары элине тике кайрылуу"
+      "kind": "addition",
+      "subject": "⟨мин⟩",
+      "rationale": "Копула: «Мен — Элмин» дегендеге «мин» мүчөсү кошулду, еврейче жок"
+    },
+    {
+      "kind": "alternative",
+      "subject": "והשמעתי",
+      "rationale": "«угуздум» же «жарияладым» — шарттуу мааниде кошумча окуу мүмкүн"
     }
   ],
-  "translation": "Мен билдирдим жана kutkardym жана угуздум, силердин араңарда бөтөн жок; силер Менин күбөлөрүмсүңөр, Яхвенин сөзү, жана Мен — Эл.",
+  "translation": "Мен ⟨את⟩ айттым, куткардым жана угуздум, жана силердин араңарда бөтөн ⟨кудай⟩ жок; силер Менин күбөлөрүмсүңөр, — Яхвенин сөзү, — жана Мен — Эл⟨мин⟩.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
-    "user-sha256": "2086284d44258a805aeeb1f6ef139858f95212ee8d470fe6876a6f00ce54e638",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/43\/9-12.1791210133789.json",
-    "code": "2011bdaa-dirty",
+    "user-sha256": "223f0736c9eccf11775e3fa0cfaabdc5676341b551288a2217d3d8aea59bba0c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/43\/11-12.1791225806032.json",
+    "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
     "clean-room?": false
@@ -34,11 +39,11 @@
     },
     {
       "surface": "הגדתי",
-      "gloss": "билдирдим"
+      "gloss": "айттым"
     },
     {
       "surface": "והושעתי",
-      "gloss": "жана kutkardym"
+      "gloss": "жана куткардым"
     },
     {
       "surface": "והשמעתי",
@@ -46,7 +51,7 @@
     },
     {
       "surface": "ואין",
-      "gloss": "жок"
+      "gloss": "жана жок"
     },
     {
       "surface": "בכם",
@@ -62,7 +67,7 @@
     },
     {
       "surface": "עדי",
-      "gloss": "Менин күбөлөрүмсүңөр"
+      "gloss": "Менин күбөлөрүм"
     },
     {
       "surface": "נאם",
@@ -81,6 +86,6 @@
       "gloss": "Эл"
     }
   ],
-  "timestamp": "2026-10-05T14:22:13.791273454Z",
+  "timestamp": "2026-10-05T18:43:26.033039261Z",
   "model": "glm-5.3"
 }

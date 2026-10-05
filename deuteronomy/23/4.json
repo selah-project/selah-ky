@@ -7,22 +7,27 @@
   "chapter": 23,
   "notes": [
     {
-      "kind": "substitution",
-      "subject": "Аммонluk · Моавluk",
-      "rationale": "Элдин ысымы сы-сыз пайда болот; кыргызча «аммонluk» (сы-) сөзү аркылуу берилди"
+      "kind": "addition",
+      "subject": "түпкү",
+      "rationale": "דור עשירי онунчу муун — байланыштык үчүн 'түпкү' сөзү кошулду"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גם דור עשירי",
+      "rationale": "'да, онунчу муун' — рекурсиялуу чечкиндүүлүк, кыргызча 'да' менен берилди"
     },
     {
       "kind": "measurement",
-      "subject": "онунчу муун… түбөлүк",
-      "rationale": "23:3 түн айырмасы — бул жерде «түбөлүк» (עד עולם) кошумча берилет, ченем убакытка чейин узартылат"
+      "subject": "онунчу муун",
+      "rationale": "муундарды санап чыгуу — онунчу муунга чейин"
     }
   ],
-  "translation": "Аммонluk жана Моавluk Яхвенин жыйынына кирбейт; алардын ону (о́нунчу) мууну да түбөлүккө Яхвенин жыйынына кирбейт.",
+  "translation": "Аммондук жана Моабдык Яхвенин жыйынына кире албайт; түпкү онунчу муунуна чейин алар Яхвенин жыйынына кире албайт, түбөлүккө.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
-    "user-sha256": "eb4129bc2faeda18b5719cfc8cacc7f6a8d82ee068b1a311486b76b946c1cbea",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/23\/1-4.1791205252330.json",
-    "code": "f71bac6e-dirty",
+    "user-sha256": "c25d5587090372e77df1fd0e003b052929fa91e02512a9ef6b77495ddef7a2cb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/23\/4-4.1791225354663.json",
+    "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
     "clean-room?": false
@@ -30,23 +35,23 @@
   "tokens": [
     {
       "surface": "לא",
-      "gloss": "жок"
+      "gloss": "албайт"
     },
     {
       "surface": "יבא",
-      "gloss": "кирбейт"
+      "gloss": "кире"
     },
     {
       "surface": "עמוני",
-      "gloss": "Аммонluk"
+      "gloss": "Аммондук"
     },
     {
       "surface": "ומואבי",
-      "gloss": "жана Моавluk"
+      "gloss": "жана Моабдык"
     },
     {
       "surface": "בקהל",
-      "gloss": "жыйынга"
+      "gloss": "жыйынына"
     },
     {
       "surface": "יהוה",
@@ -58,7 +63,7 @@
     },
     {
       "surface": "דור",
-      "gloss": "муун"
+      "gloss": "мууну"
     },
     {
       "surface": "עשירי",
@@ -66,19 +71,19 @@
     },
     {
       "surface": "לא",
-      "gloss": "жок"
+      "gloss": "албайт"
     },
     {
       "surface": "יבא",
-      "gloss": "кирбейт"
+      "gloss": "кире"
     },
     {
       "surface": "להם",
-      "gloss": "алардын"
+      "gloss": "алар"
     },
     {
       "surface": "בקהל",
-      "gloss": "жыйынга"
+      "gloss": "жыйынына"
     },
     {
       "surface": "יהוה",
@@ -90,9 +95,9 @@
     },
     {
       "surface": "עולם",
-      "gloss": "түбөлүк"
+      "gloss": "түбөлүккө"
     }
   ],
-  "timestamp": "2026-10-05T13:00:52.331700339Z",
+  "timestamp": "2026-10-05T18:35:54.663756511Z",
   "model": "glm-5.3"
 }

@@ -5,17 +5,82 @@
   "book": "ruth",
   "lang": "ky",
   "chapter": 3,
-  "translation": "Жана ал айтты: Бул алтыarp канаттуу... оңдо:",
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "алты ченөө арпа",
+      "rationale": "Шеш ха-сеорим — арпанын алты ченөөсү, санап-ченөө айтылат"
+    },
+    {
+      "kind": "substitution",
+      "subject": "бош колуң менен",
+      "rationale": "ריקם «бош» деген сөз, кыргызча табигый болушу үчүн «бош колуң менен» деп берилди"
+    }
+  ],
+  "translation": "Жана ал айтты: Бул алты ченөө арпаны ал мага берди, анткени ал айтты: Кайненеңе бош колуң менен барба.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
-    "user-sha256": "c246af5472162a8f82a3e7300a2982195e9c92da23c38d161befbd3b371e9825",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ruth\/3\/17-18.1791219641056.json",
+    "user-sha256": "71546c0f3c17576beab0e99271f44af995ed90a9a5a072810efc51311bf87c81",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ruth\/3\/17-17.1791226257567.json",
     "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
     "clean-room?": false
   },
-  "tokens": [],
-  "timestamp": "2026-10-05T17:00:41.057266581Z",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "жана ал айтты"
+    },
+    {
+      "surface": "שש",
+      "gloss": "алты"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "ченөө арпаны"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "бул"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "берди"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мага"
+    },
+    {
+      "surface": "כי",
+      "gloss": "анткени"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ал айтты"
+    },
+    {
+      "surface": "אל",
+      "gloss": "барба"
+    },
+    {
+      "surface": "תבואי",
+      "gloss": "бар"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "бош колуң менен"
+    },
+    {
+      "surface": "אל",
+      "gloss": "менен"
+    },
+    {
+      "surface": "חמותך",
+      "gloss": "кайненеңе"
+    }
+  ],
+  "timestamp": "2026-10-05T18:50:57.568096418Z",
   "model": "glm-5.3"
 }

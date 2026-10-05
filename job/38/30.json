@@ -7,21 +7,26 @@
   "chapter": 38,
   "notes": [
     {
-      "kind": "substitution",
-      "subject": "кармалды",
-      "rationale": "יתלכדו 'торго кармалып, бекитилип' — муздун катуулануусунун сүрөтү"
+      "kind": "crux",
+      "subject": "камалат",
+      "rationale": "יתלкדу 'торго\/тузакка кармалат' — KJV 'муздай калат' деп окур да, букв. 'кармалып калат'"
     },
     {
-      "kind": "alternative",
-      "subject": "муздады",
-      "rationale": "Көпчүлүк котормолор 'муздады' дебесе, лексема 'кармоо' деген сүрөттү сактайт"
+      "kind": "substitution",
+      "subject": "тереңдик",
+      "rationale": "תהום 'күүлөнгөн суу массасы, чуңкур' — 'тереңдик' жакындаштыруу"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יתחבאו \/ יתלכדו",
+      "rationale": "Эки этиштин үндөшүүсү (hit- башталышы) — суу жашырынат, тереңдик кармалат, кыргызча жоголот"
     }
   ],
-  "translation": "Суулар таштай жашырынышты, жана Теһомдун бети кармалды.",
+  "translation": "Суу таштай ⟨сыяктуу⟩ жашырынат, жана Төмөнкү тереңдиктин бетини кармалат.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
-    "user-sha256": "31d83717e3351063afad68e4940381d293222e66519a6871572ba431f2f41390",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/job\/38\/29-32.1791219470209.json",
+    "user-sha256": "ceaaff788b2c1a54a209fbb1fb077d506a935d9e9405ecda90ba5f204af6baff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/job\/38\/30-30.1791226229015.json",
     "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -30,29 +35,29 @@
   "tokens": [
     {
       "surface": "כאבן",
-      "gloss": "таштай"
+      "gloss": "таштай ⟨сыяктуу⟩"
     },
     {
-      "surface": "мים",
-      "gloss": "суулар"
+      "surface": "מים",
+      "gloss": "суу"
     },
     {
       "surface": "יתחבאו",
-      "gloss": "жашырынышты"
+      "gloss": "жашырынат"
     },
     {
       "surface": "ופני",
-      "gloss": "беттери"
+      "gloss": "жана ... бетини"
     },
     {
       "surface": "תהום",
-      "gloss": "Теһомдун"
+      "gloss": "тереңдиктин"
     },
     {
-      "surface": "יתлכדו",
-      "gloss": "кармалды"
+      "surface": "יתלכדу",
+      "gloss": "кармалат"
     }
   ],
-  "timestamp": "2026-10-05T16:57:50.210313441Z",
+  "timestamp": "2026-10-05T18:50:29.015478194Z",
   "model": "glm-5.3"
 }

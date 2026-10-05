@@ -7,27 +7,27 @@
   "chapter": 8,
   "notes": [
     {
-      "kind": "measurement",
-      "subject": "кырк жыл",
-      "rationale": "чөлдөгү мөөнөт эсептелет"
-    },
-    {
       "kind": "you",
       "subject": "Йисраэлге",
-      "rationale": "жекече кайрылуу — эстейси"
+      "rationale": "Моше элге түз кайрылат: «сен эстейсің»."
     },
     {
-      "kind": "crux",
-      "subject": "ענתך",
-      "rationale": "«кыйноо» же «тепчөө\/баш ийдирүү» — жумушак же катуу окуу"
+      "kind": "measurement",
+      "subject": "кырк жыл",
+      "rationale": "Чөлдөгү мөөнөт саналып айтылат."
+    },
+    {
+      "kind": "elision",
+      "subject": "жа",
+      "rationale": "אשר байланыштары кыргызча ыйкташ формада бөлөк айтылган."
     }
   ],
-  "translation": "Жана сен Яхве, Элохимиңң сени чөлдө ушул кырк жыл бasics алып барган ⟨את⟩ бүт жолун эстейси, ал сени кыйнаш үчүн, сыноо үчүн, жүрөгүңдө ⟨את⟩ эмне бар экенин билүү үчүн — буйруктарын сактайсыңбы, же жокпу.",
+  "translation": "Жана сен ⟨את⟩ бүт жолду эстейсің, Яхве Элохимиң сени бул кырк жыл чөлдө жүргөзгөн, сени кемсинтүү үчүн, сени сыноо үчүн, жүрөгүңдө ⟨את⟩ эмне экенин билүү үчүн — буйруктарын сактайсыңбы, же жок.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
-    "user-sha256": "c67e2c9751c6fcd7f4cf9f34277f6e0329b85dec6fe7528226887ea4e3484938",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/8\/1-4.1791204925001.json",
-    "code": "f71bac6e-dirty",
+    "user-sha256": "af4c9230bbaa41aec9b1985813190106eba6ba6ac7ab219abe4dc94dce767b41",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/8\/2-3.1791225339928.json",
+    "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
     "clean-room?": false
@@ -35,12 +35,12 @@
   "tokens": [
     {
       "surface": "וזכרת",
-      "gloss": "Жана эстейси"
+      "gloss": "эстейсің"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "бүт жолун"
+      "marks": "бүт жолду"
     },
     {
       "surface": "כל",
@@ -48,15 +48,15 @@
     },
     {
       "surface": "הדרך",
-      "gloss": "жолун"
+      "gloss": "жолду"
     },
     {
       "surface": "אשר",
-      "gloss": "ал"
+      "gloss": "жа"
     },
     {
       "surface": "הליכך",
-      "gloss": "алып барган"
+      "gloss": "жүргөзгөн"
     },
     {
       "surface": "יהוה",
@@ -64,11 +64,11 @@
     },
     {
       "surface": "אלהיך",
-      "gloss": "Элохимиңң"
+      "gloss": "Элохимиң"
     },
     {
       "surface": "זה",
-      "gloss": "ушул"
+      "gloss": "бул"
     },
     {
       "surface": "ארבעים",
@@ -88,11 +88,11 @@
     },
     {
       "surface": "ענתך",
-      "gloss": "кыйнаш"
+      "gloss": "сени кемсинтүү"
     },
     {
       "surface": "לנסתך",
-      "gloss": "сыноо"
+      "gloss": "сени сыноо"
     },
     {
       "surface": "לדעת",
@@ -101,7 +101,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "жүрөгүңдө эмне бар"
+      "marks": "жүрөгүңдө эмне"
     },
     {
       "surface": "אשר",
@@ -109,7 +109,7 @@
     },
     {
       "surface": "בלבבך",
-      "gloss": "жүрөгүңдө бар"
+      "gloss": "жүрөгүңдө"
     },
     {
       "surface": "התשמר",
@@ -125,9 +125,9 @@
     },
     {
       "surface": "לא",
-      "gloss": "жокпу"
+      "gloss": "жок"
     }
   ],
-  "timestamp": "2026-10-05T12:55:25.002814062Z",
+  "timestamp": "2026-10-05T18:35:39.928892074Z",
   "model": "glm-5.3"
 }

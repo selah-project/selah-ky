@@ -7,21 +7,21 @@
   "chapter": 51,
   "notes": [
     {
-      "kind": "substitution",
-      "subject": "жаралдым",
-      "rationale": "חוללתי — бурулуш\/бөрүкүү тамыры, 'туулдум' дегенге жакын, формасы айкөл сакталды"
+      "kind": "crux",
+      "subject": "туулдум",
+      "rationale": "חוללתי (חוּл, 'толгонуу, төрөлүү') — KJV 'shapen' ('жасалдым'), башкалары 'туулдум' дейт; эненин ичинде төрөлүү мааниси башкыраак."
     },
     {
-      "kind": "addition",
-      "subject": "мени",
-      "rationale": "יחמתני — этиштин акыркы -ни мүчөсү 'мени' кыргызча кайталанды"
+      "kind": "substitution",
+      "subject": "бойго бүктү",
+      "rationale": "יחמתני 'жылып, түйүлдүккө айландырды' деген сөзмө-сөз сүрөт; кыргызча 'бойго бүктү' — табигый, бирок жылуулук мааниси жоголот."
     }
   ],
-  "translation": "Карап көрсөң, бузукулукта жаралдым, жана күнөөдө энем мені бойго бүктү.",
+  "translation": "Карагын, кемгүйлүктө туулдум, жана күнөөдө энем мени бойго бүктү.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
-    "user-sha256": "0e766f8045ad1ee404c5cb4d09eb034c4e86bb35eb7569190358b3c6579dca1a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/51\/5-8.1791216177530.json",
+    "user-sha256": "e3a299a02e4e2e224540034cd1e9def644f242f3ebcb1a33fb0e8abf0cecb4a2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/51\/7-7.1791226154755.json",
     "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -30,15 +30,15 @@
   "tokens": [
     {
       "surface": "הן",
-      "gloss": "карап көрсөң"
+      "gloss": "Карагын"
     },
     {
       "surface": "בעוון",
-      "gloss": "бузукулукта"
+      "gloss": "кемгүйлүктө"
     },
     {
-      "surface": "חולелתי",
-      "gloss": "жаралдым"
+      "surface": "חוללתי",
+      "gloss": "туулдум"
     },
     {
       "surface": "ובחטא",
@@ -46,13 +46,13 @@
     },
     {
       "surface": "יחמתני",
-      "gloss": "энем мені бойго бүктү"
+      "gloss": "мени бойго бүктү"
     },
     {
       "surface": "אמי",
       "gloss": "энем"
     }
   ],
-  "timestamp": "2026-10-05T16:02:57.531729515Z",
+  "timestamp": "2026-10-05T18:49:14.755453678Z",
   "model": "glm-5.3"
 }

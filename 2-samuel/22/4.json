@@ -8,24 +8,29 @@
   "notes": [
     {
       "kind": "crux",
-      "subject": "Мактоого татыктуу",
-      "rationale": "מהולל — пасив причастие: «макталган»; ЖПС «Макталган, Яхвени чакырам» деп токтолот"
+      "subject": "мехулал",
+      "rationale": "Пуал Particip махшул: «Даңктуу деп Яхвени чакырам» (KJV жолу) же «Даңкталуу деп кыйкырам — Яхве» (JPS\/YSLT жолу); эки окуу тең мүмкүн."
+    },
+    {
+      "kind": "addition",
+      "subject": "деп",
+      "rationale": "Еврейче аталоо мамилесин кыргызча «деп» байланыштырат."
     }
   ],
-  "translation": "Мактоого татыктуу Яхвени чакырам, жана душмандарыmdан куткарыламын.",
+  "translation": "Даңкталууга татыктуу деп Яхвени чакырам, жана душмандарымдан куткарылам.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
-    "user-sha256": "22829b331f01b37e5e509c3177c4a99e24074ca3f0057e4dd5dd4cb715f1d438",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-samuel\/22\/1-4.1791207817438.json",
-    "code": "641241cf-dirty",
+    "user-sha256": "589bf54eff53ba320b6e83b876e1030fa5720c4bedf0e665b3a7fde0f7cc2b58",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-samuel\/22\/4-4.1791225562038.json",
+    "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
     "clean-room?": false
   },
   "tokens": [
     {
-      "surface": "מהולל",
-      "gloss": "Мактоого татыктуу"
+      "surface": "מהלל",
+      "gloss": "даңкталууга татыктуу"
     },
     {
       "surface": "אקרא",
@@ -36,14 +41,14 @@
       "gloss": "Яхвени"
     },
     {
-      "surface": "ומאויבי",
-      "gloss": "жана душмандарыmdан"
+      "surface": "ומאיבי",
+      "gloss": "жана душмандарымдан"
     },
     {
       "surface": "אושע",
-      "gloss": "куткарыламын"
+      "gloss": "куткарылам"
     }
   ],
-  "timestamp": "2026-10-05T13:43:37.439317554Z",
+  "timestamp": "2026-10-05T18:39:22.039208982Z",
   "model": "glm-5.3"
 }

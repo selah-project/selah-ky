@@ -7,22 +7,27 @@
   "chapter": 27,
   "notes": [
     {
-      "kind": "addition",
-      "subject": "мындай",
-      "rationale": "ווהיה көшөгөсү кыргызча толук сүйлөм үчүн кошулду"
+      "kind": "measurement",
+      "subject": "баа",
+      "rationale": "Ар кайчылаш: жаш чектери (20–60) жана баа (50 шекел күмүш) ыйык шекел боюнча көрсөтүлгөн."
     },
     {
-      "kind": "measurement",
-      "subject": "жаш жана шекел",
-      "rationale": "жаш чектери жана ыйык шекел боюнча баа — санап өлчөө тили"
+      "kind": "addition",
+      "subject": "⟨ал⟩",
+      "rationale": "Кыргыз тили ээлик байланыш үчүн көрсөтүүчү талап кылат; еврейче жок."
+    },
+    {
+      "kind": "substitution",
+      "subject": "жаш",
+      "rationale": "מבן עשרים שנה көчүрмө «жыйырма жаштын уулу»; кыргызча табигый түрү «жыйырма жаштан»."
     }
   ],
-  "translation": "Жана баалооң мындай болсун: эркек, жыйырма жаштан алтымыш жашка чейин болсо, баалооң бешmyмүш шекел күмүш — ыйык шекел менен.",
+  "translation": "Эркек болсо, жыйырма жаштан алтымыш жашка чейин, бааң ⟨ал⟩ ыйык шекел боюнча элүү шекел күмүш болот.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
-    "user-sha256": "90e56843ecb0c47becab063a7bec26f525d4fbc7c1b8aa26a2205ef4c88c0b44",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/27\/1-4.1791203503440.json",
-    "code": "f71bac6e-dirty",
+    "user-sha256": "681bb1156dc79373c990146963fb490b106f13af4f81ef0b5d79e6cf709e186e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/leviticus\/27\/3-3.1791225254787.json",
+    "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
     "clean-room?": false
@@ -30,19 +35,19 @@
   "tokens": [
     {
       "surface": "והיה",
-      "gloss": "болсун"
+      "gloss": "болот"
     },
     {
       "surface": "ערכך",
-      "gloss": "баалооң"
+      "gloss": "бааң"
     },
     {
       "surface": "הזכר",
-      "gloss": "эркек"
+      "gloss": "эркеги"
     },
     {
       "surface": "מבן",
-      "gloss": "…тан"
+      "gloss": "…дан жаш"
     },
     {
       "surface": "עשרים",
@@ -58,7 +63,7 @@
     },
     {
       "surface": "בן",
-      "gloss": "уландык"
+      "gloss": "жашы"
     },
     {
       "surface": "ששים",
@@ -70,11 +75,11 @@
     },
     {
       "surface": "והיה",
-      "gloss": "болсун"
+      "gloss": "болот"
     },
     {
       "surface": "ערכך",
-      "gloss": "баалооң"
+      "gloss": "бааң"
     },
     {
       "surface": "חמשים",
@@ -90,13 +95,13 @@
     },
     {
       "surface": "בשקל",
-      "gloss": "…менен"
+      "gloss": "шекел боюнча"
     },
     {
       "surface": "הקדש",
-      "gloss": "ыйык шекел"
+      "gloss": "ыйык"
     }
   ],
-  "timestamp": "2026-10-05T12:31:43.441841412Z",
+  "timestamp": "2026-10-05T18:34:14.787914785Z",
   "model": "glm-5.3"
 }

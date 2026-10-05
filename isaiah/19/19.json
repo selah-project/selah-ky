@@ -7,18 +7,22 @@
   "chapter": 19,
   "notes": [
     {
+      "kind": "addition",
+      "subject": "арналган",
+      "rationale": "לпыкчо-мамилеси кыргызча «…ге арналган» деп берилди"
+    },
+    {
       "kind": "crux",
-      "subject": "מזבח",
-      "gloss": "-тун түрү",
-      "rationale": "Кыргызча 'kurmandyk chalynuchu jer' — бир еврей сөзгө көп сөз керек болду."
+      "subject": "מצבה",
+      "rationale": "«эстелик таш» же «мамы» — Мыйзамда (Чыгуу 23:24) maszеба тыюу салынган, бул жерде Яхвеге арналат"
     }
   ],
-  "translation": "Ошол күндө Яхвеге курмандык妹子 chess-altarı — Мицрайим жеринин ичинде Яхвеге курмандык чалынуучу жер болот, жана анын чегинин жанында Яхвеге таш мамы турат.",
+  "translation": "Ошол күнү Яхвеге арналган курмандык очогу Мицрайим жеринин ортосунда болот, жана Яхвеге арналган эстелик таш анын чегине жакын турат.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
-    "user-sha256": "2cc5f62d213d0192f810c16963c35cfd6ca1a008943ae3bf1acb3d3fc601a40e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/19\/17-20.1791209729108.json",
-    "code": "2011bdaa-dirty",
+    "user-sha256": "fcc63dc84810965f3f18f2e5e920ab899728f71c6aa6220728b1dfbcda589848",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/19\/19-19.1791225662576.json",
+    "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
     "clean-room?": false
@@ -26,7 +30,7 @@
   "tokens": [
     {
       "surface": "ביום",
-      "gloss": "ошол күндө ... күнүндө"
+      "gloss": "ошол күнү"
     },
     {
       "surface": "ההוא",
@@ -38,7 +42,7 @@
     },
     {
       "surface": "מזבח",
-      "gloss": "курмандык чалынуучу жер"
+      "gloss": "курмандык очогу"
     },
     {
       "surface": "ליהוה",
@@ -46,7 +50,7 @@
     },
     {
       "surface": "בתוך",
-      "gloss": "ичинде"
+      "gloss": "ортосунда"
     },
     {
       "surface": "ארץ",
@@ -58,21 +62,21 @@
     },
     {
       "surface": "ומצבה",
-      "gloss": "жана таш мамы"
+      "gloss": "жана эстелик таш"
     },
     {
       "surface": "אצל",
-      "gloss": "жанында"
+      "gloss": "жакын"
     },
     {
       "surface": "גבולה",
-      "gloss": "анын чегинин"
+      "gloss": "анын чегине"
     },
     {
       "surface": "ליהוה",
       "gloss": "Яхвеге"
     }
   ],
-  "timestamp": "2026-10-05T14:15:29.109519746Z",
+  "timestamp": "2026-10-05T18:41:02.576714151Z",
   "model": "glm-5.3"
 }

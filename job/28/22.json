@@ -7,21 +7,26 @@
   "chapter": 28,
   "notes": [
     {
-      "kind": "substitution",
-      "subject": "Абаддон",
-      "rationale": "אבדון — ысым катары сакталды («талкалоо» деген мааниде); «Өлүмдүн үйү» деген жер менен чаташтырбоо керек."
+      "kind": "addition",
+      "subject": "анын",
+      "rationale": "Ивритте «анын» жок — шимъа (кабар) 3-жак мүчөсүн көтөрөт"
     },
     {
-      "kind": "mystery",
-      "subject": "шымайа — угулган kabar",
-      "rationale": "Абаддон менен өлүм да дааныштыктын өзүн эмес, анын kabaryn — угулган kabar гана уккан: дагы жашырылгандык."
+      "kind": "wordplay",
+      "subject": "שמענו \/ שמעה",
+      "rationale": "«уктук \/ уккан kabarybyz» — бир тамырдын кайталанышы: шамаʿну шемъа, кыргызча «ук-\/кабар» менен жакындашты"
+    },
+    {
+      "kind": "crux",
+      "subject": "Абаддон",
+      "rationale": "אבדונ — жок кылуу (абстрактуу) же жок кылуучу жай\/Шеолдун аталышы; ысым катары сакталды"
     }
   ],
-  "translation": "Абаддон жана өлүм айтты: ⟨анын⟩ kabaryn — анын кабарын кулагыбыз менен уктук.",
+  "translation": "Абаддон жана Өлүм айтышты: Кулактарыбыз менен ⟨את⟩ анын кабарын уктук.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
-    "user-sha256": "6837f6c3e11bcc2dfd6eb84a9f511893cee697ba4a8645f5e2ea501c450ab297",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/job\/28\/21-24.1791219117666.json",
+    "user-sha256": "6fe74853d1c121506c5236a18d20866d579f0bcdb6cb90eae520126878c09b97",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/job\/28\/22-22.1791226230186.json",
     "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -34,15 +39,15 @@
     },
     {
       "surface": "ומות",
-      "gloss": "жана өлүм"
+      "gloss": "жана Өлүм"
     },
     {
       "surface": "אמרו",
-      "gloss": "айтты"
+      "gloss": "айтышты"
     },
     {
       "surface": "באזנינו",
-      "gloss": "кулагыбыз менен"
+      "gloss": "кулактарыбыз менен"
     },
     {
       "surface": "שמענו",
@@ -50,9 +55,10 @@
     },
     {
       "surface": "שמעה",
-      "gloss": "кабар"
+      "gloss": "⟨את⟩ анын kabaryn",
+      "marks": "анын кабарын"
     }
   ],
-  "timestamp": "2026-10-05T16:51:57.666962704Z",
+  "timestamp": "2026-10-05T18:50:30.186494512Z",
   "model": "glm-5.3"
 }

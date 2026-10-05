@@ -5,11 +5,23 @@
   "book": "psalms",
   "lang": "ky",
   "chapter": 137,
-  "translation": "Анын ортосундагы талгар теректердин үстүнө асыктык кinario... биздин көбөздөрүбүздү.",
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "арфаларыбызды",
+      "rationale": "כנרות — кылдуу аспап, арфа кыргызчада жакын маани"
+    },
+    {
+      "kind": "elision",
+      "subject": "על",
+      "gloss": "предлог 'боюнча' илгичтин жардамы менен талдарга сүйлөмгө кошулду"
+    }
+  ],
+  "translation": "Анын ортосундагы талдарга биздин арфаларыбызды илип койбук.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
-    "user-sha256": "4c65906e1db54a229031e86eb14c64855ad561b837bad5ce4adc111a08134a57",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/137\/1-4.1791217525240.json",
+    "user-sha256": "54099c3314009d453a5eb30564e20ae715f81fedada1ed9f6f4eea0d7aa2cbbc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/137\/2-2.1791226195171.json",
     "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -18,11 +30,11 @@
   "tokens": [
     {
       "surface": "על",
-      "gloss": "үстүнө"
+      "gloss": "боюнча"
     },
     {
       "surface": "ערבים",
-      "gloss": "талгар теректердин"
+      "gloss": "талдарга"
     },
     {
       "surface": "בתוכה",
@@ -30,13 +42,13 @@
     },
     {
       "surface": "תלינו",
-      "gloss": "асыктык"
+      "gloss": "илип койбук"
     },
     {
-      "surface": "киноротори",
-      "gloss": ""
+      "surface": "כנרותינו",
+      "gloss": "биздин арфаларыбызды"
     }
   ],
-  "timestamp": "2026-10-05T16:25:25.240848385Z",
+  "timestamp": "2026-10-05T18:49:55.172223541Z",
   "model": "glm-5.3"
 }
