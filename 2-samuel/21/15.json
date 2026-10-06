@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 21:15",
+  "book": "2-samuel",
+  "lang": "ky",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "менен",
+      "rationale": "Бул жердеги אֵת —直接 объект белгиси эмес, 'менен' деген предлог; экөө тең ошондой."
+    },
+    {
+      "kind": "crux",
+      "subject": "чарчады",
+      "rationale": "ויעף: 'чарчады' же 'эсинен танды' — кийинки аяттагы коркунуч ага таянат."
+    }
+  ],
+  "translation": "Жана дагы Плиштимдер менен Йисраэлге каршы согуш болду; Давид жана анын кулдары анын менен түшүштү жана Плиштимдер менен согуштуштү, жана Давид чарчады.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "e71a17a7b07fd6f7c4a3d6479c3e8f819ddd3788dd9915411eaca980a61ebf5a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-samuel\/21\/15-15.1791264444957.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "болду"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "дагы"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "согуш"
+    },
+    {
+      "surface": "לפלשתים",
+      "gloss": "Плиштимдер"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ менен",
+      "marks": "Йисраэл"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэл"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "түштү"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "ועבדיו",
+      "gloss": "анын кулдары"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "анын менен"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "согуштуштү"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ менен",
+      "marks": "Плиштимдер"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Плиштимдер"
+    },
+    {
+      "surface": "ויעף",
+      "gloss": "чарчады"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    }
+  ],
+  "timestamp": "2026-10-06T05:27:24.963324312Z",
+  "model": "glm-5.3"
+}

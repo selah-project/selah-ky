@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "esther 9:17",
+  "book": "esther",
+  "lang": "ky",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אתו",
+      "rationale": "Алеф-тав объект маркери ⟨את⟩ катары сакталды, жандооч -ны көтөрөт."
+    },
+    {
+      "kind": "substitution",
+      "subject": "משתה",
+      "rationale": "Сөз лит. 'ичүү\/той' — кыргызча 'той-тамаша' деп берилди."
+    },
+    {
+      "kind": "measurement",
+      "subject": "күндөр",
+      "rationale": "Айдар айынын он үчүнчү жана он төртүнчү күндөрү эсептелет."
+    },
+    {
+      "kind": "addition",
+      "subject": "алар",
+      "rationale": "Этиштин этиштери (эс алышты, кылышты) жөнөкөй өткөөл чакка коюлуп, жат атооч кошулду."
+    }
+  ],
+  "translation": "Айдар айынын он үчүнчү күнүндө, ал эми он төртүнчү күнүндө алар эс алышты жана аны той-тамаша жана кубаныч күнү кылышты.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "2222cd3cfb5c27635d09b4b0b14d42b84411caa27346126df62034be295c6cdd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/esther\/9\/17-17.1791264490756.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "күнүндө"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "он үчүнчү"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "он"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "айынын"
+    },
+    {
+      "surface": "אדר",
+      "gloss": "Айдар"
+    },
+    {
+      "surface": "ונוח",
+      "gloss": "жана эс алышты"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "он төртүнчү"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "он"
+    },
+    {
+      "surface": "בו",
+      "gloss": "күнүндө"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "жана кылышты"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ны",
+      "marks": "аны — күндү"
+    },
+    {
+      "surface": "יום",
+      "gloss": "күнү"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "той-тамаша"
+    },
+    {
+      "surface": "ושמחה",
+      "gloss": "жана кубаныч"
+    }
+  ],
+  "timestamp": "2026-10-06T05:28:10.765602543Z",
+  "model": "glm-5.3"
+}

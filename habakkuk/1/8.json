@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "habakkuk 1:8",
+  "book": "habakkuk",
+  "lang": "ky",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "זאבי ערב",
+      "rationale": "'кечки карышкырлар' же 'чөлдүн карышкырлары' (JPS) — кыргызча 'чөл карышкырлары' да мүмкүн."
+    },
+    {
+      "kind": "crux",
+      "subject": "ופשו",
+      "rationale": "'чачылышат \/ чабуулга түшүшөт' же 'мактанчаактык кылышат' (ASV 'press proudly') — тамырдуу эки маани."
+    },
+    {
+      "kind": "crux",
+      "subject": "נשר",
+      "rationale": "'бүркүт' же 'кыран' — чоң жемиргич куш, бүркүт тандалды."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨алар⟩",
+      "rationale": "Ивритте ээлик attributable pronoun жок; кыргызча татаал сүйлөм үчүн кошулду."
+    }
+  ],
+  "translation": "Анын жылкылары капландардан да тез, кечки карышкырлардан да өткүр; анын атчандары ⟨алар⟩ чачылышат, жана анын атчандары алыстан келишет, алар жеп алууга шашкан бүркүттөй учушат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "21b14ea923dd0d4ebb2700439bbead96fa3d74dcc898e8c9ed8e589cfa3b01a9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/habakkuk\/1\/8-8.1791264471925.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וקלו",
+      "gloss": "тез"
+    },
+    {
+      "surface": "מנמרים",
+      "gloss": "капландардан"
+    },
+    {
+      "surface": "סוסיו",
+      "gloss": "анын жылкылары"
+    },
+    {
+      "surface": "וחדו",
+      "gloss": "өткүр"
+    },
+    {
+      "surface": "מזאבי",
+      "gloss": "карышкырлардан"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "кечки"
+    },
+    {
+      "surface": "ופשו",
+      "gloss": "чачылышат"
+    },
+    {
+      "surface": "פרשיו",
+      "gloss": "анын атчандары"
+    },
+    {
+      "surface": "ופרשיו",
+      "gloss": "жана анын атчандары"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "алыстан"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "келишет"
+    },
+    {
+      "surface": "יעפו",
+      "gloss": "учушат"
+    },
+    {
+      "surface": "כנשר",
+      "gloss": "бүркүттөй"
+    },
+    {
+      "surface": "חש",
+      "gloss": "шашкан"
+    },
+    {
+      "surface": "לאכול",
+      "gloss": "жеп алууга"
+    }
+  ],
+  "timestamp": "2026-10-06T05:27:51.931384616Z",
+  "model": "glm-5.3"
+}

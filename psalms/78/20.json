@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 78:20",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "שאר",
+      "rationale": "Шеэр — «эт» дегенди түшүндүрүүчү тамыр; лексикалык мааниси «эт, тамак», кыргызча бир сөзгө «эт» деп берилди."
+    },
+    {
+      "kind": "you",
+      "subject": "ысырап чыгарган Исрайыл эли",
+      "rationale": "Аят — элдин нааразычылык сүйлөмү, Исрайыл Чөлдө Элохимди шек санаган суроо."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הכה\/ויזובו",
+      "rationale": "Урган таштан суу агуу — 2-Моше 17 жана Санжыр 20 дагы аска-таш көрүнүшүнө шилтеме, кыргызча ритм жоголот."
+    }
+  ],
+  "translation": "Мына, ал ташты урду, суулар агып чыкты, агындылар ташты; дали ал нан да бере алабы, өз эли үчүн эт даярдай алабы?",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "11a4cc0fddba77eb8f84ceab9f78b13b3c67f517da8966889dc612cfb5becab0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/78\/20-20.1791264470954.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Мына"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "урду"
+    },
+    {
+      "surface": "צור",
+      "gloss": "ташты"
+    },
+    {
+      "surface": "ויזובו",
+      "gloss": "жана агып чыкты"
+    },
+    {
+      "surface": "מים",
+      "gloss": "суулар"
+    },
+    {
+      "surface": "ונחלים",
+      "gloss": "агындылар"
+    },
+    {
+      "surface": "ישטפו",
+      "gloss": "ташты"
+    },
+    {
+      "surface": "הגם",
+      "gloss": "дали ... да"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "нан"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "ала алабы"
+    },
+    {
+      "surface": "תת",
+      "gloss": "берүүгө"
+    },
+    {
+      "surface": "אם",
+      "gloss": "же"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "даярдай ала"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "эт"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "өз эли үчүн"
+    }
+  ],
+  "timestamp": "2026-10-06T05:27:50.968113677Z",
+  "model": "glm-5.3"
+}

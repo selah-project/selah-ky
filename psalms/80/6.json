@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 80:6",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 80,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שליש",
+      "rationale": "YLT 'үчүнчү жолу' (a third time), KJС\/JPS 'чоң өлчөмдө' (great measure), латынча сөзмө-сөз 'үчтүк' (triple) — үч эсе өлчөм деген формасы сакталды"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דמעה\/בדמעות",
+      "rationale": "Ийдиң наны — ий менен ичирдиң: дим'а деген тамыр эки жолу кайталанат, кыргызча да 'ый' эки жолу берилди"
+    },
+    {
+      "kind": "you",
+      "subject": "Сен (Элохимге)",
+      "rationale": "Аят кайгыруу түрүндө Элохимге түз кайрылуу"
+    }
+  ],
+  "translation": "Сен аларды ыйдын наны менен тамактандырдың жана ыйлар менен, үч эсе өлчөмдө, ичирдиң.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "3d2cd5508d0a742ea76383d4b7fd7558d457318a19ecdeb4b5c0951eeb434f8c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/80\/6-6.1791264463038.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "האכלתם",
+      "gloss": "тамактандырдың"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "нан"
+    },
+    {
+      "surface": "דמעה",
+      "gloss": "ыйдын"
+    },
+    {
+      "surface": "ותשקמו",
+      "gloss": "ичирдиң"
+    },
+    {
+      "surface": "בדמעות",
+      "gloss": "ыйлар менен"
+    },
+    {
+      "surface": "שליש",
+      "gloss": "үч эсе өлчөмдө"
+    }
+  ],
+  "timestamp": "2026-10-06T05:27:43.046096543Z",
+  "model": "glm-5.3"
+}

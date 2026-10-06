@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 9:3",
+  "book": "zechariah",
+  "lang": "ky",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חרוץ",
+      "rationale": "'таза алтын' (KJV 'fine gold') же 'сыйкырдуу\/кесилген нерсе' — лексикасы тартыш сөз; 'алтын' деп берилди"
+    },
+    {
+      "kind": "substitution",
+      "subject": "מצור",
+      "gloss-context": "'курчоо дөбөсү\/чеп' — курчоо-куруш объектиси катары 'чеп' деп берилди"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "צר\/מצור",
+      "rationale": "Цор шаарынын аты менен מצור (чеп) сөзү жакын үндөш, ойнок сөз кыргызча жоголду"
+    }
+  ],
+  "translation": "Цор өзүнө чеп курду, күмүштү топурактай чогултту, алтынды — көчөлөрдүн баткактай.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "f4a08e1276dba9114de2a66e432d8664b5216b3cb0b11e6a1ae8933a47ac900f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/zechariah\/9\/3-3.1791264438174.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותבן",
+      "gloss": "курду"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Цор"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "чеп"
+    },
+    {
+      "surface": "לה",
+      "gloss": "өзүнө"
+    },
+    {
+      "surface": "ותצבר",
+      "gloss": "чогултту"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "күмүштү"
+    },
+    {
+      "surface": "כעפר",
+      "gloss": "топурактай"
+    },
+    {
+      "surface": "וחרוץ",
+      "gloss": "алтынды"
+    },
+    {
+      "surface": "כטיט",
+      "gloss": "баткактай"
+    },
+    {
+      "surface": "חוצות",
+      "gloss": "көчөлөрдүн"
+    }
+  ],
+  "timestamp": "2026-10-06T05:27:18.178911636Z",
+  "model": "glm-5.3"
+}

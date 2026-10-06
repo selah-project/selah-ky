@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 74:12",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 74,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨бул⟩",
+      "rationale": "Кыргыз тили копуланы талап кылат, еврей текстинде жок"
+    },
+    {
+      "kind": "alternative",
+      "subject": "байыркы замандан",
+      "rationale": "מקדם 'алдыңкы' дегенди да билдирет — 'чыгыш тараптан' же 'байыртадан' деген эки окуу бар"
+    }
+  ],
+  "translation": "Жана Элохим ⟨бул⟩ менин падышам байыркы замандан, жердин ичинде куткарууларды иштеген.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "2f14f5f83151a470e144381592d2c14b1b5532eeb0326ef74a1b36b593081ce6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/74\/12-12.1791264438561.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואלהים",
+      "gloss": "Жана Элохим"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "менин падышам"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "байыркы замандан"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "иштеген"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "куткарууларды"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "ичинде"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "жердин"
+    }
+  ],
+  "timestamp": "2026-10-06T05:27:18.565410313Z",
+  "model": "glm-5.3"
+}

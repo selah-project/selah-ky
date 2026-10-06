@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 2:3",
+  "book": "1-chronicles",
+  "lang": "ky",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Шуанын кызы",
+      "rationale": "מבת שוע — JPS «Бат-Шуа» деп ат катары алып жүрөт; биз «Шуанын кызы» деген буктук маанисин сактадык."
+    },
+    {
+      "kind": "addition",
+      "subject": "Ал",
+      "rationale": "וימיתהו этиштин ээси Яхве — кыргызча так көрсөтүү үчүн ⟨Ал⟩ кошулду."
+    },
+    {
+      "kind": "crux",
+      "subject": "кенаандык аял",
+      "rationale": "הכנענית — «кенаандык аял» же болжолдуу «Кенаан шаарынын жаранышы»; биз этникалык маанисин алдык."
+    }
+  ],
+  "translation": "Йегуданын уулдары: Эр, Онан жана Шела; бул үчөө Шуанын кызы кенаандык аялдан ага төрөлгөн. Эр, Йегуданын тун уулу, Яхвенин көзүнө жаман болгон, жана Ал аны өлтүрдү.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "e3c26b05049d57bcb4fae25d86ae8f6514626d41675a95e3bdb63cc00266fa02",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-chronicles\/2\/3-3.1791264483064.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "уулдары"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Йегуданын"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Эр"
+    },
+    {
+      "surface": "ואונן",
+      "gloss": "жана Онан"
+    },
+    {
+      "surface": "ושלה",
+      "gloss": "жана Шела"
+    },
+    {
+      "surface": "שלושה",
+      "gloss": "үчөө"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "төрөлгөн"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ага"
+    },
+    {
+      "surface": "מבת",
+      "gloss": "…дын кызы"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "Шуанын"
+    },
+    {
+      "surface": "הכנענית",
+      "gloss": "кенаандык аял"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "жана болду"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Эр"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "тун уулу"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Йегуданын"
+    },
+    {
+      "surface": "רע",
+      "gloss": "жаман"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "көзүнө"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвенин"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "жана Ал аны өлтүрдү"
+    }
+  ],
+  "timestamp": "2026-10-06T05:28:03.070279120Z",
+  "model": "glm-5.3"
+}

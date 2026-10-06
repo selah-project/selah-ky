@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 8:10",
+  "book": "job",
+  "lang": "ky",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "сурагай жоктоочу -пайбы мүчөсү",
+      "rationale": "Ивриттин риторикалык суроо мүнөзү кыргызча жоктоочу этиш мүчөсү аркылуу берилди"
+    },
+    {
+      "kind": "substitution",
+      "subject": "үйрөтүү",
+      "rationale": "יָרָה тамыры «дем таштоо, жебе атyy» деген сүрөттү сактайт; бул жерде «үйрөтүү» маанисинде"
+    }
+  ],
+  "translation": "Алар сага ⟨эмес беле⟩ үйрөтпөйбү, сага айтпайбы, жана жүрөктөрүнөн сөздөрдү чыгарышпайбы?",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "3a6bbd55c06fd5d24bc174d4992f3804f44e094f664824c6a734ebe619771312",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/job\/8\/10-10.1791264479422.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "⟨эмес беле⟩"
+    },
+    {
+      "surface": "הם",
+      "gloss": "алар"
+    },
+    {
+      "surface": "יורוך",
+      "gloss": "үйрөтпөйбү"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "айтпайбы"
+    },
+    {
+      "surface": "לך",
+      "gloss": "сага"
+    },
+    {
+      "surface": "ומלבם",
+      "gloss": "жана жүрөктөрүнөн"
+    },
+    {
+      "surface": "יוצאו",
+      "gloss": "чыгарышпайбы"
+    },
+    {
+      "surface": "מלים",
+      "gloss": "сөздөрдү"
+    }
+  ],
+  "timestamp": "2026-10-06T05:27:59.426798792Z",
+  "model": "glm-5.3"
+}

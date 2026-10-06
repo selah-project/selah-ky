@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 8:5",
+  "book": "job",
+  "lang": "ky",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "эртен издесең",
+      "rationale": "שחר тамыры — 'таң атканча турган, эрте издеген' деген сүрөт; көпчүлүк котормолор 'кыялданбай, чын дилден' деген маани берет"
+    },
+    {
+      "kind": "crux",
+      "subject": "эртен",
+      "rationale": "תשחר: 'эртең менен издөө' (KJV 'betimes') же 'чын жүрөктөн издөө' (JPS 'earnestly') — эки окуу бар"
+    },
+    {
+      "kind": "you",
+      "subject": "Иовго",
+      "rationale": "Билдад Иовго түз кайрылып сүйлөйт"
+    }
+  ],
+  "translation": "Эгер сен Элди эртен издесең жана Шаддайдан ырайым сурап жүрсөң,",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "b69bb173d9ca4e9d682cc970869d95d4613f67f1b5d5c1ad8a781f87e923a98f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/job\/8\/5-5.1791264481402.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Эгер"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "сен"
+    },
+    {
+      "surface": "תשחר",
+      "gloss": "эртен издесең"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨аны⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эл"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "жана …дан"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Шаддай"
+    },
+    {
+      "surface": "תתחנן",
+      "gloss": "ырайым сурап жүрсөң"
+    }
+  ],
+  "timestamp": "2026-10-06T05:28:01.408673390Z",
+  "model": "glm-5.3"
+}

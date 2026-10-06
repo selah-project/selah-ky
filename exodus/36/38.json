@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "exodus 36:38",
+  "book": "exodus",
+  "lang": "ky",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "беш",
+      "rationale": "Тигтерди жана пайдубалдарды санап көрсөтүү (36:38)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "жез",
+      "rationale": "נחשת — жез\/коло; «жез» тандылды."
+    }
+  ],
+  "translation": "жана анын беш тигин, ⟨את⟩ алардын илгичтерин, алардын баштарын жана байланыш таякчаларын алтын менен каптады, ал эми алардын беш пайдубалы жезден болду.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "f5aaa5cd3ea76d42ab19de8cf5ede5f15698472a7390c14d00a19dd1358cf085",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/exodus\/36\/38-38.1791264505520.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "анын беш тигин"
+    },
+    {
+      "surface": "עמודיו",
+      "gloss": "анын тигтери"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "беш"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "алардын илгичтерин"
+    },
+    {
+      "surface": "וויהם",
+      "gloss": "алардын илгичтери"
+    },
+    {
+      "surface": "וצפה",
+      "gloss": "каптады"
+    },
+    {
+      "surface": "ראשיהם",
+      "gloss": "алардын баштары"
+    },
+    {
+      "surface": "וחשקיהם",
+      "gloss": "байланыш таякчалары"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "алтын"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "алардын пайдубалдары"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "беш"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "жез"
+    }
+  ],
+  "timestamp": "2026-10-06T05:28:25.526950301Z",
+  "model": "glm-5.3"
+}

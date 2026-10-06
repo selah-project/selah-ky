@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 90,
+  "ref": "psalms 119:90",
+  "book": "psalms",
+  "lang": "ky",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "чейин",
+      "rationale": "Ивритте 'муундан муунга' деген эки гана сөз бар; 'чейин' кыргыз тили үчүн кошулду"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ишенимдүүлүк",
+      "rationale": "אמונתך букв.'бекемдигиң' — туруктуулук, ишенимдүүлүк маанисинде"
+    }
+  ],
+  "translation": "Муундан муунга чейин Сенин ишенимдүүлүгүң; Сен ⟨את⟩ жерди бекем тургузуң, жана ал турат.",
+  "provenance": {
+    "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
+    "user-sha256": "c547a8b331a0cc036912ed5b6dd9f5cf8c2d0f5a7be547f8dca3b0083c1397ee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/psalms\/119\/90-90.1791264467410.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לדר",
+      "gloss": "муундан"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "муунга чейин"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "ишенимдүүлүгүң"
+    },
+    {
+      "surface": "כוננת",
+      "gloss": "бекем тургузуң"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "жерди"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "жана ал турат"
+    }
+  ],
+  "timestamp": "2026-10-06T05:27:47.421615088Z",
+  "model": "glm-5.3"
+}
