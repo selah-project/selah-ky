@@ -12,11 +12,11 @@
       "rationale": "экинчи אל 'кара' маанисинде; кыргызча 'жөнүндө' табигый"
     }
   ],
-  "translation": "Яхвенин пайгамбар Йирмияга пелиштилер жөнүндө айткан сөзү — Паро ⟨את⟩ Газаны ургандан мурун болгон.",
+  "translation": "Яхвенин набий Йирмияга пелиштилер жөнүндө айткан сөзү — Паро ⟨את⟩ Газаны ургандан мурун болгон.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
     "user-sha256": "c146cf3cfa145807c5ccab8b1491c844b77828f372507f12f60a394402c28919",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/jeremiah\/47\/1-4.1791211789814.json",
+    "prompt-file": ".selah/sources/translations/prompts/ky/jeremiah/47/1-4.1791211789814.json",
     "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "пайгамбар"
+      "gloss": "набий"
     },
     {
       "surface": "אל",
@@ -82,5 +82,12 @@
     }
   ],
   "timestamp": "2026-10-05T14:49:49.815373263Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "пайгамбар": "набий"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

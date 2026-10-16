@@ -17,11 +17,11 @@
       "rationale": "«суранам, жасабагыла» — Яхвенин элин токтотуучу өтүнүчү"
     }
   ],
-  "translation": "Жана Мен силерге ⟨את⟩ өзүмдүн бүт кулдарымды — пайгамбарларды — эртең менен эрте жөнөтүп турдум, айтыш үчүн: суранам, бул жийиркеничтүү ишти жасабагыла, Мен аны жек көрөм.",
+  "translation": "Жана Мен силерге ⟨את⟩ өзүмдүн бүт кулдарымды — набийлерди — эртең менен эрте жөнөтүп турдум, айтыш үчүн: суранам, бул жийиркеничтүү ишти жасабагыла, Мен аны жек көрөм.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
     "user-sha256": "5042dcbe78e1f0e87495c8bfc6012e011c02c044eae62e6c5a3f1d64714bf568",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/jeremiah\/44\/1-4.1791225936795.json",
+    "prompt-file": ".selah/sources/translations/prompts/ky/jeremiah/44/1-4.1791225936795.json",
     "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -51,7 +51,7 @@
     },
     {
       "surface": "הנביאים",
-      "gloss": "пайгамбарларды"
+      "gloss": "набийлерди"
     },
     {
       "surface": "השכים",
@@ -104,5 +104,12 @@
     }
   ],
   "timestamp": "2026-10-05T18:45:36.797801304Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "пайгамбарларды": "набийлерди"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

@@ -22,11 +22,11 @@
       "rationale": "Аят башка жазма булактарды көрсөтүп, жазылган иштерди санайт"
     }
   ],
-  "translation": "Жана Хизкиянын калган иштери жана анын хеседтери — алар мына, Яшайа пайгамбардын, Амоцтун уулунун көрүнүшүндө, Йехуда менен Йисраэлдин падышаларынын китебинде жазылган.",
+  "translation": "Жана Хизкиянын калган иштери жана анын хеседтери — алар мына, Яшайа набийдин, Амоцтун уулунун көрүнүшүндө, Йехуда менен Йисраэлдин падышаларынын китебинде жазылган.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
     "user-sha256": "aa4d5996cae89e0f680443f420cda89f8c749f9dcd33f8a3fd9caca2afc4f9bb",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-chronicles\/32\/32-32.1791227552807.json",
+    "prompt-file": ".selah/sources/translations/prompts/ky/2-chronicles/32/32-32.1791227552807.json",
     "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -75,7 +75,7 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "пайгамбар"
+      "gloss": "набий"
     },
     {
       "surface": "על",
@@ -99,5 +99,13 @@
     }
   ],
   "timestamp": "2026-10-05T19:12:32.808013274Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "пайгамбардын": "набийдин",
+      "пайгамбар": "набий"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

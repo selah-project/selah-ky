@@ -8,7 +8,7 @@
   "notes": [
     {
       "kind": "wordplay",
-      "subject": "הוה על הוה \/ שמועה אל שמועה",
+      "subject": "הוה על הוה / שמועה אל שמועה",
       "rationale": "Үндөштүктүн кайталоосу — бирдей сөздөрдүн эки жолу айтылышы; кыргызча кайталоо менен берилди"
     },
     {
@@ -17,11 +17,11 @@
       "rationale": "תורה 'мыйзам' эмес, ысмы катары Тора деп сакталды"
     }
   ],
-  "translation": "Оордук үстүнө оордук келет, жана кабар үстүнө кабар болот; пайгамбардан көрүнүм издешет, бирок Тора ыйык кызматкерден жок болот, ал эми кеңеш карылардан.",
+  "translation": "Оордук үстүнө оордук келет, жана кабар үстүнө кабар болот; набийден көрүнүм издешет, бирок Тора ыйык кызматкерден жок болот, ал эми кеңеш карылардан.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
     "user-sha256": "94b0ad6fa84cccabf860a9bc81da2ec2a5ef58c470ad13f3a7b0f4d1a00261a3",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ezekiel\/7\/26-27.1791224198829.json",
+    "prompt-file": ".selah/sources/translations/prompts/ky/ezekiel/7/26-27.1791224198829.json",
     "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -70,7 +70,7 @@
     },
     {
       "surface": "מנביא",
-      "gloss": "пайгамбардан"
+      "gloss": "набийден"
     },
     {
       "surface": "ותורה",
@@ -94,5 +94,12 @@
     }
   ],
   "timestamp": "2026-10-05T18:16:38.829647566Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "пайгамбардан": "набийден"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

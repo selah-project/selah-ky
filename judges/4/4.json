@@ -17,11 +17,11 @@
       "rationale": "эшет Лаппидот — көпчүлүк 'Лаппидоттун аялы' десе, 'шамдардын аялы' (жарык аял булагы) деп да окулат"
     }
   ],
-  "translation": "Дебора — аял пайгамбар, Лаппидоттун аялы — ал ошол убакта Йисраэлди ⟨את⟩ соттоду.",
+  "translation": "Дебора — аял набий, Лаппидоттун аялы — ал ошол убакта Йисраэлди ⟨את⟩ соттоду.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
     "user-sha256": "0857687e4fafd5a3b3faefc6e9749ad447dade816daa5d4799ecc8f56f860610",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/judges\/4\/1-4.1791206138683.json",
+    "prompt-file": ".selah/sources/translations/prompts/ky/judges/4/1-4.1791206138683.json",
     "code": "f71bac6e-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "נביאה",
-      "gloss": "пайгамбар"
+      "gloss": "набий"
     },
     {
       "surface": "אשת",
@@ -75,5 +75,12 @@
     }
   ],
   "timestamp": "2026-10-05T13:15:38.685019153Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "пайгамбар": "набий"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

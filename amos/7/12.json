@@ -17,11 +17,11 @@
       "rationale": "Амацыйа пайгамбар Амоско түз кайрылат — куугунтуктоо буйругу"
     }
   ],
-  "translation": "Жана Амацыйа Амоско айтты: Көрүүчү, бар, өзүң үчүн Йехуда жерине кач, жана ал жерде нан жеп, ал жерде пайгамбарчылык кыл.",
+  "translation": "Жана Амацыйа Амоско айтты: Көрүүчү, бар, өзүң үчүн Йехуда жерине кач, жана ал жерде нан жеп, ал жерде набийчилик кыл.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
     "user-sha256": "4e3adc4cb892a99e92e14aae3f25f2bad34f077f0b8aaa603b2b1e202237d8f6",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/amos\/7\/12-12.1791226026718.json",
+    "prompt-file": ".selah/sources/translations/prompts/ky/amos/7/12-12.1791226026718.json",
     "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -90,9 +90,16 @@
     },
     {
       "surface": "תנבא",
-      "gloss": "пайгамбарчылык кыл"
+      "gloss": "набийчилик кыл"
     }
   ],
   "timestamp": "2026-10-05T18:47:06.719252403Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "пайгамбарчылык": "набийчилик"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

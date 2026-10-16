@@ -27,11 +27,11 @@
       "rationale": "Көпчүлүк котормолор 'ар бир пайгамбар' деп окуйт; еврейче жекелик форма 'силердин пайгамбарыңар'"
     }
   ],
-  "translation": "Жана ⟨ал⟩ айтты: угкула, сөздөрүмдү; эгер силердин пайгамбарыңар болсо, Яхве ага көрүнүүдө Өзүн таанытат, түштө ага сүйлөйт.",
+  "translation": "Жана ⟨ал⟩ айтты: угкула, сөздөрүмдү; эгер силердин набийиңер болсо, Яхве ага көрүнүүдө Өзүн таанытат, түштө ага сүйлөйт.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
     "user-sha256": "42665a1f311e7f1c50a2f4fe727b73db315f28ad9a6b95959e2b773ca011f25c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/numbers\/12\/5-8.1791203895801.json",
+    "prompt-file": ".selah/sources/translations/prompts/ky/numbers/12/5-8.1791203895801.json",
     "code": "f71bac6e-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -64,7 +64,7 @@
     },
     {
       "surface": "נביאכם",
-      "gloss": "пайгамбарыңар"
+      "gloss": "набийиңер"
     },
     {
       "surface": "יהוה",
@@ -96,5 +96,12 @@
     }
   ],
   "timestamp": "2026-10-05T12:38:15.802509033Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "пайгамбарыңар": "набийиңер"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

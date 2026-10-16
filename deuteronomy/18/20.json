@@ -17,11 +17,11 @@
       "rationale": "אלהים אחרים — башка элдердин кудайлары, кичине тамга менен; Элохимди билдирбейт."
     }
   ],
-  "translation": "Бирок пайгамбар — ким Менин ысымымда сүйлөөгө өзү чечип, Мен ага сүйлө деп буйруган эмес нерселерди ⟨את⟩ сүйлөсө, же башка кудайлардын ысымы менен сүйлөсө — ал пайгамбар өлөт.",
+  "translation": "Бирок набий — ким Менин ысымымда сүйлөөгө өзү чечип, Мен ага сүйлө деп буйруган эмес нерселерди ⟨את⟩ сүйлөсө, же башка кудайлардын ысымы менен сүйлөсө — ал набий өлөт.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
     "user-sha256": "ea37b5a2dd0274d47911c7fb06ab0069180fee3ad75574993775e5a9a84eea15",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/18\/17-20.1791205088988.json",
+    "prompt-file": ".selah/sources/translations/prompts/ky/deuteronomy/18/17-20.1791205088988.json",
     "code": "f71bac6e-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "пайгамбар"
+      "gloss": "набий"
     },
     {
       "surface": "אשר",
@@ -103,7 +103,7 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "пайгамбар"
+      "gloss": "набий"
     },
     {
       "surface": "ההוא",
@@ -111,5 +111,12 @@
     }
   ],
   "timestamp": "2026-10-05T12:58:08.990081009Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "пайгамбар": "набий"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

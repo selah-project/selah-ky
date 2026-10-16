@@ -17,11 +17,11 @@
       "rationale": "«калтыроо» же «чабыттоо (канат каккандай)» — YLT fluttered; экөө тең мүмкүн"
     }
   ],
-  "translation": "Пайгамбарлар жөнүндө: жүрөгүм ичинде сыныды, сөөктөрүмдүн баары калтырады; мас адам сыяктуу, шарап өткөн ⟨баатыр⟩ сыяктуу болдум — Яхвенин жүзүнөн жана анын ыйык сөздөрүнүн жүзүнөн.",
+  "translation": "Набийлер жөнүндө: жүрөгүм ичинде сыныды, сөөктөрүмдүн баары калтырады; мас адам сыяктуу, шарап өткөн ⟨баатыр⟩ сыяктуу болдум — Яхвенин жүзүнөн жана анын ыйык сөздөрүнүн жүзүнөн.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
     "user-sha256": "5baecef3a4577431dff609f2b59f58d1e61d01b99b0d57699f0237daaeda1d12",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/jeremiah\/23\/9-12.1791211270946.json",
+    "prompt-file": ".selah/sources/translations/prompts/ky/jeremiah/23/9-12.1791211270946.json",
     "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -30,7 +30,7 @@
   "tokens": [
     {
       "surface": "לנבאים",
-      "gloss": "пайгамбарлар жөнүндө"
+      "gloss": "набийлер жөнүндө"
     },
     {
       "surface": "נשבר",
@@ -102,5 +102,13 @@
     }
   ],
   "timestamp": "2026-10-05T14:41:10.947373498Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "Пайгамбарлар": "Набийлер",
+      "пайгамбарлар": "набийлер"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

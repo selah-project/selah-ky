@@ -17,11 +17,11 @@
       "rationale": "בוצע — «сындырып алуу, олжолоо»: «ач көз» же «пайда көрүү» деп берилген; туура формасы — «адилетсиз пайда»."
     }
   ],
-  "translation": "Себеби алардын кичинесинен чоңуна чейин баары тескери пайда көрөт, жана пайгамбардан дин кызматкерге чейин баары жалган иштейт.",
+  "translation": "Себеби алардын кичинесинен чоңуна чейин баары тескери пайда көрөт, жана набийден дин кызматкерге чейин баары жалган иштейт.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
     "user-sha256": "c3cd0603c714e7103dc1f4c6d8d4157dea16fbe37e83a626a7a1b94b90ea575f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/jeremiah\/6\/13-16.1791210821230.json",
+    "prompt-file": ".selah/sources/translations/prompts/ky/jeremiah/6/13-16.1791210821230.json",
     "code": "2011bdaa-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "ומנביא",
-      "gloss": "жана пайгамбардан"
+      "gloss": "жана набийден"
     },
     {
       "surface": "ועד",
@@ -82,5 +82,12 @@
     }
   ],
   "timestamp": "2026-10-05T14:33:41.231253738Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "пайгамбардан": "набийден"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

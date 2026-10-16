@@ -17,11 +17,11 @@
       "rationale": "Элохим түшүндө Авимелехке түз кайрылат: буйрук жана коркутуу"
     }
   ],
-  "translation": "Эми бул адамдын аялын кайтар, анткени ал пайгамбар, жана ал сенин үчүңө табынат, жана сен жашайсың; эгер кайтарбасаң, бил: сен өлүп өлөсүң, сен жана сенин баарың.",
+  "translation": "Эми бул адамдын аялын кайтар, анткени ал набий, жана ал сенин үчүңө табынат, жана сен жашайсың; эгер кайтарбасаң, бил: сен өлүп өлөсүң, сен жана сенин баарың.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
     "user-sha256": "afc549d418a96aa771ef8025c9bd73b0e5e8371e6003b755d6644066a9c5a6e3",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/genesis\/20\/5-8.1791201125574.json",
+    "prompt-file": ".selah/sources/translations/prompts/ky/genesis/20/5-8.1791201125574.json",
     "code": "752fd82b-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "נביא",
-      "gloss": "пайгамбар"
+      "gloss": "набий"
     },
     {
       "surface": "הוא",
@@ -114,5 +114,12 @@
     }
   ],
   "timestamp": "2026-10-05T11:52:05.575532446Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "пайгамбар": "набий"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

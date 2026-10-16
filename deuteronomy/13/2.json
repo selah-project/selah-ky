@@ -8,15 +8,15 @@
   "notes": [
     {
       "kind": "wordplay",
-      "subject": "חלם\/חלום",
+      "subject": "חלם/חלום",
       "rationale": "тамыр кайталоо: «түш көрүүчү — түштүн» — кыргызча байлам сакталган"
     }
   ],
-  "translation": "Эгер силердин араңарда пайгамбар же түш көрүүчү турса жана сага белги же керемет берсе,",
+  "translation": "Эгер силердин араңарда набий же түш көрүүчү турса жана сага белги же керемет берсе,",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
     "user-sha256": "542fd8d0522e6009e64564577275be6afd7271017da2e841f66b82c3b01a45e9",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/13\/1-4.1791205046399.json",
+    "prompt-file": ".selah/sources/translations/prompts/ky/deuteronomy/13/1-4.1791205046399.json",
     "code": "f71bac6e-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "נביא",
-      "gloss": "пайгамбар"
+      "gloss": "набий"
     },
     {
       "surface": "או",
@@ -73,5 +73,12 @@
     }
   ],
   "timestamp": "2026-10-05T12:57:26.400721790Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "пайгамбар": "набий"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

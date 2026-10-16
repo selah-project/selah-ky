@@ -9,14 +9,14 @@
     {
       "kind": "substitution",
       "subject": "жүгөн",
-      "rationale": "המוטה дагы — ‘жүк таякчасы\/жүгөн’, 10-аят менен бирдей"
+      "rationale": "המוטה дагы — ‘жүк таякчасы/жүгөн’, 10-аят менен бирдей"
     }
   ],
-  "translation": "Жана пайгамбар Йирмиянын моюнунан Ханания пайгамбар ⟨את⟩ жүгөндү сындыргандан кийин, Яхвенин сөзү Йирмияга ⟨пайгамбарга⟩ айтылды:",
+  "translation": "Жана набий Йирмиянын моюнунан Ханания набий ⟨את⟩ жүгөндү сындыргандан кийин, Яхвенин сөзү Йирмияга ⟨набийге⟩ айтылды:",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
     "user-sha256": "cc92d4f8c11316879be70ab7196a06c9f684551270e3c52148a27d0b6ca40e32",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/jeremiah\/28\/9-12.1791211353353.json",
+    "prompt-file": ".selah/sources/translations/prompts/ky/jeremiah/28/9-12.1791211353353.json",
     "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "пайгамбар"
+      "gloss": "набий"
     },
     {
       "surface": "את",
@@ -82,7 +82,7 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "пайгамбар"
+      "gloss": "набий"
     },
     {
       "surface": "לאמר",
@@ -90,5 +90,13 @@
     }
   ],
   "timestamp": "2026-10-05T14:42:33.355323521Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "пайгамбар": "набий",
+      "пайгамбарга": "набийге"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

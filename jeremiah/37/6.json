@@ -12,11 +12,11 @@
       "rationale": "'Жана болду' — кыргызча түз сүйлөм үчүн 'келди' этишине кошулду"
     }
   ],
-  "translation": "Жана Яхвенин сөзү пайгамбар Йирмейахуга мындай деп келди:",
+  "translation": "Жана Яхвенин сөзү набий Йирмейахуга мындай деп келди:",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
     "user-sha256": "2f7b31a09fd8b400ed6a68ae6ca127a2e7f6dc87d28e45734f4b19d3ed30a71b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/jeremiah\/37\/5-8.1791211597405.json",
+    "prompt-file": ".selah/sources/translations/prompts/ky/jeremiah/37/5-8.1791211597405.json",
     "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "пайгамбар"
+      "gloss": "набий"
     },
     {
       "surface": "לאמר",
@@ -53,5 +53,12 @@
     }
   ],
   "timestamp": "2026-10-05T14:46:37.406533227Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "пайгамбар": "набий"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

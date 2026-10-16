@@ -14,14 +14,14 @@
     {
       "kind": "elision",
       "subject": "אל",
-      "rationale": "баштапкы אל «жөнүндө\/карай» кыргызча багыт дателге камтылган"
+      "rationale": "баштапкы אל «жөнүндө/карай» кыргызча багыт дателге камтылган"
     }
   ],
-  "translation": "Жана төрөлөр жана бүт эл ыйык кызмат кылуучуларга жана пайгамбарларга айтты: бул адамга өлүм өкүмү жок, анткени ал бизге Яхве Элохимибиздин ысымы менен сүйлөдү.",
+  "translation": "Жана төрөлөр жана бүт эл ыйык кызмат кылуучуларга жана набийлерге айтты: бул адамга өлүм өкүмү жок, анткени ал бизге Яхве Элохимибиздин ысымы менен сүйлөдү.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
     "user-sha256": "4a08fd985e6397ec078012d56fa4fee6a65c1f4221a8757421a29028fb97bfac",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/jeremiah\/26\/13-16.1791211329744.json",
+    "prompt-file": ".selah/sources/translations/prompts/ky/jeremiah/26/13-16.1791211329744.json",
     "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "הנביאים",
-      "gloss": "пайгамбарларга"
+      "gloss": "набийлерге"
     },
     {
       "surface": "אין",
@@ -106,5 +106,12 @@
     }
   ],
   "timestamp": "2026-10-05T14:42:09.745436625Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "пайгамбарларга": "набийлерге"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

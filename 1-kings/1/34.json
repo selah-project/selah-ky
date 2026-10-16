@@ -17,11 +17,11 @@
       "rationale": "Жашасын падыша — тактыны ээлөөнү жарыялоочу салтанаттуу кыйкырык, кыргызча 'Жашасын' формасы менен берилди."
     }
   ],
-  "translation": "Жана аны ошол жерде падыша кылып майлашсын Цадок ыйкым жана Натан пайгамбар Йисраэлдин үстүнөн ⟨את⟩, жана шер чергиле, жана айткыла: Жашасын падыша Шломо!",
+  "translation": "Жана аны ошол жерде падыша кылып майлашсын Цадок ыйкым жана Натан набий Йисраэлдин үстүнөн ⟨את⟩, жана шер чергиле, жана айткыла: Жашасын падыша Шломо!",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
     "user-sha256": "2789c05c5fb2b46ab7d9e7a84c3b8ed7459663cbdfcbaf1e5e81624f59fcb3af",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-kings\/1\/33-36.1791207969248.json",
+    "prompt-file": ".selah/sources/translations/prompts/ky/1-kings/1/33-36.1791207969248.json",
     "code": "641241cf-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "пайгамбар"
+      "gloss": "набий"
     },
     {
       "surface": "למלך",
@@ -94,5 +94,12 @@
     }
   ],
   "timestamp": "2026-10-05T13:46:09.249423384Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "пайгамбар": "набий"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

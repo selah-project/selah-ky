@@ -17,11 +17,11 @@
       "rationale": "«шма» чакырыгы, угуу буйругу"
     }
   ],
-  "translation": "Сен, адам уулу, Йисраэл тоолоруна пайгамбарлык кыл жана айт: Йисраэл тоолору, Яхвенин сөзүн угкула!",
+  "translation": "Сен, адам уулу, Йисраэл тоолоруна набийлик кыл жана айт: Йисраэл тоолору, Яхвенин сөзүн угкула!",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
     "user-sha256": "d7521be3734bce44cc943aff84fdf099889edcd7325a195081d14feb5edf6aa5",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ezekiel\/36\/1-4.1791213389806.json",
+    "prompt-file": ".selah/sources/translations/prompts/ky/ezekiel/36/1-4.1791213389806.json",
     "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "הנבא",
-      "gloss": "пайгамбарлык кыл"
+      "gloss": "набийлик кыл"
     },
     {
       "surface": "אל",
@@ -82,5 +82,12 @@
     }
   ],
   "timestamp": "2026-10-05T15:16:29.806733329Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "пайгамбарлык": "набийлик"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

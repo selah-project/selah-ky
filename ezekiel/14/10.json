@@ -12,11 +12,11 @@
       "rationale": "«Күнөө» деген сөз үч жолу кайталанат — чынжырлуу ыргак, кыргызчада да сакталды."
     }
   ],
-  "translation": "Алар карызын өздөрү көтөрүшөт: сураачынын күнөөсүндөй, пайгамбардын күнөөсү ошондой болот.",
+  "translation": "Алар карызын өздөрү көтөрүшөт: сураачынын күнөөсүндөй, набийдин күнөөсү ошондой болот.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
     "user-sha256": "97553dda928ede6ede1496b76d6c9937eb7afded6a40280680f649690562a52f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ezekiel\/14\/9-12.1791212388893.json",
+    "prompt-file": ".selah/sources/translations/prompts/ky/ezekiel/14/9-12.1791212388893.json",
     "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "пайгамбардын"
+      "gloss": "набийдин"
     },
     {
       "surface": "יהיה",
@@ -53,5 +53,12 @@
     }
   ],
   "timestamp": "2026-10-05T14:59:48.894208610Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "пайгамбардын": "набийдин"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

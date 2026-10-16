@@ -17,11 +17,11 @@
       "rationale": "Йирмейа пайгамбар Хананияга кайрылат"
     }
   ],
-  "translation": "Пайгамбар Йирмейа пайгамбар Хананияга ыйык кызмат кылуучулардын жана Яхвенин үйүндө турган бүт элдин көз алдында айтты:",
+  "translation": "Набий Йирмейа набий Хананияга ыйык кызмат кылуучулардын жана Яхвенин үйүндө турган бүт элдин көз алдында айтты:",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
     "user-sha256": "10ce65feeb51422e51b7f8cc1c46b8c4030137e7ef1b240ef54707ca6ed6b6d6",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/jeremiah\/28\/5-8.1791211415316.json",
+    "prompt-file": ".selah/sources/translations/prompts/ky/jeremiah/28/5-8.1791211415316.json",
     "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "пайгамбар"
+      "gloss": "набий"
     },
     {
       "surface": "אל",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "пайгамбар"
+      "gloss": "набий"
     },
     {
       "surface": "לעיני",
@@ -86,5 +86,13 @@
     }
   ],
   "timestamp": "2026-10-05T14:43:35.316762946Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "Пайгамбар": "Набий",
+      "пайгамбар": "набий"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

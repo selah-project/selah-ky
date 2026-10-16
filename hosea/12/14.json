@@ -17,11 +17,11 @@
       "rationale": "העלה — жогору алып чыгуу, 'көтөрүү, чыгаруу' сүрөтү жоголду"
     }
   ],
-  "translation": "Жана пайгамбар аркылуу Яхве ⟨את⟩ Йисраэлди Мицрайимден алып чыкты, жана пайгамбар аркылуу ⟨ал⟩ сакталды.",
+  "translation": "Жана набий аркылуу Яхве ⟨את⟩ Йисраэлди Мицрайимден алып чыкты, жана набий аркылуу ⟨ал⟩ сакталды.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
     "user-sha256": "46b4d4b6dc765202222b342c48e87a245e42046b168da7cd2e16064f8115b9b3",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/hosea\/12\/13-15.1791213937615.json",
+    "prompt-file": ".selah/sources/translations/prompts/ky/hosea/12/13-15.1791213937615.json",
     "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -30,7 +30,7 @@
   "tokens": [
     {
       "surface": "ובנביא",
-      "gloss": "пайгамбар аркылуу"
+      "gloss": "набий аркылуу"
     },
     {
       "surface": "העלה",
@@ -55,7 +55,7 @@
     },
     {
       "surface": "ובנביא",
-      "gloss": "жана пайгамбар аркылуу"
+      "gloss": "жана набий аркылуу"
     },
     {
       "surface": "נשמר",
@@ -63,5 +63,12 @@
     }
   ],
   "timestamp": "2026-10-05T15:25:37.616371723Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "пайгамбар": "набий"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

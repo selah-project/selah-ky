@@ -22,11 +22,11 @@
       "rationale": "аят Яхвенин буйругу катары пайгамбарга тике кайрылат"
     }
   ],
-  "translation": "Жана бул эл, же пайгамбар, же ымыр сенден: «Яхвенин жүгү эмне?» — деп сураганда, аларга: «Жүк эмне! Силер ⟨болсоңор⟩ — ⟨ошол⟩ жүк, жана Мен ⟨את⟩ силерди таштап кетем», — деп айтасың, Яхвенин сөзү.",
+  "translation": "Жана бул эл, же набий, же ымыр сенден: «Яхвенин жүгү эмне?» — деп сураганда, аларга: «Жүк эмне! Силер ⟨болсоңор⟩ — ⟨ошол⟩ жүк, жана Мен ⟨את⟩ силерди таштап кетем», — деп айтасың, Яхвенин сөзү.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
     "user-sha256": "a915f4b6e5afde58a37296a4c03e03de309defa0cf2ad0b04d7a8ad13f2375fa",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/jeremiah\/23\/33-36.1791211257331.json",
+    "prompt-file": ".selah/sources/translations/prompts/ky/jeremiah/23/33-36.1791211257331.json",
     "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -55,7 +55,7 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "пайгамбар"
+      "gloss": "набий"
     },
     {
       "surface": "או",
@@ -120,5 +120,12 @@
     }
   ],
   "timestamp": "2026-10-05T14:40:57.332523376Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "пайгамбар": "набий"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

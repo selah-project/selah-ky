@@ -12,11 +12,11 @@
       "rationale": "עברים מלאך — 'элчи' да болот; бул жерде Кудайдын элчиси катары 'периште' алынды"
     }
   ],
-  "translation": "Жана алар столдо отурганда, Яхвенин сөзү аны кайтарган пайгамбарга келди.",
+  "translation": "Жана алар столдо отурганда, Яхвенин сөзү аны кайтарган набийге келди.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
     "user-sha256": "db82c1816ef2ec591a38ccc960d4ddc51df2bac377b3474aa1e4821103110ef8",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-kings\/13\/17-20.1791208323539.json",
+    "prompt-file": ".selah/sources/translations/prompts/ky/1-kings/13/17-20.1791208323539.json",
     "code": "641241cf-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "пайгамбар"
+      "gloss": "набий"
     },
     {
       "surface": "אשר",
@@ -73,5 +73,13 @@
     }
   ],
   "timestamp": "2026-10-05T13:52:03.540931443Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "пайгамбарга": "набийге",
+      "пайгамбар": "набий"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

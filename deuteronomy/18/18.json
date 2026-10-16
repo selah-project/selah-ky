@@ -17,11 +17,11 @@
       "rationale": "Яхве Мошеге түз кайрылат."
     }
   ],
-  "translation": "Аларга алардын бир туугандарынын ичинен, сага окшогон пайгамбарды тургузамын, жана Менин сөздөрүмдү анын оозуна коёмун, жана Мен аны буйруган нерселердин баарысын ⟨את⟩ аларга айтат.",
+  "translation": "Аларга алардын бир туугандарынын ичинен, сага окшогон набийди тургузамын, жана Менин сөздөрүмдү анын оозуна коёмун, жана Мен аны буйруган нерселердин баарысын ⟨את⟩ аларга айтат.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
     "user-sha256": "ea37b5a2dd0274d47911c7fb06ab0069180fee3ad75574993775e5a9a84eea15",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/18\/17-20.1791205088988.json",
+    "prompt-file": ".selah/sources/translations/prompts/ky/deuteronomy/18/17-20.1791205088988.json",
     "code": "f71bac6e-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -30,7 +30,7 @@
   "tokens": [
     {
       "surface": "נביא",
-      "gloss": "пайгамбарды"
+      "gloss": "набийди"
     },
     {
       "surface": "אקים",
@@ -91,5 +91,12 @@
     }
   ],
   "timestamp": "2026-10-05T12:58:08.989740715Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "пайгамбарды": "набийди"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

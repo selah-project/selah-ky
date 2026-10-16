@@ -17,11 +17,11 @@
       "rationale": "Этиш эки жолу кайталанат — буйруктун күчү, кыргызча да сакталды."
     }
   ],
-  "translation": "Ошондуктан аларга пайгамбарлык кыл, пайгамбарлык кыл, адам баласы!",
+  "translation": "Ошондуктан аларга набийлик кыл, набийлик кыл, адам баласы!",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
     "user-sha256": "519c33d5a2fc9ad3e49813bee7f46ff0b040b8ee6ad869621c56c8255613ef6d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ezekiel\/11\/1-4.1791212300663.json",
+    "prompt-file": ".selah/sources/translations/prompts/ky/ezekiel/11/1-4.1791212300663.json",
     "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "הנבא",
-      "gloss": "пайгамбарлык кыл"
+      "gloss": "набийлик кыл"
     },
     {
       "surface": "עליהם",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "הנבא",
-      "gloss": "пайгамбарлык кыл"
+      "gloss": "набийлик кыл"
     },
     {
       "surface": "בן",
@@ -54,5 +54,12 @@
     }
   ],
   "timestamp": "2026-10-05T14:58:20.664413979Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "пайгамбарлык": "набийлик"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

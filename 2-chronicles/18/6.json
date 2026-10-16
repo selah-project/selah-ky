@@ -12,11 +12,11 @@
       "rationale": "Йисраэлдин падышасына тикелей кайрылуу — Яхвенин пайгамбары барбы деген суроо."
     }
   ],
-  "translation": "Йеошафат айтты: Мында Яхвенин дагы бир пайгамбары жок беле — ⟨את⟩ андан сурайбыз?",
+  "translation": "Йеошафат айтты: Мында Яхвенин дагы бир набийи жок беле — ⟨את⟩ андан сурайбыз?",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
     "user-sha256": "0e31a89b7cd91413293d6c17f6809bf35ddc5b185f21755572f58e9541682a7a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-chronicles\/18\/5-8.1791222973878.json",
+    "prompt-file": ".selah/sources/translations/prompts/ky/2-chronicles/18/5-8.1791222973878.json",
     "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "נביא",
-      "gloss": "пайгамбары"
+      "gloss": "набийи"
     },
     {
       "surface": "ליהוה",
@@ -62,5 +62,12 @@
     }
   ],
   "timestamp": "2026-10-05T17:56:13.879271813Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "пайгамбары": "набийи"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

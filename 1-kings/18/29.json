@@ -17,11 +17,11 @@
       "rationale": "үч жолу кайталанган 'жок' — үч иретку күбөлөндүрүү стили, кыргызча ритми андай деле сезилбейт"
     }
   ],
-  "translation": "Жана түш оогондон кийин алар минха чыкканга чейин пайгамбарлык кылышты, бирок үн жок, жооп берген жок, көңүл бурган жок.",
+  "translation": "Жана түш оогондон кийин алар минха чыкканга чейин набийлик кылышты, бирок үн жок, жооп берген жок, көңүл бурган жок.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
     "user-sha256": "c0b03cddd8893bba021619887d6c3e8cbfc9c10cca53549386b23d05113ae0ff",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-kings\/18\/29-32.1791208520568.json",
+    "prompt-file": ".selah/sources/translations/prompts/ky/1-kings/18/29-32.1791208520568.json",
     "code": "641241cf-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "ויתנבאו",
-      "gloss": "пайгамбарлык кылышты"
+      "gloss": "набийлик кылышты"
     },
     {
       "surface": "עד",
@@ -82,5 +82,12 @@
     }
   ],
   "timestamp": "2026-10-05T13:55:20.568753242Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "пайгамбарлык": "набийлик"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

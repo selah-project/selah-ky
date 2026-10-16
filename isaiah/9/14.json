@@ -14,15 +14,15 @@
     },
     {
       "kind": "substitution",
-      "subject": "הוא הראש \/ הוא הזנב",
+      "subject": "הוא הראש / הוא הזנב",
       "rationale": "еврейче 'ал — баш', 'ал — куйрук' деген аныктоо, кыргызча структурасы бир аз өзгөртүлдү"
     }
   ],
-  "translation": "Кары жана жүзү көтөрүлгөн ⟨бул⟩ баш, ал эми жалган үйрөткөн пайгамбар — куйрук.",
+  "translation": "Кары жана жүзү көтөрүлгөн ⟨бул⟩ баш, ал эми жалган үйрөткөн набий — куйрук.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
     "user-sha256": "42ca7d0bca494e704e552907524bdd4fd1cd418ef68f4569c31a7e8e373fbe14",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/9\/13-16.1791209581718.json",
+    "prompt-file": ".selah/sources/translations/prompts/ky/isaiah/9/13-16.1791209581718.json",
     "code": "2011bdaa-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -51,7 +51,7 @@
     },
     {
       "surface": "ונביא",
-      "gloss": "жана пайгамбар"
+      "gloss": "жана набий"
     },
     {
       "surface": "מורה",
@@ -71,5 +71,12 @@
     }
   ],
   "timestamp": "2026-10-05T14:13:01.719664303Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "пайгамбар": "набий"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

@@ -17,11 +17,11 @@
       "rationale": "падыша Йирмейахуга жашырын кайрылуу"
     }
   ],
-  "translation": "Жана Цидкийаху падыша жиберди да, Йирмейаху пайгамбарды ⟨את⟩ өзүнө Яхвенин үйүндөгү үчүнчү кире беришке алды. Жана падыша Йирмейахуга айтты: Мен сенден бир сөз сурайм, мага эч бир сөздү жашырба.",
+  "translation": "Жана Цидкийаху падыша жиберди да, Йирмейаху набийди ⟨את⟩ өзүнө Яхвенин үйүндөгү үчүнчү кире беришке алды. Жана падыша Йирмейахуга айтты: Мен сенден бир сөз сурайм, мага эч бир сөздү жашырба.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
     "user-sha256": "31d349052df0ebd677b66488c65d1dfcbbfa23515641f1606a31a789823ab5b6",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/jeremiah\/38\/13-16.1791211681536.json",
+    "prompt-file": ".selah/sources/translations/prompts/ky/jeremiah/38/13-16.1791211681536.json",
     "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -55,7 +55,7 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "пайгамбарды"
+      "gloss": "набийди"
     },
     {
       "surface": "אליו",
@@ -136,5 +136,12 @@
     }
   ],
   "timestamp": "2026-10-05T14:48:01.537581117Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "пайгамбарды": "набийди"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

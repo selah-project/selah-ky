@@ -17,11 +17,11 @@
       "rationale": "'Анткени' же 'антса да' (KJV 'because' vs LXX контексттик 'алит'): демилдешүүчү айтым же каршы пикир."
     }
   ],
-  "translation": "Анткени силер айттыңар: Яхве бизге Бабелде пайгамбарларды туура салды.",
+  "translation": "Анткени силер айттыңар: Яхве бизге Бабелде набийлерди туура салды.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
     "user-sha256": "bb66699f3123c2276cbb0268c1eb68fb1cee577dcb6d6287f58632e709aec4ff",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/jeremiah\/29\/14-15.1791224169115.json",
+    "prompt-file": ".selah/sources/translations/prompts/ky/jeremiah/29/14-15.1791224169115.json",
     "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "נבאים",
-      "gloss": "пайгамбарларды"
+      "gloss": "набийлерди"
     },
     {
       "surface": "בבלה",
@@ -58,5 +58,12 @@
     }
   ],
   "timestamp": "2026-10-05T18:16:09.116443437Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "пайгамбарларды": "набийлерди"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

@@ -12,11 +12,11 @@
       "rationale": "«Сөөк сөөккө» — еврей тилиндеги кайталоо окшоштук, кыргызча да сакталды."
     }
   ],
-  "translation": "Жана мага буйрулгандай пайгамбарлык кылдым, жана пайгамбарлык кылганымда добуш болду, жана мына, кыймыл, жана сөөктөр жакындашты, сөөк сөөккө.",
+  "translation": "Жана мага буйрулгандай набийлик кылдым, жана набийлик кылганымда добуш болду, жана мына, кыймыл, жана сөөктөр жакындашты, сөөк сөөккө.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
     "user-sha256": "e6a313541929b181b1c3d67babc9d5f304031c945bf25cb8296c59a2368c9ab7",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ezekiel\/37\/5-8.1791213304708.json",
+    "prompt-file": ".selah/sources/translations/prompts/ky/ezekiel/37/5-8.1791213304708.json",
     "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -25,7 +25,7 @@
   "tokens": [
     {
       "surface": "ונבאתי",
-      "gloss": "Жана … пайгамбарлык кылдым"
+      "gloss": "Жана … набийлик кылдым"
     },
     {
       "surface": "כאשר",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "כהנבאי",
-      "gloss": "пайгамбарлык кылганымда"
+      "gloss": "набийлик кылганымда"
     },
     {
       "surface": "והנה",
@@ -77,5 +77,12 @@
     }
   ],
   "timestamp": "2026-10-05T15:15:04.709146343Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "пайгамбарлык": "набийлик"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

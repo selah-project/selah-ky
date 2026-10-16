@@ -17,11 +17,11 @@
       "rationale": "השפכים — 'кыйып төгүүчүлөр'; кыргызча 'кан төккөн' даяр сөз айкашына дал келет"
     }
   ],
-  "translation": "Анын пайгамбарларынын күнөөлөрү үчүн, анын ыйык кызмат кылуучуларынын каралангандыктары үчүн — алар анын ичинде адилдердин канын төккөн.",
+  "translation": "Анын набийлеринин күнөөлөрү үчүн, анын ыйык кызмат кылуучуларынын каралангандыктары үчүн — алар анын ичинде адилдердин канын төккөн.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
     "user-sha256": "ab32ce1abd149857372b38a3d167fbe304bf9d3bc5538651ef4f88b315babfee",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/lamentations\/4\/13-13.1791226277097.json",
+    "prompt-file": ".selah/sources/translations/prompts/ky/lamentations/4/13-13.1791226277097.json",
     "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "נביאיה",
-      "gloss": "анын пайгамбарларынын"
+      "gloss": "анын набийлеринин"
     },
     {
       "surface": "עונות",
@@ -62,5 +62,12 @@
     }
   ],
   "timestamp": "2026-10-05T18:51:17.097546008Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "пайгамбарларынын": "набийлеринин"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

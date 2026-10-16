@@ -17,11 +17,11 @@
       "rationale": "Яхве пайгамбар Мошені直接 түздөн-түз кайрылат"
     }
   ],
-  "translation": "Адам уулу, жүзүңдү Аммон уулдарына бур да, аларга пайгамбарлык кыл.",
+  "translation": "Адам уулу, жүзүңдү Аммон уулдарына бур да, аларга набийлик кыл.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
     "user-sha256": "975a239bc9b31b7e9ad2f28dde802c60275cd36c789240e2c0ce68e82a91267c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ezekiel\/25\/1-4.1791212866970.json",
+    "prompt-file": ".selah/sources/translations/prompts/ky/ezekiel/25/1-4.1791212866970.json",
     "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "והנבא",
-      "gloss": "жана пайгамбарлык кыл"
+      "gloss": "жана набийлик кыл"
     },
     {
       "surface": "עליהם",
@@ -66,5 +66,12 @@
     }
   ],
   "timestamp": "2026-10-05T15:07:46.971220850Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "пайгамбарлык": "набийлик"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

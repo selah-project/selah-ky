@@ -9,7 +9,7 @@
     {
       "kind": "crux",
       "subject": "האפר",
-      "rationale": "KJV 'ashes' vs ASV\/JPS 'headband' — көз үстүнөн алынган оромал (байланган жоолук), чаң эмес."
+      "rationale": "KJV 'ashes' vs ASV/JPS 'headband' — көз үстүнөн алынган оромал (байланган жоолук), чаң эмес."
     },
     {
       "kind": "elision",
@@ -17,11 +17,11 @@
       "rationale": "Кыргызча айрым объект маркери жок, ⟨את⟩ гана сакталды."
     }
   ],
-  "translation": "Ал шапылдап көзүнөн ⟨את⟩ оромалды алып таштады, жана Йисраэлдин падышасы ⟨את⟩ аны тааныды — пайгамбарлардан экен.",
+  "translation": "Ал шапылдап көзүнөн ⟨את⟩ оромалды алып таштады, жана Йисраэлдин падышасы ⟨את⟩ аны тааныды — набийлерден экен.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
     "user-sha256": "52dcaee654f511a8f2f1b6f18da77b8427784ef7f9be69612fadaea615fccfb2",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-kings\/20\/41-43.1791208472590.json",
+    "prompt-file": ".selah/sources/translations/prompts/ky/1-kings/20/41-43.1791208472590.json",
     "code": "641241cf-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -76,7 +76,7 @@
     },
     {
       "surface": "מהנבאים",
-      "gloss": "пайгамбарлардан"
+      "gloss": "набийлерден"
     },
     {
       "surface": "הוא",
@@ -84,5 +84,12 @@
     }
   ],
   "timestamp": "2026-10-05T13:54:32.590805068Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "пайгамбарлардан": "набийлерден"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

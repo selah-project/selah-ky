@@ -17,11 +17,11 @@
       "rationale": "«Жалган айтуу үчүн»: алар алдоо максатында жүн кийишпейт — же «алдап жатканда» деген мааниде"
     }
   ],
-  "translation": "Жана ошол күндө пайгамбарлар ар бири пайгамбарлык кылганда өз көрүнүшүнөн уялат; алар жалган айтуу үчүн жүндөн чапан кийишпейт.",
+  "translation": "Жана ошол күндө набийлер ар бири набийлик кылганда өз көрүнүшүнөн уялат; алар жалган айтуу үчүн жүндөн чапан кийишпейт.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
     "user-sha256": "3f0db83f2219f506ca116efd0b64c16403400addc6d05b0f2ae077e611212630",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/zechariah\/13\/1-4.1791215185069.json",
+    "prompt-file": ".selah/sources/translations/prompts/ky/zechariah/13/1-4.1791215185069.json",
     "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "הנביאים",
-      "gloss": "пайгамбарлар"
+      "gloss": "набийлер"
     },
     {
       "surface": "איש",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "בהנבאתו",
-      "gloss": "пайгамбарлык кылганда"
+      "gloss": "набийлик кылганда"
     },
     {
       "surface": "ולא",
@@ -86,5 +86,13 @@
     }
   ],
   "timestamp": "2026-10-05T15:46:25.071274739Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "пайгамбарлар": "набийлер",
+      "пайгамбарлык": "набийлик"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

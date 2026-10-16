@@ -12,11 +12,11 @@
       "rationale": "Неемиянын Элохимге багытталган тикелей сүйлөмү"
     }
   ],
-  "translation": "Менин Элохимим, эстеп кой — Тобия менен Санбалатты бул иштерине жараша, ошондой эле пайгамбар аял Ноадияны жана мени кордотурган калган пайгамбарларды.",
+  "translation": "Менин Элохимим, эстеп кой — Тобия менен Санбалатты бул иштерине жараша, ошондой эле набий аял Ноадияны жана мени кордотурган калган набийлерди.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
     "user-sha256": "696372ad6e254e52ba09cdf63f093f71f5e7dba01bcd2388dbef1aca2dfd219a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/nehemiah\/6\/13-16.1791221384799.json",
+    "prompt-file": ".selah/sources/translations/prompts/ky/nehemiah/6/13-16.1791221384799.json",
     "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "הנביאה",
-      "gloss": "пайгамбар аялды"
+      "gloss": "набий аялды"
     },
     {
       "surface": "וליתר",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "הנביאים",
-      "gloss": "пайгамбарларды"
+      "gloss": "набийлерди"
     },
     {
       "surface": "אשר",
@@ -86,5 +86,13 @@
     }
   ],
   "timestamp": "2026-10-05T17:29:44.800741152Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "пайгамбар": "набий",
+      "пайгамбарларды": "набийлерди"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

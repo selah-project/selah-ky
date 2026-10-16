@@ -14,14 +14,14 @@
     {
       "kind": "crux",
       "subject": "שגיונות",
-      "rationale": "'Адашканлар жөнүндө' (ylt) менен 'Шигйонот аткаруусу боюнча' (KJV\/JPS) деген варианттар бар."
+      "rationale": "'Адашканлар жөнүндө' (ylt) менен 'Шигйонот аткаруусу боюнча' (KJV/JPS) деген варианттар бар."
     }
   ],
-  "translation": "Хаваккук пайгамбардын дубасы, Шигйонот боюнча.",
+  "translation": "Хаваккук набийдин дубасы, Шигйонот боюнча.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
     "user-sha256": "3ace61044838b1df432595ac423b3503c7557acbde4d3fd4dd10e2c4c84f31bd",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/habakkuk\/3\/1-4.1791214801134.json",
+    "prompt-file": ".selah/sources/translations/prompts/ky/habakkuk/3/1-4.1791214801134.json",
     "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "пайгамбар"
+      "gloss": "набий"
     },
     {
       "surface": "על",
@@ -50,5 +50,13 @@
     }
   ],
   "timestamp": "2026-10-05T15:40:01.134886780Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "пайгамбардын": "набийдин",
+      "пайгамбар": "набий"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

@@ -17,11 +17,11 @@
       "rationale": "שמע — жөн ук эмес, угуп моюн сунуу; кыргызча «көңүл бурбуу» эки маанини тең кармайт."
     }
   ],
-  "translation": "Жана биз Сенин пайгамбарларың болгон кулдарыңа көңүл бурбадык, алар Сенин атыңда падышаларыбызга, башчыларыбызга, ата-бабаларыбызга жана бүт жер элине сүйлөгөн.",
+  "translation": "Жана биз Сенин набийлериң болгон кулдарыңа көңүл бурбадык, алар Сенин атыңда падышаларыбызга, башчыларыбызга, ата-бабаларыбызга жана бүт жер элине сүйлөгөн.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
     "user-sha256": "0d4f963b01cbdc1342b3d08d2b769465d1fa7decd4d9a1aef64bbb5105a6685b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/daniel\/9\/6-7.1791226353037.json",
+    "prompt-file": ".selah/sources/translations/prompts/ky/daniel/9/6-7.1791226353037.json",
     "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "הנביאים",
-      "gloss": "пайгамбарларың"
+      "gloss": "набийлериң"
     },
     {
       "surface": "אשר",
@@ -94,5 +94,12 @@
     }
   ],
   "timestamp": "2026-10-05T18:52:33.038446104Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "пайгамбарларың": "набийлериң"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

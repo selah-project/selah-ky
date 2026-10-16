@@ -17,11 +17,11 @@
       "rationale": "'Жер боюнча кыдырышты' же 'билбеген жерге кетишти' — эки окуу бар"
     }
   ],
-  "translation": "Эгер талаага чыксам — мына, кылычтан жара болгондор; жана эгер шаарга кирсем — мына, ачарчылыктан оорулуулар; анткени пайгамбар да, ыйык кызмат кылуучу да билбеген жерди кыдырып жүрүштү.",
+  "translation": "Эгер талаага чыксам — мына, кылычтан жара болгондор; жана эгер шаарга кирсем — мына, ачарчылыктан оорулуулар; анткени набий да, ыйык кызмат кылуучу да билбеген жерди кыдырып жүрүштү.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
     "user-sha256": "ca3f5adaef7f95b9cd7d987f636e2e7bf4f7bb183b0d2fce9d04eccecf368a49",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/jeremiah\/14\/17-20.1791211094495.json",
+    "prompt-file": ".selah/sources/translations/prompts/ky/jeremiah/14/17-20.1791211094495.json",
     "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -86,7 +86,7 @@
     },
     {
       "surface": "נביא",
-      "gloss": "пайгамбар"
+      "gloss": "набий"
     },
     {
       "surface": "גם",
@@ -118,5 +118,12 @@
     }
   ],
   "timestamp": "2026-10-05T14:38:14.513852767Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "пайгамбар": "набий"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

@@ -17,11 +17,11 @@
       "rationale": "דברי биринчи жерде 'сөздөр' дегенди билдирет, бирок ודבריו 'сөздөрү' болгондуктан 'иштери' деп берилди."
     }
   ],
-  "translation": "Абийанын калган иштери, жолдору жана сөздөрү пайгамбар Иддонун мидрашында жазылган.",
+  "translation": "Абийанын калган иштери, жолдору жана сөздөрү набий Иддонун мидрашында жазылган.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
     "user-sha256": "7ca13cf73f251460d02be4f2e656a6bd7b95d67e0a15a12dd41fd7200891631f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-chronicles\/13\/21-23.1791222862610.json",
+    "prompt-file": ".selah/sources/translations/prompts/ky/2-chronicles/13/21-23.1791222862610.json",
     "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "пайгамбар"
+      "gloss": "набий"
     },
     {
       "surface": "עדו",
@@ -66,5 +66,12 @@
     }
   ],
   "timestamp": "2026-10-05T17:54:22.610970140Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "пайгамбар": "набий"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

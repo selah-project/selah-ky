@@ -17,11 +17,11 @@
       "rationale": "буйрук менен чакыруу — Санбаллаттын чынында коркутуу максатын жашырган сунушу"
     }
   ],
-  "translation": "Жана тагыраак айтканда, пайгамбарларды өзүң жөнүндө Йерушалайимде: «Яхудада падыша бар», — деп чакыруу үчүн дайындадың. Азыр ушул сөздөр падышага угулуп калат. Эми кел, чогуу кеңешели.",
+  "translation": "Жана тагыраак айтканда, набийлерди өзүң жөнүндө Йерушалайимде: «Яхудада падыша бар», — деп чакыруу үчүн дайындадың. Азыр ушул сөздөр падышага угулуп калат. Эми кел, чогуу кеңешели.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
     "user-sha256": "c8780e09bae0ee6c0db1d0ad13faa942f670dfeef8f3382fdacdb7f7c8294a49",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/nehemiah\/6\/5-8.1791221404504.json",
+    "prompt-file": ".selah/sources/translations/prompts/ky/nehemiah/6/5-8.1791221404504.json",
     "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "נביאים",
-      "gloss": "пайгамбарларды"
+      "gloss": "набийлерди"
     },
     {
       "surface": "העמדת",
@@ -102,5 +102,12 @@
     }
   ],
   "timestamp": "2026-10-05T17:30:04.505138040Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "пайгамбарларды": "набийлерди"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

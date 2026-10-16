@@ -14,7 +14,7 @@
     {
       "kind": "crux",
       "subject": "אשר אתם מחלמים",
-      "rationale": "«силер түш көргөндөрүңөр» — KJV «which ye cause to be dreamed» (полдорий формасы), JPS\/BSB «which you elicit» vs. жөнөкөй окулушы"
+      "rationale": "«силер түш көргөндөрүңөр» — KJV «which ye cause to be dreamed» (полдорий формасы), JPS/BSB «which you elicit» vs. жөнөкөй окулушы"
     },
     {
       "kind": "you",
@@ -22,11 +22,11 @@
       "rationale": "Яхвенин сөзү түздөн-түз калкка багытталган: алдабасын, кулак салбагыла"
     }
   ],
-  "translation": "Анткени Яхве Цебаот, Йисраэлдин Элохими, мындай дейт: Арамаңарды аралаштырбагыла — силердин ичиңердеги пайгамбарларыңар жана төлгөчүлөрүңөр силерди алдабасын; жана түш көргөндөрүңөрдүн түштөрүнө кулак салбагыла.",
+  "translation": "Анткени Яхве Цебаот, Йисраэлдин Элохими, мындай дейт: Арамаңарды аралаштырбагыла — силердин ичиңердеги набийлериңер жана төлгөчүлөрүңөр силерди алдабасын; жана түш көргөндөрүңөрдүн түштөрүнө кулак салбагыла.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
     "user-sha256": "47d36b8146a9281386c2cb189c32eec219047c43e93663c4e878a8ecbadf6e4b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/jeremiah\/29\/8-8.1791227457371.json",
+    "prompt-file": ".selah/sources/translations/prompts/ky/jeremiah/29/8-8.1791227457371.json",
     "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -75,7 +75,7 @@
     },
     {
       "surface": "נביאיכם",
-      "gloss": "пайгамбарларыңар"
+      "gloss": "набийлериңер"
     },
     {
       "surface": "אשר",
@@ -119,5 +119,12 @@
     }
   ],
   "timestamp": "2026-10-05T19:10:57.372530388Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "пайгамбарларыңар": "набийлериңер"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

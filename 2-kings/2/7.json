@@ -17,11 +17,11 @@
       "rationale": "Пайгамбарлардын уулдарынын саны эсепке алынат."
     }
   ],
-  "translation": "Жана пайгамбарлардын уулдарынан элүү киши барып, алыстан каршы жакта турушту; алар экөө Жардандын жээгинде турушту.",
+  "translation": "Жана набийлердин уулдарынан элүү киши барып, алыстан каршы жакта турушту; алар экөө Жардандын жээгинде турушту.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
     "user-sha256": "88f0fe0068bb156ab1f7f708bd0d8bec9551f84262d36e9c3e2e7d79489100e8",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-kings\/2\/5-8.1791208664176.json",
+    "prompt-file": ".selah/sources/translations/prompts/ky/2-kings/2/5-8.1791208664176.json",
     "code": "641241cf-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "הנביאים",
-      "gloss": "пайгамбарлардын"
+      "gloss": "набийлердин"
     },
     {
       "surface": "הלכו",
@@ -78,5 +78,12 @@
     }
   ],
   "timestamp": "2026-10-05T13:57:44.178137343Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "пайгамбарлардын": "набийлердин"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

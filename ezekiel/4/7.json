@@ -17,11 +17,11 @@
       "rationale": "מצור курчоочу аскердин дөбөсүн жана курчоону эле түшүндүрөт — биз «курчоо» дедик."
     }
   ],
-  "translation": "Жана Йерушалайимдин курчоосуна бетүңдү багып, колуң жызылган абалда анын үстүнө пайгамбарлык кыласың.",
+  "translation": "Жана Йерушалайимдин курчоосуна бетүңдү багып, колуң жызылган абалда анын үстүнө набийлик кыласың.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
     "user-sha256": "5b3e78c809d6b2e885eac2adc32807b6346dc0be1971def5e47b633dd3158197",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/ezekiel\/4\/5-8.1791212179632.json",
+    "prompt-file": ".selah/sources/translations/prompts/ky/ezekiel/4/5-8.1791212179632.json",
     "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "ונבאת",
-      "gloss": "жана пайгамбарлык кыласың"
+      "gloss": "жана набийлик кыласың"
     },
     {
       "surface": "עליה",
@@ -66,5 +66,12 @@
     }
   ],
   "timestamp": "2026-10-05T14:56:19.633888620Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "пайгамбарлык": "набийлик"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

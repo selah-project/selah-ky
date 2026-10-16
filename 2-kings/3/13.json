@@ -22,11 +22,11 @@
       "rationale": "Elisha directly addresses the king of Israel, dismissing him before the king relays his reply"
     }
   ],
-  "translation": "Жана Элиша Йисраэл падышасына айтты: Мага да, сага да эмне тиеше бар? Атаңдын пайгамбарларына жана энеңдин пайгамбарларына бар. Жана Йисраэл падышасы ага айтты: Жок, анткени Яхве ушул үч падышаны чакырды ⟨את⟩ аларды Моавдын колуна берүү үчүн.",
+  "translation": "Жана Элиша Йисраэл падышасына айтты: Мага да, сага да эмне тиеше бар? Атаңдын набийлерине жана энеңдин набийлерине бар. Жана Йисраэл падышасы ага айтты: Жок, анткени Яхве ушул үч падышаны чакырды ⟨את⟩ аларды Моавдын колуна берүү үчүн.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
     "user-sha256": "cf90ab17cd37c57ec05d100bd1362c46d79825c77a778dc8d3d242b0b96fd079",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-kings\/3\/13-14.1791224064894.json",
+    "prompt-file": ".selah/sources/translations/prompts/ky/2-kings/3/13-14.1791224064894.json",
     "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -75,7 +75,7 @@
     },
     {
       "surface": "נביאי",
-      "gloss": "пайгамбарларына"
+      "gloss": "набийлерине"
     },
     {
       "surface": "אביך",
@@ -87,7 +87,7 @@
     },
     {
       "surface": "נביאי",
-      "gloss": "пайгамбарларына"
+      "gloss": "набийлерине"
     },
     {
       "surface": "אמך",
@@ -156,5 +156,12 @@
     }
   ],
   "timestamp": "2026-10-05T18:14:24.895674934Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "пайгамбарларына": "набийлерине"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

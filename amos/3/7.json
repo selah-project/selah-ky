@@ -17,11 +17,11 @@
       "rationale": "Тыюу маанисин күчөтүү үчүн кошулду"
     }
   ],
-  "translation": "Анткени Адонай Яхве ⟨эч⟩ сөз жасабайт, өзүнүн жашыруун кеңешин кулдарына — пайгамбарларга ачпаса.",
+  "translation": "Анткени Адонай Яхве ⟨эч⟩ сөз жасабайт, өзүнүн жашыруун кеңешин кулдарына — набийлерге ачпаса.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
     "user-sha256": "5278dad65ec42f62a4820413957b847f57262566b203969b2f96c46f03918c2b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/amos\/3\/5-8.1791214210736.json",
+    "prompt-file": ".selah/sources/translations/prompts/ky/amos/3/5-8.1791214210736.json",
     "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -78,9 +78,16 @@
     },
     {
       "surface": "הנביאים",
-      "gloss": "пайгамбарларга"
+      "gloss": "набийлерге"
     }
   ],
   "timestamp": "2026-10-05T15:30:10.737042248Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "пайгамбарларга": "набийлерге"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

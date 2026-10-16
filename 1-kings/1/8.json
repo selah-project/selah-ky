@@ -14,14 +14,14 @@
     {
       "kind": "measurement",
       "subject": "аттардын тизмеси",
-      "rationale": "Эвьатар\/Цадок бөлүнүшүн тизмелөө — сарайдын эки лагерин атап өтүү"
+      "rationale": "Эвьатар/Цадок бөлүнүшүн тизмелөө — сарайдын эки лагерин атап өтүү"
     }
   ],
-  "translation": "Ал эми Цадок кохен, Йехояданын уулу Бенайа, пайгамбар Натан, Шимей жана Рей, жана Давидтеги баатырлар Адонийа менен болгон жок.",
+  "translation": "Ал эми Цадок кохен, Йехояданын уулу Бенайа, набий Натан, Шимей жана Рей, жана Давидтеги баатырлар Адонийа менен болгон жок.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
     "user-sha256": "125f51d37982b445ba9b65e316efa7f3b9cace9beb9bf84d25d2aa20ad1723a0",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-kings\/1\/5-8.1791207935548.json",
+    "prompt-file": ".selah/sources/translations/prompts/ky/1-kings/1/5-8.1791207935548.json",
     "code": "641241cf-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "пайгамбар"
+      "gloss": "набий"
     },
     {
       "surface": "ושמעי",
@@ -94,5 +94,12 @@
     }
   ],
   "timestamp": "2026-10-05T13:45:35.549842669Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "пайгамбар": "набий"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

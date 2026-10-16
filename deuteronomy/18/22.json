@@ -17,11 +17,11 @@
       "rationale": "לא תגור — бул «андан четте кал» деген жакын маани, лексика «коркуу» деп берилди"
     }
   ],
-  "translation": "Пайгамбар Яхвенин ысымы менен сүйлөгөн сөзү болбосо жана аткарылбаса — бул Яхвенин сүйлөгөн эмес сөзү; пайгамбар аны текеберлүүлүк менен сүйлөгөн; андан коркпо.",
+  "translation": "Набий Яхвенин ысымы менен сүйлөгөн сөзү болбосо жана аткарылбаса — бул Яхвенин сүйлөгөн эмес сөзү; набий аны текеберлүүлүк менен сүйлөгөн; андан коркпо.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
     "user-sha256": "2cbf62c68367f8cd75fa413111d666e3bbe6dd9542c03acec4ea1b5ed457463d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/deuteronomy\/18\/21-22.1791205066435.json",
+    "prompt-file": ".selah/sources/translations/prompts/ky/deuteronomy/18/21-22.1791205066435.json",
     "code": "f71bac6e-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "пайгамбар"
+      "gloss": "набий"
     },
     {
       "surface": "בשם",
@@ -102,7 +102,7 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "пайгамбар"
+      "gloss": "набий"
     },
     {
       "surface": "לא",
@@ -118,5 +118,13 @@
     }
   ],
   "timestamp": "2026-10-05T12:57:46.436828454Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "Пайгамбар": "Набий",
+      "пайгамбар": "набий"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

@@ -17,11 +17,11 @@
       "rationale": "האזינу — «кулагын кеңейтүү»; кыргызча «кулак салуу» дагы эле образды сактайт"
     }
   ],
-  "translation": "Жана ⟨аларга⟩ пайгамбарларды жиберди, аларды Яхвеге кайтаруу үчүн; алар ⟨пайгамбарлар⟩ аларга күбөлүк кылышты, бирок алар кулак салышкан жок.",
+  "translation": "Жана ⟨аларга⟩ набийлерди жиберди, аларды Яхвеге кайтаруу үчүн; алар ⟨набийлер⟩ аларга күбөлүк кылышты, бирок алар кулак салышкан жок.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
     "user-sha256": "e5a76f2b82749c94eb134694161ca357e1c0bc5474cbdc5c001fda036d47fe69",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-chronicles\/24\/17-20.1791223170797.json",
+    "prompt-file": ".selah/sources/translations/prompts/ky/2-chronicles/24/17-20.1791223170797.json",
     "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "נבאים",
-      "gloss": "пайгамбарларды"
+      "gloss": "набийлерди"
     },
     {
       "surface": "להשיבם",
@@ -70,5 +70,13 @@
     }
   ],
   "timestamp": "2026-10-05T17:59:30.798560040Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "пайгамбарларды": "набийлерди",
+      "пайгамбарлар": "набийлер"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

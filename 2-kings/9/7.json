@@ -12,11 +12,11 @@
       "rationale": "«Менин кулдарым» дегенди кыргызча тактоо үчүн кошулду"
     }
   ],
-  "translation": "Жана сен ⟨את⟩ кожоюнуң Ахавдын үйүн чабасың, жана Мен өз кулдарым — пайгамбарлардын канын жана Яхвенин бардык кулдарынын канын Изебелдин колунан өчүп алам.",
+  "translation": "Жана сен ⟨את⟩ кожоюнуң Ахавдын үйүн чабасың, жана Мен өз кулдарым — набийлердин канын жана Яхвенин бардык кулдарынын канын Изебелдин колунан өчүп алам.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
     "user-sha256": "ef9fc95e6c92bbced58637f31d26d1e5e1d72c43b026fda6bb4c0af57517bfe7",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-kings\/9\/5-8.1791208804234.json",
+    "prompt-file": ".selah/sources/translations/prompts/ky/2-kings/9/5-8.1791208804234.json",
     "code": "2011bdaa-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "הנביאים",
-      "gloss": "пайгамбарлардын"
+      "gloss": "набийлердин"
     },
     {
       "surface": "ודמי",
@@ -86,5 +86,12 @@
     }
   ],
   "timestamp": "2026-10-05T14:00:04.235394187Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "пайгамбарлардын": "набийлердин"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

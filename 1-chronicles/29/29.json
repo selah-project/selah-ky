@@ -17,11 +17,11 @@
       "rationale": "הראה жана החזה — 'көрүүчү' (көрүнүш көргөн адам), кыргызча бир сөз менен берилди."
     }
   ],
-  "translation": "Жана падыша Давиддин иштери, алгачкылары да, акыркылары да — мына, алар Шемуэл көрүүчүнүн сөздөрүндө, Натан пайгамбардын сөздөрүндө жана Гад көрүүчүнүн сөздөрүндө жазылган.",
+  "translation": "Жана падыша Давиддин иштери, алгачкылары да, акыркылары да — мына, алар Шемуэл көрүүчүнүн сөздөрүндө, Натан набийдин сөздөрүндө жана Гад көрүүчүнүн сөздөрүндө жазылган.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
     "user-sha256": "5592f389db6bfa8865b62136cafdf3a80b9650326fe5fe00985c61ef424eca58",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-chronicles\/29\/29-30.1791222443058.json",
+    "prompt-file": ".selah/sources/translations/prompts/ky/1-chronicles/29/29-30.1791222443058.json",
     "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -86,7 +86,7 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "пайгамбардын"
+      "gloss": "набийдин"
     },
     {
       "surface": "ועל",
@@ -106,5 +106,12 @@
     }
   ],
   "timestamp": "2026-10-05T17:47:23.059506645Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "пайгамбардын": "набийдин"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

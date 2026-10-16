@@ -12,11 +12,11 @@
       "rationale": "Кейиптеги текстте жок — «пайгамбарлар» деген гана; окурман 1-Падышалар 18 ден билет"
     }
   ],
-  "translation": "Ахав Изабелге Элияхунун жасаганынын ⟨את⟩ баарысын жана өлтүргөнүнүн ⟨את⟩ баарысын — кылыч менен ⟨את⟩ пайгамбарлардын баарысын өлтүргөнүн — айтты.",
+  "translation": "Ахав Изабелге Элияхунун жасаганынын ⟨את⟩ баарысын жана өлтүргөнүнүн ⟨את⟩ баарысын — кылыч менен ⟨את⟩ набийлердин баарысын өлтүргөнүн — айтты.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
     "user-sha256": "ff60ce540c7eec4ff51cfc1258ed4c277a45583ce185b8a96852ffcc5426aac5",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-kings\/19\/1-4.1791208558034.json",
+    "prompt-file": ".selah/sources/translations/prompts/ky/1-kings/19/1-4.1791208558034.json",
     "code": "641241cf-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -84,7 +84,7 @@
     },
     {
       "surface": "הנביאים",
-      "gloss": "пайгамбарлардын"
+      "gloss": "набийлердин"
     },
     {
       "surface": "בחרב",
@@ -92,5 +92,12 @@
     }
   ],
   "timestamp": "2026-10-05T13:55:58.034683680Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "пайгамбарлардын": "набийлердин"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

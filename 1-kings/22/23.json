@@ -17,11 +17,11 @@
       "rationale": "'Яхве сен жөнүндө жамандык айтты' же 'сене каршы жамандык буйурду' — על предлоги эки жакка да түшүнүлөт"
     }
   ],
-  "translation": "Эми, кара, Яхве бул пайгамбарларыңдын баарынын оозуна жалган рух салды, жана Яхве сенин жөнүңө каршы жамандык айтты.",
+  "translation": "Эми, кара, Яхве бул набийлериңдин баарынын оозуна жалган рух салды, жана Яхве сенин жөнүңө каршы жамандык айтты.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
     "user-sha256": "e2f327823bf68f5ccf51c5ee885339f4404fd0ea69b2de88e2f1f681a343bc6f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-kings\/22\/21-24.1791208624481.json",
+    "prompt-file": ".selah/sources/translations/prompts/ky/1-kings/22/21-24.1791208624481.json",
     "code": "641241cf-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -62,7 +62,7 @@
     },
     {
       "surface": "נביאיך",
-      "gloss": "пайгамбарларыңдын"
+      "gloss": "набийлериңдин"
     },
     {
       "surface": "אלה",
@@ -86,5 +86,12 @@
     }
   ],
   "timestamp": "2026-10-05T13:57:04.482391201Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "пайгамбарларыңдын": "набийлериңдин"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

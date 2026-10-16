@@ -22,11 +22,11 @@
       "rationale": "«Мени кызганып жатасыңбы» же «менин пайдама кызганып» — кызгануу кимге багытталганы боюнча альтернатива"
     }
   ],
-  "translation": "Моше ага айтты: Мени кызганып жатасыңбы? Ах, Яхвенин бүт эли пайгамбарлар болсо, Яхве ⟨את⟩ Өз рухун алардын үстүнөн берсе!",
+  "translation": "Моше ага айтты: Мени кызганып жатасыңбы? Ах, Яхвенин бүт эли набийлер болсо, Яхве ⟨את⟩ Өз рухун алардын үстүнөн берсе!",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
     "user-sha256": "9c4aab5071c1383fed50a644053d555640637d1a95c290a5fe79654c5263fbe3",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/numbers\/11\/29-32.1791203917333.json",
+    "prompt-file": ".selah/sources/translations/prompts/ky/numbers/11/29-32.1791203917333.json",
     "code": "f71bac6e-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -79,7 +79,7 @@
     },
     {
       "surface": "נביאים",
-      "gloss": "пайгамбарлар"
+      "gloss": "набийлер"
     },
     {
       "surface": "כי",
@@ -108,5 +108,12 @@
     }
   ],
   "timestamp": "2026-10-05T12:38:37.334524437Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "пайгамбарлар": "набийлер"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

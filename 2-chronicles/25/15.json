@@ -9,7 +9,7 @@
     {
       "kind": "idiom",
       "subject": "каары күйөт",
-      "rationale": "ויחר אף букв. «мурун\/ачуусу кызды» — каардын күйүшү"
+      "rationale": "ויחר אף букв. «мурун/ачуусу кызды» — каардын күйүшү"
     },
     {
       "kind": "you",
@@ -17,11 +17,11 @@
       "rationale": "Түз кире берүү: «эмне үчүн... издедиң?»"
     }
   ],
-  "translation": "Жана Яхвенин каары Амцияга күйөт, ал ага пайгамбар жиберет, ал ага: «Эмне үчүн ⟨את⟩ өз элин өз колуңдан кубутпаган элдин кудайларын издедиң?» — дейт.",
+  "translation": "Жана Яхвенин каары Амцияга күйөт, ал ага набий жиберет, ал ага: «Эмне үчүн ⟨את⟩ өз элин өз колуңдан кубутпаган элдин кудайларын издедиң?» — дейт.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
     "user-sha256": "e21a8519484c2d80627950f837f744d4e04a57e9419c85af194d495dac4e1f87",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-chronicles\/25\/13-16.1791223256311.json",
+    "prompt-file": ".selah/sources/translations/prompts/ky/2-chronicles/25/13-16.1791223256311.json",
     "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "נביא",
-      "gloss": "пайгамбар"
+      "gloss": "набий"
     },
     {
       "surface": "ויאמר",
@@ -112,5 +112,12 @@
     }
   ],
   "timestamp": "2026-10-05T18:00:56.321469608Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "пайгамбар": "набий"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

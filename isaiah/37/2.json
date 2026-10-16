@@ -17,11 +17,11 @@
       "rationale": "Митинг蛋糕 participe נפעל לатынча мааниде тактоочу «-гандар» формасы менен берилди."
     }
   ],
-  "translation": "Жана ал ⟨את⟩ үйдүн башчысы Эльякимди, ⟨את⟩ жазуучу Шевнаны жана ⟨את⟩ ыйык кызмат кылуучулардын карыларын — кебиз кийимдерине оронуп тургандарды — пайгамбар Амоцтун уулу Йешаяуга жөнөттү.",
+  "translation": "Жана ал ⟨את⟩ үйдүн башчысы Эльякимди, ⟨את⟩ жазуучу Шевнаны жана ⟨את⟩ ыйык кызмат кылуучулардын карыларын — кебиз кийимдерине оронуп тургандарды — набий Амоцтун уулу Йешаяуга жөнөттү.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
     "user-sha256": "c277cb691ab7ccc37785eab5586daca52b1f82a68be47f2aca3ab0adcd8d9f12",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/isaiah\/37\/1-4.1791210097847.json",
+    "prompt-file": ".selah/sources/translations/prompts/ky/isaiah/37/1-4.1791210097847.json",
     "code": "2011bdaa-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -105,9 +105,16 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "пайгамбар"
+      "gloss": "набий"
     }
   ],
   "timestamp": "2026-10-05T14:21:37.847894422Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "пайгамбар": "набий"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

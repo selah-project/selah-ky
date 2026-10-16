@@ -9,14 +9,14 @@
     {
       "kind": "wordplay",
       "subject": "לרוח",
-      "rationale": "пайгамбарлар «рух» (шамал) болот — жалаң сөз, ичинде нерсе жок деген сын; рух\/шамал эки мааниси сакталды"
+      "rationale": "пайгамбарлар «рух» (шамал) болот — жалаң сөз, ичинде нерсе жок деген сын; рух/шамал эки мааниси сакталды"
     }
   ],
-  "translation": "Пайгамбарлар рухка айланышат, жана сөз аларда жок — аларга ушундай жасалат.",
+  "translation": "Набийлер рухка айланышат, жана сөз аларда жок — аларга ушундай жасалат.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
     "user-sha256": "2cd3d107cf5962f7ad97c2e8cef84760f614636e30b11229a8fa7e31b7b1d499",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/jeremiah\/5\/13-16.1791210795873.json",
+    "prompt-file": ".selah/sources/translations/prompts/ky/jeremiah/5/13-16.1791210795873.json",
     "code": "2011bdaa-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -25,7 +25,7 @@
   "tokens": [
     {
       "surface": "והנביאים",
-      "gloss": "пайгамбарлар"
+      "gloss": "набийлер"
     },
     {
       "surface": "יהיו",
@@ -61,5 +61,13 @@
     }
   ],
   "timestamp": "2026-10-05T14:33:15.874098612Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "Пайгамбарлар": "Набийлер",
+      "пайгамбарлар": "набийлер"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

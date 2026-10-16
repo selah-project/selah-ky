@@ -12,11 +12,11 @@
       "rationale": "Этиш жок номиналдык сүйлөм — «сандык ... астында» деүү менен этиш кошулган жок."
     }
   ],
-  "translation": "Давид өз үйүндө отурганда, Давид Натан пайгамбарга айтты: Каргы, мен кедр үйүндө отурам, ал эми Яхвенин келишим сандыгы чатыр жабууларынын астында.",
+  "translation": "Давид өз үйүндө отурганда, Давид Натан набийге айтты: Каргы, мен кедр үйүндө отурам, ал эми Яхвенин келишим сандыгы чатыр жабууларынын астында.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
     "user-sha256": "287722a0e1f603d0e56eb133e2a293d7a8f64ec5518a9387296a0bf4bd2643b5",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/1-chronicles\/17\/1-4.1791222251823.json",
+    "prompt-file": ".selah/sources/translations/prompts/ky/1-chronicles/17/1-4.1791222251823.json",
     "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "пайгамбар"
+      "gloss": "набий"
     },
     {
       "surface": "הנה",
@@ -105,5 +105,13 @@
     }
   ],
   "timestamp": "2026-10-05T17:44:11.824046679Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "пайгамбарга": "набийге",
+      "пайгамбар": "набий"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

@@ -17,11 +17,11 @@
       "rationale": "элдин чуусу Йирмейага түз кайрылуу: «Өлүүгө өлөсүң»"
     }
   ],
-  "translation": "Йирмейанын Яхве бүт элге айтууга буйруган ⟨את⟩ бүт нерселерди айтып бүтүшү менен, ыйык кызмат кылуучулар, пайгамбарлар жана бүт эл ⟨את⟩ аны кармашты да: «Өлүүгө өлөсүң» дешти.",
+  "translation": "Йирмейанын Яхве бүт элге айтууга буйруган ⟨את⟩ бүт нерселерди айтып бүтүшү менен, ыйык кызмат кылуучулар, набийлер жана бүт эл ⟨את⟩ аны кармашты да: «Өлүүгө өлөсүң» дешти.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
     "user-sha256": "1899e3346f2fce31185c979409cb4b8bc58539c792b5b1db7ba2294f4a950124",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/jeremiah\/26\/5-8.1791211306195.json",
+    "prompt-file": ".selah/sources/translations/prompts/ky/jeremiah/26/5-8.1791211306195.json",
     "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -96,7 +96,7 @@
     },
     {
       "surface": "והנבאים",
-      "gloss": "пайгамбарлар"
+      "gloss": "набийлер"
     },
     {
       "surface": "וכל",
@@ -120,5 +120,12 @@
     }
   ],
   "timestamp": "2026-10-05T14:41:46.196597084Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "пайгамбарлар": "набийлер"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

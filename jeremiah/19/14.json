@@ -12,11 +12,11 @@
       "rationale": "שלחו объектиси (Ирмияу) кыргызда так болушу үчүн кошулду"
     }
   ],
-  "translation": "Ирмияу Тофеттен келди, аны Яхве ⟨аны⟩ пайгамбарчылык кылсын деп жиберген жер, жана Яхвенин үйүнүн короосунда турду жана бүт элге айтты:",
+  "translation": "Ирмияу Тофеттен келди, аны Яхве ⟨аны⟩ набийчилик кылсын деп жиберген жер, жана Яхвенин үйүнүн короосунда турду жана бүт элге айтты:",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
     "user-sha256": "83d122923bb304b82ff50160792c5f080c6c3f5252502ef2b310deca85cbc442",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/jeremiah\/19\/13-15.1791211150487.json",
+    "prompt-file": ".selah/sources/translations/prompts/ky/jeremiah/19/13-15.1791211150487.json",
     "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "להנבא",
-      "gloss": "пайгамбарчылык кылсын деп"
+      "gloss": "набийчилик кылсын деп"
     },
     {
       "surface": "ויעמד",
@@ -89,5 +89,12 @@
     }
   ],
   "timestamp": "2026-10-05T14:39:10.488481714Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "пайгамбарчылык": "набийчилик"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

@@ -12,11 +12,11 @@
       "rationale": "Михайхунун падышага түз сөзү"
     }
   ],
-  "translation": "Жана азыр, карачы, Яхве ушул пайгамбарларыңдын оозуна жалган рух койгон, жана Яхве сен жөнүндө жамандык сүйлөгөн.",
+  "translation": "Жана азыр, карачы, Яхве ушул набийлериңдин оозуна жалган рух койгон, жана Яхве сен жөнүндө жамандык сүйлөгөн.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
     "user-sha256": "fae8c2c7076a31189d2533d0f2f1f735342ae7467796b68617a00dae8fa13fbe",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-chronicles\/18\/21-24.1791222935087.json",
+    "prompt-file": ".selah/sources/translations/prompts/ky/2-chronicles/18/21-24.1791222935087.json",
     "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "נביאיך",
-      "gloss": "пайгамбарларыңдын"
+      "gloss": "набийлериңдин"
     },
     {
       "surface": "אלה",
@@ -77,5 +77,12 @@
     }
   ],
   "timestamp": "2026-10-05T17:55:35.088771937Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "пайгамбарларыңдын": "набийлериңдин"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

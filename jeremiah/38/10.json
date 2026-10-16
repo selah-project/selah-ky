@@ -12,11 +12,11 @@
       "rationale": "Буйрукта так сан берилет: отуз адам."
     }
   ],
-  "translation": "Падыша кушит Эвед-Мелекге буйрук берип мынтып айтты: Өз колуңа бул жерден отуз адам алып, пайгамбар Ярмияхуну өлөөрүнөн мурун кудуктан чыгарып ал.",
+  "translation": "Падыша кушит Эвед-Мелекге буйрук берип мынтып айтты: Өз колуңа бул жерден отуз адам алып, набий Ярмияхуну өлөөрүнөн мурун кудуктан чыгарып ал.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
     "user-sha256": "c545f77ebf24acfa78c9dad2f778b8e2c4d75c3a7dd36f4b856e18f31174f039",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/jeremiah\/38\/9-12.1791211645455.json",
+    "prompt-file": ".selah/sources/translations/prompts/ky/jeremiah/38/9-12.1791211645455.json",
     "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -87,7 +87,7 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "пайгамбар"
+      "gloss": "набий"
     },
     {
       "surface": "מן",
@@ -107,5 +107,12 @@
     }
   ],
   "timestamp": "2026-10-05T14:47:25.456940817Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "пайгамбар": "набий"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

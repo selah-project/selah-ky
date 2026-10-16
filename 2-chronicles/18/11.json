@@ -12,11 +12,11 @@
       "rationale": "еврейче тексте түз толуктооч жок — 'Яхве падышанын колуна берет'; кыргызча нерсе талап кылат"
     }
   ],
-  "translation": "Жана бардык пайгамбарлар ошондой пайгамбарлык кылып айтышты: Рамот Гиладка чык, ийгилик тап, Яхве ⟨аны⟩ падышанын колуна берет.",
+  "translation": "Жана бардык набийлер ошондой набийлик кылып айтышты: Рамот Гиладка чык, ийгилик тап, Яхве ⟨аны⟩ падышанын колуна берет.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
     "user-sha256": "412a75a623094f2c4e21fae9ea8c85a2a17097f4fd905a716ec267ad1d784673",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-chronicles\/18\/9-12.1791222969934.json",
+    "prompt-file": ".selah/sources/translations/prompts/ky/2-chronicles/18/9-12.1791222969934.json",
     "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "הנבאים",
-      "gloss": "пайгамбарлар"
+      "gloss": "набийлер"
     },
     {
       "surface": "נבאים",
-      "gloss": "пайгамбарлык кылышты"
+      "gloss": "набийлик кылышты"
     },
     {
       "surface": "כן",
@@ -77,5 +77,13 @@
     }
   ],
   "timestamp": "2026-10-05T17:56:09.936114731Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "пайгамбарлар": "набийлер",
+      "пайгамбарлык": "набийлик"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

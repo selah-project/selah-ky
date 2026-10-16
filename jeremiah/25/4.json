@@ -22,11 +22,11 @@
       "rationale": "Жалган сүйлөм элге түз кайрылууда уланат: \"силер укпадыңар\"."
     }
   ],
-  "translation": "Жана Яхве силерге ⟨את⟩ бүт кулдарын — пайгамбарларын — эрте туруп жиберди, кайра-кайра жиберди, бирок силер укпадыңар жана угуу үчүн ⟨את⟩ кулагыңарды тиктеген жоксуз.",
+  "translation": "Жана Яхве силерге ⟨את⟩ бүт кулдарын — набийлерин — эрте туруп жиберди, кайра-кайра жиберди, бирок силер укпадыңар жана угуу үчүн ⟨את⟩ кулагыңарды тиктеген жоксуз.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
     "user-sha256": "ef0b438427d48d1b731d5f63ed8bedc4b97f0cdc64287cf38dbc35063f527fe5",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/jeremiah\/25\/1-4.1791211321633.json",
+    "prompt-file": ".selah/sources/translations/prompts/ky/jeremiah/25/1-4.1791211321633.json",
     "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -60,7 +60,7 @@
     },
     {
       "surface": "הנבאים",
-      "gloss": "пайгамбарлар"
+      "gloss": "набийлер"
     },
     {
       "surface": "השכם",
@@ -101,5 +101,13 @@
     }
   ],
   "timestamp": "2026-10-05T14:42:01.634781492Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "пайгамбарларын": "набийлерин",
+      "пайгамбарлар": "набийлер"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

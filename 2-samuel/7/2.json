@@ -13,15 +13,15 @@
     },
     {
       "kind": "wordplay",
-      "subject": "ישב\/יושב",
+      "subject": "ישב/יושב",
       "rationale": "«Отурам … отурат» — Давид менен сандык бир этиш менен салыштырылат, кыргызча да сакталды."
     }
   ],
-  "translation": "падыша пайгамбар Натанга айтты: Карачы, мен кедрлердин үйүндө отурам, ал эми Элохимдин сандыгы чийменин ичинде отурат.",
+  "translation": "падыша набий Натанга айтты: Карачы, мен кедрлердин үйүндө отурам, ал эми Элохимдин сандыгы чийменин ичинде отурат.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
     "user-sha256": "31ccea80d0379e85173d7e2cb2180ba9f273e35533fd66c1cca8a7693c8cbbf7",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/2-samuel\/7\/1-4.1791207477450.json",
+    "prompt-file": ".selah/sources/translations/prompts/ky/2-samuel/7/1-4.1791207477450.json",
     "code": "da1b46b6-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "пайгамбар"
+      "gloss": "набий"
     },
     {
       "surface": "ראה",
@@ -94,5 +94,12 @@
     }
   ],
   "timestamp": "2026-10-05T13:37:57.451762943Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "пайгамбар": "набий"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

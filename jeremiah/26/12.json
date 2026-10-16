@@ -12,11 +12,11 @@
       "rationale": "Ярмийанын жообу түз кайрылуу «силер уккан» менен берилген"
     }
   ],
-  "translation": "Жана Ярмийа бүт төрөлөргө жана бүт элге мындай деди: Яхве мени бул үйгө жана бул шаарга карата силер уккан бүт сөздөрдү айтуу үчүн пайгамбарлык кылууга жиберди.",
+  "translation": "Жана Ярмийа бүт төрөлөргө жана бүт элге мындай деди: Яхве мени бул үйгө жана бул шаарга карата силер уккан бүт сөздөрдү айтуу үчүн набийлик кылууга жиберди.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
     "user-sha256": "b5d783565c73a008fcc4f7706d8b3fb6529a60c3d0cd5fa266279d3f7a0d97e0",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/jeremiah\/26\/9-12.1791211309894.json",
+    "prompt-file": ".selah/sources/translations/prompts/ky/jeremiah/26/9-12.1791211309894.json",
     "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -69,7 +69,7 @@
     },
     {
       "surface": "להנבא",
-      "gloss": "пайгамбарлык кылууга"
+      "gloss": "набийлик кылууга"
     },
     {
       "surface": "אל",
@@ -118,5 +118,12 @@
     }
   ],
   "timestamp": "2026-10-05T14:41:49.896548777Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "пайгамбарлык": "набийлик"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

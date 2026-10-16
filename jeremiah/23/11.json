@@ -17,11 +17,11 @@
       "rationale": "חנפו — «чытылды, оой бузулду»; кыргызча «эки жүздүү болду» деп да берилет"
     }
   ],
-  "translation": "Анткени пайгамбар да, ышкыч да бузулду; тагыраагы, үйүмдө алардын жамандыгын таптым — Яхвенин сөзү.",
+  "translation": "Анткени набий да, ышкыч да бузулду; тагыраагы, үйүмдө алардын жамандыгын таптым — Яхвенин сөзү.",
   "provenance": {
     "system-sha256": "fbf6de736a8963a3b4845aaa9e5fcf5ba879dd7c5ef113b0f59b9f1d3996bddf",
     "user-sha256": "5baecef3a4577431dff609f2b59f58d1e61d01b99b0d57699f0237daaeda1d12",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/ky\/jeremiah\/23\/9-12.1791211270946.json",
+    "prompt-file": ".selah/sources/translations/prompts/ky/jeremiah/23/9-12.1791211270946.json",
     "code": "d2ea2f22-dirty",
     "model": "glm-5.3",
     "tier": "glm-5.2",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "נביא",
-      "gloss": "пайгамбар"
+      "gloss": "набий"
     },
     {
       "surface": "גם",
@@ -78,5 +78,12 @@
     }
   ],
   "timestamp": "2026-10-05T14:41:10.947760311Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "пайгамбар": "набий"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }
